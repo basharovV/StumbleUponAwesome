@@ -1,7 +1,7 @@
 {
-    "name": "SumbleUpon Revived",
+    "name": "StumbleUponAwesome",
     "version": "1.0",
-    "description": "StumbleUpon is dead, long live StumbleUpon. An extension for re-discovering the internet in the new decade.",
+    "description": "A button that takes you to a random site from one of the awesome curated lists on GitHub. Like good ol' StumbleUpon, for developers.",
     "background": {
         "scripts": ["background.js"],
         "persistent": false
@@ -20,6 +20,16 @@
       "32": "images/icon_32.png",
       "48": "images/icon_48.png",
       "128": "images/icon_128.png"
+    },
+    "commands": {
+      "_execute_browser_action": {
+        "suggested_key": {
+          "windows": "Alt+Shift+S",
+          "mac": "Alt+Shift+S",
+          "chromeos": "Alt+Shift+S",
+          "linux": "Alt+Shift+S"
+        }
+      }
     },
     "manifest_version": 2
   }

@@ -3,7 +3,7 @@
 /**
  * Keep track of the StumbleRevived tab
  */
-var stumbleTabId;
+var stumbleTabId = null;
 
 /**
  * Find a random URL from the file and load it
@@ -26,24 +26,23 @@ function loadUrl() {
         randomLine = split[randomNum]
         console.log("Random Line\n" + randomLine)
       }
-    }
+      // Switch to exiting tab 
+      if (stumbleTabId !== null) {
+        chrome.tabs.update(stumbleTabId, {
+          url: randomLine,
+          active: true
+        }, function (tab) {
 
-    // Switch to exiting tab 
-    if (stumbleTabId) {
-      chrome.tabs.update(stumbleTabId, {
-        url: randomLine,
-        active: true
-      }, function (tab) {
-
-      })
-    }
-    // or Open New tab
-    else {
-      chrome.tabs.create({
-        url: randomLine,
-      }, function (tab) {
-        stumbleTabId = tab.id
-      })
+        })
+      }
+      // or Open New tab
+      else {
+        chrome.tabs.create({
+          url: randomLine,
+        }, function (tab) {
+          stumbleTabId = tab.id
+        })
+      }
     }
   }
 
