@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png"/>
+  <img src="header.jpg"/>
 </p>
 
 __[StumbleUponAwesome](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)__ 
