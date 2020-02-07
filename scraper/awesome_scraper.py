@@ -2,23 +2,26 @@ import scrapy
 from scrapy.linkextractors import LinkExtractor
 import re
 import os
+import urllib
 
 pages_count = 0
 urls_count = 0
 
 awesome_readmes = []
+all_urls = {}
+invalid_urls_count = 0
 
-# Only write URLs 
 class BlogSpider(scrapy.Spider):
     name = 'blogspider'
     start_urls = ['https://github.com/sindresorhus/awesome']
     print("Scraping...")
+
     def parse(self, response):
         if os.path.exists("categories.txt"):
             os.remove("categories.txt")
-        if os.path.exists("urls2.txt"):
-            os.remove("urls2.txt")
-        
+        if os.path.exists("urls.txt"):
+            os.remove("urls.txt")
+
         global pages_count, urls_count
 
         # Set up the link extractor
@@ -36,11 +39,11 @@ class BlogSpider(scrapy.Spider):
                 if (re.match(r'(.*readme$)', link.url)):
                     urls_file.write("\n" + str(link.url))
                     awesome_readmes.append(link.url)
-                    pages_count+=1
-                    yield scrapy.Request(link.url, callback = self.parse_readme_contents)
+                    pages_count += 1
+                    yield scrapy.Request(link.url, callback=self.parse_readme_contents)
 
             print("Done. Number of links:" + str(len(links)))
-            
+
     def parse_readme_contents(self, response):
         global pages_count, urls_count
 
@@ -49,37 +52,49 @@ class BlogSpider(scrapy.Spider):
             "github",
             "patreon",
             "coinbin"
-            "saythanks"
+            "saythanks",
+            "https://travis-ci.org/"
         ]
 
         extractor = LinkExtractor(
             deny=[],
             deny_domains=[
-            "twitter.com",
-             "github.com",
-             "githubusercontent.com"
+                "twitter.com",
+                "github.com",
+                "githubusercontent.com",
+                "coinbin.org",
+                "patreon.com"
             ],
             restrict_xpaths=["//article"],
             restrict_css=[],
             unique=True
         )
 
-        with open("urls2.txt", "a") as urls2_file:
-            # urls2_file.write("\nPAGE:" + response.css('title::text').get() + "|" + response.url)
+        with open("urls.txt", "a") as urls_file:
+            # urls_file.write("\nPAGE:" + response.css('title::text').get() + "|" + response.url)
 
             links = extractor.extract_links(response)
             for link in links:
-                
-                # Was thinking to only have base paths and media links, but maybe there's some gems that would be missed out.
-                # Don't want to filter too much just yet...
-
-                # is_link_base_domain = re.match(r'^(https:\/\/)([^\/]+$)') # Match only the domain, no path
-                # is_link_media = 
-
+                # Avoid internal hashlinks
                 if (filter(lambda site_name: site_name in link.url, exclude_sites) and '#' not in link.url):
-                    urls2_file.write("\n" + str(link.url))
-                    urls_count+=1
+                    url = link.url
+                    try:
+                        urllib.request.urlopen(url)
+                    except urllib.error.HTTPError as e:
+                        # Return code error (e.g. 404, 501, ...)
+                        print('HTTPError: {}'.format(e.code))
+                        invalid_urls_count += 1
+                    except urllib.error.URLError as e:
+                        # Not an HTTP-specific error (e.g. connection refused)
+                        print('URLError: {}'.format(e.reason))
+                        invalid_urls_count += 1
+                    else:
+                        # Add if not duplicate
+                        if (link.url not in all_urls):
+                                all_urls[link.url] = 1
+                                urls_file.write("\n" + str(url))
+                                urls_count += 1
 
     def closed(self, reason):
-        self.logger.debug("Done processing awesome pages\nParsed %s urls from %s pages", urls_count, pages_count)
-
+        self.logger.debug(
+            "Done processing awesome pages\nParsed %s urls from %s pages", urls_count, pages_count)
