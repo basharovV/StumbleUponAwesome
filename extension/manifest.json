@@ -1,6 +1,6 @@
 {
     "name": "StumbleUponAwesome",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A button that takes you to a random site from one of the awesome curated lists on GitHub. Like good ol' StumbleUpon, for developers.",
     "background": {
         "scripts": ["background.js"],
