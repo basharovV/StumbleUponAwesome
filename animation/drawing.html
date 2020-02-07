@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <script type="text/javascript" src="https://unpkg.com/canvg@3.0.4/lib/umd.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/snap.svg/0.3.0/snap.svg.js"></script>
+    <script type="text/javascript">
+        function sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
+        async function animateIcon() {
+            const size = 312;
+            var canvas = document.createElement('canvas')
+            canvas.setAttribute('id', 'canvas')
+            canvas.width = size
+            canvas.height = size
+            canvas.style.position = 'absolute'
+            canvas.style.top = '0'
+            canvas.style.left = '0'
+
+            var context = canvas.getContext('2d');
+            var lines = 8;
+
+            var boxWidth = size;
+            var boxHeight = size;
+
+            var iconWidth = boxWidth * 0.5;
+            var iconHeight = boxHeight * 0.85;
+            var iconHalfHeight = iconHeight / 2;
+            var iconHalfWidth = iconWidth / 2;
+
+            context.beginPath();
+            context.fillStyle = "red";
+            context.strokeRect(0, 0, boxWidth, boxHeight);
+            context.strokeStyle = "green"
+            context.strokeRect((boxWidth - iconWidth) / 2, (boxHeight - iconHeight) / 2, iconWidth, iconHeight);
+            context.translate(((boxWidth - iconWidth) / 2), (boxHeight - iconHeight) / 2)
+
+            for (var i = 0; i < lines; i++) {
+                await sleep(100);
+                context.clearRect(0, 0, boxWidth, boxHeight);
+                // Within icon bounds now
+                switch (i) {
+                    case 0:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        break;
+                    case 1:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        break;
+                    case 2:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        context.lineTo(0, iconHalfHeight);
+                        break;
+                    case 3:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        context.lineTo(0, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        break;
+                    case 4:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        context.lineTo(0, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        context.lineTo(0, iconHeight);
+                        break;
+                    case 5:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        context.lineTo(0, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        context.lineTo(0, iconHeight);
+                        context.lineTo(iconWidth, iconHalfHeight);
+                        break;
+                    case 6:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        context.lineTo(0, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        context.lineTo(0, iconHeight);
+                        context.lineTo(iconWidth, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        break;
+                    case 7:
+                        context.beginPath();
+                        context.moveTo(iconWidth, 0);
+                        context.moveTo(iconWidth, 0);
+                        context.lineTo(0, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        context.lineTo(0, iconHeight);
+                        context.lineTo(iconWidth, iconHalfHeight);
+                        context.lineTo(iconHalfWidth, iconHalfHeight);
+                        context.closePath()
+                        break;
+                }
+                context.lineWidth = 2;
+                context.strokeStyle = 'rgba(0, 0, 0,' + i / lines + ')';
+                context.stroke();
+
+                if (document.body.contains(canvas)) {
+                    document.body.removeChild(canvas);
+                }
+                document.body.appendChild(canvas);
+            }
+        }
+
+    </script>
+</head>
+
+<body>
+    <button onclick="animateIcon();">go</button>
+
+    <svg style="border: solid black 2px" id="icon" width="176" height="296" viewBox="0 0 176 296" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M82.3576 154.041H0L167.314 7.6026L82.3576 154.041H176L0 296L82.3576 154.041Z" fill="#E7B2B2" />
+    </svg>
+
+    <!-- <canvas id="canvas" width="128" height="128"></canvas> -->
+
+</body>
+
+</html>
