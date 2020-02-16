@@ -1,14 +1,14 @@
 {
   "name": "StumbleUponAwesome",
   "version": "1.0.3",
-  "description": "A button that takes you to a new awesome site every time. Click and re-discover the internet.",
+  "description": "An awesome internet discovery button. Like StumbleUpon, but for developers, tech and science lovers.",
   "background": {
     "scripts": [
       "background.js"
     ],
     "persistent": false
   },  
-  "web_accessible_resources": ["images/icon_16.png"],
+  "web_accessible_resources": ["images/icon_16.png", "images/icon_32.png", "images/icon_128.png"],
   "content_scripts": [
     {
       "matches": [

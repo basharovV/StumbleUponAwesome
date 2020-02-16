@@ -5,6 +5,11 @@
  */
 var stumbleTabId = null;
 var totalUrls = 0; // to be counted on first run
+var os = 'mac'; // mac", "win", "android", "cros", "linux"
+
+chrome.runtime.getPlatformInfo(function (info) {
+  os = info.os;
+})
 
 /**
  * Find a random URL from the file and load it
@@ -165,7 +170,6 @@ async function animateIcon() {
     chrome.browserAction.setIcon({
       imageData: imageData
     });
-
   }
 
   await sleep(200);
@@ -188,34 +192,53 @@ function resetIcon() {
 
 }
 
-function updateCounter() {
-  chrome.storage.local.get(['visited', 'totalUrls'], function (result) {
-    console.log('Visited is' + result.visited);
-    const count = result.visited === undefined ? 0 : parseInt(result.visited)
-    const incremented = count + 1;
-    // Set new value
-    chrome.storage.local.set({'visited': incremented, 'totalUrls': totalUrls}, function () {
-      console.log('Visited is now set to ' + incremented);
-      notifyTab(incremented, totalUrls);
-    });
+function update() {
+  chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
+    
+    if (result.welcome_seen === undefined || result.welcome_seen === false || result.welcome_seen === null) {
+      console.log('Setting welcome');
+        chrome.tabs.executeScript({
+          file: 'styles.css'
+        }, function () {
+          chrome.tabs.executeScript({
+            file: 'content.js'
+          }, function () {
+            notifyTabWelcome();
+          });
+        });
+    } else {
+      console.log('Visited is' + result.visited);
+      const count = result.visited === undefined ? 0 : parseInt(result.visited)
+      const incremented = count + 1;
+      // Set new value
+      chrome.storage.local.set({ 'visited': incremented, 'totalUrls': totalUrls }, function () {
+        console.log('Visited is now set to ' + incremented);
+        notifyTabStumble(incremented, totalUrls);
+      });
+    }
   });
 }
 
-chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
+chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
   // make sure the status is 'complete' and it's the right tab
   if (tabId === stumbleTabId && changeInfo.status === 'complete') {
-    updateCounter();
+    update();
   }
 });
 
-function notifyTab(visited, totalUrls) {
-  // Send a message to the active tab
+function notifyTabStumble(visited, totalUrls) {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
-    chrome.tabs.sendMessage(activeTab.id, { "message": "browser_action", 'visited': visited, 'totalUrls': totalUrls });
+    chrome.tabs.sendMessage(activeTab.id, { "message": "stumble", 'visited': visited, 'totalUrls': totalUrls });
   });
 }
 
+function notifyTabWelcome() {
+  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+    var activeTab = tabs[0];
+    chrome.tabs.sendMessage(activeTab.id, { "message": "welcome", "os": os });
+  });
+}
 
 // Load a page on click
 chrome.browserAction.onClicked.addListener(
@@ -231,3 +254,8 @@ chrome.tabs.onRemoved.addListener(function (tabId, removeInfo) {
     stumbleTabId = null;
   }
 })
+
+
+chrome.runtime.onInstalled.addListener(function () {
+  chrome.storage.local.remove(['visited', 'welcome_seen', 'totalUrls'])
+});
