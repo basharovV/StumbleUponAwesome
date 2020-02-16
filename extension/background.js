@@ -194,18 +194,18 @@ function resetIcon() {
 
 function update() {
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
-    
+
     if (result.welcome_seen === undefined || result.welcome_seen === false || result.welcome_seen === null) {
       console.log('Setting welcome');
+      chrome.tabs.executeScript({
+        file: 'styles.css'
+      }, function () {
         chrome.tabs.executeScript({
-          file: 'styles.css'
+          file: 'content.js'
         }, function () {
-          chrome.tabs.executeScript({
-            file: 'content.js'
-          }, function () {
-            notifyTabWelcome();
-          });
+          notifyTabWelcome();
         });
+      });
     } else {
       console.log('Visited is' + result.visited);
       const count = result.visited === undefined ? 0 : parseInt(result.visited)
@@ -257,5 +257,27 @@ chrome.tabs.onRemoved.addListener(function (tabId, removeInfo) {
 
 
 chrome.runtime.onInstalled.addListener(function () {
-  chrome.storage.local.remove(['visited', 'welcome_seen', 'totalUrls'])
+  // For development purposes only, uncomment when needed
+  // chrome.storage.local.remove(['visited', 'welcome_seen', 'totalUrls'])
+
+  chrome.contextMenus.removeAll(function () {
+    chrome.contextMenus.create({
+      id: "stumbleuponawesome",
+      title: 'Give feedback to improve the extension',
+      contexts: ["browser_action"]
+    });
+  })
+});
+
+/*
+Context menu
+*/
+chrome.contextMenus.onClicked.addListener(function (event) {
+  if (event.menuItemId === "stumbleuponawesome") {
+
+    chrome.tabs.create({
+      url: 'mailto:stumbleuponawesome@gmail.com?subject=Feedback on StumbleUponAwesome&body=Tell me! :)',
+    }, function (tab) {
+    })
+  }
 });
