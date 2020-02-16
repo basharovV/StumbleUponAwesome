@@ -66,6 +66,7 @@ Welcome popup
 
 #sax-welcome-text-opensource-link:hover {
     opacity: 0.8;
+    background: none;
 }
 
 #sax-welcome-text-body {
@@ -101,6 +102,7 @@ Welcome popup
 
 #sax-welcome-text-body-feedback-link:hover {
     opacity: 0.8;
+    background: none;
 }
 
 #sax-welcome-close  {
@@ -119,18 +121,17 @@ Welcome popup
 #sax-welcome-close:hover {
     opacity: 0.8;
     transition: opacity 0.2s ease-in-out;
+    background: none;
 }
 
 .sax-show {
-    transition: opacity 400ms ease-in-out;
-    visibility: visible;
     opacity: 1;
+    transition: opacity 400ms ease-in-out;
 }
 
 .sax-hide {
-    transition: opacity 400ms, visibility 0s 1s ease-in-out;
+    transition: opacity 400ms ease-in-out;
     opacity: 0;
-    visibility: hidden;
 }
 
 .sax-progress {
@@ -174,7 +175,7 @@ Welcome popup
     right: 2em;
     width: auto;
     border-radius: 2em;
-    z-index: 99999999999999999999999 !important;
+    z-index: 99999999999999999999999 !important; /* I know, I'm sorry... */
     padding: 0.3em 1.5em 0.5em 1.5em;
     color: white;
     background-color: black;
@@ -184,7 +185,7 @@ Welcome popup
     text-align: center;
     box-shadow: 3px 3px 60px rgb(89, 89, 89);
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
 }
 
 .sax-info-box-top {

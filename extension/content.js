@@ -1,7 +1,7 @@
 function showStumbleInfo(request) {
 
     var div = document.createElement("div");
-    div.className = 'sax-info-box';
+    div.classList = ['sax-info-box'];
 
     // Create elements here
     var top = document.createElement('div');
@@ -28,19 +28,19 @@ function showStumbleInfo(request) {
     progressInner.style.width = `${(request.visited / request.totalUrls) * 100}%`;
     progress.append(progressOuter, progressInner);
 
+    div.classList.add('sax-hide')
     div.appendChild(top);
     // div.appendChild(progress);
-
     setTimeout(() => {
-        div.classList.add('sax-show')
+        div.classList.add('sax-show');
         div.classList.remove('sax-hide');
-        clearTimeout();
+
+        // clearTimeout();
         setTimeout(() => {
             div.classList.add('sax-hide')
             div.classList.remove('sax-show');
-        }, 2000);
-
-    }, 500);
+        }, 2500);
+    }, 100)
 
     document.body.prepend(div);
 
