@@ -1,35 +1,53 @@
 {
-    "name": "StumbleUponAwesome",
-    "version": "1.0.3",
-    "description": "A button that takes you to a random site from one of the awesome curated lists on GitHub. Like good ol' StumbleUpon, for developers.",
-    "background": {
-        "scripts": ["background.js"],
-        "persistent": false
-      },
-    "permissions": ["storage"],
-    "browser_action": {
-      "default_icon": {
-        "16": "images/icon_16.png",
-        "32": "images/icon_32.png",
-        "48": "images/icon_48.png",
-        "128": "images/icon_128.png"
-      }    
-    },
-    "icons": {
+  "name": "StumbleUponAwesome",
+  "version": "1.0.3",
+  "description": "A button that takes you to a new awesome site every time. Click and re-discover the internet.",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },  
+  "web_accessible_resources": ["images/icon_16.png"],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "css": ["styles.css"],
+      "run_at": "document_idle",
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": {
       "16": "images/icon_16.png",
       "32": "images/icon_32.png",
       "48": "images/icon_48.png",
       "128": "images/icon_128.png"
-    },
-    "commands": {
-      "_execute_browser_action": {
-        "suggested_key": {
-          "windows": "Alt+Shift+S",
-          "mac": "Alt+Shift+S",
-          "chromeos": "Alt+Shift+S",
-          "linux": "Alt+Shift+S"
-        }
+    }
+  },
+  "icons": {
+    "16": "images/icon_16.png",
+    "32": "images/icon_32.png",
+    "48": "images/icon_48.png",
+    "128": "images/icon_128.png"
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "windows": "Alt+Shift+S",
+        "mac": "Alt+Shift+S",
+        "chromeos": "Alt+Shift+S",
+        "linux": "Alt+Shift+S"
       }
-    },
-    "manifest_version": 2
-  }
+    }
+  },
+  "manifest_version": 2
+}

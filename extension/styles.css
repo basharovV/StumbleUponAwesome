@@ -1,0 +1,76 @@
+.sax-show {
+    transition: opacity 400ms ease-in-out;
+    visibility: visible;
+    opacity: 1;
+}
+
+.sax-hide {
+    transition: opacity 400ms, visibility 0s 1s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.sax-progress {
+    height: 4px;
+    display: block;
+    margin-top: 4px;
+    width: 100%;
+    position: relative;
+}
+
+.sax-progress-outer {
+    position: absolute;
+    display: block;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(153, 216, 159);
+    border-radius: 4px;
+}
+
+.sax-progress-inner {
+    position: absolute;
+    display: block;
+    height: 100%;
+    background-color: rgb(38, 184, 72);
+    border-radius: 4px;
+    transition: width 500ms ease-in-out;
+}
+
+.sax-info-box-icon {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-right: 1em;
+    display: inline-block;
+}
+
+.sax-info-box {
+    position: absolute;
+    top: 2em;
+    right: 2em;
+    width: auto;
+    border-radius: 2em;
+    z-index: 99999999999999999999999 !important;
+    padding: 0.5em 1em;
+    color: white;
+    background-color: black;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+}
+
+.sax-label {
+    display: inline-block;
+}
+
+.sax-label-secondary {
+    font-size: 1em;
+    color: #bababa;
+}
+
+.sax-label-primary {
+    font-size: 1em;
+    font-weight: bold;
+    color: #FFFFFF;
+}

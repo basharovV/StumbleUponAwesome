@@ -4,6 +4,7 @@
  * Keep track of the StumbleUponAwesome tab
  */
 var stumbleTabId = null;
+var totalUrls = 0; // to be counted on first run
 
 /**
  * Find a random URL from the file and load it
@@ -21,7 +22,8 @@ function loadUrl() {
     if (rawFile.readyState === 4) {
       if (rawFile.status === 200) {
         var allText = rawFile.responseText;
-        var split = allText.split('\n')
+        var split = allText.split('\n');
+        totalUrls = split.length;
         var randomNum = Math.floor(Math.random() * split.length);
         randomLine = split[randomNum]
         console.log("Random Line\n" + randomLine)
@@ -32,7 +34,6 @@ function loadUrl() {
           url: randomLine,
           active: true
         }, function (tab) {
-
         })
       }
       // or Open New tab
@@ -178,19 +179,48 @@ async function animateIcon() {
 
   await sleep(400);
   chrome.browserAction.setIcon({
-    imageData: null, 
+    imageData: null,
     path: "./images/icon_16.png"
   });
 }
 
 function resetIcon() {
-  
+
 }
+
+function updateCounter() {
+  chrome.storage.local.get(['visited', 'totalUrls'], function (result) {
+    console.log('Visited is' + result.visited);
+    const count = result.visited === undefined ? 0 : parseInt(result.visited)
+    const incremented = count + 1;
+    // Set new value
+    chrome.storage.local.set({'visited': incremented, 'totalUrls': totalUrls}, function () {
+      console.log('Visited is now set to ' + incremented);
+      notifyTab(incremented, totalUrls);
+    });
+  });
+}
+
+chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
+  // make sure the status is 'complete' and it's the right tab
+  if (tabId === stumbleTabId && changeInfo.status === 'complete') {
+    updateCounter();
+  }
+});
+
+function notifyTab(visited, totalUrls) {
+  // Send a message to the active tab
+  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+    var activeTab = tabs[0];
+    chrome.tabs.sendMessage(activeTab.id, { "message": "browser_action", 'visited': visited, 'totalUrls': totalUrls });
+  });
+}
+
 
 // Load a page on click
 chrome.browserAction.onClicked.addListener(
   function (tab) {
-    loadUrl()
+    loadUrl();
     animateIcon();
   }
 );
