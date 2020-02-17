@@ -1,10 +1,11 @@
+# <img src="extension/images/icon_128.png" width="45" align="left"> StumbleUponAwesome
+An *awesome* internet discovery button, for developers, tech and science lovers. 
+
 <p align="center">
-  <img style="width: 100%;padding:0;margin:0;" src="header.jpg"/>
+  <img style="width: 100%;padding:0;margin:0;" src="header.gif"/>
 </p>
 
-__[StumbleUponAwesome](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)__ 
-
-A Chrome/Brave extension that takes you to a random site from one of the [awesome curated lists](https://github.com/sindresorhus/awesome). Like good ol' StumbleUpon (which is now dead). 
+> A Chrome/Brave extension that takes you to a random site from one of the [awesome curated lists](https://github.com/sindresorhus/awesome). Like good ol' StumbleUpon (which is now dead). 
 
 ⚡️ [Install the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)
 
@@ -39,4 +40,4 @@ Here's some of the things I'd like to build out for this extension. However the 
 [☝️Submit an issue](https://github.com/basharovV/StumbleUponAwesome/issues/new)
 [🤘Submit a PR](https://github.com/basharovV/StumbleUponAwesome/pulls)
 
-
+✨ Stay curious!
