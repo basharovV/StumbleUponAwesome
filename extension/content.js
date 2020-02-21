@@ -62,8 +62,7 @@ function showWelcomeInfo(request) {
 
     text = document.createElement('div');
     text.innerHTML = `<p id="sax-welcome-text-title">
-    <b>You stumbled on your first site!
-    </b>
+    You stumbled on your first site!
     </p>
     </br>
     <p id="sax-welcome-text-body">

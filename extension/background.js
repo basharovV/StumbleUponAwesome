@@ -30,16 +30,24 @@ function loadUrl() {
         var split = allText.split('\n');
         totalUrls = split.length;
         var randomNum = Math.floor(Math.random() * split.length);
-        randomLine = split[randomNum]
+        randomLine = split[randomNum];
         console.log("Random Line\n" + randomLine)
       }
       // Switch to exiting tab 
       if (stumbleTabId !== null) {
-        chrome.tabs.update(stumbleTabId, {
-          url: randomLine,
-          active: true
-        }, function (tab) {
-        })
+        try {
+          chrome.tabs.update(stumbleTabId, {
+            url: randomLine,
+            active: true
+          }, function (tab) {
+          })
+        } catch (exception) {
+          chrome.tabs.update({
+            url: randomLine,
+          }, function (tab) {
+            stumbleTabId = tab.id
+          })
+        }
       }
       // or Open New tab
       else {
@@ -255,6 +263,9 @@ chrome.tabs.onRemoved.addListener(function (tabId, removeInfo) {
   }
 })
 
+function clearCounter() {
+  chrome.storage.local.remove(['visited'])
+}
 
 chrome.runtime.onInstalled.addListener(function () {
   // For development purposes only, uncomment when needed
