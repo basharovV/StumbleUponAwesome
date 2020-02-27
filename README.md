@@ -9,6 +9,7 @@ An *awesome* internet discovery button, for developers, tech and science lovers.
 
 ⚡️ [Install the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)
 
+
 There are 32,443 unique sites from 528 awesome collection pages on Github from kind contributors. There's some hidden gems waiting in there. 
 
 **How to use:**
@@ -34,6 +35,10 @@ Here's some of the things I'd like to build out for this extension. However the 
 - [ ] Categories
   - [x] [awesome curated lists](https://github.com/sindresorhus/awesome)
   - [ ] tech, science, software, startups, etc.
+
+
+**[→ Changelog](CHANGELOG.md)**
+**[→ Current version: 1.0.4.](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
 
 #### Contribute
 

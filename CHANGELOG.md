@@ -1,7 +1,9 @@
 # Changelog
 Check out past and upcoming releases here!
 
-## [Unreleased]
+## [Unreleased] 
+
+## [1.0.4] - 26 Feb 2020
 ### Fixed
 - Bug with extension font size affecting some pages
 - Bug with unknown tab after inactivity
