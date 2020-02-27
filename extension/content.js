@@ -1,22 +1,38 @@
+
+/**
+ * 
+ * @param {{visited: number, stumbleUrl: StumbleURL}} request 
+ */
 function showStumbleInfo(request) {
 
-    var div = document.createElement("div");
-    div.classList = ['sax-info-box'];
+    var enterTimeoutId = null;
+    var exitTimeoutId = null;
+    var isDisplayed = false;
 
-    // Create elements here
-    var top = document.createElement('div');
-    top.className = 'sax-info-box-top';
+    // UI
+    var div = document.createElement("div");
+    div.id = 'sax-info-box';
+
+    // Top bubble
+    var top = document.createElement("div");
+    top.id = 'sax-info-box-top';
+
+    var topContent = document.createElement('div');
+    topContent.id = 'sax-info-box-top-content';
 
     var text = document.createElement('div');
-    text.className = 'sax-label';
-    text.innerHTML = `<span class="sax-label-secondary">Stumble No.</span><span class="sax-label-primary">${request.visited}</span><span class="sax-label-secondary">`;
+    text.id = 'sax-label';
+
+    var title = document.createElement('p');
+    title.innerHTML = `<span id="sax-label-secondary">Stumble No.</span><span id="sax-label-primary">${request.visited}</span><span id="sax-label-secondary">`;
+    text.append(title);
 
     var icon = document.createElement('img');
     icon.src = chrome.extension.getURL('images/icon_32.png')
-    icon.className = 'sax-info-box-icon'
+    icon.id = 'sax-info-box-icon'
 
-    top.appendChild(icon);
-    top.appendChild(text);
+    topContent.appendChild(icon);
+    topContent.appendChild(text);
 
     var progress = document.createElement('div');
     progress.className = 'sax-progress';
@@ -28,21 +44,57 @@ function showStumbleInfo(request) {
     progressInner.style.width = `${(request.visited / request.totalUrls) * 100}%`;
     progress.append(progressOuter, progressInner);
 
-    div.classList.add('sax-hide')
+    div.classList.add('sax-hide');
+    top.appendChild(topContent);
     div.appendChild(top);
+
+    // Bottom bubble if title exists
+    var bottom = document.createElement('div');
+    bottom.id = 'sax-info-box-bottom';
+    var content = document.createElement('div');
+    content.id = 'sax-info-box-bottom-content';
+    content.innerHTML = `<span id="sax-label-small-primary">Source: ${request.stumbleUrl.title ? `'${request.stumbleUrl.title}'` : `curated`} from awesome list about </span><span id="sax-label-small-secondary"><a id="sax-list-url" href=${request.stumbleUrl.listUrl}>${request.stumbleUrl.listTitle}</a></span>`;
+    bottom.append(content);
+    div.appendChild(bottom);
+
     // div.appendChild(progress);
-    setTimeout(() => {
+    enterTimeoutId = setTimeout(() => {
+        console.log('check');
+        console.log('timeout');
         div.classList.add('sax-show');
         div.classList.remove('sax-hide');
 
+        isDisplayed = true;
+
         // clearTimeout();
-        setTimeout(() => {
+        exitTimeoutId = setTimeout(() => {
             div.classList.add('sax-hide')
             div.classList.remove('sax-show');
-        }, 2500);
+            isDisplayed = false;
+        }, 2800);
     }, 100)
 
+
+    div.addEventListener("mouseenter", () => {
+        console.log('mouse enter');
+        clearTimeout(exitTimeoutId);
+    });
+
+    div.addEventListener("mouseleave", () => {
+        console.log('mouse leave');
+        if (isDisplayed) {
+            // clearTimeout();
+            exitTimeoutId = setTimeout(() => {
+                div.classList.add('sax-hide');
+                div.classList.remove('sax-show');
+                isDisplayed = false;
+            }, 1300);
+        }
+    });
+
     document.body.prepend(div);
+
+    console.log('check');
 
 }
 

@@ -7,6 +7,21 @@ var stumbleTabId = null;
 var totalUrls = 0; // to be counted on first run
 var os = 'mac'; // mac", "win", "android", "cros", "linux"
 
+/**
+ * @typedef {Object} StumbleURL
+ * @property {string} url
+ * @property {string=} title
+ * @property {string} listUrl The URL of the collection.
+ * @property {string=} listTitle The title of the collection.
+ */
+
+/**
+* @type {StumbleURL}
+*/
+var stumbleUrl;
+
+var isPendingStumble = false;
+
 chrome.runtime.getPlatformInfo(function (info) {
   os = info.os;
 })
@@ -27,23 +42,29 @@ function loadUrl() {
     if (rawFile.readyState === 4) {
       if (rawFile.status === 200) {
         var allText = rawFile.responseText;
-        var split = allText.split('\n');
-        totalUrls = split.length;
-        var randomNum = Math.floor(Math.random() * split.length);
-        randomLine = split[randomNum];
+        var lines = allText.split('\n');
+        totalUrls = lines.length;
+        var randomNum = Math.floor(Math.random() * lines.length);
+        randomLine = lines[randomNum].split(',');
+        stumbleUrl = {
+          url: randomLine[0],
+          title: randomLine[1].trim().length > 0 ? randomLine[1].trim() : undefined,
+          listUrl: randomLine[2],
+          listTitle: randomLine[3]
+        }
         console.log("Random Line\n" + randomLine)
       }
       // Switch to exiting tab 
       if (stumbleTabId !== null) {
         try {
           chrome.tabs.update(stumbleTabId, {
-            url: randomLine,
+            url: stumbleUrl.url,
             active: true
           }, function (tab) {
           })
         } catch (exception) {
           chrome.tabs.update({
-            url: randomLine,
+            url: stumbleUrl.url,
           }, function (tab) {
             stumbleTabId = tab.id
           })
@@ -52,7 +73,7 @@ function loadUrl() {
       // or Open New tab
       else {
         chrome.tabs.create({
-          url: randomLine,
+          url: stumbleUrl.url,
         }, function (tab) {
           stumbleTabId = tab.id
         })
@@ -229,28 +250,30 @@ function update() {
 
 chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
   // make sure the status is 'complete' and it's the right tab
-  if (tabId === stumbleTabId && changeInfo.status === 'complete') {
+  if (isPendingStumble && tabId === stumbleTabId && changeInfo.status === 'complete') {
     update();
+    isPendingStumble = false;
   }
 });
 
 function notifyTabStumble(visited, totalUrls) {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
-    chrome.tabs.sendMessage(activeTab.id, { "message": "stumble", 'visited': visited, 'totalUrls': totalUrls });
+    chrome.tabs.sendMessage(stumbleTabId, { "message": "stumble", 'visited': visited, 'totalUrls': totalUrls, stumbleUrl });
   });
 }
 
 function notifyTabWelcome() {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
-    chrome.tabs.sendMessage(activeTab.id, { "message": "welcome", "os": os });
+    chrome.tabs.sendMessage(stumbleTabId, { "message": "welcome", "os": os });
   });
 }
 
 // Load a page on click
 chrome.browserAction.onClicked.addListener(
   function (tab) {
+    isPendingStumble = true;
     loadUrl();
     animateIcon();
   }

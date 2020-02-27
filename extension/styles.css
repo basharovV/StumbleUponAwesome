@@ -160,7 +160,7 @@ Welcome popup
     transition: width 500ms ease-in-out;
 }
 
-.sax-info-box-icon {
+#sax-info-box-icon {
     width: 16px;
     height: 16px;
     vertical-align: middle;
@@ -169,13 +169,21 @@ Welcome popup
     display: inline-block;
 }
 
-.sax-info-box {
+#sax-info-box {
     position: fixed;
     top: 2em;
     right: 2em;
-    width: auto;
-    border-radius: 2em;
+    width: auto;  
     z-index: 99999999999999999999999 !important; /* I know, I'm sorry... */
+    display: flex;
+    flex-direction: column;
+    background: none;
+}
+
+#sax-info-box-top {
+    width: fit-content;
+    align-self: flex-end;
+    border-radius: 3em;
     padding: 0.3em 1.5em 0.5em 1.5em;
     color: white;
     background-color: black;
@@ -183,30 +191,77 @@ Welcome popup
     font-family: sans-serif;
     font-size: 12pt;
     text-align: center;
-    box-shadow: 3px 3px 60px rgb(89, 89, 89);
+    box-shadow: 3px 3px 60px rgba(89, 89, 89, 0.814);
     display: flex;
     flex-direction: column;
 }
 
-.sax-info-box-top {
+#sax-info-box-top-content {
     display: flex;
     flex-direction: row;
     background: none;
 }
 
-.sax-label {
+#sax-info-box-bottom {
+    width: fit-content;
+    align-self: flex-end;
+    margin-top: 15px;
+    border-radius: 2em;
+    padding: 0.2em 1em 0.2em 1em;
+    color: black;
+    background-color: white;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    box-shadow: 3px 3px 60px rgba(89, 89, 89, 0.745);
+    display: flex;
+    flex-direction: column;
+}
+
+#sax-info-box-bottom-content {
+    display: flex;
+    flex-direction: row;
+    background: none;
+}
+
+#sax-label {
     display: inline-block;
 }
 
-.sax-label-secondary {
+#sax-label-secondary {
     font-size: 10pt;
     padding-left: 0.2em;
     color: #bababa;
 }
 
-.sax-label-primary {
+#sax-label-primary {
     font-size: 10pt;
     padding-left: 0.2em;
     font-weight: bold;
     color: #FFFFFF;
+}
+
+#sax-label-small-primary {
+    font-size: 8pt;
+    padding-left: 0.2em;
+    color: #bababa;
+}
+
+#sax-label-small-secondary {
+    font-size: 8pt;
+    padding-left: 0.2em;
+    color: #959595;
+}
+
+#sax-list-url {
+    font-size: 8pt;
+    padding-left: 0.2em;
+    color: #6d8bca;
+}
+
+#sax-list-url :hover {
+    font-size: 8pt;
+    padding-left: 0.2em;
+    color: #ca976d;
 }
