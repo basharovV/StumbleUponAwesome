@@ -85,7 +85,8 @@ class BlogSpider(scrapy.Spider):
                 "github.com",
                 "githubusercontent.com",
                 "coinbin.org",
-                "patreon.com"
+                "patreon.com",
+                "travis-ci.org",
             ],
             deny_extensions=IGNORED_EXTENSIONS,
             restrict_xpaths=["//article"],
