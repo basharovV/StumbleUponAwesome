@@ -2,6 +2,9 @@
 Check out past and upcoming releases here!
 
 ## [Unreleased] 
+### Added
+- Additional info bubble on every stumble showing the site and source awesome-list
+- PDF links now also included
 
 ## [1.0.4] - 26 Feb 2020
 ### Fixed
