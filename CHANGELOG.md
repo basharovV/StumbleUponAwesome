@@ -1,7 +1,9 @@
 # Changelog
 Check out past and upcoming releases here!
 
-## [Unreleased] 
+## [Unreleased]
+
+## [1.0.5] 
 ### Added
 - Additional info bubble on every stumble showing the site and source awesome-list
 - PDF links now also included
