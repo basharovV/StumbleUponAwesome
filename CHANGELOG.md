@@ -3,7 +3,7 @@ Check out past and upcoming releases here!
 
 ## [Unreleased]
 
-## [1.0.5] 
+## [1.0.5] - 29 Feb 2020
 ### Added
 - Additional info bubble on every stumble showing the site and source awesome-list
 - PDF links now also included
