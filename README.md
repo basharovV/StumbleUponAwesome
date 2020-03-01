@@ -38,7 +38,7 @@ Here's some of the things I'd like to build out for this extension. However the 
 
 
 **[→ Changelog](CHANGELOG.md)**
-**[→ Current version: 1.0.4.](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
+**[→ Current version: 1.0.5.](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
 
 #### Contribute
 
