@@ -3,6 +3,9 @@ Check out past and upcoming releases here!
 
 ## [Unreleased]
 
+### Fixed
+- Bug with idle extension causing stumble page to open in new tab instead of existing.
+
 ## [1.0.5] - 29 Feb 2020
 ### Added
 - Additional info bubble on every stumble showing the site and source awesome-list

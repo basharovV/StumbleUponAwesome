@@ -4,6 +4,12 @@
  * Keep track of the StumbleUponAwesome tab
  */
 var stumbleTabId = null;
+
+/**
+ * The focused window ID
+ */
+var windowId = null;
+
 var totalUrls = 0; // to be counted on first run
 var os = 'mac'; // mac", "win", "android", "cros", "linux"
 
@@ -65,8 +71,8 @@ function loadUrl() {
         } catch (exception) {
           chrome.tabs.update({
             url: stumbleUrl.url,
-          }, function (tab) {
-            stumbleTabId = tab.id
+          }, async function (tab) {
+            await saveStumbleTabId(tab.id);
           })
         }
       }
@@ -74,8 +80,8 @@ function loadUrl() {
       else {
         chrome.tabs.create({
           url: stumbleUrl.url,
-        }, function (tab) {
-          stumbleTabId = tab.id
+        }, async function (tab) {
+          await saveStumbleTabId(tab.id);
         })
       }
     }
@@ -217,8 +223,26 @@ async function animateIcon() {
   });
 }
 
-function resetIcon() {
+const saveStumbleTabId = tabId => {
+  return new Promise((resolve, reject) => {
+    chrome.storage.local.set({ 'stumbleTabId': tabId }, function () {
+      console.log(`Saved stumble tabId: ${tabId}`);
+      stumbleTabId = tabId;
+      resolve();
+    });
+  })
+}
 
+const getStumbleTabId = () => {
+  return new Promise((resolve, reject) => {
+    chrome.storage.local.get(['stumbleTabId'], function (result) {
+      if (result.stumbleTabId) {
+        resolve(result.stumbleTabId);
+      } else {
+        resolve(null);
+      }
+    })
+  });
 }
 
 function update() {
@@ -272,7 +296,23 @@ function notifyTabWelcome() {
 
 // Load a page on click
 chrome.browserAction.onClicked.addListener(
-  function (tab) {
+  async function (tab) {
+
+    const currentWindowId = await getFocusedWindowId();
+    console.log(`oldWindow: ${windowId} newWindow: ${currentWindowId}`)
+    // Get stumble tab Id
+    const savedStumbleTabId = await getStumbleTabId();
+    const tabs = await getBrowserTabs();
+    const tabIds = tabs.map(t=>t.id);
+
+    // Reset if necessary
+    if (windowId !== currentWindowId || !stumbleTabId || !tabIds.includes(savedStumbleTabId)) {
+      windowId = currentWindowId;
+      chrome.storage.local.remove(['stumbleTabId'], () => {
+        stumbleTabId = null;
+      })
+    }
+
     isPendingStumble = true;
     loadUrl();
     animateIcon();
@@ -302,6 +342,30 @@ chrome.runtime.onInstalled.addListener(function () {
     });
   })
 });
+
+/**
+ * Return the list of Chrome tabs
+ * @returns {Promise<Array<chrome.tabs.Tab>>}
+ */
+const getBrowserTabs = async () => {
+  return new Promise((resolve, reject) => {
+    chrome.tabs.query({currentWindow: true}, function (tabs) {
+      resolve(tabs);
+    });
+  })
+}
+
+/**
+ * Return the recently focused window id.
+ * @returns {Promise<number>}
+ */
+const getFocusedWindowId = () => {
+  return new Promise((resolve, reject) => {
+    chrome.windows.getCurrent(window => {
+      resolve(window.id);
+    });
+  });
+}
 
 /*
 Context menu
