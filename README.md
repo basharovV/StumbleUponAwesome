@@ -39,7 +39,7 @@ Here's some of the things I'd like to build out for this extension. However the 
 
 **[→ Changelog](CHANGELOG.md)**
 
-**[→ Current version: 1.0.5.](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
+**[→ Current version: 1.0.6](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
 
 ### A note about permissions
 This extension requires the `<all_urls>` permission, in order to show the overlay UI on every stumble page that you visit. It does not access data on these sites. 
