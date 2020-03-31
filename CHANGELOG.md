@@ -1,7 +1,7 @@
 # Changelog
 Check out past and upcoming releases here!
 
-## [Unreleased]
+## [1.0.6] - 27 Mar 2020
 
 ### Fixed
 - Bug with idle extension causing stumble page to open in new tab instead of existing.
