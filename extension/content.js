@@ -53,7 +53,19 @@ function showStumbleInfo(request) {
     bottom.id = 'sax-info-box-bottom';
     var content = document.createElement('div');
     content.id = 'sax-info-box-bottom-content';
-    content.innerHTML = `<span id="sax-label-small-primary">Source: ${request.stumbleUrl.title ? `'${request.stumbleUrl.title}'` : `curated`} from awesome list about </span><span id="sax-label-small-secondary"><a id="sax-list-url" href=${request.stumbleUrl.listUrl}>${request.stumbleUrl.listTitle}</a></span>`;
+    content.innerHTML = `
+        <span id="sax-label-small-primary">
+            Source: ${request.stumbleUrl.title ? `'${request.stumbleUrl.title}'` : `curated`} from awesome list about 
+        </span>
+        <span id="sax-label-small-secondary">
+            <a id="sax-list-url" href=${request.stumbleUrl.listUrl}>
+                ${request.stumbleUrl.listTitle}
+            </a>
+        </span>
+        <div id="sax-rabbit-hole">
+            <img id="sax-rabbit-hole-image" src=${chrome.extension.getURL('images/rabbithole.png')} />
+        </div>
+    `;
     bottom.append(content);
     div.appendChild(bottom);
 
@@ -93,6 +105,15 @@ function showStumbleInfo(request) {
     });
 
     document.body.prepend(div);
+
+    // On hover change to GIF for rabbit hole
+    var rabbitHole = document.getElementById('sax-rabbit-hole-image');
+    rabbitHole.addEventListener('mouseenter', () => {
+        rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.gif'));
+    })
+    rabbitHole.addEventListener('mouseleave', () => {
+        rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.png'));
+    })
 
     console.log('check');
 
