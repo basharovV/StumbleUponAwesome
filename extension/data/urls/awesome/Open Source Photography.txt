@@ -1,0 +1,46 @@
+http://www.imagemagick.org/,ImageMagick,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.graphicsmagick.org/,GraphicsMagick,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://chdk.wikia.com/wiki/CHDK,CHDK,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://magiclantern.fm/,Magic Lantern,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.gh1-hack.info/,PTool Firmware Manipulation Tool,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://nikonhacker.com/wiki/Main_Page,Nikon Hacker,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.darktable.org/,Darktable,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://rawtherapee.com/,RawTherapee,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://photivo.org/photivo/start?redirect=1,Photivo,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://ufraw.sourceforge.net/,UFRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.cybercom.net/~dcoffin/dcraw/,DCRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://lightzoneproject.org/,Lightzone,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.kornelix.com/fotoxx.html,Fotoxx,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html,QPSFTMO,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://pfstools.sourceforge.net/,PFS Tools,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://hugin.sourceforge.net/,Hugin,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.panoramatools.com/,Panorama Tools,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://yorba.org/shotwell/,Shotwell,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.digikam.org/drupal/about?q=about/overview,DigiKam/ShowFoto,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.gphoto.org/,GPhoto,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://lychee.electerious.com/,Lychee,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://owl.phy.queensu.ca/~phil/exiftool/,ExifTool,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.damonlynch.net/rapid/index.html,Rapid Photo Downloader,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://entangle-photo.org/,Entangle,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.hughski.com/index.html,Hughski,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://displaycal.net/,DisplayCal,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://geeqie.sourceforge.net/,Geeqie,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://feh.finalrewind.org/,FEH,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://registry.gimp.org/,GIMP Plugin Registry,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://sourceforge.net/projects/cinepaint/files/CinePaint/,Cinepaint,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://www.flickr.com/groups/83823859@N00/,Flickr Open Source Photography Group,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://reddit.com/r/fossphotography,/r/FOSSPhotography,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://plus.google.com/u/0/communities/110647644928874455108,Open Source Photography Community on Google+,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://www.facebook.com/groups/326042310770868/,Open Source Photography Group on Facebook,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://www.reddit.com/r/opensourcephotography,Open Source Photography Sub on Reddit,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://500px.com/groups/open-source-photography,Open Source Photography Group on 500px,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://pixls.us,PIXLS.US,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://medium.com/unsplash/the-unsplash-license-f6fb7de5c95a,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://medium.com/unsplash/why-we-moved-from-the-creative-commons-zero-license-to-the-unsplash-license-598f76386489,changed from CC0,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://pexels.com/,Pexels.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://www.pexels.com/photo-license/,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://pixabay.com/en/service/faq/,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://www.shutterography.com,Shutterography.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+https://www.ffmpeg.org/,FFmpeg,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://www.virtualdub.org/,Virtualdub,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography
+http://openfx.sourceforge.net/,OpenFX,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography

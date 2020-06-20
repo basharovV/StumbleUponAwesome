@@ -1,0 +1,27 @@
+http://wicket.apache.org/,,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://cwiki.apache.org/confluence/display/WICKET/Index,Wicket wiki,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://builtwithwicket.tumblr.com/,Build With Wicket,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://ci.apache.org/projects/wicket/guide/7.x/,Wicket User Guide,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://ci.apache.org/projects/wicket/apidocs/7.x/index.html,Wicket JavaDocs,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://wicketinaction.com/,Wicket in Action,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://fullcalendar.io/,FullCalendar,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.7thweb.net/wicket-jquery-ui/,wicket-jquery-ui,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://wicketeer.org/wicket-modelfactory/,wicket-modelfactory,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.shieldui.com/,Shield UI,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://login.persona.org/,Mozilla Persona,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://memcached.org/,MemCached,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.hazelcast.com/,Hazelcast,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://en.wikipedia.org/wiki/Trie,Trie,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.datatables.net/,DataTables jQuery,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://code.google.com/p/htmlcompressor,htmlcompressor,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://logback.qos.ch/,logback,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://foundation.zurb.com/,Zurb Foundation,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://isis.apache.org/,Apache Isis,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.brixcms.org/,BrixCMS,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.onehippo.com/en,Hippo CMS,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://invesdwin.de/nowicket/,NoWicket,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.efaps.org/,eFaps,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://ehour.nl/index.phtml,eHour,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+http://www.next-reports.com/,NextReports,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://www.projectforge.org/,ProjectForge,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket
+https://marketplace.eclipse.org/content/qwickie,qwickie,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket

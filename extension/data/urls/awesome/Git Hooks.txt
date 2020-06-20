@@ -1,0 +1,15 @@
+https://git-scm.com/,,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://git-scm.com/docs/githooks,Git hooks documentation at git-scm.com,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://git-scm.com/book/en/v2,Git Pro book by Scott Chacon and Ben Straub,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.sitepoint.com/introduction-git-hooks/,An Introduction to Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.atlassian.com/ru/git/tutorials/git-hooks,Atlassian Tutorial on Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.vojtechruzicka.com/githooks-husky/,Easy git hooks with husky,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.javascriptjanuary.com/blog/git-hooked,Git Hooked,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks,How To Use Git Hooks To Automate Development and Deployment Tasks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://hackernoon.com/automate-your-workflow-with-git-hooks-fef5d9b2a58c,Automate Your Workflow with Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://medium.com/@Sergeon/using-javascript-in-your-git-hooks-f0ce09477334,Using JavaScript in Your Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://dzone.com/articles/an-in-depth-look-at-git-hooks,An In-Depth Look at Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.tygertec.com/git-hooks-practical-uses-windows/,Git hooks and practical uses. Yes, even on Windows.,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.youtube.com/watch?v=aB3eq52sZSU,Git Hooks Part 1 - Getting Started,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+http://www.youtube.com/watch?feature=player_embedded&v=fMYv6-SZsSo&t=140s,Git hooks and practical uses. Yes, even on Windows.,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+http://creativecommons.org/licenses/by/1.0/,Creative Commons Attribution 1.0 International License,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks

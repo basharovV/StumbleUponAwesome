@@ -1,0 +1,50 @@
+https://developers.google.com/web/tools/lighthouse/,Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://calibreapp.com,Calibre,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://treo.sh/,treo.sh,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://speedcurve.com/,SpeedCurve,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/chrome-user-experience-report/,Chrome User Experience Report (CrUX),https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://speedcurve.com/features/lux/,SpeedCurve LUX,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://www.akamai.com/uk/en/products/performance/mpulse-real-user-monitoring.jsp,Akamai mPulse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://sematext.com/experience/,Sematext Experience,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/,Critical rendering path,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://w3c.github.io/longtasks/,Spec - Long Tasks,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/,Blogpost - Tracking CPU with Long Tasks API,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics,User-centric Performance Metrics,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://en.wikipedia.org/wiki/Apdex,Apdex,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+http://www.apdex.org/index.php/category/specification/,Apdex technical specification,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://sematext.com/blog/how-to-use-your-apdex-score-to-measure-user-satisfaction/,How to Use Apdex Score to Measure User Satisfaction,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint,Docs - FCP - Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://w3c.github.io/paint-timing/,Spec - FCP - W3C,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint,Docs - FMP - Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://docs.google.com/document/d/1BR94tJdZLsin5poeet0XoTW60M0SjvOJQttKT-JK8HI/view,Spec - First Meaningful Paint,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/lighthouse/audits/speed-index,Docs - Speed Index - Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index,Docs - Speed Index - WPT,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://ldnwebperf.org/events/speed-perception-and-lighthouse/,Talk - Speed Perception and Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics,Docs - Start Render - WPT,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://docs.google.com/document/d/1yRYfYR1DnHtgwC4HRR04ipVVhT1h5gkI6yPmKCgJkyQ/edit,Spec - Hero Element Timing,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://speedcurve.com/blog/web-performance-monitoring-hero-times/,Blogpost - Hero Element Timing - SpeedCurve,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://speedcurve.com/blog/user-timing-and-custom-metrics/,Blogpost - User Timing for Element Timing - SpeedCurve,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://speedcurve.com/blog/last-painted-hero/,Blogpost - Last Painted Hero coming to WebpageTest,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://web.dev/layout-instability-api/,Blogpost - The Layout Instability API,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://web.dev/largest-contentful-paint/,Blogpost - Largest Contentful Paint,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/lighthouse/audits/first-cpu-idle,Docs - First CPU Idle - Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit,Spec - TTI - Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/,Blogpost - TTI,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/updates/2018/05/first-input-delay,Docs - FID,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/lighthouse/audits/estimated-input-latency,Docs - Estimated Input Latency - Lighthouse,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://docs.google.com/document/d/1xCERB_X7PiP5RAZDwyIkODnIXoBk-Oo7Mi9266aEdGg/edit,Total Blocking Time,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/,Blogpost - Navigation and Resource Timing,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://www.w3.org/TR/navigation-timing-2/,Spec - Navigation Timing,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://www.w3.org/TR/resource-timing-2/,Spec - Resource Timing,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://www.ssllabs.com/ssltest/index.html,Qualys SSL Labs,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://www.sitespeed.io/documentation/pagexray/,Sitespeed.io PageXray,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/web/tools/lighthouse/audits/budgets,Lighthouse Performance Budgets,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developers.google.com/speed/docs/insights/v5/about,About PageSpeed Insights,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://medium.com/expedia-group-tech/whats-in-the-google-pagespeed-score-a5fc93f91e91,What's in the Google PageSpeed score,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://calibreapp.com/blog/how-pagespeed-works/,How Google Pagespeed works,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://www.w3.org/TR/user-timing/,Spec - User Timing,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing,Docs - Server Timing,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developer.mozilla.org/en-US/docs/Web/API/Frame_Timing_API,Docs - Frame Timing API,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developer.mozilla.org/en-US/docs/Tools/Performance/Frame_rate,Docs - Firefox Developer Tools - Frame rate,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded,Docs - DOMContentLoaded,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics
+https://developer.mozilla.org/en-US/docs/Web/Events/load,Docs - window.load,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics

@@ -1,0 +1,30 @@
+http://gulpjs.com/,Official Website,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://gulpjs.com/plugins/,Plugin Registry,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://www.npmjs.com/package/gulp,NPM Module,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://stackoverflow.com/questions/tagged/gulp,StackOverflow,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://www.smashingmagazine.com/2014/06/building-with-gulp/,Building with Gulp,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js,Automate Your Tasks Easily with Gulp.js,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://medium.com/@contrahacks/gulp-3828e8126466,Gulp - The Vision, History, and Future of the Project,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://stefanimhoff.de/tag/gulp/,Introduction to Gulp.js,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://leveluptuts.com/tutorials/learning-gulp,Video: Learning Gulp,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://blog.johnnyreilly.com/2015/02/using-gulp-in-asp-net-instead-of-web-optimization.html,Using Gulp to Inject Scripts and Styles Tags Directly into Your HTML,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://denbuzze.com/post/5-lessons-learned-using-gulpjs/,5 Lessons Learned Using Gulp.js,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://conan.is/bower/gulp/wiredep/javascript/2014/08/18/automating_linkage-or-how-i-learned-to-stop-worrying-and-love-the-build.html,Automating Linkage: How I Learned to Stop Worrying and Love the Build,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://blog.overzealous.com/post/74121048393/why-you-shouldnt-create-a-gulp-plugin-or-how-to,Why You Shouldn’t Create a Gulp Plugin (or, How to Stop Worrying and Learn to Love Existing Node Packages),https://github.com/alferov/awesome-gulp#readme,Gulp
+http://blog.rangle.io/angular-gulp-bestpractices/,6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://css-tricks.com/gulp-for-beginners/,Gulp for Beginners,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://blog.wearewizards.io/migrating-to-gulp-4-by-example,Migrating to Gulp 4 by Example,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://fettblog.eu/gulp-4-parallel-and-series/,Gulp 4: The new task execution system - gulp.parallel and gulp.series,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://medium.com/@sogko/gulp-browserify-the-gulp-y-way-bb359b3f9623,Gulp + Browserify, the Gulp-y Way,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://viget.com/extend/gulp-browserify-starter-faq,Gulp + Browserify,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://blog.jhades.org/what-every-angular-project-likely-needs-and-a-gulp-build-to-provide-it/,What Every Angular Project Likely Needs - and a Gulp Build to Provide It,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://omarfouad.com/blog/2015/03/21/advanced-angularjs-structure-with-gulp-node-and-browserify/,Advanced AngularJS Structure with Gulp, Node and Browserify,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://luwenhuang.wordpress.com/2015/01/18/refactoring-an-angular-app-to-use-webpack-and-gulp/,Angular, Webpack and Gulp for an SPA: Part I,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://luwenhuang.wordpress.com/2015/01/19/angular-webpack-and-gulp-for-an-spa-part-ii/,Angular, Webpack and Gulp for an SPA: Part II,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://luwenhuang.wordpress.com/2015/01/28/angular-webpack-and-gulp-for-an-spa-part-iii/,Angular, Webpack and Gulp for an SPA: Part III,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/,Browserify and Gulp with React,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://pomax.github.io/1420592591221/taking-react-to-the-next-level-mixins-gulp-and-browserify,Taking React to the Next Level: Mixins, Gulp, and Browserify,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://www.sitepoint.com/improving-ember-js-workflow-using-gulp-js/,Improving Your Ember.js Workflow Using Gulp.js,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://premium.wpmudev.org/blog/advanced-wordpress-development-using-gulp/,Advanced WordPress Development Using Gulp,https://github.com/alferov/awesome-gulp#readme,Gulp
+https://www.npmjs.com/package/gulp-csslint,gulp-csslint,https://github.com/alferov/awesome-gulp#readme,Gulp
+http://gulp-cookery.github.io/gulp-chef/,gulp-chef,https://github.com/alferov/awesome-gulp#readme,Gulp

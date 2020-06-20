@@ -1,0 +1,63 @@
+http://www.h2o.ai/about/,H2O.ai,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://blog.h2o.ai/,blog posts,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.youtube.com/user/0xdata,videos,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://uc-r.github.io/lime,Visualizing ML Models with LIME,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/,Parallel Grid Search in H2O,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.pavel.cool/h2o-3/h2o-mojo-import/,Importing, Inspecting and Scoring with MOJO models inside H2O,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://towardsdatascience.com/artificial-intelligence-made-easy-187ecb90c299,Artificial Intelligence Made Easy with H2O.ai: A Comprehensive Guide to Modeling with H2O.ai and AutoML in Python,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1,Anomaly Detection With Isolation Forests Using H2O,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.michal-kapusta.com/post/2018-11-02-predicting-residential-property-prices-in-bratislava-using-recipes-h2o-machine-learning-part-ii/,Predicting residential property prices in Bratislava using recipes - H2O Machine learning,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://dzone.com/articles/inspecting-decision-trees-in-h2o,Inspecting Decision Trees in H2O,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://medium.com/analytics-vidhya/gentle-introduction-to-automl-from-h2o-ai-a42b393b4ba2,Gentle Introduction to AutoML from H2O.ai,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://dzone.com/articles/machine-learning-with-h2o-hands-on-guide-for-data,Machine Learning With H2O — Hands-On Guide for Data Scientists,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html,Using machine learning with LIME to understand employee churn,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://redoakstrategic.com/h2oaws/,Analytics at Scale: h2o, Apache Spark and R on AWS EMR,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://kkulma.github.io/2017-11-07-automated_machine_learning_in_cancer_detection/,Automated and unmysterious machine learning in cancer detection,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html,Time series machine learning with h2o+timetk,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html,Sales Analytics: How to use machine learning to predict and optimize product backorders,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html,HR Analytics: Using machine learning to predict employee turnover,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://shiring.github.io/machine_learning/2017/05/01/fraud,Autoencoders and anomaly detection with machine learning in fraud analytics,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://shiring.github.io/machine_learning/2017/02/27/h2o,Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://shiring.github.io/machine_learning/2017/02/19/food_spark,Predicting food preferences with sparklyr (machine learning),https://github.com/h2oai/awesome-h2o#readme,H2O
+https://ellisp.github.io/blog/2017/02/18/svmlite,Moving largish data from R to H2O - spam detection with Enron emails,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r,Deep learning & parameter tuning with mxnet, h2o package in R,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/,Are categorical variables getting lost in your random forests?,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r,Hands on Time Series with R,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330,Machine Learning Using R,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X,Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://link.springer.com/book/10.1007/978-1-4842-1311-7,Disruptive Analytics,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://web.stanford.edu/~hastie/CASI/,Computer Age Statistical Inference: Algorithms, Evidence, and Data Science,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials,R Deep Learning Essentials,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071,Handbook of Big Data,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/,Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://doi.org/10.1186/s40663-020-00226-3,Innovative deep learning artificial intelligence applications for predicting relationships between individual tree height and diameter at breast height,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://arxiv.org/abs/2002.04803,Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.sciencedirect.com/science/article/pii/S1389041718308970,Human actions recognition in video scenes from multiple camera viewpoints,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://doi.org/10.1016/j.eururo.2018.09.050,askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf,Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://arxiv.org/abs/1707.04940,Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14,Algorithmic trading using deep neural networks on high frequency data,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://dl.acm.org/citation.cfm?id=3124407,Generic online animal activity recognition on collar tags,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://link.springer.com/content/pdf/10.1007%2Fs10705-017-9870-x.pdf,Soil nutrient maps of Sub-Saharan Africa: assessment of soil nutrient content at 250 m spatial resolution using machine learning,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://arxiv.org/pdf/1707.09021.pdf,Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://arxiv.org/abs/1707.02641,Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf,Using deep learning to predict the mortality of leukemia patients,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable,Use of a machine learning framework to predict substance use disorder treatment success,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf,Ultra-wideband antenna-induced error prediction using deep learning on channel response data,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20,Inferring passenger types from commuter eigentravel matrices,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.sciencedirect.com/science/article/pii/S0377221716308657,Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://ieeexplore.ieee.org/document/7838233/?reload=true,Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://ieeexplore.ieee.org/abstract/document/7838243/,Predicting recovery of credit operations on a Brazilian bank,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://ieeexplore.ieee.org/abstract/document/7838276/,Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://doi.org/10.1101/070490,Deep learning and association rule mining for predicting drug response in cancer,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf,The value of points of interest information in predicting cost-effective charging infrastructure locations,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml,Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf,Scalable ensemble learning and computationally efficient variance estimation,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://doi.org/10.7287/peerj.preprints.1265v1,Superchords: decoding EEG signals in the millisecond range,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/,Deep learning in R,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment,Pipelines for model deployment,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017,Machine learning with H2O.ai,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html,University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://www.stats.uct.ac.za/stats/study/postgrad/honours,University of Cape Town: Analytics Module,https://github.com/h2oai/awesome-h2o#readme,H2O
+https://www.coursera.org/learn/competitive-data-science,Coursera: How to Win a Data Science Competition: Learn from Top Kagglers,https://github.com/h2oai/awesome-h2o#readme,H2O
+http://h2o.ai,H2O.ai,https://github.com/h2oai/awesome-h2o#readme,H2O

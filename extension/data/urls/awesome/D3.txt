@@ -1,0 +1,24 @@
+http://d3js.org,D3js,https://github.com/wbkd/awesome-d3#readme,D3
+http://www.webkid.io,webkid.io,https://github.com/wbkd/awesome-d3#readme,D3
+https://d3-discovery.net/,D3 Discovery,https://github.com/wbkd/awesome-d3#readme,D3
+https://layercake.graphics/,Layer Cake,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/1wheel,Adam Pearce - 1wheel,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/ColinEberhardt,Colin Eberhardt - ColinEberhardt,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/HarryStevens,Harry Stevens - HarryStevens,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/LuisSevillano,Luis Sevillano - LuisSevillano,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/d3indepth,Peter Cook - d3indepth,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/emeeks,Elijah Meeks - emeeks,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/enjalot,Ian Johnson - enjalot,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/fil,Philippe Rivière - fil,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/mbostock,Mike Bostock - mbostock,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/mfilippo,Matteo Filipponi - mfilippo,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/micahstubbs,Micah Stubbs - micahstubbs,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/nbremer,Nadieh Bremer - nbremer,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/nitaku,Matteo Abrate - nitaku,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/susielu,Susie Lu - susielu,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/sxywu,Shirley Wu - sxywu,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/syntagmatic,Kai Chang - syntagmatic,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/tomshanley,Tom Shanley - tomshanley,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/vasturiano,Vasco Asturiano - vasturiano,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/veltman,Noah Veltman - veltman,https://github.com/wbkd/awesome-d3#readme,D3
+https://bl.ocks.org/zanarmstrong,Zan Armstrong - zanarmstrong,https://github.com/wbkd/awesome-d3#readme,D3

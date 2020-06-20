@@ -1,0 +1,163 @@
+https://buildplease.com,blog,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://buildplease.com/pages/dddweekly/,weekly DDD newsletter,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://en.m.wikipedia.org/wiki/Domain-driven_design,Domain-Driven Design (DDD),https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/,Command Query Responsibility Segregation (CQRS),https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.martinfowler.com/eaaDev/EventSourcing.html,Event Sourcing,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html,Event Storming,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://buildplease.com/pages/now-what/,Applying Domain Driven Design with CQRS and Event Sourcing,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://leanpub.com/cqrs,CQRS,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://amzn.com/0321125215,Domain-Driven Design: Tackling the Complexity at the Heart of Software,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420,Domain-Driven Design Distilled,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://leanpub.com/ddd-in-php,Domain-Driven Design in PHP,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://blog.arkency.com/domain-driven-rails/,Domain-Driven Rails,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://pragprog.com/book/swdddf/domain-modeling-made-functional,Domain Modeling Made Functional,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://martinfowler.com/books/dsl.html,Domain Specific Languages,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://buildplease.com/products/fpc-v2/,Event Sourcing and CQRS with .NET Core and SQL Server,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.amazon.com/Hands-Domain-Driven-Design-NET-dp-1788834097/dp/1788834097,Hands-On Domain-Driven Design with .NET Core,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577,Implementing Domain-Driven Design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://leanpub.com/introducing_eventstorming,Introducing Event Storming: An act of Deliberate Collective Learning,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/,Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition),https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709,Patterns, Principles, and Practices of Domain-Driven Design (1st Edition),https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80,Secure by Design (early access),https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.manning.com/books/specification-by-example,Specification by Example,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://leanpub.com/esversioning,Versioning in an Event Sourced System,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/,What is Domain-Driven Design?,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.manning.com/books/writing-great-specifications,Writing Great Specifications,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://leanpub.com/theanatomyofdomain-drivendesign,The Anatomy of Domain-Driven Design - The Infographic,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dotnet.microsoft.com/download/thank-you/aspnet-ebook,Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.cosmicpython.com/book/preface.html,Architecture Patterns with Python,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://msdn.microsoft.com/en-us/library/jj554200.aspx,CQRS Journey,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dddeurope.com/15years,Domain-Driven Design: The First 15 Years,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf,DDD Reference,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.infoq.com/minibooks/domain-driven-design-quickly,Domain Driven Design Quickly,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dddcommunity.org/library/vernon_2011/,Effective Aggregate Design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf,Getting Started with DDD when Surrounded by Legacy Systems,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://leanpub.com/livingdocumentation,Living Documentation by Design, with Domain-Driven Design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook,.NET Microservices: Architecture for Containerized .NET Applications,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://docs.wolkenkit.io/1.1.0/downloads/brochure/,The Semantic JavaScript Backend for Event-Driven Development,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://pages.xebia.com/domain-driven-design-magazine-xebia,DDD Magazine from Xebia #1,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://training.dddeurope.com/,DDD Workshops across Europe,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://elearn.domainlanguage.com/,Domain Language eLearning,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://subscriptions.viddler.com/GregYoung/,Greg Young's CQRS Class,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://forcomprehension.com/,Distilling Domain-Driven Design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://learn-particular.thinkific.com/courses/adsd-online,Advanced Distributed Systems Design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://udidahan.com/training/,here,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://nomadphp.com/product/introduction-event-sourcing-cqrs/,Nomad PHP,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://eventsourcery.com/,Event Sourcery,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://pluralsight.com,Pluralsight,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.pluralsight.com/courses/domain-driven-design-fundamentals,Domain-Driven Design Fundamentals,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.pluralsight.com/courses/domain-driven-design-in-practice,Domain-Driven Design in Practice,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing,Modern Software Architecture: Domain Models, CQRS, and Event Sourcing,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://blog.arkency.com/ddd-training/,Rails + Domain Driven Design Workshop,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://cognitiveclass.ai/courses/reactive-architecture-ddd/,Reactive Architecture: Domain Driven Design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://cognitiveclass.ai/courses/reactive-architecture-cqrs/,Reactive Architecture: CQRS and Event Sourcing,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://xebia.com/academy/en/search?query=Domain-driven%20design,DDD Workshop by Xebia,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dddeurope.com/videos,DDD Europe,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://skillsmatter.com/skillscasts,SkillsCasts by SkillsMatter,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI,Alberto Brandolini: Event Storming,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9,Greg Young,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag,Explore DDD videos,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA,KanDDDinsky,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.youtube.com/channel/UCob_jOzzpxBp-di-x0vLlwA,Virtual Domain-driven design,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages,Domain Driven Design Yahoo Group,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.reddit.com/r/ddd_ruby/,DDD in Ruby subreddit,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://plus.google.com/u/0/communities/113258571348605620818,EventStormers Google+ Community,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://t.co/MRxpx0rLH2,DDD/CQRS/ES Slack,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://domainstorytelling.slack.com,Domain StoryTelling Slack,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://domainstorytelling.org/,domainstorytelling.org,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://softwareengineering.stackexchange.com/questions/tagged/domain-driven-design,Software Engineering Stack Exchange,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://codereview.stackexchange.com/questions/tagged/ddd,Code Review Stack Exchange,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://stackoverflow.com/questions/tagged/domain-driven-design,Stack Overflow,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.quora.com/topic/Domain-Driven-Design-DDD,Quora,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://slackin.wolkenkit.io/,wolkenkit Slack,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://virtualddd.com,Virtual Domain-driven design community,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.dddheuristics.com/,Domain-driven design heuristics,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dddweekly.com,DDD Weekly,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://danielwhittaker.me,Daniel Whittaker,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://cyrille.martraire.com,Cyrille Martraire,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://lostechies.com/jimmybogard/,Jimmy Bogard,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://codebetter.com,CodeBetter,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://goodenoughsoftware.net/,Greg Young,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.infoq.com/domaindrivendesign/,InfoQ Blog,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dannorth.net/blog/,Dan North,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://blog.sapiensworks.com,Mike Mogosanu,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://blog.christianposta.com,Christian Posta,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://enterprisecraftsmanship.com,Vladimir Khorikov,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://techbeacon.com/,TechBeacon,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://codeopinion.com,Derek Comartin,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://ziobrando.blogspot.it,Alberto Brandolini,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://thinkbeforecoding.com/,Jérémie Chassaing,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://vaughnvernon.co,Vaughn Vernon,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://vladikk.com/,Vladik Khononov,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://blog.eventsourcing.com,Eventsourcing Publications,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.jefclaes.be/,Jef Claes,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://udidahan.com/articles/,Udi Dahan,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://lostechies.com/chrispatterson/,Chris Patterson,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.aaronstannard.com/,Aaron Stannard,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://rogeralsing.com/,Roger Johansson,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://squirrel.pl/blog/,Konrad Garus,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://blog.oasisdigital.com/category/cqrs/,Oasis Digital,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://adaptechsolutions.net/blog/,Adaptech,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://gorodinski.com/,Lev Gorodinski,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://software2cents.wordpress.com/,Dino Esposito,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dearjunior.blogspot.se/search/label/domain%20driven%20design,Dan Bergh Johnsson "Dear Junior",https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/,the native web,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://blog.arkency.com/,Arkency,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://svatasimara.cz/,Svaťa Šimara,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://xhafan.com/blog/,Martin Havlišta,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://khalilstemmler.com/articles/categories/domain-driven-design,Khalil Stemmler,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://baasie.com/,Kenny Baas-Schwegler,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.youtube.com/watch?v=5DKTFZD3hu8,video,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/,wolkenkit Sample Applications,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://getakka.net/,Akka.NET,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://abp.io,ABP,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://aspnetboilerplate.com/,ASP.NET Boilerplate,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dolittle.com,Dolittle,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://geteventflow.net/,http://geteventflow.net/,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://vimeo.com/171178586,The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://geteventstore.com,Event Store,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://eventsourcing.com,Eventsourcing,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://cqrs.js.org,cqrs.js,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.wolkenkit.io/,wolkenkit,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://isis.apache.org/index.html,Apache Isis,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.axonframework.org/,Axon Framework,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.lagomframework.com,Lagom,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://seedstack.org/docs/business/,SeedStack's Business Framework,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://ecotone.tech,Ecotone,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://railseventstore.org,Rails Event Store,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dotnetrocks.com/?show=1151,Deeper into DDD on DotNetRocks with David Real,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dotnetrocks.com/?show=1023,Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dotnetrocks.com/?show=236,Eric Evans on Domain Driven Design on DotNetRocks,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://dotnetrocks.com/?show=191,Jimmy Nilsson on Domain Driven Design on DotNetRocks,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.beingtheworst.com,Being the Worst,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/,Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/,Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation),https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://exploreddd.com/,Explore DDD - USA,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://kandddinsky.com/,Kandddinsky - Germany,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://sessionize.com/ddd-meetups,Collective CFP,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://datawrapper.dwcdn.net/9FNZI/,Map of user groups in Europe,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://datawrapper.dwcdn.net/nbZkd/,Map of user groups in North America,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://datawrapper.dwcdn.net/oin66/,Map of user groups in Asia,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://datawrapper.dwcdn.net/yaEOa/,Map of user groups in Africa,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/ddd-vienna/,Austria,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/dddbcn/,Barcelona,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://dddbelfast.com/,Belfast,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.meetup.com/dddbelgium/,Belgium,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.meetup.com/Domain-Driven-Design-Berlin/,Berlin,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/,Cologne/Bonn,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.meetup.com/ddd-krk/,Cracow,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.facebook.com/groups/dddtaiwan/,DDD Taiwan Community,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/ddd-denver/,Denver,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/dddgreece/,Greece,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/,Hamburg,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.meetup.com/dddlondon/,London,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/Microservices-Meetup-Munich/,Munich,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.meetup.com/Domain-Driven-Design-Nederland/,Nederland,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/dddnorway/,Norway,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/DDD-Phoenix,Phoenix,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.meetup.com/DDD-WAW,Warsaw,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.meetup.com/DDD-WRO,Wroclaw,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://t.me/dddevotion,Russia,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.domainstorytelling.org/,Domain Storytelling,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf,print-out template,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design
+https://www.wps.de/modeler,WPS Modeler,https://github.com/heynickc/awesome-ddd#readme,Domain-Driven Design

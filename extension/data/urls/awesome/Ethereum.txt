@@ -1,0 +1,60 @@
+https://en.wikipedia.org/wiki/Ethereum,Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereum.github.io/yellowpaper/paper.pdf,Yellowpaper,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://openzeppelin.org/,OpenZeppelin,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.truffleframework.com/,Truffle Framework,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://remix.ethereum.org/,Remix Online IDE,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethfiddle.com/,Eth Fiddle,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://cryptozombies.io/,CryptoZombies,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05,Hitchhikers Guide to Smart Contracts,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4,A 101 Noob Intro to Programming Smart Contracts on Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://wiki.parity.io/Dapp-Tutorial,Parity DApp Tutorial,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/,Start Ethereum DApp Development Career,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series,Full Stack DApp Tutorial Series,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereumbuilders.gitbooks.io/guide/content/en/index.html,Ethereum Builders Guide,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://karl.tech/learning-solidity-part-1-deploy-a-contract/,Learning Solidity Tutorial Series,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e,End to End DApp Tutorial,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.codementor.io/learn/blockchain/solidity-tutorials,Various Ethereum & Solidity Tutorials,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://vyper.readthedocs.io/en/latest/index.html,Vyper Documentation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://docs.flintlang.org/,Flint Documentation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers,Ethereum Stack Exchange,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/,Accounts, Transactions, Gas, and Block Gas Limits in Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethernaut.zeppelin.solutions/,Ethernaut Smart Contract Capture the Flag,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://novicedock.com/learn/cryptocurrency/ethereum,Ethereum Syllabus,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/,Cryptocurrency Security: University of Illinois 2016,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://crypto.stanford.edu/cs251_fall15/,Stanford CS 251(p): Bitcoin and Crypto Currencies,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://digitalcurrency.unic.ac.cy/free-introductory-mooc/,Introduction to Digital Currencies: University of Nicosia,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html,Bitcoin and Blockchain Technology: Concordia University,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://consensys.github.io/smart-contract-best-practices/,Smart Contract Best Practices,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf,Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://eprint.iacr.org/2016/633.pdf,Making Smart Contracts Smarter,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://eips.ethereum.org/,Ethereum Improvement Proposals,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/watch?v=-_Qs0XdPpw8,Ethereum Explained (22:00),https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/watch?v=gSQXq2_j-mw,A Guide to Building Your First Decentralized Application (37:00),https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/user/ethereumproject,Ethereum YouTube Channel,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g,Ethereum Foundation YouTube Channel,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://metamask.io/,MetaMask,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.mycrypto.com,MyCrypto,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethgasstation.info/,ETH Gas Station,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://etherscan.io/,Etherscan,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethplorer.io/,Ethplorer,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.etherchain.org/,Etherchain,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://enjinx.io/,Enjinx,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://blockchair.com/ethereum/,Blockchair,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://swarm.ethereum.org/,Swarm,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://arxiv.org/abs/1710.09437,Casper the Friendly Finality Gadget Paper,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b,Introduction to zk-SNARKS with examples,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6,zk-SNARKS: Under the Hood,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/,zk-SNARKs in a nutshell,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+http://coders-errand.com/practical-zk-snarks-for-ethereum/,Practical zk-SNARKs for Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://yos.io/2018/11/10/bonding-curves/,Bonding Curves Explained,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8,Token Bonding Curves in Practice,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://bondingplayground.netlify.com/,Bonding Curve Playground,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf,Introduction to Ethereum and Solidity,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.goodreads.com/book/show/32762240-ethereum,Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.reddit.com/r/ethereum/,r/Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.stateofthedapps.com/,State of the DApps,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+http://www.weekinethereum.com/,Week in Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.meetup.com/find/?allMeetups=false&keywords=ethereum,Ethereum Worldwide Meetups,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://eth.wiki/en/home,Ethereum Wiki Page,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.ethereum.org/,Ethereum Website,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereum.foundation/,Ethereum Foundation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum

@@ -1,0 +1,31 @@
+https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge,,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://www.vagrantbox.es/,Vagrantbox.es,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://app.vagrantup.com/boxes/search,Vagrant Cloud,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://cloud-images.ubuntu.com/vagrant/,Cloud Images Ubuntu.com,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://puppet-vagrant-boxes.puppetlabs.com/,Puppet Labs Vagrant Boxes,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://www.vagrantup.com/docs/provisioning/index.html,All available build in provisioning providers,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://fideloper.github.io/Vaprobash/index.html,Vaprobash,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://fgrehm.viewdocs.io/vagrant-cachier/,vagrant-cachier,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://vagrantmanager.com/,Vagrant Manager,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://phansible.com/,Phansible,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://getprotobox.com/,Protobox,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://rove.io/,Rove,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://www.vagrantup.com/docs/share/,Vagrant share,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://nip.io,nip.io,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://proxylocal.com,proxylocal.com,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://localtunnel.github.io/www/,localtunnel.me,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://portmap.io/,portmap.io,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://www.thisprogrammingthing.com/2013/getting-started-with-vagrant/,Getting Started With Vagrant,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://stdout.in/en/post/getting_started_with_vagrant_automated_dev_servers_deploy_and_provisioning,Getting started with Vagrant - automated dev servers deploy and provisioning.,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm,Working with Advanced Vagrant features in PhpStorm.,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share,Sharing Your Virtual Machine on the Web with Vagrant Share,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://hackr.io/tutorials/learn-vagrant,Programming Community Curated Resources for Learning Vagrant,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837,Vagrant: Up and Running,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://leanpub.com/vagrantcookbook,Vagrant CookBook,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://www.amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748/,Pro Vagrant,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://shop.oreilly.com/product/9781849519182.do,Creating Development Environments with Vagrant,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://shop.oreilly.com/product/9781784397029.do,2nd Edition,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+http://shop.oreilly.com/product/9781784393748.do,Vagrant Virtual Development Environment Cookbook,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://www.drupal.org/project/vdd,VDD,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved,Scotch Box,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant
+https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29,LAMP,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant

@@ -1,0 +1,37 @@
+http://dojotoolkit.org,Dojo JavaScript Toolkit,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dojotoolkit.org/api/,API,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dojotoolkit.org/blog/,Blog,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://demos.dojotoolkit.org/demos/,Demos,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dojotoolkit.org/reference-guide/1.10/,http://dojotoolkit.org/reference-guide/1.10/,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dojotoolkit.org/documentation/,Tutorials,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.sitepen.com/blog/2014/08/13/dojo-faq-how-do-i-use-bootstrap-with-dijit/,Dojo and Bootstrap FAQ,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.pluralsight.com/courses/dojo-fundamentals,Pluralsight's Dojo tutorial,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://packages.dojofoundation.org/,Dojo Foundation packages,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dgrid.io/,dgrid,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://oria.github.io/gridx/,gridx,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://karma-runner.github.io/,Karma,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://robin850.github.io/dojo-rails/,dojo-rails,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and,Dojo & ASP.NET,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://www.dojofaces.org,Dojofaces,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://directwebremoting.org/dwr/index.html,DWR,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://grails.org/,Grails,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://grails.org/plugin/dojo,plugin,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://www.lightstreamer.com/,LightStreamer,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/,Spring,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://www-03.ibm.com/software/products/en/appserv-was,Websphere,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dojotoolkit.org/documentation/tutorials/1.10/node/,Node.js integration,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/,Dojo & Symfony PHP framework,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://yiweima.github.io/flatdojo/,Flat Dojo Theme,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://websemantics.github.io/semantic-dojo/,Semantic Dojo Theme,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/,Definitive TypeScript Guide,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.facebook.com/groups/288220914564119/,Brazilian Facebook Group,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://dojotoolkit.org/community/,Dojo mailing list,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://stackoverflow.com/questions/tagged/dojo,Dojo on StackOverflow,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.facebook.com/groups/4375511291/,Facebook Group,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://plus.google.com/communities/107837593684207188221,Google Plus Community,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.linkedin.com/groups/Dojo-Ajax-Toolkit-Developers-71399,Linked In Dojo Ajax Toolkit Developers Group,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.linkedin.com/groups/dojo-toolkit-81926,Linked In Dojo Toolkit Group,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.reddit.com/r/dojo/,Reddit Community,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://connect.sensiolabs.com/club/dojo-toolkit,SensioLabs Connect Club,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+http://irc.lc/freenode/dojo,IRC,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit
+https://www.meetup.com/topics/dojo/,Meetup,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit

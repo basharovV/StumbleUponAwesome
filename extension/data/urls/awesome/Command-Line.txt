@@ -1,0 +1,14 @@
+https://www.buymeacoffee.com/Oi5LPJ4lr,,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://support.apple.com/en-us/HT201560,Source,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://developer.apple.com/library/archive/technotes/tn2449/_index.html,Source,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+http://www.finkproject.org,Fink,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://support.apple.com/en-us/HT201949,Apple support page,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://apps.apple.com/de/app/macos-catalina/id1466841314,App Store,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/,Apple SUS service,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://sw.kovidgoyal.net/kitty/,kitty,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+http://fishshell.com,Homepage,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+http://www.zsh.org,Homepage,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+http://ohmyz.sh,Oh My Zsh,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://dejavu-fonts.github.io/,DejaVu Sans Mono,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://www.typography.com/fonts/operator/overview/,Operator Mono,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line
+https://adobe-fonts.github.io/source-code-pro/,Source Code Pro,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line

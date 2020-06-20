@@ -1,0 +1,275 @@
+https://craftcms.com,Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcommerce.com,craftcommerce.com,https://github.com/craftcms/awesome#readme,Craft CMS
+https://docs.craftcms.com/tutorial,docs.craftcms.com/tutorial,https://github.com/craftcms/awesome#readme,Craft CMS
+https://docs.craftcms.com/v3,docs.craftcms.com/v3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://docs.craftcms.com/api/v3,Class Reference,https://github.com/craftcms/awesome#readme,Craft CMS
+https://docs.craftcms.com/v2,docs.craftcms.com/v2,https://github.com/craftcms/awesome#readme,Craft CMS
+https://docs.craftcms.com/api/v2,Class Reference,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/guides,craftcms.com/guides,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/partners,craftcms.com/partners,https://github.com/craftcms/awesome#readme,Craft CMS
+https://id.craftcms.com,id.craftcms.com,https://github.com/craftcms/awesome#readme,Craft CMS
+http://dotall.com,dotall.com,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcodingchallenge.com/,Craft Coding Challenge,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcookbook.net/,Craft Cookbook,https://github.com/craftcms/awesome#readme,Craft CMS
+http://craftlinklist.com/,Craft Link List,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftquest.io/,CraftQuest,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftx.io/,CraftX,https://github.com/craftcms/awesome#readme,Craft CMS
+https://discord.me/craftcms,Discord,https://github.com/craftcms/awesome#readme,Craft CMS
+https://webdesign.tutsplus.com/categories/craft-cms/courses,Envato Tuts+,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.facebook.com/craftcms/,Facebook,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/meetups,Meetups,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/craft,Mijingo,https://github.com/craftcms/awesome#readme,Craft CMS
+https://straightupcraft.com/professionals,Professionals,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/slack,Slack,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.stackexchange.com,StackExchange,https://github.com/craftcms/awesome#readme,Craft CMS
+http://straightupcraft.com/,Straight Up Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.workwithcraft.com/,Work With Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://plugins.craftcms.com,Craft 3 Plugins,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftplug.in/,Craft 2 Plugins,https://github.com/craftcms/awesome#readme,Craft CMS
+https://pluginfactory.io/,Plugin Factory,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.php.net/,PHP,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.yiiframework.com/,Yii,https://github.com/craftcms/awesome#readme,Craft CMS
+https://twig.symfony.com/,Twig,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.mysql.com/,MySQL,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.postgresql.org/,PostgreSQL,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms,9 Tips For Speeding Up Your Imager Transforms,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/creating-optimized-images-in-craft-cms,Creating Optimized Images in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.viget.com/articles/responsive-images-with-srcset-craft,Responsive Images with srcset & Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/simple-static-asset-versioning,Simple Static Asset Versioning in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.vaersaagod.no/en/support-for-imgix-in-imager-for-craftcms,Support for Imgix in Imager for Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.vaersaagod.no/en/multi-attribute-variant-selection-in-craft-commerce,Multi-attribute variant selection in Craft Commerce,https://github.com/craftcms/awesome#readme,Craft CMS
+https://designbycosmic.com/articles/development/craft-cms-content-builder-the-client-experience,Craft CMS Content Builder: The Client Experience,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/creating-a-content-builder-in-craft-cms,Creating a Content Builder in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://joren.co/add-users-to-craft-with-content-migrations/,Add users to Craft with content migrations,https://github.com/craftcms/awesome#readme,Craft CMS
+https://adigital.agency/blog/using-content-migrations-in-craft-3,Using Content Migrations in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/11-things-you-need-to-know-about-craft-3,11 Things You Need to Know About Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3,Why you should update your website to Craft CMS 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.jonathankelley.design/blog/deploying-craftcms-to-digital-ocean,Deploying CraftCMS to Digital Ocean,https://github.com/craftcms/awesome#readme,Craft CMS
+https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works,Zero downtime Craft CMS 3 deployments with Buddy.works,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/accessing-global-sets-from-the-element-api-in-craft,Global Sets in the Craft Element API,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/lazy-loading-with-the-element-api-vuejs,Lazy Loading with the Element API & VueJS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/database-asset-syncing-between-environments-in-craft-cms,Database & Asset Syncing Between Environments in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft,Localization & Multi-Environment Setup in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/multi-environment-config-for-craft-cms,Multi-Environment Config for Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://designbycosmic.com/articles/development/craft-cms-ajax-page-transitions-with-history-pushstate,Craft CMS AJAX Page Transitions with history.pushState,https://github.com/craftcms/awesome#readme,Craft CMS
+https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/,Editing a Front End Form with Matrix,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.thebasement.be/language-switcher-for-craft-3/,Language switcher for Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de,20 Principles for Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome,Craft CMS 3 Orientation Guide,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.jonathankelley.design/blog/getting-started-with-craftcms,Getting Started with CraftCMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@galaxyweblinks/how-to-get-started-with-seo-in-craft-cms-b6eef51a5555,How To Get Started With SEO In Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/setting-up-a-craft-cms-3-project,Setting up a New Craft CMS 3 Project,https://github.com/craftcms/awesome#readme,Craft CMS
+https://rias.be/blog/sending-notifications-to-slack-and-other-channels-with-craft-cms,Sending notifications to Slack and other channels with Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://clearleft.com/posts/443,The Living Component Library,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@jalendport/running-craft-cms-2-on-laravel-valet-8a750d1c19e,Getting Started with Craft CMS 2 and Laravel Valet,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@jalendport/running-craft-cms-3-on-laravel-valet-6df61e5193fd,Getting Started with Craft CMS 3 and Laravel Valet,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@timknight/how-i-automate-my-craft-cms-2-x-installs-8427f70914e4,How I Automate My Local Development Craft CMS 2.x Installs,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mattgrayisok.com/a-craft-cms-development-workflow-with-docker-part-1-local-development,A Craft CMS Development Workflow With Docker: Part 1 - Local Development,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/enhancing-a-craft-cms-3-website-with-a-custom-module,Enhancing a Craft CMS 3 Website with a Custom Module,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms,A/B Split Testing with Nginx & Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@galaxyweblinks/debug-tool-in-craft-3-heres-all-you-need-to-know-about-it-be8a3395ebbd,Debug Tool in Craft 3: Here’s all you need to know about it,https://github.com/craftcms/awesome#readme,Craft CMS
+http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms,Large websites and performance in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar,Profiling your Website with Craft CMS 3’s Debug Toolbar,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading,Speed up your Craft CMS Templates with Eager Loading,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@ben_45934/static-file-caching-with-craft-cms-3-aka-the-best-of-both-worlds-879928e2bfb2,Static File Caching with Craft CMS 3, aka The Best Of Both Worlds,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/static-caching-with-craft-cms,Static Page Caching with Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/the-craft-cache-tag-in-depth,The Craft {% cache %} Tag In-Depth,https://github.com/craftcms/awesome#readme,Craft CMS
+https://angell.io/blog/thoughts-on-full-page-caching-in-craft,Thoughts on full page caching in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/3-things-to-know-about-craft-plugin-development,3 Things to Know About Craft Plugin Development,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/craft-plugins-in-craft-3,Craft Plugins in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker,Getting Started with Craft Plugin Development with Ben Croker,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/inspiration-for-your-first-craft-plugin,Inspiration for Your First Craft Plugin,https://github.com/craftcms/awesome#readme,Craft CMS
+https://snipcart.com/blog/craft-cms-ecommerce-plugin,Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin,https://github.com/craftcms/awesome#readme,Craft CMS
+https://gomasuga.com/course/craft-cms-guide,The Guide to Craft CMS Development,https://github.com/craftcms/awesome#readme,Craft CMS
+https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress,The Ultimate Craft CMS vs WordPress Guide,https://github.com/craftcms/awesome#readme,Craft CMS
+https://rias.be/blog/enforcing-better-passwords-in-craft-cms,Enforcing better passwords in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/hardening-craft-cms-permissions,Hardening Craft CMS Permissions,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/hashing-redirect-params-in-craft,Hashing Redirect Params in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/the-case-of-the-missing-php-session,The Case of the Missing PHP Session,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/using-categories-in-craft-cms,Using Categories in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/brief-overview-of-craft-routing-to-templates,Brief Overview of Craft Routing to Templates,https://github.com/craftcms/awesome#readme,Craft CMS
+https://tighten.co/blog/craft-cms-building-complex-queries-by-extending-the-elementcriteriamodel,Building Complex Queries by Extending the ElementCriteriaModel,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/using-twig-range-to-create-an-age-drop-down,Creating an Age Drop-down with Twig range(),https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa,DRY Templating with Twig and Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/filters-in-twig-and-craft,Filters in Twig and Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/handling-errors-gracefully-in-craft-cms,Handling Errors Gracefully in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://cruftlesscraft.com/how-to-check-for-undefined-variables,How to check for undefined variables,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/key-value-arrays-in-twig,Key Value Arrays in Twig,https://github.com/craftcms/awesome#readme,Craft CMS
+https://cruftlesscraft.com/passing-data-from-twig-to-javascript,Passing data from Twig to JavaScript,https://github.com/craftcms/awesome#readme,Craft CMS
+http://gregorterrill.com/blog/2017/quick-tips-craft-cms,Quick Tips: Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/three-tag-types-in-craft-cms-explained,Three Twig Tag Types in Craft CMS Explained,https://github.com/craftcms/awesome#readme,Craft CMS
+https://nystudio107.com/blog/twig-processing-order-and-scope,Twig Processing Order & Scope,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/using-macros-in-twig-and-craft,Using Macros in Twig and Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/using-variables-in-twig-and-craft-cms,Using Variables in Twig and Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/where-am-i-in-the-twig-loop,Where am I in the Twig Loop?,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.webstoemp.com/blog/craft-multilingual-websites-tips/,Tips for Craft multilingual websites,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/,Combined searches and filters using Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/,SVG Sprites and Twig Macros in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.thebasement.be/responsive-tables-in-craft/,Responsive tables in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/craft-3-remote-volumes-with-aws-s3,Craft 3 Remote Volumes with AWS S3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/image-editor-craft-cms-3/,Image Editing in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=_chcVWpA3K8,Images and Image Editing in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/remote-asset-sources-in-craft/,Remote Asset Sources in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/screencasts/craft-commerce/,Fundamentals of Craft Commerce,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=oMA9nJkinxg,Introduction to Craft Commerce II,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=HXy_-LLjV_U,Pushing the Limits of Craft CMS's Matrix Field,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=PDflVN28iR4&t=1s,Customizing the Craft Control Panel,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=1Zly_rVbJpc,An initial look at Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/craft-3-command-line/,Craft 3 Command Line,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/craft-3-what-you-need-to-know/,Craft 3: What You Need to Know,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=4er0UaAvfVs,Better Build Processes with Gulp and Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/creating-an-element-api-in-craft-cms/,Creating an Element API in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=JNe4E6r7jgY,Craft CMS 3 Manual Installation,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/craft-essentials,Craft CMS Essentials,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/bundles/craft-starter-pack/,Craft Starter Pack,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/screencasts/up-and-running-with-craft/,Up and Running with Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=MPWckTSJnX0,Craft-Powered Apps,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=q7-_y8r2W4M,Composer and Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/installing-composer-craft-cms/,Installing Composer,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/installing-craft-cms-3/,Installing Craft 3 (beta),https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/installing-craft-cms/,Installing Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/updating-craft-3-beta-with-composer/,Updating Craft 3 Beta,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/upgrade-to-craft-cms-3/,Upgrading Craft 2 to Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=u_Yqwvx-gA0,Managing Multiple Sites in Craft 3 – Sites and Localization,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/craft-3-multi-site/,Using Craft CMS 3 Multi-Site,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/yii-debug-toolbar-craft-cms/,Yii Debug Toolbar in Craft CMS 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=N2N1TQgdSL0,Craft 3 Plugin Development - Controllers & Variables,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/screencasts/craft-plugin-development/,Craft Plugin Development,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/workbooks/craft-plugin-development-workbook/,Craft Plugin Development Workbook,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftquest.io/courses/how-to-create-craft-plugin,Getting Started with Craft Plugin Development (Craft 3),https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/blog/getting-started-with-craft-plugin-development,Getting Started with Craft Plugin Development (Craft 2),https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=lx6GkcT8SyU,Migrating a Field Type plugin from Craft 2 to Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=twQY7GbpYGg&t=34s,Migrating a plugin from Craft 2 to Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=T6wBZbH0oDU,Migrating a website with plugins from Craft 2 to Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/plugins-in-craft-3/,Plugins in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=DrT9tjkDeQY,Tools for getting started with plugin development?,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=FkdPiWVd8BI,Writing Bulletproof Database Migrations,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=Fl1DZVHTFio,Critical Updates and Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/hashing-redirect-parameter-in-craft/,Hashing Redirects in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=EsI5FgF3BAI&t=5s,Security and Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/changing-section-labels-in-craft/,Changing Section Labels in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/screencasts/control-flow-in-twig/,Control Flow in Twig,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/craft-3-service-apis-in-templates/,Craft 3 Service APIs in Templates,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=SaSmesi3GoY,DRY Templating Techniques,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=H52sphm4YM0,Eager-Loading Elements,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=9x7FZ22N15U,Flexbox and Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/screencasts/reusable-twig-templates-craft/,Flexible Twig Templates in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=FNIM8MvUL-Q,How I build components in CraftCMS with Twig,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=VSXglzqJ2Z4,How to build a content builder in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=e-6bk2VnBCk&feature=youtu.be,How to build a reusable carousel component with Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=IJpCMkA2Bxw,Matrix as a Layout Builder,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=eDAdIkXBH48,Navigating Navigation in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=AylyBOqlooc,Nested navigation based on Structure section,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/passing-data-with-the-twig-include-statement/,Passing Data with Twig Include,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/products/screencasts/twig-templates-in-craft/,Twig Templates in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=DAQ2qh8pebs,Twig's null-coalescing operator (??)!,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/using-dot-all-in-craft-3-element-queries/,Using .all() in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/using-the-batch-filter-in-twig/,Using the Batch Filter in Twig,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.youtube.com/watch?v=lfDZ6v23KcE,Building a Blog in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://mijingo.com/lessons/contact-form-in-craft-cms/,Contact Form in Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/sjcallender/building-a-smarter-craft-commerce-website,Building a Smarter Craft Commerce Website,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/brandonkelly/craft-3-plugin-development,Craft 3 Plugin Development,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/nystudio107/crafting-modern-seo,Crafting Modern SEO,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.slideshare.net/CourtneyBradford/design-processes-and-systems-in-craft-116882979,Design Processes and Systems in Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/bymayo/designers-guide-to-craft-cms-plugins,Designers Guide to Craft CMS Plugins,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/brandonkelly/dot-all-2017-keynote,Dot All 2017 Keynote,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/jamesgreig/how-to-migrate-legacy-content-to-craft-without-losing-your-sanity,How to Migrate Legacy Content to Craft Without Losing Your Sanity,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/philipzaengle/intro-to-craft,Intro to Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/brandonkelly/intro-to-craft-3,Intro to Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/nystudio107/making-a-craft-cms-website-that-flies,Making a Craft CMS Website That Flies,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/drifteaur/multilingual-sites-in-craft-3,Multilingual Sites in Craft 3,https://github.com/craftcms/awesome#readme,Craft CMS
+https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view,Running Craft as a 12-factor app on Heroku,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches,Scaling Craft CMS Sites for Large Launches,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/brandonkelly/state-of-craft-2018,State of Craft 2018,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/putyourlightson/the-art-of-plugin-development,The Art Of Plugin Development,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/bymayo/twig-super-power-roundup-craft-cms-3,Twig Super Power Roundup,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/brandonkelly/whats-the-deal-with-craft-cms,What’s the Deal with Craft CMS?,https://github.com/craftcms/awesome#readme,Craft CMS
+https://speakerdeck.com/bymayo/working-with-craft-commerce,Working with Craft Commerce,https://github.com/craftcms/awesome#readme,Craft CMS
+http://taechogroup.com/blog/10-reasons-why-we-love-craft-cms,10 Reasons Why We Love Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce,A Review of Craft Commerce,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc,A love letter to Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0,An Overview of Pixel & Tonic’s Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d,Craft CMS Vs WordPress: Why Choose Craft?,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started,Crazy About Craft,https://github.com/craftcms/awesome#readme,Craft CMS
+https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites,How we chose Craft CMS for our product websites,https://github.com/craftcms/awesome#readme,Craft CMS
+https://weareabstrakt.com/blog/2017/why-content-managers-love-craft-cms/,Why Content Managers Love Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://caffeinecreations.ca/why-content-writers-love-craft-cms/,Why Content Writers Love Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.ten4design.co.uk/insight/why-craft-cms-is-the-best-content-management-system,Why Craft CMS is the best content management system we (and you) have ever used,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.viget.com/articles/why-we-love-craft-cms,Why We Love Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://designbycosmic.com/articles/development/why-we-use-craft-cms,Why We Use Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://builtbymasonry.com/journal/why-we-use-craft-cms,Why We Use Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://honcho.agency/blog/why-were-craft-cms-developers,Why We're Craft CMS Developers,https://github.com/craftcms/awesome#readme,Craft CMS
+https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms,Why We've Fallen Head Over Heels for Craft CMS,https://github.com/craftcms/awesome#readme,Craft CMS
+https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/,Why we develop websites using Craft CMS instead of Wordpress,https://github.com/craftcms/awesome#readme,Craft CMS
+http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress,Why you should be considering Craft over WordPress,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.webstoemp.com/blog/why-craft-cms/,Why Craft?,https://github.com/craftcms/awesome#readme,Craft CMS
+http://craftpodcast.com/,Craft.Podcast,https://github.com/craftcms/awesome#readme,Craft CMS
+https://devmode.fm/episodes/craft-cms-3-as-an-application-platform,Craft CMS 3 as an Application Platform,https://github.com/craftcms/awesome#readme,Craft CMS
+https://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly,Craft CMS 3 with Pixel & Tonic Founder Brandon Kelly!,https://github.com/craftcms/awesome#readme,Craft CMS
+https://devmode.fm/episodes/dot-all-2018-conference-recap-analysis-live-from-berlin,Dot All 2018 Conference Recap & Analysis, Live from Berlin!,https://github.com/craftcms/awesome#readme,Craft CMS
+https://devmode.fm/episodes/talking-craft-cms-rc1,Talk­ing Craft CMS 3 RC1!,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.fostercommerce.com/podcast,Commerce Minded,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/in-the-field/associated-press,Associated Press,https://github.com/craftcms/awesome#readme,Craft CMS
+https://blog.ap.org,blog.ap.org,https://github.com/craftcms/awesome#readme,Craft CMS
+https://insights.ap.org,insights.ap.org,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.vectormediagroup.com/,Vector Media Group,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/in-the-field/barefoot-contessa,Barefoot Contessa,https://github.com/craftcms/awesome#readme,Craft CMS
+https://barefootcontessa.com,barefootcontessa.com,https://github.com/craftcms/awesome#readme,Craft CMS
+https://aptone.com/,Apartment One,https://github.com/craftcms/awesome#readme,Craft CMS
+https://codemdd.io/,Jonathan Melville,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/in-the-field/grilld,Grill'd,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.grilld.com.au/,grilld.com.au,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.evolution7.com.au/,Evolution 7,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/in-the-field/ide-global,iDE Global,https://github.com/craftcms/awesome#readme,Craft CMS
+https://ideglobal.org,ideglobal.org,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.flipboxdigital.com/,Flipbox Digital,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/in-the-field/mixmag,Mixmag Media,https://github.com/craftcms/awesome#readme,Craft CMS
+http://mixmag.net,mixmag.net,https://github.com/craftcms/awesome#readme,Craft CMS
+http://rye.agency,The Rye Agency,https://github.com/craftcms/awesome#readme,Craft CMS
+https://craftcms.com/in-the-field/samuelsohn,Samuelsohn,https://github.com/craftcms/awesome#readme,Craft CMS
+http://samuelsohn.com,samuelsohn.com,https://github.com/craftcms/awesome#readme,Craft CMS
+http://digitalsurgeons.com/,Digital Surgeons,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.agathachristie.com,Agatha Christie,https://github.com/craftcms/awesome#readme,Craft CMS
+http://aneventapart.com,An Event Apart,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.atkins.com,Atkins,https://github.com/craftcms/awesome#readme,Craft CMS
+https://atlassian.design,Atlassian: Design,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.bigcommerce.com,BigCommerce,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.billnye.com/,Bill Nye,https://github.com/craftcms/awesome#readme,Craft CMS
+https://cityofmarion.in.gov/,City of Marion, IN,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.oaklandca.gov/,City of Oakland,https://github.com/craftcms/awesome#readme,Craft CMS
+http://confabevents.com,Confab Events,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.dalailama.com,Dalai Lama,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.dialpad.com/,Dialpad,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.duckbrand.com,Duck Brand,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.ecuad.ca,Emily Carr University,https://github.com/craftcms/awesome#readme,Craft CMS
+https://fieldnotesbrand.com,Field Notes,https://github.com/craftcms/awesome#readme,Craft CMS
+http://business.foursquare.com,Foursquare for Business,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.guyfieri.com/,Guy Fieri,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.rideicon.com,Icon Motorsports,https://github.com/craftcms/awesome#readme,Craft CMS
+http://msp.intel.com,Intel: Managed Service Providers,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.klipsch.com,Klipsch,https://github.com/craftcms/awesome#readme,Craft CMS
+http://lamarathon.com,LA Marathon,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.layertennis.com,Layer Tennis,https://github.com/craftcms/awesome#readme,Craft CMS
+http://coudal.com/,Coudal Partners,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.adobe.com/,Adobe,https://github.com/craftcms/awesome#readme,Craft CMS
+https://medialoot.com,Medialoot,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.bemilesahead.net/,Mini: Miles Ahead,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.naughtydog.com/,Naughty Dog,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.naviance.com,Naviance,https://github.com/craftcms/awesome#readme,Craft CMS
+https://media.netflix.com,Netflix: Media Center,https://github.com/craftcms/awesome#readme,Craft CMS
+http://nissinfoods.com/,Nissin Foods,https://github.com/craftcms/awesome#readme,Craft CMS
+https://onesignal.com,OneSignal,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.outreach.io,Outreach,https://github.com/craftcms/awesome#readme,Craft CMS
+https://itunes.apple.com/us/app/pbs-kids-games/id1050773989,PBS Kids Games,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.pbs.org/parents/child-development/social-emotional,PBS Parents,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.pingdom.com,Pingdom,https://github.com/craftcms/awesome#readme,Craft CMS
+http://ptsem.edu,Princeton Theological Seminary,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.propublica.org,ProPublica,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.redditinc.com/,Reddit Inc.,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.salesforceiq.com,SalesforceIQ,https://github.com/craftcms/awesome#readme,Craft CMS
+https://www.sonos.com,Sonos,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.stanfordresearchpark.com,Stanford Research Park,https://github.com/craftcms/awesome#readme,Craft CMS
+http://www.stearnsandfoster.com,Stearns & Foster,https://github.com/craftcms/awesome#readme,Craft CMS
+https://corporate.visitvictoria.com,Visit Victoria: Corporate,https://github.com/craftcms/awesome#readme,Craft CMS
+https://wildbit.com,Wildbit,https://github.com/craftcms/awesome#readme,Craft CMS
+http://e360.yale.edu,Yale Environment 360,https://github.com/craftcms/awesome#readme,Craft CMS

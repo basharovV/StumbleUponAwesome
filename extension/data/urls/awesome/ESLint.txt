@@ -1,0 +1,13 @@
+http://eslint.org,,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://www.npmjs.com/package/eslint-config-fbjs,Facebook,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+http://google.github.io/styleguide/javascriptguide.xml,Google style,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://reactjs.org,React,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript,Wikimedia's style guide,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://www.mediawiki.org/,MediaWiki,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://editorconfig.org/,.editorconfig,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://gitlab.com/remcohaszing/eslint-formatter-gitlab,eslint-formatter-gitlab,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f,Creating an ESLint Plugin,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://egghead.io/lessons/javascript-linting-javascript-with-eslint,Linting JavaScript with ESLint,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6,Linting React JSX with ESLint (in ES6),https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://chrysanthium.com/eslint-integration,Plugin Module with Mixins,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/,Writing a rule to spot undeclared props hiding in plain sight,https://github.com/dustinspecker/awesome-eslint#readme,ESLint

@@ -1,0 +1,20 @@
+http://www.seanba.com/tiled2unity,Tiled2Unity,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://www.mapeditor.org,Tiled,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://arongranberg.com/astar/,A* Pathfinding Project,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about,ARToolKit,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://developers.google.com/vr/unity,Google VR SDK,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://vuforia.com/,Vuforia,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://strangeioc.github.io/strangeioc/,StrangeIoC,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://sabrecsg.com/,SabreCSG,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://en.wikipedia.org/wiki/Constructive_solid_geometry,CSG,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://imgur.com/a/2w7zd,Editor Tips,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://unity3d.com/learn/tutorials/topics/tips,Unity Tips,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://nielson.io/2015/12/splatter-effects-in-unity-using-the-stencil-buffer,2D Splatter Effects Using the Stencil Buffer,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d,A Gentle Introduction to Shaders in Unity3D,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://nielson.io/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2,Fixing Gaps Between Sprites,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://gameprogrammingpatterns.com/contents.html,Game Programming Patterns,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c,Modern GUI Development in Unity 4.6,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://unity3d.com/learn/tutorials/modules,Official Video Tutorials,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://www.raywenderlich.com/category/unity,Ray Wenderlich's Tutorials,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview,Unity in HoloLens,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://docs.unity3d.com/Manual/VROverview.html,Unity Virtual Reality,https://github.com/RyanNielson/awesome-unity#readme,Unity

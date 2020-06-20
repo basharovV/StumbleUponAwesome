@@ -37,10 +37,11 @@ def merge_chunks():
             f.write(url)
     
 if __name__ == "__main__":
-    with open("urls_with_descriptions.txt", 'r') as f:
-
-        if os.path.exists("urls_with_descriptions_cleaned.txt"):
-            os.remove("urls_with_descriptions_cleaned.txt")
+    # loop through all the URL files
+    for filename in os.listdir('../extension/data/urls/awesome'):
+        with open(filename, 'r') as f:
+            if os.path.exists("urls_with_descriptions_cleaned.txt"):
+                os.remove("urls_with_descriptions_cleaned.txt")
 
         urls = f.readlines()
         chunks = [urls[x:x+100] for x in range(0, len(urls), 100)]

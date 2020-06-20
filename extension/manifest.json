@@ -8,7 +8,7 @@
     ],
     "persistent": false
   },  
-  "web_accessible_resources": ["images/icon_16.png", "images/icon_32.png", "images/icon_128.png", "images/rabbithole.gif", "images/rabbithole.png"],
+  "web_accessible_resources": ["images/icon_16.png", "images/icon_32.png", "images/icon_128.png", "images/rabbithole.gif", "images/rabbithole.png", "images/spiral.png", "images/close.svg"],
   "content_scripts": [
     {
       "matches": [

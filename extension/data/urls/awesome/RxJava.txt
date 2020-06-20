@@ -1,0 +1,8 @@
+https://bitbucket.org/littlerobots/rxlint,rxlint,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+http://staltz.com/rx-glitches-arent-actually-a-problem.html,Rx glitches aren't actually a problem,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/,RxJava's repeatWhen and retryWhen, explained,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+http://tomstechnicalblog.blogspot.co.uk/2016/03/rxjava-problem-with-subjects.html,RxJava - The Problem with Subjects,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+http://groups.google.com/d/forum/rxjava,Google Group,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+http://stackoverflow.com/search?q=rx-java,StackOverflow,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+https://gitter.im/ReactiveX/RxJava,ReactiveX/RxJava on Gitter,https://github.com/eleventigers/awesome-rxjava#readme,RxJava
+http://jokubasdargis.net/,Jokubas Dargis,https://github.com/eleventigers/awesome-rxjava#readme,RxJava

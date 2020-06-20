@@ -1,0 +1,131 @@
+http://elm-lang.org/docs,Official tutorial,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c,Elm in Action,https://github.com/sporto/awesome-elm#readme,Elm
+http://exercism.io/languages/elm,Exercism Elm Track,https://github.com/sporto/awesome-elm#readme,Elm
+http://learnyouanelm.github.io/,Learn you an Elm,https://github.com/sporto/awesome-elm#readme,Elm
+http://elmprogramming.com/,Beginning Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://learnxinyminutes.com/docs/elm/,Learn Elm in Y Minutes,https://github.com/sporto/awesome-elm#readme,Elm
+https://learnxinyminutes.com,learnxinyminutes.com,https://github.com/sporto/awesome-elm#readme,Elm
+http://rundis.github.io/blog/2016/elm_maybe.html,Elm Maybe - Dealing with null/Nothing,https://github.com/sporto/awesome-elm#readme,Elm
+https://pragprog.com/book/jfelm/programming-elm,Programming Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/,Ninety-nine Problems, Solved in Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.codementor.io/elm/tutorial,Elm Tutorials on Codementor,https://github.com/sporto/awesome-elm#readme,Elm
+https://en.wikibooks.org/wiki/Elm_programming_language,Elm programming language,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940,Elm: A Beginners' Guide to Elm and Data,https://github.com/sporto/awesome-elm#readme,Elm
+https://korban.net/elm/book,Practical Elm for a Busy Developer,https://github.com/sporto/awesome-elm#readme,Elm
+https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street,A nice app on Elm street,https://github.com/sporto/awesome-elm#readme,Elm
+https://zaid-ajaj.github.io/the-elmish-book,The Elmish Book,https://github.com/sporto/awesome-elm#readme,Elm
+https://dotnet.microsoft.com/languages/fsharp,F#,https://github.com/sporto/awesome-elm#readme,Elm
+https://pragmaticstudio.com/elm,Elm: Building Reactive Web Apps,https://github.com/sporto/awesome-elm#readme,Elm
+https://dennisreimann.de/articles/elm.html,Elm: Functional frontend development,https://github.com/sporto/awesome-elm#readme,Elm
+https://sporto.gitbooks.io/elm-tutorial/content/,Elm Tutorial,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html,A Concise Introduction to Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://elmseeds.thaterikperson.com/,Elm Seeds,https://github.com/sporto/awesome-elm#readme,Elm
+http://courses.knowthen.com/courses/elm-for-beginners,Elm For Beginners - Video Course,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene,Single-Page Web Apps in Elm,https://github.com/sporto/awesome-elm#readme,Elm
+http://faq.elm-community.org/,Elm FAQ,https://github.com/sporto/awesome-elm#readme,Elm
+http://elm-community.org/,Elm Community,https://github.com/sporto/awesome-elm#readme,Elm
+https://auth0.com/blog/creating-your-first-elm-app-part-1/,Elm Tutorial by Auth0,https://github.com/sporto/awesome-elm#readme,Elm
+http://elm-lang.org/blog,elm-lang.org/blog,https://github.com/sporto/awesome-elm#readme,Elm
+http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html?utm_campaign=Elm%20Weekly&utm_medium=email&utm_source=Revue%20newsletter,Side-effects of Elm in production,https://github.com/sporto/awesome-elm#readme,Elm
+http://futurice.com/blog/elm-in-the-real-world,How Elm Made Our Work Better,https://github.com/sporto/awesome-elm#readme,Elm
+http://elm-lang.org/blog/blazing-fast-html,Blazing Fast HTML,https://github.com/sporto/awesome-elm#readme,Elm
+http://www.gizra.com/content/elm-business-perspective/,Elm from a Business Perspective,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.brianthicks.com,Blog of Brian Hicks,https://github.com/sporto/awesome-elm#readme,Elm
+https://css-tricks.com/introduction-elm-architecture-build-first-application/,Introduction to The Elm Architecture and How to Build our First Application,https://github.com/sporto/awesome-elm#readme,Elm
+https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view,Functional Programming for Web Frontend by Jan Luxemburk,https://github.com/sporto/awesome-elm#readme,Elm
+https://medium.com/p/elm-components-3d9c00c6c612,Elm & Components,https://github.com/sporto/awesome-elm#readme,Elm
+https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78,Getting Started with Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://medium.com/@debois/elm-guarantees-92a66679f7bd,Elm & Guarantees,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN,Elm Conf 2019,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PL-cYi7I913S_oRLJEpsVbSTq_OOMSXlPD,Elm Europe 2019,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ,Elm in the Spring 2019,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF,Oslo Elm Day 2019,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW,Elm Conf 2018,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG,Elm Europe 2018,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA,Elm Conf 2017,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM,Elm Europe 2017,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli,Oslo Elm Day 2017,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd,Elm Conf 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=memIRXFSNkU,Dillon Kearns: Types Without Borders | 2018,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=txxKx_I39a8,Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=3_M2G9U51GA,Richard Feldman: Introduction to Elm | 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=FgaoOgJ5CAU,Amitai Burstein: Frontend with Guarantees | 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=cgXhMc8M4X4,Jessica Kerr: Adventures in Elm | 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf,Aaron VonderHaar: Codevember | 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw,ElmLive,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=IcgmSRJHu_8,Richard Feldman: Making impossible states impossible | 2016,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=6EdXaWfoslc,Richard Feldman: Effects as Data | 2015,https://github.com/sporto/awesome-elm#readme,Elm
+http://www.youtube.com/watch?v=FV0DXNB94NE,Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=oYk8CKH7OhE,Evan Czaplicki: Let's be mainstream! User focused design in Elm | 2015,https://github.com/sporto/awesome-elm#readme,Elm
+https://egghead.io/technologies/elm,Egghead.io: Elm videos,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/watch?v=g48K6ABfRzA,Elm Basics,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA,Greg Ziegan: Elm live coding videos,https://github.com/sporto/awesome-elm#readme,Elm
+https://elm-lang.org/news,Official Elm News,https://github.com/sporto/awesome-elm#readme,Elm
+https://elmbits.com/,Elm Bits,https://github.com/sporto/awesome-elm#readme,Elm
+https://elm-news.com/,Elm News,https://github.com/sporto/awesome-elm#readme,Elm
+https://elm-greenwood.com/,Elm Greenwood,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.reddit.com/r/elm/,Elm Reddit,https://github.com/sporto/awesome-elm#readme,Elm
+https://elmtown.github.io/,Elm Town,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.implementingelm.com/,Implementing Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://elm-radio.com,Elm Radio,https://github.com/sporto/awesome-elm#readme,Elm
+https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11,Elixir Fountain Evan Czaplicki 2016-07-11,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/,Functional Geekery 33,https://github.com/sporto/awesome-elm#readme,Elm
+https://changelog.com/218/,The Changelog 218,https://github.com/sporto/awesome-elm#readme,Elm
+https://changelog.com/191/,The Changelog 191,https://github.com/sporto/awesome-elm#readme,Elm
+http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/,Software Engineering Daily,https://github.com/sporto/awesome-elm#readme,Elm
+https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman,JavaScript Jabber 175,https://github.com/sporto/awesome-elm#readme,Elm
+https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki,Ruby Rogues 212,https://github.com/sporto/awesome-elm#readme,Elm
+http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react,The Web Platform Podcast 15,https://github.com/sporto/awesome-elm#readme,Elm
+http://thewebplatformpodcast.com/76-the-elm-programming-language,The Web Platform Podcast 76,https://github.com/sporto/awesome-elm#readme,Elm
+http://thewebplatformpodcast.com/108-elm-revisited,The Web Platform Podcast 108,https://github.com/sporto/awesome-elm#readme,Elm
+http://www.fullstackradio.com/44,Full Stack Radio 44,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.infoq.com/podcasts/richard-feldman,InfoQ Podcast 2017-04-27,https://github.com/sporto/awesome-elm#readme,Elm
+https://korban.net/elm/catalog,Elm Catalog,https://github.com/sporto/awesome-elm#readme,Elm
+https://dependabot.com,Dependabot,https://github.com/sporto/awesome-elm#readme,Elm
+http://elm-lang.org/docs/style-guide,Elm Style Guide,https://github.com/sporto/awesome-elm#readme,Elm
+https://elm-live.com/,Elm Live,https://github.com/sporto/awesome-elm#readme,Elm
+http://elm-pages.com,Elm Pages,https://github.com/sporto/awesome-elm#readme,Elm
+https://korban.net/elm/elmstatic,Elmstatic,https://github.com/sporto/awesome-elm#readme,Elm
+http://mbylstra.github.io/html-to-elm/,HTML to Elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://ellie-app.com/,Ellie,https://github.com/sporto/awesome-elm#readme,Elm
+http://elmrepl.cuberoot.in,Online REPL,https://github.com/sporto/awesome-elm#readme,Elm
+https://atom.io/packages/elm-instant,elm-instant,https://github.com/sporto/awesome-elm#readme,Elm
+https://glitch.com/search?q=elm&activeFilter=project,Glitch,https://github.com/sporto/awesome-elm#readme,Elm
+https://parceljs.org/elm.html,Parcel,https://github.com/sporto/awesome-elm#readme,Elm
+https://atom.io/packages/linter-elm-make,atom-linter-elm-make,https://github.com/sporto/awesome-elm#readme,Elm
+https://atom.io/packages/language-elm,atom-language-elm,https://github.com/sporto/awesome-elm#readme,Elm
+https://atom.io/packages/elmjutsu,elmjutsu,https://github.com/sporto/awesome-elm#readme,Elm
+https://atom.io/packages/elm-navigator,atom-elm-navigator,https://github.com/sporto/awesome-elm#readme,Elm
+https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting,Elm Syntax Highlighting,https://github.com/sporto/awesome-elm#readme,Elm
+https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode,ElmLS,https://github.com/sporto/awesome-elm#readme,Elm
+https://marketplace.visualstudio.com/items?itemName=necinc.elmmet,Elmmet: Emmet for Elm (Visual Studio Code),https://github.com/sporto/awesome-elm#readme,Elm
+https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm,HTML to Elm for Visual Studio Code,https://github.com/sporto/awesome-elm#readme,Elm
+https://package.elm-lang.org/,Elm packages,https://github.com/sporto/awesome-elm#readme,Elm
+http://klaftertief.github.io/elm-search/,Elm Search,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.elm-spa.dev/,elm-spa,https://github.com/sporto/awesome-elm#readme,Elm
+http://builtwithelm.co/,Builtwithelm,https://github.com/sporto/awesome-elm#readme,Elm
+http://rtfeldman.github.io/elm-spa-example/,Elm SPA Example,https://github.com/sporto/awesome-elm#readme,Elm
+https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa,Article,https://github.com/sporto/awesome-elm#readme,Elm
+http://elm-playground.maciejsmolinski.com/,Elm Playground,https://github.com/sporto/awesome-elm#readme,Elm
+https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-1/,Part 1,https://github.com/sporto/awesome-elm#readme,Elm
+https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-2/,Part 2,https://github.com/sporto/awesome-elm#readme,Elm
+https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-3/,Part 3,https://github.com/sporto/awesome-elm#readme,Elm
+https://ccamel.github.io/playground-elm/index.html,Elm Playground,https://github.com/sporto/awesome-elm#readme,Elm
+http://elmnarrativeengine.com,elmnarrativeengine.com,https://github.com/sporto/awesome-elm#readme,Elm
+https://arisgarden.theiceshelf.com/,site,https://github.com/sporto/awesome-elm#readme,Elm
+https://martinsstewart.gitlab.io/hackman/,Circuit Breaker,https://github.com/sporto/awesome-elm#readme,Elm
+https://gitlab.com/MartinSStewart/hackman/,Source,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.seedsgame.com,seedsgame.com,https://github.com/sporto/awesome-elm#readme,Elm
+https://discourse.elm-lang.org/,Discourse,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.reddit.com/r/elm,Reddit,https://github.com/sporto/awesome-elm#readme,Elm
+http://webchat.freenode.net/?channels=elm,IRC,https://github.com/sporto/awesome-elm#readme,Elm
+http://elmlang.herokuapp.com/,Slack,https://github.com/sporto/awesome-elm#readme,Elm
+https://2019.elm-conf.com/,Elm Conf,https://github.com/sporto/awesome-elm#readme,Elm
+https://2019.elmeurope.org/,Elm Europe,https://github.com/sporto/awesome-elm#readme,Elm
+https://www.elminthespring.org/,Elm in the spring,https://github.com/sporto/awesome-elm#readme,Elm
+https://osloelmday.no/,Oslo Elm day,https://github.com/sporto/awesome-elm#readme,Elm
+https://elmjapan.org/,Elm Japan,https://github.com/sporto/awesome-elm#readme,Elm
+https://fsbolero.io/,Bolero,https://github.com/sporto/awesome-elm#readme,Elm
+https://bucklescript.github.io/,Bucklescript,https://github.com/sporto/awesome-elm#readme,Elm
+https://redux.js.org/introduction/prior-art,Redux,https://github.com/sporto/awesome-elm#readme,Elm
+https://developer.apple.com/xcode/swiftui/,SwiftUI,https://github.com/sporto/awesome-elm#readme,Elm

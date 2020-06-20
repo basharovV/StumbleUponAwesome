@@ -1,0 +1,88 @@
+https://wavesprotocol.org/,,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://docs.wavesprotocol.org/,Documentation,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee,French,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/54415,Mastering Web3 with Waves,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56101,Deutsch,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56168,Greek,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56024,Hindi,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56162,Portuguese,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56401,Russian,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56010,Spanish,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stepik.org/course/56131,Turkish,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/mastering-web3-with-waves,Mastering Web3 with Waves (on Medium),https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/web3withwavesde,Deutcsh,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/leer-web3-0-met-waves,Dutch,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves,French,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://link.medium.com/D6jo2gBtw5,Hindi,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/dominando-web-3-0-com-waves,Portuguese,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/dominando-web3-0-con-waves,Spanish,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf,PDF,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.signature-chain.com/web3-pdf/cheat-sheet.psd,PSD,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://fonts.google.com/specimen/Open+Sans,Font,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf,PDF French,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/wavesprotocol/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2,How to Build, Deploy and Test a Waves Ride dApp,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://habr.com/ru/company/waves/blog/459773/,ru,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8,How to: Waves dApps — DAO. Example using Ride-language for smart contracts,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://habr.com/ru/post/447808/,ru,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d,How to: Waves dApps — Prediction Markets example with Ride-language. Part 1,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://docs.wavesprotocol.org/en/smart-contracts/simple-voting-on-the-waves-blockchain.html,Simple voting on the Waves blockchain,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://waves.exchange/,Waves.Exchange Wallet,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavesprotocol.org/protocol/keeper,Waves Keeper,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://itunes.apple.com/us/app/waves-wallet/id1233158971,iOS wallet,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://play.google.com/store/apps/details?id=com.wavesplatform.wallet,Android wallet,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavesexplorer.com,Waves Explorer,https://github.com/msmolyakov/awesome-waves#readme,Waves
+http://dev.pywaves.org,Dev PyWaves,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://w8io.ru/,w8io,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://waveslabs.com/,WavesLabs,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://oracles.wavesexplorer.com/,Waves Oracles,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://tokenrating.wavesexplorer.com,Token Rating,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavescap.com/,WavesCap,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://item.market/,ItemMarket,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://medium.com/wavesprotocol/item-market-is-launched-cabefe915c04,read more,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavesexplorer.com/testnet,Explorer,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavesexplorer.com/testnet/faucet,faucet,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://nodes-testnet.wavesnodes.com/,Node API,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://api-test.wavesplatform.com/v0/docs/,Data Service,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavesexplorer.com/stagenet,Explorer,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavesexplorer.com/stagenet/faucet,faucet,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://nodes-stagenet.wavesnodes.com/,Node API,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://ide-stagenet.wavesplatform.com,IDE,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://hub.docker.com/r/wavesplatform/wavesnode,WavesNode,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://hub.docker.com/r/wavesplatform/waves-private-node,waves-private-node,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://hub.docker.com/r/wavesplatform/explorer,explorer,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://ide.wavesplatform.com/,Waves IDE,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride,waves-ride,https://github.com/msmolyakov/awesome-waves#readme,Waves
+http://waves-nodes-map.ikardanov.com/,Nodes on map,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://dappradar.com/rankings/protocol/waves,Waves on DappRadar,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.dappocean.io/,dAppOcean,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://nyancat.io/,NyanCat: The Crypto Race,https://github.com/msmolyakov/awesome-waves#readme,Waves
+http://www.shadowera.com/,Shadow Era,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.coin-flip.io/,Coin Flip,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.dice-roller.io/,Dice Roller,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.waves-rider.io/,Ride On Waves,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://alpha.ventuary.space/,Ventuary-DAO,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://tokenomica.com/,Tokenomica,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://ligatokens.io/,LIGA,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://waveflow.xyz/,WaveFlow,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://lombardini.io/,Lombardini,https://github.com/msmolyakov/awesome-waves#readme,Waves
+http://blockchaincars.io/,Blockchain Cars,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.onemillionpixelwaves.com/,One Million Pixel Waves,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://www.signature-chain.com/,Signature Chain,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://beta.auctionlance.com,Auctionlance Platform,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/waves_ride_dapps_dev,Waves Dev Jedi. Ride for dApps,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://discordapp.com/invite/cnFmDyA,Discord,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://wavescommunity.com/,Waves Community Portal,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://forum.wavesplatform.com/,Waves Community Forum,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://stackoverflow.com/questions/tagged/wavesplatform,Stack Overflow,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesafrica,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesdappsnl,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesdappsFR,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesdappsgr,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesdappsid,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesjapandevs,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesDevPh,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/WavesBrasil,Telegram - WavesBrasil,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew,Telegram - Waves Dev Jedi 🇧🇷 🇵🇹,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/tradisys_russia,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesdappsES,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves
+https://t.me/wavesdappstu,Telegram,https://github.com/msmolyakov/awesome-waves#readme,Waves

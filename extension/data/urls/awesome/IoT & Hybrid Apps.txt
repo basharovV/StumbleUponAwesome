@@ -1,0 +1,25 @@
+http://www.arduino.cc/,Arduino,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://beagleboard.org/bone,BeagleBoard,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://www.developers.meethue.com/,Hue,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share,Onion Omega,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://node-os.com/,Node OS,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://raspbian.org/,Raspbian,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://iot.eclipse.org,IoT Eclipse,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://gladysproject.com,Gladys Project,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://www.balena.io/,BalenaCloud,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://hackaday.io/projects,Hackday,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://www.instructables.com/tag/type-id/category-technology/,Instructables - tech,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://www.hackster.io/,Hackster,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://www.kaaproject.org/,Kaa Project,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://www.opc-router.com/,OPC Router,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://bitbucket.org/chromiumembedded/cef,Chromium Embedded Framework,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://facebook.github.io/react-native/,React-Native,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://phonegap.com/,PhoneGap,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://coronalabs.com/,Corona,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://www.appcelerator.com/,Appcelerator,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://software.intel.com/en-us/html5/tools,Intel XDK,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://trigger.io/,Trigger.io,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://crosswalk-project.org/,Crosswalk,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+http://www.telerik.com/platform,Telerik Platform,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://tabrisjs.com/,Tabris.js,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps
+https://www.mozilla.org/en-US/firefox/os/,Firefox OS,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps

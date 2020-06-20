@@ -26,71 +26,121 @@ var os = 'mac'; // mac", "win", "android", "cros", "linux"
 */
 var stumbleUrl;
 
+/**
+ * Rabbithole mode. When not null, the mode is enabled 
+ * and each stumble is on the same category. 
+ * 
+ * It is persisted in local storage. 
+ * @type {string|null} 
+ */
+var rabbitHoleCategory = null;
+
 var isPendingStumble = false;
 
 chrome.runtime.getPlatformInfo(function (info) {
   os = info.os;
-})
+});
+
+async function init() {
+  rabbitHoleCategory = await getRabbitHoleCategory();
+}
+
+init();
 
 /**
- * Find a random URL from the file and load it
  * 
- * The URLs in the urls.txt file have been scraped from each README pages collected
+ * @param {string} filepath Path to the file
+ * @returns {Array} a random line, token separated
+ */
+function getRandomLineFromFile(filepath) {
+  return new Promise((resolve, reject) => {
+    try {
+      var rawFile = new XMLHttpRequest();
+      rawFile.open("GET", filepath, true);
+      rawFile.onreadystatechange = function () {
+        if (rawFile.readyState === 4) {
+          if (rawFile.status === 200) {
+            var allText = rawFile.responseText;
+            var lines = allText.split('\n');
+            totalUrls = lines.length;
+            var randomNum = Math.floor(Math.random() * lines.length);
+            const randomLine = lines[randomNum].split(',');
+            resolve(randomLine);
+          }
+        }
+      }
+      // Initiate the request for the file
+      rawFile.send(null);
+
+    } catch (error) {
+      reject(error);
+    }
+  });
+}
+
+async function findUrl(source, category) {
+  const defaultSource = 'awesome';
+
+  // Rabbithole mode ON
+  if (category) {
+    // Only one source for now, 'awesome'
+    const randomUrl = await getRandomLineFromFile(`./data/urls/${defaultSource}/${category}.txt`);
+    return randomUrl;
+  }
+  // Rabbithole mode OFF - Random 
+  const randomCategory = await getRandomLineFromFile(`./data/sources/${defaultSource}.txt`);
+  const randomUrl = await getRandomLineFromFile(`./data/urls/${defaultSource}/${randomCategory[0]}.txt`);
+  return randomUrl;
+
+}
+
+
+/**
+ * Find a random URL and load it
+ * 
+ * The URLs have been scraped from each README pages collected
  * in https://github.com/sindresorhus/awesome/blob/master/readme.md
  * 
  * Huge props to @sindresorhus for curating all that content
  */
-function loadUrl() {
-  var randomLine;
-  var rawFile = new XMLHttpRequest();
-  rawFile.open("GET", "urls.txt", true);
-  rawFile.onreadystatechange = function () {
-    if (rawFile.readyState === 4) {
-      if (rawFile.status === 200) {
-        var allText = rawFile.responseText;
-        var lines = allText.split('\n');
-        totalUrls = lines.length;
-        var randomNum = Math.floor(Math.random() * lines.length);
-        randomLine = lines[randomNum].split(',');
-        stumbleUrl = {
-          url: randomLine[0],
-          title: randomLine[1].trim().length > 0 ? randomLine[1].trim() : undefined,
-          listUrl: randomLine[2],
-          listTitle: randomLine[3]
-        }
-        console.log("Random Line\n" + randomLine)
-      }
-      // Switch to exiting tab 
-      if (stumbleTabId !== null) {
-        try {
-          chrome.tabs.update(stumbleTabId, {
-            url: stumbleUrl.url,
-            active: true
-          }, function (tab) {
-          })
-        } catch (exception) {
-          chrome.tabs.update({
-            url: stumbleUrl.url,
-          }, async function (tab) {
-            await saveStumbleTabId(tab.id);
-          })
-        }
-      }
-      // or Open New tab
-      else {
-        chrome.tabs.create({
-          url: stumbleUrl.url,
-        }, async function (tab) {
-          await saveStumbleTabId(tab.id);
-        })
-      }
+async function stumble() {
+
+  const randomLine = await findUrl('awesome', rabbitHoleCategory);
+
+  stumbleUrl = {
+    url: randomLine[0],
+    title: randomLine[1].trim().length > 0 ? randomLine[1].trim() : undefined,
+    listUrl: randomLine[2],
+    listTitle: randomLine[3]
+  }
+  console.log("Random Line\n" + randomLine)
+
+  // Switch to exiting tab 
+  if (stumbleTabId !== null) {
+    try {
+      chrome.tabs.update(stumbleTabId, {
+        url: stumbleUrl.url,
+        active: true
+      }, function (tab) {
+      })
+    } catch (exception) {
+      chrome.tabs.update({
+        url: stumbleUrl.url,
+      }, async function (tab) {
+        await saveStumbleTabId(tab.id);
+      })
     }
   }
-
-  // Initiate the request for the file
-  rawFile.send(null);
-
+  // or Open New tab
+  else {
+    chrome.tabs.create({
+      url: stumbleUrl.url,
+    }, async function (tab) {
+      await saveStumbleTabId(tab.id);
+    })
+  }
 }
+
 var interval = 0;
 
 function sleep(ms) {
@@ -223,6 +273,62 @@ async function animateIcon() {
   });
 }
 
+
+/**
+ * Get a value from storage.
+ * @param {string} key Key
+ * @param {any} defaultVal The default value
+ */
+const get = async (key, defaultVal) => {
+  return new Promise((resolve, reject) => {
+    chrome.storage.local.get({ [key]: defaultVal }, result => {
+      resolve(result[key]);
+    });
+  })
+}
+
+/**
+* Set a value.
+* @param {string} key Key
+* @param {any} val Value
+*/
+const set = async (key, val) => {
+  const item = { [key]: val };
+  return new Promise((resolve, reject) => {
+    chrome.storage.local.set(item, () => {
+      resolve();
+    });
+  })
+}
+
+const getRabbitHoleCategory = async () => {
+  await get('rabbitHoleCategory', null);
+}
+
+const setRabbitHoleCategory = async category => {
+  await set('rabbitHoleCategory', category);
+  rabbitHoleCategory = category;
+}
+
+const enterRabbitHole = async () => {
+  console.log(`Setting rabbit hole category to ${stumbleUrl.listTitle}`);
+  await setRabbitHoleCategory(stumbleUrl.listTitle);
+  chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
+    notifyTabStumble(result.visited, result.totalUrls, rabbitHoleCategory !== null);
+  });
+  console.log(`Rabbit hole mode: ${rabbitHoleCategory}`);
+}
+
+const exitRabbitHole = async () => {
+  await setRabbitHoleCategory(null);
+  
+  chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
+    notifyTabStumble(result.visited, result.totalUrls, rabbitHoleCategory !== null);
+  });
+  console.log(`Rabbit hole mode: ${rabbitHoleCategory}`);
+
+}
+
 const saveStumbleTabId = tabId => {
   return new Promise((resolve, reject) => {
     chrome.storage.local.set({ 'stumbleTabId': tabId }, function () {
@@ -266,7 +372,7 @@ function update() {
       // Set new value
       chrome.storage.local.set({ 'visited': incremented, 'totalUrls': totalUrls }, function () {
         console.log('Visited is now set to ' + incremented);
-        notifyTabStumble(incremented, totalUrls);
+        notifyTabStumble(incremented, totalUrls, rabbitHoleCategory !== null);
       });
     }
   });
@@ -280,10 +386,10 @@ chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
   }
 });
 
-function notifyTabStumble(visited, totalUrls) {
+function notifyTabStumble(visited, totalUrls, isRabbitHoleEnabled) {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
-    chrome.tabs.sendMessage(stumbleTabId, { "message": "stumble", 'visited': visited, 'totalUrls': totalUrls, stumbleUrl });
+    chrome.tabs.sendMessage(stumbleTabId, { "message": "stumble", 'visited': visited, 'totalUrls': totalUrls, stumbleUrl, isRabbitHoleEnabled });
   });
 }
 
@@ -303,7 +409,7 @@ chrome.browserAction.onClicked.addListener(
     // Get stumble tab Id
     const savedStumbleTabId = await getStumbleTabId();
     const tabs = await getBrowserTabs();
-    const tabIds = tabs.map(t=>t.id);
+    const tabIds = tabs.map(t => t.id);
 
     // Reset if necessary
     if (windowId !== currentWindowId || !stumbleTabId || !tabIds.includes(savedStumbleTabId)) {
@@ -314,7 +420,7 @@ chrome.browserAction.onClicked.addListener(
     }
 
     isPendingStumble = true;
-    loadUrl();
+    stumble();
     animateIcon();
   }
 );
@@ -336,7 +442,17 @@ chrome.runtime.onInstalled.addListener(function () {
 
   chrome.contextMenus.removeAll(function () {
     chrome.contextMenus.create({
-      id: "stumbleuponawesome",
+      id: "sax-show",
+      title: 'Show info bubbles',
+      contexts: ["browser_action"]
+    });
+    chrome.contextMenus.create({
+      id: "sax-rabbit-hole",
+      title: 'Down the rabbit hole!',
+      contexts: ["browser_action"]
+    });
+    chrome.contextMenus.create({
+      id: "sax-feedback",
       title: 'Give feedback to improve the extension',
       contexts: ["browser_action"]
     });
@@ -349,7 +465,7 @@ chrome.runtime.onInstalled.addListener(function () {
  */
 const getBrowserTabs = async () => {
   return new Promise((resolve, reject) => {
-    chrome.tabs.query({currentWindow: true}, function (tabs) {
+    chrome.tabs.query({ currentWindow: true }, function (tabs) {
       resolve(tabs);
     });
   })
@@ -371,11 +487,28 @@ const getFocusedWindowId = () => {
 Context menu
 */
 chrome.contextMenus.onClicked.addListener(function (event) {
-  if (event.menuItemId === "stumbleuponawesome") {
-
+  if (event.menuItemId === "sax-feedback") {
     chrome.tabs.create({
       url: 'mailto:stumbleuponawesome@gmail.com?subject=Feedback on StumbleUponAwesome&body=Tell me! :)',
     }, function (tab) {
     })
+  } else if (event.menuItemId === "sax-show") {
+    chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
+      notifyTabStumble(result.visited, result.totalUrls, rabbitHoleCategory !== null);
+    });
   }
 });
+
+
+/** Messages from content script */
+
+chrome.runtime.onMessage.addListener(
+  async function (request, sender, sendResponse) {
+      console.log(JSON.stringify(request))
+      if (request.message === "rabbit-hole-enter") {
+          await enterRabbitHole();
+      } else if (request.message === "rabbit-hole-exit") {
+          await exitRabbitHole();
+      }
+  }
+);

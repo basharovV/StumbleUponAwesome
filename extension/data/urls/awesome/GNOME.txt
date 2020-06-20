@@ -1,0 +1,81 @@
+http://www.gnome.org,,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.gnome.org/,GNOME,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Web,GNOME Web,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/eolie,Eolie,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.midori-browser.org/,Midori,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Geary,Geary,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://jangernert.github.io/FeedReader/,FeedReader,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/gfeeds,Feeds,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://ibboard.co.uk/cawbird/,Cawbird,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://jami.net/,Jami,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://gnome-twitch.vinszent.com/,GNOME Twitch,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.haguichi.net/,Haguichi,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/Fragments,Fragments,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/OpenPaperwork/paperwork,Paperwork,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.com/craigbarnes/showdown,Showdown,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://junrrein.github.io/pdfslicer/,PDF Slicer,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://somas.pages.gitlab.gnome.org/apostrophe/,Apostrophe,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Todo,GNOME Todo,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://gnomepomodoro.org/,Gnome Pomodoro,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/danigm/timetrack,Timetrack,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://tiliado.eu/nuvolaplayer/,Nuvola Player,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/lollypop,Lollypop,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/Shortwave,Shortwave,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://gkarsay.github.io/parlatype/,Parlatype,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://curlew.sourceforge.io/,Curlew,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://www.pitivi.org/,Pitivi,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://hjdskes.github.io/projects/gcolor3/,GColor 3,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Gthumb,GThumb,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Games,GNOME Games,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Tweaks,GNOME Tweaks,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://smdavis.us/projects/menulibre/,Menulibre,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.com/gabmus/HydraPaper,HydraPaper,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.com/gabmus/unifydmin,Unifydmin,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://launchpad.net/catfish-search,Catfish,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://neatdecisions.com/products/detwinner-linux/,Detwinner,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/PasswordSafe,Password Safe,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/gnumdk/passbook,Passbook,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/GNOME/recipes/,Recipes,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Apps/Builder,GNOME Builder,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://source.ind.ie/gnome/gnomit,GNOMIT,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/design/icon-preview,Icon Preview,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/design/palette,Palette,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/design/contrast,Contrast,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.gnome.org/World/design/icon-library,Icon Library,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1160/dash-to-panel/,Dash-to-Panel,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/6/applications-menu/,Application Menu,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/8/places-status-indicator/,Places Indicator,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/517/caffeine/,Cafeine,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/7/removable-drive-menu/,Removable Drive Menu,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/750/openweather/,OpenWeather,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/570/todotxt/,Todo.txt,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1238/time/,Time ++,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1031/topicons/,TopIcons Plus,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/615/appindicator-support/,KStatusNotifiers/AppIndicator Support,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1176/argos/,Argos,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1240/cascade-windows/,Cascade Windows,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1267/no-title-bar/,No Title Bar,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://gfxmonk.net/shellshape/,Shellshape,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://micheleg.github.io/dash-to-dock/,Dash-to-Dock,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/427/workspaces-to-dock/,Workspace-to-Dock,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.com/tista500/plata-theme,Plata,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://snwh.org/paper,Paper,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://snwh.org/moka,Moka,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.gnome-look.org/p/999996/,ComixCursors,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.gnome.org/news/,GNOME News Feed,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://planet.gnome.org/,Planet GNOME,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://discourse.gnome.org,GNOME's Discourse,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/,GNOME Wiki,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Community/GettingInTouch/IRC,complete list of channels,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.reddit.com/r/gnome,Reddit,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://stackoverflow.com/questions/tagged/gnome,Stack Overflow,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://floss.social/@gnome,@gnome on floss.social,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.facebook.com/GNOMEDesktop,@GNOMEDesktop on Facebook,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.youtube.com/user/GNOMEDesktop,GNOMEDesktop on Youtube,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://peertube.video/accounts/gnome,GNOMEDesktop on Peertube,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://git.gnome.org/browse/libdazzle,libdazzle,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Newcomers/,GNOME Newcomers Wiki,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://developer.gnome.org/,GNOME Developer Center,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://valadoc.org/,Valadoc,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://devdocs.baznga.org/,GJS Documentation,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://python-gtk-3-tutorial.readthedocs.io/en/latest/,The Python GTK+ 3 Tutorial,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME

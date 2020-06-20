@@ -1,0 +1,86 @@
+https://manypossibilities.net,website,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.mobileconnectivityindex.com/,GSMA Mobile Connectivity Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://a4ai.org/affordability-report/data/,A4AI Affordability Drivers Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://a4ai.org,A4AI,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4,Q4 2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://a4ai.org/mobile-broadband-pricing-data/,2017,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://theinclusiveinternet.eiu.com/,Facebook/EIU Inclusive Internet Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.huawei.com/minisite/gci/en/,Huawei Global Connectivity Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html,Cisco Visual Networking Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp,ITU Broadband Atlas,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.internetlivestats.com/internet-users-by-country/,InternetLiveStats,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.internetworldstats.com/,Internet World Stats,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.itu.int/net4/ITU-D/idi/,ITU ICT Development Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/,World Economic Forum - Networked Readiness Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://publicadministration.un.org/egovkb/en-us/Data-Center,UN E-Government Knowledge Database,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx,BCG e-Intensity Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.speedtest.net/global-index,Speedtest Global Index,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.cable.co.uk/broadband/speed/worldwide-speed-league/,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.cable.co.uk/broadband/pricing/worldwide-comparison/,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://manypossibilities.net/african-undersea-cables/,African Undersea Cables,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://afterfibre.nsrc.org/,African Terrestrial Fibre Optic Infrastructure,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.africabandwidthmaps.com/,Africa Bandwidth Maps,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.submarinecablemap.com/,Telegeography Submarine Cable Map,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://submarine-cable-map-2018.telegeography.com/,Telegeography 2018 Submarine Cable Map,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://cablemap.info/,Greg's Cable Map,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.itu.int/itu-d/tnd-map-public/,ITU Interactive Transmission Map,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://maps.mobileworldlive.com/,GSMA Mobile Coverage Maps @ Mobile World Live,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://he.net/3d-map/,Hurricane Electric 3D map,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.mobilecoveragemaps.com,GSMA Mobile Network Coverage Maps,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.nperf.com/en/map,nperf Mobile coverage maps,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.nperf.com/en/nperf-applications/,nperf app,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf,2020,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://internethealthreport.org/2019/,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://internethealthreport.org/2018/,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobileeconomy/,GSMA Mobile Economy,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf,2019 pdf,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf,2018 pdf,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx,2017,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx,2017,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf,2017,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.ericsson.com/en/mobility-report,Ericsson Mobility Report,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.ericsson.com/en/mobility-report/reports/november-2019,November 2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf,November 2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf,June 2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html,Deloitte - Global mobile consumer trends,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://a4ai.org/affordability-report/report/,A4AI Affordability Report,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://a4ai.org/affordability-report/report/2019/,2019,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://a4ai.org/affordability-report/report/2017,2017,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf,Opera State of the Mobile Web,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf,Akamai State of the Internet / Connectivity Report,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://reports.weforum.org/global-information-technology-report-2016/,World Economic Forum - Global Information Technology Report,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018,2018,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016,2016,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.oecd.org/internet/broadband/broadband-statistics/,OECD Broadband Portal,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf,AfterAccess - Mobile & Internet Use in the Global South,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/r/mobileeconomy/west-africa/,GSMA Mobile Economy - West Africa,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobileeconomy/sub-saharan-africa/,GSMA Mobile Economy - Sub-Saharan Africa,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/r/mobileeconomy/latam/,GSMA Mobile Economy - Latin America,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://manypossibilities.net/series/africa-telecom-infrastructure/,African Telecommunications Infrastructure Development @manypossibilities.net,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://researchictafrica.net/ramp_indices_portal/,RIA Africa Mobile Pricing (RAMP) Indices Portal,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobileeconomy/africa/,GSMA Mobile Economy - Africa,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf,Ericsson Mobility Report - Sub-Saharan Africa,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://opensignal.com/reports/,Open Signal - State of Mobile Networks Reports,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa,Lions go digital: The Internet’s transformative potential in Africa,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf,GSMA - Enabling Rural Coverage,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.facebook.com/ads/audience-insights/,Facebook Audience Insights,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.similarweb.com/apps/top/google/app-index/us/all/top-free,SimilarWeb - Mobile App Ranking,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+http://gs.statcounter.com/,Global Stats by StatCounter,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://gsacom.com/,Global Mobile Suppliers Association,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.socialbakers.com/resources/reports/,Social Bakers Regional Reports,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://ciesin.columbia.edu/data/hrsl/,CIESIN Earth Institute - High Resolution Settlement Layer GIS data,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/,Kleiner Perkins Mary Meeker Internet Trends Report,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/,WEF Internet for All,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://viz.measurementlab.net/,M-Lab Visualization Platform,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://internetintel.oracle.com/about.html,Oracle Cloud Infrastructure's Internet Intelligence Map,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.worldtimezone.com/4g.html,LTE, WiMAX, HSPA+, 3G, GSM information by country,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html,Cisco Annual Internet Report (2018–2023) White Paper,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports

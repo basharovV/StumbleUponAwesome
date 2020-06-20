@@ -1,0 +1,3 @@
+https://owncloud.org,ownCloud,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://gerrit.googlesource.com/,gerrit,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+http://sourceforge.net/projects/ralasafe/,Ralasafe,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers

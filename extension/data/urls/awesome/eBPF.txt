@@ -1,0 +1,140 @@
+http://docs.cilium.io/en/latest/bpf/,Cilum's BPF and XDP Reference Guide,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.kernel.org/doc/html/latest/bpf/index.html,BPF Documentation,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/networking/filter.txt,linux/Documentation/networking/filter.txt,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.kernel.org/doc/html/latest/bpf/bpf_design_QA.html,BPF Design Q&A,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.kernel.org/doc/html/latest/bpf/bpf_devel_QA.html,HOWTO interact with BPF subsystem,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://man7.org/linux/man-pages/man2/bpf.2.html,bpf(2),https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://man7.org/linux/man-pages/man8/tc-bpf.8.html,tc-bpf(8),https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://man7.org/linux/man-pages/man7/bpf-helpers.7.html,bpf-helpers(7) man page,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://prototype-kernel.readthedocs.io/en/latest/bpf/index.html,Jesper Dangaard Brouer's documentation,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.spinics.net/lists/xdp-newbies/msg00179.html,bpf.h and you...,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.spinics.net/lists/xdp-newbies/msg00181.html,Contextually speaking...,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.spinics.net/lists/xdp-newbies/msg00185.html,BPF Verifier Overview,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.igalia.com/dpino/2019/01/07/introduction-to-xdp-and-ebpf/,A brief introduction to XDP and eBPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/,Part 1: Introduction,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/,Part 2: Machine & Bytecode,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://ferrisellis.com/tags/ebpf/,Ferris Ellis's blog posts about eBPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://ferrisellis.com/content/ebpf_past_present_future/,Part 1: Past, Present, and Future,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://ferrisellis.com/content/ebpf_syscall_and_maps/,Part 2: Syscall and Map Types,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://schd.ws/hosted_files/ossna2017/da/BPFandXDP.pdf,Making the Kernel's Networking Data Path Programmable with BPF and XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://speakerdeck.com/tuxology/the-bsd-packet-filter,The BSD Packet Filter,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/brendangregg/bpf-tracing-and-more,BPF: tracing and more,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/brendangregg/linux-bpf-superpowers,Linux BPF Superpowers,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.socallinuxexpo.org/sites/default/files/presentations/Room%20211%20-%20IOVisor%20-%20SCaLE%2014x.pdf,IO Visor,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.iovisor.org/,IO Visor project,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://vger.kernel.org/netconf2015Starovoitov-bpf_collabsummit_2015feb20.pdf,BPF -- in-kernel virtual machine,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://lwn.net/Articles/603983/,Extending extended BPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.oracle.com/linux/notes-on-bpf-1,A Tour of Program Types,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.oracle.com/linux/notes-on-bpf-2,BPF helper functions,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.oracle.com/linux/notes-on-bpf-3,Communicating with Userspace,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.oracle.com/linux/notes-on-bpf-4,Building BPF Programs,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.oracle.com/linux/notes-on-bpf-5,The BPF Bytecode and the BPF Verifier,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.oracle.com/linux/notes-on-bpf-6,Using BPF to do Packet Transformation,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://sematext.com/blog/linux-kernel-observability-ebpf/,Linux Kernel Observability through eBPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://fosdem.org/2017/schedule/event/ebpf_xdp/,eBPF and XDP walkthrough and recent (2017) updates,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/session.html?daniel-borkmann,Advanced programmability and recent updates with tc's cls_bpf,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/slides/oct5/07_tcws_daniel_borkmann_2016_tcws.pdf,cls_bpf/eBPF updates since netdev 1.1,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/session.html?jamal-tc-workshop,this tc workshop,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.netdevconf.org/1.1/proceedings/slides/borkmann-tc-classifier-cls-bpf.pdf,On getting tc classifier fully programmable with cls_bpf,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.netdevconf.org/1.1/proceedings/papers/On-getting-tc-classifier-fully-programmable-with-cls-bpf.pdf,is also available here,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://archive.fosdem.org/2016/schedule/event/ebpf/attachments/slides/1159/export/events/attachments/ebpf/slides/1159/ebpf.pdf,Linux tc and eBPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.iovisor.org/resources/blog,IO Visor blog,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/ThomasGraf5/linux-networking-explained,Linux Networking Explained,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.joyfulbikeshedding.com/blog/2019-01-31-full-system-dynamic-tracing-on-linux-using-ebpf-and-bpftrace.html,Full-system dynamic tracing on Linux using eBPF and bpftrace,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/vh21/meet-cutebetweenebpfandtracing,Meet-cute between eBPF and Kernel Tracing,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/vh21/linux-kernel-tracing,Linux Kernel Tracing,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.brendangregg.com/blog/2016-03-05/linux-bpf-superpowers.html,Linux BPF Superpowers,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/,The eXpress Data Path,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html,Work-in-progress documentation for XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://events.linuxfoundation.org/sites/events/files/slides/iovisor-lc-bof-2016.pdf,BoF - What Can BPF Do For You?,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/IOVisor/express-data-path-linux-meetup-santa-clara-july-2016,eXpress Data Path,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://people.netfilter.org/hawk/presentations/xdp2016/xdp_intro_and_use_cases_sep2016.pdf,XDP − eXpress Data Path, Intro and future use-cases,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/session.html?jesper-performance-workshop,Network Performance Workshop,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://people.netfilter.org/hawk/presentations/OpenSourceDays2017/XDP_DDoS_protecting_osd2017.pdf,XDP – eXpress Data Path, Used for DDoS protection,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://people.netfilter.org/hawk/presentations/MM-summit2017/MM-summit2017-JesperBrouer.pdf,Memory vs. Networking, Provoking and fixing memory bottlenecks,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/2.1/session.html?gospodarek,XDP for the Rest of Us,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://jvns.ca/blog/2017/04/07/xdp-bpf-tutorial/,her blog,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://people.netfilter.org/hawk/presentations/LLC2018/XDP_LLC2018_redirect.pdf,XDP now with REDIRECT,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/session.html?herbert-xdp-workshop,XDP workshop -- Introduction, experience, and future development (Video),https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://cdn.shopify.com/s/files/1/0177/9886/files/phv2017-gbertin.pdf,High Speed Packet Filtering on Linux,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blog.cloudflare.com/how-to-drop-10-million-packets/,How to drop 10 million packets per second,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.kernel.org/doc/html/latest/networking/af_xdp.html,AF_XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://archive.fosdem.org/2018/schedule/event/af_xdp/,Fast Packet Processing in Linux with AF_XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/,Why is the kernel community replacing iptables with BPF?,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf,bpfilter: Linux firewall with eBPF sauce,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.kernel.org/doc/html/latest/bpf/btf.html,BPF Type Format (BTF),https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://facebookmicrosites.github.io/bpf/blog/2018/11/14/btf-enhancement.html,Enhancing the Linux kernel with BTF type information,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.tcpdump.org/papers/bpf-usenix93.pdf,The BSD Packet Filter: A New Architecture for User-level Packet Capture,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.gsp.com/cgi-bin/man.cgi?topic=bpf,The FreeBSD manual page about BPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://borkmann.ch/talks/2013_devconf.pdf,Linux' packet mmap(2), BPF, and Netsniff-NG,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://borkmann.ch/talks/2014_devconf.pdf,tc and cls bpf: lightweight packet classifying with BPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blog.cloudflare.com/introducing-the-bpf-tools/,Introducing Cloudflare's BPF Tools,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://biot.com/capstats/bpf.html,Libpcap filters syntax,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/session.html?jakub-kicinski,eBPF/XDP hardware offload to SmartNICs,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.netdevconf.org/2.2/session.html?viljoen-xdpoffload-talk,Comprehensive XDP offload---Handling the edge cases,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/,Tracing a packet journey using Linux tracepoints, perf and eBPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://open-nfp.org/dataplanes-ebpf/technical-papers/,Open NFP platform,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop,XDP for the Rest of Us,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263,Load XDP programs using the ip (iproute2) command,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/samples/bpf,linux/samples/bpf/,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/testing/selftests/bpf,linux/tools/testing/selftests/bpf,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git/tree/examples/bpf,iproute2/examples/bpf/,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/network/iproute2/iproute2.git,iproute2,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git,iproute2-next,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://llvm.org/,LLVM,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://apt.llvm.org/,here,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://reviews.llvm.org/D6494,this commit,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/lib/bpf,libbpf,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool,bpftool,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14,linux/tools/net/,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf,linux/tools/bpf/,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c,bpf_asm,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_dbg.c,bpf_dbg,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_jit_disasm.c,bpf_jit_disasm,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.unix.com/man-page/freebsd/4/vale/,VALE software switch,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://elazarg.github.io/pldi19main-final.pdf,using an abstract interpretation layer,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://schd.ws/hosted_files/2016p4workshop/1d/Intel%20Fastabend-P4%20on%20the%20Edge.pdf,P4 on the Edge,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://open-nfp.org/m/documents/Open_NFP_P4_EBPF_Linux_TC_Offload_FINAL_5JHLETS.pdf,P4, EBPF and Linux TC Offload,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp,Cilium: Networking & Security for Containers with BPF & XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/Docker/cilium-bpf-xdp-for-containers-66969823,Cilium: Networking & Security for Containers with BPF & XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.youtube.com/watch?v=TnJF7ht3ZYc&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs,video,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/ThomasGraf5/cilium-fast-ipv6-container-networking-with-bpf-and-xdp,Cilium: Fast IPv6 container Networking with BPF and XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://fosdem.org/2017/schedule/event/cilium/,Cilium: BPF & XDP for containers,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://ovsorbit.benpfaff.org/,OvS Orbit episode (#4),https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://opensource.googleblog.com/2016/11/cilium-networking-and-security.html,A generic introduction to Cilium,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://blog.ipspace.net/2016/10/fast-linux-packet-forwarding-with.html,A podcast interviewing Thomas Graf,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://openvswitch.org/support/ovscon2016/7/1120-tu.pdf,Offloading OVS Flow Processing using eBPF,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://openvswitch.org/support/ovscon2016/7/1245-bertrone.pdf,Coupling the Flexibility of OVN with the Efficiency of IOVisor,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://code.fb.com/open-source/open-sourcing-katran-a-scalable-network-load-balancer/,Katran,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/2.1/session.html?bertin,XDP in practice: integrating XDP in our DDoS mitigation pipeline,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/2.1/session.html?zhou,Droplet: DDoS countermeasures powered by BPF + XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://dpdkuserspace2018.sched.com/event/G45Z/dpdk-pmd-for-afxdp,DPDK has a poll-mode driver (PMD) based on AF_XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://www.slideshare.net/IOVisor/ceth-for-xdp-linux-meetup-santa-clara-july-2016,CETH for XDP,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/,relies on eBPF components,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://netdevconf.org/1.2/slides/oct6/10_suricata_ebpf.pdf,The adventures of a Suricate in eBPF land,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.slideshare.net/ennael/kernel-recipes-2017-ebpf-and-xdp-eric-leblond,eBPF and XDP seen from the eyes of a meerkat,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://fosdem.org/2017/schedule/event/go_bpf/,gobpf - utilizing eBPF from Go,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://wkz.github.io/ply/,ply,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf,FUSE,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures,DEEP-mon,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/linux/bpf.h,linux/include/linux/bpf.h,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/uapi/linux/bpf.h,linux/include/uapi/bpf.h,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/linux/filter.h,linux/include/linux/filter.h,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/uapi/linux/filter.h,linux/include/uapi/filter.h,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf,linux/kernel/bpf/,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf/syscall.c,syscall.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf/core.c,core.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf/verifier.c,verifier.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/core/filter.c,linux/net/core/filter.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/trace/bpf_trace.c,linux/kernel/trace/bpf_trace.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/arch/x86/net/bpf_jit_comp.c,linux/arch/x86/net/bpf_jit_comp.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/drivers/net/ethernet/netronome/nfp/bpf/jit.c,linux/drivers/net/ethernet/netronome/nfp/bpf/jit.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/sched,linux/net/sched/,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/seccomp.c,linux/kernel/seccomp.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/core/dev.c,linux/net/core/dev.c,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/,The bpf-next tree,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git,net-next,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst,Kernel documentation,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://lists.openwall.net/netdev/,The netdev mailing list,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+http://lists.iovisor.org/pipermail/iovisor-dev/,IO Visor mailing list,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF
+https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/,Dive into BPF: A List of Reading Material,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF

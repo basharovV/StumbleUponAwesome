@@ -1,0 +1,153 @@
+http://www.json.org/,,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral,Front End Developer Jobs,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://blockchain.info/latestblock,Latest Block,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://blockchain.info/unconfirmed-transactions?format=json,Unconfirmed Transactions,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.coinmarketcap.com/v1/ticker/,Cryptocurrency Market Capitalizations,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json,Global Temperature Anomaly,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000,US Annual Average Temperature and Anomaly,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000,Contiguous US Annual Precipitation,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.police.uk/docs/,DATA.POLICE.UK,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.police.uk/api/crimes-at-location?date=2015-02&lat=52.629729&lng=-1.131592,Crimes at Location,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.police.uk/api/crimes-street-dates,Street Crime Dates,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.police.uk/api/leicestershire/neighbourhoods,Neighbourhoods,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.police.uk/api/forces,List of Forces,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.data.gov/local/,DATA.GOV,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD,Chicago (historical data since 2001),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.lacity.org/api/views/y8tr-7khq/rows.json?accessType=DOWNLOAD,Los Angeles (historical data since 2010),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.exchangerate-api.com/v4/latest/USD,USD,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.exchangerate-api.com/v4/latest/GBP,GBP,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://pokeapi.co/docsv2/,Pokémon,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://pokeapi.co/api/v2/pokemon/1/,Pokémon by Number,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://pokeapi.co/api/v2/type/1/,Types,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://pokeapi.co/api/v2/ability/1,Abilities,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://magic.wizards.com,Magic: The Gathering,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://mtgjson.com/json/LEA-x.json,MTG LEA Set + Extras,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://mtgjson.com/json/LEB-x.json,MTG LEB Set + Extras,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://mtgjson.com/json/ARN-x.json,MTG ARN Set + Extras,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://mtgjson.com,https://mtgjson.com,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0,Steam Player Number,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.govtrack.us/api/v2/role?current=true&role_type=senator,Current US Senators,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438,Current US Representatives,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.govtrack.us/,GovTrack,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.govtrack.us/developers/api,powerful API,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2,Blog Entries,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.justice.gov/api/v1/press_releases.json?pagesize=2,Press Releases,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.justice.gov/api/v1/speeches.json?pagesize=2,Speeches,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2,Vacancy Announcements,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.parliament.scot/api/departments,Departments,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.parliament.scot/api/events,Events,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.parliament.scot/api/governmentroles,Government Roles,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.parliament.scot/api/members,Members,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://parliamentdata.ca/,http://parliamentdata.ca/,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://vocab.nic.in/rest.php/states/json,State Codes,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.gov.in/node/1084041/datastore/export/json,Consumer Price Index,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.gov.in/node/135611/datastore/export/json,Agriculture Production,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.gov.in/node/100853/datastore/export/json,Number of Districts/DRDAs/Blocks/Villages,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.quandl.com/api/v1/datasets/MOSPI/GDP.json,Gross Domestic Product at Current Prices,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json,ABC Local Stations,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json,VIC Police Station Locations,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://collections.museumvictoria.com.au/api/search,Museums Victoria Collections,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://datos.comunidad.madrid/catalogo/dataset/032474a0-bf11-4465-bb92-392052962866/resource/301aed82-339b-4005-ab20-06db41ee7017/download/municipio_comunidad_madrid.json,Province of Madrid Municipalities,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://do.diba.cat/api/dataset/municipis/format/json2,Province of Barcelona Municipalities,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://datos.comunidad.madrid/catalogo/dataset/ae433b7e-98f7-4547-8aa5-6ada557a429f/resource/21424b1c-6465-4db9-a5e3-6ddf180c634b/download/centros_educativos.json,Province of Madrid Educational Centers (non-university),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://datos.gob.es/catalogo?res_format_label=JSON,https://datos.gob.es/,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=en,English,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=de,German,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=it,Italian,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=es,Spanish,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=pt,Portuguese,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=ca,Catalan,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=id,Indonesian,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=ro,Romanian,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=tr,Turkish,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.vizgr.org/historical-events/,here,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/ip,IP,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/user-agent,user-agent,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/headers,headers,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/get,GET,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/gzip,gzip,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/deflate,deflate,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/response-headers?Content-Type=text/plain;%20charset=UTF-8&Server=MaxCDN,response-headers,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/cookies,cookies,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/stream/10,stream,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/delay/3,delay,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/cache/60,cache,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://httpbin.org/,http://httpbin.org,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.open-notify.org/iss-now.json,ISS Current Location,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.open-notify.org/astros.json,How Many People Are In Space Right Now,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.nasa.gov/resource/y77d-th95.json,Earth Meteorite Landings,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://data.nasa.gov/resource/2vr3-k9wn.json,Near-Earth Asteroids and Comets,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson,Earthquakes,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.nobelprize.org/v1/prize.json,Prize,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.nobelprize.org/v1/laureate.json,Laureate,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.nobelprize.org/v1/country.json,Country,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/,All,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/copyleft,Copyleft,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/osi-approved,OSI Approved,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/redundant,Redundant,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/permissive,Permissive,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/obsolete,Obsolete,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/miscellaneous,Misc,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/popular,Popular,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/discouraged,Discouraged,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/non-reusable,Non-reusable,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/special-purpose,Special Purpose,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://api.opensource.org/licenses/retired,Retired,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://opensource.org/civicrm/contribute/transact?reset=1&id=1,here,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json,China,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json,India,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json,United States,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json,USA,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json,China,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json,India,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.worldbank.org/countries?per_page=304&format=json,Here,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/all.json,/r/all,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/AskReddit.json,/r/AskReddit,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/funny.json,/r/funny,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/pics.json,/r/pics,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/todayilearned.json,/r/todayilearned,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/announcements.json,/r/announcements,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/worldnews.json,/r/worldnews,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/science.json,/r/science,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/IAmA.json,/r/IAmA,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/videos.json,/r/videos,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/gaming.json,/r/gaming,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.reddit.com/r/linux.json,/r/linux,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://think.cs.vt.edu/corgis/datasets/json/airlines/airlines.json,Monthly Airline Delays by Airport, 2003-2016,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/SFO?format=application/json,SFO,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/LAX?format=application/json,LAX,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/PHX?format=application/json,PHX,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/JFK?format=application/json,JFK,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/ATL?format=application/json,ATL,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/MIA?format=application/json,MIA,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/AUS?format=application/json,AUS,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/BOS?format=application/json,BOS,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/CLE?format=application/json,CLE,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/ORD?format=application/json,ORD,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/PDX?format=application/json,PDX,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://services.faa.gov/airport/status/SJC?format=application/json,SJC,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes,Mr. Robot (USA),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes,Better Call Saul (AMC),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes,Homeland (Showtime),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=silicon-valley&embed=episodes,Silicon Valley (HBO),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead&embed=episodes,The Walking Dead (AMC),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=south-park&embed=episodes,South Park (Comedy Central),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes,Game of Thrones (HBO),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=house-of-cards&embed=episodes,House of Cards (Netflix),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=big-bang-theory&embed=episodes,The Big Bang Theory (CBS),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=narcos&embed=episodes,Narcos (Netflix),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=black-mirror&embed=episodes,Black Mirror (Netflix),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes,Stranger Things (Netflix),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes,Rick and Morty (Adult Swim),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes,Westworld (HBO),https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://www.tvmaze.com/api,here,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://rickandmortyapi.com/api/character/,Get all characters,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://rickandmortyapi.com/api/character/2,Get a single character,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://rickandmortyapi.com/api/location/?name=earth,Filter locations,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://rickandmortyapi.com/api/episode/12,Get an episode,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://rickandmortyapi.com/api/episode/10,28,Get multiple episodes,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://rickandmortyapi.com/,https://rickandmortyapi.com/,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://showtimes.everyday.in.th/api/v2/,Showtime,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://showtimes.everyday.in.th/api/v2/movie/,Current Movies in Thailand,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+http://showtimes.everyday.in.th/api/v2/theater/,Movie Theaters in Thailand,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets
+https://www.maxcdn.com,MaxCDN,https://github.com/jdorfman/awesome-json-datasets#readme,Datasets

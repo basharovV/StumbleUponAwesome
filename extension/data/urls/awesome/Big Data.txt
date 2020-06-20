@@ -1,0 +1,318 @@
+http://usefulstuff.io/big-data/,big-data,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.oracle.com/us/corporate/features/database-12c/index.html,Oracle Database,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.teradata.com/products-and-services/teradata-database/,Teradata,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://pachyderm.io/,Pachyderm,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://databricks.github.io/simr/,AMPLab SIMR,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://apex.apache.org/,Apache APEX,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://crunch.apache.org/,Apache Crunch,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://incubator.apache.org/projects/datafu.html,Apache DataFu,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://gearpump.apache.org/,Apache Gearpump,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://gora.apache.org/,Apache Gora,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://hama.apache.org/,Apache Hama,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://wiki.apache.org/hadoop/MapReduce/,Apache MapReduce,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://pig.apache.org/,Apache Pig,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://reef.apache.org/,Apache REEF,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://incubator.apache.org/projects/s4.html,Apache S4,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://spark.apache.org/docs/latest/streaming-programming-guide.html,Apache Spark Streaming,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://storm.apache.org,Apache Storm,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://incubator.apache.org/projects/twill.html,Apache Twill,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://bigflow.cloud/en/index.html,Baidu Bigflow,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://cascalog.org/,Cascalog,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf,Cheetah,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.datatorrent.com/,DataTorrent StrAM,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920,Facebook Corona,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://peregrine_mapreduce.bitbucket.org/,Facebook Peregrine,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920,Facebook Scuba,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html,Google Dataflow,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/archive/mapreduce.html,Google MapReduce,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/pubs/pub41378.html,Google MillWheel,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://code.google.com/p/jaql/,JAQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://kitesdk.org/docs/current/,Kite,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://discoproject.org/,Nokia Disco,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.onyxplatform.org/,Onyx,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://medium.com/@Pinterest_Engineering/pinlater-an-asynchronous-job-execution-system-b8664cb8aa7d,Pinterest Pinlater,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://crs4.github.io/pydoop/,Pydoop,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://blueflood.io/,Rackerlabs Blueflood,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://stratosphere.eu/,Stratosphere,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://streamdrill.com/,Streamdrill,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.wallaroolabs.com/community,Wallaroo,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://kudu.apache.org/,Apache Kudu,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.beegfs.io/content/,BeeGFS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://ceph.com/ceph-storage/file-system/,Ceph Filesystem,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://disco.readthedocs.org/en/latest/howto/ddfs.html,Disco DDFS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.facebook.com/note.php?note_id=76191543919,Facebook Haystack,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf,Google GFS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/pubs/pub36971.html,Google Megastore,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.gridgain.com/,GridGain,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://wiki.lustre.org/,Lustre file system,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://hadoop.apache.org/docs/current/hadoop-azure-datalake/index.html,Microsoft Azure Data Lake Store,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.quantcast.com/about-us/quantcast-file-system/,Quantcast File System QFS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://gluster.org/,Red Hat GlusterFS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.alluxio.org/,Alluxio,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.tahoe-lafs.org/trac/tahoe-lafs,Tahoe-LAFS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.actian.com/data-management/ingres-sql-rdbms/,Actian Versant,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.infoq.com/news/2014/06/facebook-apollo,Facebook Apollo,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://comsysto.github.io/jumbodb/,jumboDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://engineering.linkedin.com/data,LinkedIn Espresso,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.marklogic.com/,MarkLogic,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://azure.microsoft.com/en-us/services/cosmos-db/,Microsoft Azure DocumentDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html,Distinguishing two major types of Column Stores,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://accumulo.apache.org/,Apache Accumulo,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/,Facebook HydraBase,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf,Google BigTable,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://cloud.google.com/datastore/docs/concepts/overview,Google Cloud Datastore,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.hypertable.org/,Hypertable,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.scylladb.com/,ScyllaDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://open.dgraph.io/post/badger/,Badger,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://geteventstore.com/,EventStore,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://ignite.apache.org/index.html,Ignite,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.project-voldemort.com/voldemort/,Linkedin Voldemort,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html,Oracle NoSQL Database,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.agensgraph.com/,AgensGraph,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://giraph.apache.org/,Apache Giraph,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://spark.apache.org/docs/0.7.3/bagel-programming-guide.html,Apache Spark Bagel,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920,Facebook TAO,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://kowshik.github.io/JPregel/pregel_paper.pdf,Google Pregel,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/publication/graphx-grades/,GraphX,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://01.org/graphbuilder/,Intel GraphBuilder,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.blazegraph.com/mapgraph-technology/,MapGraph,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://orientdb.com/,OrientDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://thinkaurelius.github.io/titan/,Titan,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://nodexl.codeplex.com/,NodeXL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://the-paper-trail.org/blog/columnar-storage/,Columnar Storage,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.actian.com/,Actian Vector,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://db.lcs.mit.edu/projects/cstore/,C-Store,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://eventql.io/,EventQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://parquet.apache.org/,Parquet,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://pivotal.io/pivotal-greenplum,Pivotal Greenplum,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.vertica.com/,Vertica,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://sqream.com/,SQream DB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://cloud.google.com/bigquery/what-is-bigquery,Google BigQuery,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.actian.com/products/operational-databases/,Actian Ingres,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://aws.amazon.com/redshift/,Amazon RedShift,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://bedrockdb.com/,Bedrock,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.citusdata.com/,CitusDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://foundationdb.com/,FoundationDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/pubs/pub41344.html,Google F1,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/archive/spanner.html,Google Spanner,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://hstore.cs.brown.edu/,H-Store,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html,HandlerSocket,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.infinisql.org/,InfiniSQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.mapd.com/,Map-D,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.nuodb.com/,NuoDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html,Oracle TimesTen in-Memory Database,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://gemfirexd.docs.pivotal.io/latest/,Pivotal GemFire XD,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://hana.sap.com/abouthana.html,SAP HANA,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://senseidb.github.io/sensei/,SenseiDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://skydb.io/,Sky,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.symmetricds.org/,SymmetricDS,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://chronix.io/,Chronix,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://square.github.io/cube/,Cube,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.circonus.com/irondb/,IronDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://m3db.github.io/m3/m3db/,M3DB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://opennms.github.io/newts/,Newts,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://traildb.io/,TrailDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.actian.com/analytic-database/vectorh-sql-hadoop,Actian SQL for Hadoop,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://drill.apache.org/,Apache Drill,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://cwiki.apache.org/confluence/display/Hive/HCatalog,Apache HCatalog,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://hive.apache.org/,Apache Hive,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://phoenix.apache.org/index.html,Apache Phoenix,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.teradata.com/products-and-services/Teradata-Aster/teradata-aster-database,Aster Database,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.cloudera.com/products/apache-hadoop/impala.html,Cloudera Impala,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.datasalt.com/products/splout-sql/,Datasalt Splout SQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.dremio.com/,Dremio,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/pubs/pub36632.html,Google BigQuery,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.pipelinedb.com/,PipelineDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://pivotal.io/pivotal-hdb,Pivotal HDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://rainstor.com/products/rainstor-database/,RainstorDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://databricks.com/blog/2014/03/26/spark-sql-manipulating-structured-data-using-spark-2.html,SparkSQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.splicemachine.com/,Splice Machine,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://hortonworks.com/innovation/stinger/,Stinger,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://wiki.trafodion.org/wiki/index.php/Main_Page,Trafodion,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://aws.amazon.com/glue/,Amazon Web Services Glue,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://chukwa.apache.org/,Apache Chukwa,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://flume.apache.org/,Apache Flume,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://sqoop.apache.org/,Apache Sqoop,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.embulk.org,Embulk,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.fluentd.org,Fluentd,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/pubs/pub41318.html,Google Photon,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.alooma.com/integrations/mysql,Alooma,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://karaf.apache.org/,Apache Karaf,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://thrift.apache.org//,Apache Thrift,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/archive/chubby.html,Google Chubby,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.open-mpi.org/,OpenMPI,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.serf.io/,Serf,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://twitter.github.io/finagle/,Twitter Finagle,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://aurora.apache.org/,Apache Aurora,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://oozie.apache.org/,Apache Oozie,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction,Azure Data Factory,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://mesos.github.io/chronos/,Chronos,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://studio.azureml.net/,Azure ML Studio,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.cascading.org/projects/pattern/,Concurrent Pattern,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.heatonresearch.com/encog/,ENCOG,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.etcml.com/,etcML,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://dato.com/products/create/,GraphLab Create,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://mahout.apache.org/,Mahout,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.mlbase.org/,MLbase,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://moa.cms.waikato.ac.nz,MOA,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://predictionio.incubator.apache.org/index.html,PredictionIO,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://samoa.incubator.apache.org/,SAMOA,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://spark.apache.org/docs/0.9.0/mllib-guide.html,Spark MLlib,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf,Sibyl,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.cs.waikato.ac.nz/ml/weka/,WEKA,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://issues.apache.org/jira/browse/MAPREDUCE-3561,Apache Hadoop Benchmarking,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://issues.apache.org/jira/browse/MAPREDUCE-5116,PUMA Benchmarking,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://yahoohadoop.tumblr.com/post/98294079296/gridmix3-emulating-production-workload-for,Yahoo Gridmix3,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://ranger.apache.org/,Apache Ranger,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://eagle.apache.org/,Apache Eagle,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://knox.apache.org/,Apache Knox Gateway,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://incubator.apache.org/projects/sentry.html,Apache Sentry,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://bigtop.apache.org//,Apache Bigtop,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://whirr.apache.org/,Apache Whirr,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://hortonworks.com/hadoop/yarn/,Apache YARN,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://brooklyncentral.github.io/,Brooklyn,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://buildoop.github.io/,Buildoop,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.wired.com/2012/08/facebook-prism/,Facebook Prism,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.wired.com/2013/03/google-borg-twitter-mesos/all/,Google Borg,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.youtube.com/watch?v=0ZFMlO98Jkc,Google Omega,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/,Hortonworks HOYA,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://metron.apache.org/,Apache Metron,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://oodt.apache.org/,Apache OODT,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://tika.apache.org/,Apache Tika,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.dominodatalab.com/,Domino,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.eclipse.org/birt/,Eclipse BIRT,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://hipi.cs.virginia.edu/,HIPI Library,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.splunk.com/en_us/download/hunk.html,Hunk,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://opensource.indeedeng.io/imhotep/,Imhotep,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://madlib.incubator.apache.org/community/,MADlib,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://kylin.apache.org/,Kylin,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.qubole.com/,Qubole,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://sense.io/,Sense,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://amplab-extras.github.io/SparkR-pkg/,SparkR,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.splunk.com/,Splunk,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.talend.com/products/big-data/,Talend,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://warp.one//,Warp,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://lucene.apache.org/,Apache Lucene,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.enigma.com/,Enigma.io,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html,Google Caffeine,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://research.google.com/pubs/pub36726.html,Google Percolator,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://blogs.apache.org/hbase/entry/coprocessor_introduction,HBase Coprocessor,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://senseidb.github.io/bobo/,LinkedIn Bobo,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://engineering.linkedin.com/search/did-you-mean-galene,LinkedIn Galene,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://mg4j.di.unimi.it/,MG4J,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://sphinxsearch.com/,Sphinx Search Server,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://vespa.ai/,Vespa,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.drizzle.org/,Drizzle,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://cloud.google.com/sql/docs/,Google Cloud SQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.mysql.com/products/cluster/,MySQL Cluster,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.percona.com/software/mysql-database/percona-server,Percona Server,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.percona.com/,TokuDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://webscalesql.org/,WebScaleSQL,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://db.cs.yale.edu/hadoopdb/hadoopdb.html,HadoopDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www-01.ibm.com/software/data/netezza/,IBM Netezza,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www-users.cs.umn.edu/~sarwat/RecDB/,RecDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.stormdb.com/community/stado,Stado,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.scribd.com/doc/3159239/70-Everest-PGCon-RT,Yahoo Everest,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.timescale.com/,TimescaleDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920,Facebook McDipper,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.facebook.com/notes/facebook-engineering/scaling-memcache-at-facebook/10151411410803920,Facebook Memcached,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.oracle.com/database/berkeley-db/index.html,BerkeleyDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://symas.com/mdb/,LMDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://rocksdb.org/,RocksDB,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.bimeanalytics.com/?lang=en,BIME Analytics,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.datapine.com/,datapine,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.gooddata.com/,GoodData,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.jaspersoft.com/,Jaspersoft,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.jedox.com/en/,Jedox Palo,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://jethro.io/,Jethrodata,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://intermix.io/,intermix.io,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx,Microsoft,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.microstrategy.com/,Microstrategy,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.pentaho.com/,Pentaho,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.qlik.com/us/,Qlik,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.meteorite.bi/,Saiku Analytics,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.knowage-suite.com/,Knowage,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.spagobi.org/,SpagoBi,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://sparklinedata.com/,SparklineData SNAP,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.tableau.com/,Tableau,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.zoomdata.com/,Zoomdata,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.anychart.com,AnyChart,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://c3js.org/,C3,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://chartd.co/,chartd,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://square.github.io/crossfilter/,Crossfilter,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://cytoscape.github.io/,Cytoscape,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://dc-js.github.io/dc.js/,DC.js,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://d3plus.org,D3Plus,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://metrictools.org/,FnordMetric,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://frappe.io/charts,Frappe Charts,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://developers.google.com/chart/,Google Charts,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://grafana.com/,Grafana,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://graphiteapp.org/,Graphite,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://lumify.io/,Lumify,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://nvd3.org/,NVD3,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://recharts.org/,ReCharts,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://shiny.rstudio.com/,Shiny,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://edgent.apache.org/,Apache Edgent (Incubating),https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.tempoiq.com/,TempoIQ,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://2lemetry.com/,2lemetry,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.thingworx.com/,ThingWorx,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://evrythng.com/,Evrything,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis,NoSQL Comparison,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome,Monitoring Kafka performance,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome,Monitoring Hadoop performance,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/?ref=awesome,Monitoring Cassandra performance,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.vldb.org/pvldb/vol8/p1804-ching.pdf,2015,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://infolab.stanford.edu/~ullman/mmds/book.pdf,2014,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2013/03/eurosys13-paper83.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2013/01/dmx1.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2013/02/shark_sigmod2013.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://research.microsoft.com/pubs/200169/now-vldb.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.druid.io/docs/druid.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p764-rae.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p734-akidau.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf,2013,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2013/04/blinkdb_vldb12_demo.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.usenix.org/system/files/login/articles/zaharia.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2012/03/mod482-xin1.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.usenix.org/legacy/event/nsdi11/tech/full_papers/Bolosky.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://arxiv.org/pdf/1203.5485.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://vldb.org/pvldb/vol5/p1436_alexanderhall_vldb2012.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf,2012,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/euro118-ananthanarayanan.pdf,2011,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Mesos-A-Platform-for-Fine-Grained-Resource-Sharing-in-the-Data-Center.pdf,2011,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36971.pdf,2011,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf,2010,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Spark-Cluster-Computing-with-Working-Sets.pdf,2010,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf,2010,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf,2010,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://leoneu.github.io/,2010,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.cs.umd.edu/~abadi/papers/hadoopdb.pdf,2009,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://cwiki.apache.org/confluence/download/attachments/120729877/chukwa_cca08.pdf?version=1&modificationDate=1562667399000&api=v2,2008,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf,2006,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf,2006,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf,2004,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/livevideo/spark-in-motion,Spark in Motion,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python,Machine Learning, Data Science and Deep Learning with Python,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/data-science-at-scale-with-python-and-dask,Data Science at Scale with Python and Dask,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/streaming-data,Streaming Data,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/storm-applied,Storm Applied,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/fundamentals-stream-processing-application-design-systems-and-analytics,Fundamentals of Stream Processing: Application Design, Systems, and Analytics,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://www.springer.com/us/book/9780387710020,Stream Data Processing: A Quality of Service Perspective,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/event-streams-in-action,Unified Log Processing,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/kafka-streams-in-action,Kafka Streams in Action,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/big-data,Big Data,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/spark-in-action-second-edition,Spark in Action 2nd Ed.,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/kafka-in-action,Kafka in Action,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/reactive-data-handling,Reactive Data Handling,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+http://book.mixu.net/distsys/,Distributed Systems for fun and profit,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.manning.com/books/graph-powered-machine-learning,Graph-Powered Machine Learning,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.youtube.com/watch?v=5Zg-C8AAIGg,The beauty of data visualization,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.youtube.com/watch?v=R-oiKt7bUU8,Designing Data Visualizations with Noah Iliinsky,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.youtube.com/watch?v=jbkSRLYSojo,Hans Rosling's 200 Countries, 200 Years, 4 Minutes,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data
+https://www.youtube.com/watch?v=qTEchen97rQ,Ice Bucket Challenge Data Visualization,https://github.com/onurakpolat/awesome-bigdata#readme,Big Data

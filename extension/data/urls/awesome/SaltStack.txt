@@ -1,0 +1,89 @@
+https://www.saltstack.com/,,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://docs.saltstack.com/en/latest/,SaltStack Documentation,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html,Salt in 10 minutes,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://docs.saltstack.com/en/getstarted/,SaltStack Get Started,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.saltstack.com/products/saltstack-training/,Training and certification,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://jinja.pocoo.org/docs/latest/,Jinja2 documentation,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://www.yet.org/2016/09/salt/,About SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://techarena51.com/blog/getting-started-with-saltstack/,Managing Linux server configs with the SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://opencredo.com/a-dive-into-salt-stack/,A dive into SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy,How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts,An Introduction to SaltStack Terminology and Concepts,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-installing-the-salt-master,SaltStack Infrastructure: Installing the Salt Master,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-configuring-salt-cloud-to-spin-up-digitalocean-resources,SaltStack Infrastructure: Configuring Salt-Cloud to Spin Up DigitalOcean Resources,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-nginx-web-servers,SaltStack Infrastructure: Creating Salt States for Nginx Web Servers,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-haproxy-load-balancers,SaltStack Infrastructure: Creating Salt States for HAProxy Load Balancers,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-mysql-database-servers,SaltStack Infrastructure: Creating Salt States for MySQL Database Servers,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python,Getting Started with SaltStack - the Other Configuration Management System Built with Python,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/,Create an army of Salt minions on DigitalOcean,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://hittaruki.info/post/vagrant-saltstack-tutorial/,Vagrant & SaltStack Quickstart Tutorial,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://thereluctanttecchie.blogspot.com/2014/01/salt-api-crash-course.html,Salt-API, A Crash Course,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.infracloud.io/revised-getting-started-with-saltstack-part-1/,Revised Getting Started with SaltStack - Part 1,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.unixmen.com/saltstack-examples/,SaltStack Examples,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://honza.ca/2013/12/masterless-saltstack,Masterless Saltstack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://blog.badgerops.net/getting-started-with-salt-workspace/,Getting Started with Saltstack and salt-workspace,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://blog.badgerops.net/getting-started-with-salt-structure-2/,Getting started with Salt Structure,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967,The Simplest Way to Learn SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm,SaltStack - Quick Guide,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://salt.tips/upgrading-salt-to-python-3/,Upgrading Salt to Python 3,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://shop.oreilly.com/product/0636920033240.do,O'Reilly - Salt Essentials,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf,O'Reilly - Network Automation at Scale,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://leanpub.com/saltstackfordevops,Leanpub - SaltStack For DevOps,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://leanpub.com/gettingstartedwithsaltstack,Leanpub - Getting Started with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition,Packt - Learning SaltStack, 2nd ed.,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition,Packt - Mastering SaltStack, 2nd ed.,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.packtpub.com/networking-and-servers/extending-saltstack,Packt - Extending SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.packtpub.com/networking-and-servers/salt-cookbook,Packt - Salt Cookbook,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/user/saltstack,SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s,Managing Your Infrastructure with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/watch?v=_xO7wj19OzI,Testing Salt States with Docker,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/watch?v=cMCH6EizVVc,Beyond Configuration Management with SaltStack for Event-Driven Infrastructure,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://vimeo.com/162183524,Automation and Orchestration with SaltStack and Twilio,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/watch?v=HijG0hWebZk&list=PL5yV8umka8YQOr1wm719In5LITdGzQMOF,SaltStack for FreeBSD,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/playlist?list=PL9svBjLDUl_8BqpIDKlCTqHZI2mkysTvZ,SaltConf15 - YouTube,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/playlist?list=PL9svBjLDUl_-sVwcRliUQ-VGDb2qvwpx_,SaltConf16 - YouTube,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/playlist?list=PL9svBjLDUl_-8yJxp-nSlmM9KYEQH4fgj,SaltConf17 - YouTube,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.youtube.com/playlist?list=PL9svBjLDUl_-wsL5HZqtTuvV80Y6dqmQE,SaltConf18 - YouTube,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://gitlab.com/perfecto25/silica,Silica,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://pypi.org/project/salt-pepper/,salt-pepper,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://alcali.dev/,Alcali,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner,Getting Started with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.slideshare.net/saltstack/an-overvisaltstack-presentation-clean,An introduction to infrastructure management with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui,Saltpad: A SaltStack Web GUI,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://www.justincarmony.com/slides/salt-tutorial/,Intro to SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://salt-decon.carson-anderson.com/,salt-deconstructed,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://opsnotice.xyz/docker-with-saltstack/,Docker with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/,Moving away from Puppet: SaltStack or Ansible?,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/,One week of Salt: frustrations and reflections,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/,Getting started with SaltStack by example: Automatically Installing nginx,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace,SaltStack: Manage entries in unmanaged files with File Blockreplace,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html,Docker Swarm 1.12 Cluster Orchestration with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/,SaltStack: Keeping Salt Pillar data encrypted using GPG,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/,Secure Pillar in SaltStack with GPG,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/,Network-Automation with Salt, NAPALM and Kubernetes,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://duncan.codes/2016/05/18/using-salt-like-ansible.html,Using Salt like Ansible,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://www.yet.org/2016/10/reclass/,Using Salt with reclass,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/,Text editor plugins for Salt states and YAML/Jinja,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://blog.badgerops.net/writing-a-custom-salt-grain/,Writing a custom Salt Grain,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/,Building Self-Healing Applications,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://blog.gtmanfred.com/kitchen-salt.html,Testing your salt states with kitchen-salt,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d,Salt Sudo,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://medium.com/@mike.reider/complex-user-management-with-saltstack-using-py-renderer-a4caa5cf229a,Complex User management with Saltstack (using Py! renderer),https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://medium.com/@Joachim8675309/vagrant-provisioning-with-saltstack-50dab12ce6c7,Vagrant Provisioning with SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://medium.com/@Joachim8675309/salt-devkit-with-external-formulas-9e38d8b90cd7,Salt DevKit with External Formulas,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/,Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83,Salt IRC chat,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.meetup.com/pro/saltstack/,SaltStack Meetups,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://saltconf.com/,SaltConf,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.facebook.com/SaltStack/,Facebook,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/,Writing SaltStack formulas,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://www.yet.org/2016/09/salt-formulas/,Salt Formulas,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet,Salt Commands cheat sheet,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+http://www.xenuser.org/saltstack-cheat-sheet/,SaltStack Cheat Sheet,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://en.wikipedia.org/wiki/Salt_(software),Salt (software),https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://hubblestack.io/,HubbleStack: Security for DevOps,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04,How To Install Salt on Ubuntu 12.04,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula,How To Create Your First Salt Formula,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04,Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04,How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04,https://github.com/hbokh/awesome-saltstack#readme,SaltStack
+https://hbokh.github.io/,Henk,https://github.com/hbokh/awesome-saltstack#readme,SaltStack

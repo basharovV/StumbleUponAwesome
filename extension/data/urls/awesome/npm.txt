@@ -1,0 +1,45 @@
+http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs,Unix philosophy and Node.js,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules,Writing small modules,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://addyosmani.com/blog/using-npm-offline/,Offline installation of npm packages,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run,Task automation with npm run,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6,Optimizing the footprint of an npm package,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://css-tricks.com/why-npm-scripts/,Why npm scripts?,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://npm-introspect.z3d.tech,npm-introspect,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://npmsearch.com,npmsearch,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://node-modules.com,node-modules,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://nodei.co/,NodeICO,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://libraries.io/npm,Libraries.io,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://npm-stat.com,npm-stat,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://npm.anvaka.com,npmgraph,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://www.npmtrends.com,npm trends,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://semver.npmjs.com,npm semver calculator,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://www.npm-stats.com,npm-stats,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://greenkeeper.io,greenkeeper.io,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://ghub.io,ghub.io,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp,Octo-Linker,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh,npm-search-update,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://cloudsmith.io/l/npm-registry/,cloudsmith,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://docs.npmjs.com/cli/run-script,run scripts,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://en.wikipedia.org/wiki/PATH_(variable),PATH,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash,marks the end of options parsing,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://docs.npmjs.com/misc/scripts,lifecyle scripts,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b,comes bundled,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://www.npmjs.com/package/node-bin,node-bin,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://nvm.sh,nvm,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://wzrd.in/standalone/object-assign,https://wzrd.in/standalone/object-assign,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://wzrd.in/standalone/object-assign@4.0.0,https://wzrd.in/standalone/object-assign@4.0.0,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap,Check in node_modules vs. shrinkwrap,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://stackoverflow.com/questions/18641899/what-is-the-difference-between-bower-and-npm,What is the difference between Bower and npm?,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://stackoverflow.com/questions/22137778/what-does-mean-in-package-json-versioning,What does ^ mean in package.json versioning?,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://stackoverflow.com/questions/10972176/find-the-version-of-an-installed-npm-package,Find the version of an installed npm package,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies,What's the difference between dependencies, devDependencies, and peerDependencies in package.json?,https://github.com/sindresorhus/awesome-npm#readme,npm
+http://webchat.freenode.net/?channels=npm,#npm on Freenode,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://stackoverflow.com/questions/tagged/npm,Stack Overflow,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://www.reddit.com/r/npm,Reddit,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://blog.npmjs.org,Blog,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://docs.npmjs.com,Official,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://docs.npmjs.com/getting-started/semantic-versioning,Semantic versioning,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://docs.npmjs.com/getting-started/fixing-npm-permissions,Fixing npm permissions,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://docs.npmjs.com/files/package.json,package.json,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://npm.community/c/support,npm.community,https://github.com/sindresorhus/awesome-npm#readme,npm
+https://www.npmjs.com/support,Contact form,https://github.com/sindresorhus/awesome-npm#readme,npm

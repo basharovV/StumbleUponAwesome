@@ -1,0 +1,161 @@
+http://rubyonrails.org,Rails Official Website,https://github.com/gramantin/awesome-rails#readme,Rails
+http://guides.rubyonrails.org,Rails Official Guide,https://github.com/gramantin/awesome-rails#readme,Rails
+http://edgeguides.rubyonrails.org,(Edge Guide),https://github.com/gramantin/awesome-rails#readme,Rails
+http://api.rubyonrails.org,Rails API Documentation,https://github.com/gramantin/awesome-rails#readme,Rails
+http://weblog.rubyonrails.org,Rails Official Blog,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.theodinproject.com/courses/ruby-on-rails,The Odin Project,https://github.com/gramantin/awesome-rails#readme,Rails
+https://thoughtbot.com/upcase/rails,Learn Ruby on Rails (thoughtbot),https://github.com/gramantin/awesome-rails#readme,Rails
+http://railsforzombies.org/,Rails for Zombies,https://github.com/gramantin/awesome-rails#readme,Rails
+http://railscasts.com,RailsCasts,https://github.com/gramantin/awesome-rails#readme,Rails
+https://gorails.com,GoRails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.driftingruby.com/,Drifting Ruby,https://github.com/gramantin/awesome-rails#readme,Rails
+http://rubyonwindowsguides.github.io,Ruby on Windows Guides,https://github.com/gramantin/awesome-rails#readme,Rails
+http://careers.stackoverflow.com/jobs/tag/ruby-on-rails,StackOverflow,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.reddit.com/r/railsjobs/,railsjobs on Reddit,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.indeed.com/q-Ruby-On-Rails-jobs.html,rails jobs on indeed.com,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm,rails jobs on glassdoor.com,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.reddit.com/r/rails/,rails on Reddit,https://github.com/gramantin/awesome-rails#readme,Rails
+http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app,Ruby on Rails Code Audits: 8 Steps to Review Your App,https://github.com/gramantin/awesome-rails#readme,Rails
+http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/,nil?, empty?, blank? in Ruby on Rails - what's the difference actually?,https://github.com/gramantin/awesome-rails#readme,Rails
+https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2,The 3 Tenets of Service Objects in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/,Famous Web Apps Built with Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+http://eng.localytics.com/connecting-to-snowflake-with-ruby-on-rails/,Connecting to Snowflake with Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.codeship.com/building-a-json-api-with-rails-5/,Building a JSON API with Rails 5,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/building-apis-ruby-rails-graphql/,Building APIs with Ruby on Rails and GraphQL,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.codeship.com/five-practices-for-robust-ruby-on-rails-applications/,Five Practices for Robust Ruby on Rails Applications,https://github.com/gramantin/awesome-rails#readme,Rails
+http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without,8 Useful Ruby on Rails Gems We Couldn't Live Without,https://github.com/gramantin/awesome-rails#readme,Rails
+https://scotch.io/tutorials/file-upload-in-rails-with-paperclip,File Upload in Rails with PaperClip,https://github.com/gramantin/awesome-rails#readme,Rails
+https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara,Integration Testing Ruby on Rails with Minitest and Capybara,https://github.com/gramantin/awesome-rails#readme,Rails
+https://semaphoreci.com/community/tutorials/mocking-in-ruby-with-minitest,Mocking in Ruby with Minitest,https://github.com/gramantin/awesome-rails#readme,Rails
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one,Build a RESTful JSON API With Rails 5,https://github.com/gramantin/awesome-rails#readme,Rails
+https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695,Crafting APIs With Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/,10 Ruby on Rails Best Practices,https://github.com/gramantin/awesome-rails#readme,Rails
+https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1,Build a Blog with Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://engineering.ezcater.com/youre-not-in-the-zone,Working with the SQL ‘time’ type in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e,Upgrading Rails apps with dual boot,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.rubyguides.com/2019/06/rails-params/,What Are Rails Parameters & How to Use Them Correctly,https://github.com/gramantin/awesome-rails#readme,Rails
+https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb,How to Remove Single Table Inheritance from Your Rails Monolith,https://github.com/gramantin/awesome-rails#readme,Rails
+https://nebulab.it/blog/build-rails-application-vuejs-using-jsx/,Build a Rails application with VueJS using JSX,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.digitalocean.com/community/tutorials/how-to-add-stimulus-to-a-ruby-on-rails-application,How To Add Stimulus to a Ruby on Rails Application,https://github.com/gramantin/awesome-rails#readme,Rails
+https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails,How to Write Fast Code in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/efficient-graphql-queries-in-ruby-on-rails-and-postgres,Efficient GraphQL queries in Ruby on Rails & Postgres,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5,Fetching millions of rows from PostgreSQL with Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres,Implementing Multi-Table Full Text Search with Postgres in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pawelurbanek.com/rails-postgresql-data-integrity,Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations,https://github.com/gramantin/awesome-rails#readme,Rails
+https://hackr.io/tutorials/learn-ruby-on-rails,Programming Community Curated Resources For Learning Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://ideamotive.co/ruby-on-rails-development-guide/,Choosing ruby on rails for your next web development project (business guide),https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development,Dockerizing Ruby and Rails development,https://github.com/gramantin/awesome-rails#readme,Rails
+https://iridakos.com/tutorials/2019/04/07/dockerizing-a-rails-application.html,Dockerizing a Rails application,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/,How to painlessly set up your Ruby on Rails dev environment with Docker,https://github.com/gramantin/awesome-rails#readme,Rails
+https://medium.com/@admatbandara/how-i-used-docker-with-rails-45601c43ed8f,How I used Docker with Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37,More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.toptal.com/ruby-on-rails/rails-6-features,Rails 6 Features: What's New and Why It Matters,https://github.com/gramantin/awesome-rails#readme,Rails
+https://hixonrails.com/ruby-on-rails-tutorials/,Ruby on Rails configuration tutorials,https://github.com/gramantin/awesome-rails#readme,Rails
+http://aircasting.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://alaveteli.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://alonetone.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.codefirst.org/AsakusaSatellite,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.autolabproject.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://bikeindex.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://calcentral.berkeley.edu,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://codecampo.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://catarse.me/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.corm.fr,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://0xacab.org/riseuplabs/crabgrass,crabgrass-core,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.crowdai.org/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://diaper.app/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://diasporafoundation.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://eol.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.fairmondo.de,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://feedbin.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.fromthepage.com/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://graffmags.herokuapp.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.hashrobot.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://helpy.io/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://hitobito.com/en,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://happyhours.io,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.inaturalist.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://kanban.seanomlor.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://listenup-songshare.herokuapp.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.loomio.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://church.io,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.openstreetmap.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://opensourcefriday.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://archiveofourown.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pwpush.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.peatio.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.planningalerts.org.au,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://racingonrails.rocketsurgeryllc.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://demo.redmine.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://yalestc.github.io/reservations,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.rletters.net,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://sanataro.herokuapp.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://splits.io,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.spokenvote.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.theodinproject.com/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+http://www.getontracks.org,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://vglist.co/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.agileventures.org/,🌍,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actioncable,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/action_cable_overview.html,Action Cable Overview,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actionmailbox,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/action_mailbox_basics.html,Action Mailbox Basics,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actionmailer,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/action_mailer_basics.html,Action Mailer Basics,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actionpack,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actiontext,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/action_text_overview.html,Action Text Overview,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actionview,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/action_view_overview.html,Action View Overview,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activejob,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/active_job_basics.html,Active Job Basics,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activemodel,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/active_model_basics.html,Active Model Basics,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activerecord,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activestorage,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/active_storage_overview.html,Active Storage Overview,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activesupport,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org/active_support_core_extensions.html,Active Support Core Extensions,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/railties,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/ace-rails-ap,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/actionview-component,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/active_decorator,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/active_enum,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activeadmin,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/activity_notification,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/algoliasearch-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/annotate,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/anycable-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/apipie-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/autoprefixer-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/brakeman,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/breadcrumbs_on_rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/cancancan,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/counter_culture,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/devise,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/doorkeeper,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/draper,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/filestack-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/friendly_id,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/kaminari,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/lockbox,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/paloma,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/prerender_rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/rails_admin,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/ranked-model,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/ransack,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/react-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/redis_web_manager,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/rspec-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/rubocop-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/scenic,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/searchkick,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/simple_form,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/spring,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/sprockets,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/tinymce-rails,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/webpacker,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubygems.org/gems/zeitwerk,rubygems,https://github.com/gramantin/awesome-rails#readme,Rails
+https://hixonrails.com,Hix on Rails,https://github.com/gramantin/awesome-rails#readme,Rails

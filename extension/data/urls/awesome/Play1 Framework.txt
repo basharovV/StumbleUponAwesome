@@ -1,0 +1,198 @@
+http://www.playframework.com/modules/carbonate,,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules,playframework.com/modules,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.db/play-db,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://code.google.com/p/maven-play-plugin,maven-play-plugin,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/chronostamp,[chronostamp],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/db,[db],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jpagen,[jpagen],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/liquibase,[liquibase],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/logisimayml,[logisimayml],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/migrate,[migrate],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/multidb,[multidb],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/capistrano,[capistrano],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cargo,[cargo],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cloudbees,[cloudbees],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cloudfoundry,[cloudfoundry],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/dotcloud,[dotcloud],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/gae,[gae],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.gae/play-gae,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/heroku,[heroku],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jelastic,[jelastic],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/openebay,[openebay],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://bitbucket.org/kumaresan/openebay,Open eBay,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://apps.ebay.com/,Open eBay Application,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/openshift,[openshift],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/playapps,[playapps],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/reverseproxy,[reverseproxy],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/router,[router],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.router/play-router,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/stax,[stax],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.stax.net,http://www.stax.net,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/vhost,[vhost],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/constretto,[constretto],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.constretto/play-constretto,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/guice,[guice],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.guice/play-guice,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/ivy,[ivy],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/maven,[maven],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/spring,[spring],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.spring/play-spring,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/googleclosure,[googleclosure],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/mandubian-play-google-closure/,Google Closure,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/gwt,[gwt],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/play-framework-gwt/,Google Web Toolkit,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/gwt2,[gwt2],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/scala,[scala],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.scala/play-scala,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/scalagen,[scalagen],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/scalasecure,[scalasecure],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/akka,[akka],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://akkasource.org,akka,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/camel,[camel],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/pusher,[pusher],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.pusher.com,Pusher,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/rabbitmq,[rabbitmq],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://geeks.aretotally.in/rabbitmq-module-for-play-framework,RabbitMQ,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/accesslog,[accesslog],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.accesslog/play-accesslog,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/betterlogs,[betterlogs],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/infoplay,[infoplay],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/infoplay/,InfoPlay,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jpastats,[jpastats],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/log4play,[log4play],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/playerrors,[playerrors],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/recordtracking,[recordtracking],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/statsd,[statsd],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/associations,[associations],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.associations/play-associations,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cream,[cream],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/ebean,[ebean],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.ebean/play-ebean,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/mongo,[mongo],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/morphia,[morphia],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.morphia/play-morphia,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/mybatisplay,[mybatisplay],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/neo4j,[neo4j],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/objectify,[objectify],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/play-framework-objectify/,Objectify,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/orientdb,[orientdb],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/redis,[redis],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.redis/play-redis,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/riak,[riak],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/s3blobs,[s3blobs],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/siena,[siena],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.siena/play-siena,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/twig,[twig],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/coffee,[coffee],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.coffee/play-coffee,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/excel,[excel],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.excel/play-excel,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/formee,[formee],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/greenscript,[greenscript],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/html5validation,[html5validation],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jqueryui,[jqueryui],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jqvalidate,[jqvalidate],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jqvalidation,[jqvalidation],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/jqvalidate-play-framework/,Jqvalidation,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/less,[less],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.less/play-less,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/markdown,[markdown],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.markdown/play-markdown,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/menu,[menu],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/navigation,[navigation],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://bitbucket.org/hlassiege/play-nemrod,Navigation,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/paginate,[paginate],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.paginate/play-paginate,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/pdf,[pdf],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.pdf/play-pdf,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/pegdown,[pegdown],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/press,[press],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/sass,[sass],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.sass/play-sass,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/table,[table],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.table/play-table,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/tabularasa,[tabularasa],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/twitterbootstrap,[twitterbootstrap],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/jersey,[jersey],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://bitbucket.org/psartini/play-jersey,Jersey,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/resteasy,[resteasy],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.lunatech-labs.com/open-source/resteasy-play-module,RESTEasy Play! module,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/resteasycrud,[resteasycrud],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.lunatech-labs.com/open-source/resteasy-crud-play-module,RESTEasy CRUD module,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/swagger,[swagger],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/crudsiena,[crudsiena],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/mocha,[mocha],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://bitbucket.org/blobsmith/mocha/overview,Mocha,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/scaffold,[scaffold],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/elasticsearch,[elasticsearch],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://geeks.aretotally.in/play-framework-module-elastic-search-distributed-searching-with-json-http-rest-or-java,ElasticSearch,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/search,[search],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.search/play-search,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/browserid,[browserid],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cas,[cas],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/casino,[casino],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/deadbolt,[deadbolt],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.deadbolt/play-deadbolt,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/fbconnect,[fbconnect],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/force,[force],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/linkedin,[linkedin],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://geeks.aretotally.in/projects/play-framework-linkedin-module,LinkedIn OAuth Authentication,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/oauth,[oauth],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/recaptcha,[recaptcha],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.recaptcha/play-recaptcha,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/securepermissions,[securepermissions],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.lunatech-labs.com/open-source/secure-permissions-play-module,Secure Permissions,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/securesocial,[securesocial],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.securesocial/play-securesocial,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/shibboleth,[shibboleth],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/fastergt,[fastergt],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.fastergt/play-fastergt,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/japid,[japid],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.japid/play-japid,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/mustache,[mustache],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/rythm,[rythm],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.rythm/play-rythm,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/scalate,[scalate],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://scalate.fusesource.org,Scalate,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/thymeleaf,[thymeleaf],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.thymeleaf.org/,Thymeleaf 2.0,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cobertura,[cobertura],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.cobertura/play-cobertura,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/httpmock,[httpmock],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/mockito,[mockito],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.mockito/play-mockito,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/qunit,[qunit],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.qunit/play-qunit,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/spocktests,[spocktests],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://code.google.com/p/spock/,Spock,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/springtester,[springtester],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.springtester/play-springtester,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/tests,[tests],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/webdrive,[webdrive],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.webdrive/play-webdrive,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/i18ntools,[i18ntools],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/messages,[messages],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.messages/play-messages,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/nemrod,[nemrod],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/bespin,[bespin],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/bhave,[bhave],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://bhave.org/,Bhave,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cheese,[cheese],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cms,[cms],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/play-cms/,Cms,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/cnm,[cnm],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/externalconfig,[externalconfig],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/featureflags,[featureflags],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://code.google.com/p/play-featureflags,Feature Flags,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/googlecheckout,[googlecheckout],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/gravatar,[gravatar],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.gravatar/play-gravatar,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/hazelcast,[hazelcast],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.hazelcast/play-hazelcast,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/postmark,[postmark],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.postmark/play-postmark,![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat),https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.playframework.com/modules/useragentcheck,[useragentcheck],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://sant0s.github.io/play1-chart/,[play1-chart],https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://code.google.com/p/maven-play-plugin/wiki/MavenizedModules,Mavenized modules,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+https://code.google.com/p/maven-play-plugin/wiki/Usage,how to use them,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework
+http://www.javabeat.net/using-controllers-in-play-framework/,Using Play's controller,https://github.com/PerfectCarl/awesome-play1#readme,Play1 Framework

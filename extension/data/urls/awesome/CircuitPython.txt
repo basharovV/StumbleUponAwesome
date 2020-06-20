@@ -1,0 +1,150 @@
+https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython,CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://circuitpython.org/,CircuitPython.org,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://circuitpython.org/downloads,supported boards and download,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://learn.adafruit.com/welcome-to-circuitpython/overview,Welcome to CircuitPython!,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://learn.adafruit.com/circuitpython-essentials,CircuitPython Essentials,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://learn.adafruit.com/category/circuitpython,learn.adafruit.com CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://learn.adafruit.com/category/micropython-slash-circuitpython,learn.adafruit.com CircuitPython & MicroPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://discord.gg/adafruit,Adafruit CircuitPython Discord channel #CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev,Python on Hardware weekly VideoCast,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0,CircuitPython Weekly Meeting,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://forums.adafruit.com/viewforum.php?f=60,Adafruit CircuitPython Forums,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback,Getting started with Circuit Playground Express by Mike Barela,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/3944,the Adafruit store,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/,CircuitPython Development Workshop by Agus Kurniawan,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://techbookfest.org/,TechBookFest,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/3706,Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019,Wearable Tech Projects by Sophy Wong,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361,Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/,The 4.0 announcement,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://circuitpython.readthedocs.io/en/latest/,CircuitPython API Reference,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/,Circuit Playground Express CircuitPython API Reference,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://circuitpython.org/libraries,CircuitPython.org,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all,Adafruit Blinka - SBC Compatibility,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/,Coding CircuitPython on iOS 13.x,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/NYpcjDBA6xw,video,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://mu.readthedocs.io/en/latest/,For developers, Mu: A Python Code Editor,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/,Using Microsoft VSCode for CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress,Microsoft Device Simulator Express,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/circuitpython,Adafruit CircuitPython boards,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://electroniccats.com/,Electronic Cats,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://store.makerdiary.com/collections/frontpage,MakerDiary,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840,Nordic Semiconductor,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html,PCA10056,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html,PCA10059,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.nxp.com/,NXP,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK,MIMXRT1010 Eval Kit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1060-evaluation-kit:MIMXRT1060-EVK,MIMXRT1060 Eval Kit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.particle.io/,Particle,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.minisam.cc/product-category/development-board/,Benjamin Shockley,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.tindie.com/products/deshipu/small-pewpew-standalone/,Radomir Dopieralski,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://hackaday.io/project/165032-pewpew-m4,PewPew M4,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.sparkfun.com/products/15423,Sparkfun Qwiic Micro,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.sparkfun.com/products/14713,SAMD51 Thing Plus,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://daveastels.com/feather-m0-express-supersizing.html,Dave Astels,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p,Itaca Innovation,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://capablerobot.com/,Capable Robot Components,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub,Programmable USB Hub,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.crowdsupply.com/capable-robot-components/sensetemp,SenseTemp,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.roboticsmasters.co/,Robotics Masters,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.crowdsupply.com/robotics-masters/robo-hat-mm1,Robo HAT MM1 M4,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://circuitpython.org/board/pycubed/,PyCubed,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://tinkrmind.me/,Amitabh Shrivastava,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://tinkrmind.me/portfolio/hearrings/,Hearrings,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/,Numberwang badge,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/,Serpente,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://circuitpython.org/board/feather_mimxrt1011/,Feather MIMXRT1011,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://developer.sony.com/,Sony,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://developer.sony.com/develop/spresense/,Spresense,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.pjrc.com/,PJRC,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/4323,Teensy 4.0,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://docs.electronut.in/,Electronut Labs,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://jandjstudios.io/,J&J Studios,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://jandjstudios.io/datum/datum-IMU/,datum-IMU,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://jandjstudios.io/datum/datum-Distance/,datum-Distance,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/4324,Meowbit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/2390,PyBoard 1.1,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.seeedstudio.com/,Seeed Studios,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html,Seeeduino XIAO,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.st.com/en/evaluation-tools/32f412gdiscovery.html,STM32F412 Discovery Kit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.st.com/en/evaluation-tools/32f411ediscovery.html,STM32F411 Discovery kit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.st.com/en/evaluation-tools/stm32f4discovery.html,STM32F407 Discovery Kit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://thea.codes/,Winterbloom Sol,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://keithp.com/snek/snekboard,Snekboard,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html,PYB Nano v2,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://xinabox.cc/products/cs11?_pos=1&_sid=8a988d61c&_ss=r,XinaBox CS11,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://xinabox.cc/products/cc03?_pos=1&_sid=ecd354e4d&_ss=r,XinaBox CC03,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.teknikio.com/pages/bluebird,Bluebird,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://kevinneubauer.com/portfolio/circuitbrains-deluxe/,CircuitBrains Deluxe,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://kevinneubauer.com/portfolio/circuitbrains-basic/,CircuitBrains Basic,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/category/956,CircuitPython sensors and accessories,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://python.digikey.com,python.digikey.com,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruitdaily.com/category/circuitpython/,Archives of all newsletters,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/-bBHXimlfPQ,Changing Lives through Open Source, Passion and Mentoring,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.pyohio.org/2019/presentations/126,keynote talk at PyOhio,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/,Control servos with CircuitPython and Raspberry Pi,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/,PyDev of the Week: Scott Shawcroft,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html,Scott Shawcroft: History of CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/watch?v=HNrMjH9Yuv4,Five Things You Didn't Know Python Could Do,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/watch?v=35mXD40SvXM,PyCon2019 Keynote - Light Up Your Life - With Python and LEDs,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8,also available,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home,Learn Hardware Programming with CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/,Use CircuitPython boards on the TI-83 Premium CE calculator,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/,Make: Vol. 68 Boards guide,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers,Scott Shawcroft Is Squeezing Python Into Microcontrollers,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/,Circuit Playground Express 4-H edition approved,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/,CircuitPython in Space,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745,Adafruit PyPortal: GUI meets CircuitPython in a Big Way,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/Kz4C7sCLWb0,Cool Tools,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development,CircuitPython for Rapid Microcontroller-Based Prototyping and Development,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review,HackSpace Magazine - Issue 17,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230,Python on Hardware Means Choices for Makers,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf,PDF,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/,HackSpace Magazine - Issue 15,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/,CircuitPython in 2019,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/,CircuitPython in 2018,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/category/circuitpython/,CircuitPython on the Adafruit.com/blog,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/,CircuitPython in MicroSolutions Digital Magazine,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/,CircuitPython Snakes its Way onto Adafruit Hardware,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review,Adafruit Circuit Playground Express review,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/watch?v=d-Uw3YOf7dE,The Amp Hour #383,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://hackaday.com/?s=circuitpython,CircuitPython on Hackaday,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.hackster.io/search?q=circuitpython,CircuitPython on hackster.io,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://makezine.com/?s=circuitpython,CircuitPython on MAKE,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.dropbox.com/sh/l6tp9ym5nf8h5v9/AABGu_q2pcdUQdx1avr8Xvvda?dl=0,CircuitPython Art Pack! Logos, banners, photos and Blinka!,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython,CircuitPython videos on YouTube, latest,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.instagram.com/explore/tags/circuitpython/,#CircuitPython tagged photos & videos on Instagram,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://forum.micropython.org/search.php?keywords=adafruit&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search,CircuitPython - micropython.org forums,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.reddit.com/domain/adafruit.com/search?q=circuit+python&sort=new&t=week,CircuitPython tagged on Reddit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.reddit.com/r/circuitpython/,CircuitPython community on Reddit,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://hackaday.io/list/163331-circuitpython,CircuitPython on Hackaday.io,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/,CircuitPython on hackster.io,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.instructables.com/howto/circuitpython/,CircuitPython on Instructables,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016,Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://adafru.it/spotify,Spotify,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml,XML feed,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2,Python on hardware weekly video cast,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.instagram.com/adafruit/channel/,IGTV (Instagram TV,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/,The Best Python Podcasts,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://us.pycon.org/2020/about/,PyCon 2020,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/4365,CircuitPython 5 release poster,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/4082,CircuitPython 4 release poster,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/3793,CircuitPython 3 release poster,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/3680,Blinka the CircuitPython Limited Edition Enamel Pin,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/3725,Blinka the CircuitPython Sticker,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/2600,Blinka the CircuitPython Temporary Tattoo,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.adafruit.com/product/3987,CircuitPlayground lanyard,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/mmLI0HKfPQI,PyCon India - 2019 Interactive Hardware Poster Presentation powered by CircuitPython by Ayan Pahwa and Aakanksha Agrawal,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/watch?v=Mb9c4e7ID9E&feature=youtu.be,Max Holiday - CircuitPython in space, SmallSats and more!,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/,EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-radomir-dopieralski-game-development-with-circuitpython-cirecuitpython-europython-deshipu/,EuroPython 2019 talk video: Radomir Dopieralski – Game Development with CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/,VIDEO: PyCascades – Light Up Your Life – With Python and LEDs,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/09/13/hanselminutes-technology-podcast-learning-circuitpython-with-scott-shawcroft-shanselman-circuitpython-tannewt-hanselminutes-adafruit/,Hanselminutes Technology Podcast – Learning CircuitPython with Scott Shawcroft,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://blog.adafruit.com/2019/05/06/pycon2019-keynote-python-on-hardware-nina-zakharenko-pythonhardware-pycon2019-circuitpython-python-circuitplaygroundexpress-nnja/,PyCon2019 Keynote: Python on Hardware – Nina Zakharenko,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/EvGhPmPPzko,MicroPython & the Internet of Things,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/rN7kvWuAt7k,CircuitPython: Python on hardware,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/JAgCZ70Q3sg,Lighting Macro Photographs with CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/LRvh1UDTbU0,Embedded Programming for everyone using MicroPython and CircuitPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://youtu.be/hHec4qL00x0,Writing fast and efficient MicroPython,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://www.youtube.com/watch?v=437CZBnK8vI,Extending MicroPython: Using C for good,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython
+https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview,Adafruit : Contribute to CircuitPython with Git and GitHub,https://github.com/adafruit/awesome-circuitpython#readme,CircuitPython

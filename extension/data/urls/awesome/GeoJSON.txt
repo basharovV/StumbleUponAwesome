@@ -1,0 +1,29 @@
+https://www.npmjs.com/package/geojson-extent,geojson-extent,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://www.npmjs.com/package/geojson-pick,geojson-pick,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://geojson.io/,geojson.io,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://umap.openstreetmap.fr/en/,umap,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://geojson.tools/,geojson.tools,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://google-developers.appspot.com/maps/documentation/utils/geojson/,simple geojson editor,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://mapstarter.com/,mapstarter,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://tomscholz.github.io/geojson-editor/,GeoJSON editor,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://dropchop.io/,dropchop,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://drewweth.github.io/geodebugger,Web GIS,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://www.npmjs.com/package/geojson-validation,geojson-validation,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://geojsonlint.com/,geojsonlint,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://mapshaper.org/,mapshaper,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://koopjs.github.io,koop,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://www.gdal.org/ogr2ogr.html,ogr2ogr,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://www.npmjs.com/package/geojson2ndjson,geojson2ndjson,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://www.npmjs.com/package/geobuf/v/0.2.1,geobuf,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://www.naturalearthdata.com/,natural earth,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://geojson.xyz/,geojson.xyz,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://openflights.org/,openflights,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://mapzen.com/data/metro-extracts/,metro-extracts,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://www.macwright.org/strava-geojson/,on the web,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://ustroetz.github.io/gimmeOSM/,gimme OSM,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://wiki.fasterxml.com/JacksonHome,Jackson,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+https://tools.ietf.org/html/rfc7946,RFC 7946 – The GeoJSON Format,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://geojson.win,geojson.win,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://geojson.org/,GeoJSON.org,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://www.macwright.org/2015/03/23/geojson-second-bite.html,More than you ever wanted to know about GeoJSON,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
+http://www.macwright.org,Tom MacWright,https://github.com/tmcw/awesome-geojson#readme,GeoJSON
