@@ -2,7 +2,7 @@
 An *awesome* internet discovery button, for developers, tech and science lovers. 
 
 <p align="center">
-  <img style="width: 100%;padding:0;margin:0;" src="header.gif"/>
+  <img style="width: 100%;padding:0;margin:0;" src="header.png"/>
 </p>
 
 > A Chrome/Brave extension that takes you to a random site from one of the [awesome curated lists](https://github.com/sindresorhus/awesome). Like good ol' StumbleUpon (which is now dead). 
@@ -35,7 +35,7 @@ Here's some of the things I'd like to build out for this extension. However the 
 - [ ] Categories
   - [x] [awesome curated lists](https://github.com/sindresorhus/awesome)
   - [ ] tech, science, software, startups, etc.
-- [ ] Rabbit hole feature (stay on the same topic). _Currently developing..._
+- [x] Rabbit hole feature (stay on the same topic). _Done, not yet published_
 
 
 **[→ Changelog](CHANGELOG.md)**

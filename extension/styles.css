@@ -1,13 +1,13 @@
 [class*=sax-] * {
     font-size: 12pt;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	margin: 0;
+    margin: 0;
     padding: 0;
     margin-block-end: 0;
     margin-block-start: 0;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-	border: 0;
+    border: 0;
     vertical-align: baseline;
     line-height: 2em;
 }
@@ -20,7 +20,7 @@ Welcome popup
     position: fixed;
     top: 1em;
     right: 1em;
-    width: 400px;
+    width: 330px;
     display: flex;
     background-color: black;
     padding: 1em;
@@ -29,6 +29,7 @@ Welcome popup
     z-index: 99999999999999999999999 !important;
     box-shadow: 3px 3px 60px rgb(89, 89, 89);
     font-size: 1em;
+    box-sizing: initial;
 }
 
 #sax-welcome-text-title {
@@ -38,7 +39,6 @@ Welcome popup
     text-transform: none;
     transition: none;
 }
-
 
 #sax-welcome-text-opensource {
     color: pink;
@@ -63,9 +63,42 @@ Welcome popup
 
 #sax-welcome-text-body {
     color: #fafafa;
-    font-size: 13pt;
+    font-size: 12pt;
     margin-bottom: 0;
     font-weight: normal;
+    text-transform: none;
+    transition: none;
+}
+
+#sax-welcome-new-feature {
+    width: 100%;
+    padding: 0.5em;
+    box-sizing: border-box;
+    border-radius: 1em;
+}
+
+#sax-welcome-text-body-small {
+    color: rgb(155, 155, 155);
+    font-size: 12pt;
+    margin-bottom: 0;
+    text-transform: none;
+    transition: none;
+}
+
+#sax-welcome-text-body-small-white {
+    color: white;
+    font-size: 12pt;
+    margin-bottom: 0;
+    text-transform: none;
+    transition: none;
+}
+
+#sax-welcome-text-body-small-accent {
+    color: #FCA9A9;
+    font-weight: bold;
+    margin-right: 5px;
+    font-size: 11pt;
+    margin-bottom: 0;
     text-transform: none;
     transition: none;
 }
@@ -80,7 +113,7 @@ Welcome popup
 
 #sax-keyboard-shortcut {
     color: rgb(201, 201, 201);
-    background-color:  rgb(201, 201, 201, 0.2);
+    background-color: rgb(201, 201, 201, 0.2);
     padding: 0.2em;
     border: 1px solid #6f6f6f8e;
     border-radius: 4px;
@@ -103,7 +136,7 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-close  {
+#sax-welcome-close {
     align-self: flex-end;
     font-size: 12pt;
     margin: 1em 0 0 0;
@@ -134,8 +167,19 @@ Welcome popup
     opacity: 0;
 }
 
+.sax-show-fast {
+    opacity: 1;
+    transition: opacity 100ms ease-in-out;
+}
+
+.sax-hide-fast {
+    transition: opacity 100ms ease-in-out;
+    opacity: 0;
+}
+
 .sax-gone {
     display: none;
+    opacity: 0;
 }
 
 .sax-progress {
@@ -167,6 +211,7 @@ Welcome popup
 /**
 Top bubbles
 **/
+
 #sax-top-bubbles {
     display: flex;
     flex-direction: row;
@@ -201,7 +246,7 @@ Rabbit hole
     height: 20px;
 }
 
-#sax-rabbit-hole-exit-button:hover  {
+#sax-rabbit-hole-exit-button:hover {
     opacity: 0.5;
     cursor: pointer;
 }
@@ -210,6 +255,21 @@ Rabbit hole
     height: 20px;
     width: auto;
     margin-left: 10px;
+    animation: rotate 3s linear infinite;
+}
+
+#sax-rabbit-hole-spiral-2 {
+    position: relative;
+    top: 3px;
+    height: 20px;
+    width: auto;
+    animation: rotate 3s linear infinite;
+}
+
+@keyframes rotate {
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 #sax-rabbit-hole-text {
@@ -244,8 +304,9 @@ Rabbit hole
     position: fixed;
     top: 2em;
     right: 2em;
-    width: auto;  
-    z-index: 99999999999999999999999 !important; /* I know, I'm sorry... */
+    width: auto;
+    z-index: 99999999999999999999999 !important;
+    /* I know, I'm sorry... */
     display: flex;
     flex-direction: column;
     background: none;
@@ -287,7 +348,7 @@ Rabbit hole
     font-family: sans-serif;
     font-size: 12pt;
     text-align: center;
-    box-shadow: rgba(89, 89, 89, 0.745) 3px 3px 45px;
+    box-shadow: rgba(89, 89, 89, 0.745) 3px -13px 45px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -304,13 +365,14 @@ Rabbit hole
 }
 
 #sax-label-secondary {
-    font-size: 10pt;
+    font-size: 10pt !important;
     padding-left: 0.2em;
     color: #bababa;
+    margin: 6px 0px;
 }
 
 #sax-label-primary {
-    font-size: 10pt;
+    font-size: 10pt !important;
     padding-left: 0.2em;
     font-weight: bold;
     color: #FFFFFF;
@@ -342,7 +404,7 @@ Rabbit hole
     color: #ca976d;
 }
 
-#sax-rabbit-hole { 
+#sax-rabbit-hole {
     position: relative;
     top: -45px;
     right: -25px;
@@ -360,6 +422,52 @@ Rabbit hole
     opacity: 0.8;
 }
 
-#sax-rabbit-hole-image { 
+#sax-rabbit-hole-image {
     height: 120px;
+    width: auto;
+}
+
+#sax-rabbit-hole-image-2 {
+    height: 25px;
+    width: auto;
+}
+
+#sax-new-feature-popup {
+    position: relative;
+    top: -2em;
+    width: fit-content;
+    align-self: flex-end;
+    z-index: 1;
+    border-radius: 1.1em;
+    padding: 2.5em 1.5em 0.5em 1.5em;
+    color: white;
+    background-color: #6F82EB;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#sax-new-feature-popup-badge {
+    font-weight: bold;
+    font-size: 10pt;
+    color: #FCA9A9;
+    line-height: initial;
+}
+
+#sax-new-feature-popup-text {
+    margin-left: 5pt;
+    font-size: 9pt;
+    color: white;
+    line-height: initial;
+}
+
+#sax-new-feature-popup-text>bold {
+    font-weight: bold;
+    font-size: 9pt;
+    color: white;
+    line-height: initial;
 }

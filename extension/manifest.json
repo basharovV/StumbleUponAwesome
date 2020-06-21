@@ -1,6 +1,6 @@
 {
   "name": "StumbleUponAwesome",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An awesome internet discovery button. Like StumbleUpon, but for developers, tech and science lovers.",
   "background": {
     "scripts": [
@@ -8,7 +8,7 @@
     ],
     "persistent": false
   },  
-  "web_accessible_resources": ["images/icon_16.png", "images/icon_32.png", "images/icon_128.png", "images/rabbithole.gif", "images/rabbithole.png", "images/spiral.png", "images/close.svg"],
+  "web_accessible_resources": ["images/icon_16.png", "images/icon_32.png", "images/icon_128.png", "images/rabbithole.gif", "images/rabbithole.png", "images/rabbithole_small.png", "images/spiral.png", "images/close.svg"],
   "content_scripts": [
     {
       "matches": [

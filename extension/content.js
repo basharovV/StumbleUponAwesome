@@ -52,7 +52,7 @@ function showStumbleInfo(request) {
     text.id = 'sax-label';
 
     var title = document.createElement('p');
-    title.innerHTML = `<span id="sax-label-secondary">Stumble No.</span><span id="sax-label-primary">${request.visited}</span><span id="sax-label-secondary">`;
+    title.innerHTML = `<span id="sax-label-secondary">Stumble No.</span><span id="sax-label-primary">${request.visited}</span>`;
     text.append(title);
 
     var icon = document.createElement('img');
@@ -97,7 +97,16 @@ function showStumbleInfo(request) {
         </div>
     `;
     bottom.append(content);
+
+    // NEW popup
+    var newFeaturePopup = div('sax-new-feature-popup');
+    newFeaturePopup.innerHTML = `
+        <p id='sax-new-feature-popup-badge'>NEW!</p>
+        <p id='sax-new-feature-popup-text'>Stay on the same topic with <bold>rabbit hole</bold> mode :)</p>
+    `;
+
     ui.appendChild(bottom);
+    ui.appendChild(newFeaturePopup);
 
 
     // div.appendChild(progress);
@@ -128,10 +137,10 @@ function showStumbleInfo(request) {
         if (isDisplayed) {
             // clearTimeout();
             exitTimeoutId = setTimeout(() => {
-                ui.classList.add('sax-hide');
+                ui.classList.add('sax-gone');
                 ui.classList.remove('sax-show');
                 isDisplayed = false;
-            }, 1300);
+            }, 4000);
         }
     });
 
@@ -147,17 +156,44 @@ function showStumbleInfo(request) {
     var rabbitHole = document.getElementById('sax-rabbit-hole-image');
     rabbitHole.addEventListener('mouseenter', () => {
         rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.gif'));
-    })
+        // Show new feature popup
+        newFeaturePopup.classList.add('sax-show-fast');
+        newFeaturePopup.classList.remove('sax-hide-fast');
+    });
+
     rabbitHole.addEventListener('mouseleave', () => {
         rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.png'));
-    })
+        // Hide new feature popup
+        if (!request.isRabbitHoleEnabled) {
+            newFeaturePopup.classList.add('sax-hide-fast');
+            newFeaturePopup.classList.remove('sax-show-fast');
+        }
+    });
+
     rabbitHole.addEventListener('click', () => {
+        chrome.storage.local.set({'featureRabbitHole1Seen': true}, () => {
+            const newFeaturePopup = document.getElementById('sax-new-feature-popup');
+            newFeaturePopup.classList.remove('sax-show-fast');
+            newFeaturePopup.classList.add('sax-gone');
+        });
         chrome.runtime.sendMessage({ message: 'rabbit-hole-enter' })
-    })
+    });
+    
     var rabbitHoleExitButton = document.getElementById('sax-rabbit-hole-exit-button');
 
     rabbitHoleExitButton.addEventListener('click', () => {
         chrome.runtime.sendMessage({ message: 'rabbit-hole-exit' })
+    });
+
+    // Show / Hide the New feature popup depending on flag
+    chrome.storage.local.get({'featureRabbitHole1Seen': false} , function (result) {
+        const newFeaturePopup = document.getElementById('sax-new-feature-popup');
+
+        if (request.isRabbitHoleEnabled || result.featureRabbitHole1Seen) {
+            newFeaturePopup.classList.add('sax-hide-fast');
+            newFeaturePopup.classList.remove('sax-show-fast');
+        } else {
+        }
     });
 
     console.log('check');
@@ -195,7 +231,7 @@ function toggleStumbleInfo(request) {
             isDisplayed = false;
         } else {
             bubblesInfo.classList.add('sax-show');
-            bubblesInfo.classList.remove('sax-hide');
+            bubblesInfo.classList.remove('sax-gone');
             isDisplayed = true;
         }
     } else {
@@ -210,8 +246,8 @@ function hideWelcomeInfo() {
 function showWelcomeInfo(request) {
     os = request.os;
 
-    div = document.createElement('div');
-    div.id = "sax-welcome";
+    const ui = document.createElement('div');
+    ui.id = "sax-welcome";
     icon = document.createElement('img');
 
     icon.id = 'sax-welcome-icon';
@@ -224,16 +260,27 @@ function showWelcomeInfo(request) {
     </br>
     <p id="sax-welcome-text-body">
     This extension gives you endless hours of developer-friendly internet discovery. 
-    Keep clicking on the ⚡️ icon in the toolbar, or press <span id="sax-keyboard-shortcut">${os === 'mac' ? "Alt+Shift+S" : "Alt+Shift+S"}
+    </br>
+    Stumble by clicking on the ⚡️ icon in the toolbar, or press <span id="sax-keyboard-shortcut">${os === 'mac' ? "Alt+Shift+S" : "Alt+Shift+S"}
     </span>
     </br></br>
-    <p id="sax-welcome-text-body">
+    <div id="sax-welcome-new-feature">
+        <img id="sax-rabbit-hole-spiral-2" src=${chrome.extension.getURL('images/spiral.png')} />
+        <span id='sax-welcome-text-body-small-accent'>NEW!</span>
+        </br>
+        <span id='sax-welcome-text-body-small'>
+            <span id='sax-welcome-text-body-small-white'>Rabbit hole: </span>You can now stay stumblin' on the same topic. On your next stumble, follow the rabbit...
+        </span>
+        <img id="sax-rabbit-hole-image-2" src=${chrome.extension.getURL('images/rabbithole_small.png')} />
+    </div>
+    </br></br>
+    <p id="sax-welcome-text-body-small-white">
     💬 I'll improve this extension with <a id="sax-welcome-text-body-feedback-link" href="mailto:stumbleuponawesome@gmail.com">your feedback</a>
     </p>
     <p id="sax-welcome-text-opensource">
-    ℹ This extension is open-source! 
-    <a id="sax-welcome-text-opensource-link" href="https://raw.githubusercontent.com/basharovV/StumbleUponAwesome/master/extension/urls.txt"> 
-    See the code and URLs 
+    ℹ Also, this extension is open-source! 
+    <a id="sax-welcome-text-opensource-link" href="https://github.com/basharovV/StumbleUponAwesome"> 
+    See the code and URLs
     </a></p>`;
     text.classList = ['sax-welcome-text']
 
@@ -241,11 +288,11 @@ function showWelcomeInfo(request) {
     close.innerHTML = "Awesome, got it! 🤘"
     close.id = 'sax-welcome-close';
 
-    div.appendChild(icon);
-    div.appendChild(text);
-    div.appendChild(close);
+    ui.appendChild(icon);
+    ui.appendChild(text);
+    ui.appendChild(close);
     close.addEventListener('click', hideWelcomeInfo);
-    document.body.prepend(div);
+    document.body.prepend(ui);
     chrome.storage.local.set({ 'welcome_seen': true }, function () {
         console.log("Welcome seen for StumbleUponAwesome")
     });

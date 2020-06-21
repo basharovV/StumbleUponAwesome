@@ -486,7 +486,7 @@ const getFocusedWindowId = () => {
 /*
 Context menu
 */
-chrome.contextMenus.onClicked.addListener(function (event) {
+chrome.contextMenus.onClicked.addListener(async function (event) {
   if (event.menuItemId === "sax-feedback") {
     chrome.tabs.create({
       url: 'mailto:stumbleuponawesome@gmail.com?subject=Feedback on StumbleUponAwesome&body=Tell me! :)',
@@ -496,9 +496,14 @@ chrome.contextMenus.onClicked.addListener(function (event) {
     chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
       notifyTabStumble(result.visited, result.totalUrls, rabbitHoleCategory !== null);
     });
+  } else if (event.menuItemId === "sax-rabbit-hole") {
+    if (rabbitHoleCategory) {
+      await exitRabbitHole();
+    } else {
+      await enterRabbitHole();
+    }
   }
 });
-
 
 /** Messages from content script */
 
