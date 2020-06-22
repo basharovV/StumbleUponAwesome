@@ -58,7 +58,7 @@ function getRandomLineFromFile(filepath) {
             var allText = rawFile.responseText;
             var lines = allText.split('\n').filter(ln=>ln.trim().length > 0);
             totalUrls = lines.length;
-            var randomNum = Math.floor(Math.random() * lines.length);
+            var randomNum = Math.floor(Math.random() * totalUrls);
             const randomLine = lines[randomNum].split(',');
             resolve(randomLine);
           }
@@ -100,8 +100,6 @@ async function findUrl(source, category) {
  */
 async function stumble() {
 
-  console.log(`rabbit hole category: ${rabbitHoleCategory}`);
-  
   const randomLine = await findUrl('awesome', rabbitHoleCategory);
 
   stumbleUrl = {
@@ -112,8 +110,6 @@ async function stumble() {
   }
 
   await set('lastStumbleUrl', stumbleUrl);
-
-  console.log("Random Line\n" + randomLine)
 
   // Switch to exiting tab 
   if (stumbleTabId !== null) {
@@ -311,12 +307,10 @@ const setRabbitHoleCategory = async category => {
 }
 
 const enterRabbitHole = async () => {
-  console.log(`Setting rabbit hole category to ${stumbleUrl.listTitle}`);
   await setRabbitHoleCategory(stumbleUrl.listTitle);
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
     notifyTabStumble(result.visited, result.totalUrls, rabbitHoleCategory !== null);
   });
-  console.log(`Rabbit hole mode: ${rabbitHoleCategory}`);
 }
 
 const exitRabbitHole = async () => {
@@ -325,38 +319,21 @@ const exitRabbitHole = async () => {
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
     notifyTabStumble(result.visited, result.totalUrls, rabbitHoleCategory !== null);
   });
-  console.log(`Rabbit hole mode: ${rabbitHoleCategory}`);
-
 }
 
-const saveStumbleTabId = tabId => {
-  return new Promise((resolve, reject) => {
-    chrome.storage.local.set({ 'stumbleTabId': tabId }, function () {
-      console.log(`Saved stumble tabId: ${tabId}`);
-      stumbleTabId = tabId;
-      resolve();
-    });
-  })
+const saveStumbleTabId = async tabId => {
+  await set('stumbleTabId', tabId);
+  stumbleTabId = tabId;
 }
 
-const getStumbleTabId = () => {
-  return new Promise((resolve, reject) => {
-    chrome.storage.local.get(['stumbleTabId'], function (result) {
-      if (result.stumbleTabId) {
-        resolve(result.stumbleTabId);
-      } else {
-        resolve(null);
-      }
-    })
-  });
+const getStumbleTabId = async () => {
+  return await get('stumbleTabId', null);
 }
-
 
 function update() {
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
 
     if (result.welcome_seen === undefined || result.welcome_seen === false || result.welcome_seen === null) {
-      console.log('Setting welcome');
       chrome.tabs.executeScript({
         file: 'styles.css'
       }, function () {
@@ -367,12 +344,10 @@ function update() {
         });
       });
     } else {
-      console.log('Visited is' + result.visited);
       const count = result.visited === undefined ? 0 : parseInt(result.visited)
       const incremented = count + 1;
       // Set new value
       chrome.storage.local.set({ 'visited': incremented, 'totalUrls': totalUrls }, function () {
-        console.log('Visited is now set to ' + incremented);
         notifyTabStumble(incremented, totalUrls, rabbitHoleCategory !== null);
       });
     }
@@ -406,7 +381,6 @@ chrome.browserAction.onClicked.addListener(
   async function (tab) {
 
     const currentWindowId = await getFocusedWindowId();
-    console.log(`oldWindow: ${windowId} newWindow: ${currentWindowId}`)
     // Get stumble tab Id
     const savedStumbleTabId = await getStumbleTabId();
     const tabs = await getBrowserTabs();
@@ -510,7 +484,6 @@ chrome.contextMenus.onClicked.addListener(async function (event) {
 
 chrome.runtime.onMessage.addListener(
   async function (request, sender, sendResponse) {
-      console.log(JSON.stringify(request))
       if (request.message === "rabbit-hole-enter") {
           await enterRabbitHole();
       } else if (request.message === "rabbit-hole-exit") {

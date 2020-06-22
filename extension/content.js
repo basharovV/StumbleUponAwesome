@@ -144,8 +144,6 @@ function showStumbleInfo(request) {
     ui.appendChild(newFeaturePopup);
 
     enterTimeoutId = setTimeout(() => {
-        console.log('check');
-        console.log('timeout');
         ui.classList.add('sax-show');
         ui.classList.remove('sax-hide');
 
@@ -159,12 +157,10 @@ function showStumbleInfo(request) {
 
 
     ui.addEventListener("mouseenter", () => {
-        console.log('mouse enter');
         clearTimeout(exitTimeoutId);
     });
 
     ui.addEventListener("mouseleave", () => {
-        console.log('mouse leave');
         if (isDisplayed) {
             // clearTimeout();
             exitTimeoutId = fadeOutAndHide(ui, 5, 0.5, () => {
@@ -222,9 +218,6 @@ function showStumbleInfo(request) {
         } else {
         }
     });
-
-    console.log('check');
-
 }
 
 function showRabbitHoleEnabled() {
@@ -252,7 +245,6 @@ function showRabbitHoleDisabled() {
 
 function toggleStumbleInfo(request) {
     var bubblesInfo = document.getElementById('sax-info-box');
-    console.log(`Bubbles info box: ${bubblesInfo}`);
     if (bubblesInfo !== null) {
         if (isDisplayed) {
             bubblesInfo.classList.add('sax-gone');
@@ -322,13 +314,11 @@ function showWelcomeInfo(request) {
     close.addEventListener('click', hideWelcomeInfo);
     document.body.prepend(ui);
     chrome.storage.local.set({ 'welcome_seen': true }, function () {
-        console.log("Welcome seen for StumbleUponAwesome")
     });
 }
 
 chrome.runtime.onMessage.addListener(
     function (request, sender, sendResponse) {
-        console.log(JSON.stringify(request));
         if (request.message === "stumble") {
             if (isDisplayed) {
                 if (request.isRabbitHoleEnabled) {
