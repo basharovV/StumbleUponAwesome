@@ -60,11 +60,22 @@ Here's some of the things I'd like to build out for this extension. However the 
 **[→ Current version: 1.0.6](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
 
 ### A note about permissions
-This extension requires the `<all_urls>` permission, in order to show the overlay UI on every stumble page that you visit. It does not access data on these sites. 
+This extension requires the `<all_urls>` permission, in order to show the overlay UI on every stumble page that you visit. It does not access data on these sites. There is no tracking, or analytics of any kind, and state is only stored locally. 
 
 ### Credit to the curators ✔
 This extension is made possible by awesome people curating the internet:
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and [all the awesome list authors](https://github.com/sindresorhus/awesome/graphs/contributors)
+
+### A note about the dataset
+It's completely local - you can find it under [/extension/data](./extension/data). It's generated with [awesome_scraper.py](./scraper/awesome_scraper.py). 
+
+##### Maintaining quality
+To make sure that every link works and is relevant, the dataset is cleaned. Any dead or broken links are removed, as well as links to CI pipelines, recursive links, donation links, etc. This is done with the cleanup functions in [utils.py](./scraper/utils.py). Running this script can take a few hours on a slow connection.
+
+##### Broken links
+After removing from the dataset, a record of dead or broken links (those with 404, SSL, other server errors) is saved in [these text files](./extension/data/broken-urls) after every scrape. 
+
+❗️If you are one of the awesome list maintainers, find the **[ text file for your awesome-list](./extension/data/broken-urls)** to check for dead links and remove them from your list, or update with a valid URL. If the file is empty, all good! 
 
 #### Contribute
 
