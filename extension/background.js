@@ -41,10 +41,6 @@ chrome.runtime.getPlatformInfo(function (info) {
   os = info.os;
 });
 
-async function init() {
-  rabbitHoleCategory = await getRabbitHoleCategory();
-}
-
 
 /**
  * 
@@ -60,7 +56,7 @@ function getRandomLineFromFile(filepath) {
         if (rawFile.readyState === 4) {
           if (rawFile.status === 200) {
             var allText = rawFile.responseText;
-            var lines = allText.split('\n');
+            var lines = allText.split('\n').filter(ln=>ln.trim().length > 0);
             totalUrls = lines.length;
             var randomNum = Math.floor(Math.random() * lines.length);
             const randomLine = lines[randomNum].split(',');
@@ -104,16 +100,19 @@ async function findUrl(source, category) {
  */
 async function stumble() {
 
-  await init();
+  console.log(`rabbit hole category: ${rabbitHoleCategory}`);
   
   const randomLine = await findUrl('awesome', rabbitHoleCategory);
 
   stumbleUrl = {
     url: randomLine[0],
-    title: randomLine[1].trim().length > 0 ? randomLine[1].trim() : undefined,
+    title: randomLine[1] ? randomLine[1].trim() : undefined,
     listUrl: randomLine[2],
     listTitle: randomLine[3]
   }
+
+  await set('lastStumbleUrl', stumbleUrl);
+
   console.log("Random Line\n" + randomLine)
 
   // Switch to exiting tab 
@@ -352,6 +351,7 @@ const getStumbleTabId = () => {
   });
 }
 
+
 function update() {
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
 
@@ -518,3 +518,11 @@ chrome.runtime.onMessage.addListener(
       }
   }
 );
+
+async function init() {
+  stumbleTabId = await getStumbleTabId();
+  stumbleUrl = await get('lastStumbleUrl', null);
+  rabbitHoleCategory = await getRabbitHoleCategory();
+}
+
+init();

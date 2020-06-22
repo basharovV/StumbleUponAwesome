@@ -1,22 +1,48 @@
-[class*=sax-] * {
+[class^=sax-] {
+    all: initial;
     font-size: 12pt;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
-    margin-block-end: 0;
-    margin-block-start: 0;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     border: 0;
     vertical-align: baseline;
+    max-width: auto;
     line-height: 2em;
 }
+
+[id^=sax-] {
+    all: initial;
+    font-size: 12pt;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    border: 0;
+    vertical-align: baseline;
+    max-width: auto;
+    line-height: 2em;
+}
+
+[id^=sax-] > a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 
 /* 
 Welcome popup
 */
 
 #sax-welcome {
+    overflow:auto;
+    max-height: 90%;
     position: fixed;
     top: 1em;
     right: 1em;
@@ -30,6 +56,15 @@ Welcome popup
     box-shadow: 3px 3px 60px rgb(89, 89, 89);
     font-size: 1em;
     box-sizing: initial;
+}
+
+#sax-welcome-text * {
+    line-height: 2em;
+}
+
+#sax-welcome-text > p {
+    line-height: 2em;
+    display: block;
 }
 
 #sax-welcome-text-title {
@@ -71,6 +106,7 @@ Welcome popup
 }
 
 #sax-welcome-new-feature {
+    display: block;
     width: 100%;
     padding: 0.5em;
     box-sizing: border-box;
@@ -88,6 +124,14 @@ Welcome popup
 #sax-welcome-text-body-small-white {
     color: white;
     font-size: 12pt;
+    margin-bottom: 0;
+    text-transform: none;
+    transition: none;
+}
+
+#sax-welcome-text-body-smaller-white {
+    color: white;
+    font-size: 11pt;
     margin-bottom: 0;
     text-transform: none;
     transition: none;
@@ -122,7 +166,7 @@ Welcome popup
 }
 
 #sax-welcome-text-body-feedback-link {
-    font-size: 13pt;
+    font-size: 11pt;
     color: rgb(170, 192, 255);
     font-weight: normal;
     text-transform: none;
@@ -225,12 +269,13 @@ Rabbit hole
 **/
 
 #sax-rabbit-hole-bubble {
+    height: 48px;
     position: relative;
     left: 1em;
     width: fit-content;
     align-self: flex-end;
     border-radius: 3em;
-    padding: 0.3em 1.5em 0.5em 1.5em;
+    padding: 0 1.5em 0 1em;
     color: white;
     background-color: #3D00BD;
     font-style: normal;
@@ -276,6 +321,9 @@ Rabbit hole
 
 #sax-rabbit-hole-text {
     margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    line-height: initial;
 }
 
 #sax-rabbit-hole-text-top {
@@ -315,11 +363,13 @@ Rabbit hole
 }
 
 #sax-info-box-top {
+    height: 48px;
+    justify-content: center;
     width: fit-content;
     align-self: flex-end;
     z-index: 1;
     border-radius: 3em;
-    padding: 0.3em 1.5em 0.5em 1.5em;
+    padding: 0em 1.5em;
     color: white;
     background-color: black;
     font-style: normal;
@@ -338,6 +388,8 @@ Rabbit hole
 }
 
 #sax-info-box-bottom {
+    height: 24px;
+    justify-content: center;
     z-index: 2;
     width: fit-content;
     align-self: flex-end;
@@ -378,6 +430,7 @@ Rabbit hole
     padding-left: 0.2em;
     font-weight: bold;
     color: #FFFFFF;
+    line-height: initial;
 }
 
 #sax-label-small-primary {
@@ -385,6 +438,7 @@ Rabbit hole
     padding-left: 0.2em;
     color: #bababa;
     align-self: center;
+    line-height: initial;
 }
 
 #sax-label-small-secondary {
@@ -392,12 +446,14 @@ Rabbit hole
     padding-left: 0.2em;
     color: #959595;
     align-self: center;
+    line-height: initial;
 }
 
 #sax-list-url {
     font-size: 8pt;
     padding-left: 0.2em;
     color: #6d8bca;
+    line-height: initial;
 }
 
 #sax-list-url :hover {
@@ -414,6 +470,12 @@ Rabbit hole
     height: 28px;
     transition: all 0.3s ease-in-out;
 }
+.sax-rabbithole-full-width {
+    width: 120px;
+}
+.sax-rabbithole-no-width {
+    width: 0px;
+}
 
 #sax-rabbit-hole:hover {
     cursor: pointer;
@@ -429,6 +491,10 @@ Rabbit hole
     width: auto;
 }
 
+#sax-rabbit-hole-image:hover {
+    cursor: pointer;
+}
+
 #sax-rabbit-hole-image-2 {
     height: 25px;
     width: auto;
@@ -436,12 +502,12 @@ Rabbit hole
 
 #sax-new-feature-popup {
     position: relative;
-    top: -2em;
+    top: -1.8em;
     width: fit-content;
     align-self: flex-end;
     z-index: 1;
     border-radius: 1.1em;
-    padding: 2.5em 1.5em 0.5em 1.5em;
+    padding: 2em 1.5em 0.5em;
     color: white;
     background-color: #6F82EB;
     font-style: normal;
@@ -451,6 +517,16 @@ Rabbit hole
     display: flex;
     flex-direction: row;
     align-items: center;
+    animation:  float 1s ease-in-out alternate-reverse infinite;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(5px);
+    }
 }
 
 #sax-new-feature-popup-badge {
@@ -467,7 +543,7 @@ Rabbit hole
     line-height: initial;
 }
 
-#sax-new-feature-popup-text>bold {
+#sax-new-feature-popup-text > bold {
     font-weight: bold;
     font-size: 9pt;
     color: white;

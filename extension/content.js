@@ -17,22 +17,34 @@ const div = (id) => {
  * @param {HTMLElement} element 
  * @returns {number} timeoutId
  */
-function fadeOutAndHide(element, secondsToFadeOut, secondsToGone) {
+function fadeOutAndHide(element, secondsToFadeOut, secondsToGone, callback) {
     const timeoutId = setTimeout(() => {
 
         element.classList.add('sax-hide');
         element.classList.remove('sax-show');
 
-        const timeoutId = setTimeout(() => {
+        setTimeout(() => {
             element.classList.add('sax-gone');
+            element.classList.remove('sax-hide');
+            callback();
         }, secondsToGone * 1000);
     }, secondsToFadeOut * 1000);
 
     return timeoutId;
 }
 
-function showAndFadeIn(element) {
+function showAndFadeIn(element, secondsToUnhidden, secondsToFadeIn, callback) {
+    const timeoutId = setTimeout(() => {
 
+        element.classList.remove('sax-gone');
+
+        setTimeout(() => {
+            element.classList.add('sax-show');
+            callback();
+        }, secondsToFadeIn * 1000);
+    }, secondsToUnhidden * 1000);
+
+    return timeoutId;
 }
 
 /**
@@ -74,7 +86,7 @@ function showStumbleInfo(request) {
     var text = document.createElement('div');
     text.id = 'sax-label';
 
-    var title = document.createElement('p');
+    var title = div('sax-info-box-top-title');
     title.innerHTML = `<span id="sax-label-secondary">Stumble No.</span><span id="sax-label-primary">${request.visited}</span>`;
     text.append(title);
 
@@ -131,8 +143,6 @@ function showStumbleInfo(request) {
     ui.appendChild(bottom);
     ui.appendChild(newFeaturePopup);
 
-
-    // div.appendChild(progress);
     enterTimeoutId = setTimeout(() => {
         console.log('check');
         console.log('timeout');
@@ -141,13 +151,10 @@ function showStumbleInfo(request) {
 
         isDisplayed = true;
 
-        // clearTimeout();
-        exitTimeoutId = fadeOutAndHide(ui);
-        exitTimeoutId = setTimeout(() => {
-            ui.classList.add('sax-hide');
-            ui.classList.remove('sax-show');
+        exitTimeoutId = fadeOutAndHide(ui, 5, 0.5, () => {
             isDisplayed = false;
-        }, 5000);
+        });
+
     }, 100)
 
 
@@ -160,11 +167,9 @@ function showStumbleInfo(request) {
         console.log('mouse leave');
         if (isDisplayed) {
             // clearTimeout();
-            exitTimeoutId = setTimeout(() => {
-                ui.classList.add('sax-hide');
-                ui.classList.remove('sax-show');
+            exitTimeoutId = fadeOutAndHide(ui, 5, 0.5, () => {
                 isDisplayed = false;
-            }, 4000);
+            });
         }
     });
 
@@ -181,15 +186,14 @@ function showStumbleInfo(request) {
     rabbitHole.addEventListener('mouseenter', () => {
         rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.gif'));
         // Show new feature popup
-        newFeaturePopup.classList.add('sax-show-fast');
-        newFeaturePopup.classList.remove('sax-hide-fast');
+        showAndFadeIn(newFeaturePopup, 0.1, 0.1, () => {});
     });
 
     rabbitHole.addEventListener('mouseleave', () => {
         rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.png'));
         // Hide new feature popup
         if (!request.isRabbitHoleEnabled) {
-            fadeOutAndHide(newFeaturePopup);
+            fadeOutAndHide(newFeaturePopup, 3, 0.5, () => {});
         }
     });
 
@@ -230,8 +234,10 @@ function showRabbitHoleEnabled() {
     rabbitHoleEnabled.classList.remove('sax-hide');
 
     var rabbitHoleDisabled = document.getElementById('sax-rabbit-hole');
-    rabbitHoleDisabled.classList.add('sax-gone');
-    rabbitHoleDisabled.classList.remove('sax-show');
+    // rabbitHoleDisabled.classList.add('sax-gone');
+    rabbitHoleDisabled.classList.add('sax-rabbithole-no-width');
+    rabbitHoleDisabled.classList.remove('sax-rabbithole-full-width');
+    // rabbitHoleDisabled.classList.remove('sax-show');
 }
 
 function showRabbitHoleDisabled() {
@@ -240,8 +246,8 @@ function showRabbitHoleDisabled() {
     rabbitHoleEnabled.classList.remove('sax-show');
 
     var rabbitHoleDisabled = document.getElementById('sax-rabbit-hole');
-    rabbitHoleDisabled.classList.add('sax-show');
-    rabbitHoleDisabled.classList.remove('sax-gone');
+    rabbitHoleDisabled.classList.add('sax-rabbithole-full-width');
+    rabbitHoleDisabled.classList.remove('sax-rabbithole-no-width');
 }
 
 function toggleStumbleInfo(request) {
@@ -276,7 +282,7 @@ function showWelcomeInfo(request) {
     icon.id = 'sax-welcome-icon';
     icon.src = chrome.extension.getURL('images/icon_128.png');
 
-    text = document.createElement('div');
+    text = div('sax-welcome-text');
     text.innerHTML = `<p id="sax-welcome-text-title">
     You stumbled on your first site!
     </p>
@@ -297,7 +303,7 @@ function showWelcomeInfo(request) {
         <img id="sax-rabbit-hole-image-2" src=${chrome.extension.getURL('images/rabbithole_small.png')} />
     </div>
     </br></br>
-    <p id="sax-welcome-text-body-small-white">
+    <p id="sax-welcome-text-body-smaller-white">
     💬 I'll improve this extension with <a id="sax-welcome-text-body-feedback-link" href="mailto:stumbleuponawesome@gmail.com">your feedback</a>
     </p>
     <p id="sax-welcome-text-opensource">
@@ -305,7 +311,6 @@ function showWelcomeInfo(request) {
     <a id="sax-welcome-text-opensource-link" href="https://github.com/basharovV/StumbleUponAwesome"> 
     See the code and URLs
     </a></p>`;
-    text.classList = ['sax-welcome-text']
 
     close = document.createElement('a')
     close.innerHTML = "Awesome, got it! 🤘"
