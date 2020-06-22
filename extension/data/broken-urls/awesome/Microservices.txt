@@ -1,0 +1,22 @@
+https://www.ietf.org/id/draft-ietf-quic-transport-27.html,QUIC-Transport,https://github.com/mfornos/awesome-microservices#readme,Microservices error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.paralleluniverse.co/galaxy/,Galaxy,https://github.com/mfornos/awesome-microservices#readme,Microservices error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://reverbrain.com/grape/,Grape,https://github.com/mfornos/awesome-microservices#readme,Microservices error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://traefik.io/,Træfɪk,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+http://feathersjs.com/,FeathersJS,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+http://thenewstack.io/ebookseries/,The New Stack eBook Series,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+http://www.keepalived.org/,Keepalived,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+http://hapijs.com/,Hapi,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+https://skywalking.apache.org/,SkyWalking,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+http://www.grpc.io/,GRPC,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+http://zeromq.org/,ØMQ,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+http://doc.akka.io/docs/akka-http/current/scala.html,Akka HTTP,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+http://json-ld.org/,JSON-LD,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+http://druid.io/,Druid,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+https://verne.mq,VerneMQ,https://github.com/mfornos/awesome-microservices#readme,Microservices error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
+https://fatfreeframework.com/,Fat-Free,https://github.com/mfornos/awesome-microservices#readme,Microservices error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
+http://koajs.com/,Koa,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('timed out') | reason: 
+http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html,Microservices and SOA,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+https://sudo.hailoapp.com/services/2015/03/09/journey-into-a-microservice-world-part-1/,A Journey into Microservices,https://github.com/mfornos/awesome-microservices#readme,Microservices error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://reverbrain.com/elliptics/,Elliptics,https://github.com/mfornos/awesome-microservices#readme,Microservices error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://eventuate.io/,Eventuate,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 
+https://blog.yourkarma.com/building-microservices-at-karma,How we build microservices at Karma,https://github.com/mfornos/awesome-microservices#readme,Microservices error: timeout('The read operation timed out') | reason: 

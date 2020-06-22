@@ -1,0 +1,7 @@
+https://church.io,🌍,https://github.com/gramantin/awesome-rails#readme,Rails error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://graffmags.herokuapp.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails error: timeout('timed out') | reason: 
+http://sanataro.herokuapp.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails error: timeout('timed out') | reason: 
+https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm,rails jobs on glassdoor.com,https://github.com/gramantin/awesome-rails#readme,Rails error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.peatio.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ideamotive.co/ruby-on-rails-development-guide/,Choosing ruby on rails for your next web development project (business guide),https://github.com/gramantin/awesome-rails#readme,Rails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://listenup-songshare.herokuapp.com,🌍,https://github.com/gramantin/awesome-rails#readme,Rails error: timeout('timed out') | reason: 

@@ -1,37 +1,35 @@
-http://mysqltuner.com,MySQLTuner-perl,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://www.percona.com/doc/percona-monitoring-and-management/index.html,Percona Monitoring and Management,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://www.mysqldumper.net/,MySQLDumper,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://www.percona.com/doc/percona-xtrabackup,Percona Xtrabackup,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql,TPCC-MySQL,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://www.tpc.org/tpcc/,TPCC,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/downloads/connector/c/,Connector/C,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/downloads/connector/cpp/,Connector/CPP,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/downloads/connector/j/,Connector/J,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/downloads/connector/nodejs/,Connector/Node.js,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://dev.mysql.com/downloads/connector/python/,Connector/Python,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://metacpan.org/pod/DBD::mysql,DBD::mysql,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://mariadb.com/kb/en/mariadb/mariadb-connector-j/,MariaDB Java Client,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/downloads/connector/php-mysqlnd/,PHP mysqlnd,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://hub.docker.com/_/mysql/,MySQL Docker,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://www.dbdeployer.com,dbdeployer,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://flywaydb.org/getstarted/,Flywaydb,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://www.liquibase.org/,Liquibase,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://www.skeema.io,Skeema,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://www.heidisql.com/,HeidiSQL,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://dev.mysql.com/downloads/shell/,MySQL Shell,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://www.percona.com/software/mysql-tools/percona-toolkit,Percona Toolkit,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.mysqldumper.net/,MySQLDumper,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 http://dev.mysql.com/downloads/workbench/,MySQL Workbench,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://www.phpmyadmin.net/,phpMyAdmin,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://galeracluster.com/products/,Galera Cluster,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://code.google.com/p/mysql-master-ha/,MHA,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://launchpad.net/mysql-proxy,MySQL Proxy,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/doc/mysql-router/en/,MySQL Router,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://launchpad.net/percona-server,Percona Server,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://dev.mysql.com/downloads/utilities/,MySQL Utilities,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-http://code.openark.org/forge/openark-kit,openark kit,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://www.percona.com/software/mysql-tools/percona-toolkit,Percona Toolkit,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
-https://bitbucket.org/Marc-T/undrop-for-innodb,UnDROP,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://fosdem.org/,FOSDEM,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://metacpan.org/pod/DBD::mysql,DBD::mysql,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://galeracluster.com/products/,Galera Cluster,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://www.oracle.com/openworld/mysql/index.html,MySQL Central,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://code.google.com/p/mysql-master-ha/,MHA,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://www.percona.com/live/conferences,Percona Live,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://mariadb.com/kb/en/mariadb/mariadb-connector-j/,MariaDB Java Client,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://launchpad.net/mysql-proxy,MySQL Proxy,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/downloads/connector/php-mysqlnd/,PHP mysqlnd,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.percona.com/doc/percona-xtrabackup,Percona Xtrabackup,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://www.socallinuxexpo.org,SCALE,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://hub.docker.com/_/mysql/,MySQL Docker,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
 https://en.wikibooks.org/wiki/SQL_Exercises,SQL Exercises,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql,TPCC-MySQL,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://www.dbdeployer.com,dbdeployer,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.tpc.org/tpcc/,TPCC,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://flywaydb.org/getstarted/,Flywaydb,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/doc/mysql-router/en/,MySQL Router,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.liquibase.org/,Liquibase,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://launchpad.net/percona-server,Percona Server,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/downloads/connector/c/,Connector/C,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://www.skeema.io,Skeema,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/downloads/connector/cpp/,Connector/CPP,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.heidisql.com/,HeidiSQL,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/downloads/utilities/,MySQL Utilities,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/downloads/connector/j/,Connector/J,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://dev.mysql.com/downloads/connector/nodejs/,Connector/Node.js,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://code.openark.org/forge/openark-kit,openark kit,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL

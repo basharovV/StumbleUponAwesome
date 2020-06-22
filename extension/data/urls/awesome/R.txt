@@ -1,251 +1,86 @@
-https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r,vscode-R,https://github.com/qinwf/awesome-R#readme,R
-https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp,vscode-r-lsp,https://github.com/qinwf/awesome-R#readme,R
-http://www.rstudio.org/,RStudio,https://github.com/qinwf/awesome-R#readme,R
-http://www.walware.de/goto/statet,StatET,https://github.com/qinwf/awesome-R#readme,R
-https://mran.microsoft.com/,Microsoft R,https://github.com/qinwf/awesome-R#readme,R
-http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/,R Commander,https://github.com/qinwf/awesome-R#readme,R
-http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage,Deducer,https://github.com/qinwf/awesome-R#readme,R
-https://radiant-rstats.github.io/docs,Radiant,https://github.com/qinwf/awesome-R#readme,R
-https://www.jamovi.org/,Jamovi,https://github.com/qinwf/awesome-R#readme,R
-https://jasp-stats.org/,JASP,https://github.com/qinwf/awesome-R#readme,R
-http://www.bio7.org/,Bio7,https://github.com/qinwf/awesome-R#readme,R
-http://microsoft.github.io/RTVS-docs/,RTVS,https://github.com/qinwf/awesome-R#readme,R
-https://rkward.kde.org/,RKWard,https://github.com/qinwf/awesome-R#readme,R
-http://ff.r-forge.r-project.org/,ff,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/biglm/index.html,biglm,https://github.com/qinwf/awesome-R#readme,R
-https://ggplot2-exts.github.io/ggiraph.html,ggplot2 Extensions,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rgl/index.html,rgl,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/Cairo/index.html,Cairo,https://github.com/qinwf/awesome-R#readme,R
-http://imagemagick.org/,ImageMagick,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/misc3d/index.html,misc3d,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/xkcd/index.html,xkcd,https://github.com/qinwf/awesome-R#readme,R
-http://dahtah.github.io/imager/,imager,https://github.com/qinwf/awesome-R#readme,R
-https://rstudio.github.io/r2d3/,r2d3,https://github.com/qinwf/awesome-R#readme,R
-http://www.rforscience.com/rpackages/visualisation/plot3d/,plot3D,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/plot3Drgl/index.html,plot3Drgl,https://github.com/qinwf/awesome-R#readme,R
-http://rstudio.github.io/DT/,DataTables,https://github.com/qinwf/awesome-R#readme,R
-http://rstudio.github.io/leaflet/,Leaflet,https://github.com/qinwf/awesome-R#readme,R
-http://hrbrmstr.github.io/metricsgraphics/,MetricsGraphics,https://github.com/qinwf/awesome-R#readme,R
-https://plot.ly,plot.ly,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/xtable/index.html,xtable,https://github.com/qinwf/awesome-R#readme,R
-http://rmarkdown.rstudio.com/,rmarkdown,https://github.com/qinwf/awesome-R#readme,R
-https://www.statistik.lmu.de/~leisch/Sweave/,Sweave,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/brew/index.html,brew,https://github.com/qinwf/awesome-R#readme,R
-https://davidgohel.github.io/officer/index.html,officer,https://github.com/qinwf/awesome-R#readme,R
-https://davidgohel.github.io/flextable/index.html,flextable,https://github.com/qinwf/awesome-R#readme,R
-https://bookdown.org/,bookdown,https://github.com/qinwf/awesome-R#readme,R
-https://ropensci.org/,rOpenSci,https://github.com/qinwf/awesome-R#readme,R
-http://yihui.name/knitr/,knitr,https://github.com/qinwf/awesome-R#readme,R
-http://rsuite.io,R Suite,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html,kable,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RCurl/index.html,RCurl,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/XML/index.html,XML,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/xml2/index.html,xml2,https://github.com/qinwf/awesome-R#readme,R
-https://www.opencpu.org/,OpenCPU,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/views/HighPerformanceComputing.html,parallel,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/multicore/index.html,multicore,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/snow/index.html,snow,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/Rmpi/index.html,Rmpi,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/foreach/index.html,foreach,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/package=future,future,https://github.com/qinwf/awesome-R#readme,R
-http://spark.rstudio.com/,sparklyr,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/package=batchtools,batchtools,https://github.com/qinwf/awesome-R#readme,R
-http://rcpp.org/,Rcpp,https://github.com/qinwf/awesome-R#readme,R
-http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html,compiler,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rJava/,rJava,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rJython/index.html,rJython,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rPython/index.html,rPython,https://github.com/qinwf/awesome-R#readme,R
-https://sites.google.com/a/ddahl.org/rinruby-users/,RinRuby,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/R.matlab/index.html,R.matlab,https://github.com/qinwf/awesome-R#readme,R
-http://www.omegahat.org/RSPerl/,RSPerl,https://github.com/qinwf/awesome-R#readme,R
 http://www.htmlwidgets.org/,htmlwidgets,https://github.com/qinwf/awesome-R#readme,R
-http://rpy.sourceforge.net/,rpy2,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RODBC/,RODBC,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RMySQL/,RMySQL,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ROracle/index.html,ROracle,https://github.com/qinwf/awesome-R#readme,R
-https://code.google.com/p/rpostgresql/,RPostgreSQL,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RSQLite/,RSQLite,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RJDBC/,RJDBC,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RCassandra/index.html,RCassandra,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ahaz/index.html,ahaz,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/arules/index.html,arules,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/bigrf/index.html,bigrf,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/bigRR/index.html,bigRR,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/bmrm/index.html,bmrm,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/Boruta/index.html,Boruta,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/bst/index.html,bst,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/C50/index.html,C50,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/caret/index.html,caret,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/CORElearn/index.html,CORElearn,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/CoxBoost/index.html,CoxBoost,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/Cubist/index.html,Cubist,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/e1071/index.html,e1071,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/earth/index.html,earth,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/elasticnet/index.html,elasticnet,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ElemStatLearn/index.html,ElemStatLearn,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/evtree/index.html,evtree,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/forecast/index.html,forecast,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/forecastHybrid/index.html,forecastHybrid,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/FSelector/index.html,FSelector,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/frbs/index.html,frbs,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/GAMBoost/index.html,GAMBoost,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/gamboostLSS/index.html,gamboostLSS,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/gbm/index.html,gbm,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/glmnet/index.html,glmnet,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/glmpath/index.html,glmpath,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/GMMBoost/index.html,GMMBoost,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/grplasso/index.html,grplasso,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/grpreg/index.html,grpreg,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/h2o/index.html,h2o,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/hda/index.html,hda,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ipred/index.html,ipred,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/kernlab/index.html,kernlab,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/klaR/index.html,klaR,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/kohonen/,kohonen,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/lars/index.html,lars,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/lasso2/index.html,lasso2,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/LiblineaR/index.html,LiblineaR,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/nlme/index.html,nlme,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/glmmTMB/index.html,glmmTMB,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/LogicReg/index.html,LogicReg,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/maptree/index.html,maptree,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/mboost/index.html,mboost,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/mvpart/index.html,mvpart,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ncvreg/index.html,ncvreg,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/nnet/index.html,nnet,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/oblique.tree/index.html,oblique.tree,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/pamr/index.html,pamr,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/party/index.html,party,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/partykit/index.html,partykit,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/penalized/index.html,penalized,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/penalizedLDA/index.html,penalizedLDA,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/penalizedSVM/index.html,penalizedSVM,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/quantregForest/index.html,quantregForest,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/randomForest/index.html,randomForest,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/randomForestSRC/index.html,randomForestSRC,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rattle/index.html,rattle,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rda/index.html,rda,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rdetools/index.html,rdetools,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/REEMtree/index.html,REEMtree,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/relaxo/index.html,relaxo,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rgenoud/index.html,rgenoud,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rgp/index.html,rgp,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/Rmalschains/index.html,Rmalschains,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rminer/index.html,rminer,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ROCR/index.html,ROCR,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RoughSets/index.html,RoughSets,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rpart/index.html,rpart,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RPMM/index.html,RPMM,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RSNNS/index.html,RSNNS,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/Rsomoclu/index.html,Rsomoclu,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RWeka/index.html,RWeka,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/RXshrink/index.html,RXshrink,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/sda/index.html,sda,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/SDDA/index.html,SDDA,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/subsemble/index.html,subsemble,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/survival/index.html,survival,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/svmpath/index.html,svmpath,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/tgp/index.html,tgp,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/tree/index.html,tree,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/varSelRF/index.html,varSelRF,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/tm/index.html,tm,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/openNLP/index.html,openNLP,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/koRpus/index.html,koRpus,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/zipfR/index.html,zipfR,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/NLP/index.html,NLP,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/topicmodels/index.html,topicmodels,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/syuzhet/index.html,syuzhet,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/SnowballC/index.html,SnowballC,https://github.com/qinwf/awesome-R#readme,R
-http://tidytextmining.com/index.html,tidytext,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/coda/index.html,coda,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/mcmc/index.html,mcmc,https://github.com/qinwf/awesome-R#readme,R
-http://mcmcpack.berkeley.edu/,MCMCpack,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/R2WinBUGS/index.html,R2WinBUGS,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/BRugs/index.html,BRugs,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/rjags/index.html,rjags,https://github.com/qinwf/awesome-R#readme,R
-http://mc-stan.org/interfaces/rstan.html,rstan,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/lpSolve/index.html,lpSolve,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/minqa/index.html,minqa,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/nloptr/index.html,nloptr,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/ompr/index.html,ompr,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/Rglpk/index.html,Rglpk,https://github.com/qinwf/awesome-R#readme,R
-https://cran.rstudio.com/web/packages/ROI/index.html,ROI,https://github.com/qinwf/awesome-R#readme,R
-http://www.quantmod.com/,quantmod,https://github.com/qinwf/awesome-R#readme,R
-http://pedquant.com/,pedquant,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/TTR/index.html,TTR,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html,PerformanceAnalytics,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/zoo/index.html,zoo,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/xts/index.html,xts,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/tseries/index.html,tseries,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/fAssets/index.html,fAssets,https://github.com/qinwf/awesome-R#readme,R
-http://www.bioconductor.org/,Bioconductor,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/genetics/index.html,genetics,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/gap/index.html,gap,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/ape/index.html,ape,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/packages/pheatmap/index.html,pheatmap,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/network/index.html,network,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/sna/index.html,sna,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/networkDynamic/,networkDynamic,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/ndtv/,ndtv,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/ergm/index.html,ergm,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/latentnet/index.html,latentnet,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/tnet/index.html,tnet,https://github.com/qinwf/awesome-R#readme,R
-https://bitbucket.org/gvegayon/rgexf/wiki/Home,rgexf,https://github.com/qinwf/awesome-R#readme,R
-http://gexf.net/format/,GEXF,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/views/Spatial.html,CRAN Task View: Analysis of Spatial Data,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/sf/index.html,sf,https://github.com/qinwf/awesome-R#readme,R
-https://edzer.github.io/sp/,sp,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/rgeos/index.html,rgeos,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/rgdal/index.html,rgdal,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/maptools/index.html,maptools,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/RColorBrewer/index.html,RColorBrewer,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/spdep/index.html,spdep,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/GWmodel/,GWmodel,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/promises/index.html,promises,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/logging/index.html,logging,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/web/packages/wbstats/index.html,wbstats,https://github.com/qinwf/awesome-R#readme,R
-http://icon.colorado.edu,webpage,https://github.com/qinwf/awesome-R#readme,R
-https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio,DockerHub,https://github.com/qinwf/awesome-R#readme,R
-https://anaconda.org/r/repo,Conda,https://github.com/qinwf/awesome-R#readme,R
-https://www.cs.kent.ac.uk/projects/cxxr/,CXXR,https://github.com/qinwf/awesome-R#readme,R
-https://bitbucket.org/allr/fastr/wiki/Home,fastR,https://github.com/qinwf/awesome-R#readme,R
-http://www.pqr-project.org/,pqR,https://github.com/qinwf/awesome-R#readme,R
-http://www.renjin.org/,renjin,https://github.com/qinwf/awesome-R#readme,R
-http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr,TERR,https://github.com/qinwf/awesome-R#readme,R
-http://swirlstats.com/,swirl,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/doc/manuals/R-intro.pdf,An Introduction to R,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/manuals.html,CRAN,https://github.com/qinwf/awesome-R#readme,R
-https://cran.r-project.org/other-docs.html,CRAN Contributed Docs,https://github.com/qinwf/awesome-R#readme,R
-http://www.statmethods.net/,Quick-R,https://github.com/qinwf/awesome-R#readme,R
-http://tryr.codeschool.com/,tryR,https://github.com/qinwf/awesome-R#readme,R
+https://csgillespie.github.io/efficientR/,Efficient R Programming by Colin Gillespie & Robin Lovelace (2017),https://github.com/qinwf/awesome-R#readme,R
+https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r,vscode-R,https://github.com/qinwf/awesome-R#readme,R
 https://www.rdocumentation.org/,RDocumentation,https://github.com/qinwf/awesome-R#readme,R
+http://www.bioconductor.org/,Bioconductor,https://github.com/qinwf/awesome-R#readme,R
+https://bitbucket.org/allr/fastr/wiki/Home,fastR,https://github.com/qinwf/awesome-R#readme,R
+http://dahtah.github.io/imager/,imager,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/Rglpk/index.html,Rglpk,https://github.com/qinwf/awesome-R#readme,R
+http://rmarkdown.rstudio.com/,rmarkdown,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/SnowballC/index.html,SnowballC,https://github.com/qinwf/awesome-R#readme,R
+https://www.opencpu.org/,OpenCPU,https://github.com/qinwf/awesome-R#readme,R
+https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp,vscode-r-lsp,https://github.com/qinwf/awesome-R#readme,R
+http://www.pqr-project.org/,pqR,https://github.com/qinwf/awesome-R#readme,R
+http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode,CC BY-NC-SA 4.0,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/ROI/index.html,ROI,https://github.com/qinwf/awesome-R#readme,R
+https://rstudio.github.io/r2d3/,r2d3,https://github.com/qinwf/awesome-R#readme,R
+http://spark.rstudio.com/,sparklyr,https://github.com/qinwf/awesome-R#readme,R
+http://rpy.sourceforge.net/,rpy2,https://github.com/qinwf/awesome-R#readme,R
 https://rdrr.io/,rdrr.io,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/web/views/,CRAN Task Views,https://github.com/qinwf/awesome-R#readme,R
+http://www.bio7.org/,Bio7,https://github.com/qinwf/awesome-R#readme,R
+https://www.rstudio.com/resources/cheatsheets/,RStudio Cheat Sheets,https://github.com/qinwf/awesome-R#readme,R
+https://bitbucket.org/gvegayon/rgexf/wiki/Home,rgexf,https://github.com/qinwf/awesome-R#readme,R
+http://icon.colorado.edu,webpage,https://github.com/qinwf/awesome-R#readme,R
+http://microsoft.github.io/RTVS-docs/,RTVS,https://github.com/qinwf/awesome-R#readme,R
+http://rcpp.org/,Rcpp,https://github.com/qinwf/awesome-R#readme,R
+http://www.quantmod.com/,quantmod,https://github.com/qinwf/awesome-R#readme,R
+http://www.renjin.org/,renjin,https://github.com/qinwf/awesome-R#readme,R
+http://ess.r-project.org/refcard.pdf,Reference Card for ESS,https://github.com/qinwf/awesome-R#readme,R
+https://rkward.kde.org/,RKWard,https://github.com/qinwf/awesome-R#readme,R
 https://rnotebook.io/,rnotebook.io,https://github.com/qinwf/awesome-R#readme,R
+http://www.rforscience.com/rpackages/visualisation/plot3d/,plot3D,https://github.com/qinwf/awesome-R#readme,R
+http://mc-stan.org/interfaces/rstan.html,rstan,https://github.com/qinwf/awesome-R#readme,R
+https://code.google.com/p/rpostgresql/,RPostgreSQL,https://github.com/qinwf/awesome-R#readme,R
+https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio,DockerHub,https://github.com/qinwf/awesome-R#readme,R
+http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html,compiler,https://github.com/qinwf/awesome-R#readme,R
+http://pedquant.com/,pedquant,https://github.com/qinwf/awesome-R#readme,R
+http://www.rstudio.org/,RStudio,https://github.com/qinwf/awesome-R#readme,R
+http://tidytextmining.com/index.html,tidytext,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/lpSolve/index.html,lpSolve,https://github.com/qinwf/awesome-R#readme,R
+https://davidgohel.github.io/officer/index.html,officer,https://github.com/qinwf/awesome-R#readme,R
+http://www.walware.de/goto/statet,StatET,https://github.com/qinwf/awesome-R#readme,R
+http://rstudio.github.io/DT/,DataTables,https://github.com/qinwf/awesome-R#readme,R
+https://edzer.github.io/sp/,sp,https://github.com/qinwf/awesome-R#readme,R
+http://rstudio.github.io/leaflet/,Leaflet,https://github.com/qinwf/awesome-R#readme,R
+https://davidgohel.github.io/flextable/index.html,flextable,https://github.com/qinwf/awesome-R#readme,R
+https://anaconda.org/r/repo,Conda,https://github.com/qinwf/awesome-R#readme,R
 https://www.r-users.com/,R-users,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/minqa/index.html,minqa,https://github.com/qinwf/awesome-R#readme,R
+https://ggplot2-exts.github.io/ggiraph.html,ggplot2 Extensions,https://github.com/qinwf/awesome-R#readme,R
+https://www.coursera.org/specialization/jhudatascience/1,Johns Hopkins University Data Science Specialization,https://github.com/qinwf/awesome-R#readme,R
+https://sites.google.com/a/ddahl.org/rinruby-users/,RinRuby,https://github.com/qinwf/awesome-R#readme,R
+http://hrbrmstr.github.io/metricsgraphics/,MetricsGraphics,https://github.com/qinwf/awesome-R#readme,R
+https://mran.microsoft.com/,Microsoft R,https://github.com/qinwf/awesome-R#readme,R
+https://www.cs.kent.ac.uk/projects/cxxr/,CXXR,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/nloptr/index.html,nloptr,https://github.com/qinwf/awesome-R#readme,R
+http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr,TERR,https://github.com/qinwf/awesome-R#readme,R
+https://cran.rstudio.com/web/packages/ompr/index.html,ompr,https://github.com/qinwf/awesome-R#readme,R
+https://bookdown.org/,bookdown,https://github.com/qinwf/awesome-R#readme,R
+http://imagemagick.org/,ImageMagick,https://github.com/qinwf/awesome-R#readme,R
+http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/,HarvardX Biomedical Data Science,https://github.com/qinwf/awesome-R#readme,R
+https://plot.ly,plot.ly,https://github.com/qinwf/awesome-R#readme,R
+http://swirlstats.com/,swirl,https://github.com/qinwf/awesome-R#readme,R
+http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/,R Commander,https://github.com/qinwf/awesome-R#readme,R
 http://shop.oreilly.com/product/0636920063704.do,R Graphics Cookbook, 2nd ed. (2018),https://github.com/qinwf/awesome-R#readme,R
+https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0,Explore Statistics with R,https://github.com/qinwf/awesome-R#readme,R
+https://ropensci.org/,rOpenSci,https://github.com/qinwf/awesome-R#readme,R
 https://adv-r.hadley.nz/,Advanced R, 2nd ed. by Hadley Wickham (2019),https://github.com/qinwf/awesome-R#readme,R
+http://www.statmethods.net/,Quick-R,https://github.com/qinwf/awesome-R#readme,R
+http://ropengov.github.io/,rOpenGov,https://github.com/qinwf/awesome-R#readme,R
+http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage,Deducer,https://github.com/qinwf/awesome-R#readme,R
 https://r-pkgs.org/,R Packages, 2nd ed. by Hadley Wickham & Jennifer Bryan,https://github.com/qinwf/awesome-R#readme,R
+http://shop.oreilly.com/product/0636920174851.do,R Cookbook, 2nd ed. by JD Long & Paul Teetor (2019),https://github.com/qinwf/awesome-R#readme,R
+http://yihui.name/knitr/,knitr,https://github.com/qinwf/awesome-R#readme,R
+https://yihui.name/tinytex/,tinytex,https://github.com/qinwf/awesome-R#readme,R
+http://tryr.codeschool.com/,tryR,https://github.com/qinwf/awesome-R#readme,R
+https://radiant-rstats.github.io/docs,Radiant,https://github.com/qinwf/awesome-R#readme,R
+http://rsuite.io,R Suite,https://github.com/qinwf/awesome-R#readme,R
 http://r4stats.com/books/free-version/,R for SAS and SPSS users by Bob Muenchen (2012),https://github.com/qinwf/awesome-R#readme,R
 http://faculty.marshall.usc.edu/gareth-james/ISL/,Introduction to Statistical Learning with Application in R by Gareth James et al. (2017),https://github.com/qinwf/awesome-R#readme,R
-https://csgillespie.github.io/efficientR/,Efficient R Programming by Colin Gillespie & Robin Lovelace (2017),https://github.com/qinwf/awesome-R#readme,R
-http://shop.oreilly.com/product/9781593273842.do,The Art of R Programming,https://github.com/qinwf/awesome-R#readme,R
-http://shop.oreilly.com/product/0636920174851.do,R Cookbook, 2nd ed. by JD Long & Paul Teetor (2019),https://github.com/qinwf/awesome-R#readme,R
+https://www.jamovi.org/,Jamovi,https://github.com/qinwf/awesome-R#readme,R
 http://www.manning.com/kabacoff2/,R in Action,https://github.com/qinwf/awesome-R#readme,R
+https://jasp-stats.org/,JASP,https://github.com/qinwf/awesome-R#readme,R
 http://www.springer.com/series/6991?detailsPage=titles,Use R! Series by Springer,https://github.com/qinwf/awesome-R#readme,R
-https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming,Learning R Programming,https://github.com/qinwf/awesome-R#readme,R
-http://www.rworld.news/blog/,R World News,https://github.com/qinwf/awesome-R#readme,R
 https://r-podcast.org/,The R-Podcast,https://github.com/qinwf/awesome-R#readme,R
 https://r-podcast.org/stories/contact.html,@Eric Nantz,https://github.com/qinwf/awesome-R#readme,R
 http://rtalk.org,R Talk,https://github.com/qinwf/awesome-R#readme,R
-https://www.rstudio.com/resources/cheatsheets/,RStudio Cheat Sheets,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf,R Reference Card 2.0,https://github.com/qinwf/awesome-R#readme,R
-http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf,Regression Analysis Refcard,https://github.com/qinwf/awesome-R#readme,R
-http://ess.r-project.org/refcard.pdf,Reference Card for ESS,https://github.com/qinwf/awesome-R#readme,R
-https://www.coursera.org/specialization/jhudatascience/1,Johns Hopkins University Data Science Specialization,https://github.com/qinwf/awesome-R#readme,R
-http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/,HarvardX Biomedical Data Science,https://github.com/qinwf/awesome-R#readme,R
-https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0,Explore Statistics with R,https://github.com/qinwf/awesome-R#readme,R
-https://www.r-project.org/conferences.html,R Project Conferences,https://github.com/qinwf/awesome-R#readme,R
-http://ropengov.github.io/,rOpenGov,https://github.com/qinwf/awesome-R#readme,R
-https://yihui.name/tinytex/,tinytex,https://github.com/qinwf/awesome-R#readme,R
-http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode,CC BY-NC-SA 4.0,https://github.com/qinwf/awesome-R#readme,R

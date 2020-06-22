@@ -1,0 +1,1 @@
+https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm,Chrome React Perf,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools error: <HTTPError 404: 'Not Found'> | reason: Not Found

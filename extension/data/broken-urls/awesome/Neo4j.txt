@@ -1,0 +1,2 @@
+http://yum.neo4j.org/stable/,Yum Repo,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://m2.neo4j.org/index.html,Maven repositories,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

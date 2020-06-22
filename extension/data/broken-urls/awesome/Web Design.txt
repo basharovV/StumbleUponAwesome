@@ -1,0 +1,4 @@
+http://pasteapp.me/,Paste,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://pexels.com,Pexels,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gradients.io/,Gradients.io,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://canva.com,Canva,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

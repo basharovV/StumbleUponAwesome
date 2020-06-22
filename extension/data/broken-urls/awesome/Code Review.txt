@@ -1,0 +1,1 @@
+https://engineering.tumblr.com/post/170040992289/how-i-review-code,How I review code,https://github.com/joho/awesome-code-review#readme,Code Review error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error

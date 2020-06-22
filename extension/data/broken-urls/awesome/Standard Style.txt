@@ -1,0 +1,1 @@
+https://www.uber.com/,Uber,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable

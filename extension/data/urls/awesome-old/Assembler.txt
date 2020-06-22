@@ -1,0 +1,42 @@
+http://flatassembler.net/,http://flatassembler.net/,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://www.microsoft.com/en-us/download/details.aspx?id=12654,https://www.microsoft.com/en-us/download/details.aspx?id=12654,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.nasm.us/,http://www.nasm.us/,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://yasm.tortall.net/,http://yasm.tortall.net/,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx,http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.nowrap.de/flasm,http://www.nowrap.de/flasm,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.plantation-productions.com/Webster/HighLevelAsm/index.html,http://www.plantation-productions.com/Webster/HighLevelAsm/index.html,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://jwasm.info/,http://jwasm.info/,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.ollydbg.de,http://www.ollydbg.de,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.duxcore.com,http://www.duxcore.com,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://debugger.immunityinc.com,http://debugger.immunityinc.com,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.hopperapp.com,http://www.hopperapp.com,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.windbg.org,http://www.windbg.org,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://rada.re,http://rada.re,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler,https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://www.visualstudio.com,https://www.visualstudio.com,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://oby.ro/rad_asm/)*,http://oby.ro/rad_asm/)*,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.winasm.net,http://www.winasm.net,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.visualmasm.com,http://www.visualmasm.com,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html,http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://dman95.github.io/SASM,https://dman95.github.io/SASM,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.apress.com/9781484200650,Modern X86 Assembly Language Programming,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.apress.com/9781430267614,.NET IL Assembler,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://en.wikipedia.org/wiki/Common_Intermediate_Language,wiki,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://kipirvine.com/asm/,Assembly Language for x86 Processors, 7th edition,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.nostarch.com/assembly2.htm,The Art of Assembly Language, 2nd Edition,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.int80h.org,Unix Assembly Language Programming,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://asm.sourceforge.net/,Linux Assembly,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://c2.com/cgi/wiki?LearningAssemblyLanguage,PPR: Learning Assembly Language,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.azillionmonkeys.com/qed/asmexample.html,Assembly Language Programming Examples,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.grc.com/smgassembly.htm,Authoring Windows Applications In Assembly Language,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://mark.masmcode.com/,Assembly Optimization Tips by Mark Larson,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.programminggroundup.blogspot.fi/,Introduction to programming using Linux assembly language,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.cs.virginia.edu/~evans/cs216/guides/x86.html,x86 Assembly Guide,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://en.wikibooks.org/wiki/X86_Assembly,x86 Assembly Wikibook,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://en.wikibooks.org/wiki/X86_Disassembly,x86 Disassembly Wikibook,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://en.wikipedia.org/wiki/Category:Software_written_primarily_in_assembly_language,Software written primarily in assembly language,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.intel-assembler.it/portale/indice.asp,Novice and Advanced Assembly resources for x86 Platform,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html,GCC-Inline-Assembly-HOWTO,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://opensecuritytraining.info/IntroX86.html,Introductory Intel x86: Architecture, Assembly, Applications & Alliteration,https://github.com/lurumdare/awesome-asm#readme,Assembler
+http://pacman128.github.io/pcasm/,PC Assembly Language,https://github.com/lurumdare/awesome-asm#readme,Assembler
+https://hackr.io/tutorials/learn-assembly-language,Programmming Community Curated Resources for Learning Assembly Language,https://github.com/lurumdare/awesome-asm#readme,Assembler

@@ -1,0 +1,135 @@
+https://eos.io/,,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://hackerone.com/eosio,Bug Bounty Program,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/eosio,Blog,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://developers.eos.io/,Developer Portal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.stackexchange.com/,StackExchange for Q&A,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/c/eosio,YouTube,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://block.one/,Block.one,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/,EOSIO News,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://battles.eos.io/,Elemental Battles,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee,Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosgo.io/,EOS GO - Homepage for all things EOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eoswriter.io/,EOSwriter,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosdocs.io/,EOSDocs.io - EOS developer documentation,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosbootcamp.com/,EOS Bootcamp,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosvenezuela.io/esc.html,ESC - EOS Study Center,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://learn.eoscostarica.io/,EOS Learning Resources - EOS Costa Rica,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/webinars/,EOSIO Webinars,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/,Learning Blockchain Development with EOS and C++,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.udemy.com/starting-with-eos/,Starting with EOS Blockchain for Developers,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+http://www.learneosforbeginners.com/,Learn EOS - Crypto Course,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop,Building DApps on EOS: A Hands-On Workshop,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://developers.eos.io/eosio-cleos/docs,cleos,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line,EOS Block Producer Voting Using the Command Line,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos,How to vote using cleos?,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account,How can you add or change the keys for the owner of an account?,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosdocs.io/resources/apiendpoints/,API endpoints - EOSDocs.io,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://get-scatter.com/,Scatter,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eostoolkit.io/,EOS Toolkit,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=dg7mIWPnV0E,EOS Toolkit by Genereos,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=Qp0I9xMQhTs,New features EOSTookit.IO Presentation - GenerEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/eos/@genereos/eos-toolkit-tutorial-more-features-than-ever,EOS Toolkit Tutorial - More features than ever!,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://trybe.one/how-to-safely-change-your-public-private-keys-on-your-eos-account/,How to safely change your public/private keys on your EOS account,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosrio.io/simpleos/,SimplEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=valaPyHftus,simplEOS Wallet: A Super Cool EOS Wallet For Transactions, Voting & Airdrops,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=v69oFvexka0,SIMPLEOS EOS wallet by EOSRIO,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=cHEKQl5Fa5M,EOS - Vote w/ Greymass! - Fast, Easy, & Secure,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=TF16fQCuIis,How to vote in EOS block producer elections using EOS voter by Greymass,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosauthority.com/rex,Official EOS REX interface of EOS Authority,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.myeoskit.com/,MyEOSKit,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eoscanada.com/en/tools/eosc,eosc,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=aqeLuijgL3g,How To Use eosc To Create A Key Vault and Vote With Your EOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.cypherglass.com/lens/,Cypherglass LENS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/eos/@cypherglass/introducing-cypherglass-lens-a-new-eos-voting-tool,Introducing Cypherglass LENS a new EOS Voting Tool,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=hDDh77Hw5iI,How to Vote for EOS Block Producers with Cypherglass LENS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/eosio-labs-release-the-eosio-explorer/,EOSIO Labs™ Release: The EOSIO™ Explorer,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+http://allthingseos.com/,All Things EOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosauthority.com/alerts,Get alerts for transactions on an account - EOS Authority,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.zeos.co/,ZEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=q8kcs1MuPNE,How To Buy/Create an Eos Account (wallet) With zEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosportal.io/chain/12/producers,EOS Portal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+http://eosnetworkmonitor.io/,EOS Network Monitor,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosflare.io/,eosflare,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eostracker.io/,EOS Tracker,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eospark.com/,EOSpark,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://bloks.io/,Bloks,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosx.io/,EOSX,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosweb.net/,EOSweb,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.alohaeos.com/vote/proxy,EOS Vote Proxy Research Portal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+http://explorer.eosvibes.io/,EOS Explorer,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosrp.io/,EOS Resource Planner,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://glass.cypherglass.com/,GLASS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=kU4jkqxBIeU,Glass, A Tool to Protect the EOS Network,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eos-radar.com/,EOS Radar,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.alohaeos.com/vote,EOS Block Producer Research Portal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.github.io/eosio-java/,eosiojava API,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/,EOSIO™ Software Release: Native SDKs for Swift and Java,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.github.io/eosio-swift/,EOSIO SDK for Swift,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eostransit.com/,Transit API for EOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f,The Transit API: Connecting dApps & Signature Providers,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/,EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/,EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/eosio-labs-release-ios-and-chrome-extension-authenticator-reference-applications/,EOSIO Labs™ Release: iOS and Chrome Extension Authenticator Reference Applications,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017,Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+http://eosfactory.io/,EOS Factory,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosstudio.io/,EOS Studio,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosnode.tools/,EOS Node Tools,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/watch?v=G1GUpjc5hkw,Securely Generating an EOS Key Pair Using Official EOS.IO Code,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eossnapshots.io/,EOSSnapshots.io,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/eos-new-york/snapshots-as-a-service-airdrops-for-all-2bd51548b1ac,Snapshots As A Service: Airdrops for All,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://testnet.eos.io/,The EOSIO Testnet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.io/news/eosio-testnet-launch/,EOSIO Testnet Launch,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+http://jungle.cryptolions.io/,EOS Jungle Testnet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/@bytemaster,Daniel Larimer,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/@eosgo,EOS Go,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/@blockgenic,Blockgenic,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/@cc32d9,cc32d9,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/@dallasrushing,Dallas Rushing,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/@iang,Iang,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/@eos-canada,EOS Canada,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://steemit.com/@cypherglass,Cypherglass,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/@eosnewyork,EOS New York,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://busy.org/@greymass,greymass,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://medium.com/eosfinexproject,EOSFinex product,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/c/EOSGo,EOS Go,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag,The Awakenment,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w,Investing with a difference,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg,Dallas Rushing,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/user/grandmoren1,nsjames,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/user/clamantfever,Crypto Dunker,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw,EOS Authority,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/user/jackodwhacko,Jackson Kelley,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/user/magicmanxpress,CodingWithCrypto,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA,Filip Martinsson,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://forums.eosgo.io/,EOS Go - Blockchain Community,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.reddit.com/r/eos/,EOS - Reddit,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.reddit.com/r/EOSDev/,EOSDev - Reddit,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosindex.io/,EOSindex,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://dappradar.com/eos-dapps,DappRadar,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosprojects.org/,EOS Projects,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://101blockchains.com/eos-dapps-landscape-complete-list/,EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://airdropsforeos.com/,airdropsforeos,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosdrops.io/,EOS Drops,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosdocs.io/resources/airdrops/,Airdrops - EOSDocs.io,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://docs.google.com/spreadsheets/d/10YwFRklMpu99OzqzUUVXhwP4SAytlUOje29WMgtUqe0,EOS Airdrop Tracker - Google Sheets,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY,EOS AIRDROPS - Google Sheets,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://chintai.io/,Chintai,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://kingofeos.com/,King Of EOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://cmichel.io/introducing-king-of-eos,Introducing King of EOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://cmichel.io/releasing-my-first-eos-dapp,Learnings from building my first dapp on EOS blockchain,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://monstereos.io/,MonsterEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://wizards.one/,CryptoWizards,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eos.bancor.network/,BancorX,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://newdex.io/,Newdex,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://dexeos.io/,DEXEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosfinex.com/,EOSfinex,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosswap.io,EOSSWAP,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.worbli.io/,Worbli,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://worbli.bloks.io/,Worbli.Bloks.io,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://telosfoundation.io/,Telos,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://telos.eosx.io/,Telos Block Explorer,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://portal.telosgermany.io/,TelosPortal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://peos.one/,pEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://wax.io/,Worldwide Asset eXchange™,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.evolutionos.com/,EvolutionOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosblack.io/,eosBLACK,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO

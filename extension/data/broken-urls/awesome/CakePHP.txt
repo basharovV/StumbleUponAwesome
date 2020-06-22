@@ -1,0 +1,4 @@
+https://www.meetup.com/CakePHP-France,CakePHP-France,https://github.com/friendsofcake/awesome-cakephp#readme,CakePHP error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://waltherlalk.com,waltherlalk.com,https://github.com/friendsofcake/awesome-cakephp#readme,CakePHP error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.meetup.com/CakePHP-NL,CakePHP-NL,https://github.com/friendsofcake/awesome-cakephp#readme,CakePHP error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://puppetlabs.com/,Puppet,https://github.com/friendsofcake/awesome-cakephp#readme,CakePHP error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)

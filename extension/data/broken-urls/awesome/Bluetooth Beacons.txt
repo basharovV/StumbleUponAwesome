@@ -1,0 +1,13 @@
+https://itunes.apple.com/de/app/lightblue/id639944780?mt=12,LightBlue Mac OSX,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.broadcom.com/application/internet_of_things.php,Broadcom - WICED™ Sense Development Kit,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8,BlueSpeed for iOS by Punch Through,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://beekn.net/guide-to-ibeacons/,Guide to iBeacon Hardware by beekn.net,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://beekn.net/developing-ibeacon-app/,Developing an iBeacon App by beekn.net,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://developer.android.com/about/versions/android-5.0.html,Android Lolipop Bluetooth Low Energy Enhancements.,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: timeout('The read operation timed out') | reason: 
+http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/,Blog post,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ti.com/ble,Texas Instruments - BLE Portal,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: timeout('timed out') | reason: 
+http://www.squaremetrics.com/,Square Metrics GmbH,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://developer.android.com/guide/topics/connectivity/bluetooth-le.html,Android & BLE,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+https://play.google.com/store/apps/details?id=be.createweb.beaconscanner,iBeacon Scanner,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons error: <HTTPError 404: 'Not Found'> | reason: Not Found

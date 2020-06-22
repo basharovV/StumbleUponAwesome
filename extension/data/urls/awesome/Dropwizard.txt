@@ -1,15 +1,13 @@
 http://www.dropwizard.io,,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+https://stackoverflow.com/questions/tagged/dropwizard,StackOverflow,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 http://atomix.io/,Atomix,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 http://metrics.dropwizard.io/3.1.0/manual/third-party/,metrics,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-http://www.dropwizard.io/0.9.2/docs/getting-started.html,Getting Started,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-http://www.dropwizard.io/0.9.2/docs/manual/index.html,Official docs,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-http://www.dropwizard.io/0.9.2/docs/manual/internals.html,Dropwizard internals,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+https://vimeo.com/37930578,Instant-ish Real Service Architecture,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+https://beforeitwasround.com,Steve Agalloco,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 http://modules.dropwizard.io/,Dropwizard Modules Directory,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 https://spin.atomicobject.com/2014/10/11/serving-static-assets-with-dropwizard/,Serving Static Assets with DropWizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 https://spin.atomicobject.com/2015/03/30/jersey-servlets-dropwizard/,Hooking up Custom Jersey Servlets in Dropwizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 https://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/,Using Hibernate DAOs in DropWizard Tasks,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1,Heroku for Highly Available Dropwizard Apps,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-http://kyleboon.org/blog/2013/09/23/newrelic-for-dropwizard/,Enabling Newrelic for Dropwizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard,Application Health Checks with DropWizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 http://christopher-batey.blogspot.com/2014/08/using-hystrix-with-dropwizard.html,Using Hystrix with Dropwizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 https://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/,Using Dropwizard in combination with Elasticsearch,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
@@ -18,6 +16,3 @@ http://www.remmelt.com/post/use-consuls-kv-store-for-dropwizard-settings/,Use Co
 https://www.aytech.ca/blog/dropwizard-app-engine-flexible-env/,Deploying Dropwizard on App Engine Flex,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 https://www.aytech.ca/blog/measuring-performance-dropwizard-application/,Measuring the performance of your Dropwizard application,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
 https://www.aytech.ca/blog/heroku-gradle-dropwizard/,Heroku + Gradle + Dropwizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-https://stackoverflow.com/questions/tagged/dropwizard,StackOverflow,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-https://vimeo.com/37930578,Instant-ish Real Service Architecture,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
-https://beforeitwasround.com,Steve Agalloco,https://github.com/stve/awesome-dropwizard#readme,Dropwizard

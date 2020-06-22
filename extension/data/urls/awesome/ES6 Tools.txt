@@ -1,13 +1,12 @@
+https://www.npmjs.com/package/es6-module-packager,es6-module-packager,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://www.npmjs.com/package/jade-traceur,jade-traceur,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
+http://h3manth.com/new/blog/2013/es6-on-nodejs/,ES6 on node,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://jspm.io/,JSPM,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
+http://rollupjs.org/,Rollup,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://www.npmjs.com/package/grunt-init-es6,grunt-init-es6,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://www.npmjs.com/package/es6-module-transpiler-brunch,plugin,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
-http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api,reflection module,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://soft.vub.ac.be/~tvcutsem/proxies/,Proxy API,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://www.jetbrains.com/webstorm/,WebStorm,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/,file watchers or task runners,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://esprima.org,Esprima,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API,SpiderMonkey AST,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
-https://www.npmjs.com/package/es6-module-packager,es6-module-packager,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
-http://h3manth.com/new/blog/2013/es6-on-nodejs/,ES6 on node,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
-http://rollupjs.org/,Rollup,https://github.com/addyosmani/es6-tools#readme,ES6 Tools

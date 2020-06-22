@@ -1,5 +1,6 @@
 http://barbarian.1987.free.fr/indexEN.htm,Barbarian,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://bitbucket.org/opentyrian/opentyrian/wiki/Home,OpenTyrian,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/m210/WitchavenGDX,WitchavenGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/Dringgstein/Commander-Genius,Commander Genius,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://sourceforge.net/projects/doomlegacy/,Doom Legacy,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://gitlab.com/m210/DukeGDX,DukeGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://bitbucket.org/ecwolf/ecwolf/src/master/,ECWolf,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
@@ -7,8 +8,5 @@ https://sourceforge.net/p/uhexen2/code/HEAD/tree/,Hexen II: Hammer of Thyrion,ht
 https://sourceforge.net/projects/quakespasm/,QuakeSpasm,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://gitlab.com/m210/RedneckGDX,RedneckGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://sourceforge.net/projects/opengate/,Opengate,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://bitbucket.org/ryzom/ryzomcore/src/develop/,Ryzom Core,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://gitlab.com/m210/WitchavenGDX,WitchavenGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://gitlab.com/Dringgstein/Commander-Genius,Commander Genius,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://sourceforge.net/projects/freecol/,FreeCol,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://sourceforge.net/projects/zedonline/,Zed Online,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://bitbucket.org/ryzom/ryzomcore/src/develop/,Ryzom Core,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes

@@ -1,0 +1,2 @@
+https://cloud.ibm.com,,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+http://ibm.biz/BluemixES,http://ibm.biz/BluemixES,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

@@ -1,0 +1,2 @@
+http://elnur.pro/assets-cache-busting-in-symfony/,Assets Cache Busting in Symfony,https://github.com/sitepoint-editors/awesome-symfony#readme,Symfony error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.linkedin.com/grp/home?gid=29205,Linked.in,https://github.com/sitepoint-editors/awesome-symfony#readme,Symfony error: <HTTPError 404: 'Not Found'> | reason: Not Found

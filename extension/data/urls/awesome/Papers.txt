@@ -1,78 +1,71 @@
 https://en.wikipedia.org/wiki/Cryptography,cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.cossacklabs.com,Cossack Labs,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.cs.princeton.edu/~felten/encryption_primer.pdf,Nuts and Bolts of Encryption: A Primer for Policymakers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf,Keys under Doormats,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf,Using Encryption for Authentication in Large Networks,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf,Communication Theory of Secrecy Systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://eprint.iacr.org/2004/152.pdf,Another Look at “Provable Security”,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cryptojedi.org/papers/coolnacl-20120725.pdf,The security impact of a new cryptographic library,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.198-1.pdf,FIPS 198-1: HMACs,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf,FIPS 202: SHA3,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://crypto.junod.info/phdthesis.pdf,Statistical Cryptanalysis of Block Ciphers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.hyperelliptic.org/EFD/,Explicit-Formulas Database,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 https://en.wikipedia.org/wiki/Birthday_problem,Birthday problem,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf,Knowledge complexity of interactive proof systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://cacr.uwaterloo.ca/hac/,Handbook of Applied Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf,Remote timing attacks are practical,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 https://en.wikipedia.org/wiki/Birthday_attack,birthday attack,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://web.engr.oregonstate.edu/~rosulekm/crypto/,The joy of Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cr.yp.to/snuffle/salsafamily-20071225.pdf,Salsa20 family of stream ciphers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.austinmohr.com/work/files/zkp.pdf,A Survey of Zero-Knowledge Proofs with Applications to Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04,Cryptoanalysis of block ciphers and protocols,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cr.yp.to/ecdh/curve25519-20060209.pdf,Curve25519: new Diffie-Hellman speed records,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 https://eprint.iacr.org/2006/187.pdf,On the Security of HMAC and NMAC Based on HAVAL, MD4, MD5, SHA-0 and SHA-1,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://eprint.iacr.org/2005/307.pdf,The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://eprint.iacr.org/2007/472.pdf,New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf,Software implementation of the NIST elliptic curves over prime fields,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.cossacklabs.com,Cossack Labs,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04,ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS),https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.shoup.net/ntb/,A Computational Introduction to Number Theory and Algebra,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www-ee.stanford.edu/~hellman/publications/24.pdf,New Directions in Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/,Elliptic Curve cryptography: A gentle introduction,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.cs.princeton.edu/~felten/encryption_primer.pdf,Nuts and Bolts of Encryption: A Primer for Policymakers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://ed25519.cr.yp.to/ed25519-20110926.pdf,High-speed high-security signatures,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 https://eprint.iacr.org/2001/074,On the Security of Randomized CBC-MAC Beyond the Birthday Paradox Limit,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf,Keys under Doormats,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf,A Course in Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://tools.ietf.org/html/rfc2631,RFC 2631: Diffie-Hellman Key Agreement,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf,Recommendation for Key Management – Part 1: General,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://cseweb.ucsd.edu/~mihir/papers/pok.html,Proofs of knowledge,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cseweb.ucsd.edu/~mihir/papers/gb.pdf,Lecture Notes on Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://people.csail.mit.edu/rivest/Rsapaper.pdf,A Method for Obtaining Digital Signatures and Public-Key Cryptosystems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf,Using Encryption for Authentication in Large Networks,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.wisdom.weizmann.ac.il/~oded/gmw1.html,How to construct zero-knowledge proof systems for NP,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf,Ongoing Research Areas in Symmetric Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.youtube.com/watch?v=2aHkqB2-46k,Introduction to Cryptography by Christof Paar,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://blog.oleganza.com/post/162861219668/eli5-how-digital-signatures-actually-work,Explain me like I'm 5: How digital signatures actually work,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf,FIPS 197,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf,The Galois/Counter Mode of Operation (GCM),https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf,Communication Theory of Secrecy Systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf,PRIMES is in P,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/,Elliptic Curve Cryptography: finite fields and discrete logarithms,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf,Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.coursera.org/learn/crypto2,Cryptography II,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.di-mgt.com.au/rsa_alg.html,RSA Algorithm,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://eprint.iacr.org/2004/152.pdf,Another Look at “Provable Security”,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.johannes-bauer.com/compsci/ecc/,Detailed Elliptic Curve cryptography tutorial,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://eprint.iacr.org/2017/314.pdf,Post-quantum cryptography - dealing with the fallout of physics success,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.merkle.com/1974/PuzzlesAsPublished.pdf,Secure Communications Over Insecure Channels,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.hindawi.com/journals/tswj/2014/560484/,A Survey of Noninteractive Zero Knowledge Proof System and Its Applications,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cryptojedi.org/papers/coolnacl-20120725.pdf,The security impact of a new cryptographic library,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/,Elliptic Curve Cryptography: ECDH and ECDSA,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf,Post-quantum cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 http://csrc.nist.gov/groups/ST/toolkit/BCM/modes_development.html,List of proposed operation modes of AES,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf,On the Security of Public Key Protocols,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cr.yp.to/papers/pqrsa-20170419.pdf,Post-quantum RSA,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://andrea.corbellini.name/2015/06/08/elliptic-curve-cryptography-breaking-security-and-a-comparison-with-rsa/,Elliptic Curve Cryptography: breaking security and a comparison with RSA,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cryptopals.com/,Cryptopals crypto challenges,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.198-1.pdf,FIPS 198-1: HMACs,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf,Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf,How to Share a Secret,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf,Information Theoretic Reductions among Disclosure Problems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf,Twenty Years of Attacks on the RSA Cryptosystem,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+https://www.cryptool.org/en/ctp-documentation/ctbook,CrypTool book,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf,FIPS 202: SHA3,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://eprint.iacr.org/2008/390.pdf,Elliptic Curve Cryptography: the serpentine course of a paradigm shift,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
+http://blog.bjrn.se/2015/07/lets-construct-elliptic-curve.html,Let's construct an elliptic curve: Introducing Crackpot2065,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf,Recomendation for Block Cipher modes of operation: Methods and Techniques,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html,Stick figure guide to AES,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 http://cr.yp.to/antiforgery/cachetiming-20050414.pdf,Cache timing attacks on AES,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
 http://cs.tau.ac.il/~tromer/papers/cache.pdf,Cache Attacks and Countermeasures: the Case of AES,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cr.yp.to/snuffle/salsafamily-20071225.pdf,Salsa20 family of stream ciphers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://eprint.iacr.org/2007/472.pdf,New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04,ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS),https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf,Ongoing Research Areas in Symmetric Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf,The Galois/Counter Mode of Operation (GCM),https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://eprint.iacr.org/2004/193.pdf,The Security and Performance of the
-Galois/Counter Mode (GCM) of Operation,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf,Differential Cryptanalysis of Salsa20/8,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://eprint.iacr.org/2008/263,Slide Attacks on a Class of Hash Functions,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html,Self-Study Course in Block Cipher Cryptanalysis,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://crypto.junod.info/phdthesis.pdf,Statistical Cryptanalysis of Block Ciphers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04,Cryptoanalysis of block ciphers and protocols,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www-ee.stanford.edu/~hellman/publications/24.pdf,New Directions in Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://tools.ietf.org/html/rfc2631,RFC 2631: Diffie-Hellman Key Agreement,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://people.csail.mit.edu/rivest/Rsapaper.pdf,A Method for Obtaining Digital Signatures and Public-Key Cryptosystems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.di-mgt.com.au/rsa_alg.html,RSA Algorithm,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.merkle.com/1974/PuzzlesAsPublished.pdf,Secure Communications Over Insecure Channels,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf,On the Security of Public Key Protocols,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf,How to Share a Secret,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf,Twenty Years of Attacks on the RSA Cryptosystem,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf,Remote timing attacks are practical,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://eprint.iacr.org/2005/307.pdf,The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/,Elliptic Curve cryptography: A gentle introduction,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://blog.oleganza.com/post/162861219668/eli5-how-digital-signatures-actually-work,Explain me like I'm 5: How digital signatures actually work,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/,Elliptic Curve Cryptography: finite fields and discrete logarithms,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.johannes-bauer.com/compsci/ecc/,Detailed Elliptic Curve cryptography tutorial,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/,Elliptic Curve Cryptography: ECDH and ECDSA,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://andrea.corbellini.name/2015/06/08/elliptic-curve-cryptography-breaking-security-and-a-comparison-with-rsa/,Elliptic Curve Cryptography: breaking security and a comparison with RSA,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://eprint.iacr.org/2008/390.pdf,Elliptic Curve Cryptography: the serpentine course of a paradigm shift,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://blog.bjrn.se/2015/07/lets-construct-elliptic-curve.html,Let's construct an elliptic curve: Introducing Crackpot2065,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.hyperelliptic.org/EFD/,Explicit-Formulas Database,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cr.yp.to/ecdh/curve25519-20060209.pdf,Curve25519: new Diffie-Hellman speed records,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf,Software implementation of the NIST elliptic curves over prime fields,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://ed25519.cr.yp.to/ed25519-20110926.pdf,High-speed high-security signatures,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://cseweb.ucsd.edu/~mihir/papers/pok.html,Proofs of knowledge,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.wisdom.weizmann.ac.il/~oded/gmw1.html,How to construct zero-knowledge proof systems for NP,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf,Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.hindawi.com/journals/tswj/2014/560484/,A Survey of Noninteractive Zero Knowledge Proof System and Its Applications,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.mathunion.org/ICM/ICM1986.2/Main/icm1986.2.1444.1451.ocr.pdf,How to Prove a Theorem So No One Else Can Claim It,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf,Information Theoretic Reductions among Disclosure Problems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf,Knowledge complexity of interactive proof systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.austinmohr.com/work/files/zkp.pdf,A Survey of Zero-Knowledge Proofs with Applications to Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.tml.tkk.fi/Opinnot/Tik-110.501/1995/zeroknowledge.html,Zero Knowledge Protocols and Small Systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf,Recommendation for Key Management – Part 1: General,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf,PRIMES is in P,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://eprint.iacr.org/2017/314.pdf,Post-quantum cryptography - dealing with the fallout of physics success,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf,Post-quantum cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cr.yp.to/papers/pqrsa-20170419.pdf,Post-quantum RSA,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf,Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.cryptool.org/en/ctp-documentation/ctbook,CrypTool book,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://cacr.uwaterloo.ca/hac/,Handbook of Applied Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://web.engr.oregonstate.edu/~rosulekm/crypto/,The joy of Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-http://www.shoup.net/ntb/,A Computational Introduction to Number Theory and Algebra,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf,A Course in Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cseweb.ucsd.edu/~mihir/papers/gb.pdf,Lecture Notes on Cryptography,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.youtube.com/watch?v=2aHkqB2-46k,Introduction to Cryptography by Christof Paar,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://www.coursera.org/learn/crypto2,Cryptography II,https://github.com/pFarb/awesome-crypto-papers#readme,Papers
-https://cryptopals.com/,Cryptopals crypto challenges,https://github.com/pFarb/awesome-crypto-papers#readme,Papers

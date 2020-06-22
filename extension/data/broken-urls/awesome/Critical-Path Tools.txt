@@ -1,0 +1,2 @@
+http://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_2.html,exercise,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en,PageSpeed Insights DevTools extension,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools error: <HTTPError 404: 'Not Found'> | reason: Not Found

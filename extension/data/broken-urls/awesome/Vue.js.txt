@@ -1,0 +1,135 @@
+https://graphcms.com/docs/introduction/,GraphCMS introduction guide with Vue,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457,Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://t.me/vuejsbrasil,VueJS Brasil - Telegram Group [Portuguese],https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.youtube.com/watch?v=TGSJjDahlrQ,Hybrid App Example with Laravel and Vue.js in Portuguese,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.teleo.co/?utm_source=AwesomeVue,Teleo,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://booknshelf.com/,Booknshelf,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://naaab.ir,ابیات ناب پارسی,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://vijitail.dev/,Vijit Ail,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://careup.mx,Careup,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/,How to Create Great VueJS Applications Using Wijmo Controls,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://nodelover.me/courses,Vue.js 视频系列，免费、入门、实战,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://webpack.electron.build/,Electron Webpack,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/in/web-development/blazing-fast-vue-and-graphql-with-gridsome-video?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachV15688,Blazing-Fast Vue and GraphQL with Gridsome [Video],https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://vueschool.io/courses/vuejs-fundamentals,Vue.js Fundamentals,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/,5 Practical Examples For Learning Vue.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://www.freepoll.online,FreePoll.Online,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://plottr.io/,plottr.io,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.packtpub.com/web-development/practical-projects-vue-js-2-video,Practical Projects with Vue JS 2,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://mherman.org/blog/dockerizing-a-vue-app/,Dockerizing a Vue App,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.asciiur.com,Asciiur,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://www.roozame.com,Roozame روزامه�,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.roozame.com'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.roozame.com'. (_ssl.c:1076)
+https://prokarman.com/,Prokarman Resume Builder,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/,Can we use Python with Vue.js or Vue and Django or Flask?,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://avatio.cool,Avatio,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.sekolahkoding.com/track/belajar-vue-js,Vue.js in Bahasa Indonesia,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sekolahkoding.com'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sekolahkoding.com'. (_ssl.c:1076)
+https://www.hce.it/,HCE.it,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://testingvue.com,Testing Vue Components,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/,Medium like Image Loading with Vue.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://be.camp,beCamp,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video,Building Your First Advanced CRUD Application with Vue 2 (Video),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://vuep.run,Vuep.run,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.lessipe.com/,Lessipe,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lessipe.com'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lessipe.com'. (_ssl.c:1076)
+https://www.sumcumo.com/,sum.cumo,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://hypefactors.com,Hypefactors,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://omnisense.net,Omnisense Experience,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://vuejs.london,Vue.js London,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/getting-started-vue-js-2-video,Getting Started with Vue JS 2 (Video),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://laracasts.com/series/testing-vue,laracast,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://best-movies.watch/,Best-movies.watch,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://vue-hq.netlify.com/,Vue HQ Admin Dashboard,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://1.envato.market/LYWqL,Pragmatic v2.0,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.guds.shop/,Guds,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://vuejs-tips.github.io/vuex-cheatsheet,Vuex CheatSheet,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/hands-web-development-vuejs-video,Hands-On Web Development with Vue.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://muuviez.com,Muuviez,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://linusborg.github.io/portal-vue,portal-vue,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.packtpub.com/web-development/real-world-projects-vuejs-video,Real World Projects with Vue.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.coin-dashboard.com,Coin Dashboard,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/application-development/nuxtjs-vuejs-steroids-video,Nuxt.js - Vue.js on Steroids,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://tonyluo.github.io/iview-vue-admin,Online Demo,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://angular.io/docs/ts/latest/tutorial/,Tour of Heroes,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://t.me/vuejsEs,Hablemos de Vue.js - Telegram Group [Castellano],https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://d2admin.fairyever.com,Online Demo,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://material.balmjs.com/,BalmUI,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/application-development/vuejs-quick-start-guide,Vue.js Quick Start Guide,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://vuejs.amsterdam,Vue.js Amsterdam,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.sitepoint.com/class-based-vue-js-typescript,Get Started Writing Class-based Vue.js Apps in TypeScript,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://tune.pk/,Tune.pk,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://nosir.github.io/cleave.js/,cleave.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://www.inflearn.com/,Inflearn,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://fdietz.github.io/vue-component-patterns-course.html,Vue.js Component Patterns Course,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://moonitor.io/,Moonitor,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://framagit.org/InfoLibre/rapido,Rapido,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://www.paixin.com/,PAIXIN,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://pocketlists.com,Pocket Lists,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.carrefour.fr,Carrefour,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://frontendmasters.com/courses/advanced-vue/,Advanced Vue.js Features from the Ground Up,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.vuejsradar.com,Vue.js Radar,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+http://noizeoriginal.com,NOIZE original,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://www.casadocodigo.com.br/products/livro-vue,Vue.js: Construa aplicações incríveis,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://www.fullstackradio.com/30,Full Stack Radio #30 (11-23-2015),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://made-with-love.xyz/,Made with love,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://deskree.com/,Deskree,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+http://pipquest.gregorterrill.com,PipQuest,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.packtpub.com/web-development/web-development-vuejs-2-video,Web development with Vue.js 2 (Video),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.bmwusa.com/build-your-own.html,BMWUSA Vehicle Configurator,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://madewithvuejs.com/,MadeWithVueJs,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://bael-theme.jake101.com/,Bael Blog Template,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/application-development/vuejs-application-development-essentials-video,Vue.js Application Development Essentials,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/application-development/vuejs-2-recipes-video,Vue.js 2 Recipes (Video),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://v-oogle.com/,V·oogle,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://scroll.in,Scroll.in,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.frontendjs.com/,前站导航,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://snipcart.com/blog/vuejs-ecommerce-headless-buttercms,Build a Vue.Js E-Commerce App with ButterCMS Headless Backend,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development,Vue.js 2 and Bootstrap 4 Web Development,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://primefaces.org/primevue,PrimeVue,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://sainsburys.jobs/,Sainsbury's,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.udemy.com/build-web-apps-with-vuejs-firebase/learn/v4/overview,Build Web Apps with Vue JS 2 & Firebase,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.mumbasket.com/,mumbasket,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://devchat.tv/js-jabber/jsj-276-vue-js-maximilian-schwarzmuller,JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://designcode.io/vue,Vue for Designers,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.udemy.com/getting-started-with-vue-js,Getting Started with VueJS 2,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/programming/vue-js-build-a-full-stack-app-with-firebase-vuex-and-router-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15745,Vue.js: Build a Full Stack App with Firebase, Vuex and Router [Video],https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://jaredreich.com/pell,Pell,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://pi.team,Pi.TEAM - Online Invoicing and Accounting,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 526: 'Origin SSL Certificate Error'> | reason: Origin SSL Certificate Error
+https://1xbet.com,1XBET,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://blog.lichter.io/posts/the-guide-to-write-universal-ssr-ready-vue-compon,The guide to write universal, SSR-ready Vue components,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/fun-projects-vue-2-video,Fun Projects with Vue 2 (Video),https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/,Build a realtime chart with VueJS and Pusher,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://myowntv.org,MyOwnTV,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+http://www.prague-airport.com/,Prague Airport,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://factor.dev,Factor.dev → Docs,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+http://blurrish.cognitusapps.com/,Blurrish,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('timed out') | reason: 
+https://www.gamevix.com/,GameVix,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview,Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex),https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://pusher.com/tutorials/realtime-payment-dashboard-stripe,Build a realtime payment dashboard with Stripe,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://itemmanager.uk,Item Manager,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://veggiemap.herokuapp.com/,Veggie Map,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2,Building Applications with Spring 5 and Vue.js 2,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://qit.cloud/search/vue,Vue podcast list via The QIT Tech Podcast Indexer,https://github.com/vuejs/awesome-vue#readme,Vue.js error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'qit.cloud'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'qit.cloud'. (_ssl.c:1076)
+https://www.packtpub.com/web-development/vuejs-2-web-development-projects,Vue.js 2 Web Development Projects,https://github.com/vuejs/awesome-vue#readme,Vue.js error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/vue-js-2-academy-learn-vue-step-by-step-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15754,Vue.js 2 Academy: Learn Vue Step by Step [Video],https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org&utm_medium=referral&utm_campaign=OutreachB15894fivedollar,Vue.js: Understanding its Tools and Ecosystem,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/majesty-vuejs,The Majesty Of Vue.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/application-development/full-stack-vuejs-2-and-laravel-5,Full-Stack Vue.js 2 and Laravel 5,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/learning-vuejs-2,Learning Vue.js 2,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachB15411,Building Forms with Vue.js,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/application-development/vuejs-2x-example,Vue.js 2.x by Example,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653,Testing Vue.js Components with Jest,https://github.com/vuejs/awesome-vue#readme,Vue.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

@@ -1,0 +1,2 @@
+http://js2016.tips/,js2016.tips,https://github.com/loverajoel/jstips#readme,Tips error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.jstips.co/en/javascript/create-range-0...n-easily-using-one-line/,Create Range 0...N easily using one line,https://github.com/loverajoel/jstips#readme,Tips error: <HTTPError 404: 'Not Found'> | reason: Not Found

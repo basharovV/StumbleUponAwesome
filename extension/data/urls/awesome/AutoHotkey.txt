@@ -1,167 +1,153 @@
-https://autohotkey.com/,,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=4955,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=17,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=627,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=34853,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.hars.us/SW/List.ahk,List manipulation functions,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/3020-list-manipulation-functions/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=41,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=3573,ObjDump/ObjLoad,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://lintalist.github.io/,Lintalist,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/,Sublime 4 AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/15675-monster-evaluate-math-expressions-in-strings/,Monster,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/94376-,Socket Class (überarbeitet),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=4212,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/61540-lib-string-based-table-manipulation-v028/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=34849,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/71179,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=1064,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=3806,FileGetProperties,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=6517,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/71100-,GDIp_ImageSearch,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=6113,CodeQuickTester,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=4555,ActiveScript - Host VBScript and JScript in-process,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=2116,[Class] Console,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=5820,Simple GDI class,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=26485,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=31825https://github.com/flibioahk/ishido,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.enovatic.org/products/niftywindows/introduction/,NiftyWindows,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=53,String Things,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=6316,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=5705,CvJoyInterface,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/61540-lib-string-based-table-manipulation-v028/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/,,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126,Out of the Sea,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/39359-unit-converter/,Unit Converter,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/70490-print-array/,Print Array,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=3378,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://bitbucket.org/kitsu/pyahk/downloads,PYAHK,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=33267,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/,iWB2 Learner,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://pkl.sourceforge.net/,Portable Keyboard Layout,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey,VSCode extension,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=576,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/25991-portable-keyboard-layout/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://pyahk.readthedocs.io/en/latest/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=5714,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/docs/Tutorial.htm,Official quick start tutorial,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/,DockWin v0.3,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=19&t=28889,JoystickWrapper,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/27198-beta-thumbscript-ahk/,Thumbscript,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=34849,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/codeboxplus/download/77645-1,Sudoku,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=4755,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/,LibLua,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=300,AHK Studio,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://thumbscript.com/howitworks.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=35117,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://code.google.com/archive/p/wow-vending-machine/source,here,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=10157,AutoGUI,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/,XInput,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63184,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=64&t=10157,AutoGUI,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=5644,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.EitherMouse.com,EitherMouse,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=6310,AHK-EXE-Swapper,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135,calc(),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/,Machine code functions: Bit Wizardry,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=27,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/codeboxplus/download/183219-1,AHK Mahjong Solitaire,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/82959-barchart/,BarChart,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=108,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=32,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=3648,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/88438-excel-charts/,Excel Charts,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=6399,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=17,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=15002,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=814,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com//boards/viewtopic.php?f=19&t=40133,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://clipjump.sourceforge.net/,Clipjump,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=17907,Automatic Window Manager,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=13565,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=6033,Classes in AHK, Basic tutorial,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=3108,DRAKON Editor,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/download/,AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.dropbox.com/sh/01ucst7jeybn9ed/AABCItk8VKlfVp67T0P_DJFia,F1 Racer,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=4642,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=303,GUI Creator (formerly Basic GUI Creator),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=1081,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/93516-,Scientific Maths,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=1064,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=139,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=401,link 1,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3,Embed Perl,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=627,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/,Time(),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/,link 2,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=28220,WinSpy,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://ahkscript.org/foundation/,AutoHotkey Foundation LLC,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.autohotkey.com/boards/viewtopic.php?t=1177,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=3492,XGraph,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://ahkscript.org/certificate_of_organization.pdf,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm,AutoHotkey.dll,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/download/file.php?id=3349&sid=b3444f44c767f7698ede586c81d40fe2,Infection,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723,Alguimist,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/11249-embedding-perl/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/35504-game-manytetris-customizable-pocket-tetris/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://hotkeyit.github.io/v2/,AutoHotkey_H,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.vector.co.jp/download/file/winnt/util/fh633547.html,MouseGestureL,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=1256,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://junyx.breadfan.de/Min2Tray/,Min2Tray,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=138,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/56938-simple-python-intergration-example/,python example,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=4890,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.macrocreator.com/,Pulover’s Macro Creator,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=34853,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=50,Notepad++ for AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=6177,Classes in AHK, a Dissection (Advanced),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://hp.vector.co.jp/authors/VA018351/mglahk.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=23892,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.hars.us/SW/List.ahk,List manipulation functions,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=143,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://fincs.ahk4.net/scite4ahk/,SciTE4AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://code.google.com/archive/p/pahk,PAHK,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=137,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/,Radial Menu,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/3020-list-manipulation-functions/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=4633,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=5063,Edit v2.0,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=31533,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/60998-autocomplete/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=3068,[Lib] Menu,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=22&t=3942,PrismJs,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=8978,MS Office COM Basics,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=6517,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=6071,Fun with GDIPlus,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/95009-,GoTo,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=1079,AutoXYWH,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=7&t=4588,Use HTML and CSS for your GUIs!,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/94493-,Context sensitive help in any editor,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=9087,CHotkeyControl,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/71100-,GDIp_ImageSearch,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=41,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=3851,Examples of Non-Standard GUIs (ActiveX, GDI, etc.),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/92805-,HParse,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?t=4334,RunAsTask,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=4635,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564,Link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/docs/AutoHotkey.htm,Official documentation,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=225,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://autohotkey.com/boards/viewtopic.php?f=6&t=3573,ObjDump/ObjLoad,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://ahkscript.github.io/ahkbook/projectinfo.html,ahkbook,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=6463,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
 https://autohotkey.com/boards/viewtopic.php?f=6&t=26990,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=6316,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=4755,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=108,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=1081,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=1256,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=137,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=3068,[Lib] Menu,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=9087,CHotkeyControl,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/92805-,HParse,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=5705,CvJoyInterface,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=19&t=28889,JoystickWrapper,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/,XInput,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135,calc(),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=13565,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/93516-,Scientific Maths,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/,Time(),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://www.autohotkey.com/boards/viewtopic.php?t=1177,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=4890,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/94376-,Socket Class (überarbeitet),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=35120,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=35117,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/82959-barchart/,BarChart,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/88438-excel-charts/,Excel Charts,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=3492,XGraph,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=23892,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=31533,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=4334,RunAsTask,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564,Link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=53,String Things,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=576,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=814,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://clipjump.sourceforge.net/,Clipjump,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=401,link 1,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/,link 2,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=6071,Fun with GDIPlus,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=3851,Examples of Non-Standard GUIs (ActiveX, GDI, etc.),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/15675-monster-evaluate-math-expressions-in-strings/,Monster,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/39359-unit-converter/,Unit Converter,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.EitherMouse.com,EitherMouse,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=3648,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.vector.co.jp/download/file/winnt/util/fh633547.html,MouseGestureL,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://hp.vector.co.jp/authors/VA018351/mglahk.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/,Radial Menu,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/60998-autocomplete/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=225,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://lintalist.github.io/,Lintalist,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=3378,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://pkl.sourceforge.net/,Portable Keyboard Layout,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/25991-portable-keyboard-layout/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/27198-beta-thumbscript-ahk/,Thumbscript,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://thumbscript.com/howitworks.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=5644,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=17907,Automatic Window Manager,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://junyx.breadfan.de/Min2Tray/,Min2Tray,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.enovatic.org/products/niftywindows/introduction/,NiftyWindows,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/,DockWin v0.3,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/codeboxplus/download/183219-1,AHK Mahjong Solitaire,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com//boards/viewtopic.php?f=19&t=40133,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://www.dropbox.com/sh/01ucst7jeybn9ed/AABCItk8VKlfVp67T0P_DJFia,F1 Racer,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/download/file.php?id=3349&sid=b3444f44c767f7698ede586c81d40fe2,Infection,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/35504-game-manytetris-customizable-pocket-tetris/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=31825https://github.com/flibioahk/ishido,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126,Out of the Sea,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=33267,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/codeboxplus/download/77645-1,Sudoku,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?t=15291,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/download/,AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/39588-autohotkeydll/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB,AutoHotkey build for CE,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=2116,[Class] Console,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/70490-print-array/,Print Array,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=300,AHK Studio,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=64&t=10157,AutoGUI,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=6399,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=3108,DRAKON Editor,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=50,Notepad++ for AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://fincs.ahk4.net/scite4ahk/,SciTE4AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/,Sublime 4 AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey,VSCode extension,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=10157,AutoGUI,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=303,GUI Creator (formerly Basic GUI Creator),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723,Alguimist,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://www.macrocreator.com/,Pulover’s Macro Creator,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=143,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=22&t=3942,PrismJs,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/95009-,GoTo,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/94493-,Context sensitive help in any editor,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=6113,CodeQuickTester,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/,iWB2 Learner,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=6310,AHK-EXE-Swapper,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=5825,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=28220,WinSpy,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm,AutoHotkey.dll,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://hotkeyit.github.io/v2/docs/AHKH_Features.htm,exported functions,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/56938-simple-python-intergration-example/,python example,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=4633,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=4555,ActiveScript - Host VBScript and JScript in-process,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=5714,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/,LibLua,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://code.google.com/archive/p/wow-vending-machine/source,here,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/,Machine code functions: Bit Wizardry,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=32,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=6&t=4642,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3,Embed Perl,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/11249-embedding-perl/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://code.google.com/archive/p/pahk,PAHK,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://bitbucket.org/kitsu/pyahk/downloads,PYAHK,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://pyahk.readthedocs.io/en/latest/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63184,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=6033,Classes in AHK, Basic tutorial,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=6177,Classes in AHK, a Dissection (Advanced),https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=8978,MS Office COM Basics,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=4588,Use HTML and CSS for your GUIs!,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/docs/AutoHotkey.htm,Official documentation,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://ahkscript.github.io/ahkbook/projectinfo.html,ahkbook,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/docs/Tutorial.htm,Official quick start tutorial,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://autohotkey.com/boards/viewtopic.php?f=7&t=27,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://ahkscript.org/,ahkscript.org,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://ahkscript.org/foundation/,AutoHotkey Foundation LLC,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-http://ahkscript.org/certificate_of_organization.pdf,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
-https://hotkeyit.github.io/v2/,AutoHotkey_H,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey

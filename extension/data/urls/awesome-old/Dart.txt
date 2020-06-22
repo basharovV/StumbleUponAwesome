@@ -1,0 +1,38 @@
+https://angulardart.org/,AngularDart,https://github.com/yissachar/awesome-dart#readme,Dart
+http://www.material-design-lite.pub/,MDL/Dart,https://github.com/yissachar/awesome-dart#readme,Dart
+https://workiva.github.io/over_react/,OverReact,https://github.com/yissachar/awesome-dart#readme,Dart
+https://refi64.com/vuedart,VueDart,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/shelf,Shelf,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/search?q=shelf_,shelf_,https://github.com/yissachar/awesome-dart#readme,Dart
+http://www.stagexl.org/,StageXL,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/dartabase_model,dartabase_model,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/dartabase_migration,dartabase_migration,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/archive,Archive,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/frappe,Frappe,https://github.com/yissachar/awesome-dart#readme,Dart
+https://webdev.dartlang.org/angular/guide/dependency-injection,Angular DI,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/html,html,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/xml,XML,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/yaml,YAML,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/dart_tags,Dart Tags,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/constrain,Constrain,https://github.com/yissachar/awesome-dart#readme,Dart
+https://pub.dartlang.org/packages/test,test,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.dartlang.org/tools/observatory/,Observatory,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.dartlang.org/tools/dart2js/,dart2js,https://github.com/yissachar/awesome-dart#readme,Dart
+https://crossdart.info,Crossdart,https://github.com/yissachar/awesome-dart#readme,Dart
+https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd,Crossdart Github Chrome Extension,https://github.com/yissachar/awesome-dart#readme,Dart
+https://javiercbk.github.io/json_to_dart,json2dart,https://github.com/yissachar/awesome-dart#readme,Dart
+http://code.makery.ch/library/hello-dart/,Hello Dart,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.dartlang.org/codelabs/darrrt/,Darrrt,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/,Getting Started with Dart & React,https://github.com/yissachar/awesome-dart#readme,Dart
+https://webdev.dartlang.org/angular/tutorial,Tour of Heroes,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.myfreax.com/tag/dart/,Dart for beginner,https://github.com/yissachar/awesome-dart#readme,Dart
+https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/,Resolving Dart package version conflicts, faster than ever,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.reddit.com/r/dartlang/,Dartlang SubReddit,https://github.com/yissachar/awesome-dart#readme,Dart
+https://gitter.im/dart-lang/home,Gitter Chat Channel,https://github.com/yissachar/awesome-dart#readme,Dart
+https://groups.google.com/a/dartlang.org/d/forum/misc,Google Group,https://github.com/yissachar/awesome-dart#readme,Dart
+https://stackoverflow.com/tags/dart,Stack Overflow,https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.facebook.com/groups/dartlangbr,Facebook Group (pt-BR),https://github.com/yissachar/awesome-dart#readme,Dart
+https://t.me/dart_web,Telegram chat (id-ID),https://github.com/yissachar/awesome-dart#readme,Dart
+https://www.dartlang.org/tools/webstorm/,IntelliJ Plugin,https://github.com/yissachar/awesome-dart#readme,Dart
+https://atom.io/packages/atom-dart,Atom Plugin,https://github.com/yissachar/awesome-dart#readme,Dart
+https://dartcode.org/,VSCode Plugin,https://github.com/yissachar/awesome-dart#readme,Dart

@@ -1,0 +1,5 @@
+http://www.sketchtips.info/,SketchTips,https://github.com/diessica/awesome-sketch#readme,Sketch error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://saloon.io/10-tips-tricks-for-sketch/,10 Tips & Tricks for Sketch,https://github.com/diessica/awesome-sketch#readme,Sketch error: <HTTPError 410: 'Gone'> | reason: Gone
+https://medium.com/design-idea/7-tips-for-sketch-users-e09c27c7ce08,7 Tips for Sketch Users,https://github.com/diessica/awesome-sketch#readme,Sketch error: <HTTPError 410: 'Gone'> | reason: Gone
+http://awesome-sket.ch/,Awesome Sketch Plugins,https://github.com/diessica/awesome-sketch#readme,Sketch error: timeout('The read operation timed out') | reason: 
+http://unitid.nl/english/spot-the-difference-fireworks-and-sketch-3,Fireworks vs. Sketch,https://github.com/diessica/awesome-sketch#readme,Sketch error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)

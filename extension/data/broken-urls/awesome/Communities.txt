@@ -1,0 +1,8 @@
+http://grupysp.herokuapp.com/,Python São Paulo Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://rubytr.herokuapp.com/,Ruby Turkey Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('The read operation timed out') | reason: 
+http://safelight.herokuapp.com/,Safelight,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('timed out') | reason: 
+http://bit.ly/gcp-slack,Google Cloud Platform,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://cfml-slack.herokuapp.com/,CFML/ColdFusion,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('The read operation timed out') | reason: 
+https://slack-helloremote.now.sh,👋 Remote - Remote workers community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('The read operation timed out') | reason: 
+http://www.chicagotechslack.com/,Chicago Tech Slack,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://slack-pythonbrasil.herokuapp.com/,Python Brazilian Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

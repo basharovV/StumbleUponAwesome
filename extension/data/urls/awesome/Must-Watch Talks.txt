@@ -1,62 +1,58 @@
 https://www.youtube.com/watch?v=KOvGeFUHAC0,Build a Classic Layout FAST in CSS Grid,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=TYlA-eolzLs,CSS Animation - Beyond Transitions,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=ZRtzk0371tk,Using Devtools to Understand Modern CSS Layouts,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=vxOj7CaWiPU,Hello Subgrid!,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/,Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=9EU7urOl1LE,Creative Text Effects with CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=DCZdCKjnBCs&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Learn CSS Grid,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=UQRSaG1hQ20,CSS [Variable] Secrets,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=N5Lt1SLqBmQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Grid Layout,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=IRI1H5tyEAo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,The Power of CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS and the First Meaningful Paint,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=_BCiiE31D5M&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Grid in Production,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS in 2016 and Beyond,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Variables: var(--subtitle),https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Laying out the Future with Grid and Flexbox,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Reactive Animations with CSS Variables,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/184235576,Practical Blend Modes in CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=5Z7lSSMwRgo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Real Art Direction on the Web,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=5FdHqVDlXu0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,You Might Not Need a CSS Framework,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=ZskP7cvj3WA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,The Dark Side of Polyfilling CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-http://jqueryuk.com/2015/videos.php?s=mdo-ular-css,mdo-ular CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=1yUFTrAxTzg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,PostCSS: The Future After Sass and LESS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Your Very Own Component Library,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=J6wUmQDQBkw&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Let's Move,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=iniwPUEbPUM&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Cascading Shit Show,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Inline Styles Are About to Kill CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=NHpSmJrEvRQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Let's Talk About Our CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/140641366,CSS for Software Engineers for CSS Developers,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Photoshop Is Dead!: Editing Images in CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=_98SE8WUvLk&index=10&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9,Enhancing Responsiveness With Flexbox,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=zmjfh099zYg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Move Slow and Fix Things,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS and the First Meaningful Paint,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/74359951,CSS Application Architecture,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/98746172,Present and Future of CSS Layout,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/17091905,Handcrafted CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Thinking Beyond "Scalable CSS",https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=TYlA-eolzLs,CSS Animation - Beyond Transitions,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=I82ytAWxzrI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Realigning & Refactoring UI,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=_BCiiE31D5M&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Grid in Production,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=ldx4ZFxMEeo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Normalizing Designs for Better Quality CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=ZRtzk0371tk,Using Devtools to Understand Modern CSS Layouts,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Automating the Removal of Unused CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://vimeo.com/95734680,What Is a CSS Framework Anyway?,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Web Components & the Future of CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=j6sAm7CLoCQ,The Top 5 Mistakes of Massive CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS in 2016 and Beyond,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=1yUFTrAxTzg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,PostCSS: The Future After Sass and LESS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Variables: var(--subtitle),https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://vimeo.com/99877232,CSS Is a Mess,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=vxOj7CaWiPU,Hello Subgrid!,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=2iFw2GCOPj0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,The Humble Border-Radius,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Your Very Own Component Library,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Laying out the Future with Grid and Flexbox,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=J6wUmQDQBkw&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Let's Move,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Reactive Animations with CSS Variables,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=FYcu-wWrNqo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,10 Commandments for Efficient CSS Architecture,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/100501790,Slaying the Dragon: How to Refactor CSS for Maintainability,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/66039168,Sass and OOCSS Sitting in a Tree K-I-S-S-I-N-G,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/,Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/184235576,Practical Blend Modes in CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=iniwPUEbPUM&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Cascading Shit Show,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=5Z7lSSMwRgo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Real Art Direction on the Web,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/70041549,Architecting Scalable CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=9EU7urOl1LE,Creative Text Effects with CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Inline Styles Are About to Kill CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=DCZdCKjnBCs&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Learn CSS Grid,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,More CSS Secrets: Another 10 Things You May Not Know about CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Open Source Tools and Libraries for Designers,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=5FdHqVDlXu0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,You Might Not Need a CSS Framework,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=UQRSaG1hQ20,CSS [Variable] Secrets,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=ZskP7cvj3WA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,The Dark Side of Polyfilling CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/54990931,GitHub's CSS Performance,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=N5Lt1SLqBmQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Grid Layout,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS in Your Pocket - Mobile CSS Tips from the Trenches,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=NHpSmJrEvRQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Let's Talk About Our CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/100264064,3.14 Things I Didn’t Know About CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=IRI1H5tyEAo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,The Power of CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Play Nice With CSS Tools and Methodologies,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://vimeo.com/140641366,CSS for Software Engineers for CSS Developers,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+http://vimeo.com/101718785,Effortless Style,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Photoshop Is Dead!: Editing Images in CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,When Bootstrap Attacks,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
+https://www.youtube.com/watch?v=_98SE8WUvLk&index=10&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9,Enhancing Responsiveness With Flexbox,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=Tk_0qYEFtAY&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Build Scalable, Automated CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS and the Critical Path,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837,All the Right Moves: How to Put Your UI in Motion,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/98746172,Present and Future of CSS Layout,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Thinking Beyond "Scalable CSS",https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Web Components & the Future of CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS Performance Tooling,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/100264064,3.14 Things I Didn’t Know About CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-http://vimeo.com/101718785,Effortless Style,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,When Bootstrap Attacks,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSS in the 4th Dimension,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Automated CSS Testing,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
 https://www.youtube.com/watch?v=ue-Z_HxS3cc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,CSSConf EU Keynote,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/74359951,CSS Application Architecture,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=I82ytAWxzrI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Realigning & Refactoring UI,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=ldx4ZFxMEeo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Normalizing Designs for Better Quality CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Automating the Removal of Unused CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=2iFw2GCOPj0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,The Humble Border-Radius,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/66039168,Sass and OOCSS Sitting in a Tree K-I-S-S-I-N-G,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/70041549,Architecting Scalable CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,More CSS Secrets: Another 10 Things You May Not Know about CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Open Source Tools and Libraries for Designers,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/54990931,GitHub's CSS Performance,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://vimeo.com/17091905,Handcrafted CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks
-https://www.youtube.com/watch?v=j6sAm7CLoCQ,The Top 5 Mistakes of Massive CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks

@@ -1,0 +1,78 @@
+https://apexcharts.com/,ApexCharts,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.chartjs.org/,Chart.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://gionkunz.github.io/chartist-js/,Chartist.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://dimplejs.org/,Dimple,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://dygraphs.com/,Dygraphs,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://metricsgraphicsjs.org/,MetricsGraphics.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://techanjs.org/,TechanJS,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://marvl.infotech.monash.edu/webcola/,Cola.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://js.cytoscape.org/,Cytoscape.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.cytoscape.org,Cytoscape,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://sigmajs.org/,Sigma.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://deck.gl/,Deck.gl,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://leafletjs.com,Leaflet,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://formidable.com/open-source/victory/,Victory,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://nivo.rocks,demo,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://devexpress.github.io/devextreme-reactive/react/chart/,DevExtreme React Chart,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://riccardoscalco.github.io/textures/,Textures.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://timeline.knightlab.com/,Timeline.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://vega.github.io/vega/,Vega,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://visjs.org/,Vis.js,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://bestexcelmaps.com/,Best Excel Maps,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://arxiv.org/abs/1602.00370,LargeVis paper,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://gitlab.kitware.com/vtk/vtk/blob/master/README.md,Visualization Toolkit (VTK),https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://altair-viz.github.io/,altair,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://bokeh.pydata.org/en/latest/,bokeh,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://holoviews.org/,holoviews,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://docs.enthought.com/mayavi/mayavi/,mayai,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://matplotlib.org/,matplotlib,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://plot.ly/python/,plotly,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.pyqtgraph.org/,PyQtGraph,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://seaborn.pydata.org/,seaborn,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://toyplot.readthedocs.io/en/stable/,toyplot,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://veusz.github.io/,veusz,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://vispy.org/,VisPy,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.vtk.org/,vtk,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://ggplot2.tidyverse.org/,ggplot2,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://ggvis.rstudio.com/,ggvis,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://lattice.r-forge.r-project.org,lattice,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://hafen.github.io/rbokeh/,rbokeh,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://cran.r-project.org/web/packages/rgl/index.html,rgl,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://shiny.rstudio.com,shiny,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://datastorm-open.github.io/visNetwork/,visNetwork,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://mermaidjs.github.io/mermaid-live-editor,mermaidjs,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://viz-js.com/,viz-js.com,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.graphviz.org/,Graphviz,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://wavedrom.com/,wavedrom.com,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://circos.ca,Circos,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://kepler.gl/,Kepler.gl,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://lightning-viz.org/,Lightning,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://rawgraphs.io,RAW,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061,Design for Information,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.amazon.com/Best-American-Infographics-2014/dp/0547974515,The Best American Infographics 2014,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142,The Visual Display of Quantitative Information,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281,The Wall Street Journal Guide to Information Graphics,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914,Visualization Analysis and Design,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://chimera.labs.oreilly.com/books/1230000000345,Interactive Data Visualization for the Web,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://datavisualizationtoolkit.com,Data Visualization Toolkit,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.datacamp.com/community/podcast,DataFramed,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://annkemery.com/,Ann K. Emery,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.datavisualizationsociety.com/,Data Visualization Society,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://eagereyes.org/,eagereyes,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://stephanieevergreen.com/,EvergreenData,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://flowingdata.com/,FlowingData,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.gnuplotting.org/,Gnuplotting,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.gnuplot.info/,Gnuplot,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.informationisbeautiful.net/,Information is Beautiful,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://junkcharts.typepad.com/,Junk Charts,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://lisacharlotterost.github.io/,Lisa Rost thinks and discusses about why we dataviz,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.makeovermonday.co.uk/,Makeover Monday,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.datavizcatalogue.com/,The Data Visualization Catalogue,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.thefunctionalart.com/,the functional art,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://source.opennews.org/articles/,The Open News,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://pudding.cool/,The Pudding,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://truth-and-beauty.net/,Truth & Beauty Operations,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://idl.cs.washington.edu/papers,University of Washington Interactive Data Lab Papers,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+https://www.vis4.net/blog/,vis4.net,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://www.visualcomplexity.com/vc/,Visual Complexity,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization
+http://fabiosouto.me/,Fabio Souto,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization

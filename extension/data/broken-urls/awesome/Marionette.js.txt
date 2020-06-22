@@ -1,0 +1,3 @@
+http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6/,Why Should I Use Backbone.Marionette Instead of … ?,https://github.com/sadcitizen/awesome-marionette#readme,Marionette.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/,Building a Marionette App with Flux Architecture,https://github.com/sadcitizen/awesome-marionette#readme,Marionette.js error: timeout('timed out') | reason: 
+http://scm.io/blog/hack/2014/09/backbone-marionette/,Pimping Backbone with Marionette,https://github.com/sadcitizen/awesome-marionette#readme,Marionette.js error: <HTTPError 404: 'Not Found'> | reason: Not Found

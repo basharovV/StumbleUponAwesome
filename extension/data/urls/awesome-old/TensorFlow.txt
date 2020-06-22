@@ -1,0 +1,83 @@
+http://tensorflow.org,here,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html,Getting Started with TensorFlow on Android,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://web.stanford.edu/class/cs20si/syllabus.html,CS20 SI: TensorFlow for DeepLearning Research,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs,Unofficial Videos,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html,TensorLayer,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html,CN,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.lighttag.io/blog/tensorflow-estimator-api/,Understanding The Tensorflow Estimator API,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.coursera.org/learn/convolutional-neural-networks-tensorflow,Convolutional Neural Networks in TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html,Deep-Q learning Pong with TensorFlow and PyGame,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1506.05869,"A neural conversational model",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1411.4555,"Show and Tell",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1502.03044,"Show, Attend and Tell",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://cnnlocalization.csail.mit.edu/,"Learning Deep Features for Discriminative Localization",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1511.07838,"Dynamic Capacity Networks",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1507.06228,"Training Very Deep Networks",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf,"Hierarchical Attention Networks for Document Classification",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1408.5882,"Convolutional Neural Networks for Sentence Classification",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/,blog post,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1503.08895,End-To-End Memory Networks,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1508.06615,Character-Aware Neural Language Models,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf,"Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://carlvondrick.com/tinyvideo/,"Generating Videos with Scene Dynamics",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/abs/1705.09422,"3D Convolutional Neural Networks for Speaker Verification application",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/abs/1706.05739,"Cross Audio-Visual Recognition in the Wild Using Deep Learning",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/abs/1706.09262,"Hierarchical Attentive Recurrent Tracking",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1510.04935,Holographic Embeddings of Knowledge Graphs,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models,"Attend, Infer, Repeat",https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.tensorflow.org/guide/estimators,TensorFlow Estimators,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://tensorflow.rstudio.com/,R Interface to TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://keras.io,keras,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/pdf/1603.06042.pdf,Globally Normalized Transition-Based Neural Networks, Andor et al. (2016),https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://doc-ai.github.io/tensorio/,TensorIO,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://guild.ai,Guild AI,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://bit.ly/1OX8s8Y,TensorFlow Guide 1,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://bit.ly/1R27Ki9,TensorFlow Guide 2,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://bit.ly/1TCNmEY,TensorFlow Basic Usage,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://bit.ly/1L9IfJx,TensorFlow Deep MNIST for Experts,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.youtube.com/watch?v=ReaxoSIM5XQ,TensorFlow Udacity Deep Learning,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html,Videos from TensorFlow Silicon Valley Meet Up 1/19/2016,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html,Videos from TensorFlow Silicon Valley Meet Up 1/21/2016,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam,Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W,Diving into Machine Learning through TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf,Slide,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://youtu.be/XYwIDn00PAo,Large Scale Deep Learning with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.youtube.com/watch?v=vq2nnJ4g6N0,Tensorflow and deep learning - without at PhD,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.youtube.com/watch?v=fTUwdXUFfI8,Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17),https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://youtu.be/P8MZ1Z2LHrw,Image recognition in Go using TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://download.tensorflow.org/paper/whitepaper2015.pdf,TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/pdf/1708.02637.pdf,TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/abs/1612.04251,TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1511.06435,Comparative Study of Deep Learning Software Frameworks,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1603.02339,Distributed TensorFlow with MPI,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://arxiv.org/abs/1603.06042,Globally Normalized Transition-Based Neural Networks,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/abs/1605.08695,TensorFlow: A system for large-scale machine learning,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://arxiv.org/abs/1707.08551,TensorLayer: A Versatile Library for Efficient Deep Learning Development,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html,TensorFlow: smarter machine learning, for everyone,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html,Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://blog.tensorflow.org/,Official Tensorflow Blog,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://archive.fo/o9asj,Why TensorFlow will change the Game for AI,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://petewarden.com/2016/02/28/tensorflow-for-poets,TensorFlow for Poets,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/,Introduction to Scikit Flow - Simplified Interface to TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://terrytangyuan.github.io/2016/07/08/understand-and-build-tensorflow-estimator/,Building Machine Learning Estimator in TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/,TensorFlow - Not Just For Deep Learning,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://indico.io/blog/indico-tensorflow,The indico Machine Learning Team's take on TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://indico.io/blog/the-good-bad-ugly-of-tensorflow/,The Good, Bad, & Ugly of TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/,Fizz Buzz in TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/,RNNs In TensorFlow, A Practical Guide And Undocumented Features,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html,Using TensorBoard to Visualize Image Classification Retraining in TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/,TFRecords Guide,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc,TensorFlow Android Guide,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture,TensorFlow Optimizations on Modern Intel® Architecture,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html,Coca-Cola's Image Recognition App,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html,How Does The TensorFlow Work,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://stackoverflow.com/questions/tagged/tensorflow,Stack Overflow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.reddit.com/r/tensorflow,Reddit,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://tensorflowbook.com,Machine Learning with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://www.jorditorres.org/first-contact-with-tensorflow/,First Contact with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://machinelearningmastery.com/deep-learning-with-python/,Deep Learning with Python,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/,TensorFlow for Machine Intelligence,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow,Getting Started with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://shop.oreilly.com/product/0636920052289.do,Hands-On Machine Learning with Scikit-Learn and TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow,Building Machine Learning Projects with Tensorflow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow
+http://www.broadview.com.cn/book/5059,Deep Learning using TensorLayer,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow

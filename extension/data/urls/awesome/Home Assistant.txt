@@ -1,71 +1,68 @@
-https://awesome-ha.com,,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://demo.home-assistant.io,Home Assistant online demo,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.home-assistant.io,Home Assistant,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.awesome-ha.com,https://www.awesome-ha.com,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.home-assistant.io/getting-started/,Hass.io,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.home-assistant.io/docs/installation/docker/,Docker,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.home-assistant.io/docs/installation/virtualenv/,Manually,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://discordapp.com/invite/c5DvZ4e,Home Assistant Discord,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/?u=frenck,Home Assistant Community,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.reddit.com/r/homeassistant/,Home Assistant Subreddit,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.home-assistant.io/lovelace,Lovelace UI Documentation,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.facebook.com/groups/HomeAssistant/,Home Assistant Enthusiasts,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck,Black and Green,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.smartthings.com/,SmartThings,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck,433mhz/IR Bidirectional Gateway,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g,BeardedTinker,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://blog.quindorian.org,Intermittent Technology,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.facebook.com/groups/1969622823351838/,Dr. ZZs,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://awesome-ha.com,,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/watch?v=ObfRzMIEJPgx,Getting started with Lovelace UI,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://hasspodcast.io,Home Assistant Podcast,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/vintage-theme/42806?u=frenck,Vintage,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://demo.home-assistant.io,Home Assistant online demo,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://discord.me/hassioaddons,Community Hassio Add-ons Discord,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck,esp8266MQTTBlinds,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UCLecVrux63S6aYiErxdiy4w,BRUH,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.home-assistant.io,Home Assistant,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://sharethelove.io,Share the Love,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UCSKQutOXuNLvFetrKuwudpg,BurnsHA,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.awesome-ha.com,https://www.awesome-ha.com,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/,Bed Presence Detection,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/watch?v=n5xMtONydEo,How to set up Lovelace,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.home-assistant.io/getting-started/,Hass.io,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UC7G4tLa4Kt6A9e3hJ-HO8ng,DrZzs,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck,Carbon Green,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8,Home Assistant Companion,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ,The Hook Up,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/watch?v=h1h8FFy9_Co,Themes Tutorial,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/,ESP32-Cam Facebox,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://discord.gg/KhAMKrd,ESPHome Discord,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.juanmtech.com/themes-in-home-assistant/,20 Great Themes,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/midnight-theme/28598?u=frenck,Midnight,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.ozerov.de/fully-kiosk-browser/,Fully Kiosk Browser,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/dark-cyan-theme/28594?u=frenck,Dark Cyan,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck,Swiper card,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://developers.home-assistant.io/,Developer Documentation,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.youtube.com/watch?v=qnCRcGTznXs,Hass.io Beginner's Guide,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.hadevices.com/,Home Assistant Device Database,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/grey-night-theme/30848?u=frenck,Grey Night,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://diyfuturism.com/,DIY Futurism,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://thanksmister.com/wallpanel-android/,WallPanel,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/dark-red-theme/28592?u=frenck,Dark Red,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.home-assistant.io/addons/duckdns/,DuckDNS,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://hacs.netlify.com/,HACS,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/juanmtech,JuanMTech,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://play.google.com/store/apps/details?id=com.surodev.ariela,Ariela,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://esphome.io/,ESPHome,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/halloween-theme/30872?u=frenck,Halloween,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://philhawthorne.com/homeautomation,Phil Hawthorne,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.home-assistant.io/addons/mosquitto/,Mosquitto,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/vCloudInfo,vCloudInfo,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck,HA SwitchPlate,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.home-assistant.io/docs/installation/virtualenv/,Manually,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.home-assistant.io/addons/ssh/,SSH Server,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://smarthomehobby.com/,Smart Home Hobby,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/watch?v=jpjfVc-9IrQ,DIY Multisensor,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA,digiblurDIY,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck,$10 WiFi RGB Bulb,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://discordapp.com/invite/c5DvZ4e,Home Assistant Discord,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA,Intermit.Tech,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://selfhostedhome.com/,Self Hosted Home,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://community.home-assistant.io/?u=frenck,Home Assistant Community,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://blog.ceard.tech/,Tinkering with Home Automation,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant,Home Assistant Config Helper for VSCode,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://www.reddit.com/r/homeassistant/,Home Assistant Subreddit,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
+https://HomeTechHacker.com,HomeTechHacker,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.home-assistant.io/addons/samba/,Samba,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
 https://www.home-assistant.io/addons/nginx_proxy/,NGINX SSL proxy,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.home-assistant.io/lovelace,Lovelace UI Documentation,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/watch?v=ObfRzMIEJPgx,Getting started with Lovelace UI,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://sharethelove.io,Share the Love,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/watch?v=n5xMtONydEo,How to set up Lovelace,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/watch?v=h1h8FFy9_Co,Themes Tutorial,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/midnight-theme/28598?u=frenck,Midnight,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/dark-cyan-theme/28594?u=frenck,Dark Cyan,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/grey-night-theme/30848?u=frenck,Grey Night,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/dark-red-theme/28592?u=frenck,Dark Red,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/halloween-theme/30872?u=frenck,Halloween,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck,Black and Green,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/vintage-theme/42806?u=frenck,Vintage,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck,Carbon Green,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.juanmtech.com/themes-in-home-assistant/,20 Great Themes,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck,Swiper card,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://hacs.netlify.com/,HACS,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://esphome.io/,ESPHome,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck,HA SwitchPlate,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/watch?v=jpjfVc-9IrQ,DIY Multisensor,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck,$10 WiFi RGB Bulb,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck,433mhz/IR Bidirectional Gateway,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck,esp8266MQTTBlinds,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/,Bed Presence Detection,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/,ESP32-Cam Facebox,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://diyfuturism.com/,DIY Futurism,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://philhawthorne.com/homeautomation,Phil Hawthorne,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://smarthomehobby.com/,Smart Home Hobby,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://selfhostedhome.com/,Self Hosted Home,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://blog.ceard.tech/,Tinkering with Home Automation,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://HomeTechHacker.com,HomeTechHacker,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://blog.quindorian.org,Intermittent Technology,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UCLecVrux63S6aYiErxdiy4w,BRUH,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UCSKQutOXuNLvFetrKuwudpg,BurnsHA,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UC7G4tLa4Kt6A9e3hJ-HO8ng,DrZzs,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ,The Hook Up,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UCGOCeqMJnLvr-5C-ypUw7IQ,HASSCASTS,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/juanmtech,JuanMTech,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/vCloudInfo,vCloudInfo,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA,digiblurDIY,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA,Intermit.Tech,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g,BeardedTinker,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://hasspodcast.io,Home Assistant Podcast,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8,Home Assistant Companion,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.ozerov.de/fully-kiosk-browser/,Fully Kiosk Browser,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://developers.home-assistant.io/,Developer Documentation,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.hadevices.com/,Home Assistant Device Database,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://thanksmister.com/wallpanel-android/,WallPanel,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://play.google.com/store/apps/details?id=com.surodev.ariela,Ariela,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/,Gitlab CI/CD,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant,Home Assistant Config Helper for VSCode,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant
-https://www.smartthings.com/,SmartThings,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant

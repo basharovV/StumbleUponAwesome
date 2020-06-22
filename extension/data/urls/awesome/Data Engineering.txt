@@ -1,77 +1,73 @@
-https://www.percona.com/software/mysql-database/percona-xtrabackup,Percona XtraBackup,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://aws.amazon.com/rds/,Amazon RDS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://redis.io/,Redis,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-http://docs.basho.com/riak/kv/,Riak,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://aws.amazon.com/dynamodb/,AWS DynamoDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://cassandra.apache.org/,Cassandra,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.ecyrd.com/cassandracalculator/,Cassandra Calculator,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.scylladb.com/,https://www.scylladb.com/,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://hbase.apache.org/,HBase,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.vertica.com,Vertica,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.mongodb.com,MongoDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.percona.com/software/mongo-database/percona-server-for-mongodb,Percona Server for MongoDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://ravendb.net/,RavenDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://orientdb.com,OrientDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://titan.thinkaurelius.com,Titan,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://geode.apache.org/,Apache Geode,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-http://basho.com/products/riak-ts/,Riak-TS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.embulk.org,Embulk,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://sqoop.apache.org,Apache Sqoop,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://nakadi.io,Nakadi,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 http://www.pravega.io,Pravega,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html,HDFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.alluxio.org/,Alluxio,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://ceph.com/,CEPH,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.orangefs.org/,OrangeFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.gluster.org/,GlusterFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://lizardfs.com/,LizardFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://avro.apache.org,Apache Avro,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://parquet.apache.org,Apache Parquet,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://zlib.net/pigz/,PigZ,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.mongodb.com,MongoDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/,Used,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://orc.apache.org/,Apache ORC,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://thrift.apache.org,Apache Thrift,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://wiki.apache.org/hadoop/SequenceFile,SequenceFile,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://spark.apache.org/streaming/,Spark Streaming,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://flink.apache.org/,Apache Flink,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://samza.apache.org,Apache Samza,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://nifi.apache.org/,Apache NiFi,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://voltdb.com/,VoltDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://en.wikipedia.org/wiki/Shared-nothing_architecture,shared nothing architecture,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://cloud.spring.io/spring-cloud-dataflow/,Spring Cloud Dataflow,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://giraph.apache.org/,Giraph,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.percona.com/software/mysql-database/percona-xtrabackup,Percona XtraBackup,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://www.bonobo-project.org/,Bonobo,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://dumps.wikimedia.org/enwiki/latest/,Wikipedia,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html,Hadoop MapReduce,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.cascading.org/,Cascading,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html,HDFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://thrift.apache.org,Apache Thrift,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://prestodb.github.io/docs/current/index.html,Presto,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://azkaban.github.io/,Azkaban,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://aws.amazon.com/rds/,Amazon RDS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.reddit.com/r/dataengineering/,/r/dataengineering,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.percona.com/software/mongo-database/percona-server-for-mongodb,Percona Server for MongoDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://spark-packages.org,Spark Packages,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://hive.apache.org,Hive,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://redis.io/,Redis,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://oozie.apache.org/,Oozie,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://ravendb.net/,RavenDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://drill.apache.org/,Drill,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://spark.apache.org/streaming/,Spark Streaming,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.alluxio.org/,Alluxio,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html,Spark RDD API Examples,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+http://docs.basho.com/riak/kv/,Riak,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://rancher.com/rancher-os/,Rancher,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.reddit.com/r/ETL/,/r/etl,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.highcharts.com/,Highcharts,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://aws.amazon.com/dynamodb/,AWS DynamoDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://flink.apache.org/,Apache Flink,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://livy.incubator.apache.org,Livy,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://orientdb.com,OrientDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://cassandra.apache.org/,Cassandra,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.datacouncil.ai/about,DataEngConf,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://samza.apache.org,Apache Samza,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.zingchart.com/,ZingChart,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://ceph.com/,CEPH,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://tez.apache.org/,Tez,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.h2o.ai/,H2O,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.ecyrd.com/cassandracalculator/,Cassandra Calculator,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://titan.thinkaurelius.com,Titan,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://nifi.apache.org/,Apache NiFi,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://imagelayers.io/,ImageLayers,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://c3js.org,C3.js,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://geode.apache.org/,Apache Geode,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.dataengineeringpodcast.com/,Data Engineering Podcast,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://d3plus.org,D3Plus,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.scylladb.com/,https://www.scylladb.com/,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/,Reddit,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.orangefs.org/,OrangeFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+http://smoothiecharts.org,SmoothieCharts,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.gharchive.org/,GitHub Archive,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+http://basho.com/products/riak-ts/,Riak-TS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://hbase.apache.org/,HBase,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://commoncrawl.org/,Common Crawl,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.gluster.org/,GlusterFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://redash.io/,Redash,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.vertica.com,Vertica,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://lizardfs.com/,LizardFS,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://voltdb.com/,VoltDB,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://insightdataengineering.com,Insight Data Engineering,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://www.embulk.org,Embulk,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://en.wikipedia.org/wiki/Shared-nothing_architecture,shared nothing architecture,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://avro.apache.org,Apache Avro,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://cloud.spring.io/spring-cloud-dataflow/,Spring Cloud Dataflow,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://sqoop.apache.org,Apache Sqoop,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://parquet.apache.org,Apache Parquet,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://nakadi.io,Nakadi,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
+https://zlib.net/pigz/,PigZ,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://mahout.apache.org/,Mahout,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://spark.apache.org/docs/latest/ml-guide.html,Spark MLlib,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
 https://turi.com/products/create/docs/,GraphLab Create,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://giraph.apache.org/,Giraph,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://prestodb.github.io/docs/current/index.html,Presto,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://hive.apache.org,Hive,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://drill.apache.org/,Drill,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.highcharts.com/,Highcharts,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.zingchart.com/,ZingChart,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://c3js.org,C3.js,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://d3plus.org,D3Plus,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-http://smoothiecharts.org,SmoothieCharts,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://redash.io/,Redash,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/,Used,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.cascading.org/,Cascading,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://azkaban.github.io/,Azkaban,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://oozie.apache.org/,Oozie,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://rancher.com/rancher-os/,Rancher,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.kontena.io/,Kontena,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://imagelayers.io/,ImageLayers,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/,Reddit,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.gharchive.org/,GitHub Archive,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://commoncrawl.org/,Common Crawl,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://dumps.wikimedia.org/enwiki/latest/,Wikipedia,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.reddit.com/r/dataengineering/,/r/dataengineering,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.reddit.com/r/ETL/,/r/etl,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.datacouncil.ai/about,DataEngConf,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://www.dataengineeringpodcast.com/,Data Engineering Podcast,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-http://xyz.insightdataengineering.com/blog/pipeline_map.html,The Data Engineering Ecosystem: An Interactive Map,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering
-https://insightdataengineering.com,Insight Data Engineering,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering

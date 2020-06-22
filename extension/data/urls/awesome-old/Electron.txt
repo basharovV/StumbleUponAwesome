@@ -1,0 +1,85 @@
+https://electronjs.org,,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://gitlab.com/NebulousLabs/Sia-UI,Sia-UI,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://www.gitkraken.com,GitKraken,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://1clipboard.io,1Clipboard,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f,Slack,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://avocode.com,Avocode,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://prepros.io,Prepros,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://www.strem.io,Stremio,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://www.typetalk.in,Typetalk,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://pingendo.com,Pingendo,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.spreaker.com/download,Spreaker Studio,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://mockingbot.com,MockingBot,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://caret.io,Caret,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.wantedly.com/chat,Wantedly Chat,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://rememberapp.co.kr,Remember,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://bearychat.com,BearyChat,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://freeter.io,Freeter,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.whatsapp.com/download/,WhatsApp,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://automint.in,Automint,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.inkdrop.info,Inkdrop,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.exodus.io,Exodus,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://hackolade.com,Hackolade,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://screensquid.com,ScreenSquid,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://cashnotify.com,CashNotify,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://app.twitch.tv,Twitch,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://fen%C3%AAt.re,Fenêtre,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://getcleaver.com,Cleaver,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://mingo.io,Mingo,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://datensen.com,Moon Modeler,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://notion.so,Notion,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.fatpick.com,FATpick,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://mouseless.app,Mouseless,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.glyphfinder.com,Glyphfinder,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://www.nightmarejs.org,Nightmare,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://xel-toolkit.org,Xel,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://electronjs.org/docs/tutorial/quick-start,Quick Start,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://electronjs.org/docs,Official docs,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://jlord.us/essential-electron/,Essential Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://maxogden.com/electron-fundamentals.html,Electron Fundamentals,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658,Building a desktop application with Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/,Codesigning your app for macOS,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c,Auto-updating apps for macOS and Windows: The complete guide,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://blog.dcpos.ch/how-to-make-your-electron-app-sexy,How To Make Your Electron App Sexy,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://anadea.info/blog/building-desktop-app-with-electron,Building a desktop app with Electron, React, and Redux,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5,Introducing BrowserView for Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b,Migrating Slack's Desktop App to BrowserView,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://blog.realm.io/native-performance-electron-realm/,Bringing Native Performance to Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92,Electron on the App Store,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/,Using Google Analytics to gather usage statistics in Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/,Notarizing your Electron app,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://bleedingedgepress.com/developing-an-electron-edge/,Developing an Electron Edge,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC,Preview,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.manning.com/books/electron-in-action?a_aid=electroninaction,Electron in Action,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.manning.com/books/cross-platform-desktop-applications,Cross-Platform Desktop Applications,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=jKzBJAowmGg,Getting Started with Electron 1.x,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=dz5SnmBzBXc,Packaging and Distributing Electron Desktop Apps,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=K-H2amwQ_pU,Multi Window Electron Desktop Apps,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=RaPmi-33rfc,The State of Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=9xX_G0l5jLU,Cross-Platform Desktop Apps with Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=nXIrFq5-FC8,Building Native Desktop apps using Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=jRPUB-D1Wx0,The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=rbSvc8_BHaw,Building Desktop Apps with Node.js and Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.pluralsight.com/courses/electron-fundamentals,Electron Fundamentals course - Pluralsight,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html,Electron: Building Cross Platform Desktop Apps - Lynda,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux,Automatically Build and Publish Node and Electron Applications for Linux,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://egghead.io/courses/build-a-desktop-application-with-electron,Build a desktop application with Electron - Egghead,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://frontendmasters.com/courses/electron/,Build Cross-Platform Desktop Apps with Electron - Frontend Masters,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=DDjVaHPvRdM,Electron Meetup SF, November 2017,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.youtube.com/watch?v=fw4PmPaghyU,Make Your Electron App Feel at Home Everywhere,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain,JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord,Hanselminutes: Creating cross-platform Electron apps with Jessica Lord,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://javascriptair.com/episodes/2016-07-06,JavaScript Air: Electron Apps with @jlord and @emorikawa,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://changelog.com/216/,The Changelog #216: GitHub's Electron with Zeke Sikelianos,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://www.fullstackradio.com/48,Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://discuss.atom.io/c/electron,Discuss,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.reddit.com/r/electronjs,Reddit,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://stackoverflow.com/questions/tagged/electron,Stack Overflow,https://github.com/sindresorhus/awesome-electron#readme,Electron
+http://webchat.freenode.net/?channels=atom-shell,#atom-shell on Freenode,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://discuss.atom.io/t/join-us-on-slack/16638,#electron on Atom Slack,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://electron-jp-slackin.herokuapp.com,electron-jp,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://electron-br.slack.com,electron-br,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://electronpl.github.io,electron-pl,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://telegram.me/electron_ru,@electron_ru on Telegram,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.facebook.com/groups/electronjs/,electronjs on Facebook,https://github.com/sindresorhus/awesome-electron#readme,Electron
+https://www.producthunt.com/@sindresorhus/collections/electron-apps,Product Hunt,https://github.com/sindresorhus/awesome-electron#readme,Electron

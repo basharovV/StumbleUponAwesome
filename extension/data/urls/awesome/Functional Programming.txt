@@ -1,60 +1,57 @@
-https://en.wikipedia.org/wiki/Functional_programming,functional programming,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://wiki.haskell.org/Functional_programming,style of programming,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://folktale.origamitower.com/,Folktale,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://functionaljs.com,functional.js,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://gkz.github.io/prelude-ls/,prelude.ls,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://blog.briancavalier.com/creed/,Creed,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://gcanti.github.io/fp-ts/,fp-ts,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://remedajs.com/,remeda,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://guigrpa.github.io/timm/,Timm,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://cwmyers.github.io/monet.js/,monet.js,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://elm-lang.org/,Elm,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://fable.io/,Fable,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://fsharp.org,F#,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://www.purescript.org/,PureScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://www.idris-lang.org/,Idris,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://ocsigen.org/js_of_ocaml/,Js_of_ocaml,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://ocaml.org/,OCaml,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://reasonml.github.io,Reason,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://www.scala-js.org/,Scala.js,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://www.scala-lang.org/,Scala,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://gkz.github.io/LiveScript/,LiveScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.microsoft.com/en-us/research/project/koka/,Koka,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://leanpub.com/javascriptallongesix,JavaScript Allongé,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.manning.com/books/functional-programming-in-javascript,Functional Programming in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://eloquentjavascript.net/,Eloquent JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://shop.oreilly.com/product/0636920028857.do,Functional JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c,FP Concepts in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html,Functional programming with JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/,A gentle introduction to functional JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://dev.to/snird/functors-from-first-principle-37lh,Functors from first principle - explained with JS,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.youtube.com/watch?v=m3svKOdZijA,Hey Underscore, You're Doing It Wrong!,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 https://hughfdjackson.com/javascript/why-curry-helps/,Why Curry Helps,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://en.wikipedia.org/wiki/Functional_programming,functional programming,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://auth0.com/blog/intro-to-immutable-js/,Introduction to Immutable.js and Functional Programming Concepts,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://gkz.github.io/LiveScript/,LiveScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://wiki.haskell.org/Functional_programming,style of programming,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.youtube.com/watch?v=AvgwKjTPMmM,Functional programming patterns for the non-mathematician,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://elm-lang.org/,Elm,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0,Master the JavaScript Interview: What is Functional Programming?,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 http://fr.umio.us/favoring-curry/,Favoring Curry,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://folktale.origamitower.com/,Folktale,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://vimeo.com/49384334,Pure JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.microsoft.com/en-us/research/project/koka/,Koka,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c,Composing Software,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html,Functional Mumbo Jumbo – ADTs,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://fable.io/,Fable,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://dev.to/simov/anonymous-recursion-in-javascript,Anonymous Recursion in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84,Functional programming in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://gkz.github.io/prelude-ls/,prelude.ls,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d,JavaScript and Type Thinking,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://blog.briancavalier.com/creed/,Creed,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://fsharp.org,F#,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.youtube.com/watch?v=FYXpOjwYzcs,Functional Programming Basics In ES6,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://leanpub.com/javascriptallongesix,JavaScript Allongé,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.youtube.com/watch?v=B0VoyujJWIE,JavaScript Programmers Should Learn Algebraic Data Types -- May 2018 -- UtahJS Lehi,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://gcanti.github.io/fp-ts/,fp-ts,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://joecortopassi.com/articles/functional-composition-in-javascript/,Functional Composition in Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://www.purescript.org/,PureScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript,Lazy, composable, and modular JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.manning.com/books/functional-programming-in-javascript,Functional Programming in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://remedajs.com/,remeda,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://eloquentjavascript.net/,Eloquent JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 http://fr.umio.us/why-ramda/,Why Ramda,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://curiosity-driven.org/monads-in-javascript,Monads in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://www.idris-lang.org/,Idris,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://guigrpa.github.io/timm/,Timm,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://frontendmasters.com/courses/functional-javascript/,Hardcore Functional Programming in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://ocsigen.org/js_of_ocaml/,Js_of_ocaml,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f,Functional Programming Principles in Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://cwmyers.github.io/monet.js/,monet.js,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://dev.to/rametta/basic-monads-in-javascript-3el3,Basic Monads in Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://ocaml.org/,OCaml,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://fpchat-invite.herokuapp.com/,Functional Programming Slack channel,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://dev.to/rametta/f-for-js-devs-2b88,F# for JavaScript Devs,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://stoeffel.github.io/,Christoph Hermann,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://reasonml.github.io,Reason,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71,A practical guide to writing more functional Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://www.scala-js.org/,Scala.js,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC,Classroom Coding with Prof. Frisby,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://shop.oreilly.com/product/0636920028857.do,Functional JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://www.scala-lang.org/,Scala,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c,FP Concepts in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 https://glebbahmutov.com/blog/tags/functional/,Functional programming,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/,Data Structures in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html,Functional programming with JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
 https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536,So You Want to be a Functional Programmer,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://auth0.com/blog/intro-to-immutable-js/,Introduction to Immutable.js and Functional Programming Concepts,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0,Master the JavaScript Interview: What is Functional Programming?,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c,Composing Software,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://dev.to/simov/anonymous-recursion-in-javascript,Anonymous Recursion in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://joecortopassi.com/articles/functional-composition-in-javascript/,Functional Composition in Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f,Functional Programming Principles in Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://dev.to/rametta/basic-monads-in-javascript-3el3,Basic Monads in Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://dev.to/rametta/f-for-js-devs-2b88,F# for JavaScript Devs,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71,A practical guide to writing more functional Javascript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC,Classroom Coding with Prof. Frisby,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.youtube.com/watch?v=m3svKOdZijA,Hey Underscore, You're Doing It Wrong!,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.youtube.com/watch?v=AvgwKjTPMmM,Functional programming patterns for the non-mathematician,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://vimeo.com/49384334,Pure JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84,Functional programming in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.youtube.com/watch?v=FYXpOjwYzcs,Functional Programming Basics In ES6,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://www.youtube.com/watch?v=B0VoyujJWIE,JavaScript Programmers Should Learn Algebraic Data Types -- May 2018 -- UtahJS Lehi,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://frontendmasters.com/courses/functional-javascript/,Hardcore Functional Programming in JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://paqmind.com/courses/fp-beginner/,Functional Programming for Beginners,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-https://fpchat-invite.herokuapp.com/,Functional Programming Slack channel,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
-http://stoeffel.github.io/,Christoph Hermann,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/,A gentle introduction to functional JavaScript,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming
+https://dev.to/snird/functors-from-first-principle-37lh,Functors from first principle - explained with JS,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming

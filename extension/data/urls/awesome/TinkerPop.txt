@@ -1,20 +1,18 @@
-https://console.ng.bluemix.net/catalog/services/ibm-graph/,IBM Graph,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://tinkerpop.apache.org/gremlin.html,Introduction to Gremlin,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin,Datastax Introduction,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://www.tinkerpopbook.com/,TinkerPop Book,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 http://stardog.com/,Stardog,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://tinkerpop.apache.org/docs/current/tutorials/getting-started/,Getting Started with TinkerPop,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/,The Gremlin Console,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 http://janusgraph.org,http://janusgraph.org,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/recipes/,Gremlin Recipes,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/,Gremlin Language Variants,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+http://sql2gremlin.com/,SQL2Gremlin,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 https://www.nuget.org/packages/Teva.Common.Data.Gremlin/,Teva Gremlin,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
+https://academy.datastax.com/demos/getting-started-graph-databases,Getting Started with Graph Databases,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 http://gremlinrestclient.readthedocs.org/en/latest/,gremlinrestclient,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 http://ogre.clojurewerkz.org/,ogre,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 http://stackoverflow.com/questions/tagged/tinkerpop3,Stack Overflow,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/,TinkerPop-dev,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 https://markorodriguez.com/,Marko Rodriguez,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
 https://about.me/daniel.kuppitz,Daniel Kuppitz,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://tinkerpop.apache.org/gremlin.html,Introduction to Gremlin,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin,Datastax Introduction,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://www.tinkerpopbook.com/,TinkerPop Book,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf,Linux Foundation Presentation,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://tinkerpop.apache.org/docs/current/tutorials/getting-started/,Getting Started with TinkerPop,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/,The Gremlin Console,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/recipes/,Gremlin Recipes,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/,Gremlin Language Variants,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-http://sql2gremlin.com/,SQL2Gremlin,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop
-https://academy.datastax.com/demos/getting-started-graph-databases,Getting Started with Graph Databases,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop

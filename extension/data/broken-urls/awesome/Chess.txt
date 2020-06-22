@@ -1,0 +1,3 @@
+http://chess.eusa.ed.ac.uk/Chess/Rules/notation.html,Tutorial on Chess Notations,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf,Sicilian Dragon,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.chesscademy.com/,chesscademy.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

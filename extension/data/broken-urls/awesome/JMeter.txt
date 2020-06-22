@@ -1,0 +1,19 @@
+https://gerardnico.com/jmeter/lifecycle,JMeter: Load Development LifeCycle,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: timeout('The read operation timed out') | reason: 
+https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips,JMeter Performance and Tuning Tips,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://resources.infosecinstitute.com/search/?s=jmeter,JMeter Resources,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: timeout('The read operation timed out') | reason: 
+https://dzone.com/articles/implement-custom-jmeter-samplers,Implement Custom JMeter Samplers,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/application-development/performance-testing-jmeter-29,Packt Publishing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops,Packt Publishing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition,Packt Publishing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition,Packt Publishing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/application-development/jmeter-cookbook,Packt Publishing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

@@ -1,0 +1,14 @@
+http://www.cutandfold.co/blog/2015/9/7/making-you-first-framer-prototype,Getting Started with Framer,https://github.com/podo/awesome-framer#readme,Framer error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.cutandfold.co/blog/2015/9/8/building-your-first-prototype,Building Your First Prototype,https://github.com/podo/awesome-framer#readme,Framer error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.sketchcasts.net/episodes/prototyping-with-framer-part-1,Prototyping with Framer,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://codepen.io/collection/nRzzaZ/,Framer.js Workshop,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://thatedchao.com/published/2014/10/27/framer.html,Framer Experiments by Ed Chao,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://framer.com/docs,Documentation,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://martenbjork.com/2016/05/managing-styles-and-css-in-framer/,Managing Styles and CSS in Framer,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://framerjs.com/learn/basics,Framer.js Official Basics,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://framer.com/fiber/,Fiber,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://generalassemb.ly/education/prototyping-with-framerjs,Prototyping With Framer.js,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 410: 'Gone'> | reason: Gone
+https://framer.com/voyage/,Voyage,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://humaan.com/prototyping-with-framer/,Prototyping & Working with Framer,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.framercasts.com/,Framercasts,https://github.com/podo/awesome-framer#readme,Framer error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://designers.how/topics/framer,designers.how Framer Courses,https://github.com/podo/awesome-framer#readme,Framer error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

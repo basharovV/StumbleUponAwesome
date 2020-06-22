@@ -1,0 +1,225 @@
+https://codecov.io/github/donnemartin/saws/awesome-aws,,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://badge.fury.io/py/awesome-aws,,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-android/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/mobile/sdk/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/aws/introducing-the-aws-sdk-for-c/,Blog with Samples,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/sdk-for-go/api/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sdk-for-go/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-ios/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-java/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sdk-for-java/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html,Install,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-javascript/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sdk-for-node-js/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://brendanhay.nz/amazonka-doc/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://metacpan.org/pod/Paws,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html,Install,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-php/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sdk-for-php/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://boto3.amazonaws.com/v1/documentation/api/latest/index.html,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-install.html,Install,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-ruby/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://rusoto.github.io/rusoto/rusoto/index.html,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://bitbucket.org/atlassian/aws-scala,atlassian/aws-scala,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://blog.xamarin.com/amazon-web-services-aws-mobile-sdks-for-xamarin-now-available/,Blog with Samples,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi,Install,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/sdk-for-net/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sdk-for-net/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html,Install,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/cli/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/cli/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/powershell/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/powershell/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/AWSToolkitEclipse/latest/ug/tke_setup.html,Install,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/awstoolkiteclipse/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/eclipse/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/aws-toolkit-visual-studio/,Docs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/visualstudio/,Learn More,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html,Getting Started with AWS,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html,Getting Started Tutorials,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-overview.html,Analyzing Big Data,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-sentiment-tutorial.html,Sentiment Analysis,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-tutorial.html,Web Server Log Analysis,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html,Working with the AWS Management Console,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html,Deploying a Web App Using Elastic Beanstalk,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html,Hosting a Web App,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html,Hosting a .NET Web App,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html,Hosting a Static Website,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/quickstart/,Quick Start Deployment Guides,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.aws-glossary.info,Automatically generated glossary of services,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.manning.com/books/amazon-web-services-in-action,Manning,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://amzn.com/1617292885,Amazon.com,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.manning.com/books/aws-lambda-in-action,Manning,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://amzn.com/1617293717,Amazon.com,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf,AWS Well-Architected Framework,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/whitepapers/,Whitepapers,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/,Documentation,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/account-billing/,AWS Billing and Cost Management,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/marketplace/,AWS Marketplace,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/aws-support/,AWS Support,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/general/latest/gr/,AWS General Reference,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/general/latest/gr/glos-chap.html,AWS Glossary,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/training/,Training and Certification,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/about-aws/events/,Webinars,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/adobe/,Adobe,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/adroll/,AdRoll,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/airbnb/,Airbnb,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/autodesk/,Autodesk,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/citrix/,Citrix,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/comcast/,Comcast,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/coursera/,Coursera,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/docker/,Docker,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/dow-jones/,Dow Jones,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.dropbox.com/,Dropbox,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/dropcam/,Dropcam,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/expedia/,Expedia,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/foursquare/,Foursquare,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/imdb/,IMDb,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://instrumentalapp.com/blog/aws-kinesis/,Instrumental,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/soasta-intuit/,Intuit,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/johnson-and-johnson/,Johnson & Johnson,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/lionsgate/,Lionsgate,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/major-league-baseball-mlbam/,mlbam,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/nasa-jpl-curiosity/,NASA,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/netflix/,Netflix,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://web.archive.org/web/20150910200649/http://aws.amazon.com/solutions/case-studies/nike/,Nike,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://web.archive.org/web/20161210062336/https://aws.amazon.com/solutions/case-studies/nokia/,Nokia,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/pbs/,PBS,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://web.archive.org/web/20161210034734/https://aws.amazon.com/solutions/case-studies/pfizer/,Pfizer,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/philips/,Philips,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://web.archive.org/web/20150905070945/https://aws.amazon.com/solutions/case-studies/reddit/,Reddit,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/samsung/,Samsung,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/siemens/,Siemens,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/slack/,Slack,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://web.archive.org/web/20180608043124/https://aws.amazon.com/solutions/case-studies/spotify/,Spotify,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://web.archive.org/web/20160410051253/https://aws.amazon.com/solutions/case-studies/swiftkey/,Swiftkey,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/the-weather-company/,The Weather Company,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/ticketmaster/,Ticketmaster,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/time-inc/,Time Inc,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/twilio/,Twilio,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/exchangesconnect/,U.S. Department of State,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/ubisoft/,Ubisoft,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/yelp-docker/,Yelp,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/solutions/case-studies/zillow/,Zillow,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/pt/blogs/aws-brasil/,Brasil,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/cn/blogs/china/,China,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/de/blogs/germany/,Germany,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/jp/blogs/news/,Japan,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://aws.amazon.com/ko/blogs/korea/,Korea,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/devops/,DevOps,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/architecture/,Architecture,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/big-data/,Big Data,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/compute/,Compute,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/mobile/,Mobile,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/messaging-and-targeting/,Messaging,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/developer/category/programing-language/java/,Java,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/developer/category/programing-language/php/,PHP,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/developer/category/programing-language/ruby/,Ruby,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/,.NET,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/security/,Security,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://medium.com/aws-activate-startup-blog,Startup,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/apn/,Partner Network,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/blogs/awsforsap/,SAP,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://www.allthingsdistributed.com/,All Things Distributed,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://jeff-barr.com/,Things I Like...,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.awsgeek.com/,AWS Geek,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.facebook.com/amazonwebservices,amazonwebservices,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.facebook.com/awsreinvent,awsreinvent,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/AmazonWebServices,AmazonWebServices,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/AWSAktuell,AWSDeutsch,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/AmazonWebServicesJP,AWSJapan,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/AWSKorea,AWSKorea,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/channel/UCvaUAVzIIGsRNlUDWkQFCeA,AWSLatinAmerica,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/awstutorialseries,AWSTutorialSeries,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/AWSwebinars,AWSWebinars,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw,Backspace Academy,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos,Cloud Academy,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/user/pineheadtv/playlists,Linux Academy,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/company/amazon-web-services,Amazon Web Services,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grp/home?gid=4387417,Amazon AWS Architects,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grps?gid=3748455,Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grps?gid=5122002,Amazon Web Services (AWS) for Business,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grps?gid=4233997,Amazon Web Services Architects,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grp/home?gid=49531,Amazon Web Services Community Network,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grps?gid=2485626,Amazon Web Services Enthusiasts,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.linkedin.com/grps?gid=86137,Amazon Web Services Users,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.reddit.com/r/aws/,/r/aws/,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.reddit.com/r/AWS_cloud/,/r/AWS_cloud/,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://reinvent.awsevents.com/,re:Invent,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/summits/,Summits,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/events/awsome-day/awsome-day-online/,AWSome Day,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/watch?v=D5-ifl7KJ00,1,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html,2,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.youtube.com/watch?v=OuyUbvtgfDk,4,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://www.forbes.com/sites/benkepes/2014/11/25/scale-beyond-comprehension-some-aws-numbers/,3,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.expeditedssl.com/aws-in-plain-english,Amazon Web Services in Plain English,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/autoscaling/,Auto Scaling,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/batch/,Batch,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://blox.github.io/,Blox,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/ec2/systems-manager/,EC2 Systems Manager,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/ec2/Elastic-GPUs/,Elastic GPUs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/elasticloadbalancing/,Elastic Load Balancing (ELB),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://amazonlightsail.com/,Lightsail,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/vpc/,Virtual Private Cloud (VPC),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/directconnect/,Direct Connect,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/workdocs/,WorkDocs,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/workmail/,WorkMail,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/workspaces/,WorkSpaces,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://aws.amazon.com/workspaces/applicationmanager/,Workspaces Application Manager (WAM),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/athena/,Athena,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/datapipeline/,Data Pipeline,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://aws.amazon.com/elasticmapreduce/,Elastic MapReduce (EMR),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/elasticsearch-service/,Elasticsearch Service (ES),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/kinesis/analytics/,Kinesis Analytics,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/kinesis/firehose/,Kinesis Firehose,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/quicksight/,Quicksight,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/lex/,Lex,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/machine-learning/,Machine Learning,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/polly/,Polly,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/rekognition/,Rekognition,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/cloudformation/,CloudFormation,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/cloudtrail/,CloudTrail,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/config/,Config,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/console/,Management Console (AWS Console),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/opsworks/,OpsWorks,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/premiumsupport/phd/,Personal Health Dashboard,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/servicecatalog/,Service Catalog,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/certificate-manager/,Certificate Manager,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/cloudhsm/,CloudHSM,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/directoryservice/,Directory Service,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/iam/,Identity and Access Management (IAM),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/inspector/,Inspector,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/kms/,Key Management Service (KMS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/shield/,Shield,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/waf/,WAF,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/iot/,IoT,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/device-farm/,Device Farm,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/mobileanalytics/,Mobile Analytics,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/mobile/,Mobile Hub,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sns/,Simple Notification Service (SNS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/ebs/,Elastic Block Store (EBS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/efs/,Elastic File System (EFS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/glacier/,Glacier,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/importexport/,Import/Export,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/storagegateway/,Storage Gateway,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/rds/aurora/,Aurora,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/elasticache/,ElastiCache,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/SchemaConversionTool/,Schema Conversion Tool,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/simpledb/,SimpleDB,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/appstream/,AppStream,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/devpay/,DevPay,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/elastictranscoder/,Elastic Transcoder (ETS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://payments.amazon.com/developer,Flexible Payments Service (FPS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/sqs/,Simple Queue Service (SQS),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/swf/,Simple Workflow (SWF),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/codebuild/,CodeBuild,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/codecommit/,CodeCommit,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/codedeploy/,CodeDeploy,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/documentation/codepipeline/,CodePipeline,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/xray/,X-Ray,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/,Fulfillment Web Service,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://www.mturk.com/mturk/welcome,Mechanical Turk,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+https://aws.amazon.com/partners/,Partner Network (APN),https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services
+http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html,Product Advertising API,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services

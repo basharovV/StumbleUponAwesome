@@ -1,0 +1,2 @@
+https://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/,A Comparative Study of Docker Engine on Windows Server vs Linux Platform,https://github.com/veggiemonk/awesome-docker#readme,Docker error: timeout('The read operation timed out') | reason: 
+http://docker-br.herokuapp.com,Docker BR on Slack,https://github.com/veggiemonk/awesome-docker#readme,Docker error: timeout('timed out') | reason: 

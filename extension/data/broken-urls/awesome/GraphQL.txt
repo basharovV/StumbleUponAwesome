@@ -1,0 +1,13 @@
+https://facebook.github.io/graphql/,facebook/graphql,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://julienvincent.io/modelizr/,Modelizr Documentation,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://strapi.io/documentation/graphql,Strapi,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://playground.graphql-elixir.org,View demo online,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: timeout('timed out') | reason: 
+https://learngraphql.com,Let's Learn GraphQL,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)
+https://fauna.com,FaunaDB,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: timeout('The read operation timed out') | reason: 
+https://www.apollographql.com/react/,Apollo Client documentation,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://graphql-world.com,GraphQL World,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL,The Road to GraphQL,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/GraphQL-TLV/,Tel Aviv,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/learning-graphql-and-relay,Learning GraphQL and Relay,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

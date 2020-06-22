@@ -1,0 +1,1 @@
+https://www.superfightgame.com/,SuperFight,https://github.com/edm00se/awesome-board-games#readme,Board Games error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)

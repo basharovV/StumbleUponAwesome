@@ -1,0 +1,4 @@
+https://crossdart.info,Crossdart,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.dartlang.org/codelabs/darrrt/,Darrrt,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/,Getting Started with Dart & React,https://github.com/yissachar/awesome-dart#readme,Dart error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://pub.dartlang.org/packages/shelf,Shelf,https://github.com/yissachar/awesome-dart#readme,Dart error: timeout('The read operation timed out') | reason: 

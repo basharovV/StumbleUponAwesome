@@ -1,5 +1,5 @@
+https://gitter.im/reactjs/redux,Gitter,https://github.com/brillout/awesome-redux#readme,Redux
 http://redux.js.org/,,https://github.com/brillout/awesome-redux#readme,Redux
-https://devarchy.com/redux,devarchy.com/redux,https://github.com/brillout/awesome-redux#readme,Redux
 https://facebook.github.io/react/docs/advanced-performance.html,guide on performance,https://github.com/brillout/awesome-redux#readme,Redux
 http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/,post,https://github.com/brillout/awesome-redux#readme,Redux
 https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504,article,https://github.com/brillout/awesome-redux#readme,Redux
@@ -8,4 +8,3 @@ https://www.reddit.com/r/reduxjs/,Reddit,https://github.com/brillout/awesome-red
 http://stackoverflow.com/questions/tagged/redux,Stack Overflow,https://github.com/brillout/awesome-redux#readme,Redux
 https://discord.gg/0ZcbPKXt5bZ6au5t,Discord,https://github.com/brillout/awesome-redux#readme,Redux
 http://slack.redux.io/,Slack,https://github.com/brillout/awesome-redux#readme,Redux
-https://gitter.im/reactjs/redux,Gitter,https://github.com/brillout/awesome-redux#readme,Redux

@@ -1,0 +1,99 @@
+https://en.wikipedia.org/wiki/Mirai_(malware),Mirai,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://gitlab.com/expliot_framework/expliot,EXPLIoT,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://fkie-cad.github.io/FACT_core/,FACT - The Firmware Analysis and Comparison Tool,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/,Improving your firmware security analysis process with FACT,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://gitlab.com/invuls/iot-projects/iotsecfuzz,IoTSecFuzz,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://ghidra-sre.org/,Ghidra,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://srecord.sourceforge.net/,The SRecord package,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://openocd.org/,OpenOCD,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://dangerousprototypes.com/docs/Bus_Blaster,Bus Blaster,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter,UART,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://en.wikipedia.org/wiki/JTAG,JTAG,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://dangerousprototypes.com/docs/Bus_Pirate,Bus Pirate,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://int3.cc/products/the-shikra,Shikra,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.grandideastudio.com/jtagulator/,JTAGULATOR,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.saleae.com/,Saleae,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209,Ikalogic,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://hydrabus.com/hydrabus-1-0-specifications/,HydraBus,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://newae.com/chipwhisperer/,ChipWhisperer,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.segger.com/products/debug-probes/j-link/models/model-overview/,J-Link,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://greatscottgadgets.com/ubertoothone/,UberTooth One,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.adafruit.com/product/2269,Bluefruit LE Sniffer,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://apimote.com,ApiMote,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://freaklabsstore.com/index.php?main_page=product_info&cPath=22&products_id=219&zenid=fpmu2kuuk4abjf6aurt3bjnfk4,Freakduino,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/,RTL-SDR,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://greatscottgadgets.com/hackrf/,HackRF One,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://greatscottgadgets.com/yardstickone/,YardStick One,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.crowdsupply.com/lime-micro/limesdr,LimeSDR,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.nuand.com/bladerf-2-0-micro/,BladeRF 2.0,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.ettus.com/product-categories/usrp-bus-series/,USRP B Series,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.proxmark.com/,Proxmark 3 RDV4,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://chameleontiny.com/,ChamaleonMini,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://hydrabus.com/hydranfc-1-0-specifications/,HydraNFC,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.amazon.com/Fotios-Chantzis-ebook/dp/B085BVVSN6/,Practical IoT Hacking,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://nostarch.com/hardwarehacking,The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.apress.com/us/book/9781484242995,The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2,Hardware Security: A Hands-on Learning Approach,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://link.springer.com/book/10.1007/978-981-10-8447-8,Inside Radio: An Attack and Defense Guide,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook,IoT Penetration Testing Cookbook,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://nostarch.com/hardwarehackerpaperback,The Hardware Hacker: Adventures in Making and Breaking Hardware,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://nostarch.com/carhacking,The Car Hacker's Handbook: A Guide for the Penetration Tester,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://visio-for-engineers.blogspot.com/p/order.html,The Art of PCB Reverse Engineering,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://shop.oreilly.com/product/0636920033547.do,Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.mhprofessional.com/9780071827638-usa-hacking-exposed-wireless-third-edition-group,Hacking Wireless Exposed,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.taylorfrancis.com/books/9780429066900,Hardware Security: Design, Threats, and Safeguards,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.elsevier.com/books/the-firmware-handbook/ganssle/978-0-7506-7606-9,The Firmware Handbook (Embedded Technology),https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://nostarch.com/xboxfree,Hacking the XBOX,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.mdpi.com/1424-8220/19/19/4107,Detecting IoT Devices and How They Put Large Heterogeneous Networks at Security Risk,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://nebelwelt.net/publications/files/19DSN.pdf,BenchIoT: A Security Benchmark for the Internet of Things,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://alrawi.github.io/static/papers/alrawi_sok_sp19.pdf,SoK: Security Evaluation of Home-Based IoT Deployments,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://ieeexplore.ieee.org/abstract/document/8806725,Challenges in Designing Exploit Mitigations for Deeply Embedded Systems,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-1_Song_paper.pdf,PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.eurecom.fr/en/publication/5417/download/sec-publi-5417.pdf,What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=509271,Embedded Device Vulnerability Analysis Case Study Using Trommel,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://eprint.iacr.org/2017/625.pdf,How to Break Secure Boot on FPGA SoCs through Malicious Hardware,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://s3.eurecom.fr/docs/ifip17_costin.pdf,Towards Automated Classification of Firmware Images and Identification of Embedded Devices,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.thinkmind.org/download.php?articleid=securware_2016_2_10_30082,Embedded Security Testing with Peripheral Device Caching and Runtime Program State Approximation,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf,Towards Automated Dynamic Analysis for Linux-based Embedded Firmware,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://s3.eurecom.fr/docs/asiaccs16_costin.pdf,Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf,Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf,Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.eurecom.fr/en/publication/4158/download/rs-publi-4158.pdf,Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://ieeexplore.ieee.org/document/6903734/,Analysis of embedded applications by evolutionary fuzzing,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf,A Large-Scale Analysis of the Security of Embedded Firmwares,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf,FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://cyber-itl.org/2019/08/26/iot-data-writeup.html,Binary Hardening in IoT products,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.devttys0.com/2014/02/cracking-linksys-crypto/,Cracking Linksys “Encryption”,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://youtu.be/nXyglaY9N9w,Deadly Sins Of Development,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html,Dumping firmware from a device's SPI flash with a buspirate,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.devttys0.com/2014/05/hacking-the-dspw215-again/,Hacking the DSP-W215, Again,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://cturt.github.io/ps4.html,Hacking the PS4,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://doi.org/10.5281/zenodo.1035034,IoT Security@CERN,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html,Multiple vulnerabilities found in the D-link DWR-932B,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html,Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf,PWN Xerox Printers (...again),https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html,Reversing Firmware With Radare,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/,Reversing the Huawei HG533,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://microcorruption.com,Embedded Security CTF,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://hacking-printers.net/wiki/index.php/Main_Page,Hacking Printers Wiki,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://owasp.org/www-project-embedded-application-security/,OWASP Embedded Application Security Project,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://owasp.org/www-project-internet-of-things/,OWASP Internet of Things Project,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://192-168-1-1ip.mobi/default-router-passwords-list/,Router Passwords,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://siliconpr0n.org/,Siliconpr0n,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.rtl-sdr.com/,RTL-SDR,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.devttys0.com/blog/,/dev/ttyS0's Embedded Device Hacking,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.exploitee.rs/,Exploiteers,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://jcjc-dev.com/,jcjc's Hack The World,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://blog.quarkslab.com/,Quarkslab,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://wrongbaud.github.io/,wrong baud,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://firmwaresecurity.com/,Firmware Security,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.pentestpartners.com/internet-of-things/,PenTestPartners,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://blog.attify.com/,Attify,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://payatu.com/blog,Patayu,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://gracefulsecurity.com/category/hardware/,GracefulSecurity - Hardware tag,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.blackhillsinfosec.com/tag/hardware-hacking/,Black Hills - Hardware Hacking tag,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://azeria-labs.com/,Azeria Lab,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://blog.senr.io/blog/jtag-explained,JTAG Explained,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/,Reverse Engineering Serial Ports,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://www.mikroe.com/blog/uart-serial-communication,UART explained,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security
+https://hardwear.io/,Hardwear.io,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security

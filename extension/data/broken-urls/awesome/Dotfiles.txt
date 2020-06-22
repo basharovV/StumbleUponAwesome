@@ -1,0 +1,1 @@
+https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e,article,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles error: <HTTPError 410: 'Gone'> | reason: Gone

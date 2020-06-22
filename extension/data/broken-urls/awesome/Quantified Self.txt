@@ -1,0 +1,8 @@
+https://amiigo.com/,Amiigo,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://jawbone.com/up,Jawbone UP,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://quantifiedself.com/qs-access-app/,QS Access,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.cardiio.com/,Cardiio,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://secure-nikeplus.nike.com/plus/what_is_fuel/,Nike Fuel,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 410: 'Gone'> | reason: Gone
+https://quantifyme.io/,Wearables Table,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://ubiome.com/,uBiome,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://exist.io/,Exist,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: timeout('The read operation timed out') | reason: 

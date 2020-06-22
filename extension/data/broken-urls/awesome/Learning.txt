@@ -1,0 +1,1 @@
+http://cberr.us/tech_writings/notes/common_lisp_standard_draft.html,The ANSI Common Lisp Standard Draft,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

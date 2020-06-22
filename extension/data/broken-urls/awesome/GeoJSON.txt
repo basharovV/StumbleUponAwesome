@@ -1,0 +1,4 @@
+http://www.macwright.org/strava-geojson/,on the web,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://wiki.fasterxml.com/JacksonHome,Jackson,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://geojson.win,geojson.win,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://google-developers.appspot.com/maps/documentation/utils/geojson/,simple geojson editor,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 404: 'Not Found'> | reason: Not Found

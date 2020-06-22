@@ -1,0 +1,5 @@
+https://ctf.isis.poly.edu/,CSAW CTF,https://github.com/carpedm20/awesome-hacking#readme,Hacking error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+http://www.plaidctf.com/,Pliad CTF,https://github.com/carpedm20/awesome-hacking#readme,Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://crackmes.de/,Crackmes.de,https://github.com/carpedm20/awesome-hacking#readme,Hacking error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://tuts4you.com/download.php?list.17,Lenas Reversing for Newbies,https://github.com/carpedm20/awesome-hacking#readme,Hacking error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://exploit-exercises.com/nebula/,Exploit Exercises - Nebula,https://github.com/carpedm20/awesome-hacking#readme,Hacking error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

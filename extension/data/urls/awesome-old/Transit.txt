@@ -1,0 +1,155 @@
+https://developers.google.com/transit/gtfs/,GTFS,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://developers.google.com/transit/gtfs-realtime/,GTFS Realtime,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://openmobilitydata.org/,OpenMobilityData,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping,World Bank - "Intro. to GTFS" online course,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitdatatoolkit.com/,Open Transit Data Toolkit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitwiki.org,TransitWiki,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://mobilitydata-io.herokuapp.com/,MobilityData Slack chat,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://groups.google.com/group/onebusaway-users,OneBusAway User mailing list,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://groups.google.com/group/onebusaway-developers,OneBusAway Developers mailing list,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://groups.google.com/group/onebusaway-api,OneBusAway API mailing list,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://onebusaway.herokuapp.com/,OneBusAway Slack chat,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://transittechies.nyc/,Transit Techies NYC,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://transittechies.nyc/past,Speaker list,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://transit.land/,Transitland,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://openmobilitydata.org/search?q=gtfsrt,GTFS-RT,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://openmobilitydata.org/p/capital-metro/24,Archives and validates,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://openmobilitydata.org/p/capital-metro/24/latest,GTFS,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://openmobilitydata.org/p/capital-metro/495,GTFS-RT,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.gtfs-data-exchange.com/agencies,GTFS Data Exchange (Deprecated),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.transit.dot.gov/ntd,National Transit Database (USA),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://transport.data.gouv.fr/,Transport (France),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.transportapi.com/,Transport API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://market.mashape.com/transloc/openapi-1-2,TransLoc OpenAPI,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf,NextBus API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.navitia.io/,Navitia.io,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://api.citybik.es,CityBikes,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://onebusaway.org/,OneBusAway,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html,REST API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.opentripplanner.org/,OpenTripPlanner,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.openstreetmap.org/,OpenStreetMap,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://thetransitclock.org,TransitClock,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://linkedconnections.org/,Linked Connections,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.transicast.com/,TransiCast,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://code.google.com/archive/p/rasa/,Google Code,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.transitcast.com,www.transitcast.com,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.transicast.com/coststructure.html,requires payment,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://getremix.com/,Remix,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://camsys.software/products/transam,TransAM,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://camsys.software/products/ridepilot,Cambridge Systematics's marketing site,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://metrotransitmn.shinyapps.io/route-trends/,webapp,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://otexts.com/fpp2/stl.html,STL methodology,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.metrotransit.org/,Metro Transit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://tbest.org/,TBEST,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitscreen.com/,TransitScreen,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://instabus.org,Instabus,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://realtimemap.mta.maryland.gov/hiwire?.a=iRealTimeDisplay,Maryland MTA Real-time Vehicle Tracking,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.opentripplanner.org/otp-ui,Storybook,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://bikes.oobrien.com/,Bikeshare Map,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://ebongo.org,Bongo,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://jpwright.net/subway/,Brand New Subway,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://citymapper.com/nyc,CityMapper Webapp,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://developers.google.com/maps/pricing-and-plans/,Google Maps APIs Premium Plan license,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://yourstop.info,YourStop,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://camsys.software/products/1-click,1-Click,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.bustime.ru,Bustime,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://dcmetrohero.com,DC MetroHero,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://nationalrtap.org/Web-Apps/GTFS-Builder,GTFS Builder,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot,Android,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot,Fire Phone,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://itunes.apple.com/us/app/onebusaway/id329380089,iOS,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9,Windows Phone,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc,Windows 8,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/,Alexa skill,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://gitlab.com/oeffi/oeffi,Offi Directions,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.allyapp.com/,ally,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitapp.com/,Transit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://citymapper.com/,CityMapper,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://moovitapp.com/,Moovit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.tiramisutransit.com/,Tiramisu Transit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://translocrider.com/,TransLoc Rider,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitdisplay.com/,Transit Display,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://mbtaviz.github.io/,Visualizing MBTA Data,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://mittransportanalyst.github.io/,MIT COAXS,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.opentripplanner.org/analyst/,OpenTripPlanner Analyst,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://tracker.geops.ch/,TRAVIC Transit Visualization Client,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.tyleragreen.com/maps/new_york/,MTA Frequency,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://traze.app/,Traze,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.veridict.com,Veridict,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.livemap24.com,Livemap24,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://apps.phor.net/septa/,SEPTA Rail OTP Report,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://all-transit.com,All Transit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.mapnificent.net/,Mapnificent,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://totx.sidewalklabs.com/,here,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://developers.google.com/transit/gtfs/?hl=es,Español,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://developers.google.com/transit/gtfs/?hl=fr,Français,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://gtfs.org/best-practices/,GTFS Best Practices,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://sequelizejs.com/,sequelize.js,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.gtfs-data-exchange.com/,GTFS Data Exchange,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.chouette.mobi/,Chouette,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transloc.com/,TransLoc,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://naptan.dft.gov.uk/transxchange/documentation.htm,UK standard format,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://bison.connekt.nl/standaarden/,Netherland standard format,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://netex-cen.eu/,European standard format,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://developers.google.com/maps/documentation/directions/,Google Maps Directions API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.vagrantup.com/,Vagrant,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://static-gtfs-manager.herokuapp.com/,here,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitwand.com/,TransitWand,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://gtfs.pleasantprogrammer.com,GTFS.html,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://en.wikipedia.org/wiki/Fork_(software_development),fork,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://cran.r-project.org/,CRAN,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://specs.frictionlessdata.io/data-packages/,Data Package specification,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://goodtables.okfnlabs.org/,Good Tables,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://gtfsvalidator.omnimodal.io,Web GTFS Meta-Validator (hosted by Omni),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://mobilitydata.org/,MobilityData,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.mecatran.com/,Mecatran,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://laidig.github.io/gtfs-rt-autodoc/index.html,GTFS-realtime Autodoc,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://user47094.vs.easily.co.uk/siri/,SIRI format,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://nextbus.cubic.com/Products/Real-Time-Rider-Information,Cubic site,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.syncromatics.com/,Syncromatics API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68,BusPositions API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?,MetroAlerts,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.septa.org/,SEPTA's,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www3.septa.org/hackathon/,real-time bus and rail data,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.transitchicago.com/,CTA's,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.transitchicago.com/developers/traintracker.aspx,Train Tracker data,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules,DDOT's,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.montgomerycountymd.gov/dot-transit/,Ride On's,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.soundtransit.org/,Sound Transit,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.kcata.org/,KCATA’s,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://munin-monitoring.org/,Munin,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.nagios.org/,Nagios,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://laidig.github.io/siri-20-java/doc/,SIRI 2.0 Autodoc,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://metro.kingcounty.gov/,King County Metro's,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://bustime.mta.info/wiki/Developers/SIRIIntro,MTA Bus Time API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.cen.eu/work/ENdev/how/Pages/default.aspx,CEN standards process,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://nabsa.net/,North American Bikeshare Association (NABSA),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.vta.org/,Santa Clara Valley Transportation Authority,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://articles.sae.org/15799/,SAE Shared and Digital Mobility Committee,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.allianceforparkingdatastandards.org/,Alliance for Parking Data Standards (APDS),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.parking.org/,International Parking Institute (IPI),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.britishparking.co.uk/,British Parking Association (BPA),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.europeanparking.eu/,European Parking Association (EPA),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.allianceforparkingdatastandards.org/resources,here,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://maas-api.org/,Mobility as a Service API,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120,TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543,NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated),https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/,General Travel Network Specification,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://kurtraschke.com/2015/01/legacy-avl-export,"Legacy AVL system? It's okay, join the club." by Kurt Raschke,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://medium.com/@sjbarbeau/gtfs-best-practices-now-available-88ac67194233,"GTFS Best Practices now available!" by Sean Barbeau,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://medium.com/@sjbarbeau/whats-new-in-gtfs-realtime-v2-0-cd45e6a861e9,"What's new in GTFS-realtime v2.0" by Sean Barbeau,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://transitdata.net/avl-cad-and-real-time-passenger-info-for-beginners/,"AVL, CAD, and Real-Time Passenger Info for Beginners" by Tony Laidig,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://medium.com/@stevepepple/visualizing-better-transportation-data-tools-e48b8317a21c,"Visualizing Better Transportation: Data & Tools" by Steve Pepple,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.sciencedirect.com/science/article/pii/S0968090X12000022,Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago",https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf,Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems",https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.sciencedirect.com/science/article/pii/S0965856411001030,Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders",https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.sciencedirect.com/science/article/pii/S0965856414002146,Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.sciencedirect.com/science/article/pii/S0968090X15000297,Brakewood et al. - "The impact of real-time information on bus ridership in New York City",https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf,APTA Policy Development and Research - Public Transportation Embracing Open Data,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf,TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml,Vendors Providing GTFS Creation/Maintenance services,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://goo.gl/forms/YDbPSPmufS,here,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml,Entities Providing Transportation Software Development Consulting Services,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://goo.gl/forms/cc6kcVERuP,here,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+https://www.cutr.usf.edu/,Center for Urban Transportation Research,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit
+http://www.usf.edu/,University of South Florida,https://github.com/CUTR-at-USF/awesome-transit#readme,Transit

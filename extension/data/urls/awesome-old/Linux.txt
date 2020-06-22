@@ -1,0 +1,78 @@
+http://awesome.re,,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://elementary.io/,elementary OS,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://getfedora.org/,Fedora,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://linuxmint.com/,Linux Mint,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.ubuntu.com/,Ubuntu,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.centos.org/,CentOS,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.mageia.org/,Mageia,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.opensuse.org/,openSUSE,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.kali.org/,Kali Linux,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://puppylinux.org/,Puppy Linux,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://ubuntustudio.org/,Ubuntu Studio,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://tails.boum.org/index.en.html,Tails,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.goodreads.com/book/show/11724436-the-linux-command-line,The Linux Command Line,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas,The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://debian-handbook.info/get/now/,FREE,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1,Introduction to Linux (LFS101x-1),https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS,Linux Alternatives to Windows Applications,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.slideshare.net/a_z_e_t/inpresentation,Beautiful Bash: Let's make reading and writing bash scripts fun again!,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://kvz.io/blog/2013/11/21/bash-best-practices/,Best Practices for Writing Bash Scripts,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/,Linux Fu: Better Bash Scripting,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://linux.die.net/Bash-Beginners-Guide/,Bash Guide for Beginners,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://linux.die.net/abs-guide/,Advanced Bash-Scripting Guide,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.gnome.org,GNOME,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.xfce.org/,Xfce,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://lxde.org/,LXDE,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://developer.linuxmint.com/projects/cinnamon-projects.html,Cinnamon,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://edeproject.org/,EDE,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://lxqt.org/,LXQt,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.mate-desktop.org/,MATE,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://elementary.io,Pantheon,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://unauthorised.org/dhog/9wm.html,9wm,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://launchpad.net/compiz,Compiz,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://dwm.suckless.org/,dwm,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.enlightenment.org/,Enlightenment,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.fluxbox.org/,Fluxbox,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://fvwm.org/,FVWM,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://i3wm.org/,i3,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://ice-wm.org/,IceWM,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.joewing.net/projects/jwm/,JWM,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.yoctoproject.org/software-item/matchbox/,Matchbox,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://download.gnome.org/sources/mutter/,Mutter,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://openbox.org/wiki/Main_Page,Openbox,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.nongnu.org/ratpoison/,ratpoison,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://sawfish.tuxfamily.org/,Sawfish,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://code.google.com/p/wmii/,wmii,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://xmonad.org/,xmonad,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://wiki.gnome.org/Apps/Evince,Evince,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://wiki.gnome.org/Apps/Gedit,Gedit,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://wiki.gnome.org/Apps/Polari,Polari,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://wiki.gnome.org/Apps,https://wiki.gnome.org/Apps,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://manuel-kehl.de/projects/go-for-it/,Go For It!,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://parnold-x.github.io/nasc/,NaSC,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://vocalproject.net/,Vocal,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://quassy.github.io/elementary-apps/,elementary-apps,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.kde.org/applications/,https://www.kde.org/applications/,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://wereturtle.github.io/ghostwriter/,ghostwriter,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://gparted.sourceforge.io/,GParted,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://pwmt.org/projects/zathura/,Zathura,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://corebird.baedert.org/,Corebird,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://launchpad.net/y-ppa-manager,Y PPA Manager,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://fedoraproject.org/wiki/Tools/pirut,pirut,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.nongnu.org/synaptic/,Synaptics,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://en.opensuse.org/YaST_Software_Management,YaST,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://wiki.archlinux.org/index.php/AUR_helpers,here,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://appimage.org/,AppImage,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://nicolargo.github.io/glances/,glances,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://hisham.hm/htop/,htop,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.nano-editor.org,nano,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.cgsecurity.org/wiki/PhotoRec,photorec,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.speedtest.net/,speedtest.net,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://vim.org,vim,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://computefreely.org/,Compute Freely,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.linuxfoundation.org/,Linux Foundation,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.linux.com/,Linux.com,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://www.linux.org/,Linux.org,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://www.kernel.org/,Kernel.org,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+http://opensource.com,Opensource.com,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux
+https://linux.die.net/,Linux.die,https://github.com/aleksandar-todorovic/awesome-linux#readme,Linux

@@ -1,0 +1,3 @@
+https://chat.lisp.cl/,chat.lisp.cl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://jasom.github.io/clack-tutorial/pages/getting-started-with-clack/,getting started guide,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ide.judge0.com/?lUpj,Judge0 IDE,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable

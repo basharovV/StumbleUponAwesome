@@ -1,0 +1,4 @@
+https://wiki.apache.org/hadoop/SequenceFile,SequenceFile,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering error: <HTTPError 404: ''> | reason: 
+https://www.kontena.io/,Kontena,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://xyz.insightdataengineering.com/blog/pipeline_map.html,The Data Engineering Ecosystem: An Interactive Map,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.h2o.ai/,H2O,https://github.com/igorbarinov/awesome-data-engineering#readme,Data Engineering error: timeout('The read operation timed out') | reason: 

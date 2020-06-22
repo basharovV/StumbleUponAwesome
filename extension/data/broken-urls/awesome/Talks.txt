@@ -1,0 +1,3 @@
+http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask,The Actor Model,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.yuiblog.com/blog/2010/05/20/video-dahl/,Introduction to Node.js,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://vimeo.com/97329157,Seven Ineffective Coding Habits of Many Programmers,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: timeout('The read operation timed out') | reason: 

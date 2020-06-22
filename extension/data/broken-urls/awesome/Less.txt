@@ -1,0 +1,24 @@
+https://codepen.io/eky/pen/dCmnp,Border Radiuses Mixin,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://codepen.io/bitmap/pen/eBbHt,CSS3 Color Wheel,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://codepen.io/ericrasch/pen/uGlvA,DEMO: Variables,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://demo-iless.rhcloud.com/,ILess,https://github.com/LucasBassetti/awesome-less#readme,Less error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://codepen.io/octavioamu/pen/zJexw,Easy Buttons,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://codepen.io/eky/pen/eAnCI,Linear Gradient Mixin,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://codepen.io/lukasdietrich/pen/mkeAJ,Navbar,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://less2css.org/,Less2CSS,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://codepen.io/mecarter/pen/idKqg,Responsive Grid,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://chrsr.com/css3lessplease/,Css3LessPlease,https://github.com/LucasBassetti/awesome-less#readme,Less error: timeout('timed out') | reason: 
+http://www.lesscss.de,German,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://codepen.io/ericrasch/pen/rndaF,Sizable CSS-only Icons,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://codepen.io/eky/pen/AaCwF,Triangle / Arrow Mixin,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://bertzzie.com/post/7/dokumentasi-less-bahasa-indonesia,Indonesian,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 526: 'Origin SSL Certificate Error'> | reason: Origin SSL Certificate Error
+https://codepen.io/tag/less/,More...,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://less-ja.studiomohawk.com/,Japanese,https://github.com/LucasBassetti/awesome-less#readme,Less error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://precess.co/,Precess,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://less.eten.vn/,Vietnamese,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.packtpub.com/web-development/instant-less-css-preprocessor-how-instant,Instant Less CSS Preprocessor How-to,https://github.com/LucasBassetti/awesome-less#readme,Less error: timeout('The read operation timed out') | reason: 
+http://getcrunch.co/,Crunch 2!,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://pdf.th7.cn/down/files/1508/Less%20Web%20Development%20Essentials,%202nd%20Edition.pdf,Less Web Development Essentials,https://github.com/LucasBassetti/awesome-less#readme,Less error: timeout('timed out') | reason: 
+https://www.packtpub.com/web-development/learning-lessjs,Learning Less,https://github.com/LucasBassetti/awesome-less#readme,Less error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/learning-less-video,Learning Less,https://github.com/LucasBassetti/awesome-less#readme,Less error: timeout('The read operation timed out') | reason: 
+https://codepen.io/MamayAlexander/pen/aAsiq,3D Buttons,https://github.com/LucasBassetti/awesome-less#readme,Less error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable

@@ -1,0 +1,9 @@
+http://www2.research.att.com/~fsmtools/fsm/,AT&T FSM Library,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 400: 'Bad Request'> | reason: Bad Request
+http://www.mmk.ei.tum.de/publ/pdf/14/14wen7.pdf,paper,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://opendcd.org/,OpenDcd,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+http://research.microsoft.com/en-us/projects/scarf/,SCARF: A Segmental CRF Toolkit for Speech Recognition,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html,SFST - Stuttgart Finite State Transducer Tools,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://stanford.edu/class/ee103/mma.pdf,Introduction to Matrix Methods and Applications,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://homepages.inf.ed.ac.uk/lzhang10/maxent.html,Maximum Entropy Modeling,https://github.com/edobashira/speech-language-processing#readme,Speech and Natural Language Processing error: <HTTPError 404: 'Not Found'> | reason: Not Found

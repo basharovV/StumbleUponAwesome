@@ -1,47 +1,46 @@
-https://preactjs.com,,https://github.com/preactjs/awesome-preact#readme,Preact
-https://preactjs.com/about/we-are-using,Real Apps,https://github.com/preactjs/awesome-preact#readme,Preact
-https://preact-slack.now.sh,Slack,https://github.com/preactjs/awesome-preact#readme,Preact
-https://stackoverflow.com/questions/tagged/preact,Stack Overflow,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-compat,Preact Compat,https://github.com/preactjs/awesome-preact#readme,Preact
-http://git.io/preact-compat-example,full example,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-render-to-string,Preact Render To String,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-markup,Preact Markup,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-portal,Preact Portal,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-richtextarea,Preact Richtextarea,https://github.com/preactjs/awesome-preact#readme,Preact
-https://jsfiddle.net/developit/qqan9pdo/,demo,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-cycle,Preact Cycle,https://github.com/preactjs/awesome-preact#readme,Preact
-https://download.github.io/preact-layout/,Preact Layout,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/v1aVO,Preact MUI,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-mdl,Preact MDL,https://github.com/preactjs/awesome-preact#readme,Preact
-https://getmdl.io,MDL,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-photon,Preact Photon,https://github.com/preactjs/awesome-preact#readme,Preact
-http://photonkit.com,photon,https://github.com/preactjs/awesome-preact#readme,Preact
-https://proppyjs.com,ProppyJS - A tiny library for functional props composition,https://github.com/preactjs/awesome-preact#readme,Preact
-https://git.io/preact-jsx-chai,Preact JSX Chai,https://github.com/preactjs/awesome-preact#readme,Preact
 https://jasonformat.com/wtf-is-jsx/,WTF is JSX,https://github.com/preactjs/awesome-preact#readme,Preact
-https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf,The Inner Workings of Virtual DOM,https://github.com/preactjs/awesome-preact#readme,Preact
-https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c,Using Preact Instead of React,https://github.com/preactjs/awesome-preact#readme,Preact
-https://dandenney.com/posts/front-end-dev/building-a-small-pwa-with-preact-and-firebase,Building a Small PWA with Preact and Firebase,https://github.com/preactjs/awesome-preact#readme,Preact
-https://auth0.com/blog/preact-authentication-tutorial,Authentication with Auth0,https://github.com/preactjs/awesome-preact#readme,Preact
-https://code-and-comment.github.io/code-and-comment/,demo,https://github.com/preactjs/awesome-preact#readme,Preact
-https://play.cash,Play.cash,https://github.com/preactjs/awesome-preact#readme,Preact
-https://www.songsterr.com,Songsterr,https://github.com/preactjs/awesome-preact#readme,Preact
-https://bitmidi.com/,BitMidi,https://github.com/preactjs/awesome-preact#readme,Preact
-https://www.ultimate-guitar.com,Ultimate Guitar,https://github.com/preactjs/awesome-preact#readme,Preact
+https://preactjs.com,,https://github.com/preactjs/awesome-preact#readme,Preact
 http://esbench.com,ESBench,https://github.com/preactjs/awesome-preact#readme,Preact
+https://preact-journal.herokuapp.com/,Journalize,https://github.com/preactjs/awesome-preact#readme,Preact
+https://jsfiddle.net/developit/qqan9pdo/,demo,https://github.com/preactjs/awesome-preact#readme,Preact
+https://proxx.app,Proxx,https://github.com/preactjs/awesome-preact#readme,Preact
+https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf,The Inner Workings of Virtual DOM,https://github.com/preactjs/awesome-preact#readme,Preact
 https://bigwebquiz.com,BigWebQuiz,https://github.com/preactjs/awesome-preact#readme,Preact
 http://nectarine.rocks,Nectarine.rocks,https://github.com/preactjs/awesome-preact#readme,Preact
-https://oss.ninja,OSS.Ninja,https://github.com/preactjs/awesome-preact#readme,Preact
-https://gurivr.com,GuriVR,https://github.com/preactjs/awesome-preact#readme,Preact
-https://use-the-platform.com/offline-gallery/,Offline Gallery,https://github.com/preactjs/awesome-preact#readme,Preact
-https://use-the-platform.com/periodic-weather/,Periodic Weather,https://github.com/preactjs/awesome-preact#readme,Preact
-http://nbrugby.com,Rugby News Board,https://github.com/preactjs/awesome-preact#readme,Preact
-https://preact.gallery/,Preact Gallery,https://github.com/preactjs/awesome-preact#readme,Preact
-https://use-the-platform.com/rainbow-explorer/,Rainbow Explorer,https://github.com/preactjs/awesome-preact#readme,Preact
-https://preact-journal.herokuapp.com/,Journalize,https://github.com/preactjs/awesome-preact#readme,Preact
-https://proxx.app,Proxx,https://github.com/preactjs/awesome-preact#readme,Preact
 https://webmaker.app,Web Maker,https://github.com/preactjs/awesome-preact#readme,Preact
+https://preactjs.com/about/we-are-using,Real Apps,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-cycle,Preact Cycle,https://github.com/preactjs/awesome-preact#readme,Preact
+https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c,Using Preact Instead of React,https://github.com/preactjs/awesome-preact#readme,Preact
+https://oss.ninja,OSS.Ninja,https://github.com/preactjs/awesome-preact#readme,Preact
 https://www.intergram.xyz,Intergram,https://github.com/preactjs/awesome-preact#readme,Preact
+https://preact-slack.now.sh,Slack,https://github.com/preactjs/awesome-preact#readme,Preact
+https://gurivr.com,GuriVR,https://github.com/preactjs/awesome-preact#readme,Preact
+https://download.github.io/preact-layout/,Preact Layout,https://github.com/preactjs/awesome-preact#readme,Preact
+https://stackoverflow.com/questions/tagged/preact,Stack Overflow,https://github.com/preactjs/awesome-preact#readme,Preact
+https://use-the-platform.com/offline-gallery/,Offline Gallery,https://github.com/preactjs/awesome-preact#readme,Preact
 https://vanilla-preact.surge.sh,Preact App in ES6 without Babel or JSX,https://github.com/preactjs/awesome-preact#readme,Preact
 https://code2k.github.io/ghfresh/,GHFresh,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/v1aVO,Preact MUI,https://github.com/preactjs/awesome-preact#readme,Preact
 https://passwords-fountain.com/,Passwords Fountain,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-compat,Preact Compat,https://github.com/preactjs/awesome-preact#readme,Preact
+http://nbrugby.com,Rugby News Board,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-mdl,Preact MDL,https://github.com/preactjs/awesome-preact#readme,Preact
+https://dandenney.com/posts/front-end-dev/building-a-small-pwa-with-preact-and-firebase,Building a Small PWA with Preact and Firebase,https://github.com/preactjs/awesome-preact#readme,Preact
+https://preact.gallery/,Preact Gallery,https://github.com/preactjs/awesome-preact#readme,Preact
+https://getmdl.io,MDL,https://github.com/preactjs/awesome-preact#readme,Preact
+https://use-the-platform.com/rainbow-explorer/,Rainbow Explorer,https://github.com/preactjs/awesome-preact#readme,Preact
+http://git.io/preact-compat-example,full example,https://github.com/preactjs/awesome-preact#readme,Preact
+https://auth0.com/blog/preact-authentication-tutorial,Authentication with Auth0,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-photon,Preact Photon,https://github.com/preactjs/awesome-preact#readme,Preact
+http://photonkit.com,photon,https://github.com/preactjs/awesome-preact#readme,Preact
+https://code-and-comment.github.io/code-and-comment/,demo,https://github.com/preactjs/awesome-preact#readme,Preact
+https://proppyjs.com,ProppyJS - A tiny library for functional props composition,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-render-to-string,Preact Render To String,https://github.com/preactjs/awesome-preact#readme,Preact
+https://play.cash,Play.cash,https://github.com/preactjs/awesome-preact#readme,Preact
+https://www.songsterr.com,Songsterr,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-jsx-chai,Preact JSX Chai,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-markup,Preact Markup,https://github.com/preactjs/awesome-preact#readme,Preact
+https://bitmidi.com/,BitMidi,https://github.com/preactjs/awesome-preact#readme,Preact
+https://www.ultimate-guitar.com,Ultimate Guitar,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-portal,Preact Portal,https://github.com/preactjs/awesome-preact#readme,Preact
+https://git.io/preact-richtextarea,Preact Richtextarea,https://github.com/preactjs/awesome-preact#readme,Preact

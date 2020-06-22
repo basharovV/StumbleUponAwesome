@@ -1,0 +1,8 @@
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/networking/filter.txt,linux/Documentation/networking/filter.txt,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: <HTTPError 404: 'Not found'> | reason: Not found
+https://blogs.oracle.com/linux/notes-on-bpf-5,The BPF Bytecode and the BPF Verifier,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: timeout('The read operation timed out') | reason: 
+https://blogs.oracle.com/linux/notes-on-bpf-6,Using BPF to do Packet Transformation,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: timeout('The read operation timed out') | reason: 
+https://events.linuxfoundation.org/sites/events/files/slides/iovisor-lc-bof-2016.pdf,BoF - What Can BPF Do For You?,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blogs.oracle.com/linux/notes-on-bpf-1,A Tour of Program Types,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: timeout('The read operation timed out') | reason: 
+https://blogs.oracle.com/linux/notes-on-bpf-2,BPF helper functions,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: timeout('The read operation timed out') | reason: 
+https://blogs.oracle.com/linux/notes-on-bpf-3,Communicating with Userspace,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: timeout('The read operation timed out') | reason: 
+https://blogs.oracle.com/linux/notes-on-bpf-4,Building BPF Programs,https://github.com/zoidbergwill/awesome-ebpf#readme,eBPF error: timeout('The read operation timed out') | reason: 

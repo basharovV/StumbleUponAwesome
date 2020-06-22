@@ -1,0 +1,41 @@
+http://www.speechocean.com/en-ASR-Corpora/631.html,Mexican Spanish Speech Recognition DB - 150 Speakers,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.speechocean.com/en-ASR-Corpora/603.html,Mexican Spanish Speech Recognition DB - 299 Speakers,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.speechocean.com/en-Text-Corpora/692.html,Phonetic Transcriptions of Spanish Pronunciation Lexicon,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.speech.cs.cmu.edu/sphinx/models/hub4spanish_itesm/,Sphinx Speech Recognition Models,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/,TreeTagger - POSTagger,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://nlp.stanford.edu/software/tagger.shtml,Stanford - POSTagger,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://nlp.lsi.upc.edu/freeling/,Freeling,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+https://code.google.com/p/spaghetti-tagger/,Spaguetti POSTagger(Based on NLTK +  CESS corpus,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://opennlp.sourceforge.net/models-1.5/,OpenNLP - Person/Place/Organization models,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://gramatica.usc.es/pln/tools/CitiusTools.html,CitiusTagger - Spanish NER and  POSTagger,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.statmt.org/wmt06/shared-task/,Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://ufal.mff.cuni.cz/conll2009-st/trial-data.html,CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.quest.dcs.shef.ac.uk/wmt13_qe.html,Quality Estimation (Spanish - English) WMT13,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.statmt.org/wmt10/translation-task.html,ACL 2010 in Uppsala - Shared Task: Machine Translation for European Languages,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.daedalus.es/TASS2014/tass2014.php,TASS - 2014 (Sentiment Analysis focused on Spanish),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://semeval2.fbk.eu/semeval2.php?location=tasks,SemEval-2 2010 Coreference Resolution in Multiple Languages,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://sabcorpus.linkeddata.es/,SAB Corpus (Spanish Corpus for Sentiment Analysis towards Brands),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://catalog.elra.info/product_info.php?products_id=636,Multilingual Aligned Annotated Corpus (CRATER),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://elvira.lllf.uam.es/~sandoval/UAMTreebank.html,UAM Treebank - 1,500 syntactically annotated sentences extracted from newspapers (El País Digital and Compra Maestra,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.elsnet.org/resources/eciCorpus.html,POSTagged/syntactic dependencies - European Corpus Initiative Multilingual Corpus I,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://sfncorpora.uab.es/CQPweb/cea/,The Corpus of Contemporary Spanish(POStags, lemmas),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms,Lemmas Dictionary,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen,esTenten Spanish (POSTagged),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.statmt.org/europarl/,Europarl Corpus (Parallel Corpus English-Spanish),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.iula.upf.edu/corpus/corpusuk.htm,Plurilingual Specific Corpus on Economics, Medicine, Computer Science,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://code.google.com/p/copenhagen-dependency-treebank/,Copenhagen  Treebank (Dependency Parsing),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.molinolabs.com/corpus.html,MolinoLabs Corpus - News Corpora from Spain, Argentina and Mexico,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora,PANACEA- Legislation Corpus,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora-n-grams/,PANACEA- Legislation Ngram Corpus,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/,PANACEA- Dependency Parsed Corpus,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-lexica/,PANACEA- Monolingual Lexica (MWE, Frames, Semantic Classes),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+https://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html,Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.celct.it/resources.php?id_page=CLTE,Cross Lingual Textual Entailment (CLTE) Corpus (English-Spanish),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://ngrams.cavorite.com/datos/,Ngram Frequencies out of Colombia News Corpora,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.investigacion.frc.utn.edu.ar/mslabs/~jcastillo/Sagan-test-suite/,Sagan Textual Entailment Test Suite,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://gramatica.usc.es/~marcos/corpora_nle.tgz,Garcia, Marcos and Pablo Gamallo, 2013 - Portuguese and Spanish biographical relation extraction corpora (Garcia, Marcos and Pablo Gamallo, 2013. Exploring the Effectiveness of Linguistic Knowledge for Biographical Relation Extraction. Natural Language Engineering, CJO2013. doi:10.1017/S1351324913000314.),https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://hpsg.fu-berlin.de/cow/,COW(Corpora From the Web) Ngram/Annotated People's Name Corpora,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://www.cs.upc.edu/~nlp/wikicorpus/,Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://crscardellino.me/SBWCE/,Spanish Billion Words Corpus with word2vec Embeddings,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://gramatica.usc.es/pln/tools/conjugador/download.html,Conshuga - Galician Verb conjugator,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish
+http://alejandro.pictures,David Przybilla,https://github.com/dav009/awesome-spanish-nlp#readme,Spanish

@@ -1,0 +1,13 @@
+http://www.emesn.com/autoitforum/,Spanish Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://teenyscript.tarre.nu/documentation,TeenyScript (by tarretarretarre),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://wordpress.org/plugins/crayon-syntax-highlighter/,Crayon Syntax Highlighter,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://www.autoitscript.com/forum/index.php?showtopic=77463,MemoryDll (by Ward),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://www.autoitscript.com/forum/index.php?showtopic=50880,ACL (by ptrex),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://www.autoitscript.com/forum/index.php?showtopic=100439,TTS (by Beege),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://www.autoitscript.com/forum/files/file/224-firefox-profile-backup/,FireFox Profile Backup 1.0 (by careca),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.autoitscript.com/forum/index.php?showtopic=81687,SNMP (by enaiman),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://www.autoitscript.com/forum/index.php?showtopic=145158,Firewall (by JLogan3o13),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://www.autoitscript.com/forum/index.php?showtopic=147325,MouseTrapEvent (by ozmike),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+https://crowdin.com/page/api,crowdin.net website API,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+http://forum.autoitbrasil.com/,Brazilian Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.autoitscript.com/forum/index.php?showtopic=90492,Hotkey.au3 (by Yashied),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 

@@ -1,94 +1,54 @@
-http://stackoverflow.com/a/2296538/1766338,Algorithm: Is there a good way of solving a comparison?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/Loah1,[1],https://github.com/cyberglot/awesome-answers#readme,Answers
-http://programmers.stackexchange.com/a/72779,[2],https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/LefWv,What all basic data structures and algorithms should one learn before starting competitive programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/07Px4,How can I be a guru in algorithms?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/13067807,Sorting 1 million 8 digit numbers in 1MB of RAM,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://programmers.stackexchange.com/a/145633,Which hashing algorithm is best for uniqueness and speed?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/dVwDk,Compilers: What is a supercompiler?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/QHYgb,Are new data structures still being invented in computer science?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/11227902,Why is processing a sorted array faster than an unsorted array?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures,What are some lesser known but useful data structures?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/9626334,What are the underlying data structures used for Redis?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/23193,What is a good beginning text on functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/QHK6v,In what ways are the major modern functional languages different from each other?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://cstheory.stackexchange.com/a/1550/32199,What's new in purely functional data structures since Okasaki?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/QHAOS,Can an operating system be written in a functional language?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/13241158/1766338,Why not be dependently typed?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/194207/1766338,What is a monad?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://math.stackexchange.com/a/30667,Learning Lambda Calculus,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://cs.stackexchange.com/a/3256/29071,Is Category Theory useful for learning functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming,When do you choose functional programming over object oriented? What are the typical problem definitions where functional programming is a better choice?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/4905458/1766338,Is there a software-engineering methodology for functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/dZWCp,Why don't monads violate the purely functional nature of languages?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/dZ97q,What is a sum type?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/L5HJB,Why do some people not like OOP and prefer functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/0HB14,What do Lisp/Haskell programmers think about Prolog?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/1030631/1766338,What is (functional) reactive programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/RsOnL9,What are some myths about functional programming and functional programming languages?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/RsOAjx,How can monads in computer science be viewed as special cases of monads in category theory?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/5878525/1766338,Specification for a Functional Reactive Programming language,https://github.com/cyberglot/awesome-answers#readme,Answers
 https://www.quora.com/What-are-some-myths-about-functional-programming-and-functional-programming-languages/answer/Tikhon-Jelvis,What are some myths about functional programming and functional programming languages?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/E8UPT,How can I become a world-class coder in under three years?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/q/2794016,What should every programmer know about security?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/k6Ekm,What are some basic concepts that every engineering student should know?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://programmers.stackexchange.com/q/46716,What technical details should a programmer of a web application consider before making the site public?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/dQTYn,How does one become a great coder?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/LefKC,We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain,Visually stunning math concepts which are easy to explain,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7PKwoT,If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/2021343/1766338,Common programming mistakes for Clojure developers to avoid,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7PKRiN,Why would someone learn Clojure?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/21763329/1766338,Why are Clojure's let and for both monads?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/388282/1766338,The Definitive C++ Book Guide and List,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/6445794/1104488,Can a local variable's memory be accessed outside its scope?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7vBEnF,Why do many C functions have an extra F?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function,What are the valid signatures for C's main() function?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/1016986/1766338,Getting started with Haskell,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://codereview.stackexchange.com/a/57850,Update Map in Haskell,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/d6vcE,I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/d6rhm,What are some crazy things one can do with monads in Haskell?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/Rsgfkx,Why do some programmers have difficulty in learning Haskell?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming,When do you choose functional programming over object oriented? What are the typical problem definitions where functional programming is a better choice?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures,What are some lesser known but useful data structures?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://cstheory.stackexchange.com/a/10929/32199,Uses of algebraic structures in theoretical computer science,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/12931785/1766338,JavaScript closures vs. anonymous functions,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/3429693,foldl is tail recursive, so how come foldr runs faster than foldl?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/21763329/1766338,Why are Clojure's let and for both monads?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/9626334,What are the underlying data structures used for Redis?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/2296538/1766338,Algorithm: Is there a good way of solving a comparison?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/4905458/1766338,Is there a software-engineering methodology for functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/1220118,What is your most productive shortcut with Vim?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/q/2794016,What should every programmer know about security?,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/13052612,Does Haskell have tail-recursive optimization?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/29489919,How can I tell if a string repeats itself in Python?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/388282/1766338,The Definitive C++ Book Guide and List,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/23193,What is a good beginning text on functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://www.catb.org/~esr/faqs/hacker-howto.html,How to become a Hacker?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/questions/101268/hidden-features-of-python,Python Hidden Features,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/13191289,Avoid Memory Leak / Usage Javascript,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://programmers.stackexchange.com/a/72779,[2],https://github.com/cyberglot/awesome-answers#readme,Answers
+http://programmers.stackexchange.com/q/46716,What technical details should a programmer of a web application consider before making the site public?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/6445794/1104488,Can a local variable's memory be accessed outside its scope?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/4969822/1766338,Ruby craziness: Class vs Object?,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/134149/1766338,How does “this” keyword work within a JavaScript object literal?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/28046731,Perform debounce in React.js,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/1030631/1766338,What is (functional) reactive programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/7244456,How to update GitHub forked repository?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function,What are the valid signatures for C's main() function?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain,Visually stunning math concepts which are easy to explain,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/13067807,Sorting 1 million 8 digit numbers in 1MB of RAM,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/1608546/1766338,Use of .apply() with 'new' operator. Is this possible?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://cstheory.stackexchange.com/a/1550/32199,What's new in purely functional data structures since Okasaki?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/14853974/1766338,Comparing two arrays in Javascript,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/1016986/1766338,Getting started with Haskell,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/9859966/565303,What is referential transparency?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://programmers.stackexchange.com/a/145633,Which hashing algorithm is best for uniqueness and speed?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/2021343/1766338,Common programming mistakes for Clojure developers to avoid,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/5878525/1766338,Specification for a Functional Reactive Programming language,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/383503/1766338,Is JavaScript's “new” keyword considered harmful?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/13241158/1766338,Why not be dependently typed?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://codereview.stackexchange.com/a/57850,Update Map in Haskell,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/7202287/1766338,Why does ++[[]][+[]]+[+[]] return the string “10”?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/11227902,Why is processing a sorted array faster than an unsorted array?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/1732454,Can I parse XHTML with Regex?,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/6375254/1766338,Is JavaScript 's “new” Keyword Considered Harmful (Part 2)?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/29416340,What are the actual uses of ES6 WeakMap?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://stackoverflow.com/a/194207/1766338,What is a monad?,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://cstheory.stackexchange.com/a/17870/32199,Research and open challenges in Programming Language Theory,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://math.stackexchange.com/a/30667,Learning Lambda Calculus,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/8096017/1766338,JavaScript inheritance and the constructor property,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://cs.stackexchange.com/a/458/29071,Why are there so many programming languages?,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/15461601/1766338,Inheritence of variable properties,https://github.com/cyberglot/awesome-answers#readme,Answers
 http://stackoverflow.com/a/572996/1766338,How does JavaScript .prototype work?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/12931785/1766338,JavaScript closures vs. anonymous functions,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/13191289,Avoid Memory Leak / Usage Javascript,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/28046731,Perform debounce in React.js,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/14853974/1766338,Comparing two arrays in Javascript,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7AymJb,How does bellard.org/jslinux work?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7PKALb,Will WebAssembly make Javascript skills more or less valuable in the future?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/7202287/1766338,Why does ++[[]][+[]]+[+[]] return the string “10”?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/Rsg6I0,Are functions like map(), reduce() and filter() already optimized for traversing array?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/29416340,What are the actual uses of ES6 WeakMap?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/QVSuX,Is PHP a badly designed programming language?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/RCkmhJ,Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/RCkmKa,What are killer Python tips which could make our coder lives more productive, easier and happier?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/RCkmoh,What are some of the best time-saving tips for Python?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/29489919,How can I tell if a string repeats itself in Python?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/questions/101268/hidden-features-of-python,Python Hidden Features,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/4969822/1766338,Ruby craziness: Class vs Object?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/QHArY,What makes a good programming language?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/9859966/565303,What is referential transparency?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://cstheory.stackexchange.com/a/17870/32199,Research and open challenges in Programming Language Theory,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://cs.stackexchange.com/a/458/29071,Why are there so many programming languages?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://cstheory.stackexchange.com/a/10929/32199,Uses of algebraic structures in theoretical computer science,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/Q973e,What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/QjpjD,Which programming concept do people usually find harder: loops or recursion?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/fgPsq,If you would create a new programming language, what would it look like?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7PKzmF,What is fascinating about dynamically-typed programming languages?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/7244456,How to update GitHub forked repository?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/1732454,Can I parse XHTML with Regex?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/L5FfY,How does a visually impaired computer programmer do programming?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/LO834,What are the best examples of software bugs that became features (a.k.a. misbugs)?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/0ILWY,What do the top 1% of software engineers do that the other 99% do not?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://qr.ae/7PyLkC,What are the current fads in computer science, IT and software engineering?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://stackoverflow.com/a/1220118,What is your most productive shortcut with Vim?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://www.catb.org/~esr/faqs/hacker-howto.html,How to become a Hacker?,https://github.com/cyberglot/awesome-answers#readme,Answers
-http://jugoncalv.es,Ju Gonçalves,https://github.com/cyberglot/awesome-answers#readme,Answers
+http://cs.stackexchange.com/a/3256/29071,Is Category Theory useful for learning functional programming?,https://github.com/cyberglot/awesome-answers#readme,Answers

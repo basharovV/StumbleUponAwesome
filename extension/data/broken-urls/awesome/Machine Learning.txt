@@ -1,0 +1,6 @@
+https://haifengl.github.io/smile/,Smile,https://github.com/josephmisiti/awesome-machine-learning#readme,Machine Learning error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.clips.ua.ac.be/pattern,Pattern,https://github.com/josephmisiti/awesome-machine-learning#readme,Machine Learning error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.aforgenet.com/framework/,AForge.NET,https://github.com/josephmisiti/awesome-machine-learning#readme,Machine Learning error: timeout('timed out') | reason: 
+https://bitbucket.org/nato/yanni/overview,Yanni,https://github.com/josephmisiti/awesome-machine-learning#readme,Machine Learning error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://imbalanced-learn.org/en/stable/index.html,imbalanced-learn,https://github.com/josephmisiti/awesome-machine-learning#readme,Machine Learning error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://nlp.stanford.edu/software/tmt,Stanford Topic Modeling Toolbox,https://github.com/josephmisiti/awesome-machine-learning#readme,Machine Learning error: <HTTPError 404: 'NOT FOUND'> | reason: NOT FOUND

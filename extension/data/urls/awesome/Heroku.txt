@@ -1,29 +1,28 @@
+https://www.heroku.com/postgres,Heroku Postgres,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://devcenter.heroku.com/articles/multiple-environments,Managing Multiple Environments for an App,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 http://www.metabase.com/docs/v0.13.3/operations-guide/running-metabase-on-heroku.html,Metabase,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/,Configuring CloudFlare DNS for a Heroku app,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://www.stunnel.org/index.html,stunnel,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 http://blog.codeship.com/exploring-microservices-architecture-on-heroku/,Exploring Microservices Architecure on Heroku,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://www.rdegges.com/2014/heroku-and-soa/,Heroku and SOA,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://wiki.postgresql.org/wiki/PgBouncer,pgbouncer,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/,Hosting multiple Heroku apps on a single domain,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://elements.heroku.com/addons/heroku-redis,Heroku Redis,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain,How do you host multiple Heroku apps on a single domain?,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://www.hirefire.io/,HireFire,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://www.theherokuhackersguide.com/,The Heroku Hacker's Guide,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku,Set up CloudFlare's free SSL on Heroku,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949,Heroku Cookbook,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://blog.heroku.com/archives/2007/10/30/the_big_kickoff,The big kickoff,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 https://medium.com/@spygi/scalable-cost-effective-web-architectures-for-heroku-eb8f1f55a4b6,Split Frontend from Backend on Heroku with npm and NodeJS,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://www.rdegges.com/2012/heroku-isnt-for-idiots/,Heroku isn't for idiots,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://toolbelt.heroku.com/,Heroku Toolbelt,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 https://blog.heroku.com,Heroku Blog,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+https://brandur.org/heroku-values,My Heroku values,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://dokku.viewdocs.io/dokku/,dokku,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 https://devcenter.heroku.com/articles/preboot,Preboot,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://ianstormtaylor.com,Ian Storm Taylor,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/,Automating our Heroku deployments from Jenkins,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
+http://buildpack-adventure.herokuapp.com/,Buildpack Adventure,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app,How do you ignore files when deploying to Heroku?,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779,Six Tips for Mastering your Procfile,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
 https://testdriven.io/blog/deploying-django-to-heroku-with-docker/,Deploying Django to Heroku With Docker,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://devcenter.heroku.com/articles/multiple-environments,Managing Multiple Environments for an App,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/,Configuring CloudFlare DNS for a Heroku app,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/,Hosting multiple Heroku apps on a single domain,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain,How do you host multiple Heroku apps on a single domain?,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://www.theherokuhackersguide.com/,The Heroku Hacker's Guide,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949,Heroku Cookbook,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://blog.heroku.com/archives/2007/10/30/the_big_kickoff,The big kickoff,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://www.rdegges.com/2012/heroku-isnt-for-idiots/,Heroku isn't for idiots,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://brandur.org/heroku-values,My Heroku values,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://buildpack-adventure.herokuapp.com/,Buildpack Adventure,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://www.heroku.com/postgres,Heroku Postgres,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://www.stunnel.org/index.html,stunnel,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://wiki.postgresql.org/wiki/PgBouncer,pgbouncer,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://elements.heroku.com/addons/heroku-redis,Heroku Redis,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://www.hirefire.io/,HireFire,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku,Set up CloudFlare's free SSL on Heroku,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-https://toolbelt.heroku.com/,Heroku Toolbelt,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://dokku.viewdocs.io/dokku/,dokku,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku
-http://ianstormtaylor.com,Ian Storm Taylor,https://github.com/ianstormtaylor/awesome-heroku#readme,Heroku

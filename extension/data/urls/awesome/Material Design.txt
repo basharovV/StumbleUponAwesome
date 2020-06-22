@@ -4,4 +4,3 @@ https://devexpress.github.io/devextreme-reactive/react,DevExtreme Reactive,https
 https://js.devexpress.com,DevExtreme,https://github.com/sachin1092/awesome-material#readme,Material Design
 http://themeforest.net/tags/material%20design,Material Design Templates,https://github.com/sachin1092/awesome-material#readme,Material Design
 http://www.materialup.com/,MaterialUp,https://github.com/sachin1092/awesome-material#readme,Material Design
-https://elements.polymer-project.org/browse?package=paper-elements,Paper Polymer Elements,https://github.com/sachin1092/awesome-material#readme,Material Design

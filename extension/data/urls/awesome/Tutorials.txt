@@ -1,30 +1,29 @@
 http://ml-ka.de/,ML-KA,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://scikit-learn.org/stable/user_guide.html,Scikit-learn complete user guide,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://www.quora.com/What-is-data-science,'What is Data Science?' on Quora,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://amzn.to/2GSjjrK,O'Reilly Data Science from Scratch (Book),https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1,Explanation of important vocabulary,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://www.coursera.org/specializations/data-science-python,Coursera Applied Data Science,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/,Model ensemble: Implementation in Python,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://amzn.to/2voPJUi,Data Science for Business (Book),https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M,YouTube tutorial series by sentdex,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://jupyter.org/install.html,Downloading and running first Jupyter notebook,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://www.learnpython.org/,Interactive Python tutorial website,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart,Example notebook for data exploration,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning,Supervised vs unsupervised learning,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://elitedatascience.com/python-seaborn-tutorial,Seaborn data visualization tutorial,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb,9 important Data Science algorithms and their implementation,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://www.numpy.org/,numpy,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb,Cross validation,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb,Feature engineering,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://www.cs.umd.edu/%7Esamir/498/10Algorithms-08.pdf,Scientific introduction to 10 important Data Science algorithms,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/,Model ensemble: Explanation,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://amzn.to/2GSjjrK,O'Reilly Data Science from Scratch (Book),https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://www.coursera.org/specializations/data-science-python,Coursera Applied Data Science,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M,YouTube tutorial series by sentdex,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://www.learnpython.org/,Interactive Python tutorial website,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://www.numpy.org/,numpy,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 http://pandas.pydata.org/index.html,pandas,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://www.synesthesiam.com/posts/an-introduction-to-pandas.html,Introduction to pandas,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://www.datacamp.com/courses/pandas-foundations,DataCamp pandas foundations,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://scikit-learn.org/stable/,scikit-learn,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb,Introduction and first model application,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://scikit-learn.org/stable/user_guide.html,Scikit-learn complete user guide,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/,Model ensemble: Implementation in Python,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://jupyter.org/install.html,Downloading and running first Jupyter notebook,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart,Example notebook for data exploration,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://elitedatascience.com/python-seaborn-tutorial,Seaborn data visualization tutorial,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
-https://www.continuum.io/downloads,Anaconda Python distribution,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://www.dataquest.io/blog/kaggle-getting-started/,Walkthrough: House prices challenge,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://www.synesthesiam.com/posts/an-introduction-to-pandas.html,Introduction to pandas,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://www.cs.umd.edu/%7Esamir/498/10Algorithms-08.pdf,Scientific introduction to 10 important Data Science algorithms,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://www.datacamp.com/courses/pandas-foundations,DataCamp pandas foundations,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/,Blood Donation Challenge,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/,Model ensemble: Explanation,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://www.kaggle.com/c/titanic,Titanic Challenge,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+http://scikit-learn.org/stable/,scikit-learn,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/,Water Pump Challenge,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb,Introduction and first model application,https://github.com/siboehm/awesome-learn-datascience#readme,Tutorials

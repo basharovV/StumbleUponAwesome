@@ -1,113 +1,100 @@
-https://www.youtube.com/playlist?list=PLkPOzHopOIo7ii8LTjgwBT_XMTR7q54KX,United States Navy Training Media: Basic Mechanisms in Fire Control Computers,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=Q07PhW5sCEk,Timesharing: A Solution to Computer Bottlenecks,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=yJDv-zdhzMY,The Mother of All Demos,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=M0zgj2p7Ww4,Xerox Parc - Office Alto Commercial,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=fVhwOaCwkb0,Part 1,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=RmO4TxDCMjI,Part 2,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=Jjbax5HYHLQ,A Computer Animated Hand,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/,The Computer Literacy Project,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=5WCTn4FljUQ,KRON San Francisco: Primitive Internet report,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=tc4ROCJYbm0,The UNIX System: Making Computers More Productive,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.youtube.com/watch?v=XvDZLjaCJuw,The UNIX System: Making Computers Easier to Use,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=XXBxV6-zamM,Micro Men,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/playlist?list=PLkPOzHopOIo7ii8LTjgwBT_XMTR7q54KX,United States Navy Training Media: Basic Mechanisms in Fire Control Computers,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt1737747/,Something Ventured,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt3010462/,5.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A,The Computer Chronicles,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0421311/,8.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=ZVZiureyV-s,Simulator Software,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=7Uz3HYfCIGc,Artificial Intelligence,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=U_o8gerare0,The Internet,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=nbJy0O4UFSM,We Are Apple,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=Ozipf13jRr4,Thinking Allowed - Artificial Intelligence,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=xrIjfIjssLE,Erlang: The Movie,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://archive.org/details/netcafe,Net Cafe,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt0460402/,8.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=Q07PhW5sCEk,Timesharing: A Solution to Computer Bottlenecks,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=M9ebkjWU6Z4,The Internet: Behind the Web,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=Zc-hlV2xbSg,The Codebreakers,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.imdb.com/title/tt1057240/,?/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.ssh.com/ssh/port,The Story of Getting SSH Port 22,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=kSZqkn9hT5w,Downloaded,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=FAfUjqIbfXo,Code 2600,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=7jciIsuEZWM,Hackers Are People Too,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=yJDv-zdhzMY,The Mother of All Demos,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://cristal.inria.fr/~weis/info/commandline.html,In the Beginning…Was the Command Line,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://archive.org/details/nc101_hackers,Hackers,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://archive.org/details/nc103_cyberpolitics,Politics on the Web,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=4Q7FTjhvZ7Y,Code Rush,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt2033981/,6.9/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt0421311/,8.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt1279942/,6.0/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=M0zgj2p7Ww4,Xerox Parc - Office Alto Commercial,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt1830538/,7.4/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=WYPNjSoDrqw,Birth of BASIC,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=ZVZiureyV-s,Simulator Software,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt1459467/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=vXr-2hwTk58,The Internet's Own Boy: The Story of Aaron Swartz,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.ibiblio.org/harris/500milemail.html,The case of the 500-mile email,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=ZHl0WI32XkY,We Are Legion: The Story of the Hacktivists,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://info.cern.ch/,First website ever made,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF,The Humble Programmer,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=7Uz3HYfCIGc,Artificial Intelligence,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://en.wikipedia.org/wiki/The_Social_Network,The Social Network,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt0499004/,7.3/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://en.wikipedia.org/wiki/Download_The_True_Story_of_the_Internet,Download: The True Story of the Internet,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=U_o8gerare0,The Internet,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://web.mit.edu/humor/Computers/real.programmers,Real Programmers Don't Use PASCAL,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=XMm0HsmOTFI,The Code,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://www.cs.yale.edu/homes/perlis-alan/quotes.html,Epigrams on Programming,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=nbJy0O4UFSM,We Are Apple,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt1285016/,7.7/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt3268458/,8.1/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=Ozipf13jRr4,Thinking Allowed - Artificial Intelligence,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=RmO4TxDCMjI,Part 2,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series),Halt and Catch Fire,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://www.catb.org/jargon/html/story-of-mel.html,The Story of Mel,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt,UTF-8 history,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=CVxeuwlvf8w,The Great 202 Jailbreak,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=dQnAEiGx1-4,Rise of the Hackers,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt1684716/,7.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=Jjbax5HYHLQ,A Computer Animated Hand,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt2543312/,8.4/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.ee.ryerson.ca/~elf/hack/recovery.html,Unix Recovery Legend,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=xrIjfIjssLE,Erlang: The Movie,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=vT_J6xc-Az0,UNIX Special: Profs Kernighan & Brailsford,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://phrack.org/issues/7/3.html,The Conscience of a Hacker,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.youtube.com/watch?v=VCz_SiPD_X0,Steve Jobs: The Crazy Ones,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=EKWGGDXe5MA,Computers From The Inside Out,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=VANORrzKX50,Part 1: Browser Wars,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.youtube.com/watch?v=cVCLowi4v7w,Hackers: Wizards of the Electronic Age,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1191116/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt2080374/,Steve Jobs,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://archive.org/details/netcafe,Net Cafe,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=Jjbh9FFW6VE,Part 2: Search,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=2zfqw8nhUwA,Apple 1984 Super Bowl Commercial,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=jw8K460vx1c,Revolution OS,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=aQjnkyoNIfg,Part 3: Bubble,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=WVTWCPoUt8w,The Origins of Linux - Linus Torvalds,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt3979842/,7.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=f42J_reRO0Q,Part 4: People Power,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://fishcam.com/,The Amazing FishCam,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=ZTC_RxWN_xo,The Secret History of Silicon Valley,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.pbs.org/video/american-experience-silicon-valley/,Silicon Valley,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt4227346/,7.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt0308808/,7.3/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.dourish.com/goodies/jargon.html,The Jargon File,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=JxAXlJEmNMg,Crockford on JavaScript - Volume 1: The Early Years,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636,How Steve Wozniak Wrote BASIC for the Original Apple From Scratch,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://www.internethistorypodcast.com/,Internet History Podcast,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt2547530/,7.9/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=8pTEmbeENF4,Bret Victor - The Future of Programming,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.activism.net/cypherpunk/crypto-anarchy.html,The Crypto Anarchist Manifesto,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=PUf1d-GuK0Q,The Secret History Of Hacking,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=eTOKXCEwo_8,TPB AFK: The Pirate Bay Away From Keyboard,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.activism.net/cypherpunk/manifesto.html,A Cypherpunk's Manifesto,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt2335921/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt0168122/,Pirates of Silicon Valley,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://ftp.arl.army.mil/~mike/ping.html,The Story of the PING Program,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv,BBS The Documentary,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt2608732/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt4938484/,6.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=5WCTn4FljUQ,KRON San Francisco: Primitive Internet report,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=3ctQOmjQyYg,DEFCON: The Documentary,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.youtube.com/watch?v=tc4ROCJYbm0,The UNIX System: Making Computers More Productive,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.youtube.com/watch?v=EcKxaq1FTac,The KGB, the Computer, and Me,https://github.com/watson/awesome-computer-history#readme,Computer History
+http://www.lettersofnote.com/2011/07/internet-tidal-wave.html,The Internet Tidal Wave,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.imdb.com/title/tt0308449/,8.0/10,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://en.wikipedia.org/wiki/Triumph_of_the_Nerds,Triumph of the Nerds: The Rise of Accidental Empires,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0115398/,8.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=M9ebkjWU6Z4,The Internet: Behind the Web,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=4Q7FTjhvZ7Y,Code Rush,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0499004/,7.3/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=XMm0HsmOTFI,The Code,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0315417/,7.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=jw8K460vx1c,Revolution OS,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0308808/,7.3/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=PUf1d-GuK0Q,The Secret History Of Hacking,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2335921/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv,BBS The Documentary,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0460402/,8.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=Zc-hlV2xbSg,The Codebreakers,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=7jciIsuEZWM,Hackers Are People Too,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1279942/,6.0/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://en.wikipedia.org/wiki/Download_The_True_Story_of_the_Internet,Download: The True Story of the Internet,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1684716/,7.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=VANORrzKX50,Part 1: Browser Wars,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=Jjbh9FFW6VE,Part 2: Search,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=aQjnkyoNIfg,Part 3: Bubble,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=f42J_reRO0Q,Part 4: People Power,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1737747/,Something Ventured,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=FAfUjqIbfXo,Code 2600,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1830538/,7.4/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=ZHl0WI32XkY,We Are Legion: The Story of the Hacktivists,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2177843/,7.3/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.pbs.org/video/american-experience-silicon-valley/,Silicon Valley,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2547530/,7.9/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=eTOKXCEwo_8,TPB AFK: The Pirate Bay Away From Keyboard,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2608732/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=3ctQOmjQyYg,DEFCON: The Documentary,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt3010462/,5.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=kSZqkn9hT5w,Downloaded,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2033981/,6.9/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=WYPNjSoDrqw,Birth of BASIC,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=vXr-2hwTk58,The Internet's Own Boy: The Story of Aaron Swartz,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt3268458/,8.1/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=dQnAEiGx1-4,Rise of the Hackers,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt3979842/,7.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.netflix.com/title/80104318,Silicon Cowboys,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt4938484/,6.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=TRZAJY23xio,Steve Jobs - The Lost Interview,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2104994/,8.1/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=CVxeuwlvf8w,The Great 202 Jailbreak,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=vT_J6xc-Az0,UNIX Special: Profs Kernighan & Brailsford,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=EKWGGDXe5MA,Computers From The Inside Out,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=WVTWCPoUt8w,The Origins of Linux - Linus Torvalds,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=ZTC_RxWN_xo,The Secret History of Silicon Valley,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=JxAXlJEmNMg,Crockford on JavaScript - Volume 1: The Early Years,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=8pTEmbeENF4,Bret Victor - The Future of Programming,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt0168122/,Pirates of Silicon Valley,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=XXBxV6-zamM,Micro Men,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1459467/,7.6/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://en.wikipedia.org/wiki/The_Social_Network,The Social Network,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt1285016/,7.7/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series),Halt and Catch Fire,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2543312/,8.4/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt2080374/,Steve Jobs,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.youtube.com/watch?v=2zfqw8nhUwA,Apple 1984 Super Bowl Commercial,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.imdb.com/title/tt4227346/,7.8/10,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://www.internethistorypodcast.com/,Internet History Podcast,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009,subscribe,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF,The Humble Programmer,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://web.mit.edu/humor/Computers/real.programmers,Real Programmers Don't Use PASCAL,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://www.cs.yale.edu/homes/perlis-alan/quotes.html,Epigrams on Programming,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://www.catb.org/jargon/html/story-of-mel.html,The Story of Mel,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.ee.ryerson.ca/~elf/hack/recovery.html,Unix Recovery Legend,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://phrack.org/issues/7/3.html,The Conscience of a Hacker,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.dourish.com/goodies/jargon.html,The Jargon File,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.activism.net/cypherpunk/crypto-anarchy.html,The Crypto Anarchist Manifesto,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.activism.net/cypherpunk/manifesto.html,A Cypherpunk's Manifesto,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.ssh.com/ssh/port,The Story of Getting SSH Port 22,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://cristal.inria.fr/~weis/info/commandline.html,In the Beginning…Was the Command Line,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.ibiblio.org/harris/500milemail.html,The case of the 500-mile email,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt,UTF-8 history,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://www.cbi.umn.edu/iterations/spira.html,20 Years — One Standard: The Story of TCP/IP,https://github.com/watson/awesome-computer-history#readme,Computer History
-https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636,How Steve Wozniak Wrote BASIC for the Original Apple From Scratch,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://ftp.arl.army.mil/~mike/ping.html,The Story of the PING Program,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://www.lettersofnote.com/2011/07/internet-tidal-wave.html,The Internet Tidal Wave,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://phk.freebsd.dk/sagas/bikeshed.html,A bike shed (any colour will do) on greener grass...,https://github.com/watson/awesome-computer-history#readme,Computer History
 https://www.bell-labs.com/usr/dmr/www/primevalC.html,C compiler,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://www.computerhistory.org/atchm/adobe-photoshop-source-code/,Adobe Photoshop,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://info.cern.ch/,First website ever made,https://github.com/watson/awesome-computer-history#readme,Computer History
-http://fishcam.com/,The Amazing FishCam,https://github.com/watson/awesome-computer-history#readme,Computer History
+https://www.imdb.com/title/tt0115398/,8.5/10,https://github.com/watson/awesome-computer-history#readme,Computer History

@@ -1,0 +1,20 @@
+https://www.numetriclabz.com/,Numetric Technologies,https://github.com/numetriclabz/awesome-db#readme,Database
+http://citusdata.github.io/cstore_fdw/,website,https://github.com/numetriclabz/awesome-db#readme,Database
+http://symas.com/mdb/,LMDB,https://github.com/numetriclabz/awesome-db#readme,Database
+https://www.monetdb.org/,website,https://github.com/numetriclabz/awesome-db#readme,Database
+http://www.mongodb.org/,http://www.mongodb.org/,https://github.com/numetriclabz/awesome-db#readme,Database
+http://redis.io,website,https://github.com/numetriclabz/awesome-db#readme,Database
+http://www.rethinkdb.com,http://www.rethinkdb.com,https://github.com/numetriclabz/awesome-db#readme,Database
+http://rocksdb.org,http://rocksdb.org,https://github.com/numetriclabz/awesome-db#readme,Database
+http://ssdb.io,http://ssdb.io,https://github.com/numetriclabz/awesome-db#readme,Database
+http://www.sqlite.org/,SQLite,https://github.com/numetriclabz/awesome-db#readme,Database
+http://ayende.com/Blog/,http://ayende.com/Blog/,https://github.com/numetriclabz/awesome-db#readme,Database
+http://dev.origodb.com,OrigoDB,https://github.com/numetriclabz/awesome-db#readme,Database
+http://pulsedb.io,Pulsedb,https://github.com/numetriclabz/awesome-db#readme,Database
+https://code.google.com/p/leveldb/,LevelDB,https://github.com/numetriclabz/awesome-db#readme,Database
+http://elasticsearch.org,website,https://github.com/numetriclabz/awesome-db#readme,Database
+http://www.mapdb.org,http://www.mapdb.org,https://github.com/numetriclabz/awesome-db#readme,Database
+http://neo4j.org,Neo4j,https://github.com/numetriclabz/awesome-db#readme,Database
+http://project-voldemort.com,website,https://github.com/numetriclabz/awesome-db#readme,Database
+http://titandb.io,http://titandb.io,https://github.com/numetriclabz/awesome-db#readme,Database
+http://blinkdb.cs.berkeley.edu/,http://blinkdb.cs.berkeley.edu/,https://github.com/numetriclabz/awesome-db#readme,Database

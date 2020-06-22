@@ -1,121 +1,111 @@
-https://en.wikipedia.org/wiki/Bidirectional_map,bidirectional maps,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://en.wikipedia.org/wiki/Bitmap,bitmaps,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://www.inf.ufrgs.br/~alvares/CMP259DCBD/clope.pdf,CLOPE,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf,Cuckoo Filters,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/data_morph,data_morph,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://en.wikipedia.org/wiki/Kademlia,kademlia,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.supermemo.com/english/ol/sm2.htm,Supermemo 2 algorithm,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://bpe.n2o.space,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://captainfact.io/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/exon/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://bitbucket.org/Anwen/majremind,majremind,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/medusa/0.2.0/api-reference.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://remoteretro.org,remoteretro.org,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://meaty-spiffy-hermitcrab.gigalixirapp.com,Stabby Flies,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://zampino.github.io/exnn/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://gitlab.com/onnoowl/Neat-Ex,Neat-Ex,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/neat_ex/Neat.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/coherence/Coherence.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/guardian/Guardian.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://powauth.com,Website,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/pow,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/samly/readme.html,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/sigaws/Sigaws.html,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/ueberauth_auth0,ueberauth_auth0,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://vk.com,vk.com,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://weibo.com,Weibo,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/canary/api-reference.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/terminator/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/ex_gram/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/hedwig/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://cloudi.org/,Cloudi,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/erlcloud/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/libcluster/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/credo/Credo.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/dogma/api-reference.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://clap.rs/,clap.rs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://phoenix-cli.github.io/,phoenix-cli,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://tools.ietf.org/html/rfc4493,RFC 4493,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/cloak/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/comeonin/api-reference.html,https://hexdocs.pm/comeonin/api-reference.html,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/ex_crypto/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.gigalixir.com,Gigalixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://inch-ci.org/,inch-ci,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://www.w3.org/TR/json-ld/,JSON-LD,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.w3.org/TR/rdf11-primer/,RDF,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://www.w3.org/TR/sparql11-overview/,SPARQL,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/pop3mail,pop3mail,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://nerves-project.org,nerves,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://gitlab.com/cizen/cizen,cizen,https://github.com/h4cc/awesome-elixir#readme,Elixir
 http://elixirkoans.io/,Elixir koans,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://realworld.io/,RealWorld.io,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://gitlab.com/olhado/rollex,rollex,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://bitbucket.org/pentacent/belt/,Belt,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://graphql-elixir.org/,GraphQL Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hexdocs.pm/plug_sigaws/PlugSigaws.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/turn_the_page,turn_the_page,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://jsonapi.org,jsonapi.org,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.chessprogramming.org/Bitboards,Bitboards,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://gitlab.com/dgmcguire/texas,texas,https://github.com/h4cc/awesome-elixir#readme,Elixir
 http://www.html-tidy.org,http://www.html-tidy.org,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.w3.org/TR/sparql11-protocol/,SPARQL protocol,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/image64,image64,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://appsignal.com/,AppSignal,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://instrumentalapp.com/,Instrumental,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://newrelic.com/,NewRelic,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://jsonapi.org/format/,JSONAPI Documents,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://getsentry.com/,Sentry,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.jetbrains.com/youtrack/,YouTrack,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/notifier,notifier,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://gitlab.com/timopallach/FlyingDdns,FlyingDdns,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://barrel-db.org/,Barrel-db,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/ecto_factory,ecto_factory,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/stream_weaver,stream_weaver,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/exsms,exsms,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://bford.info/packrat/,PEG,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.govtrack.us/developers,govtrack.us,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://cloud.google.com/pubsub/overview,Google Cloud Pub/Sub,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://trak.io/,Trak.io,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hex.pm/packages/random_user_api,random_user_api,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.casadocodigo.com.br/products/livro-elixir,Elixir do zero à concorrência,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.manning.com/books/elixir-in-action-second-edition,Elixir in Action,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://www.phoenixforrailsdevelopers.com,Phoenix for Rails Developers,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://manning.com/books/phoenix-in-action,Phoenix in Action,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://shankardevy.com/phoenix-book/,Phoenix Inside Out,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://pragprog.com/book/elixir/programming-elixir,Programming Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://happi.github.io/theBeamBook/,The Beam Book,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://chimera.labs.oreilly.com/books/1234000001642,Études for Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://webchat.freenode.net/?channels=elixir-lang,#elixir-lang,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://elixirforum.com/,Elixir Forum,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://groups.google.com/d/forum/elixir-lang-core,elixir-lang-core,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://groups.google.com/d/forum/elixir-lang-talk,elixir-lang-talk,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://atom.io/packages/language-elixir,Atom,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://plugins.jetbrains.com/plugin/7522,Jetbrains,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixirdigest.net,Elixir Digest,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://elixirweekly.net,ElixirWeekly,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixirstatus.com,ElixirStatus,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://elixir.libhunt.com,Awesome Elixir by LibHunt,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://hackr.io/tutorials/learn-elixir,Curated Elixir Resources,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.ludu.co/course/discover-elixir-phoenix/,Discover Elixir & Phoenix,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://media.pragprog.com/titles/elixir/ElixirCheat.pdf,Elixir Cheat-Sheet,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://elixirschool.com/,Elixir School,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://foxbox.com/blog/elixir-vs-ruby/,Elixir vs Ruby | How Switching To Elixir Made Our Team Better,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://alchemist.camp,Alchemist Camp,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://confreaks.tv/tags/40,Confreaks (Elixir),https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixirsips.com/,Elixir Sips,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://elixircasts.io/,ElixirCasts.io,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://excasts.com,ExCasts,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.learnphoenix.tv/,LearnPhoenix.tv,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://www.pluralsight.com/courses/meet-elixir,Meet Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
 http://beamcommunity.github.io/,BEAM Community,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://benjamintan.io/blog/tags/elixir/,Benjamin Tan - Learnings & Writings,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixir-cn.com/,elixir-cn.com,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixir-examples.github.io/,Elixir Examples,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://elixircards.co.uk/,Elixir Flashcards,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://soundcloud.com/elixirfountain,Elixir Fountain,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixirquiz.github.io/,Elixir Quiz,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://elixir-recipes.github.io/,Elixir Recipes,https://github.com/h4cc/awesome-elixir#readme,Elixir
-https://til.hashrocket.com/elixir,Hashrocket Today I Learned - Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
-http://howistart.org/posts/elixir/1,How I start - Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://cloudi.org/,Cloudi,https://github.com/h4cc/awesome-elixir#readme,Elixir
 http://learningelixir.joekain.com/,Learning Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://en.wikipedia.org/wiki/Bidirectional_map,bidirectional maps,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.casadocodigo.com.br/products/livro-elixir,Elixir do zero à concorrência,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://gitlab.com/timopallach/FlyingDdns,FlyingDdns,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://en.wikipedia.org/wiki/Bitmap,bitmaps,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/pow,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://media.pragprog.com/titles/elixir/ElixirCheat.pdf,Elixir Cheat-Sheet,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.manning.com/books/elixir-in-action-second-edition,Elixir in Action,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://bitbucket.org/Anwen/majremind,majremind,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://benjamintan.io/blog/tags/elixir/,Benjamin Tan - Learnings & Writings,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/comeonin/api-reference.html,https://hexdocs.pm/comeonin/api-reference.html,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/erlcloud/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://barrel-db.org/,Barrel-db,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://realworld.io/,RealWorld.io,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://elixirschool.com/,Elixir School,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/ecto_factory,ecto_factory,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/libcluster/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/ex_crypto/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.w3.org/TR/sparql11-protocol/,SPARQL protocol,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://gitlab.com/olhado/rollex,rollex,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://groups.google.com/d/forum/elixir-lang-core,elixir-lang-core,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://www.phoenixforrailsdevelopers.com,Phoenix for Rails Developers,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/samly/readme.html,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/medusa/0.2.0/api-reference.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://foxbox.com/blog/elixir-vs-ruby/,Elixir vs Ruby | How Switching To Elixir Made Our Team Better,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/image64,image64,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/stream_weaver,stream_weaver,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://elixir-examples.github.io/,Elixir Examples,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/sigaws/Sigaws.html,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/exsms,exsms,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.gigalixir.com,Gigalixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://remoteretro.org,remoteretro.org,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://bitbucket.org/pentacent/belt/,Belt,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://elixircards.co.uk/,Elixir Flashcards,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://appsignal.com/,AppSignal,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/ueberauth_auth0,ueberauth_auth0,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://manning.com/books/phoenix-in-action,Phoenix in Action,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://graphql-elixir.org/,GraphQL Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://groups.google.com/d/forum/elixir-lang-talk,elixir-lang-talk,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf,Cuckoo Filters,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://zampino.github.io/exnn/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://soundcloud.com/elixirfountain,Elixir Fountain,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/plug_sigaws/PlugSigaws.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://alchemist.camp,Alchemist Camp,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/data_morph,data_morph,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://vk.com,vk.com,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://gitlab.com/onnoowl/Neat-Ex,Neat-Ex,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/turn_the_page,turn_the_page,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://inch-ci.org/,inch-ci,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://atom.io/packages/language-elixir,Atom,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://shankardevy.com/phoenix-book/,Phoenix Inside Out,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/neat_ex/Neat.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://www.w3.org/TR/json-ld/,JSON-LD,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://instrumentalapp.com/,Instrumental,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://en.wikipedia.org/wiki/Kademlia,kademlia,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://elixirquiz.github.io/,Elixir Quiz,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/coherence/Coherence.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://jsonapi.org,jsonapi.org,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://confreaks.tv/tags/40,Confreaks (Elixir),https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://elixir-recipes.github.io/,Elixir Recipes,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://elixirsips.com/,Elixir Sips,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.chessprogramming.org/Bitboards,Bitboards,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://newrelic.com/,NewRelic,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://plugins.jetbrains.com/plugin/7522,Jetbrains,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.supermemo.com/english/ol/sm2.htm,Supermemo 2 algorithm,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://til.hashrocket.com/elixir,Hashrocket Today I Learned - Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://gitlab.com/dgmcguire/texas,texas,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://jsonapi.org/format/,JSONAPI Documents,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://happi.github.io/theBeamBook/,The Beam Book,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://elixircasts.io/,ElixirCasts.io,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.w3.org/TR/rdf11-primer/,RDF,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://elixirdigest.net,Elixir Digest,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://weibo.com,Weibo,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/guardian/Guardian.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://www.w3.org/TR/sparql11-overview/,SPARQL,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://captainfact.io/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://howistart.org/posts/elixir/1,How I start - Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://chimera.labs.oreilly.com/books/1234000001642,Études for Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/pop3mail,pop3mail,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://powauth.com,Website,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://elixirweekly.net,ElixirWeekly,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/dogma/api-reference.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/exon/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://elixirstatus.com,ElixirStatus,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://clap.rs/,clap.rs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://nerves-project.org,nerves,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://cloud.google.com/pubsub/overview,Google Cloud Pub/Sub,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://getsentry.com/,Sentry,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/canary/api-reference.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+http://webchat.freenode.net/?channels=elixir-lang,#elixir-lang,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://gitlab.com/cizen/cizen,cizen,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://phoenix-cli.github.io/,phoenix-cli,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.jetbrains.com/youtrack/,YouTrack,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://elixirforum.com/,Elixir Forum,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://elixir.libhunt.com,Awesome Elixir by LibHunt,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/terminator/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/random_user_api,random_user_api,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hex.pm/packages/notifier,notifier,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hackr.io/tutorials/learn-elixir,Curated Elixir Resources,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://tools.ietf.org/html/rfc4493,RFC 4493,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/ex_gram/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/cloak/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.learnphoenix.tv/,LearnPhoenix.tv,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.ludu.co/course/discover-elixir-phoenix/,Discover Elixir & Phoenix,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://hexdocs.pm/hedwig/readme.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir
+https://www.pluralsight.com/courses/meet-elixir,Meet Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir

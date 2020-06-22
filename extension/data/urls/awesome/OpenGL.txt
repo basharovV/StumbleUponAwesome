@@ -1,60 +1,60 @@
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD,sentdex,https://github.com/eug/awesome-opengl#readme,OpenGL
 https://www.opengl.org,,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html,(2014) Things that drive me nuts about OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index,(2011) A trip through the graphics pipeline,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/1558603875,A Trip Down the Graphics Pipeline,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/0321399528,Computer Graphics,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/0132545233,Interactive Computer Graphics,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/0321933885,OpenGL ES 3.0 Programming Guide,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/1439893764,OpenGL Insights,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/0321773039,OpenGL Programming Guide,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.amazon.com/dp/0321637631,OpenGL Shading Language,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.sfml-dev.org,SFML,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://www.amazon.com/dp/0321712617,OpenGL SuperBible,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://learnopengl.com,Learn OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead,Slides,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://www.amazon.com/dp/1568814240,Real-Time Rendering,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html,(2014) Things that drive me nuts about OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://apitrace.github.io,apitrace,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://bitbucket.org/alfonse/gltut/wiki/Home,Learning Modern 3D Graphics Programming,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.lonesock.net/soil.html,SOIL,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://glsl-debugger.github.io,GL-SL Debugger,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://software.intel.com/en-us/gpa,Intel-GPA,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://glslsandbox.com,GLSL Sandbox,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://glslb.in,GLSLbin,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://shdr.bkcore.com,SHDR Editor,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.shadertoy.com,Shader Toy,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://shaderfrog.com/,ShaderFrog,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver,AMA Reddit,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://bulletphysics.org/wordpress,Bullet,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index,(2011) A trip through the graphics pipeline,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/watch?v=-bCeNzgiJ8I,How Modern OpenGL Can Radically Reduce Driver Overhead,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://bitbucket.org/SpartanJ/soil2,SOIL2,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/watch?v=45O7WTc6k2Y,Moving Your Games to OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://glew.sourceforge.net,GLEW,https://github.com/eug/awesome-opengl#readme,OpenGL
 https://www.fltk.org/,fltk,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.lighthouse3d.com/tutorials/glsl-core-tutorial,Light House 3D,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/1558603875,A Trip Down the Graphics Pipeline,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY,Jamie King,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://bitbucket.org/alfonse/glloadgen/wiki/Home,glLoadGen,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://software.intel.com/en-us/gpa,Intel-GPA,https://github.com/eug/awesome-opengl#readme,OpenGL
 https://www.fltk.org/COPYING.php,LGPLv2,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW,MakingGamesWithBen,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://glslsandbox.com,GLSL Sandbox,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://docs.gl,docs.GL,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/0321399528,Computer Graphics,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://freeglut.sourceforge.net,freeGLUT,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml,OpenGL API Tables,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/user/ACMSIGGRAPH/playlists,SIGGRAPH,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.tomdalling.com/blog/category/modern-opengl,Modern OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://glslb.in,GLSLbin,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/0132545233,Interactive Computer Graphics,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2,TheChernoProject,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://shdr.bkcore.com,SHDR Editor,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://ogldev.atspace.co.uk,OpenGL Step by Step,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/user/thebennybox/playlists,thebennybox,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://www.glfw.org,GLFW,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.shadertoy.com,Shader Toy,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://glm.g-truc.net/0.9.6/index.html,glm,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.youtube.com/user/ThinMatrix/playlists,ThinMatrix,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/0321933885,OpenGL ES 3.0 Programming Guide,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://open.gl,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://google.github.io/mathfu/,MathFu,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.opengl.org/sdk/docs,OpenGL Docs,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://newtondynamics.com/forum/newton.php,Newton,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/1439893764,OpenGL Insights,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://antongerdelan.net/opengl/index.html,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://shaderfrog.com/,ShaderFrog,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.opengl-tutorial.org,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
+https://www.opengl.org/wiki/Main_Page,OpenGL Wiki,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/0321773039,OpenGL Programming Guide,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://oglplus.org,OGLplus,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://www.libsdl.org,SDL,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.sfml-dev.org,SFML,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.lonesock.net/soil.html,SOIL,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://bitbucket.org/SpartanJ/soil2,SOIL2,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://glew.sourceforge.net,GLEW,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://bitbucket.org/alfonse/glloadgen/wiki/Home,glLoadGen,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://docs.gl,docs.GL,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml,OpenGL API Tables,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.opengl.org/sdk/docs,OpenGL Docs,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.opengl.org/wiki/Main_Page,OpenGL Wiki,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://gdcvault.com/play/1020791/,Approaching Zero Driver Overhead in OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead,Slides,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver,AMA Reddit,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/watch?v=-bCeNzgiJ8I,How Modern OpenGL Can Radically Reduce Driver Overhead,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/watch?v=45O7WTc6k2Y,Moving Your Games to OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY,Jamie King,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW,MakingGamesWithBen,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/user/ACMSIGGRAPH/playlists,SIGGRAPH,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2,TheChernoProject,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/user/thebennybox/playlists,thebennybox,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/user/ThinMatrix/playlists,ThinMatrix,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD,sentdex,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://learnopengl.com,Learn OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://bitbucket.org/alfonse/gltut/wiki/Home,Learning Modern 3D Graphics Programming,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.lighthouse3d.com/tutorials/glsl-core-tutorial,Light House 3D,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.tomdalling.com/blog/category/modern-opengl,Modern OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://ogldev.atspace.co.uk,OpenGL Step by Step,https://github.com/eug/awesome-opengl#readme,OpenGL
-https://open.gl,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://antongerdelan.net/opengl/index.html,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
-http://www.opengl-tutorial.org,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://www.amazon.com/dp/0321637631,OpenGL Shading Language,https://github.com/eug/awesome-opengl#readme,OpenGL
 http://www.songho.ca/opengl,OpenGL Tutorial,https://github.com/eug/awesome-opengl#readme,OpenGL
+http://gdcvault.com/play/1020791/,Approaching Zero Driver Overhead in OpenGL,https://github.com/eug/awesome-opengl#readme,OpenGL

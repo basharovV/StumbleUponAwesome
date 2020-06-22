@@ -1,0 +1,1 @@
+https://www.packtpub.com/au/application-development/micropython-cookbook,MicroPython Cookbook,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: timeout('The read operation timed out') | reason: 

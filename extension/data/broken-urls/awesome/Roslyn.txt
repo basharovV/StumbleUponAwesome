@@ -1,0 +1,3 @@
+https://www.packtpub.com/application-development/roslyn-cookbook,Roslyn Cookbook,https://github.com/ironcev/awesome-roslyn#readme,Roslyn error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

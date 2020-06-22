@@ -1,0 +1,1 @@
+https://bitbucket.org/littlerobots/rxlint,rxlint,https://github.com/eleventigers/awesome-rxjava#readme,RxJava error: <HTTPError 404: 'Not Found'> | reason: Not Found

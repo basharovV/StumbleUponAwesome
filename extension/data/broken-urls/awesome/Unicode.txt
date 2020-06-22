@@ -1,0 +1,17 @@
+https://codepoints.net/U+FB05?lang=en,U+FB05,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.emojifoundation.com/,World Translation Foundation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('timed out') | reason: 
+http://www.unicode.org/versions/Unicode6.1.0/,Version 6.1.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('timed out') | reason: 
+https://wikipedia.org/wiki/CJK_Compatibility_Forms,CJK Compatibility Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/Sharada,Sharada,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/High_Surrogates,High Surrogates,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/Miscellaneous_Technical,Miscellaneous Technical,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+http://www.unicode.org/resources/readinglist.html,The Unicode Consortium's Recommended Reading List,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://wikipedia.org/wiki/Small_Form_Variants,Small Form Variants,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement,CJK Compatibility Ideographs Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/Supplemental_Arrows-A,Supplemental Arrows-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/Sinhala_Archaic_Numbers,Sinhala Archaic Numbers,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/Latin_Extended-A,Latin Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+http://shapecatcher.com/,Shapecatcher,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
+http://unicode.org/cldr/utility/confusables.jsp?r=None,Confusable Unicode Characters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://wikipedia.org/wiki/Armenian,Armenian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 
+https://wikipedia.org/wiki/Katakana_Phonetic_Extensions,Katakana Phonetic Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: timeout('The read operation timed out') | reason: 

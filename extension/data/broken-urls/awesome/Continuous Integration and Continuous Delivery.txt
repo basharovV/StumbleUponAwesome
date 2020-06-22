@@ -1,0 +1,16 @@
+http://www.cruisecontrolnet.org,cruisecontrol,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
+https://www.suse.com/products/susestudio/,suseapplication,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www-03.ibm.com/systems/platformcomputing/products/lsf/,LSF,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+http://zutubi.com,pulse,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.qaforums.com,qaforums,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://hudson-ci.org,hudson,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
+http://closeheat.com,closeheat,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.citrix.com/products/xenserver/overview.html,citrixserver,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: timeout('timed out') | reason: 
+http://www.codebrag.com/,Codebrag,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: URLError(OSError(51, 'Network is unreachable')) | reason: [Errno 51] Network is unreachable
+http://wiki.gridengine.info/wiki/index.php/Main_Page,GridWiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin,Jenkinsdeployplugin,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw,Learning Continuous Integraion with TeamCity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

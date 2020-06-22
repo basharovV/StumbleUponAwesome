@@ -1,28 +1,25 @@
 https://eta-lang.org/,Eta,https://github.com/sfischer13/awesome-eta#readme,Eta
-http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/,Philosophy,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta,Getting Started,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://tour.eta-lang.org,Tour of Eta,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://eta-lang.org/docs/,Documentation,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://eta-lang.org/docs/tutorials,Tutorials,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://eta-lang.org/docs/faq,FAQ,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://eta-lang.org/docs/cheatsheets,Eta Cheatsheets,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d,Eta Blog: Java I,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7,Eta Blog: Java II,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a,Eta Blog: Haskell,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0,Eta Blog: Scala,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://hub.docker.com/r/typelead/eta/,Docker Hub,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://gitter.im/typelead/eta,Gitter,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://slack.eta-lang.org/,Slack,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html,InfoWorld,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://jaxenter.com/eta-pirates-of-the-jvm-133518.html,Jaxenter,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://blog.eta-lang.org/,Eta programming language,https://github.com/sfischer13/awesome-eta#readme,Eta
-https://brianmckenna.org/blog/eta_android,Eta on Android,https://github.com/sfischer13/awesome-eta#readme,Eta
-http://www.icfpconference.org/,ICFP,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0,FP101x,https://github.com/sfischer13/awesome-eta#readme,Eta
+http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/,Philosophy,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://www.youtube.com/watch?v=hmDLNO7Gkxs,Introduction to Eta,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta,Getting Started,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a,Eta Blog: Haskell,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf,Introduction to Eta,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://www.youtube.com/watch?v=P1dmHKJ2vak,Haskell for JVM,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala,Using Eta,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw,ICFP Videos,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://www.youtube.com/watch?v=CscBSNF6qnE,Functional Conf - 2016,https://github.com/sfischer13/awesome-eta#readme,Eta
 https://www.youtube.com/watch?v=ZuJg2cfmSmw,Functional Conf - 2017,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://hub.docker.com/r/typelead/eta/,Docker Hub,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://gitter.im/typelead/eta,Gitter,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html,InfoWorld,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://jaxenter.com/eta-pirates-of-the-jvm-133518.html,Jaxenter,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://eta-lang.org/docs/,Documentation,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://blog.eta-lang.org/,Eta programming language,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://eta-lang.org/docs/tutorials,Tutorials,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://brianmckenna.org/blog/eta_android,Eta on Android,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://eta-lang.org/docs/faq,FAQ,https://github.com/sfischer13/awesome-eta#readme,Eta
+http://www.icfpconference.org/,ICFP,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://eta-lang.org/docs/cheatsheets,Eta Cheatsheets,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d,Eta Blog: Java I,https://github.com/sfischer13/awesome-eta#readme,Eta
+https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7,Eta Blog: Java II,https://github.com/sfischer13/awesome-eta#readme,Eta

@@ -1,0 +1,145 @@
+http://keeper.nunux.org/,Nunux Keeper,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+http://lms.demo.poupon.io/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://thredded.org,Thredded,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://sickrage.github.io/,SickRage,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+https://getindico.io/,indico,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://canvas.instructure.com/register,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://demo.kopano.com,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://babybuddy.herokuapp.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://ellisonleao.github.io/clumsy-bird/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://collectiveaccess.org/,Collective Access: Providence,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://unblockvideos.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://padloc.app/,Padloc,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://leantime.io,Leantime,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.freenas.org/,FreeNAS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://demo.openeclass.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://icecoder.net/,ICEcoder,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://demo.odoo.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 404: 'NOT FOUND'> | reason: NOT FOUND
+https://www.newspipe.org/signup,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://www.apsis.ch/pound/,Pound,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.eclipse.org/legal/epl-v10.html,Eclipse Public License, Version 1.0,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://leanote.org/,Leanote,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://trac.edgewall.org/,Trac,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+https://demo.filestash.app/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://demo.freshrss.org/i/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://geneweb.tuxfamily.org/wiki/GeneWeb,GeneWeb,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://demo.ombi.io/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://thredded.org/thredded,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://restya.com/board/demo.html,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://kolaente.dev/vikunja/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://writefreely.org,WriteFreely,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://git.exim.org/exim.git,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.invoiceninja.org/,Invoice Ninja,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://fivefilters.org/content-only,Full-Text RSS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+https://minio.io/,Minio,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://www.sendmail.com/sm/open_source/,Sendmail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://dante-stories.herokuapp.com/,Dante Stories,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.jdsoft.com/jd-esurvey.html,JD Esurvey,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://framagit.org/fiat-tux/hat-softwares/lufi,lufi,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://sourceforge.net/projects/opengts/files/server-base/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://fugacio.us,Fugacious,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+http://sylius.org/,Sylius,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.tuleap.org/,Tuleap,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.bestpractical.com/rt/,Request Tracker,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://pretix.eu/,Pretix,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://opensource.org/licenses/BSD-3-Clause,BSD 3-Clause "New" or "Revised",https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://mibew.org,Mibew,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://thingspeak.com/,Thingspeak,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://taskboard.matthewross.me/,TaskBoard,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://modoboa.org/en/,Modoboa,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://gitlab.xiph.org/xiph/icecast-server,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://guac-dev.org/,Guacamole,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+https://www.erlang-solutions.com/products/mongooseim.html,MongooseIM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://nodebb.org/,NodeBB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://sourceforge.net/projects/phpscheduleit/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://privatebin.info/,PrivateBin,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://wiki.znc.in/ZNC,ZNC,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://cryptpad.fr/,CryptPad,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://demo.microweber.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+https://www.casebox.org,CaseBox,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://blog.slucas.fr/en/oss/calibre-opds-php-server,COPS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://lobste.rs,Lobsters,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf,Sendmail License,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://pkp.sfu.ca/ocs/ocs_demo/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://tonken.mooo.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://cytu.be,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://matrix.org/docs/projects/client/matrix-console.html,Matrix Console Web,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://git.samba.org/samba.git/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://opensource.org/licenses/AAL,Attribution Assurance License,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://getpinry.com/,Pinry,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.zenko.io/cloudserver,Zenko CloudServer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://www.directorylister.com/,DirectoryLister,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://poffer.gabinaureche.com,Poffer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://meemo.minimal-space.de/,Meemo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://u.azlux.fr,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)
+https://www.iron.io/,iron.io,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://mibew.org/demo2,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.accesstomemory.org/,Access to Memory (AtoM),https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.getanahita.com/,Anahita,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://icehrm.com/,IceHrm,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://phabricator.org/,Phabricator,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://demo.django-wiki.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://www.koding.com/,Koding,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+https://wlk.yt/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://gitnet.fr/deblan/gist,GIST,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.pictshare.net/,PictShare,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://hg.dotclear.org/dotclear,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://documen.tician.de/relate/,RELATE,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://try.rhodecode.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://zusam.org,Zusam,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
+https://bsd.ac/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(OSError(51, 'Network is unreachable')) | reason: [Errno 51] Network is unreachable
+http://blog.zx2c4.com/567,Photofloat,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://demo.domainmod.org,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.traccar.org/,Traccar,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://bigbluebutton.org/,BigBlueButton,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://openstreamingplatform.com,Open Streaming Platform,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.simplemachines.org/,Simple Machines Forum,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://islandora.ca/,Islandora,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://spdx.org/licenses/AGPL-3.0-only.html,GNU Affero General Public License 3.0 only,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.etesync.com,EteSync Server,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://opensource.org/licenses/Zlib,Zlib/libpng License,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://sylius.org/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://localstack.cloud/,LocalStack,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://ungleich.ch/u/projects/ubookmark/,ubookmark,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://demo.docpht.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.coreshop.org,CoreShop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://gladysproject.com,Gladys,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.opensourcepos.org/,Open Source POS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)
+https://thelounge.github.io/,The Lounge,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://www.dovecot.org/,Dovecot,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.phpbb.com/,phpBB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://gist.deblan.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://opensource.org/licenses/LGPL-2.1,Lesser General Public License 2.1,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://fava.pythonanywhere.com/example-with-budgets/income_statement/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://lehollandaisvolant.net/blogotext/,Blogotext,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.archivematica.org/,Archivematica,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.espocrm.com/,EspoCRM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://pretalx.org,pretalx,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://demo.sprut.io:9443,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.neos.io,Neos,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://2600hz.org/,Kazoo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://git-annex.branchable.com/,Git Annex,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://draw.io,draw.io,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://photonix.org/,Photonix,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://opensource.org/licenses/APSL-2.0,Apple Public Source License, Version 2.0,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://freedombone.net/,FreedomBone,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://search.mills.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://demoshop.oxid-esales.com/community-edition/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+http://hastebin.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('timed out') | reason: 
+http://teampass.net/,Teampass,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://conversejs.org/,Converse.js,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.commafeed.com/,CommaFeed,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://wikiindex.org/Category:Wiki_Engine,Wiki Engines on WikiIndex,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://webodf.org/,WebODF,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.sakaiproject.org/try-sakai,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://demo.espocrm.de/basic/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://bitwarden.com/,Bitwarden,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://fileshelter.demo.poupon.io/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://try.bolt.cm/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+http://opensource.org/licenses/Artistic-2.0,Artistic License Version 2.0,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://www.woothemes.com/woocommerce/,WooCommerce,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://paste.scratchbook.ch/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://meilisearch.com,MeiliSearch,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://code.freedombone.net/bashrc/freedombone,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 
+https://zulip.org,Zulip,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted error: timeout('The read operation timed out') | reason: 

@@ -1,24 +1,23 @@
 https://en.wikipedia.org/wiki/GIF,GIF,https://github.com/davisonio/awesome-gif#readme,GIF
+https://giflr.com/,Giflr,https://github.com/davisonio/awesome-gif#readme,GIF
+https://phantomjs.org,PhantomJS,https://github.com/davisonio/awesome-gif#readme,GIF
 https://www.ffmpeg.org,FFmpeg,https://github.com/davisonio/awesome-gif#readme,GIF
+http://www.effectgames.com/demos/canvascycle/?sound=0,canvas,https://github.com/davisonio/awesome-gif#readme,GIF
+https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967,Why is the GIF I created so slow?,https://github.com/davisonio/awesome-gif#readme,GIF
 http://zulko.github.io/moviepy/,MoviePy,https://github.com/davisonio/awesome-gif#readme,GIF
+https://giphy.com,Giphy.com,https://github.com/davisonio/awesome-gif#readme,GIF
+http://ismailbaaj.fr,Ismail Baaj,https://github.com/davisonio/awesome-gif#readme,GIF
 http://yahoo.github.io/gifshot/,demo,https://github.com/davisonio/awesome-gif#readme,GIF
+https://9gag.com/gif,9gag.com/gif,https://github.com/davisonio/awesome-gif#readme,GIF
 https://getkap.co/,Kap,https://github.com/davisonio/awesome-gif#readme,GIF
 http://www.glyph.video/,Glyph,https://github.com/davisonio/awesome-gif#readme,GIF
+http://www.reactiongifs.com/,Reactionsgifs,https://github.com/davisonio/awesome-gif#readme,GIF
 https://sourceforge.net/projects/qgifer/,Qgifer,https://github.com/davisonio/awesome-gif#readme,GIF
 https://gfycat.com,Gfycat,https://github.com/davisonio/awesome-gif#readme,GIF
 https://imgur.com,Imgur,https://github.com/davisonio/awesome-gif#readme,GIF
-https://imgur.com/vidgif,Vid2gif,https://github.com/davisonio/awesome-gif#readme,GIF
-https://giflr.com/,Giflr,https://github.com/davisonio/awesome-gif#readme,GIF
-http://www.gif.gf/labs/face,Gif.gf,https://github.com/davisonio/awesome-gif#readme,GIF
-https://giphy.com,Giphy.com,https://github.com/davisonio/awesome-gif#readme,GIF
-https://9gag.com/gif,9gag.com/gif,https://github.com/davisonio/awesome-gif#readme,GIF
-http://www.reactiongifs.com/,Reactionsgifs,https://github.com/davisonio/awesome-gif#readme,GIF
 https://www.reddit.com/r/educationalgifs/,Educational Gifs,https://github.com/davisonio/awesome-gif#readme,GIF
+https://imgur.com/vidgif,Vid2gif,https://github.com/davisonio/awesome-gif#readme,GIF
 http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html,article,https://github.com/davisonio/awesome-gif#readme,GIF
 https://kornel.ski/lossygif,Lossy Gif,https://github.com/davisonio/awesome-gif#readme,GIF
 https://bitbucket.org/snippets/rbarnesatl/6jRB,Roger Barnes,https://github.com/davisonio/awesome-gif#readme,GIF
 http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/,article,https://github.com/davisonio/awesome-gif#readme,GIF
-https://phantomjs.org,PhantomJS,https://github.com/davisonio/awesome-gif#readme,GIF
-http://www.effectgames.com/demos/canvascycle/?sound=0,canvas,https://github.com/davisonio/awesome-gif#readme,GIF
-https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967,Why is the GIF I created so slow?,https://github.com/davisonio/awesome-gif#readme,GIF
-http://ismailbaaj.fr,Ismail Baaj,https://github.com/davisonio/awesome-gif#readme,GIF

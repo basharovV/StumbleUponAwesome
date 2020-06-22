@@ -1,0 +1,2 @@
+https://www.facebook.com/GNOMEDesktop,@GNOMEDesktop on Facebook,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://devdocs.baznga.org/,GJS Documentation,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

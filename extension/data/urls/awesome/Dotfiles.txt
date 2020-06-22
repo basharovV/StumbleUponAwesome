@@ -1,16 +1,32 @@
+http://dotfiles.github.io,dotfiles.github.io,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://www.google.nl/search?q=dotfiles,Google for "dotfiles",https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard,Filesystem Hierarchy Standard,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789,Getting started with dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/,Managing your dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html,XDG Base Directory Specification,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://wiki.archlinux.org/index.php/Dotfiles,Archlinux collection,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://driesvints.com/blog/getting-started-with-dotfiles/,Getting started with dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://wiki.archlinux.org/index.php/XDG_Base_Directory,Summary,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://www.atlassian.com/git/tutorials/dotfiles,The best way to store your dotfiles: A bare Git repository,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304,Managing your dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://ohmyz.sh,oh-my-zsh,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/,Dotfiles Are Meant to Be Forked,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+http://skwp.github.io/dotfiles/,YADR,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+http://antigen.sharats.me,antigen,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://wynnnetherland.com/journal/dotfiles-discovery/,Dotfile discovery,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://www.reddit.com/r/linux/comments/at05xh/why_do_hidden_files_in_unix_begin_with_a_dot/egyj6lr/,A lesson in shortcuts,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://mattstauffer.com/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config/,Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+http://osxc.github.io,osxc,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://freshshell.com,fresh,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449,Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://www.webpro.nl,Lars Kappert,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+http://www.gnu.org/software/stow/,GNU Stow,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick,article,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145,Part 2,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://www.saltstack.com,SaltStack,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
+https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html,Shell startup scripts,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/,Using Git and GitHub to manage your dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/,conf.d like directories for zsh/bash dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/,Managing your dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://www.atlassian.com/git/tutorials/dotfiles,The best way to store your dotfiles: A bare Git repository,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html,Shell startup scripts,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/,Zsh/Bash startup files loading order,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html,Using GNU Stow to manage your dotfiles,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/,Managing Dotfile Symlinks with GNU Stow,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
@@ -18,20 +34,3 @@ https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html,Ma
 https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/,Manage dotfiles using vcsh and mr,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html,Dotfiles and dev tools provisioned by Ansible,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
 http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible,Manage a development machine with Ansible,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://www.google.nl/search?q=dotfiles,Google for "dotfiles",https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://wiki.archlinux.org/index.php/Dotfiles,Archlinux collection,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://ohmyz.sh,oh-my-zsh,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-http://skwp.github.io/dotfiles/,YADR,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-http://antigen.sharats.me,antigen,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://freshshell.com,fresh,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-http://www.gnu.org/software/stow/,GNU Stow,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick,article,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://www.saltstack.com,SaltStack,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e,article,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-http://dotfiles.github.io,dotfiles.github.io,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard,Filesystem Hierarchy Standard,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html,XDG Base Directory Specification,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://wiki.archlinux.org/index.php/XDG_Base_Directory,Summary,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://www.reddit.com/r/linux/comments/at05xh/why_do_hidden_files_in_unix_begin_with_a_dot/egyj6lr/,A lesson in shortcuts,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-http://osxc.github.io,osxc,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles
-https://www.webpro.nl,Lars Kappert,https://github.com/webpro/awesome-dotfiles#readme,Dotfiles

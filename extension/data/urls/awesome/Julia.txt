@@ -1,11 +1,10 @@
+http://julialang.org/community/standards/,ethical guidelines,https://github.com/svaksha/Julia.jl#readme,Julia
 http://svaksha.github.io/Julia.jl,Julia.jl,https://github.com/svaksha/Julia.jl#readme,Julia
 https://julialang.github.io/Pkg.jl/v1/getting-started/,Pkg,https://github.com/svaksha/Julia.jl#readme,Julia
 http://pkg.julialang.org/,pkg.julialang.org,https://github.com/svaksha/Julia.jl#readme,Julia
 https://en.wikipedia.org/wiki/Outline_of_space_science,space science,https://github.com/svaksha/Julia.jl#readme,Julia
-http://svaksha.com/pages/Bio,SVAKSHA,https://github.com/svaksha/Julia.jl#readme,Julia
 https://opendatacommons.org/licenses/odbl/1-0/,ODbL,https://github.com/svaksha/Julia.jl#readme,Julia
 http://www.gnu.org/licenses/agpl-3.0.html,AGPLv3,https://github.com/svaksha/Julia.jl#readme,Julia
 https://juliaobserver.com,julia-observer,https://github.com/svaksha/Julia.jl#readme,Julia
 https://bitbucket.org/svaksha/Julia.jl,Bitbucket,https://github.com/svaksha/Julia.jl#readme,Julia
 https://gitlab.com/svaksha/Julia.jl,GitLab,https://github.com/svaksha/Julia.jl#readme,Julia
-http://julialang.org/community/standards/,ethical guidelines,https://github.com/svaksha/Julia.jl#readme,Julia

@@ -1,0 +1,2 @@
+https://console.ng.bluemix.net/catalog/services/ibm-graph/,IBM Graph,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf,Linux Foundation Presentation,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop error: <HTTPError 404: 'Not Found'> | reason: Not Found

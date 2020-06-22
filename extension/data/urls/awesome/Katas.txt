@@ -1,35 +1,35 @@
+http://codingdojo.org/KataCatalogue/,Coding Dojo's KataCatalogue,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/,CodeKata,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata10-hashes-vs-classes/,Kata10: Hashes vs. Classes,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata20-klondike/,Kata20: Klondike,https://github.com/gamontal/awesome-katas#readme,Katas
+http://matteo.vaccari.name/blog/archives/293,The OCP Kata,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata11-sorting-it-out/,Kata11: Sorting It Out,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata01-supermarket-pricing/,Kata01: Supermarket Pricing,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata21-simple-lists/,Kata21: Simple Lists,https://github.com/gamontal/awesome-katas#readme,Katas
+http://matteo.vaccari.name/blog/archives/154,The Birthday Greetings Kata,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata12-best-sellers/,Kata12: Best Sellers,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata02-karate-chop/,Kata02: Karate Chop,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap,The Word Wrap Kata,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata13-counting-code-lines/,Kata13: Counting Code Lines,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata03-how-big-how-fast/,Kata03: How Big? How Fast?,https://github.com/gamontal/awesome-katas#readme,Katas
+https://katalyst.codurance.com/,Katalyst,https://github.com/gamontal/awesome-katas#readme,Katas
+https://en.wikipedia.org/wiki/Look-and-say_sequence,Look and Say Sequence,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/,Kata14: Tom Swift Under the Milkwood,https://github.com/gamontal/awesome-katas#readme,Katas
+https://en.wikipedia.org/wiki/AKS_primality_test,AKS primality test,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata04-data-munging/,Kata04: Data Munging,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata15-a-diversion/,Kata15: A Diversion,https://github.com/gamontal/awesome-katas#readme,Katas
+https://en.wikipedia.org/wiki/Roman_numerals,Roman Numeral Converter,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata05-bloom-filters/,Kata05: Bloom Filters,https://github.com/gamontal/awesome-katas#readme,Katas
+https://java.by-comparison.com/kata,Java by Comparison Kata,https://github.com/gamontal/awesome-katas#readme,Katas
+https://en.wikipedia.org/wiki/Natural_sort_order,Natural sort order,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata16-business-rules/,Kata16: Business Rules,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata06-anagrams/,Kata06: Anagrams,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata07-howd-i-do/,Kata07: How'd I Do?,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata08-conflicting-objectives/,Kata08: Conflicting Objectives,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata09-back-to-the-checkout/,Kata09: Back to the Checkout,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata10-hashes-vs-classes/,Kata10: Hashes vs. Classes,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata11-sorting-it-out/,Kata11: Sorting It Out,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata12-best-sellers/,Kata12: Best Sellers,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata13-counting-code-lines/,Kata13: Counting Code Lines,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/,Kata14: Tom Swift Under the Milkwood,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata15-a-diversion/,Kata15: A Diversion,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata16-business-rules/,Kata16: Business Rules,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata17-more-business-rules/,Kata17: More Business Rules,https://github.com/gamontal/awesome-katas#readme,Katas
+http://es6katas.org/,ES6 Katas,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata08-conflicting-objectives/,Kata08: Conflicting Objectives,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata18-transitive-dependencies/,Kata18: Transitive Dependencies,https://github.com/gamontal/awesome-katas#readme,Katas
 http://codekata.com/kata/kata19-word-chains/,Kata19: Word Chains,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata20-klondike/,Kata20: Klondike,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codekata.com/kata/kata21-simple-lists/,Kata21: Simple Lists,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap,The Word Wrap Kata,https://github.com/gamontal/awesome-katas#readme,Katas
-https://en.wikipedia.org/wiki/Look-and-say_sequence,Look and Say Sequence,https://github.com/gamontal/awesome-katas#readme,Katas
-https://en.wikipedia.org/wiki/AKS_primality_test,AKS primality test,https://github.com/gamontal/awesome-katas#readme,Katas
-https://en.wikipedia.org/wiki/Roman_numerals,Roman Numeral Converter,https://github.com/gamontal/awesome-katas#readme,Katas
-https://en.wikipedia.org/wiki/Natural_sort_order,Natural sort order,https://github.com/gamontal/awesome-katas#readme,Katas
-http://es6katas.org/,ES6 Katas,https://github.com/gamontal/awesome-katas#readme,Katas
+http://codekata.com/kata/kata09-back-to-the-checkout/,Kata09: Back to the Checkout,https://github.com/gamontal/awesome-katas#readme,Katas
 http://code.joejag.com/coding-dojo/bank-ocr/,Bank OCR,https://github.com/gamontal/awesome-katas#readme,Katas
 https://en.wikipedia.org/wiki/Bubble_sort,Bubble sort,https://github.com/gamontal/awesome-katas#readme,Katas
-http://codingdojo.org/KataCatalogue/,Coding Dojo's KataCatalogue,https://github.com/gamontal/awesome-katas#readme,Katas
-http://matteo.vaccari.name/blog/archives/293,The OCP Kata,https://github.com/gamontal/awesome-katas#readme,Katas
-http://matteo.vaccari.name/blog/archives/154,The Birthday Greetings Kata,https://github.com/gamontal/awesome-katas#readme,Katas
-https://katalyst.codurance.com/,Katalyst,https://github.com/gamontal/awesome-katas#readme,Katas
-https://java.by-comparison.com/kata,Java by Comparison Kata,https://github.com/gamontal/awesome-katas#readme,Katas

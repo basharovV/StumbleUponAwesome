@@ -1,93 +1,83 @@
 https://paragonie.com,Paragon Initiative Enterprises,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/projects,other community projects,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/blog/2015/08/gentle-introduction-application-security,A Gentle Introduction to Application Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/,How to Safely Generate a Random Number,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://crackstation.net/hashing-security.htm,Salted Password Hashing - Doing it Right,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://crackstation.net,Crackstation,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://defuse.ca,Defuse Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html,A good idea with bad usage: /dev/urandom,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/white-paper/2015-why-invest-application-security,Why Invest in Application Security?,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/,Be wary of one-time pads and other crypto unicorns,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://mdsec.net/wahh,Web Application Hacker's Handbook,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246,Cryptography Engineering,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8,Securing DevOps,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921,Gray Hat Python: Programming for Hackers and Reverse Engineers,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/,The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/,C Interfaces and Implementations: Techniques for Creating Reusable Software,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817,Reversing: Secrets of Reverse Engineering,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742,JavaScript: The Good parts,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301,Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362,The Mac Hacker's Handbook,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence,Secure Authentication in PHP with Long-Term Persistence,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://scotthelme.co.uk,Scott Helme,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786,The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/projects,other community projects,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.nostarch.com/blackhatpython,Black Hat Python: Python Programming for Hackers and Pentesters,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/blog/2015/08/gentle-introduction-application-security,A Gentle Introduction to Application Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://mdsec.net/wahh,Web Application Hacker's Handbook,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436,Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition),https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579,Violent Python,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246,Cryptography Engineering,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://leanpub.com/securingphp-coreconcepts,Securing PHP: Core Concepts,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.cossacklabs.com/blog-archive/,Cossack Labs blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/,How to Safely Generate a Random Number,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java,SEI CERT Java Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html,Secure Ruby Development Guide,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/book/pecl-libsodium,Using Libsodium in PHP Projects,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8,Securing DevOps,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771,Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395,Computation Structures (MIT Electrical Engineering and Computer Science),https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252,Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.dwheeler.com/secure-programs/,Secure Programming HOWTO,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.cl.cam.ac.uk/~rja14/book.html,Security Engineering - Second Edition,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.feistyduck.com/books/bulletproof-ssl-and-tls/,Bulletproof SSL and TLS,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://leanpub.com/holistic-infosec-for-web-developers,Holistic Info-Sec for Web Developers (Fascicle 0),https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications,Holistic Info-Sec for Web Developers (Fascicle 1),https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/,Offensive Computer Security (CIS 4930) FSU,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html,lectures,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://www.hackthissite.org,Hack This Site!,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.enigmagroup.org,Enigma Group,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://crackstation.net/hashing-security.htm,Salted Password Hashing - Doing it Right,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395,Computation Structures (MIT Electrical Engineering and Computer Science),https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921,Gray Hat Python: Programming for Hackers and Reverse Engineers,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://crackstation.net,Crackstation,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://matasano.com,Matasano Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.oracle.com/technetwork/java/seccodeguide-139067.html,Secure Coding Guidelines for Java SE,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/,The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.openwall.com/phpass/,openwall/phpass,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project,OWASP Top Ten Project,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252,Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://defuse.ca,Defuse Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html,25 PHP Security Best Practices For Sys Admins,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/,C Interfaces and Implementations: Techniques for Creating Reusable Software,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html,PHP data encryption primer,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://websec.io,websec.io,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide,Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.ssllabs.com/,Qualys SSL Labs,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://blog.risingstack.com/node-js-security-checklist/,Node.js Security Checklist - Rising Stack Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817,Reversing: Secrets of Reverse Engineering,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://pentesterlab.com,PentesterLab,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.dwheeler.com/secure-programs/,Secure Programming HOWTO,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/blog/,Paragon Initiative Enterprises Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded,You Wouldn't Base64 a Password - Cryptography Decoded,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html,A good idea with bad usage: /dev/urandom,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://pentesterlab.com/exercises/,free Hands-On exercises,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742,JavaScript: The Good parts,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/white-paper/2015-secure-php-data-encryption,A Guide to Secure Data Encryption in PHP Applications,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.cl.cam.ac.uk/~rja14/book.html,Security Engineering - Second Edition,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://pentesterlab.com/bootcamp/,bootcamp,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://blog.ircmaxell.com,ircmaxell's blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301,Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://leanpub.com/nodejssecurity,Essential Node.js Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://timoh6.github.io/WebAppSecQuiz/,Web App Sec Quiz,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://paragonie.com/white-paper/2015-why-invest-application-security,Why Invest in Application Security?,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://securityheaders.io/,securityheaders.io,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.feistyduck.com/books/bulletproof-ssl-and-tls/,Bulletproof SSL and TLS,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://securepasswords.info,SecurePasswords.info,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://lzone.de/cheat-sheet/Security-News-Feeds,Security News Feeds Cheat-Sheet,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://opensecuritytraining.info/,Open Security Training,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://microcorruption.com/login,MicroCorruption,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://cryptopals.com,The Matasano Crypto Challenges,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://matasano.com,Matasano Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges,The introduction,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://pentesterlab.com,PentesterLab,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://pentesterlab.com/exercises/,free Hands-On exercises,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://pentesterlab.com/bootcamp/,bootcamp,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362,The Mac Hacker's Handbook,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://bkimminich.github.io/juice-shop,Juice Shop,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://opensecuritytraining.info/,Open Security Training,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://hackyourselffirst.troyhunt.com/,Supercar Showdown,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://nodegoat.herokuapp.com/tutorial,tutorials,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://cryptofails.com,Crypto Fails,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/,NCC Group - Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://scotthelme.co.uk,Scott Helme,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.cossacklabs.com/blog-archive/,Cossack Labs blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project,OWASP Top Ten Project,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.ssllabs.com/,Qualys SSL Labs,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://securityheaders.io/,securityheaders.io,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://report-uri.io,report-uri.io,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard,SEI CERT C Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html,Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637,SEI CERT C++ Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://securitydriven.net/,Security Driven .NET,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://cryptolosophy.io/memory-security-go/,Memory Security in Go - cryptolosophy.io,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java,SEI CERT Java Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.oracle.com/technetwork/java/seccodeguide-139067.html,Secure Coding Guidelines for Java SE,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://blog.risingstack.com/node-js-security-checklist/,Node.js Security Checklist - Rising Stack Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://leanpub.com/nodejssecurity,Essential Node.js Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://liftsecurity.io/training,Security Training by ^Lift Security,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://nodesecurity.io,Node Security Project,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/,Be wary of one-time pads and other crypto unicorns,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://leanpub.com/holistic-infosec-for-web-developers,Holistic Info-Sec for Web Developers (Fascicle 0),https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard,SEI CERT C Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://microcorruption.com/login,MicroCorruption,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://nodegoat.herokuapp.com/tutorial,tutorials,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://blog.binarymist.net/presentations-publications/,Security Training from BinaryMist,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html,Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://cryptopals.com,The Matasano Crypto Challenges,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://leanpub.com/b/holisticinfosecforwebdevelopers,book series,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://cryptofails.com,Crypto Fails,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637,SEI CERT C++ Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://blog.ircmaxell.com/2014/11/its-all-about-time.html,It's All About Time,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence,Secure Authentication in PHP with Long-Term Persistence,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php,20 Point List For Preventing Cross-Site Scripting In PHP,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html,25 PHP Security Best Practices For Sys Admins,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html,PHP data encryption primer,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide,Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded,You Wouldn't Base64 a Password - Cryptography Decoded,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/white-paper/2015-secure-php-data-encryption,A Guide to Secure Data Encryption in PHP Applications,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://pecl.php.net/package/libsodium,libsodium,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications,Holistic Info-Sec for Web Developers (Fascicle 1),https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://securitydriven.net/,Security Driven .NET,https://github.com/paragonie/awesome-appsec#readme,Application Security
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/,NCC Group - Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software,The 2018 Guide to Building Secure PHP Software,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.phptherightway.com,PHP: The Right Way,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://leanpub.com/securingphp-coreconcepts,Securing PHP: Core Concepts,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/book/pecl-libsodium,Using Libsodium in PHP Projects,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.openwall.com/phpass/,openwall/phpass,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://websec.io,websec.io,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://paragonie.com/blog/,Paragon Initiative Enterprises Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://blog.ircmaxell.com,ircmaxell's blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://blog.astrumfutura.com,Pádraic Brady's Blog,https://github.com/paragonie/awesome-appsec#readme,Application Security
 http://securingphp.com,Securing PHP Weekly,https://github.com/paragonie/awesome-appsec#readme,Application Security
+http://www.phptherightway.com,PHP: The Right Way,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard,SEI CERT Perl Coding Standard,https://github.com/paragonie/awesome-appsec#readme,Application Security
 https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html,Python chapter of Fedora Defensive Coding Guide,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://www.nostarch.com/blackhatpython,Black Hat Python: Python Programming for Hackers and Pentesters,https://github.com/paragonie/awesome-appsec#readme,Application Security
-http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579,Violent Python,https://github.com/paragonie/awesome-appsec#readme,Application Security
-https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html,Secure Ruby Development Guide,https://github.com/paragonie/awesome-appsec#readme,Application Security

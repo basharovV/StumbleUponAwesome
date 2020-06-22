@@ -1,0 +1,4 @@
+https://news.ycombniator.com/,Alternative Hacker News,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://lou.wtf/phaker-news/,Phaker News,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://muldersbigadventure.com/markov/,Mulder's Big Adventure,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://joshmillard.com/markov/sttng/,Star Trek the Next Generation,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains error: <HTTPError 404: 'Not Found'> | reason: Not Found

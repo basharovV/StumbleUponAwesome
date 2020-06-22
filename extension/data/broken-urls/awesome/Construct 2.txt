@@ -1,0 +1,2 @@
+https://zeit.co/now,Now,https://github.com/WebCreationClub/awesome-construct#readme,Construct 2 error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html,Programming Logic MADE EASY with Construct 2!,https://github.com/WebCreationClub/awesome-construct#readme,Construct 2 error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)

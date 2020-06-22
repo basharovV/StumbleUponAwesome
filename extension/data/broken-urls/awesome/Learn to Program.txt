@@ -1,0 +1,5 @@
+http://paqmind.com,Paqmind,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://ureddit.com/category/23442/computer-science,University of Reddit,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://learn.upleveled.io/,UpLeveled Bootcamp Prep Course,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

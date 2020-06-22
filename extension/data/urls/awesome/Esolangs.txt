@@ -1,51 +1,51 @@
-https://esolangs.org/wiki/1%2B,1+,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://www.quaxio.com/ajsone,ajsone,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://lhartikk.github.io/ArnoldC,ArnoldC,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/Befunge,Befunge,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/Brainfuck,Brainfuck,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.dangermouse.net/esoteric/chef.html,Chef,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/Chicken,Chicken,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/DNA-Sharp,DNA#,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.emojicode.org,Emojicode,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://strlen.com/false-language,False,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://en.wikipedia.org/wiki/Esoteric_programming_language,Wikipedia/Esoteric programming languages,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://esolangs.org/wiki/Fugue,Fugue,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.golfscript.com/golfscript,Golfscript,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.dangermouse.net/esoteric/haifu.html,Haifu,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.catb.org/~esr/intercal,INTERCAL,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://en.wikipedia.org/wiki/Code_golf,golfing,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://tromp.github.io/cl/lazy-k.html,Lazy K,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://morr.cc/legit,legit,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://lolcode.org,LolCode,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.lscheffer.com/malbolge.shtml,Malbolge,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/Omgrofl,Omgrofl,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/1%2B,1+,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/List_of_ideas,Esolang List of ideas,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.dangermouse.net/esoteric/whenever.html,Whenever,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.dangermouse.net/esoteric/piet/samples.html,David Morgan-Mar,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 http://www.dangermouse.net/esoteric/ook.html,Ook!,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://www.quaxio.com/ajsone,ajsone,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.golfscript.com/golfscript,Golfscript,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://hundredrabbits.itch.io/orca,Orca,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 http://esolangs.org/wiki/reMorse,reMorse,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.dangermouse.net/esoteric/piet.html,Piet,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://shakespearelang.sourceforge.net,Shakespeare,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://spookylang.com,Spooky,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/Unary,Unary,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.madore.org/~david/programs/unlambda,Unlambda,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://velato.net,Velato,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://wenyan-lang.lingdong.works,文言 (Wenyan),https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.dangermouse.net/esoteric/whenever.html,Whenever,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace,Whitespace,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://lhartikk.github.io/ArnoldC,ArnoldC,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://ruslanspivak.com/lsbasi-part1,Let's Build a Basic Interpreter (Ruslan's Blog),https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.dangermouse.net/esoteric/haifu.html,Haifu,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.dangermouse.net/esoteric/piet.html,Piet,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/Befunge,Befunge,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://esolangs.org/wiki/Z,Z,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://shakespearelang.sourceforge.net,Shakespeare,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://www.dangermouse.net/esoteric/zombie.html,ZOMBIE,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/Brainfuck,Brainfuck,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.catb.org/~esr/intercal,INTERCAL,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will,Six programming paradigms that will change how you think about coding,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://en.wikipedia.org/wiki/Code_golf,golfing,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://spookylang.com,Spooky,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.dangermouse.net/esoteric/chef.html,Chef,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/Unary,Unary,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/Chicken,Chicken,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages,The Fun (and Madness) of Esoteric Programming Languages,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://tromp.github.io/cl/lazy-k.html,Lazy K,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf,On the Turing Completeness Of MS PowerPoint,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/DNA-Sharp,DNA#,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://gkoberger.github.io/stacksort,Stacksort,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://morr.cc/legit,legit,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 http://www.dangermouse.net/esoteric/petrovich.html,Petrovich,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://golf.shinh.org,Anarchy Golf,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.emojicode.org,Emojicode,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://codegolf.stackexchange.com,Code Golf Stack Exchange,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.madore.org/~david/programs/unlambda,Unlambda,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 http://www.dangermouse.net/esoteric,DM's Esoteric Programming Languages,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://strlen.com/false-language,False,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://velato.net,Velato,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://webchat.freenode.net/?channels=esoteric&uio=d4,Freenode IRC Channel,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://lolcode.org,LolCode,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://wenyan-lang.lingdong.works,文言 (Wenyan),https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://esolangs.org,Esolang,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+http://www.lscheffer.com/malbolge.shtml,Malbolge,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://esolangs.org/wiki/Omgrofl,Omgrofl,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
+https://www.reddit.com/r/esolangs,Reddit Esolangs,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 https://esoteric.codes,Esoteric Codes,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
 http://rosettacode.org/wiki/Rosetta_Code,Rosettacode,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://en.wikipedia.org/wiki/Esoteric_programming_language,Wikipedia/Esoteric programming languages,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://esolangs.org/wiki/List_of_ideas,Esolang List of ideas,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://ruslanspivak.com/lsbasi-part1,Let's Build a Basic Interpreter (Ruslan's Blog),https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will,Six programming paradigms that will change how you think about coding,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages,The Fun (and Madness) of Esoteric Programming Languages,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf,On the Turing Completeness Of MS PowerPoint,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://golf.shinh.org,Anarchy Golf,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://codegolf.stackexchange.com,Code Golf Stack Exchange,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://webchat.freenode.net/?channels=esoteric&uio=d4,Freenode IRC Channel,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-https://www.reddit.com/r/esolangs,Reddit Esolangs,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs
-http://www.dangermouse.net/esoteric/piet/samples.html,David Morgan-Mar,https://github.com/angrykoala/awesome-esolangs#readme,Esolangs

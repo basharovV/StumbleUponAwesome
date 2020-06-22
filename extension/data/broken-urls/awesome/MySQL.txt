@@ -1,0 +1,2 @@
+http://mysqltuner.com,MySQLTuner-perl,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://bitbucket.org/Marc-T/undrop-for-innodb,UnDROP,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL error: <HTTPError 404: 'Not Found'> | reason: Not Found

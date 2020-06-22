@@ -1,0 +1,4 @@
+https://libraries.io/npm,Libraries.io,https://github.com/sindresorhus/awesome-npm#readme,npm error: timeout('The read operation timed out') | reason: 
+https://wzrd.in/standalone/object-assign,https://wzrd.in/standalone/object-assign,https://github.com/sindresorhus/awesome-npm#readme,npm error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://wzrd.in/standalone/object-assign@4.0.0,https://wzrd.in/standalone/object-assign@4.0.0,https://github.com/sindresorhus/awesome-npm#readme,npm error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://nodei.co/,NodeICO,https://github.com/sindresorhus/awesome-npm#readme,npm error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

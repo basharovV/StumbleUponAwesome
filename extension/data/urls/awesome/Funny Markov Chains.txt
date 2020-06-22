@@ -1,32 +1,28 @@
 https://en.wikipedia.org/wiki/Memorylessness,memorylessness,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://www.headlinesmasher.com/best/all,Headline Smasher,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-https://www.reddit.com/r/subredditsimulator,Subreddit Simulator,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-https://news.ycombniator.com/,Alternative Hacker News,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://lou.wtf/phaker-news/,Phaker News,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://www.x11r5.com/radio/,Cybersauce Broadcasting Corporation,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://java.metagno.me/,Java! Real or Not?,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://patchworkdollgames.com/yourswimsuit/,Your Swimsuit Jumped Over Its Own Weathercock, You Liar!,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://thedoomthatcametopuppet.tumblr.com/,The Doom That Came to Puppet,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://kingjamesprogramming.tumblr.com/,King James Programming,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://peabody.sapp.org/class/dmp2/lab/markov1/,Digital Music Programming,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://git-man-page-generator.lokaltog.net/,Git man page Generator,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://setosa.io/blog/2014/07/26/markov-chains/,A visual explanation of Markov chains,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://www.headlinesmasher.com/best/all,Headline Smasher,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/,Jon Skeet bot,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-https://se-simulator.lw1.at/,StackExchange Simulator,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://joshmillard.com/markov/calvin/,Calvin and Markov,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://joshmillard.com/garkov/,Garkov,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://muldersbigadventure.com/markov/,Mulder's Big Adventure,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://joshmillard.com/markov/lebowski/,The Big Markovski,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://joshmillard.com/markov/christ/,Jesus Markoving Christ,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://joshmillard.com/markov/sttng/,Star Trek the Next Generation,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-https://xkcd.com/210/,XKCD,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 https://web.archive.org/web/20081224025955/http://www.markovbible.com/,Markov Bible,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 https://filiph.github.io/markov/,Automatic Donald Trump,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+https://www.reddit.com/r/subredditsimulator,Subreddit Simulator,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://trump.frost.works/,Insta-Trump,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+https://se-simulator.lw1.at/,StackExchange Simulator,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://yes.thatcan.be/my/next/tweet/,That Can Be My Next Tweet,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://www.yisongyue.com/shaney/,Mark V. Shaney at Your Service,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://joshmillard.com/markov/calvin/,Calvin and Markov,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://mrsharpoblunto.github.io/foswig.js/,foswig.js,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://joshmillard.com/garkov/,Garkov,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://benedictcumberbatchgenerator.tumblr.com/,Benedict Cumberbatch Name Generator,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://www.x11r5.com/radio/,Cybersauce Broadcasting Corporation,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 https://web.archive.org/web/20011101013348/http://www.sincity.com/penn-n-teller/pcc/shaney.html,"I Spent an Interesting Evening Recently with a Grain of Salt",https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://java.metagno.me/,Java! Real or Not?,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://joshmillard.com/markov/lebowski/,The Big Markovski,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://joshmillard.com/markov/christ/,Jesus Markoving Christ,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://patchworkdollgames.com/yourswimsuit/,Your Swimsuit Jumped Over Its Own Weathercock, You Liar!,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+https://xkcd.com/210/,XKCD,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://thedoomthatcametopuppet.tumblr.com/,The Doom That Came to Puppet,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 https://web.archive.org/web/19970418070034/http://softway.com.au/people/mvs/,Mark V. Shaney's Website,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
+http://kingjamesprogramming.tumblr.com/,King James Programming,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
 http://www.eblong.com/zarf/markov/,Fun With Markov Chains,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://peabody.sapp.org/class/dmp2/lab/markov1/,Digital Music Programming,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains
-http://setosa.io/blog/2014/07/26/markov-chains/,A visual explanation of Markov chains,https://github.com/sublimino/awesome-funny-markov#readme,Funny Markov Chains

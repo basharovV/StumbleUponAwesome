@@ -1,0 +1,2 @@
+https://readytheapp.com/,Ready,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://add-art.org/,Add-Art,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: timeout('The read operation timed out') | reason: 

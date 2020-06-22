@@ -1,17 +1,17 @@
+https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746,Phalcon Book (in French),https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://discordapp.com/invite/kRc2N2M,Discord,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
+https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf,Phalcon PDF Documentation,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://www.giadamusic.com/,Giada Loop Machine,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 http://phpdebugbar.com,PHP Debug Bar,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
+https://builtwith.phalcon.io/,Built With,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language,volt-phalcon-language,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
+https://blog.phalcon.io/,Phalcon Blog,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://quasipickle.github.io/feedback/,Feedback,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
+https://docs.phalcon.io/3.4/en/introduction,Phalcon Documentation,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://www.facebook.com/Phalcon-Framework-134230726685897,Facebook,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
+https://www.sitepoint.com/?s=phalcon,Sitepoint,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://gab.com/phalcon,Gab,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
+https://code.tutsplus.com/categories/phalcon/courses,Tutsplus,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://forum.phalcon.io/,Phalcon Forums,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://gitter.im/phalcon-rus/chat,Phalcon Russian Community Chat,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
 https://stackoverflow.com/questions/tagged/phalcon,Stack Overflow,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746,Phalcon Book (in French),https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf,Phalcon PDF Documentation,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://builtwith.phalcon.io/,Built With,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://blog.phalcon.io/,Phalcon Blog,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://docs.phalcon.io/3.4/en/introduction,Phalcon Documentation,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://www.sitepoint.com/?s=phalcon,Sitepoint,https://github.com/phalcon/awesome-phalcon#readme,Phalcon
-https://code.tutsplus.com/categories/phalcon/courses,Tutsplus,https://github.com/phalcon/awesome-phalcon#readme,Phalcon

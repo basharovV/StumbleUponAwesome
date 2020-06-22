@@ -1,0 +1,45 @@
+https://pagodabox.io,Pagodabox,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://www.hellobar.com,HelloBar,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://dribbble.com,Dribbble,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://pusher.com,Pusher,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade,Data Extractor for Tools of The Trade,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.salesforce.com/solutions/small-business-solutions/help-desk-software/?mc=desk,Salesforce Desk,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://portswigger.net/burp,Burp,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://inkdrop.app/,Inkdrop,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://audienceops.com,AudienceOps,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://mailtrap.io,Mailtrap,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+http://www.vertabelo.com,Vertabelo,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+http://mobile-orm.vertabelo.com/,Vertabelo Mobile ORM,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://kwfinder.com/,KWFinder,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.telemetrytv.com,Telemetry,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.scaledrone.com,ScaleDrone,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://news.ycombinator.com/item?id=5235137,posted the following,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://getWisdom.io,Wisdom,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://appsignal.com,AppSignal,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.people-doc.com/,PeopleDoc,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sprint.ly,Sprintly,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://unbounce.com,Unbounce,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://hubstaff.com,Hubstaff,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.reamaze.com,Reamaze,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.bugsnag.com,BugSnag,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.shyp.com,Shyp,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)
+https://codeclimate.com,CodeClimate,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://paydirtapp.com,Paydirt,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://podio.com,Podio,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+http://advertise.bingads.microsoft.com,Bing Ads,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://sales.getwhiplash.com/,Whiplash,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.chargify.com,Chargify,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://iplocate.app,iplocate.app,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.uservoice.com/,Uservoice,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://papertrailapp.com,Papertrail,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://semaphoreci.com,Semaphore,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://www.getballpark.com,Ballpark,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://taskarmy.com,TaskArmy,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://gitter.im,Gitter,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://Fast409A.io,Fast409A,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)
+https://silverbackapp.com,Silverback 2.0,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://www.baasbox.com,BaasBox,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+http://bulbflow.org,Bulbs,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.kamiapp.com/,Kami,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+https://stackify.com,Stackify,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: timeout('The read operation timed out') | reason: 
+http://www.framebench.com,Framebench,https://github.com/cjbarber/ToolsOfTheTrade#readme,Tools of the Trade error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

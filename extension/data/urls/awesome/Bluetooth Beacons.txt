@@ -1,69 +1,56 @@
+https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de,Bluetooth 4.0 Scanner,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developers.google.com/beacons/get-started,Get Started with Beacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://developers.google.com/beacons/,Google Developers Beacons Portal,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://stackoverflow.com/questions/25387660/ibeacon-region-monitoring-and-proximity-for-20-beacons,iBeacon region monitoring AND proximity for >20 beacons?,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.wayfindr.net,Empowering vision impaired people to navigate the world independently,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/,Texas Instruments - SensorTag DeveloperKit,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://play.google.com/store/apps/details?id=net.alea.beaconsimulator,Beacon Toy - Android App to advertise as Eddystone,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/,Web Bluetooth Eddystone Configurator,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developers.google.com/beacons/proximity/guides,Proximity Beacon API,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://de.slideshare.net/glennthomasstephens/ibeacon-support,Using iBeacon with Xamarin.iOS and Xamarin.Android,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developers.google.com/nearby/,Nearby,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 http://google.github.io/physical-web/,Physical Web - Walk up and use anything,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://flows.nodered.org/node/node-red-node-physical-web,Node-RED nodes to interact with the Physical Web,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://shop.oreilly.com/product/0636920033813.do,Building Applications with iBeacon,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8,Locate by Radius Networks - Virtual iBeacon,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://www.youtube.com/watch?v=w0XazPrh7r0,Video: Introduction to the Physical Web,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/,URL Validator 1,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/connected-mobile-experiences/ibeacon_faq.pdf,Cisco iBeacon FAQ,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developer.apple.com/ibeacon,iBeacon for Developers,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics/low-energy,Official Bluetooth Smart Portal,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8,Quick Beacon,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp,nRF Master Control Panel (BLE),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.thoughtworks.com/insights/blog/what-is-ibeacon-in-5-minutes,5 Minute Overview - What is iBeacon? by ThoughtWorks,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf,Getting Started with iBeacon (PDF),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.thoughtworks.com/insights/blog/semi-technical-lowdown-working-ibeacons,A Semi-Technical Lowdown on Working with iBeacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developer.apple.com/ibeacon/,iBeacon Artwork and Specifications,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.youtube.com/watch?v=0IGeQqEGhx4,CapTech Webinar: iBeacon Demystified,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons,10 awesome things you can do today with iBeacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://support.apple.com/en-us/HT202880,iOS: Understanding iBeacon device compatibility,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://launchhere.awwapps.com/,LaunchHere for iOS - iBeacon based app shortcuts,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://support.apple.com/en-us/HT201357,iOS 7: Understanding Location Services,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://developer.radiusnetworks.com/2014/01/10/ibeacon-misconceptions.html,5 fundamental misconceptions about Beacon technology by RadiusNetworks,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://url-caster.appspot.com/webui,URL Validator 2,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://medium.com/@urish/traveling-with-beacons-checked-luggage-made-easy-bbd664765ea3,Traveling with Beacons: Checked Luggage Made Easy,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8,(or iOS),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://mashable.com/2014/05/09/beacons-limitations/,Ask a Dev: What Are the Limitations of Beacons?,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html,Apple AirLocate Sample Code,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.brooklynmuseum.org/community/blogosphere/2014/10/14/positioning-visitors-with-ibeacons/,Positioning Visitors with iBeacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://www.dialog-semiconductor.com/bluetooth-smart,Dialog Semiconductor,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A,Physical Web Getting Started Guide for Developers,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons,iOS8 fix,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://mashable.com/2014/02/24/beacons-geofencing-location/,What's the Difference Between Beacons and Geofencing?,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.brooklynmuseum.org/community/blogosphere/2016/02/23/getting-visibility-on-the-ibeacon-problem/,Getting Visibility on the iBeacon Problem,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf,IEEE: Enabling the Internet of Things,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://dev.opera.com/articles/web-bluetooth-intro/,Web Bluetooth Intro,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01,EMMicroelectronics,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e,Exploring the Physical Web (Without Buying Beacons),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://www.youtube.com/watch?v=0QeY9FueMow,Beacons 101-- Getting Started with the Google Beacon Platform,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developers.google.com/beacons/get-started,Get Started with Beacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developers.google.com/beacons/proximity/guides,Proximity Beacon API,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developers.google.com/nearby/,Nearby,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developer.apple.com/ibeacon,iBeacon for Developers,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf,Getting Started with iBeacon (PDF),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developer.apple.com/ibeacon/,iBeacon Artwork and Specifications,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://support.apple.com/en-us/HT202880,iOS: Understanding iBeacon device compatibility,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://support.apple.com/en-us/HT201357,iOS 7: Understanding Location Services,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html,Apple AirLocate Sample Code,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons,iOS8 fix,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://shop.oreilly.com/product/0636920033813.do,Building Applications with iBeacon,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/connected-mobile-experiences/ibeacon_faq.pdf,Cisco iBeacon FAQ,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.thoughtworks.com/insights/blog/what-is-ibeacon-in-5-minutes,5 Minute Overview - What is iBeacon? by ThoughtWorks,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.thoughtworks.com/insights/blog/semi-technical-lowdown-working-ibeacons,A Semi-Technical Lowdown on Working with iBeacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.youtube.com/watch?v=0IGeQqEGhx4,CapTech Webinar: iBeacon Demystified,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://developer.radiusnetworks.com/2014/01/10/ibeacon-misconceptions.html,5 fundamental misconceptions about Beacon technology by RadiusNetworks,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://mashable.com/2014/05/09/beacons-limitations/,Ask a Dev: What Are the Limitations of Beacons?,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://mashable.com/2014/02/24/beacons-geofencing-location/,What's the Difference Between Beacons and Geofencing?,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://beekn.net/guide-to-ibeacons/,Guide to iBeacon Hardware by beekn.net,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://beekn.net/developing-ibeacon-app/,Developing an iBeacon App by beekn.net,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.wayfindr.net,Empowering vision impaired people to navigate the world independently,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons,10 awesome things you can do today with iBeacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://launchhere.awwapps.com/,LaunchHere for iOS - iBeacon based app shortcuts,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://medium.com/@urish/traveling-with-beacons-checked-luggage-made-easy-bbd664765ea3,Traveling with Beacons: Checked Luggage Made Easy,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.brooklynmuseum.org/community/blogosphere/2014/10/14/positioning-visitors-with-ibeacons/,Positioning Visitors with iBeacons,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.brooklynmuseum.org/community/blogosphere/2016/02/23/getting-visibility-on-the-ibeacon-problem/,Getting Visibility on the iBeacon Problem,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 https://itunes.apple.com/us/app/locate-for-ibeacon/id738709014?mt=8,Locate Beacon by RadiusNetworks,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8,Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.udemy.com/ibeacon-development-for-iphone/,Udemy: iBeacon development for iPhone,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/,PubNub.com - Two-Way iBeacon Communication with Swift Programming Language,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://stackoverflow.com/questions/25387660/ibeacon-region-monitoring-and-proximity-for-20-beacons,iBeacon region monitoring AND proximity for >20 beacons?,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://play.google.com/store/apps/details?id=net.alea.beaconsimulator,Beacon Toy - Android App to advertise as Eddystone,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8,Locate by Radius Networks - Virtual iBeacon,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8,Quick Beacon,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developer.android.com/about/versions/android-5.0.html,Android Lolipop Bluetooth Low Energy Enhancements.,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/,Blog post,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://developer.android.com/guide/topics/connectivity/bluetooth-le.html,Android & BLE,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.youtube.com/watch?v=vUbFB1Qypg8,DevBytes: Bluetooth Low Energy API in Android 4.3,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://play.google.com/store/apps/details?id=be.createweb.beaconscanner,iBeacon Scanner,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de,iBeacon Detector,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de,Bluetooth 4.0 Scanner,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://de.slideshare.net/glennthomasstephens/ibeacon-support,Using iBeacon with Xamarin.iOS and Xamarin.Android,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://flows.nodered.org/node/node-red-node-physical-web,Node-RED nodes to interact with the Physical Web,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics/low-energy,Official Bluetooth Smart Portal,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp,nRF Master Control Panel (BLE),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://itunes.apple.com/de/app/lightblue/id639944780?mt=12,LightBlue Mac OSX,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8,(or iOS),https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8,BlueSpeed for iOS by Punch Through,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-https://dev.opera.com/articles/web-bluetooth-intro/,Web Bluetooth Intro,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://www.ti.com/ble,Texas Instruments - BLE Portal,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/,Texas Instruments - SensorTag DeveloperKit,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://git.ti.com/sensortag-android,TI SensorTag Android Sources,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://www.broadcom.com/application/internet_of_things.php,Broadcom - WICED™ Sense Development Kit,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://www.dialog-semiconductor.com/bluetooth-smart,Dialog Semiconductor,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01,EMMicroelectronics,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/,Wired,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.udemy.com/ibeacon-development-for-iphone/,Udemy: iBeacon development for iPhone,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 http://www.wi-fi.org/discover-wi-fi/wi-fi-aware,Wi-Fi Aware™,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/,PubNub.com - Two-Way iBeacon Communication with Swift Programming Language,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
 http://altbeacon.org/,The Open and Interoperable Proximity Beacon Specification,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
-http://www.squaremetrics.com/,Square Metrics GmbH,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://www.youtube.com/watch?v=vUbFB1Qypg8,DevBytes: Bluetooth Low Energy API in Android 4.3,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons
+https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de,iBeacon Detector,https://github.com/rabschi/awesome-beacon#readme,Bluetooth Beacons

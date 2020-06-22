@@ -1,0 +1,3 @@
+https://www.aeaweb.org/gradstudents/index.php,American Economic Association: Graduate Training in Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://econjobmarket.org/postings.php,Econ Jobs Postings,https://github.com/antontarasenko/awesome-economics#readme,Economics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.imf.org/en/Data,IMF Data,https://github.com/antontarasenko/awesome-economics#readme,Economics error: timeout('timed out') | reason: 

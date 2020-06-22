@@ -1,44 +1,23 @@
 http://en.wikipedia.org/wiki/Radio,Radio (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
-http://en.wikipedia.org/wiki/Radio_spectrum,Radio Spectrum (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
-http://en.wikipedia.org/wiki/Skywave,Skywave (skip) (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html,Mystery signal from a
-helicopter,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://hackaday.io/project/1538-PortableSDR,Portable SDR,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.hamqsl.com/solar2.html,N0NBH's Solar-Terrestrial Data,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://en.wikipedia.org/wiki/Standing_wave_ratio,SWR,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr,how to tune
-SWR,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.rightchannelradios.com/,Right Channel Radios,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.cbslang.com/,CB Slang,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://en.wikipedia.org/wiki/List_of_CB_slang,CB Slang (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/,CB Talk and etiquette,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm,Skip,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.somethingawful.com/news/cb-handles/,Silly CB Handles,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.advancedspecialties.net/cb-radio-faq.htm,CB FAQ,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.radioreference.com/apps/db/?aid=7731,Frequency Table,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://gqrx.dk/,Gqrx,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://sdrsharp.com,sdrsharp on .NET,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://sdr.osmocom.org/trac/wiki/rtl-sdr,RTL-SDR,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.pervices.com/,pervices,https://github.com/kyleterry/awesome-radio#readme,Radio
-https://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware,big
-list,https://github.com/kyleterry/awesome-radio#readme,Radio
-https://gnuradio.org/redmine/,GNU
-Radio,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.baudline.com/,Baudline,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.wia.org.au/licenses/foundation/about/,WIA,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.arrl.org/what-is-ham-radio,What is Ham Radio?,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.arrl.org/,ARRL,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.wia.org.au/,WIA,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://en.wikipedia.org/wiki/Radio_spectrum,Radio Spectrum (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
+http://sdr.osmocom.org/trac/wiki/rtl-sdr,RTL-SDR,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://rsgb.org/,RSGB,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://en.wikipedia.org/wiki/Skywave,Skywave (skip) (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
+http://www.cbslang.com/,CB Slang,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.pakhams.com/,PARS,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://www.pervices.com/,pervices,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://en.wikipedia.org/wiki/List_of_CB_slang,CB Slang (wikipedia),https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.iaru.org/,The International Amateur Radio Union,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space,Japanese asteroid mission,https://github.com/kyleterry/awesome-radio#readme,Radio
 https://en.wikipedia.org/wiki/Slow-scan_television,Slow-scan Television,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.arrl.org/getting-licensed,US,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://rsgb.org/main/clubs-training/for-students/foundation/,http://rsgb.org/main/clubs-training/for-students/foundation/,https://github.com/kyleterry/awesome-radio#readme,Radio
 http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92,Pakistan,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349,apply for the HAM
-License,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://www.project25.org/,Project 25,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://en.wikipedia.org/wiki/Project_25,Project 25 wikipedia,https://github.com/kyleterry/awesome-radio#readme,Radio
-http://en.wikipedia.org/wiki/Trunked_radio_system,Trunked Radio wikipedia,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm,Skip,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://www.somethingawful.com/news/cb-handles/,Silly CB Handles,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://www.advancedspecialties.net/cb-radio-faq.htm,CB FAQ,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://www.radioreference.com/apps/db/?aid=7731,Frequency Table,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://gqrx.dk/,Gqrx,https://github.com/kyleterry/awesome-radio#readme,Radio
+http://sdrsharp.com,sdrsharp on .NET,https://github.com/kyleterry/awesome-radio#readme,Radio

@@ -1,0 +1,2 @@
+https://code.google.com/p/parallel-ssh/,parallel-ssh,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://sshhub.de,sshhub,https://github.com/moul/awesome-ssh#readme,SSH error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)

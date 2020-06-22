@@ -1,0 +1,5 @@
+https://login.persona.org/,Mozilla Persona,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://invesdwin.de/nowicket/,NoWicket,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\n'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+
+http://www.shieldui.com/,Shield UI,https://github.com/PhantomYdn/awesome-wicket#readme,Apache Wicket error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)

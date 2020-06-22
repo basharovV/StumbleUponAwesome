@@ -1,0 +1,2 @@
+https://websauna.org/docs/,Websauna,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://pyconweb.com/talks/28-05-2017/pyramid-workshop,Pyramid Workshop in Munich, Germany.,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error

@@ -1,0 +1,10 @@
+https://openconnectivity.org/developer/reference-implementation/alljoyn,AllJoyn,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.devicepilot.com,DevicePilot,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.kaaproject.org/,Kaa,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.iotivity.org/,Iotivity,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://book.webofthings.io,Building the Web of Things: with examples in Node.js and Raspberry Pi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: timeout('The read operation timed out') | reason: 
+http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/,The IoT Testing Atlas,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://developers.google.com/brillo/,Google Brillo,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://developer.ubuntu.com/en/snappy/,Snappy Ubuntu,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'NOT FOUND'> | reason: NOT FOUND

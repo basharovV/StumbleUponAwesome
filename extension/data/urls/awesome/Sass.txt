@@ -1,63 +1,55 @@
-http://sass-lang.com/guide,Official Sass and SCSS Guide,https://github.com/Famolus/awesome-sass#readme,Sass
-http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/,Tutorialzine,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.codecademy.com/learn/learn-sass,Codecademy,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.lynda.com/SASS-training-tutorials/1435-0.html,Lynda,https://github.com/Famolus/awesome-sass#readme,Sass
-http://sass-lang.com/documentation/file.SASS_REFERENCE.html,Official Sass and SCSS Reference,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.sitepoint.com/sass-reference/,SitePoint Sass and SCSS Reference,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.sitepoint.com/whats-difference-sass-scss/,SitePoint,https://github.com/Famolus/awesome-sass#readme,Sass
-http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better,The Sass Way,https://github.com/Famolus/awesome-sass#readme,Sass
-http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass,Stack Overflow,https://github.com/Famolus/awesome-sass#readme,Sass
-https://avalanche.oberlehner.net,avalanche,https://github.com/Famolus/awesome-sass#readme,Sass
-https://bkzl.github.io/hocus-pocus/,Hocus-Pocus,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.iotacss.com,iotaCSS,https://github.com/Famolus/awesome-sass#readme,Sass
-http://trykickoff.com,Kickoff,https://github.com/Famolus/awesome-sass#readme,Sass
-http://materializecss.com,Materialize,https://github.com/Famolus/awesome-sass#readme,Sass
-http://minicss.org/,mini.css,https://github.com/Famolus/awesome-sass#readme,Sass
-http://dropbox.github.io/scooter/,Scooter,https://github.com/Famolus/awesome-sass#readme,Sass
-http://sierra-library.github.io/,Sierra,https://github.com/Famolus/awesome-sass#readme,Sass
-http://colourgarden.net/avalanche,Avalanche,https://github.com/Famolus/awesome-sass#readme,Sass
-http://csswizardry.com/csswizardry-grids/,csswizardry-grids,https://github.com/Famolus/awesome-sass#readme,Sass
-http://necolas.github.io/griddle/,Griddle,https://github.com/Famolus/awesome-sass#readme,Sass
+https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA,The Net Ninja Sass playlist,https://github.com/Famolus/awesome-sass#readme,Sass
 http://gridlex.devlint.fr/,Gridlex,https://github.com/Famolus/awesome-sass#readme,Sass
-http://neat.bourbon.io/,Neat,https://github.com/Famolus/awesome-sass#readme,Sass
-https://dnomak.com/flexiblegs/install/sass/,Sass Flexible Grid System,https://github.com/Famolus/awesome-sass#readme,Sass
-https://dnomak.com/flexiblegs/install/scss/,SCSS Flexible Grid System,https://github.com/Famolus/awesome-sass#readme,Sass
-http://daneden.github.io/Toast/,Toast,https://github.com/Famolus/awesome-sass#readme,Sass
-https://lucasgruwez.github.io/waffle-grid/,Waffle Grid,https://github.com/Famolus/awesome-sass#readme,Sass
-http://include-media.com/,include-media,https://github.com/Famolus/awesome-sass#readme,Sass
-http://rafalbromirski.github.io/sass-mediaqueries/,Sass MediaQueries,https://github.com/Famolus/awesome-sass#readme,Sass
-https://sassline.com/,Sassline,https://github.com/Famolus/awesome-sass#readme,Sass
-http://kyleshevlin.github.io/shevy/,Shevy,https://github.com/Famolus/awesome-sass#readme,Sass
-https://kf-sass.com,Kf,https://github.com/Famolus/awesome-sass#readme,Sass
-https://matejkustec.github.io/SpinThatShit/,SpinThatShit,https://github.com/Famolus/awesome-sass#readme,Sass
-http://bourbon.io/,Bourbon,https://github.com/Famolus/awesome-sass#readme,Sass
-https://csstyle.io,csstyle,https://github.com/Famolus/awesome-sass#readme,Sass
-http://lukyvj.github.io/family.scss/,Family.scss,https://github.com/Famolus/awesome-sass#readme,Sass
-http://kylebrumm.com/juice/,Juice,https://github.com/Famolus/awesome-sass#readme,Sass
-http://oddbird.net/open-source/accoutrement/,Sass Accoutrement,https://github.com/Famolus/awesome-sass#readme,Sass
-http://davidkpiano.github.io/sassdash,API documentation,https://github.com/Famolus/awesome-sass#readme,Sass
-http://thesassway.com/advanced/cubic-bezier-representation-in-sass,Cubic Bézier Representation in Sass,https://github.com/Famolus/awesome-sass#readme,Sass
-http://eng.localytics.com/faster-sass-builds-with-webpack/,Faster Sass builds with Webpack,https://github.com/Famolus/awesome-sass#readme,Sass
+http://sassdoc.com/,SassDoc,https://github.com/Famolus/awesome-sass#readme,Sass
 https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/,Transitioning to SCSS at Scale,https://github.com/Famolus/awesome-sass#readme,Sass
+https://matejkustec.github.io/SpinThatShit/,SpinThatShit,https://github.com/Famolus/awesome-sass#readme,Sass
+http://sass-lang.com/guide,Official Sass and SCSS Guide,https://github.com/Famolus/awesome-sass#readme,Sass
 http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass,Inverse trigonometric functions with Sass,https://github.com/Famolus/awesome-sass#readme,Sass
+http://scout-app.io/,Scout-App,https://github.com/Famolus/awesome-sass#readme,Sass
+https://www.reddit.com/r/Sass/,Reddit,https://github.com/Famolus/awesome-sass#readme,Sass
+https://www.iotacss.com,iotaCSS,https://github.com/Famolus/awesome-sass#readme,Sass
+http://neat.bourbon.io/,Neat,https://github.com/Famolus/awesome-sass#readme,Sass
 http://sassbreak.com/stop-arguing-with-your-mixins,Stop Arguing So Much with Your Mixins,https://github.com/Famolus/awesome-sass#readme,Sass
+http://trykickoff.com,Kickoff,https://github.com/Famolus/awesome-sass#readme,Sass
+http://stackoverflow.com/questions/tagged/sass,Stack Overflow,https://github.com/Famolus/awesome-sass#readme,Sass
+https://dnomak.com/flexiblegs/install/sass/,Sass Flexible Grid System,https://github.com/Famolus/awesome-sass#readme,Sass
+http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/,Tutorialzine,https://github.com/Famolus/awesome-sass#readme,Sass
+https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/,Sass in the Real World: Book I of IV,https://github.com/Famolus/awesome-sass#readme,Sass
+https://dnomak.com/flexiblegs/install/scss/,SCSS Flexible Grid System,https://github.com/Famolus/awesome-sass#readme,Sass
+http://bourbon.io/,Bourbon,https://github.com/Famolus/awesome-sass#readme,Sass
+http://materializecss.com,Materialize,https://github.com/Famolus/awesome-sass#readme,Sass
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/,Styling React Components in Sass,https://github.com/Famolus/awesome-sass#readme,Sass
+http://daneden.github.io/Toast/,Toast,https://github.com/Famolus/awesome-sass#readme,Sass
+https://www.codecademy.com/learn/learn-sass,Codecademy,https://github.com/Famolus/awesome-sass#readme,Sass
+http://minicss.org/,mini.css,https://github.com/Famolus/awesome-sass#readme,Sass
+http://lukyvj.github.io/family.scss/,Family.scss,https://github.com/Famolus/awesome-sass#readme,Sass
+http://dropbox.github.io/scooter/,Scooter,https://github.com/Famolus/awesome-sass#readme,Sass
+http://kylebrumm.com/juice/,Juice,https://github.com/Famolus/awesome-sass#readme,Sass
+http://sierra-library.github.io/,Sierra,https://github.com/Famolus/awesome-sass#readme,Sass
+https://www.lynda.com/SASS-training-tutorials/1435-0.html,Lynda,https://github.com/Famolus/awesome-sass#readme,Sass
+http://rafalbromirski.github.io/sass-mediaqueries/,Sass MediaQueries,https://github.com/Famolus/awesome-sass#readme,Sass
 https://robots.thoughtbot.com/sass-default,A Sass !default use case,https://github.com/Famolus/awesome-sass#readme,Sass
 https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm,Aesthetic Sass 3: Typography and Vertical Rhythm,https://github.com/Famolus/awesome-sass#readme,Sass
+https://sassline.com/,Sassline,https://github.com/Famolus/awesome-sass#readme,Sass
+http://kyleshevlin.github.io/shevy/,Shevy,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.sitepoint.com/a-tale-of-css-and-sass-precision/,A Tale of CSS and Sass Precision,https://github.com/Famolus/awesome-sass#readme,Sass
+http://oddbird.net/open-source/accoutrement/,Sass Accoutrement,https://github.com/Famolus/awesome-sass#readme,Sass
+http://sass-lang.com/documentation/file.SASS_REFERENCE.html,Official Sass and SCSS Reference,https://github.com/Famolus/awesome-sass#readme,Sass
+http://csswizardry.com/csswizardry-grids/,csswizardry-grids,https://github.com/Famolus/awesome-sass#readme,Sass
 https://css-tricks.com/build-style-guide-straight-sass/,Build a Style Guide Straight from Sass,https://github.com/Famolus/awesome-sass#readme,Sass
+http://davidkpiano.github.io/sassdash,API documentation,https://github.com/Famolus/awesome-sass#readme,Sass
+http://necolas.github.io/griddle/,Griddle,https://github.com/Famolus/awesome-sass#readme,Sass
 https://zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html,The 80-20 Approach to Sustainable SCSS,https://github.com/Famolus/awesome-sass#readme,Sass
-https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a,Advanced Use of Sass Maps,https://github.com/Famolus/awesome-sass#readme,Sass
-http://sassdoc.com/,SassDoc,https://github.com/Famolus/awesome-sass#readme,Sass
-http://scout-app.io/,Scout-App,https://github.com/Famolus/awesome-sass#readme,Sass
-https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/,Sass in the Real World: Book I of IV,https://github.com/Famolus/awesome-sass#readme,Sass
-https://anotheruiguy.gitbooks.io/sass-in-the-real-world-book-2-of-4/content/,Sass in the Real World: Book II of IV,https://github.com/Famolus/awesome-sass#readme,Sass
+http://thesassway.com/advanced/cubic-bezier-representation-in-sass,Cubic Bézier Representation in Sass,https://github.com/Famolus/awesome-sass#readme,Sass
+http://eng.localytics.com/faster-sass-builds-with-webpack/,Faster Sass builds with Webpack,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.amazon.com/Jump-Start-Sass-Speed-Weekend/dp/0994182678,Jump Start Sass: Get Up to Speed With Sass in a Weekend,https://github.com/Famolus/awesome-sass#readme,Sass
+https://www.sitepoint.com/whats-difference-sass-scss/,SitePoint,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.amazon.com/Sass-Compass-Designers-Ben-Frain/dp/1849694540,Sass and Compass for Designers,https://github.com/Famolus/awesome-sass#readme,Sass
+http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better,The Sass Way,https://github.com/Famolus/awesome-sass#readme,Sass
+https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a,Advanced Use of Sass Maps,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.youtube.com/watch?v=wz3kElLbEHE,Sass Tutorial,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.youtube.com/playlist?list=PL2CB1F80266E986EA,Series of Sass tutorials showing the installing of, the basics, and using key features,https://github.com/Famolus/awesome-sass#readme,Sass
+http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass,Stack Overflow,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.youtube.com/watch?v=lJclQekSfSM,Sass or LESS? What should you use?,https://github.com/Famolus/awesome-sass#readme,Sass
 https://www.youtube.com/watch?v=roywYSEPSvc,Learn Sass in this Free Crash Course - Give your CSS Superpowers!,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA,The Net Ninja Sass playlist,https://github.com/Famolus/awesome-sass#readme,Sass
-https://www.reddit.com/r/Sass/,Reddit,https://github.com/Famolus/awesome-sass#readme,Sass
-http://stackoverflow.com/questions/tagged/sass,Stack Overflow,https://github.com/Famolus/awesome-sass#readme,Sass
+https://avalanche.oberlehner.net,avalanche,https://github.com/Famolus/awesome-sass#readme,Sass

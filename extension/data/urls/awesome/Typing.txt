@@ -1,36 +1,36 @@
+https://www.python.org/dev/peps/pep-0483/,PEP-483,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0589/,PEP-589,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://sobolevn.me/2019/08/typechecking-django-and-drf,Typechecking Django and DRF,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0484/,PEP-484,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://gitter.im/mypy-django/Lobby,,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0591/,PEP-591,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0526/,PEP-526,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://sobolevn.me/2019/08/testing-mypy-types,Testing mypy stubs, plugins, and types,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0593/,PEP-593,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://pyre-check.org/,pyre,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0544/,PEP-544,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.bernat.tech/the-state-of-type-hints-in-python/,The state of type hints in Python,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0604/,PEP-604,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0557/,PEP-557,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0612/,PEP-612,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://gitter.im/python/typing,python/typing,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0560/,PEP-560,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0613/,PEP-613,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://www.riverbankcomputing.com/software/pyqt/intro,PyQt5,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://python-ru.slack.com,PythonRu#typing,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://docs.python.org/3/library/typing.html,typing,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://spark.apache.org/docs/latest/api/python/index.html,PySpark,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0561/,PEP-561,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://mypy.readthedocs.io/en/latest/stubs.html,MyPy docs,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0563/,PEP-563,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 http://omz-software.com/pythonista/docs/ios/,Pythonista,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://slack.python.ru/,here,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0585/,PEP-585,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://sobolevn.me/2018/07/real-python-contants,1-minute guide to real constants in Python,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://pypi.org/project/typing-json/,typing-json,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://www.python.org/dev/peps/pep-0586/,PEP-586,https://github.com/typeddjango/awesome-python-typing#readme,Typing
+https://sobolevn.me/2019/01/simple-dependent-types-in-python,Simple dependent types in Python,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://zopeinterface.readthedocs.io/en/latest/,zope.interface,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://atom.io/packages/linter-mypy,linter-mypy,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://www.python.org/dev/peps/pep-3107,PEP-3107,https://github.com/typeddjango/awesome-python-typing#readme,Typing
 https://www.python.org/dev/peps/pep-0482/,PEP-482,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0483/,PEP-483,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0484/,PEP-484,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0526/,PEP-526,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0544/,PEP-544,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0557/,PEP-557,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0560/,PEP-560,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0561/,PEP-561,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0563/,PEP-563,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0585/,PEP-585,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0586/,PEP-586,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0589/,PEP-589,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0591/,PEP-591,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0593/,PEP-593,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0604/,PEP-604,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0612/,PEP-612,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.python.org/dev/peps/pep-0613/,PEP-613,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://docs.python.org/3/library/typing.html,typing,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://mypy.readthedocs.io/en/latest/stubs.html,MyPy docs,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://sobolevn.me/2018/07/real-python-contants,1-minute guide to real constants in Python,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://sobolevn.me/2019/01/simple-dependent-types-in-python,Simple dependent types in Python,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://sobolevn.me/2019/08/typechecking-django-and-drf,Typechecking Django and DRF,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://sobolevn.me/2019/08/testing-mypy-types,Testing mypy stubs, plugins, and types,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://www.bernat.tech/the-state-of-type-hints-in-python/,The state of type hints in Python,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://gitter.im/python/typing,python/typing,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://python-ru.slack.com,PythonRu#typing,https://github.com/typeddjango/awesome-python-typing#readme,Typing
-https://slack.python.ru/,here,https://github.com/typeddjango/awesome-python-typing#readme,Typing

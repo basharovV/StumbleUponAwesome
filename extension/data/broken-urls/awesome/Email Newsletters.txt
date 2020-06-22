@@ -1,0 +1,13 @@
+http://sass.news/issues,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.manifold.co/stratusupdate,Stratus Update,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.getrevue.co/profile/golang,Master the World of Golang,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.actreact.io,ActReact,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://realusers.club,realusers.club,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://inside.com/ai,Inside AI,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: timeout('The read operation timed out') | reason: 
+http://dataprism.co/,Data Prism,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://indieiosfocus.com,Indie iOS Focus Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://indieiosfocus.com/issues,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://sass.news,Sass News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://hnmail.io,HN Mail,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: timeout('The read operation timed out') | reason: 
+http://hackingrevenue.com/,Hacking Revenue,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gcpweekly.com/,Google Cloud Weekly Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters error: timeout('The read operation timed out') | reason: 

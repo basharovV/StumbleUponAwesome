@@ -1,0 +1,7 @@
+http://www.snoopcode.com/jquery/,Snoopcode,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 530: ''> | reason: 
+http://api.jquery.com/,API documentation,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+http://lab.abhinayrathore.com/jquery-cheatsheet/,jQuery CheatSheet,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://learn.jquery.com/,Learn jQuery,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://www.packtpub.com/web-development/learning-jquery-fourth-edition,Learning jQuery - Fourth Edition,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

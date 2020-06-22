@@ -1,0 +1,7 @@
+http://webostv.developer.lge.com/sdk/download/download-sdk/,webOS TV IDE + SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.svlconnectsdk.com/,Connect SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://developer.android.com/training/tv/start/start.html,Android TV Developers site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+http://webostv.developer.lge.com/sdk/using-webos-tv-cli/,CLI,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://openlgtv.org.ru,openlgtv.org.ru,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

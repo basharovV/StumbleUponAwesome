@@ -1,0 +1,2 @@
+https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda,Visual regression testing using Jest, Chromeless and AWS Lambda,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://axcept.io,Axcept,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing error: timeout('The read operation timed out') | reason: 

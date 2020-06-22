@@ -1,0 +1,397 @@
+https://dastergon.gr/awesome-sre,,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre,Site Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15/program/presentation/canahuati,Production,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://landing.google.com/sre/interview/ben-treynor.html,What is Site Reliability Engineering?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://landing.google.com/sre/resources.html,Google SRE Resources,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15europe/program/presentation/underwood,PostOps: Recovery from Operations,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.atlassian.com/it-service/site-reliability-engineering-sre,Love DevOps? Wait 'till you meet SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://youtu.be/fsTpRx8Pt-k,[video],https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=H4vMcD7zKM0,How Google Does Planet-Scale Engineering for Planet-Scale Infra,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.facebook.com/notes/facebook-engineering/site-reliability-engineering-at-facebook/291616313919/,Site Reliability Engineering at Facebook,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=qJnS-EfIIIE&nohtml5=False,A History of Site Reliability Engineering at Uber,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15/program/presentation/limoncelli,Case Study: Adopting SRE Principles at StackOverflow,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=ggizCjUCCqE,Site Reliability Engineering at Dropbox,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=yXI7r0_J29M,Site Reliability Engineers — Keeping Google up and running 24/7,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=JLkr6UHXN44&nohtml5=False,Site Reliability Engineering at Salesforce,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=lZI51YzIgVE,video,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf,slides,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=iIuTnhdTzK0,SRE@Google: Thousands of DevOps Since 2004,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli,Transactional System Administration Is Killing Us and Must be Stopped,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://web.archive.org/web/20190401220948/https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f,A hierarchy of SRE needs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/lisa13/technical-sessions/plenary/underwood,PostOps: A Non-Surgical Tale of Software, Fragility, and Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://web.archive.org/web/20180820235243/http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/,SRE: An incomplete guide to cultural Narnia,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=__wypEhdcrQ&t=0s,[Video],https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon16/program/presentation/krishnan,Putting Together Great SRE Teams,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=bwt6TZjefGM,Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/production-ready/toil-a-word-every-engineer-should-know-f0b676e41c86,Toil: A Word Every Engineer Should Know,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://research.google.com/pubs/pub32583.html,Engineering Reliability into Web Sites: Google SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://pages.catchpoint.com/DEVOPS-SRE-AMA-mkty.html,DEVOPS & SRE AMA - Building High Performance Organizations,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://community.atlassian.com/t5/Jira-Ops-questions/I-m-John-Allspaw-Ask-Me-Anything-about-incident-analysis-and/qaq-p/957084,John Allspaw's AMA on Incident Analysis and Postmortems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.gcppodcast.com/post/episode-38-site-reliability-engineering-with-paul-newson/,Part 1,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://gcppodcast.com/post/episode-59-sre-ii-with-paul-newson/,Part 2,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=2891413,How SysAdmins Devalue Themselves,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=ry51Llzil1I,The Softer Side of DevOps,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@kobolog/sre-noun-see-also-confidence-trust-e7e33e19efc1,SRE, noun. See also: confidence, trust.,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://youtu.be/24xb7oZgu-I?t=29m24s,Site Reliability Engineering with Stephen Weinberg,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.reddit.com/r/IAmA/comments/177267/we_are_the_google_site_reliability_team_we_make,We are the Google Site Reliability team. We make Google’s websites work. Ask us Anything!,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_google_site_reliability_engineering/,We are the Google Site Reliability Engineering team. Ask us Anything!,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.susanjfowler.com/blog/2016/10/13/the-ops-identity-crisis,The Ops Identity Crisis,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.susanjfowler.com/blog/2016/11/2/the-irreproducibility-of-bugs-in-large-scale-production-systems,The Irreproducibility Of Bugs In Large-Scale Production Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.se-radio.net/2016/12/se-radio-episode-276-bjorn-rabenstein-on-site-reliability-engineering/,SE-Radio Episode 276: Björn Rabenstein on Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.netsil.com/microservices-devops-and-operational-complexity-be98cb01b660,Microservices, DevOps and Production Complexity,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html,Introducing Google Customer Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://126kr.com/article/7vkoxnk6s01,Evolution or Rebellion? The rise of Site Reliability Engineers (SRE),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://standalone-sysadmin.com/the-difference-between-site-reliability-engineering-system-administration-and-devops-d05031495499,The difference between Site Reliability Engineering, System Administration, and DevOps,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary,SRE in the Small and in the Large,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=zLXf0cKDOv0,SBSRE Meetup: Different SRE roles and challenges(Netflix),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon16/program/presentation/definition-of-sre-panel,Panel: Who/What Is SRE?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/hope-is-not-a-strategy-6a7d0a3b1c08,Hope Is Not a Strategy,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/tenets-of-sre-8af6238ae8a8,Tenets of SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@venkatachalamrangasamy/site-reliability-engineering-demystified-ed676e0a7d56,Site Reliability Engineering Demystified,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devops.com/site-reliability-engineering-sre-true-ops-devops/,Is Site Reliability Engineering the True ‘Ops’ in DevOps?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devops.com/sre-devops-cloud-native-server-cage-match/,SRE vs. DevOps vs. Cloud Native: The Server Cage Match,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://youtu.be/8dfYLRAWn_c,SRE: What’s The Big Idea?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin,Building the SRE Culture at LinkedIn,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://rackn.com/sre-white-paper/,SRE white paper by RackN,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://stackoverflow.blog/2017/06/12/podcast-111-sre-occasionally-maintaining-infrastructure-hate/,Podcast #111 – SRE: Occasionally Maintaining Infrastructure That You Hate,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon16europe/program/presentation/splicing-sre-dna-sequences-biggest-software-company,Splicing SRE DNA Sequences in the Biggest Software Company on the Planet,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/06/why-should-your-app-get-SRE-support-CRE-life-lessons.html,Why should your app get SRE support? - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/06/how-SREs-find-the-landmines-in-a-service-CRE-life-lessons.html,How SREs find the landmines in a service - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/07/making-the-most-of-an-SRE-service-takeover-CRE-life-lessons.html,Making the most of an SRE service takeover - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://dzone.com/articles/the-cloudcast-301-sre-and-infrastructure-operation,The Cloudcast #301: SRE and Infrastructure Operations (Podcast),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@rakyll/the-sre-model-6e19376ef986,The SRE model,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://circleci.com/blog/onboarding-new-site-reliability-engineers/,Onboarding New Site Reliability Engineers,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=nQv9ySa8MTU,Building Blocks for Site Reliability At Google,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.netsil.com/beyond-google-sre-what-is-site-reliability-engineering-like-at-medium-71c65bd35f4e,Beyond Google SRE: What is Site Reliability Engineering like at Medium?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://blog.adnanmasood.com/2016/05/19/intelligent-site-reliability-engineering-a-machine-learning-perspective/,Intelligent Site Reliability Engineering – A Machine Learning Perspective,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/day-life/crash-course-linkedins-global-site-operations,A crash course in LinkedIn's global site operations,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://softwareengineeringdaily.com/2016/06/14/googles-site-reliability-engineering-todd-underwood/,Google’s Site Reliability Engineering with Todd Underwood,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre,The Rise of the Site Reliability Engineer,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.newrelic.com/2017/12/15/new-relic-sre/,Defining Modern Software Roles: SREs at New Relic,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.newrelic.com/2018/01/23/best-sre-tools/,What Tools Do Site Reliability Engineers Use?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blogs.vmware.com/services-education-insights/2018/02/site-reliability-engineering.html,What is Site Reliability Engineering? (VMware),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://geekologist.co/introduction-to-sre/,A Gentle Introduction to SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/,Understanding Site Reliability Engineering through Movies and Books,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=Cxb7a8lTv8A,GOTO 2017 • Site Reliability Engineering at Google • Christof Leng,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p,Part1,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0,Part2,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=6G2V1xPIM64,Tech Leadership in SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://azpodcast.azurewebsites.net/post/Episode-227-Azure-SRE1,The Azure Podcast: Episode 227 - Azure SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a,The human scalability of "DevOps",https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://softwareengineeringdaily.com/2018/04/09/site-reliability-management-with-mike-hiraga/,Podcast: Site Reliability Management with Mike Hiraga,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@Knowlarity_Engineering/how-a-cat-inspired-system-reliability-at-knowlarity-ad73c24f29a7,How a cat inspired system reliability at Knowlarity,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=xWAfTAu0Mww,"Practical Applications of the Dickerson Pyramid" by Nat Welch,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blameless.com/blog/sre-implementations-blindspots/,LinkedIn’s Kurt Andersen Uncovers Blindspots in SRE Implementations,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://driftboatdave.com/2018/10/09/interview-with-betsy-beyer-stephen-thorne-of-google/,Interview with Betsy Beyer, Stephen Thorne of Google,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=0zqBlRW_6jA,Less Risk Through Greater Humanity - Dave Rensin,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=c-w_GYvi0eA,Getting Started with SRE - Stephen Thorne, Google,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://drive.google.com/file/d/1FXwHm6mpmRA9NaIJEu4cB1s6ffbyGBfl/view,Building Successful SRE in Large Enterprises,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=ZcZtU_TiFEM,Solving Reliability Fears with Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends,SRE vs. DevOps: competing standards or close friends?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://thenewstack.io/how-to-avoid-the-5-sre-implementation-traps-that-catch-even-the-best-teams/,How to Avoid the 5 SRE Implementation Traps that Catch Even the Best Teams,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://vimeo.com/344515149,Reliability Engineering – The Essential Discipline for Complex Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=bC5dIPzNH24,The Modern Site Reliability Workbench on Top of OCI,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon19emea/presentation/rabenstein,SRE in the Third Age,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=vF6ajM3P_wM,About SRE and how (not) to apply it,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/management-tools/transitioning-a-typical-engineering-ops-team-into-an-sre-powerhouse,Transitioning a typical engineering ops team into an SRE powerhouse,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.infoq.com/presentations/ing-sre-teams-practices/,Making a Lion Bulletproof: SRE in Banking,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles,Identifying and tracking toil using SRE principles,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15/program/presentation/sebenik,Panel: Educating SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15/program/presentation/widdowson,From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://web.archive.org/web/20181229031420/http://anthonycaiafa.com/2016/04/27/new-to-a-team/,New to an SRE team?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/publications/login/june15/hixson,The Systems Engineering Side of Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b,Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.loomsystems.com/single-post/2016/03/23/So-you-want-to-be-a-Site-Reliability-Engineer,So you want to be a Site Reliability Engineer?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.loomsystems.com/blog/2017/02/06/spiraling-ops-debt-the-sre-coding-imperative,Spiraling Ops Debt & the SRE Coding Imperative,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c,So you want to be an SRE?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.khanacademy.org/college-careers-more/career-content/career-profile-videos/site-reliability-engineer/v/ruth-grace-site-reliability-engineer-what-i-do-and-how-much-i-make,Career Profiles/Site Reliability Engineer,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/,What is the role of a Site Reliability Engineer?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html,Lynda.com: DevOps Foundations: Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://dastergon.gr/wheel-of-misfortune/,Incident Management Training: Wheel of Misfortune,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/,Site Un-Reliability Engineering [Video Series],https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376,The Ultimate Guide to Structuring a 90-Day Onboarding Plan,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos,SRE fundamentals: SLIs, SLAs and SLOs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.alicegoldfuss.com/how-to-get-into-sre/,How to Get Into SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/devops-sre/how-to-start-and-assess-your-sre-journey,Do you have an SRE team yet? How to start and assess your journey,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started,How SRE teams are organized, and how to get started,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=3283589,Why SRE Documents Matter,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre,How to get started with site reliability engineering (SRE),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://victorops.com/blog/duties-of-a-site-reliability-engineering-manager,Duties of a Site Reliability Engineering Manager,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd,Designing distributed systems using NALSD flashcards,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.apress.com/us/book/9781484205129,Practical Linux Infrastructure,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://landing.google.com/sre/book.html,Site Reliability Engineering: How Google Runs Production Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://the-cloud-book.com/,The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://shop.oreilly.com/product/0636920000136.do,Web Operations - Keeping the Data On Time,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://atulgawande.com/book/the-checklist-manifesto/,The Checklist Manifesto: How to Get Things Right,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/programming/free/microservices-in-production.csp,Microservices in Production - Standard Principles and Requirements,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://shop.oreilly.com/product/0636920053675.do,Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/,Systems Performance: Enterprise and the Cloud,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://ptgmedia.pearsoncmg.com/images/9780133390094/samplepages/0133390098.pdf,CPUs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/webops-perf/free/monitoring-distributed-systems.csp,Monitoring Distributed Systems: Case Studies from Google's SRE Teams,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/webops-perf/free/the-human-side-of-postmortems.csp,The Human Side of Postmortems: Managing Stress and Cognitive Biases,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/webops-perf/free/chaos-engineering.csp,Chaos Engineering: Building Confidence in System Behavior through Experiment,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://victorops.com/oreilly-post-incident-review/,Post-Incident Reviews: Learning from Failure for Improved Incident Responses,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp,Antifragile Systems and Teams,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/,How to Monitoring the SRE Golden Signals (E-Book),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://shop.oreilly.com/product/0636920036159.do,Incident Management for Operations,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://distributed-systems-observability-ebook.humio.com/,Distributed Systems Observability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.packtpub.com/web-development/real-world-sre,Real-World SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://shop.oreilly.com/product/0636920063964.do,Seeking SRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/,What is SRE?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://landing.google.com/sre/resources/practicesandprocesses/engineering-reliable-mobile-applications/,Engineering Reliable Mobile Applications: Strategies for Developing Resilient Native Mobile Applications,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.manning.com/books/chaos-engineering/,Chaos Engineering: Crash test your applications,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15/program/presentation/fong,SRE Hiring,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin,Hiring SREs at LinkedIn,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/publications/login/june15/hiring-site-reliability-engineers,Hiring Site Reliability Engineers,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=ZemNg9GYvOA,Growing the Site Reliability Team at LinkedIn: Hiring is Hard,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.stackoverflowbusiness.com/blog/how-to-find-and-hire-site-reliability-engineers-sres,How to Find and Hire Site Reliability Engineers (SREs),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://danrl.com/blog/srm,Engineering Manager - Site Reliability Engineering Interview Preparation,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon16/program/presentation/kroll,The Realities of the Job of Delivering Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://queue.acm.org/detail.cfm?id=2839461,Fail at Scale by Ben Maurer,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=wrY7XoOnysg,Embracing Failure: Fault-Injection and Service Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan,10 Years of Crashing Google,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://queue.acm.org/detail.cfm?id=2745840,Reliable Cron across the Planet,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://queue.acm.org/detail.cfm?ref=rss&id=2889274,The Verification of a Distributed System by Caitie McCaffrey,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://queue.acm.org/detail.cfm?id=2371516,Weathering the Unexpected,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492182549.pdf,The Remediation Ballet,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=YFDwdRVTg4g,SRE Hour: Tech Talks by Box & Yelp,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://speakerdeck.com/garethr/the-two-sides-to-google-infrastructure-for-everyone-else,The Two Sides to Google Infrastructure for Everyone Else,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/ures14west/summit-program/presentation/dickson,How Embracing Continuous Release Reduced Change Complexity,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/publications/login/october-2014-vol-39-no-5/making-push-green-reality,Making "Push On Green" a Reality,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/publications/login/dec14/ward,BeyondCorp: A New Approach to Enterprise Security,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=dKe9S8u44Yk,Brainstorming Failure by Jeff Smith,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://cloudtweaks.com/2016/04/outages-and-downtime/,The Ripple Effect Of Outages And Downtime Cannot Be Underestimated,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://docs.google.com/drawings/d/1kshrK2RLkW-XV8enmWZxeRFRgADj6d4Ru_w5txz_k9I/edit,Dickerson's Hierarchy of Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.acolyer.org/2016/09/21/the-morning-paper-on-operability/,The Morning Paper on Operability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://naildrivin5.com/blog/2013/06/16/production-is-all-that-matters.html,Production is all that matters,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2016/12/using-load-shedding-to-survive-a-success-disaster-CRE-life-lessons.html,Using load shedding to survive a success disaster - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2016/11/how-to-avoid-a-self-inflicted-DDoS-Attack-CRE-life-lessons.html,How to avoid a self-inflicted DDoS Attack - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.oreilly.com/ideas/dont-gamble-when-it-comes-to-reliability,Don't gamble when it comes to reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=2371297,Resilience Engineering: Learning to Embrace Failure,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=hYu13kBenjE,Scaling Reliability at Twitter: So You Want to Add a 9,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://principlesofchaos.org/,Principles Of Chaos Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.infoq.com/articles/chaos-engineering,Chaos Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/01/available-or-not-that-is-the-question-CRE-life-lessons.html,Available...or not? That is the question - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://highscalability.com/blog/2014/2/3/how-google-backs-up-the-internet-along-with-exabytes-of-othe.html,How Google Backs Up The Internet Along With Exabytes Of Other Data,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://highscalability.com/blog/2017/2/2/performance-scalability-and-high-availability-3-key-infrastr.html,Performance, Scalability, And High Availability: 3 Key Infrastructure Adaptability Requirements,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767,Part 1,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa,Part 2,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/03/reliable-releases-and-rollbacks-CRE-life-lessons.html,Reliable releases and rollbacks - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html,How release canaries can save your bacon - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/,Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason,Every Day Is Monday in Operations,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.squarespace.com/blog/2017/under-the-hood-ensuring-site-reliability,Under the Hood: Ensuring Site Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=7Hy_6SMn8pY,Designing reliable systems with cloud infrastructure (Google Cloud Next '17),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery,A Google SRE explores GitHub reliability with BigQuery,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/05/know-thy-enemy-how-to-prioritize-and-communicate-risks-CRE-life-lessons.html,Know thy enemy: how to prioritize and communicate risks - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html,CRE life lessons: What is a dark launch, and what does it do for me?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html,Why you should pick strong consistency, whenever possible,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=2655736,The Network is Reliable,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=3028689,Are You Load Balancing Wrong?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/,How production engineers support global events on Facebook,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://highscalability.com/blog/2018/4/16/google-a-collection-of-best-practices-for-production-service.html,Google: A Collection Of Best Practices For Production Services,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=3194655,Canary Analysis Service,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c,Tips for High Availability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://auth0.com/blog/progressive-service-architecture-at-auth0/,Progressive Service Architecture At Auth0,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/google-cloud/production-guideline-9d5d10c8f1e,Google Cloud Production Guideline,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://jbd.dev/prod-readiness/,production readiness,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=Vvd3uvNvMns,Trust By Design: The Fusion of Operational Maturity and Risk Modeling,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.verica.io/top-seven-myths-of-robust-systems/,Top Seven Myths of Robust Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident,Taming chaos: Preparing for your next incident,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=3AxSwCC7I4s,PID Loops and the Art of Keeping Systems Stable,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=YptJ2rrGAYY,Are you ready for production?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://speakerdeck.com/rakyll/are-you-ready-for-production,Slides,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://srcco.de/posts/web-service-on-kubernetes-production-checklist-2019.html,Production Checklist for Web Apps on Kubernetes,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems,Finding a problem at the bottom of the Google stack,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/lisa13/working-theory-monitoring,A Working Theory-of-Monitoring,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://vimeo.com/131484321,The Evolution of Monitoring Systems at Google - Tony Rippy,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon15/program/presentation/serebryany,Monitoring without Infrastructure @ Airbnb,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.oreilly.com/ideas/monitoring-distributed-systems,Monitoring distributed systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=2JAnmzVwgP8,Observability at Uber Engineering: Past, Present, Future,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.netsil.com/the-4-golden-signals-of-api-health-and-performance-in-cloud-native-applications-a6e87526e74,The 4 Golden Signals of API Health and Performance in Cloud-Native Applications,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview,My Philosophy on Alerting by Rob Ewaschuk,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=wsgpV67MLFo,Time To Detect - Netflix,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think,Why Percentiles Don’t Work the Way you Think,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=jQggG0qIjTM,Building Twitter’s Next-Gen Alerting System,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://honeycomb.io/blog/2017/01/instrumentation-worst-case-performance-matters/,Instrumentation: Worst case performance matters,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://honeycomb.io/blog/2017/01/instrumentation-what-does-uptime-mean/,Instrumentation: What does 'uptime' mean?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://circleci.com/blog/incidents-outages-at-circleci-our-playbook-and-what-we-ve-learned/,Incidents + Outages at CircleCI: Our Playbook and What We’ve Learned,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=gNmWzkGViAY,An introduction to monitoring and alerting with timeseries at scale, with Prometheus,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=mG4ZpEhRKHA,Detecting outliers and anomalies in realtime at Datadog,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/devopslinks/how-to-monitor-the-sre-golden-signals-1391cadc7524,How to Monitor the SRE Golden Signals,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=3178371,Monitoring in a DevOps World,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/monitoring-your-monitorings-monitoring-51d479100f4c,Monitoring Your Monitoring’s Monitoring,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@dlite/observability-the-new-wave-or-buzzword-fc23a68abf72,Observability: the new wave or buzzword?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.vividcortex.com/blog/monitoring-isnt-observability,Monitoring Isn't Observability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e,Monitoring in the time of Cloud Native,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=2LNHv0JyBUk,Principles of Monitoring Microservices,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/node/197446,The Many Ways Your Monitoring Is Lying to You,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.weave.works/blog/gitops-part-3-observability,GitOps Part 3 - Observability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7,Want to Debug Latency?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68,Debugging Latency in Go 1.11,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://developers.soundcloud.com/blog/alerting-on-slos,Alerting on SLOs like Pros,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=JhxfZ0VIPP0,Applied Alerting Philosophy,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.colinbreck.com/observations-on-observability/,Observations on Observability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/,Deploys: It's Not Actually About Fridays,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0,Site Reliability Engineering Best Practices for Data Pipelines,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://research.google.com/pubs/pub44813.html,Being an On-Call Engineer: A Google SRE Perspective,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://blogs.atlassian.com/2016/02/inside-atlassian-site-reliability-engineers-incident-management/,Inside Atlassian: how our site reliability engineers do incident management,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://blogs.atlassian.com/2016/02/inside-atlassian-sre-use-chatops-run-incident-management/,Inside Atlassian: how IT & SRE use ChatOps to run incident management,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku,Incident Response at Heroku,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.susanjfowler.com/blog/2016/9/6/whos-on-call,Who's On Call?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html,SysAdvent - Day 6 - No More On-Call Martyrs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://naildrivin5.com/blog/2016/12/07/on-call.html,On Being On Call,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html,Incident management at Google — adventures in SRE-land,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/,How Spotify and GOV.UK handle on call, and more,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/blog/2017/12/open-sourcing-fossor-and-ascii-etch,Automating Your Oncall: Open Sourcing Fossor and Ascii Etch,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.linkedin.com/blog/2018/01/project-star-streamlining-our-on-call-process,Project STAR*: Streamlining Our On-Call Process,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devblog.xero.com/sre-xero-managing-incidents-part-i-7d02d650a71c,SRE@Xero: Managing Incidents Part I,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devblog.xero.com/sre-xero-managing-incidents-part-ii-224a6e06f426,SRE@Xero: Managing Incidents Part II,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/,How To Establish a High Severity Incident Management Program,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=xA5U85LSk0M,How Your Systems Keep Running Day After Day - John Allspaw,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@copyconstruct/on-call-b0bd8c5ea4e0,On-call doesn’t have to suck,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@awspyker/why-as-a-netflix-infrastructure-manager-am-i-on-call-bdc551ac01fe,Why, as a Netflix infrastructure manager, am I on call?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://honeycomb.io/blog/2018/02/oncall-and-sustainable-software-development/,Oncall and Sustainable Software Development,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://thenewstack.io/call-rotations-best-wake-devs-middle-night/,On Call Rotations: How Best to Wake Devs Up in the Middle of the Night,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.gremlin.com/community/tutorials/understanding-the-role-of-the-incident-manager-on-call-imoc/,Understanding The Role Of The Incident Manager On-Call (IMOC),https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devops.com/three-ways-to-minimize-the-impact-of-high-severity-incidents/,3 Ways to Minimize the Impact of High Severity Incidents,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://thenewstack.io/advice-management-teams-enrolling-changes-on-call-systems/,Advice to Management Teams While Enrolling Changes to On-Call Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.adaptivecapacitylabs.com/blog/2018/03/23/moving-past-shallow-incident-data/,Moving Past Shallow Incident Data,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://codywilbourn.com/2018/03/22/sustainable-on-call/,Sustainable On-Call,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://youtu.be/8pPrtf1J1Z8,dotScale 2017 - Aish Raj Dahal - Chaos management during a major incident,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.infoq.com/presentations/netflix-incident-management,Incident Management at Netflix Velocity,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/booking-com-infrastructure/incidents-fixes-and-the-day-after-c5d9aeae28c3,Incidents, fixes, and the day after,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://engineering.salesforce.com/10-steps-to-develop-an-incident-response-plan-youll-actually-use-6cc49d9bf94c,10 Steps to Develop an Incident Response Plan You’ll ACTUALLY Use,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://tech.buzzfeed.com/checklists-an-operational-gift-aaf42cf0be12,Checklists: a stupidly simple but valuable operational gift,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/,How to write a status page update,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.atlassian.com/software/jira/ops/handbook,Atlassian Incident Handbook,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://response.pagerduty.com/,PagerDuty Incident Response Handbook,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout,Avoiding Burnout for SREs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://vimeo.com/344516642,Better On-Call the SRE way,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=ZqwVlsIonIw,Managing Incidents at Monzo,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://dev.to/molly_struve/making-on-call-not-suck-490,Making On-Call Not Suck,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://monzo.com/blog/2019/07/08/how-we-respond-to-incidents,How we (Monzo) respond to incidents,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devops.com/code-yellow-when-operations-isnt-perfect/,Code Yellow: When Operations Isn’t Perfect,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://opensource.com/article/19/7/measure-operational-performance,MTTR is dead, long live CIRT,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.verica.io/inhumanity-of-root-cause-analysis/,Inhumanity of Root Cause Analysis,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=ODYO2MPymJ4,Incident insights from NASA, NTSB, and the CDC,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.squadcast.com/how-to-avoid-on-call-burnout/,How to avoid On-Call Burnout the SRE Way,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://about.gitlab.com/blog/2019/12/16/sre-shadow/,My week shadowing a GitLab Site Reliability Engineer,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://about.gitlab.com/blog/2018/03/14/the-on-call-handover-at-gitlab/,How our production team runs the weekly on-call handover,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.box.com/blog/a-tale-of-postmortems/,A Tale of Postmortems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://runasradio.com/Shows/Show/486,Building a Blameless Post-Mortem Culture with Jason Hand,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.oreilly.com/ideas/the-infinite-hows,The infinite hows,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://victorops.com/blog/blameless-culture/,Failure is Always An Option: How a Blameless Culture Leads to Better Results,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sysadmincasts.com/episodes/20-how-to-write-an-incident-report-postmortem,How to write an Incident Report / Postmortem,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sysadvent.blogspot.com/2016/12/day-1-why-you-need-postmortem-process.html,SysAdvent - Day 1 - Why You Need a Postmortem Process,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/,Etsy’s Debriefing Facilitation Guide for Blameless Postmortems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/production-ready/writing-your-first-postmortem-8053c678b90f,Writing Your First Postmortem,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/,How to Write Great Outage Post-Mortems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.heptio.com/embracing-feedback-2fd703da714f,Embracing Feedback,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon17americas/program/presentation/lueder,Postmortem Action Items: Plan the Work and Work the Plan,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18,Social Issues In Postmortems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.inc.com/justin-bariso/meet-postmortem-googles-brilliant-process-tool-for-learning-from-failure.html,Google Has an Official Process in Place for Learning From Failure--and It's Absolutely Brilliant,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/,Postmortem culture: how you can learn from failure,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit,re:Work - Postmortem discussion template,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://increment.com/documentation/post-mortems-to-the-rescue/,Post-mortems to the rescue,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://ai.google/research/pubs/pub45906,Postmortem Action Items: Plan the Work and Work the Plan,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.blameless.com/why-companies-can-benefit-from-blameless-culture/,Why Every Company Can Benefit from a Blameless Culture,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.hostedgraphite.com/blog/its-dead-jim-how-we-write-an-incident-postmortem,"It's dead, Jim": How we write an incident postmortem,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.hostedgraphite.com/blog/incident-postmortem-template,Our incident postmortem template,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/,Learn out of mistakes. Postmortems to the rescue.,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf,Capacity Planning,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=MDQ0uEUmLOo,SouthBay SRE: Cloud Capacity Planning,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.squadcast.com/intent-based-capacity-planning-autoscaling-kubernetes/,Intent-based Capacity Planning and Autoscaling with Kubernetes,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=tZ0-SISvCis,SLA Aware Maintenance for Operators - Joe Smith,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues,If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/,Service Level Agreements in the Cloud: Who cares?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://blog.serverdensity.com/making-a-point-with-slas/,Making a point with SLAs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sysadvent.blogspot.com/2016/12/day-20-how-to-set-and-monitor-slas.html,SysAdvent- Day 20 - How to set and monitor SLAs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html,SLOs, SLIs, SLAs, oh my - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon16/program/presentation/jones,Service Levels and Error Budgets,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf,(Un)Reliability Budgets - Finding Balance between Innovation and Reliability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i,The Calculus of Service Availability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://dastergon.github.io/availability-calculator/,Availability Calculator: Calculate how much downtime should be permitted in your SLA,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.ibm.com/developerworks/cloud/library/cl-SLAloadbalance-numanalysis/,Standardize cloud SLA availability with numerical performance data,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.ibm.com/developerworks/cloud/library/cl-slastandards/,Best practices to develop SLAs for cloud computing,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://blog.catchpoint.com/2016/08/04/sla-practical-guide/,A Practical Guide to SLAs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html,Building good SLOs - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://thenewstack.io/sre-lessons-google-no-grumpy-humans/,No Grumpy Humans and Other Site Reliability Engineering Lessons from Google,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2018/01/consequences-of-SLO-violations-CRE-life-lessons.html,Consequences of SLO violations — CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/service-level-objectives-in-practice-ed1200502d5,Service Level Objectives in Practice,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/sre-consensus-building-36ad5d2e470b,SRE Consensus Building,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2018/01/an-example-escalation-policy-CRE-life-lessons.html,An example escalation policy — CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://dastergon.gr/error-budget-calculator/,Error Budget Calculator,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2018/06/understanding-error-budget-overspend-cre-life-lessons.html,Understanding error budget overspend - part one - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2018/06/cre-life-lessons-good-housekeeping-for-error-budgets.html,Good housekeeping for error budgets - part two - CRE life lessons,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html,SRE fundamentals: SLIs, SLAs and SLOs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/,SLOs & You: A Guide To Service Level Objectives,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/concourse-ci/earning-our-wings-a0c307fa73e6,Earning Our Wings: Stories and Findings From Operating a Large-scale Concourse Deployment,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://ai.google/research/pubs/pub48033,Nines are Not Enough: Meaningful Metrics for Clouds,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jamesacowling/how-many-nines-is-my-storage-system-7d16e852d56d,How many nines is my storage system?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://lethain.com/dont-follow-the-sun/,Don't follow the sun.,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=4cPqLuIXBnw,The Tyranny of the SLA,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.backblaze.com/blog/cloud-storage-durability/,Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://youtu.be/Dfnbw5dJQ5I,DevOpsDays Chicago 2019 - The Art of SLOs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cre.page.link/art-of-slos,The Art of SLOs Workshop Materials,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/,How to Include Latency in SLO-Based Alerting,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conference/srecon16/program/presentation/gregg,Performance Checklists for SREs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://youtu.be/uQ0flQOtQEA,South Bay SRE Meetup - Netflix Cloud Performance Team,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca,Software Performance Analysis Guided By SLOs,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://mterwill.com/posts/framework-for-performance-engineering/,A framework for pragmatic performance engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/pub/e/2712,Go Language for Ops and Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf,Go for SREs using Python,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://speakerdeck.com/ianschenck/operability-in-go,Operability in Go,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.youtube.com/watch?v=5doOcaMXx08,Go Reliability and Durability at Dropbox,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering,What is SRE (Site Reliability Engineering)?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.wired.com/2016/04/google-ensures-services-almost-never-go/,Here’s How Google Makes Sure It (Almost) Never Goes Down,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://techcrunch.com/2016/03/02/are-site-reliability-engineers-the-next-data-scientists/,Are site reliability engineers the next data scientists?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://googleresearch.blogspot.gr/2012/07/site-reliability-engineers-solving-most.html,Site Reliability Engineers: "solving the most interesting problems",https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://googleforstudents.blogspot.gr/2012/06/site-reliability-engineers-worlds-most.html,Site Reliability Engineers: the "world’s most intense pit crew",https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://searchitoperations.techtarget.com/feature/Site-reliability-engineering-kicks-rote-tasks-out-of-IT-ops,Site reliability engineering kicks rote tasks out of IT ops,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://danluu.com/google-sre-book/,Notes on Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://cloudplatform.googleblog.com/2016/07/adventures-in-SRE-land-welcome-to-Google-Mission-Control.html,Adventures in SRE-land: Welcome to Google Mission Control,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://devops.com/2015/09/10/linkedin-preps-site-reliability-engineers-sres-exciting-careers/,LinkedIn Preps Site Reliability Engineers (SREs) For Exciting Careers,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.infoq.com/articles/site-reliability-engineering,Book Review: Site Reliability Engineering - How Google Runs Production Systems,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/,Site Reliability Engineers: “We solve cooler problems”,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html,SREcon17: Brave new world of site reliability engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c,Commentary on Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300,Site Reliability Engineering: 4 Things to Know,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.linkedin.com/pulse/looking-sre-success-find-intrapreneurs-josh-gilliland/,Looking for SRE Success? Then Find the Intrapreneurs!,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://web.devopstopologies.com/,What Team Structure is Right for DevOps to Flourish?,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.sidewalksafari.com/2018/12/sre-in-a-travel-emergency.html,Injured on Vacation? Applying Principles from Site Reliability Engineering to a Travel Emergency,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sobolevn.me/2018/12/blameless-environment,Building blameless working environment,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering,SRE Adoption Report,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://devops.com/sres-the-happiest-and-highest-paid-in-the-industry/,SREs: The Happiest – and Highest Paid – in the Industry,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://thenewstack.io/the-role-of-site-reliability-engineering-today-and-tomorrow/,The Role of Site Reliability Engineering, Today and Tomorrow,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d,SRE as a Lifestyle Choice,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://speakerdeck.com/dastergon/srecon-emea-2019-recap-sre-muc-meetup,SRECon EMEA 2019 Recap,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://hangops.slack.com/,#sre channel at Hangops Slack,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://usenix-srecon.slack.com,USENIX SREcon Slack,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.brendangregg.com/blog/index.html,Brendan Gregg's Blog,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://everythingsysadmin.com/,Everything Sysadmin,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://highscalability.com/,High Scalability,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://rachelbythebay.com/w/,rachelbythebay,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sreweekly.com/,SRE Weekly,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://tinyletter.com/production-ready,Production Ready,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.susanjfowler.com/blog/,Susan J. Fowler,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://sysadvent.blogspot.com,SysAdvent,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://some.ops4devs.info/,Operations for Developers,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@jerub,Stephen Thorne's Blog,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://increment.com/,Increment,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.oreilly.com/webops-perf/newsletter.html,O’Reilly Systems Engineering and Operations Newsletter,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+http://www.gophersre.com/,GopherSRE,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://medium.com/@copyconstruct,Cindy Sridharan,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.blameless.com/blog/,Blameless Blog,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://ResilienceRoundup.com,Resilience Roundup,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.squadcast.com/blog,Squadcast Blog,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conferences/byname/925,SRECon Conferences,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.usenix.org/conferences/byname/5,LISA Conferences,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://developers.google.com/events/sre/,SRE Tech Talks,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.meetup.com/South-Bay-Site-Reliability-Engineering/,South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.meetup.com/San-Francisco-Reliability-Engineering/,San Francisco Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.meetup.com/site-reliability/,Front Range Site Reliability Engineering,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.meetup.com/Site-Reliability-Engineering-Munich/,Site Reliability Engineering Munich, Germany,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.alldaydevops.com/,ADDO - All Day DevOps,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://www.meetup.com/Site-Reliability-Engineering-Paris/,Site Reliability Engineering Paris, France,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering
+https://dev.to,dev.to,https://github.com/dastergon/awesome-sre#readme,Site Reliability Engineering

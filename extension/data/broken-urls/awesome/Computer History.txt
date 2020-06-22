@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=TRZAJY23xio,Steve Jobs - The Lost Interview,https://github.com/watson/awesome-computer-history#readme,Computer History error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://www.computerhistory.org/atchm/adobe-photoshop-source-code/,Adobe Photoshop,https://github.com/watson/awesome-computer-history#readme,Computer History error: timeout('timed out') | reason: 
+https://archive.org/details/nc103_cyberpolitics,Politics on the Web,https://github.com/watson/awesome-computer-history#readme,Computer History error: timeout('The read operation timed out') | reason: 
+https://www.netflix.com/title/80104318,Silicon Cowboys,https://github.com/watson/awesome-computer-history#readme,Computer History error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://phk.freebsd.dk/sagas/bikeshed.html,A bike shed (any colour will do) on greener grass...,https://github.com/watson/awesome-computer-history#readme,Computer History error: <HTTPError 404: 'Not Found'> | reason: Not Found

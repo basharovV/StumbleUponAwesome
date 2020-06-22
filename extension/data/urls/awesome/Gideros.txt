@@ -1,45 +1,40 @@
 http://giderosmobile.com,,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile,AceSlide class,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing,GTween,https://github.com/stetso/awesome-gideros#readme,Gideros
+https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug,Visual Studio Code plugin,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/download,Download Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://giderosmobile.com/forum/discussion/5870/new-desktop-api-test/p1,Desktop API,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://docs.giderosmobile.com,Getting Started Manual,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1,Sublime Text 3 plugin,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://docs.giderosmobile.com/reference/,API Reference,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/,Forum,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://bit.ly/2pkF09m,Shaders in Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/code/,Online Editor,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/examples,Online Examples,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://giderosmobile.com/forum/discussion/6667/shadertoy-viewer-beta-shaders-from-www-shadertoy-com-in-gideros/p1,Shadertoy viewer,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/guide,Developer Guide,https://github.com/stetso/awesome-gideros#readme,Gideros
 https://www.youtube.com/watch?v=IRLxBijIX50,Introductory Video Tutorial,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://giderosmobile.com/forum/discussion/4892/software-improve-what-kind-of-skills-do-you-need,Improving performance,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://giderosmobile.com/forum/discussion/5870/new-desktop-api-test/p1,Desktop API,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://bluebilby.com/2013/05/08/gideros-mobile-tutorial-creating-your-first-game/,Simple square-dodge game,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://programmingbymoonlight.com/roguelike-intro/,Top-down roguelike Tutorial,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://blog.hotbutteredgames.com/post/143878823915/gideros-tutorial-a-simple-box2d-game-gideros-is-a,Breakout Clone,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://www.moosader.com/learn/introduction-to-mobile-game-development/,"Grab the treasure" course,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://www.packtpub.com/game-development/gideros-mobile-game-development,Gideros Mobile Game Development,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://www.apress.com/us/book/9781430246626,Learn Lua for iOS Game Development,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://www.indiedb.com/tutorials/gideros-with-zerobrane,Using ZeroBrane Studio with Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://www.youtube.com/watch?v=wPYvJxFxMkM,Live Coding with Gideros and ZeroBrane Studio,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://www.youtube.com/watch?v=GIipyzSpSr0,ZeroBrane Studio integration and debugging,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug,Visual Studio Code plugin,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1,Sublime Text 3 plugin,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://bit.ly/2pkF09m,Shaders in Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://giderosmobile.com/forum/discussion/6667/shadertoy-viewer-beta-shaders-from-www-shadertoy-com-in-gideros/p1,Shadertoy viewer,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://www.indiedb.com/engines/gideros/tutorials/clipping-in-gideros-with-rendertarget,Intro to clipping and the RenderTarget,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://appcodingeasy.com/Gideros-Mobile/Manage-Scenes-in-Gideros-Mobile,SceneManager,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://giderosmobile.com/forum/discussion/4892/software-improve-what-kind-of-skills-do-you-need,Improving performance,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/discussion/1474/passing-variables-with-scene-manager/p1,Passing variables using the SceneManager,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://appcodingeasy.com/Gideros-Mobile/Detecting-Gestures-in-Gideros,Gestures,https://github.com/stetso/awesome-gideros#readme,Gideros
+https://www.youtube.com/watch?v=IfHwdJD6ad8,Tutorial using 3D in Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://appcodingeasy.com/Gideros-Mobile/Using-Accelerometer-with-Box2d-in-Gideros,Accelerometer,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://appcodingeasy.com/Gideros-Mobile/Gideros-Shake-detection,Shake detection,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing,GTween,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://bluebilby.com/2013/05/12/gideros-mobile-tutorial-animated-movieclips/,Animation using MovieClip,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/discussion/6353/collision-with-any-object/p1,Collision with Tilemaps,https://github.com/stetso/awesome-gideros#readme,Gideros
+https://programmingbymoonlight.com/roguelike-intro/,Top-down roguelike Tutorial,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player,C++ plugin development,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/discussion/2715/camera-class-with-kinetics-and-pinch-to-zoom/p1,Smooth camera with Drag and Pinch-to-Zoom,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://bluebilby.com/2013/04/18/gideros-mobile-tutorial-playing-music-and-sound-effects/,Intro to using audio with Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://yonaba.github.io/Jumper/,jumper,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile,DataSaver module,https://github.com/stetso/awesome-gideros#readme,Gideros
+https://wiki.giderosmobile.com/index.php/Bump,cbump,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://blog.hotbutteredgames.com/post/143878823915/gideros-tutorial-a-simple-box2d-game-gideros-is-a,Breakout Clone,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/discussion/5625/simple-savegame-encryption/p1,Encrypting save files,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/discussion/5801/tuto-video-tutorial-how-to-add-admob-plugin-to-your-app,Admob integration,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app,Google Service integration,https://github.com/stetso/awesome-gideros#readme,Gideros
 http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class,Button class,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile,AceSlide class,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://www.youtube.com/watch?v=IfHwdJD6ad8,Tutorial using 3D in Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player,C++ plugin development,https://github.com/stetso/awesome-gideros#readme,Gideros
-http://yonaba.github.io/Jumper/,jumper,https://github.com/stetso/awesome-gideros#readme,Gideros
-https://wiki.giderosmobile.com/index.php/Bump,cbump,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://www.apress.com/us/book/9781430246626,Learn Lua for iOS Game Development,https://github.com/stetso/awesome-gideros#readme,Gideros
+http://www.indiedb.com/tutorials/gideros-with-zerobrane,Using ZeroBrane Studio with Gideros,https://github.com/stetso/awesome-gideros#readme,Gideros
+https://www.youtube.com/watch?v=wPYvJxFxMkM,Live Coding with Gideros and ZeroBrane Studio,https://github.com/stetso/awesome-gideros#readme,Gideros
+https://www.youtube.com/watch?v=GIipyzSpSr0,ZeroBrane Studio integration and debugging,https://github.com/stetso/awesome-gideros#readme,Gideros

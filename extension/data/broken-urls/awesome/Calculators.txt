@@ -1,0 +1,2 @@
+https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en,MyScript Calculator (Drawing Calculator),https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://akepinski.me,Antoni Kepinski,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

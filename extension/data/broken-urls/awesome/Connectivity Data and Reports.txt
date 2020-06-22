@@ -1,0 +1,3 @@
+https://viz.measurementlab.net/,M-Lab Visualization Platform,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.facebook.com/ads/audience-insights/,Facebook Audience Insights,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.gsma.com/mobileeconomy/africa/,GSMA Mobile Economy - Africa,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports error: <HTTPError 404: 'Not Found'> | reason: Not Found

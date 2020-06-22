@@ -1,0 +1,102 @@
+https://jamstack.org,Jamstack,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://jamstack.org/resources/,Jamstack resources,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.thenewdynamic.org/,the New Dynamic,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://gitter.im/appernetic/issues,Appernetic Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://gitter.im/jamstack/community,Jamstack Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://gitter.im/netlify/community,Netlify Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://gitter.im/netlify/NetlifyCMS,NetlifyCMS Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://join.slack.com/t/thenewdynamic/shared_invite/enQtMjkwNjYwNTY0NjkxLWI1NDhlNjZkZjA5ZGJmODE1OThiMjkwN2ZkMzE1YjEwN2YwNWUxYTNjZTUxMGQ2MzU3NWQ0YmVjNGU1NTkxMDk,the New Dynamic Slack,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://appernetic.io,Appernetic,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://netlify.com,Netlify,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://squoosh.app/,Squoosh.app,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://travel.hopper.com/,Hopper,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://CloudyCam.dev/,CloudyCam,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.fbamonthly.com,FbaMonthly,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://jarodpeachey.netlify.com,Jarod Peachey,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://gatsbyjs.org,Gatsby,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://hexo.io,Hexo,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://metalsmith.io,Metalsmith,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://phenomic.io/,Phenomic,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://gridsome.org/,Gridsome,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.11ty.io/,eleventy,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://nift.cc,Nift,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.staticgen.com/,StaticGen,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://contentful.com,Contentful,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://netlifycms.org/,NetlifyCMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://buttercms.com/,ButterCMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://scrivito.com,Scrivito,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://graphcms.com,GraphCMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://prismic.io,Prismic,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://siteleaf.com,Siteleaf,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://datocms.com,DatoCMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://prose.io,Prose,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://forestry.io,Forestry,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://getcockpit.com/,Cockpit,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://headlesscms.org/,HeadlessCMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.takeshape.io/,TakeShape,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://flotiq.com,Flotiq,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.netlify.com/docs/identity/,Netlify Identity,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.gotrueapi.org,GoTrue API,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://jexia.com,Jexia UMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://disqus.com,Disqus,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://developers.facebook.com/docs/plugins/comments,Facebook Comments,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://getform.io,Getform,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.netlify.com/docs/form-handling/,Netlify Forms,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://statickit.com,StaticKit,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.gocommerceapi.org,GoCommerce,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://snipcart.com/,Snipcart,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://trolley.link,Trolley,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.shopify.co.uk/plus/solutions/headless-commerce,Shopify,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://lunrjs.com/,Lunr,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloudsh.com/,CloudSh,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://graphql.org,GraphQL,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://graph.cool,Graphcool,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.netlify.com/docs/functions/,Netlify Functions,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://aws.amazon.com/lambda/,Amazon Lambda,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://docs.microsoft.com/en-us/azure/azure-functions/,Azure Functions,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://docs.microsoft.com/en-us/azure/logic-apps/,Azure Logic Apps,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/appengine/,App Engine,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/functions/,Cloud Functions,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/datastore/,Cloud Datastore,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/storage/,Cloud Storage,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/pubsub/,Cloud Pub/Sub,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://apigee.com/,Apigee,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/endpoints/,Endpoints,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/bigquery/,BigQuery,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://cloud.google.com/ml-engine/,Cloud ML Engine,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://vimeo.com/163522126,The New Front-end Stack. JavaScript, APIs and Markup,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/watch?v=uWTMEDEPw8c,Rise of the Jamstack,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/watch?v=XOYtS91QWQI,Jamstack: Silly name, serious stuff,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/watch?v=KX4G49ZrvY0,Git-based or API-driven CMS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/watch?v=NSts93C9UeE,Jamstack Tutorial - Full site using Netlify & Hugo,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/watch?v=6YhqQ2ZW1sc,Gatsby JS Crash Course,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.gatsbyjs.com/gatsby-days-keynote-kyle/,How We Got Here and The Future of the Web,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos,Talks from all the Jamstack Conferences,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.youtube.com/watch?v=dwpn1pd9kT8,How I Used React, Vue, & Node to Build a Single Jamstack App,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://blog.ghost.org/jamstack/,Ghost on the Jamstack,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://blog.getform.io/building-a-gatsby-contact-form-using-getform,Building a contact form in Gatsby using Getform,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44,Getting Started with Gatsby and Cockpit — Part 1 of 2,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a,Creating Static E-commerce site with GatsbyJs,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/,For Static Sites, There’s No Excuse Not to Use a CDN,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart,E-commerce front-end for Vue.js, Nuxt.js and Snipcart,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.tomango.co.uk/thinks/paul-the-octopus-2018/,Building Paul The Octopus,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword,Jamstack and Netlify: Do We really need another buzzword?,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917,The Jamstack Startup Landscape,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://blog.pavsidhu.com/how-i-built-my-blog-using-gatsby-and-netlify/,How I built my blog using Gatsby and Netlify,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://snipcart.com/blog/headless-ecommerce-guide,Developer's Guide to Headless E-Commerce,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://snipcart.com/blog/static-forms-serverless-gatsby-netlify,Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://snipcart.com/blog/jamstack-clients-static-site-cms,Jamstack for Clients: Benefits, Static Site CMS, & Limitations,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://snipcart.com/blog/netlify-cms-react-git-workflow,Exploring Netlify CMS, a React & Git-Based Content Management System,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://bryanlrobinson.com/blog/2018/11/12/ios-shortcuts-pushing-data-to-netlify-static-site/,Dynamic Static Sites with Netlify and iOS Shortcuts; Use Netlify Functions, a Gulp build process and iOS Shortcuts to publish dynamic content to your static site,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/,Gatsby for Apps,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/,Turning the Static Dynamic,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/,Going Jamstack with Netlify and Nuxt,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://scotch.io/tutorials/getting-started-with-gridsome,Getting Started With Gridsome,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://interplanetarygatsby.com/ipfs-deploy/,The Complete Beginner's Guide to Deploying Your First Static Website to IPFS,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://snipcart.com/jamstack-ecommerce-podcast,A Broad Discussion on Jamstack & E-Commerce (Podcast & Transcript),https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://bejamas.io/blog/static-site-generators/,The Beginner's Guide to Static Site Generators,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://bejamas.io/blog/headless-cms/,9 Headless CMS Options for Your Jamstack Site,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.netlify.com/tags/podcast/,Jamstack Radio,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://thatsmyjamstack.com,That's my Jamstack,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf,Modern Web Development on the Jamstack,https://github.com/automata/awesome-jamstack#readme,JAMstack
+https://www.manning.com/books/hugo-in-action,Hugo in Action,https://github.com/automata/awesome-jamstack#readme,JAMstack

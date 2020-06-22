@@ -1,0 +1,4 @@
+http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1,Heroku for Highly Available Dropwizard Apps,https://github.com/stve/awesome-dropwizard#readme,Dropwizard error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.dropwizard.io/0.9.2/docs/getting-started.html,Getting Started,https://github.com/stve/awesome-dropwizard#readme,Dropwizard error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.dropwizard.io/0.9.2/docs/manual/index.html,Official docs,https://github.com/stve/awesome-dropwizard#readme,Dropwizard error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.dropwizard.io/0.9.2/docs/manual/internals.html,Dropwizard internals,https://github.com/stve/awesome-dropwizard#readme,Dropwizard error: <HTTPError 404: 'Not Found'> | reason: Not Found

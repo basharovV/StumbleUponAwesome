@@ -1,0 +1,4 @@
+http://jayfields.com/expectations/,Expectations,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.packtpub.com/web-development/learning-clojurescript,Learning ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

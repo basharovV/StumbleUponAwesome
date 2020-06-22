@@ -1,0 +1,2 @@
+https://www.infosanity.org,InfoSanity,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://www.meetup.com/mental-health-in-tech-auckland/,Mental Health In Tech Auckland,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health error: <HTTPError 404: 'Not Found'> | reason: Not Found

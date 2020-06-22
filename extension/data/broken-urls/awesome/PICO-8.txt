@@ -1,0 +1,1 @@
+http://pico.electrobureau.com/,pico chat,https://github.com/pico-8/awesome-PICO-8#readme,PICO-8 error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

@@ -1,0 +1,3 @@
+http://research.neustar.biz/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/,HyperLogLog for big data distinct values,https://github.com/enjalot/algovis#readme,Algorithm Visualizations error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://probmods.org/chapters/02-generative-models.html,,https://github.com/enjalot/algovis#readme,Algorithm Visualizations error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://beta.mathigon.org/,beta site,https://github.com/enjalot/algovis#readme,Algorithm Visualizations error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

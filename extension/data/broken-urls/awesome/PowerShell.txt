@@ -1,0 +1,6 @@
+https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276,Getting Started With PowerShell 3.0 Jump Start,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://channel9.msdn.com/Series/advpowershell3,Advanced Tools & Scripting with PowerShell 3.0,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://blogs.technet.com/b/heyscriptingguy/,Hey, Scripting Guy! Blog,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://channel9.msdn.com/series/PowerShell-Open-Source-Project,PowerShell Open Source Project,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source,PowerShell on Linux and Open Source,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://channel9.msdn.com/Shows/MsftPowerShell,PowerShell,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

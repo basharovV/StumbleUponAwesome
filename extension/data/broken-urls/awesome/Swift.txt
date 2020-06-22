@@ -1,0 +1,1 @@
+https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427,,https://github.com/matteocrippa/awesome-swift#readme,Swift error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,112 +1,109 @@
+http://pydub.com,pydub,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://mircommunity.slack.com,Slack Channel,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://craffel.github.io/mir_eval/,mir_eval,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/mingus,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://tftb.nongnu.org,pytftb,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://briansimulator.org/,Brian2,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://craffel.github.io/pretty-midi/,Pretty-MIDI,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html,Numpy for MATLAB® Users,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/pyAudioAnalysis/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/sfs/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/python_speech_features,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/audiomate/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://medleydb.readthedocs.io,medleydb,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://musicinformationretrieval.com/,MIR Notebooks,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://wiki.python.org/moin/PythonInMusic,PythonInMusic,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/audiolazy/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://python-acoustics.github.io/python-acoustics/,acoustics,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/mir_eval,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://medleydb.weebly.com/,medleydb,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/speechpy,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/audioread/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/webrtcvad/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://pythonhosted.org/msaf/,msaf,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP,Fundamentals of Music Processing,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/acoustics,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://stft.readthedocs.io,STFT,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/pretty-midi,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/Brian2,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/pyroomacoustics,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://ajaxsoundstudio.com/software/pyo/,PYO,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://www.readbeyond.it/aeneas/,aeneas,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://eprints.maynoothuniversity.ie/4115/1/40.pdf,Python for audio signal processing,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/pystoi,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/soundcloud,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://mutagen.readthedocs.io/,mutagen,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf,librosa: Audio and Music Signal Analysis in Python,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://audiotsm.readthedocs.io/,AudioTSM,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/pyrubberband/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/stft,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/msaf,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://montrealcorpustools.github.io/Montreal-Forced-Aligner/,Montreal Forced Aligner,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://www.youtube.com/watch?v=MhOdbtPhbLU,Video,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://www.christiansteinmetz.com/projects-blog/pyloudnorm,pyloudnorm,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://developers.soundcloud.com/,Soundcloud API,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/aeneas/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://breakfastquay.com/rubberband/,rubberband,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/audiotsm/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://python-sounddevice.readthedocs.io,,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://aubio.org/,aubio,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://lium.univ-lemans.fr/sidekit/,SIDEKIT,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/deepspeech/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://arxiv.org/abs/1911.01255,pyannote.audio: neural building blocks for speaker diarization,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://rg3.github.io/youtube-dl/,Youtube-Downloader,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://librosa.github.io/librosa/,librosa,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/mutagen,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://pyfftw.github.io/pyFFTW/,pyFFTW,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/praat-parselmouth/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://www.youtube.com/watch?v=37R_R82lfwA,Video,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/SIDEKIT/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://www.praat.org,Praat,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://pywavelets.readthedocs.io,PyWavelets,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/pyFFTW/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://www.coursera.org/learn/audio-signal-processing,Coursera Course,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/commonfate,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/aubio,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/librosa,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/sounddevice,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/youtube_dl,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/SpeechRecognition/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://persephone.readthedocs.io/en/latest/,persephone,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://essentia.upf.edu,essentia,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://grrrr.org/research/software/nsgt/,NSGT,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://code.soundsoftware.ac.uk/projects/vampy-host,VamPy Host,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/persephone/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://muda.readthedocs.io/en/latest/,muda,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://tut-arg.github.io/sed_eval,sed_eval,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/PyWavelets,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/kapre,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/sed_eval/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/pyannote-audio/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/beets,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/nsgt,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/nussl,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://nimfa.biolab.si,NIMFA,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://musicbrainz.org/,MusicBrainz,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/vamp,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 http://docs.mikeboers.com/pyav/,pyAV,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://resampy.readthedocs.io,Resampy,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/cochlea/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/muda,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/music21,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://jakevdp.github.io/WhirlwindTourOfPython/,Whirlwind Tour Of Python,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/mdct,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://mido.readthedocs.io/en/latest/,Mido,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/nimfa,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://dsdtools.readthedocs.io,dsdtools,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pydiogment.readthedocs.io,pydiogment,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+http://www.scipy-lectures.org/index.html,Introduction to Numpy and Scipy,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/resampy,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 http://pysoundfile.readthedocs.io/,(Py)Soundfile,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.org/project/pydiogment/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://madmom.readthedocs.io/en/latest/,Madmom,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/mido,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/dsdtools,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
+https://pypi.python.org/pypi/madmom,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/SoundFile,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/pysox/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/stempeg/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
 https://pypi.python.org/pypi/tinytag/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/audiomate/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://python-acoustics.github.io/python-acoustics/,acoustics,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/acoustics,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://audiotsm.readthedocs.io/,AudioTSM,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/audiotsm/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://pyfftw.github.io/pyFFTW/,pyFFTW,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/pyFFTW/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://grrrr.org/research/software/nsgt/,NSGT,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/nsgt,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/mdct,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://pydub.com,pydub,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://tftb.nongnu.org,pytftb,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/pyroomacoustics,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/pyrubberband/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://breakfastquay.com/rubberband/,rubberband,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://pywavelets.readthedocs.io,PyWavelets,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/PyWavelets,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://resampy.readthedocs.io,Resampy,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/resampy,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://www.sfstoolbox.org,SFS-Python,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/sfs/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://stft.readthedocs.io,STFT,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/stft,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://aubio.org/,aubio,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/aubio,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://essentia.upf.edu,essentia,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://muda.readthedocs.io/en/latest/,muda,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/muda,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pydiogment.readthedocs.io,pydiogment,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/pydiogment/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/python_speech_features,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/speechpy,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://www.readbeyond.it/aeneas/,aeneas,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/aeneas/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/deepspeech/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/praat-parselmouth/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://www.praat.org,Praat,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://persephone.readthedocs.io/en/latest/,persephone,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/persephone/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/pyannote-audio/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/pyAudioAnalysis/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/webrtcvad/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/pystoi,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://montrealcorpustools.github.io/Montreal-Forced-Aligner/,Montreal Forced Aligner,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://lium.univ-lemans.fr/sidekit/,SIDEKIT,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/SIDEKIT/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/SpeechRecognition/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://tut-arg.github.io/sed_eval,sed_eval,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/sed_eval/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/cochlea/,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://briansimulator.org/,Brian2,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/Brian2,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://www.christiansteinmetz.com/projects-blog/pyloudnorm,pyloudnorm,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/commonfate,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://interactiveaudiolab.github.io/nussl/,NUSSL,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/nussl,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://nimfa.biolab.si,NIMFA,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/nimfa,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://madmom.readthedocs.io/en/latest/,Madmom,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/madmom,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://craffel.github.io/mir_eval/,mir_eval,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/mir_eval,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://pythonhosted.org/msaf/,msaf,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/msaf,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://librosa.github.io/librosa/,librosa,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/librosa,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/kapre,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/music21,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://mido.readthedocs.io/en/latest/,Mido,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/mido,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.org/project/mingus,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://craffel.github.io/pretty-midi/,Pretty-MIDI,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/pretty-midi,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://ajaxsoundstudio.com/software/pyo/,PYO,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://python-sounddevice.readthedocs.io,,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/sounddevice,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/beets,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://musicbrainz.org/,MusicBrainz,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://dsdtools.readthedocs.io,dsdtools,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/dsdtools,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://medleydb.readthedocs.io,medleydb,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://medleydb.weebly.com/,medleydb,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/soundcloud,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://developers.soundcloud.com/,Soundcloud API,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://rg3.github.io/youtube-dl/,Youtube-Downloader,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/youtube_dl,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://code.soundsoftware.ac.uk/projects/vampy-host,VamPy Host,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://pypi.python.org/pypi/vamp,📦,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://jakevdp.github.io/WhirlwindTourOfPython/,Whirlwind Tour Of Python,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://www.scipy-lectures.org/index.html,Introduction to Numpy and Scipy,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html,Numpy for MATLAB® Users,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://musicinformationretrieval.com/,MIR Notebooks,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP,Fundamentals of Music Processing,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://eprints.maynoothuniversity.ie/4115/1/40.pdf,Python for audio signal processing,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf,librosa: Audio and Music Signal Analysis in Python,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://www.youtube.com/watch?v=MhOdbtPhbLU,Video,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://arxiv.org/abs/1911.01255,pyannote.audio: neural building blocks for speaker diarization,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://www.youtube.com/watch?v=37R_R82lfwA,Video,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://www.coursera.org/learn/audio-signal-processing,Coursera Course,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html,Digital Signal Processing Course,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://mircommunity.slack.com,Slack Channel,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio
-https://wiki.python.org/moin/PythonInMusic,PythonInMusic,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio

@@ -1,0 +1,138 @@
+https://en.wikipedia.org/wiki/Static_program_analysis,Wikipedia,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.adacore.com/codepeer,Codepeer,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.mathworks.com/products/polyspace-ada.html,Polyspace for Ada,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.spark-2014.org/about,SPARK,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://scitools.com/ada-programming-essential/,Understand,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.gnu.org/software/gawk/manual/html_node/Options.html,gawk --lint,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.absint.com/astree/index.htm,Astrée,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.cprover.org/cbmc/,CBMC,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://clang.llvm.org/extra/clang-tidy/,clang-tidy,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.grammatech.com/products/codesonar,CodeSonar from GrammaTech,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.cppdepend.com,CppDepend,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.spinellis.gr/cscout/,CScout,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.dwheeler.com/flawfinder/,flawfinder,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://frama-c.com/,Frama-C,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.perforce.com/products/helix-qac,Helix QAC,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://ldra.com,LDRA,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://oclint.org/,oclint,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.mathworks.com/products/polyspace-bug-finder.html,Polyspace Bug Finder,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.mathworks.com/products/polyspace-code-prover.html,Polyspace Code Prover,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://clang-analyzer.llvm.org/scan-build.html,scan-build,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://bitbucket.org/verateam/vera/wiki/Introduction,vera++,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://carc.codeplex.com/,Code Analysis Rule Collection,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.devexpress.com/products/coderush/,CodeRush,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.designite-tools.com,Designite,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.mono-project.com/docs/tools+libraries/tools/gendarme/,Gendarme,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.ndepend.com/,NDepend,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio,Refactoring Essentials,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://dotnet-security-guard.github.io/,Roslyn Security Guard,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://security-code-scan.github.io/,Security Code Scan,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://vs.sonarlint.org/,SonarLint for Visual Studio,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.tmssoftware.com/site/fixinsight.asp,Fix Insight,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://peganza.com/products_pal.html,Pascal Analyzer,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://peganza.com/products_pex.html,Pascal Expert,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://stil4m.github.io/elm-analyse/,elm-analyse,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://gitlab.com/opennota/check,aligncheck,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://golang.org/cmd/vet/,go vet,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://golang.org/pkg/go/ast/,go/ast,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://golang.org/cmd/gofmt/,gofmt -s,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://godoc.org/golang.org/x/tools/cmd/goimports,goimports,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://godoc.org/github.com/surullabs/lint/gosimple,gosimple,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://golang.org/x/tools/cmd/gotype,gotype,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://staticcheck.io/,staticcheck,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://golang.org/pkg/testing/,test,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://checkerframework.org/,http://checkerframework.org/,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.spinellis.gr/sw/ckjm/,ckjm,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.eclipse.org/cognicrypt/,CogniCrypt,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.designite-tools.com/designitejava,DesigniteJava,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://find-sec-bugs.github.io/,Find Security Bugs,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.jarchitect.com,JArchitect,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.cprover.org/jbmc/,JBMC,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://errorprone.info/,Error Prone,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://owasp.org/www-project-dependency-check/,OWASP Dependency Check,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.qulice.com/,qulice,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://sable.github.io/soot/,Soot,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://spotbugs.github.io/,SpotBugs,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://xanitizer.com/,Xanitizer,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://flow.org/,flow,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://jsmonk.github.io/hegel,hegel,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://standardjs.com/,standard,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://de.mathworks.com/help/matlab/ref/mlint.html,mlint,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://pdepend.org/,pdepend,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://cs.sensiolabs.org/,PHP Coding Standards Fixer,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://wapmorgan.github.io/PhpCodeFixer/,phpcf,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.phpdoc.org/,phpDocumentor,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://phpmd.org/,PHPMD,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.phpmetrics.org/,PhpMetrics,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://getpsalm.org/,Psalm,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://securityonline.info/owasp-wap-web-application-protection-project/,WAP,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://metacpan.org/pod/Perl::Critic,Perl::Critic,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://mangothecat.github.io/goodpractice/,goodpractice,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://styler.r-lib.org/,styler,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.sourcemeter.com/resources/rpg/,SourceMeter,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://railroader.org/,Railroader,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.scalastyle.org,Scalastyle,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://catless.ncl.ac.uk/Programs/Frink/,Frink,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://sourceforge.net/projects/nagelfar/,Nagelfar,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://patterson-consulting.net/tds,Test Design Studio,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://npo-echelon.ru/en/solutions/appchecker.php,AppChecker,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.ptsecurity.com/ww-en/products/ai/,Application Inspector,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.hcltechsw.com/wps/portal/products/appscan/home,AppScan Source,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://solarappscreener.com/,APPscreener,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.archunit.org/,ArchUnit,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.castsoftware.com/products/highlight,CAST Highlight,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.checkmarx.com/products/static-application-security-testing/,Checkmarx CxSAST,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://coala.io/,coala,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://coala.io/languages,over 60 languages,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://spinroot.com/cobra/,Cobra,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://codefactor.io,CodeFactor,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://submain.com/products/codeit.right.aspx,CodeIt.Right,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://empear.com/,CodeScene,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html,Coverity,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.deepcode.ai/,DeepCode,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview,Fortify,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.kiuwan.com/code-security-sast/,Kiuwan,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.klocwork.com/products-services/klocwork,Klocwork,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://pmd.github.io/,PMD,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.viva64.com/en/pvs-studio/,PVS-Studio,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.viva64.com/en/b/0614/,conditionally free,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.qualys.com/apps/container-security/,Qualys Container Security,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://semmle.com/,Semmle QL and LGTM,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://LGTM.com,LGTM.com,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://smartdecscanner.com/,SmartDec Scanner,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.sonarqube.org/,SonarQube,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://unibeautify.com/,Unibeautify,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.veracode.com/products/static-analysis-sast/static-code-analysis,Veracode,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://wala.sourceforge.net/wiki/index.php/Main_Page,WALA,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.whitehatsec.com/products/static-application-security-testing/,WhiteHat Application Security Platform,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://developer.apple.com/xcode/,XCode,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://clang-analyzer.llvm.org/xcode.html,Clang's,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://graphmycss.com,GraphMyCSS.com,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.projectwallace.com,Project Wallace,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://stylelint.io/,Stylelint,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://docs.chef.io/cookstyle.html,cookstyle,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.foodcritic.io/,foodcritic,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://terraform-compliance.com,terraform-compliance,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://anchore.io/,anchore,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.html-tidy.org/,HTML Tidy,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://developer.android.com/studio,Android Studio,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.attackflow.com/Extension,Attackflow Extension,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.nongnu.org/chktex/,ChkTeX,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.ctan.org/pkg/lacheck,lacheck,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports,portlint,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://tools.android.com/tips/lint,Android Lint,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.code-inspector.com,Code Inspector,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.codeac.io?ref=awesome-static-analysis,Codeac,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.getcodeflow.com,CodeFlow,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://cyber-security.claranet.fr/en/codepatrol,CodePatrol,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://embold.io,Embold,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.kiuwan.com/,kiuwan,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://nitpick-ci.com,Nitpick CI,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://softwaresecured.com/reshift/,Reshift,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://sider.review,Sider,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.teamscale.com/,Teamscale,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://afterthedeadline.com/,After the Deadline,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://www.peerlyst.com/posts/a-list-of-static-analysis-tools-for-c-c-peerlyst?utm_source=twitter&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources,Tools for C/C++,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis,Wikipedia,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+https://endler.dev,Matthias Endler,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality
+http://www.freepik.com,Designed by Freepik,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality

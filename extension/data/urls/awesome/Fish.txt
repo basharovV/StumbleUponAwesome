@@ -1,3 +1,4 @@
+https://stackoverflow.com/questions/tagged/fish,StackOverflow #fish,https://github.com/jorgebucaran/awesome-fish#readme,Fish
 https://rootnroll.com/d/fish-shell,Try it in your browser,https://github.com/jorgebucaran/awesome-fish#readme,Fish
 https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview,Touch Bar,https://github.com/jorgebucaran/awesome-fish#readme,Fish
 https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/,The fish shell is awesome,https://github.com/jorgebucaran/awesome-fish#readme,Fish
@@ -8,4 +9,3 @@ https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17,Why I Switched f
 https://hub.docker.com/r/dideler/fish-shell,dideler/fish-shell,https://github.com/jorgebucaran/awesome-fish#readme,Fish
 https://www.reddit.com/r/fishshell,r/fishshell,https://github.com/jorgebucaran/awesome-fish#readme,Fish
 https://gitter.im/fish-shell/fish-shell,Gitter Channel,https://github.com/jorgebucaran/awesome-fish#readme,Fish
-https://stackoverflow.com/questions/tagged/fish,StackOverflow #fish,https://github.com/jorgebucaran/awesome-fish#readme,Fish

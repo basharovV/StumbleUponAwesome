@@ -1,0 +1,2 @@
+https://bitbucket.org/simpy/simpy,SimPy,https://github.com/vinta/awesome-python#readme,Python error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://weekly.codetengu.com/,CodeTengu Weekly 碼天狗週刊,https://github.com/vinta/awesome-python#readme,Python error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,2 @@
+https://vimeo.com/68038321,Pixel Paul - An Interview with Pixel Artist and Animator Paul Veer,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/,Creating a color palette,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

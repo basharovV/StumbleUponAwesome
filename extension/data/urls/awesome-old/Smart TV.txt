@@ -1,0 +1,35 @@
+https://en.wikipedia.org/wiki/Smart_TV,Smart TV,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://en.wikipedia.org/wiki/List_of_smart_TV_platforms_and_middleware_software,here,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://developer.samsung.com/tv,Samsung TV Developers site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://developer.tizen.org/tizen/tv,Tizen TV Developers site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://developer.tizen.org/development/tizen-studio/download,Tizen Studio,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://developer.samsung.com/tv/develop/extension-libraries/smart-view-sdk/download/,Smart View SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://developer.samsung.com/forum/?topCtgy=06,Samsung TV Developers Forum,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://samsungtvbounty.com,Samsung Smart TV Bug Bounty,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://marketplace.visualstudio.com/items?itemName=tizensdk.tizentv,vscode-extension-tizentv,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://en.tab-tv.com/?page_id=7123,Identification of Samsung TV models 2008-2017,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://webostv.developer.lge.com,webOS TV Developers Site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://webostv.developer.lge.com/sdk/download/download-sdk/,webOS TV IDE + SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://www.svlconnectsdk.com/,Connect SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://developer.lge.com/community/forums/RetrieveForumList.dev?prodTypeCode=TV,webOS TV Developers Forum,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://nodered.org,Node-RED,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://webostv.developer.lge.com/sdk/using-webos-tv-cli/,CLI,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://mym.hackpad.com/ep/pad/static/rLlshKkzdNj,LG webOS communication protocol,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://youtu.be/yxu0G7jM_us,LG Magic Motion Remote - Point, Click, and Control,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://openlgtv.org.ru,openlgtv.org.ru,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://en.tab-tv.com/?page_id=7111,Identification of LG TV models 2011-2017,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://developer.android.com/training/tv/start/start.html,Android TV Developers site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://developer.apple.com/tvos/,tvOS Developers Site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://developer.apple.com/documentation/tvml,TVML,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://developers.google.com/cast/,Google Cast SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://www.google.com/chromecast/built-in/tv/,TVs with Chromecast built-in,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://developer.samsung.com/tv/develop/extension-libraries/toast/,TOAST,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://enyojs.com,Enyo,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://bbc.github.io/tal/,BBC TAL,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://en.wikipedia.org/wiki/Digital_Living_Network_Alliance,DLNA,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://www.dial-multiscreen.org/,DIAL,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://en.wikipedia.org/wiki/Wi-Fi_Direct,Wi-Fi Direct,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://en.wikipedia.org/wiki/Miracast,Miracast,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://lirc.org,LIRC,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+http://stackoverflow.com/questions/tagged/smart-tv,Stack Overflow,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV
+https://www.reddit.com/r/smarttv,Reddit,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV

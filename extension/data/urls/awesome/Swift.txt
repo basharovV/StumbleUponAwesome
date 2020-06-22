@@ -1,4 +1,7 @@
-https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427,,https://github.com/matteocrippa/awesome-swift#readme,Swift
+http://online.swiftplayground.run,Online Swift Playground,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://pypi.org/project/fastimage/0.2.1/,fastimage,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://bustoutsolutions.github.io/siesta/,Siesta,https://github.com/matteocrippa/awesome-swift#readme,Swift
+http://khan.github.io/Prototope/,Prototope,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://www.natashatherobot.com,Swift Newsletter by Natasha the Robot (discontinued, look the archive),https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://swift.org/documentation/api-design-guidelines/,API Design Guidelines,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://books.apple.com/us/book/swift-programming-language/id881256329,Apple eBook,https://github.com/matteocrippa/awesome-swift#readme,Swift
@@ -8,7 +11,3 @@ https://www.hackingwithswift.com,Hacking With Swift,https://github.com/matteocri
 https://www.raywenderlich.com,Ray Wenderlich Tutorials, Videos, Podcasts and books,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://swiftdoc.org/,SwiftDoc,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://theswiftwebdeveloper.com,The Swift Web Developer,https://github.com/matteocrippa/awesome-swift#readme,Swift
-http://online.swiftplayground.run,Online Swift Playground,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://pypi.org/project/fastimage/0.2.1/,fastimage,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://bustoutsolutions.github.io/siesta/,Siesta,https://github.com/matteocrippa/awesome-swift#readme,Swift
-http://khan.github.io/Prototope/,Prototope,https://github.com/matteocrippa/awesome-swift#readme,Swift

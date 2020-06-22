@@ -1,0 +1,68 @@
+https://en.wikipedia.org/wiki/Internet_Relay_Chat,IRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://komanda.io,Komanda,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.codeux.com/textual/,Textual,https://github.com/davisonio/awesome-irc#readme,IRC
+http://limechat.net/mac/,LimeChat,https://github.com/davisonio/awesome-irc#readme,IRC
+https://hexchat.github.io,HexChat,https://github.com/davisonio/awesome-irc#readme,IRC
+https://kiwiirc.com,Kiwi IRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://kiwiirc.com/nextclient/,demo,https://github.com/davisonio/awesome-irc#readme,IRC
+https://flackr.github.io/circ/,CIRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://quassel-irc.org,Quassel,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.yaaic.org,Yaaic,https://github.com/davisonio/awesome-irc#readme,IRC
+http://demo.relayjs.com,demo,https://github.com/davisonio/awesome-irc#readme,IRC
+https://smuxi.im,Smuxi,https://github.com/davisonio/awesome-irc#readme,IRC
+http://www.kvirc.net,KvIRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://konversation.kde.org,Konversation,https://github.com/davisonio/awesome-irc#readme,IRC
+https://tools.suckless.org/sic/,sic,https://github.com/davisonio/awesome-irc#readme,IRC
+http://colloquy.info,Colloquy,https://github.com/davisonio/awesome-irc#readme,IRC
+https://irssi.org,irssi,https://github.com/davisonio/awesome-irc#readme,IRC
+https://adiirc.com,AdiIRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://dev.adiirc.com/projects/adiirc/wiki/Features,features,https://github.com/davisonio/awesome-irc#readme,IRC
+https://dev.adiirc.com/projects/adiirc/wiki/Screenshots,screenshots,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.countercultured.net/android/,IRC for Android™,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.irccloud.com,IRCCloud,https://github.com/davisonio/awesome-irc#readme,IRC
+https://grove.io,Grove,https://github.com/davisonio/awesome-irc#readme,IRC
+https://convos.by,Convos,https://github.com/davisonio/awesome-irc#readme,IRC
+https://demo.convos.by,demo,https://github.com/davisonio/awesome-irc#readme,IRC
+https://wiki.znc.in/ZNC,ZNC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://bip.milkypond.org,BIP IRC Proxy,https://github.com/davisonio/awesome-irc#readme,IRC
+https://projects.duckcorp.org/projects/bip/repository,source,https://github.com/davisonio/awesome-irc#readme,IRC
+https://thelounge.chat,TheLounge,https://github.com/davisonio/awesome-irc#readme,IRC
+https://demo.thelounge.chat/,demo,https://github.com/davisonio/awesome-irc#readme,IRC
+https://weechat.org,WeeChat,https://github.com/davisonio/awesome-irc#readme,IRC
+https://git.sr.ht/~emersion/soju,soju,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.inspircd.org,InspIRCd,https://github.com/davisonio/awesome-irc#readme,IRC
+https://ngircd.barton.de,ngIRCd,https://github.com/davisonio/awesome-irc#readme,IRC
+https://oragono.io,Oragono,https://github.com/davisonio/awesome-irc#readme,IRC
+https://robustirc.net,RobustIRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://atheme.github.io,Atheme,https://github.com/davisonio/awesome-irc#readme,IRC
+https://anope.org,anope,https://github.com/davisonio/awesome-irc#readme,IRC
+https://sopel.chat,Sopel,https://github.com/davisonio/awesome-irc#readme,IRC
+https://geekchick77.dreamwidth.org/472.html,talkbackbot,https://github.com/davisonio/awesome-irc#readme,IRC
+http://www.jibble.org/pircbot.php,PircBot,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.bitlbee.org/main.php/news.r.html,BitlBee,https://github.com/davisonio/awesome-irc#readme,IRC
+https://netsplit.de/channels/,netsplit.de Search,https://github.com/davisonio/awesome-irc#readme,IRC
+https://search.mibbit.com,mibbit Search,https://github.com/davisonio/awesome-irc#readme,IRC
+https://search.mibbit.com/networks,here,https://github.com/davisonio/awesome-irc#readme,IRC
+https://kiwiirc.com/search,KiwiIRC Search,https://github.com/davisonio/awesome-irc#readme,IRC
+https://freenode.linux.community,##linux,https://github.com/davisonio/awesome-irc#readme,IRC
+https://freenode.linux.community/channel-rules/,rules,https://github.com/davisonio/awesome-irc#readme,IRC
+https://help.ubuntu.com/community/InternetRelayChat,#ubuntu,https://github.com/davisonio/awesome-irc#readme,IRC
+https://wiki.ubuntu.com/IRC/Guidelines,rules,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.python.org/community/irc/,#python,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.python.org/psf/conduct/,rules,https://github.com/davisonio/awesome-irc#readme,IRC
+https://freenode.net,freenode,https://github.com/davisonio/awesome-irc#readme,IRC
+https://freenode.net/policies,rules,https://github.com/davisonio/awesome-irc#readme,IRC
+https://snoonet.org,Snoonet,https://github.com/davisonio/awesome-irc#readme,IRC
+https://snoonet.org/rules/,rules,https://github.com/davisonio/awesome-irc#readme,IRC
+https://oftc.net,OFTC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://drewdevault.com/2015/11/01/Please-stop-using-slack.html,Please don't use Slack for FOSS projects,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments,IRC Networks Under Systematic Attack From Governments,https://github.com/davisonio/awesome-irc#readme,IRC
+https://royal.pingdom.com/irc-is-dead-long-live-irc/,IRC is dead, long live IRC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/,IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning,https://github.com/davisonio/awesome-irc#readme,IRC
+https://www.irchelp.org,#irchelp,https://github.com/davisonio/awesome-irc#readme,IRC
+https://ircv3.net,IRCv3 Working Group,https://github.com/davisonio/awesome-irc#readme,IRC
+https://modern.ircdocs.horse,Modern IRC Documents,https://github.com/davisonio/awesome-irc#readme,IRC
+https://defs.ircdocs.horse,IRC Definition Files,https://github.com/davisonio/awesome-irc#readme,IRC
+https://stats.ircdocs.horse,Protocol Statistics,https://github.com/davisonio/awesome-irc#readme,IRC
+https://irc.lc,IRC LC,https://github.com/davisonio/awesome-irc#readme,IRC
+https://davison.io,Craig Davison,https://github.com/davisonio/awesome-irc#readme,IRC

@@ -1,42 +1,42 @@
+https://landing.google.com/sre/sre-book/chapters/managing-incidents/,Google, SRE: Managing Incidents,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://spreadprivacy.com/,Spread Privacy,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679,,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/,Troy Hunt: Data breach disclosure 101,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://wirewheel.io,Wirewheel,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://noyb.eu/,NOYB,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN,GDPR (2016/679),https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://freedom-to-tinker.com/,Freedom To Tinker,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://gdpr.eu/,GDPR.eu,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.collibra.com,Collibra,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://pdpecho.com/,pdpEcho,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://gdpr-info.eu/,GDPR-info,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+http://www.enforcementtracker.com/,GDPR Enforcement Tracker,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://cups.cs.cmu.edu/,CyLab Usable Privacy and Security Laboratory,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://www.gdpr-expert.com/home.html?mid=5,GDPR-expert,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment,Open-source DPIA software from the French DPA,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en,Guidelines,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en,Opinions,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/,ICO: Guide to GDPR,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1,Handbook on European data protection law,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en,Factsheets,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.gdprtoday.org/,GDPR Today,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://spreadprivacy.com/,Spread Privacy,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://freedom-to-tinker.com/,Freedom To Tinker,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://pdpecho.com/,pdpEcho,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment,Open-source DPIA software from the French DPA,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236,Guidelines on Data Protection Impact Assessment (WP29),https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.iso.org/standard/62289.html,ISO-standard: Guidelines for privacy impact assessment,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://iapp.org/resources/article/sample-dpia-template/,DPIA template from ICO,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://owasp.org/www-project-top-ten/,OWASP Top 10,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://cheatsheetseries.owasp.org/,OWASP Cheat Sheet Series,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.enisa.europa.eu/publications/dbn-severity,ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://landing.google.com/sre/sre-book/chapters/managing-incidents/,Google, SRE: Managing Incidents,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/,Troy Hunt: Data breach disclosure 101,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-http://www.enforcementtracker.com/,GDPR Enforcement Tracker,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://edpb.europa.eu/,European Data Protection Board,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://edps.europa.eu/,European Data Protection Supervisor,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.enisa.europa.eu/topics/data-protection,European Union Agency for Network and Information Security (ENISA),https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://pdpecho.com/the-list/,List of Data Protection Authorities,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.eff.org/,Electronic Frontier Foundation,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://iapp.org/,International Association of Privacy Professionals,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.privacyinternational.org,Privacy International,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://noyb.eu/,NOYB,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://gdpr.eu/,GDPR.eu,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://cups.cs.cmu.edu/,CyLab Usable Privacy and Security Laboratory,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/,ICO: Guide to GDPR,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://epic.org/,EPIC,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.iso.org/standard/62289.html,ISO-standard: Guidelines for privacy impact assessment,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://edps.europa.eu/,European Data Protection Supervisor,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://fpf.org/,Future of Privacy Forum,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://www.w3.org/Privacy/,W3C Privacy Interest Group,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://www.onetrust.com/,OneTrust,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1,Handbook on European data protection law,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.enisa.europa.eu/topics/data-protection,European Union Agency for Network and Information Security (ENISA),https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://iapp.org/resources/article/sample-dpia-template/,DPIA template from ICO,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://owasp.org/www-project-top-ten/,OWASP Top 10,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://pdpecho.com/the-list/,List of Data Protection Authorities,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en,Factsheets,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://cheatsheetseries.owasp.org/,OWASP Cheat Sheet Series,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.eff.org/,Electronic Frontier Foundation,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.gdprtoday.org/,GDPR Today,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.enisa.europa.eu/publications/dbn-severity,ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://www.trustarc.com/,TrustArc,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://www.privitar.com/,Privitar,https://github.com/bakke92/awesome-gdpr#readme,GDPR
 https://bigid.com/,BigID,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://wirewheel.io,Wirewheel,https://github.com/bakke92/awesome-gdpr#readme,GDPR
-https://www.collibra.com,Collibra,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://iapp.org/,International Association of Privacy Professionals,https://github.com/bakke92/awesome-gdpr#readme,GDPR
+https://www.privacyinternational.org,Privacy International,https://github.com/bakke92/awesome-gdpr#readme,GDPR

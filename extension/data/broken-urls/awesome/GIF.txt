@@ -1,0 +1,1 @@
+http://www.gif.gf/labs/face,Gif.gf,https://github.com/davisonio/awesome-gif#readme,GIF error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

@@ -1,163 +1,154 @@
-https://choosealicense.com/licenses/gpl-3.0/,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://choosealicense.com/appendix/,many other licenses,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.audacityteam.org/,Audacity,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.audacityteam.org/about/license/,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://ardour.org/,Ardour,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://ardour.org/copying.html,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING,GNU AGPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://lmms.io/,LMMS,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://nuclear.js.org/,Nuclear Music Player,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://asciinema.org/,asciinema,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://cygwin.com/,Cygwin,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://cygwin.com/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.chiark.greenend.org.uk/~sgtatham/putty/,PuTTY,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html,MIT,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://ranger.github.io/,ranger,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.gnu.org/software/stow/,GNU stow,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://conversations.im/,Conversations,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://gajim.org/,Gajim,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://dev.gajim.org/gajim/gajim/blob/master/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://mailinabox.email/,Mail-in-a-Box,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://matrix.org/,Matrix,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://mattermost.com/,Mattermost,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.mattermost.org/licensing/,Licensing,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://ring.cx/,Ring,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://ring.cx/en/about/practical,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://signal.org/,Signal,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://tutanota.com/,Tutanota,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://7-zip.org/,7-Zip,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.7-zip.org/faq.html,GNU LGPLv2.1+,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.filestash.app,Filestash,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://filezilla-project.org/,FileZilla,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://filezilla-project.org/license.php,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.blender.org/,Blender,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.blender.org/about/license/,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://exifcleaner.com/,ExifCleaner,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.gimp.org/,GIMP,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.gimp.org/about/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://inkscape.org,Inkscape,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://krita.org,Krita,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://phabricator.kde.org/source/krita/browse/master/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://pinta-project.com/pintaproject/pinta/,Pinta,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.piskelapp.com/,Piskel,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.eclipse.org/eclipseide/,Eclipse,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.eclipse.org/legal/epl-v10.html,EPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.libreoffice.org/,LibreOffice,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.libreoffice.org/about-us/licenses/,MPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://git.pwmt.org/pwmt/zathura,Zathura,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE,zlib License,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.debian.org/,Debian,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines,DFSG,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://devuan.org/,Devuan,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://devuan.org/os/source-code,Licenses,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://pureos.net/,PureOS,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://lineageos.org/,LineageOS,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://openmaptiles.org/,OpenMapTiles,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://zeronet.io/,ZeroNet,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://electrum.org,Electrum,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://taler.net,GNU Taler,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://taler.net/en/developers.html,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://matrix.org/,Matrix,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://choosealicense.com/licenses/gpl-3.0/,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
 http://www.docear.org/,DocEar,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.youtube.com/watch?v=Ag1AKIl_2GM,Richard Stallman: Free Software, Free Society (TEDxGeneva 2014),https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://notabug.org/,NotABug.org,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://rg3.github.io/youtube-dl/,youtube-dl,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://phabricator.kde.org/source/krita/browse/master/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://gnu.io/social/,GNU social,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://cygwin.com/,Cygwin,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://brainblasted.gitlab.io/,BrainBlasted's Privacy and Free Software Blog,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.vim.org/,vim,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://www.jabref.org,JabRef,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://choosealicense.com/appendix/,many other licenses,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.youtube.com/watch?v=YGbMbF0mdPU,Stephen Fry: Free Software,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines,DFSG,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://filezilla-project.org/license.php,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://en.wikipedia.org/wiki/Digital_Freedom_Foundation,Digital Freedom Foundation,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://httpd.apache.org/,Apache HTTP Server,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://mattermost.com/,Mattermost,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.youtube.com/watch?v=KQCC5oSfAYo,Wrishiraj Kaushik: I Am Not a Free Software Guy,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.outreachy.org/,Outreachy,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.blender.org/,Blender,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.apache.org/licenses/,Apache License 2.0,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.qemu-project.org/,QEMU,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://notabug.org/hp/gogs/src/master/LICENSE,MIT,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://cygwin.com/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://devuan.org/,Devuan,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.audacityteam.org/,Audacity,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://obsproject.com/,OBS Studio,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://git.gnu.io/gnu/gnu-social/blob/master/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://framasoft.org/,Framasoft,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://pinta-project.com/pintaproject/pinta/,Pinta,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.lighttpd.net/,lighttpd,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://notepad-plus-plus.org/,Notepad++,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://devuan.org/os/source-code,Licenses,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.lighttpd.net/assets/COPYING,Revised BSD license,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.blender.org/about/license/,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://getsharex.com/,ShareX,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.maartenbaert.be/simplescreenrecorder/,SimpleScreenRecorder,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://gogs.io/,Gogs,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://alexanderepstein.github.io/Sandman/,Sandman,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.bytemark.co.uk/company/manifesto/,Bytemark,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.audacityteam.org/about/license/,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.chiark.greenend.org.uk/~sgtatham/putty/,PuTTY,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://nginx.org/,nginx,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://tehnoetic.com/,Technoethical,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.piskelapp.com/,Piskel,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://pureos.net/,PureOS,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.fsf.org/,Free Software Foundation,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://inventaire.io/welcome,Inventaire,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://exifcleaner.com/,ExifCleaner,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://peers.community/,Peers,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://wiki.qemu-project.org/License,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.mattermost.org/licensing/,Licensing,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://nginx.org/LICENSE,2-clause BSD-like license,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html,MIT,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://framagit.org/chocobozzz/PeerTube,PeerTube,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://directory.fsf.org/wiki/Main_Page,Free Software Directory,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://ardour.org/,Ardour,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://lineageos.org/,LineageOS,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.eclipse.org/eclipseide/,Eclipse,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.thinkpenguin.com/,ThinkPenguin,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://ranger.github.io/,ranger,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://sfconservancy.org/,Software Freedom Conservancy,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.eclipse.org/legal/epl-v10.html,EPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://mediagoblin.org/,MediaGoblin,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.gnu.org/distros/free-distros.html,Free GNU/Linux Distributions,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://openmaptiles.org/,OpenMapTiles,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.libiquity.com/,Libiquity,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.wireshark.org/,Wireshark,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.gimp.org/,GIMP,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://vikings.net/,Vikings,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.gnu.org/software/stow/,GNU stow,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE,GNU AGPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://ardour.org/copying.html,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.virtualbox.org/,VirtualBox,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.libreoffice.org/,LibreOffice,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://ring.cx/,Ring,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.softwarefreedom.org/,Software Freedom Law Center,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.mediawiki.org,MediaWiki,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://zeronet.io/,ZeroNet,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://fsmk.org/,Free Software Movement Karnataka,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.gimp.org/about/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING,GNU AGPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://electrum.org,Electrum,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://freepo.st/,freepost,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://phacility.com/phabricator/,Phabricator,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://puri.sm/,Purism,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.mediawiki.org/wiki/Copyright,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.virtualbox.org/wiki/GPL,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://conversations.im/,Conversations,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://fsmi.in/,Free Software Movement of India,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://wallabag.org/en,Wallabag,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://lmms.io/,LMMS,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://newpipe.schabi.org/,NewPipe,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://gajim.org/,Gajim,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.libreoffice.org/about-us/licenses/,MPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://raptorcs.com/,Raptor Computing Systems,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://kodi.tv/,Kodi,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://dev.gajim.org/gajim/gajim/blob/master/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://nuclear.js.org/,Nuclear Music Player,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://inkscape.org,Inkscape,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.videolan.org/vlc/,VLC,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://snowdrift.coop/,Snowdrift.coop,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.videolan.org/videolan/,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://asciinema.org/,asciinema,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://git.pwmt.org/pwmt/zathura,Zathura,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://taler.net,GNU Taler,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://weblate.org,Weblate,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://signal.org/,Signal,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://etherpad.org/,Etherpad,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://mailinabox.email/,Mail-in-a-Box,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://libreplanet.org/,LibrePlanet,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://metager.de/en,MetaGer,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://gnu.org.in/,FSF India,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE,zlib License,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://tutanota.com/,Tutanota,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://en.wikipedia.org/wiki/Software_Freedom_Day,Software Freedom Day,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.debian.org/,Debian,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://fsfe.org/,FSFE,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.tuxfamily.org/,TuxFamily,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://ghost.org/,Ghost,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://neocities.org/,Neocities,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.fsfla.org/ikiwiki/,FSFLA,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://h-node.org/,h-node,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://maxlath.eu/,Maxime Lathuilière,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.fossology.org/,FOSSology,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://atom.io/,Atom,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://7-zip.org/,7-Zip,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://wordpress.org/,WordPress,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://krita.org,Krita,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.gnu.org/,GNU,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.youtube.com/watch?v=_2Qq072wIDk,Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna),https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://gplenforced.org/,gplenforced.org,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.youtube.com/watch?v=uKxzK9xtSXM,Eben Moglen: How I Discovered Free Software,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://about.gitlab.com/installation/,GitLab,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://wordpress.org/about/gpl/,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://www.gnu.org/software/emacs/,Emacs,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.youtube.com/watch?v=O1A4UZqPtMQ,Prof. Nagarjuna G: Free Software for Digital India,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://www.april.org/,April,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE,MIT,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.7-zip.org/faq.html,GNU LGPLv2.1+,https://github.com/johnjago/awesome-free-software#readme,Free Software
 http://www.free-soft.org/gpl_history/emacs_gpl.html,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
+https://linuxpreloaded.com/,Linux Preloaded,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://www.nano-editor.org/,GNU nano,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://www.nano-editor.org/dist/v2.7/README,GNU GPL,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.vim.org/,vim,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://notepad-plus-plus.org/,Notepad++,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://alexanderepstein.github.io/Sandman/,Sandman,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://spikespaz.com/search-deflector,Search Deflector,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.wireshark.org/,Wireshark,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://newpipe.schabi.org/,NewPipe,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://kodi.tv/,Kodi,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.videolan.org/vlc/,VLC,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.videolan.org/videolan/,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://rg3.github.io/youtube-dl/,youtube-dl,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.qemu-project.org/,QEMU,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://wiki.qemu-project.org/License,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.virtualbox.org/,VirtualBox,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.virtualbox.org/wiki/GPL,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.getdnote.com//,Dnote,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://etherpad.org/,Etherpad,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://ghost.org/,Ghost,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://about.gitlab.com/installation/,GitLab,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE,MIT,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://gnu.io/social/,GNU social,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://git.gnu.io/gnu/gnu-social/blob/master/COPYING,GNU GPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://gogs.io/,Gogs,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://inventaire.io/welcome,Inventaire,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://mediagoblin.org/,MediaGoblin,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.mediawiki.org,MediaWiki,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.mediawiki.org/wiki/Copyright,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://metager.de/en,MetaGer,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE,GNU AGPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://neocities.org/,Neocities,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://notabug.org/,NotABug.org,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://notabug.org/hp/gogs/src/master/LICENSE,MIT,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE,GNU GPLv2,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://framagit.org/chocobozzz/PeerTube,PeerTube,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE,GNU AGPLv3,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://phacility.com/phabricator/,Phabricator,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://wallabag.org/en,Wallabag,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://weblate.org,Weblate,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://wordpress.org/,WordPress,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://wordpress.org/about/gpl/,GNU GPLv2+,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://httpd.apache.org/,Apache HTTP Server,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.apache.org/licenses/,Apache License 2.0,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.lighttpd.net/,lighttpd,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.lighttpd.net/assets/COPYING,Revised BSD license,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://nginx.org/,nginx,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://nginx.org/LICENSE,2-clause BSD-like license,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.alephobjects.com/,Aleph Objects,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.libiquity.com/,Libiquity,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://puri.sm/,Purism,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://raptorcs.com/,Raptor Computing Systems,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://tehnoetic.com/,Technoethical,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.thinkpenguin.com/,ThinkPenguin,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://vikings.net/,Vikings,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://disaster.radio/,disaster.radio,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://h-node.org/,h-node,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://linuxpreloaded.com/,Linux Preloaded,https://github.com/johnjago/awesome-free-software#readme,Free Software
+http://www.filestash.app,Filestash,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://www.fsf.org/resources/hw/endorsement/criteria,Respects Your Freedom Hardware Certification,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://en.wikipedia.org/wiki/Free_software,Free Software,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://www.sciencedirect.com/science/article/pii/S0048733302000033,'Libre' Software: Turning Fads into Institutions?,https://github.com/johnjago/awesome-free-software#readme,Free Software
 https://devuan.org/os/free-software,Software Freedom,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://brainblasted.gitlab.io/,BrainBlasted's Privacy and Free Software Blog,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.bytemark.co.uk/company/manifesto/,Bytemark,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://directory.fsf.org/wiki/Main_Page,Free Software Directory,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.gnu.org/distros/free-distros.html,Free GNU/Linux Distributions,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://freepo.st/,freepost,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://libreplanet.org/,LibrePlanet,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://en.wikipedia.org/wiki/Software_Freedom_Day,Software Freedom Day,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.fossology.org/,FOSSology,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://gplenforced.org/,gplenforced.org,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.april.org/,April,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://en.wikipedia.org/wiki/Digital_Freedom_Foundation,Digital Freedom Foundation,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://framasoft.org/,Framasoft,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.fsf.org/,Free Software Foundation,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://fsmk.org/,Free Software Movement Karnataka,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://fsmi.in/,Free Software Movement of India,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://gnu.org.in/,FSF India,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://fsfe.org/,FSFE,https://github.com/johnjago/awesome-free-software#readme,Free Software
-http://www.fsfla.org/ikiwiki/,FSFLA,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.gnu.org/,GNU,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.oshwa.org/,Open Source Hardware Association,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.outreachy.org/,Outreachy,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://peers.community/,Peers,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://sfconservancy.org/,Software Freedom Conservancy,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.softwarefreedom.org/,Software Freedom Law Center,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://snowdrift.coop/,Snowdrift.coop,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.tuxfamily.org/,TuxFamily,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://maxlath.eu/,Maxime Lathuilière,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.youtube.com/watch?v=_2Qq072wIDk,Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna),https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.youtube.com/watch?v=uKxzK9xtSXM,Eben Moglen: How I Discovered Free Software,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.youtube.com/watch?v=O1A4UZqPtMQ,Prof. Nagarjuna G: Free Software for Digital India,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.youtube.com/watch?v=Ag1AKIl_2GM,Richard Stallman: Free Software, Free Society (TEDxGeneva 2014),https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.youtube.com/watch?v=YGbMbF0mdPU,Stephen Fry: Free Software,https://github.com/johnjago/awesome-free-software#readme,Free Software
-https://www.youtube.com/watch?v=KQCC5oSfAYo,Wrishiraj Kaushik: I Am Not a Free Software Guy,https://github.com/johnjago/awesome-free-software#readme,Free Software

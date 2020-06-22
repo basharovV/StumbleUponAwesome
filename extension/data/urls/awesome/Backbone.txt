@@ -1,102 +1,81 @@
-http://backbonejs.org/,Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://backbonejs.org/docs/backbone.html,Annotated source,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://backplug.io/,Backbone plugins,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://backboneindex.com/,Backbone Index,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://backboneconf.com/,BackboneConf,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://stackoverflow.com/questions/tagged/backbone.js,StackOverflow,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://pragmatic-backbone.com/,A pragmatic guide to Backbone.js apps,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/,Getting Started with Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/,A Complete Guide for Learning Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://jasongiedymin.github.io/hello-backbonejs/,Hello Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://ricostacruz.com/backbone-patterns/,Backbone patterns,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://blog.soom.la/2013/10/complex-single-page-application.html,Complex Single Page Application Architecture with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://victorsavkin.com/post/59496656297/building-large-backbone-applications,Building large Backbone applications,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html,A Guide to Writing Backbone Apps at Coursera,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.jamesyu.org/2011/02/09/backbone.js-tutorial-with-rails-part-2,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.jamesyu.org/2012/05/20/converting-cloudedit-from-backbone-to-parse/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product/,Our First Node.js App: Backbone on the Client and Server,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://gregfranko.com/blog/using-backbone-dot-js-with-require-dot-js/,Using Backbone.js With Require.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/,Backbone Model Unit Testing with Jasmine,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io,Backbone.js and Socket.io,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://spin.atomicobject.com/2012/01/03/presenter-first-in-backbone-js/,Presenter First in Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.artandlogic.com/blog/2014/06/websockets-for-backbone/,Websockets for Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-1/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-2/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-3/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://kroltech.com/2013/12/boilerplate-web-app-using-backbone-js-expressjs-node-js-mongodb/,Boilerplate web app using Backbone.js, Express.js, Node.js, MongoDB,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/,Backbone.js Tips And Patterns,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://quickleft.com/blog/leveraging-deferreds-in-backbonejs,Leveraging Deferreds in Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/,Backbone.js for large scale applications - UI architecture,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://derickbailey.com/2014/09/09/decorating-a-backbone-model-with-features-for-a-ui-component/,Decorating A Backbone.Model With Features, For A UI Component,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://derickbailey.com/2014/05/13/backbone-fwd-forward-events-from-one-backbone-object-through-another/,Backbone.fwd: Forward Events From One Backbone Object, Through Another,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://orizens.com/wp/topics/backbone-view-patterns-rendering-a-collection/,Backbone.View Patterns - Rendering A Collection,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://orizens.com/wp/topics/backbone-view-patterns-how-why-to-use-subviews/,Backbone.View Patterns - How & Why Use Subviews,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://orizens.com/wp/topics/backbone-view-patterns-the-render-method/,Backbone.View Patterns - The "Render" Method,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/,Building progressively enhanced websites using bulletproof Backbone & CSS transforms,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://lostechies.com/derickbailey/2012/04/19/decoupling-backbone-apps-from-websockets/,Decoupling Backbone Apps From WebSockets,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://lostechies.com/derickbailey/2012/03/19/backbone-js-and-javascript-garbage-collection/,Backbone.js And JavaScript Garbage Collection,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://blog.safaribooksonline.com/2013/11/16/getting-familiar-with-backbone-js/,Getting familiar with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://blog.shinetech.com/2013/11/26/backbone-antipatterns/,Backbone Antipatterns,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-2/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://adrianmejia.com/blog/2012/09/13/backbonejs-for-absolute-beginners-getting-started-part-3/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-4/,Part 4,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/02/express-backbone-application-part1,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/02/building-an-app-with-express-and-backbone-part-2,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/04/building-an-app-with-express-and-backbone-part-3,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/07/building-an-app-with-express-and-backbone-part-4,Part 4,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/08/express-backbone-part5,Part 5,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/09/express-backbone-part6,Part 6,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/09/express-backbone-part7,Part 7,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://javascriptplayground.com/blog/2013/10/express-backbone-part8,Part 8,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://mikefowler.me/2014/06/11/backbone-with-es6/,Backbone with ES6,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs,How to share Backbone.js models with Node.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://tiagorg.github.io/talk-backbone-tricks-or-treats-html5devconf,Backbone.js tricks or treats,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.foraker.com/backbone-js-organizational-patterns/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.foraker.com/backbone-js-organizational-patterns-part-ii/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.webdeveasy.com/backbone-cleanup/,Backbone Cleanup,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html,Lazy loading Backbone collections with Promises,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://blog.engineyard.com/2015/5-ways-to-level-up-your-backbone-code,5 Ways to Level-Up Your Backbone.js Code,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://benmccormick.org/2015/04/07/es6-classes-and-backbone-js/,Why Backbone.js and ES6 Classes Don't Mix,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes,Top 8 Common Backbone.js Developer Mistakes,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://quickleft.com/blog/integrating-react-with-backbone/,Integrating React With Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://medium.com/@ezekielriva/using-backbonejs-to-improve-your-javascript-code-organization-over-a-ruby-on-rails-app-11784575a4f2,Using BackboneJS to improve your JavaScript code organization over a Ruby on Rails app,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-2-a139df9bbbf0,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://medium.com/@victordoss/building-backbone-apps-using-flux-f656fd8a873a,Building Backbone apps using Flux,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://mixmax.com/blog/meteor-and-backbone,Bringing Meteor’s reactive collections to Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://addyosmani.github.io/backbone-fundamentals/,Developing Backbone.js Applications,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://leanpub.com/backbonetutorials,Backbone Tutorials,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.amazon.com/dp/1783288493,Mastering Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://backbone-testing.com/,Backbone.js Testing,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.amazon.com/dp/1783283572,Backbone.js Patterns and Best Practices,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.amazon.com/dp/1782162720/,Backbone.js Cookbook,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.amazon.com/dp/1782165665,Instant Backbone.js Application Development,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.amazon.com/dp/1430263342/,Beginning Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.amazon.com/dp/1783286997/,Backbone.js Blueprints,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://recipeswithbackbone.com/,Recipes with Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://shop.oreilly.com/product/0636920030799.do,Full Stack Web Development with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://singlepagebook.supportbee.com/,Developing Single Page Apps with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX,BackboneConf 2013,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged,BackboneConf 2014,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282,Introduction to Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-https://www.youtube.com/playlist?list=PL0C57F698BD4766B1,Backbone App Walkthrough,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3,Backbone.js Tutorial,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://gregfranko.com/blog/backbone-require-boilerplate-explained/,Backbone-Require-Boilerplate Explained,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.backbonerails.com/,BackboneRails Screencasts,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://www.youtube.com/watch?v=PGgZ7qRvoGE,JavaScript Application Architecture with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://lostechies.com/derickbailey/2012/03/19/backbone-js-and-javascript-garbage-collection/,Backbone.js And JavaScript Garbage Collection,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product/,Our First Node.js App: Backbone on the Client and Server,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.webdeveasy.com/backbone-cleanup/,Backbone Cleanup,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://recipeswithbackbone.com/,Recipes with Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://backbonejs.org/,Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://gregfranko.com/blog/using-backbone-dot-js-with-require-dot-js/,Using Backbone.js With Require.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.pluralsight.com/courses/playing-with-backbonejs,Application Building Patterns with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://www.youtube.com/watch?v=PcTVQyrWSSs,An Introduction to Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://ricostacruz.com/backbone-patterns/,Backbone patterns,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://www.youtube.com/watch?v=jM8KE_Fa6JI,Put Some Backbone.js in your Apps,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://backbonejs.org/docs/backbone.html,Annotated source,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/,Backbone Model Unit Testing with Jasmine,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html,Lazy loading Backbone collections with Promises,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.pluralsight.com/courses/backbone-fundamentals,Backbone.js Fundamentals,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://mixmax.com/blog/meteor-and-backbone,Bringing Meteor’s reactive collections to Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://wordpress.tv/2013/09/05/k-adam-white-evolving-your-javascript-with-backbone-js/,Evolving Your JavaScript with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://todomvc.com/examples/backbone/,Backbone TodoMVC example,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://backboneconf.com/,BackboneConf,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://blog.soom.la/2013/10/complex-single-page-application.html,Complex Single Page Application Architecture with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io,Backbone.js and Socket.io,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://blog.engineyard.com/2015/5-ways-to-level-up-your-backbone-code,5 Ways to Level-Up Your Backbone.js Code,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://shop.oreilly.com/product/0636920030799.do,Full Stack Web Development with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://benmccormick.org/2015/04/07/es6-classes-and-backbone-js/,Why Backbone.js and ES6 Classes Don't Mix,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://stackoverflow.com/questions/tagged/backbone.js,StackOverflow,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html,A Guide to Writing Backbone Apps at Coursera,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://addyosmani.github.io/backbone-fundamentals/,Developing Backbone.js Applications,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes,Top 8 Common Backbone.js Developer Mistakes,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 https://www.codeschool.com/courses/anatomy-of-backbone-js,Anatomy of Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://singlepagebook.supportbee.com/,Developing Single Page Apps with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://blog.shinetech.com/2013/11/26/backbone-antipatterns/,Backbone Antipatterns,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX,BackboneConf 2013,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://spin.atomicobject.com/2012/01/03/presenter-first-in-backbone-js/,Presenter First in Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://quickleft.com/blog/integrating-react-with-backbone/,Integrating React With Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques,Advanced Backbone Patterns and Techniques,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://pragmatic-backbone.com/,A pragmatic guide to Backbone.js apps,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged,BackboneConf 2014,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://leanpub.com/backbonetutorials,Backbone Tutorials,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://medium.com/@ezekielriva/using-backbonejs-to-improve-your-javascript-code-organization-over-a-ruby-on-rails-app-11784575a4f2,Using BackboneJS to improve your JavaScript code organization over a Ruby on Rails app,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://code.tutsplus.com/courses/connected-to-the-backbone,Connected to the Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282,Introduction to Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/,Getting Started with Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://www.youtube.com/playlist?list=PL0C57F698BD4766B1,Backbone App Walkthrough,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.artandlogic.com/blog/2014/06/websockets-for-backbone/,Websockets for Backbone,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.amazon.com/dp/1783288493,Mastering Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-2-a139df9bbbf0,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3,Backbone.js Tutorial,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://jasongiedymin.github.io/hello-backbonejs/,Hello Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://backbone-testing.com/,Backbone.js Testing,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.jamesyu.org/2011/02/09/backbone.js-tutorial-with-rails-part-2,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://gregfranko.com/blog/backbone-require-boilerplate-explained/,Backbone-Require-Boilerplate Explained,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+https://medium.com/@victordoss/building-backbone-apps-using-flux-f656fd8a873a,Building Backbone apps using Flux,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://quickleft.com/blog/leveraging-deferreds-in-backbonejs,Leveraging Deferreds in Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.amazon.com/dp/1783283572,Backbone.js Patterns and Best Practices,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.jamesyu.org/2012/05/20/converting-cloudedit-from-backbone-to-parse/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-1/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.backbonerails.com/,BackboneRails Screencasts,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/,Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.amazon.com/dp/1782162720/,Backbone.js Cookbook,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.amazon.com/dp/1782165665,Instant Backbone.js Application Development,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-2/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
 http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html,Up and Running with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.pluralsight.com/courses/playing-with-backbonejs,Application Building Patterns with Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
-http://www.pluralsight.com/courses/backbone-fundamentals,Backbone.js Fundamentals,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://derickbailey.com/2014/09/09/decorating-a-backbone-model-with-features-for-a-ui-component/,Decorating A Backbone.Model With Features, For A UI Component,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.amazon.com/dp/1430263342/,Beginning Backbone.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-3/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://derickbailey.com/2014/05/13/backbone-fwd-forward-events-from-one-backbone-object-through-another/,Backbone.fwd: Forward Events From One Backbone Object, Through Another,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.amazon.com/dp/1783286997/,Backbone.js Blueprints,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-2/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://mikefowler.me/2014/06/11/backbone-with-es6/,Backbone with ES6,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs,How to share Backbone.js models with Node.js,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://adrianmejia.com/blog/2012/09/13/backbonejs-for-absolute-beginners-getting-started-part-3/,Part 3,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://lostechies.com/derickbailey/2012/04/19/decoupling-backbone-apps-from-websockets/,Decoupling Backbone Apps From WebSockets,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.foraker.com/backbone-js-organizational-patterns/,Part 1,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-4/,Part 4,https://github.com/sadcitizen/awesome-backbone#readme,Backbone
+http://www.foraker.com/backbone-js-organizational-patterns-part-ii/,Part 2,https://github.com/sadcitizen/awesome-backbone#readme,Backbone

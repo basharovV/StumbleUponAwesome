@@ -1,0 +1,2 @@
+https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link,Fill out this request form,https://github.com/iipc/awesome-web-archiving#readme,Web Archiving error: <HTTPError 410: 'Gone'> | reason: Gone
+http://matkelly.com/warcreate/,WARCreate,https://github.com/iipc/awesome-web-archiving#readme,Web Archiving error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

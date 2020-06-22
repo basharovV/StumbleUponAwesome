@@ -1,0 +1,2 @@
+https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/,Creating a Steam Trade Bot with Node.js,https://github.com/scholtzm/awesome-steam#readme,Steam error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://steamlytics.xyz/,steamlytics.xyz,https://github.com/scholtzm/awesome-steam#readme,Steam error: timeout('The read operation timed out') | reason: 

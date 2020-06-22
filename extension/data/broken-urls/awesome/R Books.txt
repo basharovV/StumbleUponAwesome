@@ -1,0 +1,13 @@
+http://www.amazon.com/Learn-R-Day-Steven-Murray-ebook/,[Amazon],https://github.com/RomanTsegelskyi/rbooks#readme,R Books error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-r-quantitative-finance,[Packt],https://github.com/RomanTsegelskyi/rbooks#readme,R Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/big-data-and-business-intelligence/data-manipulation-r-second-edition,[Packt],https://github.com/RomanTsegelskyi/rbooks#readme,R Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r,[Packt],https://github.com/RomanTsegelskyi/rbooks#readme,R Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-quantitative-finance,[Packt],https://github.com/RomanTsegelskyi/rbooks#readme,R Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

@@ -1,0 +1,27 @@
+https://cs.phphub.org/,Chinese version,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cs.phphub.org'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cs.phphub.org'. (_ssl.c:1076)
+https://laravellive.in/,Laravel Live India,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+http://laraveles.com/blog/wp-login.php?action=slack-invitation,Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://leanpub.com/laravel5learneasy,Laravel 5 Learn Easy,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+http://laravel.io/chat,IRC Channel,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://devdojo.com/search?value=laravel,DevDojo,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://leanpub.com/laravelcollectionsunraveled,Laravel Collections Unraveled,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+http://slack.laravel.com.br,Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+https://vegibit.com/tag/laravel/,Vegi Bit,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+https://leanpub.com/laravel-5-4-for-beginners,Laravel 5.4 For Beginners,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/laravel-application-development-blueprints,Laravel Application Development Blueprints,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/laravel-5-essentials,Laravel 5 Essentials,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices,Laravel Design Patterns and Best Practices,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/web-development/mastering-laravel,Mastering Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/learning-laravel-4-application-development,Learning Laravel 4 Application Development,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/getting-started-laravel-4,Getting Started with Laravel 4,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/laravel-application-development-cookbook,Laravel Application Development Cookbook,https://github.com/chiraggude/awesome-laravel#readme,Laravel error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

@@ -1,0 +1,1 @@
+https://www.bigsql.org/pgadmin3,pgAdmin3,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: <HTTPError 308: 'PERMANENT REDIRECT'> | reason: PERMANENT REDIRECT

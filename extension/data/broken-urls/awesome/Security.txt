@@ -1,0 +1,3 @@
+https://www.owasp.org/index.php/Testing_Checklist,OWASP Testing Checklist v4,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://torstatus.blutmagie.de/,Tor Node List,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://lxr.free-electrons.com/source/Documentation/networking/packet_mmap.txt,PACKET_MMAP/TPACKET/AF_PACKET,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found

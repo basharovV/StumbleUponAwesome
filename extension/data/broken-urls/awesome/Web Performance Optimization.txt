@@ -1,0 +1,2 @@
+http://jsperf.com/,JSPerf,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.cdnplanet.com/,CDNPlanet,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 404: 'OK'> | reason: OK

@@ -1,0 +1,90 @@
+http://hadoop.apache.org/ozone/,Apache Hadoop Ozone,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://tez.apache.org/,Apache Tez,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://spatialhadoop.cs.umn.edu/,SpatialHadoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://esri.github.io/gis-tools-for-hadoop/,GIS Tools for Hadoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://pydoop.sourceforge.net/,pydoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://kylin.incubator.apache.org/,Apache Kylin,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://slider.incubator.apache.org/,Apache Slider,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://twill.incubator.apache.org/,Apache Twill,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://phoenix.apache.org/,Apache Phoenix,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://accumulo.apache.org/,Apache Accumulo,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://hive.apache.org,Apache Hive,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://hawq.incubator.apache.org/,Apache HAWQ (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.cascading.org/projects/lingual/,Lingual,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://impala.apache.org/,Apache Impala,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://prestodb.io/,Presto,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://tajo.apache.org/,Apache Tajo,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://trafodion.apache.org/,Apache Trafodion,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://calcite.apache.org/,Apache Calcite,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://atlas.incubator.apache.org/,Apache Atlas,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://kudu.apache.org/,Apache Kudu,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://oozie.apache.org,Apache Oozie,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://azkaban.github.io/,Azkaban,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://falcon.apache.org/,Apache Falcon,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://nifi.apache.org/,Apache NiFi,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://luigi.readthedocs.org/en/latest/,Luigi,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://flume.apache.org,Apache Flume,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://sqoop.apache.org,Apache Sqoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://pig.apache.org,Apache Pig,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://datafu.incubator.apache.org/,Apache DataFu,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://seqpig.sourceforge.net/,seqpig,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html,Introducing Lipstick on A(pache) Pig,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://kitesdk.org/,Kite Software Development Kit,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://gethue.com/,Hue,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://avro.apache.org/,Apache Avro,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://projects.spring.io/spring-hadoop/,Spring for Apache Hadoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://marketplace.eclipse.org/content/oozie-eclipse-plugin,Oozie Eclipse Plugin,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://pypi.python.org/pypi/snakebite/,snakebite,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://superset.incubator.apache.org/,Apache Superset (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://storm.apache.org/,Apache Storm,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://samza.apache.org/,Apache Samza,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://spark.apache.org/streaming/,Apache Spark,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://pulsar.incubator.apache.org/,Apache Pulsar (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://druid.incubator.apache.org/,Apache Druid (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://spark.apache.org/,Apache Spark,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://spark-packages.org/,Spark Packages,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://sparkhub.databricks.com/,SparkHub,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://crunch.apache.org,Apache Crunch,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.cascading.org/,Cascading,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://flink.apache.org/,Apache Flink,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://apex.incubator.apache.org/,Apache Apex (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://livy.incubator.apache.org/,Apache Livy (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://bigtop.apache.org/,Apache Bigtop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://ambari.apache.org/,Apache Ambari,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://curator.apache.org/,Apache Curator,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://lucene.apache.org/solr/,Apache Solr,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://nutch.apache.org/,Apache Nutch,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://ranger.incubator.apache.org/,Apache Ranger,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://sentry.incubator.apache.org/,Apache Sentry,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://knox.apache.org/,Apache Knox Gateway,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://amplab.cs.berkeley.edu/benchmark/,Big Data Benchmark,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://mahout.apache.org,Apache Mahout,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://spark.apache.org/mllib/,MLlib,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://lens.apache.org/,Apache Lens,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://singa.incubator.apache.org/,Apache SINGA (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://bigdl-project.github.io/,BigDL,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://hivemall.incubator.apache.org/,Apache Hivemall (incubating),https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://bitbucket.org/rodrigopr/redisstoragehandler,https://bitbucket.org/rodrigopr/redisstoragehandler,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://bitbucket.org/vadim/hive-sharp,Hive-Sharp,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.hadoopweekly.com/,Hadoop Weekly,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://hadoopecosystemtable.github.io/,The Hadoop Ecosystem Table,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.socc2013.org/home/program/a5-vavilapalli.pdf,Apache Hadoop YARN: Yet Another Resource Negotiator,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://hadoopilluminated.com/,Hadoop illuminated,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://blogs.aws.amazon.com/bigdata/,AWS BigData Blog,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.hadoop360.com/,Hadoop360,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://www.datadoghq.com/blog/monitor-hadoop-metrics/,How to monitor Hadoop metrics,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice,Apache Hadoop In Theory And Practice,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea,Hadoop Operations at LinkedIn,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.slideshare.net/allenwittenauer/2012-lihadoopperf,Hadoop Performance at LinkedIn,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.slideshare.net/JanosMatyas/docker-based-hadoop-provisioning,Docker based Hadoop provisioning,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.amazon.com/gp/product/1449311520/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449311520&linkCode=as2&tag=matratsblo-20,Hadoop: The Definitive Guide,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.amazon.com/gp/product/1449327052/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449327052&linkCode=as2&tag=matratsblo-20,Hadoop Operations,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.amazon.com/dp/0321934504?tag=matratsblo-20,Apache Hadoop Yarn,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://shop.oreilly.com/product/0636920018087.do,Programming Pig,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://shop.oreilly.com/product/0636920023555.do,Programming Hive,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.manning.com/holmes2/,Hadoop in Practice, Second Edition,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.manning.com/lam2/,Hadoop in Action, Second Edition,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://www.apachecon.com/,ApacheCon,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+http://conferences.oreilly.com/strata,Strata + Hadoop World,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://dataworkssummit.com/,DataWorks Summit,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop
+https://databricks.com/sparkaisummit,Spark Summit,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop

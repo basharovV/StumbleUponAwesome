@@ -1,46 +1,44 @@
-https://www.universityofcalifornia.edu/,University of California,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.apache.org/,Apache Software Foundation,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://almond.sh/,almond,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://zeppelin.incubator.apache.org/,Apache Zeppelin,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://polynote.org/,Polynote,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447,Netflix,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://succinct.cs.berkeley.edu/,Succinct,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://issues.apache.org/jira/browse/SPARK-12833,[SPARK-12833],https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://issues.apache.org/jira/browse/SPARK-24768,[SPARK-24768],https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://sparkling.ml,SparklingGraph,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf,MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://systemml.apache.org/,Apache SystemML,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://mahout.apache.org/users/sparkbindings/home.html,Mahout Spark Bindings,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://keystone-ml.org/,KeystoneML,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://mitdbg.github.io/modeldb,ModelDB,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://www.h2o.ai/,H2O,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://stanfordnlp.github.io/CoreNLP/,Stanford CoreNLP,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://bahir.apache.org/,Apache Bahir,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://beam.apache.org/,Apache Beam,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://shop.oreilly.com/product/0636920028512.do,Learning Spark, Lightning-Fast Big Data Analysis,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://shop.oreilly.com/product/0636920035091.do,Advanced Analytics with Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://jaceklaskowski.gitbooks.io/mastering-apache-spark/,Mastering Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.manning.com/books/spark-in-action,Spark in Action,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/,setup Eclipse for Spark application development,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf,Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf,Spark SQL: Relational Data Processing in Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.edx.org/xseries/data-science-engineering-apache-spark,Data Science and Engineering with Apache Spark (edX XSeries),https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x,Introduction to Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x,Distributed Machine Learning with Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x,Big Data Analysis with Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.edx.org/course/advanced-apache-spark-data-science-data-uc-berkeleyx-cs115x,Advanced Apache Spark for Data Science and Data Engineering,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.edx.org/course/advanced-distributed-machine-learning-uc-berkeleyx-cs125x,Advanced Distributed Machine Learning with Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.coursera.org/learn/big-data-analysys,Big Data Analysis with Scala and Spark (Coursera),https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://www.coursera.org/specializations/scala,Functional Programming in Scala Specialization,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://ampcamp.berkeley.edu,AMP Camp,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://amplab.cs.berkeley.edu/software/,Berkeley Data Analytics Stack,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://lambda-architecture.net/,Lambda architecture,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-https://prediction.io/,PredictionIO,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://spark.tc/blog/,Spark Technology Center,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
-http://www.sequenceiq.com/,SequenceIQ,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.universityofcalifornia.edu/,University of California,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 https://gitter.im/spark-scala/Lobby,Spark with Scala Gitter channel,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 http://apache-spark-user-list.1001560.n3.nabble.com/,Apache Spark User List,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 http://apache-spark-developers-list.1001551.n3.nabble.com/,Apache Spark Developers List,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://shop.oreilly.com/product/0636920035091.do,Advanced Analytics with Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://systemml.apache.org/,Apache SystemML,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.edx.org/course/advanced-apache-spark-data-science-data-uc-berkeleyx-cs115x,Advanced Apache Spark for Data Science and Data Engineering,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 https://en.wikipedia.org/w/index.php?title=Apache_Spark&oldid=781182753,https://en.wikipedia.org/w/index.php?title=Apache_Spark&oldid=781182753,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark/,Mastering Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://mahout.apache.org/users/sparkbindings/home.html,Mahout Spark Bindings,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.apache.org/,Apache Software Foundation,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 https://www.apache.org/foundation/marks/,trademarks,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://keystone-ml.org/,KeystoneML,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
 http://www.apache.org,The Apache Software Foundation,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.edx.org/course/advanced-distributed-machine-learning-uc-berkeleyx-cs125x,Advanced Distributed Machine Learning with Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://almond.sh/,almond,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.manning.com/books/spark-in-action,Spark in Action,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://zeppelin.incubator.apache.org/,Apache Zeppelin,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://polynote.org/,Polynote,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/,setup Eclipse for Spark application development,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.coursera.org/learn/big-data-analysys,Big Data Analysis with Scala and Spark (Coursera),https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf,Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.coursera.org/specializations/scala,Functional Programming in Scala Specialization,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://www.h2o.ai/,H2O,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://ampcamp.berkeley.edu,AMP Camp,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf,Spark SQL: Relational Data Processing in Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://stanfordnlp.github.io/CoreNLP/,Stanford CoreNLP,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447,Netflix,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://amplab.cs.berkeley.edu/software/,Berkeley Data Analytics Stack,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://bahir.apache.org/,Apache Bahir,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://lambda-architecture.net/,Lambda architecture,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.edx.org/xseries/data-science-engineering-apache-spark,Data Science and Engineering with Apache Spark (edX XSeries),https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://beam.apache.org/,Apache Beam,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x,Introduction to Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://shop.oreilly.com/product/0636920028512.do,Learning Spark, Lightning-Fast Big Data Analysis,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x,Distributed Machine Learning with Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://succinct.cs.berkeley.edu/,Succinct,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x,Big Data Analysis with Apache Spark,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://issues.apache.org/jira/browse/SPARK-12833,[SPARK-12833],https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+https://issues.apache.org/jira/browse/SPARK-24768,[SPARK-24768],https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://sparkling.ml,SparklingGraph,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://spark.tc/blog/,Spark Technology Center,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark
+http://www.sequenceiq.com/,SequenceIQ,https://github.com/awesome-spark/awesome-spark#readme,Apache Spark

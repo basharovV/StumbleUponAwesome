@@ -1,126 +1,104 @@
-https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373,Artificial Intelligence for Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.udacity.com/course/robotics-nanodegree--nd209,Robotics Nanodegree,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info,Autonomous Mobile Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://underactuated.csail.mit.edu/underactuated.html,Underactuated Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://courses.edx.org/courses/ETHx/AMRx/1T2014/info,Autonomous Mobile Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x,Robot Mechanics and Control, Part I,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x,Robot Mechanics and Control, Part II,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0,Autonomous Navigation for Flying Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/micromasters/pennx-robotics,Robotics Micromasters,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.coursera.org/specializations/robotics,Robotics Specialization by GRASP Lab,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.coursera.org/course/conrob,Control of Mobile Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://robotacademy.net.au/,QUT Robot Academy,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision,Robotic vision,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/,Introduction to robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x,Robotics: Vision Intelligence and Machine Learning,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.youtube.com/user/StanfordCS235/videos,Applied robot design,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://see.stanford.edu/Course/CS223A,Introduction to Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php,Introduction to Mobile Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/course/robotics-columbiax-csmm-103x-2,Columbia Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.coursera.org/specializations/modernrobotics,Modern Robotics: Mechanics, Planning, and Control,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2,Hello (Real) World with ROS – Robot Operating System,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/,Advanced Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/,Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/,Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/,Springer Handbook of Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://planning.cs.uiuc.edu/,Planning Algorithms,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf,A gentle introduction to ROS,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition,A Mathematical Introduction to Robotic Manipulation,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots,Learning Computing With Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431,Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.intechopen.com/subjects/robotics,INTECH Books,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275,Principles of Robot Motion: Theory, Algorithms, and Implementations,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://hades.mech.northwestern.edu/index.php/LynchAndPark,Introduction to Modern Robotics: Mechanics, Planning, and Control,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://hades.mech.northwestern.edu/images/7/7f/MR.pdf,pdf,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/,Programming Robots with ROS: A Practical Introduction to the Robot Operating System,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588,Learning ROS for Robotics Programming,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798,Mastering ROS for Robotics Programming,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://btirai.github.io/,Behavior Trees in Robotics and AI: An Introduction,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://arxiv.org/pdf/1709.00084,pdf,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://projects.laas.fr/planning/,Automated Planning and Acting,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://projects.laas.fr/planning/book.pdf,pdf,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.youtube.com/watch?v=M8YjvHYbZ9w,Spot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.youtube.com/watch?v=fCML42boO8c,Baxter,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://gazebosim.org/,Gazebo,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.ros.org/,ROS,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://index.ros.org/doc/ros2/,ROS2,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.robwork.dk/apidoc/nightly/rw/,RobWork,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.mrpt.org/,MRPT,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.roboticslibrary.org/,Robotics Library,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://simbad.sourceforge.net/,Simbad,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.openrobots.org/wiki/morse/,Morse,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://carmen.sourceforge.net/,Carmen,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373,Artificial Intelligence for Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2,Hello (Real) World with ROS – Robot Operating System,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.peekabot.org/,Peekabot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.yarp.it/,YARP,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.coppeliarobotics.com/,V-REP,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.cyberbotics.com/overview,Webots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://drake.mit.edu/,Drake,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://neurorobotics.net/,Neurorobotics Platform (NRP),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://playerstage.sourceforge.net/,The Player Project,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://visp.inria.fr/,ViSP,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf,Optimization Based Controller Design and Implementation for the
-Atlas Robot in the DARPA Robotics Challenge Finals,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036,ACM/IEEE International Conference on Human Robot Interaction (HRI),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.romansy2016.org/,CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/servlet/opac?punumber=1000188,IEEE Conference on Decision and Controls (CDC),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.rehabrobotics.org/,IEEE International Conference on Rehabilitation Robotics (ICORR),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra,IEEE International Conference on Robotics and Automation (ICRA),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.iros.org/,IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/servlet/opac?punumber=1002042,IEEE-RAS International Conference on Humanoid Robots (Humanoids),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ifrr.org/isrr.php,International Symposium of Robotic Research (ISRR),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ifrr.org/iser.php,International Symposium of Experimental Robotics (ISER),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica,Robotica,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.roboticsconference.org/,Robotics: Science and Systems Conference (RSS),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.wafr.org/,The International Workshop on the Algorithmic Foundations of Robotics (WAFR),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.springer.com/engineering/robotics/journal/10514,Autonomous Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://iopscience.iop.org/journal/1748-3190,Bioinspiration & Biomimetics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://journal.frontiersin.org/journal/robotics-and-ai,Frontiers in Robotics and AI,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100,IEEE Robotics & Automation Magazine,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165,IEEE Transactions on Haptics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860,IEEE Transactions on Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516,IEEE/ASME Transactions on Mechatronics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.springer.com/engineering/robotics/journal/12369,International Journal of Social Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.journalfieldrobotics.org/Home.html,Journal of Field Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.springer.com/engineering/robotics/journal/10846,Journal of Intelligent & Robotic Systems,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.journals.elsevier.com/mechatronics,Mechatronics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing,Robotics and Computer-Integrated Manufacturing,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.journals.elsevier.com/robotics-and-autonomous-systems,Robotics and Autonomous Systems,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.ijrr.org/,The International Journal of Robotics Research,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.icra2017.org/conference/robot-challenges,ICRA Robot Challenges,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.robotchallenge.org/,RobotChallenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.theroboticschallenge.org/,DARPA Robotics Challenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.euroc-project.eu/,European Robotics Challenges,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.ros.org/,ROS,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.firstinspires.org/robotics/frc,First Robotics Competition,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036,ACM/IEEE International Conference on Human Robot Interaction (HRI),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://letsmakerobots.com/,Let's Make Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/,Advanced Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.coursera.org/course/conrob,Control of Mobile Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.springer.com/engineering/robotics/journal/10846,Journal of Intelligent & Robotic Systems,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.coppeliarobotics.com/,V-REP,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://index.ros.org/doc/ros2/,ROS2,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 https://www.vexrobotics.com/,VEX Robotics Competition,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.robocup.org/,RoboCup,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.dji.com/,DJI,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.quora.com/How-do-I-learn-robotics,How do I learn Robotics?,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/,Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.irobot.com/,iRobot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/servlet/opac?punumber=1000188,IEEE Conference on Decision and Controls (CDC),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm,Free NXT Lego MindStorms NXT-G code tutorials,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.intechopen.com/subjects/robotics,INTECH Books,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://en.wikipedia.org/wiki/Roomba,Roomba,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info,Autonomous Mobile Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://robotacademy.net.au/,QUT Robot Academy,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.theconstructsim.com/,The construct sim,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.journals.elsevier.com/mechatronics,Mechatronics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/,Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://robotics.stackexchange.com,StackExachange Robotics community,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://underactuated.csail.mit.edu/underactuated.html,Underactuated Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.wafr.org/,The International Workshop on the Algorithmic Foundations of Robotics (WAFR),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275,Principles of Robot Motion: Theory, Algorithms, and Implementations,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://pal-robotics.com,PAL Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.intorobotics.com/47-programmable-robotic-kits/,47 Programmable robotic kits,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.mrpt.org/,MRPT,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://hades.mech.northwestern.edu/index.php/LynchAndPark,Introduction to Modern Robotics: Mechanics, Planning, and Control,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/,Springer Handbook of Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.youtube.com/watch?v=nNbj2G3GmAo,NAO robot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://hades.mech.northwestern.edu/images/7/7f/MR.pdf,pdf,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://drake.mit.edu/,Drake,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.springer.com/engineering/robotics/journal/10514,Autonomous Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://planning.cs.uiuc.edu/,Planning Algorithms,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://linorobot.org/,Linorobot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing,Robotics and Computer-Integrated Manufacturing,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.roboticslibrary.org/,Robotics Library,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.fetchrobotics.com/,Fetch Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/,Programming Robots with ROS: A Practical Introduction to the Robot Operating System,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://new.abb.com/products/robotics,ABB Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://neurorobotics.net/,Neurorobotics Platform (NRP),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf,A gentle introduction to ROS,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://simbad.sourceforge.net/,Simbad,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://iopscience.iop.org/journal/1748-3190,Bioinspiration & Biomimetics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://playerstage.sourceforge.net/,The Player Project,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.openrobots.org/wiki/morse/,Morse,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588,Learning ROS for Robotics Programming,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition,A Mathematical Introduction to Robotic Manipulation,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://visp.inria.fr/,ViSP,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://courses.edx.org/courses/ETHx/AMRx/1T2014/info,Autonomous Mobile Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.festo.com/,Festo Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.kuka-robotics.com/en/,KUKA Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.eurobot.org/,Eurobot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://carmen.sourceforge.net/,Carmen,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra,IEEE International Conference on Robotics and Automation (ICRA),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots,Learning Computing With Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision,Robotic vision,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798,Mastering ROS for Robotics Programming,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://spectrum.ieee.org/robotics,IEEE Spectrum Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x,Robot Mechanics and Control, Part I,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/,Introduction to robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.fanucamerica.com/,FANUC,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.iros.org/,IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://journal.frontiersin.org/journal/robotics-and-ai,Frontiers in Robotics and AI,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://btirai.github.io/,Behavior Trees in Robotics and AI: An Introduction,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x,Robot Mechanics and Control, Part II,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431,Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.ijrr.org/,The International Journal of Robotics Research,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100,IEEE Robotics & Automation Magazine,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.rethinkrobotics.com/,Rethink Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x,Robotics: Vision Intelligence and Machine Learning,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.youtube.com/user/StanfordCS235/videos,Applied robot design,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0,Autonomous Navigation for Flying Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.reddit.com/r/robotics/,reddit robotics subreddit,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165,IEEE Transactions on Haptics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/servlet/opac?punumber=1002042,IEEE-RAS International Conference on Humanoid Robots (Humanoids),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://see.stanford.edu/Course/CS223A,Introduction to Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://roscon.ros.org/2015/,RosCON conference (video talks included),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860,IEEE Transactions on Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php,Introduction to Mobile Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://arxiv.org/pdf/1709.00084,pdf,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.robomasters.com/en/,RoboMasters,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://projects.laas.fr/planning/,Automated Planning and Acting,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.coursera.org/specializations/robotics,Robotics Specialization by GRASP Lab,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.edx.org/course/robotics-columbiax-csmm-103x-2,Columbia Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.robosoftca.eu/,RoboSoft, Grand Challenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516,IEEE/ASME Transactions on Mechatronics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.igvc.org/,Intelligent Ground Vehicle Competition,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://robotex.ee/en/,Robotex,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://education.rec.ri.cmu.edu/,Carnegie Mellon Robotics Academy,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+https://www.coursera.org/specializations/modernrobotics,Modern Robotics: Mechanics, Planning, and Control,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
+http://www.springer.com/engineering/robotics/journal/12369,International Journal of Social Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 http://www.bostondynamics.com/,Boston Dynamics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
 https://www.youtube.com/watch?v=rVlhMGQgDkY,Atlas,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.youtube.com/watch?v=M8YjvHYbZ9w,Spot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.irobot.com/,iRobot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://en.wikipedia.org/wiki/Roomba,Roomba,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://pal-robotics.com,PAL Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.aldebaran.com/en,Aldebaran Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.youtube.com/watch?v=nNbj2G3GmAo,NAO robot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://new.abb.com/products/robotics,ABB Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.kuka-robotics.com/en/,KUKA Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.fanucamerica.com/,FANUC,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.rethinkrobotics.com/,Rethink Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.youtube.com/watch?v=fCML42boO8c,Baxter,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.dji.com/,DJI,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.theconstructsim.com/,The construct sim,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.fetchrobotics.com/,Fetch Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.festo.com/,Festo Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://spectrum.ieee.org/robotics,IEEE Spectrum Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.technologyreview.com/c/robotics/,MIT Technology Review Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.reddit.com/r/robotics/,reddit robotics subreddit,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://roscon.ros.org/2015/,RosCON conference (video talks included),https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://education.rec.ri.cmu.edu/,Carnegie Mellon Robotics Academy,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://letsmakerobots.com/,Let's Make Robots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://www.quora.com/How-do-I-learn-robotics,How do I learn Robotics?,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm,Free NXT Lego MindStorms NXT-G code tutorials,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://robotics.stackexchange.com,StackExachange Robotics community,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-http://www.intorobotics.com/47-programmable-robotic-kits/,47 Programmable robotic kits,https://github.com/Kiloreux/awesome-robotics#readme,Robotics
-https://linorobot.org/,Linorobot,https://github.com/Kiloreux/awesome-robotics#readme,Robotics

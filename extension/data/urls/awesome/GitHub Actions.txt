@@ -1,6 +1,11 @@
+https://www.youtube.com/watch?v=gGUXydw22zw,GitHub Actions for Rails Developers,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://github.blog/2018-10-17-action-demos/,GitHub Blog Announcement,https://github.com/sdras/awesome-actions#readme,GitHub Actions
+https://www.edwardthomson.com/blog/github_actions_advent_calendar.html,GitHub Actions Advent Calendar,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://www.actionspanel.app,Manually trigger your GitHub Actions from a UI,https://github.com/sdras/awesome-actions#readme,GitHub Actions
+https://atymic.dev/blog/github-actions-laravel-ci-cd/,Zero Downtime Laravel Deployments with GitHub Actions,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 http://maxheld.de/ghactions/,GitHub Actions for R and accompanying #rstats package,https://github.com/sdras/awesome-actions#readme,GitHub Actions
+https://www.pluralsight.com/courses/building-custom-github-actions/,Building Custom GitHub Actions Pluralsight Course,https://github.com/sdras/awesome-actions#readme,GitHub Actions
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/,Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://cmake.org,CMake,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://ninja-build.org/,Ninja,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://haya14busa.github.io/github-action-brandings/,GitHub Actions Branding Cheat Sheet,https://github.com/sdras/awesome-actions#readme,GitHub Actions
@@ -8,8 +13,3 @@ https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github
 https://httgp.com/converting-github-actions-from-docker-to-javascript/,Converting Docker-based Actions to JavaScript/TypeScript,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a,GitHub Actions CI for Swift/iOS Projects,https://github.com/sdras/awesome-actions#readme,GitHub Actions
 https://jeffrafter.com/working-with-github-actions,Working with GitHub Actions,https://github.com/sdras/awesome-actions#readme,GitHub Actions
-https://www.youtube.com/watch?v=gGUXydw22zw,GitHub Actions for Rails Developers,https://github.com/sdras/awesome-actions#readme,GitHub Actions
-https://www.edwardthomson.com/blog/github_actions_advent_calendar.html,GitHub Actions Advent Calendar,https://github.com/sdras/awesome-actions#readme,GitHub Actions
-https://atymic.dev/blog/github-actions-laravel-ci-cd/,Zero Downtime Laravel Deployments with GitHub Actions,https://github.com/sdras/awesome-actions#readme,GitHub Actions
-https://www.pluralsight.com/courses/building-custom-github-actions/,Building Custom GitHub Actions Pluralsight Course,https://github.com/sdras/awesome-actions#readme,GitHub Actions
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/,Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions,https://github.com/sdras/awesome-actions#readme,GitHub Actions

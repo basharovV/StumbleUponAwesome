@@ -1,0 +1,4 @@
+https://alpha.ventuary.space/,Ventuary-DAO,https://github.com/msmolyakov/awesome-waves#readme,Waves error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://nodes-testnet.wavesnodes.com/,Node API,https://github.com/msmolyakov/awesome-waves#readme,Waves error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://waves-nodes-map.ikardanov.com/,Nodes on map,https://github.com/msmolyakov/awesome-waves#readme,Waves error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://nodes-stagenet.wavesnodes.com/,Node API,https://github.com/msmolyakov/awesome-waves#readme,Waves error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

@@ -1,0 +1,8 @@
+http://macchina.cc/guide/m2,Macchina M2,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://newae.com/tools/chipwhisperer/,ChipWhisperer,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.canbushack.com/blog/index.php,canbushack: Hack Your Car,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://kayak.2codeornot2code.org/,Kayak,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.seeedstudio.com/wiki/CAN-BUS_Shield,ChuangZhou CAN-Bus Shield,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.trustedsec.com/podcast/,TrustedSec Podcast,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://python-can.readthedocs.io/en/latest/index.html,Python-CAN,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://linklayer.github.io/cantact/,CANtact,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking error: <HTTPError 404: 'Not Found'> | reason: Not Found

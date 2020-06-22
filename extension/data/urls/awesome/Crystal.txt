@@ -1,78 +1,76 @@
+http://www.crystular.org,Crystular,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://getgood.at/in-a-day/crystal,getgood.at,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://chipmunk-physics.net/,Chipmunk,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystalshards.xyz,Crystal Shards,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://quicktype.io/,quicktype,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://darksky.net,Dark Sky,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystal-ann.com,Crystal [ANN],https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/HTTP/Client.html,HTTP::Client,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/CSV.html,CSV,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/OAuth2.html,OAuth2,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://curl.haxx.se/libcurl/,libcurl,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://pragprog.com/book/crystal/programming-crystal,Programming Crystal,https://github.com/veelenga/awesome-crystal#readme,Crystal
 http://site.icu-project.org/,ICU,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://br.crystal-lang.org/,br.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://git.sceptique.eu/Sceptique/wikicr,wikicr,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://tools.ietf.org/html/rfc6415,https://tools.ietf.org/html/rfc6415,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/HTTP/Server.html,HTTP::Server,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://publicsuffix.org/,https://publicsuffix.org/,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://www.reddit.com/r/crystal_programming/,Reddit,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://ja.crystal-lang.org/,ja.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/OpenSSL.html,OpenSSL,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystal-lang.org/api/OptionParser.html,OptionParser,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/INI.html,INI,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://www.mollie.com/en/,Mollie,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://stackoverflow.com/tags/crystal-lang/info,Stackoverflow,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://atom.io/packages/crystal-tools,crystal-tools,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://kr.crystal-lang.org/,kr.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/HTTP/WebSocket.html,HTTP::WebSocket,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://git.sceptique.eu/Sceptique/todo,todo,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://ru.crystal-lang.org/,ru.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://t.me/crystal_cn,Chinese-speaking Telegram Group,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://atom.io/packages/language-crystal-actual,language-crystal-actual,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://tw.crystal-lang.org/,tw.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://git.sceptique.eu/Sceptique/transfer_more,transfer_more,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/JSON.html,JSON,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://pinboard.in,Pinboard,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://www.w3.org/TR/2009/WD-eventsource-20090421,Server-Sent Events,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol,Language Server Protocol,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://discord.gg/YS7YvQy,Crystal Programming Discord Server,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://gitlab.com/crystallabs/crystime,crystime,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://t.me/crystalbrasil,Portuguese-speaking Telegram Group,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://www.imagemagick.org/script/magick-wand.php,MagickWand,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://tools.ietf.org/html/rfc7033,https://tools.ietf.org/html/rfc7033,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://t.me/crystal_ru,Russian-speaking Telegram Group,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystal-lang.org/api/Gzip.html,Gzip,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://carc.in/,carc.in,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/XML.html,XML,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://faastruby.io,FaaStRuby,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://crystalweekly.com/,Crystal weekly newsletters,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/Log.html,Log,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystal-lang.org/api/Zip.html,Zip,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://jinja.pocoo.org/,Jinja2 template engine,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://gitter.im/crystal-lang/crystal,Gitter,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://mxnet.incubator.apache.org/,MXNet,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/YAML.html,YAML,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://irc.lc/freenode/crystal-lang,IRC,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://gitlab.com/jgillich/crystal-dns,crystal-dns,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://mustache.github.io,{{Mustache}},https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://git.sceptique.eu/Sceptique/CrystalEmail,CrystalEmail,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://www.crystalforrubyists.com/,Crystal for Rubyists,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://metaruby.com/c/crystal-forum,Metaruby,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystal-lang.org/api/Zlib.html,Zlib,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One,ASN.1,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/CSV.html,CSV,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/INI.html,INI,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/JSON.html,JSON,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/XML.html,XML,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/YAML.html,YAML,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://git.sceptique.eu/Sceptique/CrystalEmail,CrystalEmail,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/OAuth.html,OAuth,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://realworld.io,realworld.io,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystalmastery.io/,Crystal Mastery,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org,crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystalshards.herokuapp.com/,crystalshards.herokuapp.com,https://github.com/veelenga/awesome-crystal#readme,Crystal
+http://crystalshards.xyz/,crystalshards.xyz,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://devdocs.io/crystal/,devdocs.io,https://github.com/veelenga/awesome-crystal#readme,Crystal
+https://crystal-lang.org/api/ECR.html,ECR (Embedded Crystal),https://github.com/veelenga/awesome-crystal#readme,Crystal
 http://graphql.org,Graphql,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://telegraf.js.org/,telegraf.js,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://www.sfml-dev.org/,SFML,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://chipmunk-physics.net/,Chipmunk,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/HTTP/Client.html,HTTP::Client,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/HTTP/Server.html,HTTP::Server,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/HTTP/WebSocket.html,HTTP::WebSocket,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://www.w3.org/TR/2009/WD-eventsource-20090421,Server-Sent Events,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://www.imagemagick.org/script/magick-wand.php,MagickWand,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/Log.html,Log,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://mxnet.incubator.apache.org/,MXNet,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://gitlab.com/jgillich/crystal-dns,crystal-dns,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/OAuth.html,OAuth,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/OAuth2.html,OAuth2,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/OpenSSL.html,OpenSSL,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://git.sceptique.eu/Sceptique/transfer_more,transfer_more,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://gitlab.com/crystallabs/crystime,crystime,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://faastruby.io,FaaStRuby,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://jinja.pocoo.org/,Jinja2 template engine,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://mustache.github.io,{{Mustache}},https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org/api/ECR.html,ECR (Embedded Crystal),https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://crystal-lang.org/api/Spec.html,Spec,https://github.com/veelenga/awesome-crystal#readme,Crystal
 https://gitlab.com/arctic-fox/spectator,spectator,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://darksky.net,Dark Sky,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://tools.ietf.org/html/rfc6415,https://tools.ietf.org/html/rfc6415,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://www.mollie.com/en/,Mollie,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://pinboard.in,Pinboard,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://tools.ietf.org/html/rfc7033,https://tools.ietf.org/html/rfc7033,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://podcast.chicagocrystal.org,Chicago Crystal,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://crystalweekly.com/,Crystal weekly newsletters,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://gitter.im/crystal-lang/crystal,Gitter,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://irc.lc/freenode/crystal-lang,IRC,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://metaruby.com/c/crystal-forum,Metaruby,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://www.reddit.com/r/crystal_programming/,Reddit,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://stackoverflow.com/tags/crystal-lang/info,Stackoverflow,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://t.me/crystal_cn,Chinese-speaking Telegram Group,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://discord.gg/YS7YvQy,Crystal Programming Discord Server,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://t.me/crystalbrasil,Portuguese-speaking Telegram Group,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://t.me/crystal_ru,Russian-speaking Telegram Group,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://www.crystalforrubyists.com/,Crystal for Rubyists,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystalmastery.io/,Crystal Mastery,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystal-lang.org,crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://devdocs.io/crystal/,devdocs.io,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://getgood.at/in-a-day/crystal,getgood.at,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://pragprog.com/book/crystal/programming-crystal,Programming Crystal,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://br.crystal-lang.org/,br.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://ja.crystal-lang.org/,ja.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://kr.crystal-lang.org/,kr.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://ru.crystal-lang.org/,ru.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://tw.crystal-lang.org/,tw.crystal-lang.org,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://carc.in/,carc.in,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://crystalshards.herokuapp.com/,crystalshards.herokuapp.com,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://crystalshards.xyz/,crystalshards.xyz,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://www.crystular.org,Crystular,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://quicktype.io/,quicktype,https://github.com/veelenga/awesome-crystal#readme,Crystal
-http://shards.info/,shards.info,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://git.sceptique.eu/Sceptique/wikicr,wikicr,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://publicsuffix.org/,https://publicsuffix.org/,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://atom.io/packages/crystal-tools,crystal-tools,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://atom.io/packages/language-crystal-actual,language-crystal-actual,https://github.com/veelenga/awesome-crystal#readme,Crystal
-https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol,Language Server Protocol,https://github.com/veelenga/awesome-crystal#readme,Crystal

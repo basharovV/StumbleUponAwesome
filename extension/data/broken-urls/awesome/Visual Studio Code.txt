@@ -1,0 +1,10 @@
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings,Migrating from Visual Studio,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons,Seti Icons,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/,official blog post,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust,Rust,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview,Browser Preview,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare,Live Share,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=openhab.openhab,openHAB,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek,CSS Peek,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir,Zephir,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager,AutoHotkey Manager,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: <HTTPError 404: 'Not Found'> | reason: Not Found

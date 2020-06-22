@@ -1,0 +1,3 @@
+http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/,Gesture detection in React Native – fixing unexpected panning,https://github.com/enaqx/awesome-react#readme,React error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://git.io/preact,Preact: Fast 3kb React alternative with the same ES6 API.,https://github.com/enaqx/awesome-react#readme,React error: timeout('The read operation timed out') | reason: 
+http://atticuswhite.com/blog/react-native-smart-mirror-lab/,Digital Smart Mirror lab with React Native,https://github.com/enaqx/awesome-react#readme,React error: timeout('The read operation timed out') | reason: 

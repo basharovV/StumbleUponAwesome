@@ -1,6 +1,10 @@
 https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator,Stevie Wonder Simulator,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 http://fapfapjs.io,Fapfap.js,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
+https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US,NonAd Block,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
+https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb,Youtube Notch Mode,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 https://emilschutte.com/stackoverflow-autocomplete/,Autocomplete from Stack Overflow,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
+https://netflixhangouts.com,Netflix Hangouts,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
+https://xkcd-excuse.com,Xkcd Excuse,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 http://html9responsiveboilerstrapjs.com/,HTML9 Responsive Boilerstrap JS,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 http://grootipsum.com/,Groot Ipsum,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 https://matthewrayfield.com/goodies/popup-trombone/,Popup Trombone,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
@@ -8,8 +12,3 @@ https://pypi.python.org/pypi/left-pad/,left-pad,https://github.com/mislavcimpers
 https://booleans.io/,Booleans as a Service,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 https://devnull-as-a-service.com,/dev/null as a Service,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
 http://shoutcloud.io/,shoutcloud.io,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
-https://make-my-link-longer.glitch.me/,Make My Link Longer,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
-https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US,NonAd Block,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
-https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb,Youtube Notch Mode,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
-https://netflixhangouts.com,Netflix Hangouts,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun
-https://xkcd-excuse.com,Xkcd Excuse,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun

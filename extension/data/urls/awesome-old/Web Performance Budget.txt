@@ -1,0 +1,32 @@
+https://medium.com/reloading/javascript-start-up-performance-69200f43b201,JavaScript Start-up Performance,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://addyosmani.com/blog/performance-budgets/,Performance Budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://web.dev/your-first-performance-budget/,Your first performance budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/,Web Performance for Designers and developers,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+http://bradfrost.com/blog/post/performance-as-design/,Performance as design,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/,Inside Design - Setting a web performance budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/,Real-world Web Performance Budgets By Alex Russel,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a,Performance Budget using Angular CLI,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://web.dev/incorporate-performance-budgets-into-your-build-tools,Incorporate performance budgets into your build process,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+http://v3.danielmall.com/articles/how-to-make-a-performance-budget/,How to make Performance Budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+http://www.performancebudget.io/,Performance Budget Calculator,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://www.webpagetest.org/easy,Web Page Test,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://speedcurve.com,Speed Curve,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://yellowlab.tools/,Yellow Lab Tools,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://www.sitespeed.io/,Sitespeed.io,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://webpack.js.org/configuration/performance/,Webpack Perf Budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://bundlephobia.com/,Bundlephobia,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://bundle-buddy.firebaseapp.com/,bundle-buddy,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+http://hughsk.io/disc/,Disc,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg,Concept of Performance Budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://youtu.be/vVlpCmK1l5k,Implementing Performance Budgets,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://vimeo.com/108328247,Design Decisions Through The Lens Of A Performance Budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+http://responsivenews.co.uk/post/18948466399/cutting-the-mustard,BBC - Cutting the mustard,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec,Casper.com Self-hosting Optimization,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9,Netflix Performance Improvement by shipping less JS,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154/,Pinterest Web App Optimization,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/,Smashing Magazine's Web Performance,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0/,Tinder Web App Performance,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/,Treebo PWA Case Study,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/,Twitter Lite,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5,Telegraph - Creating a web performance culture,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget
+https://www.zillow.com/engineering/bigger-faster-more-engaging-budget/,Zillow's Performance Budget,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget

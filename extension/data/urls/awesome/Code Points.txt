@@ -1,73 +1,24 @@
-https://codepoints.net/box_drawing,Box
-Drawing,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/block_elements,Block
-Elements,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2E2E,U+2E2E,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+D800,U+D800,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+DFFF,U+DFFF,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://en.wikipedia.org/wiki/UTF-16,UTF-16
-encoding,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+FEFF,U+FEFF,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://en.wikipedia.org/wiki/Byte_order_mark,byte order
-mark,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+FFFD,U+FFFD,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+1D455,U+1D455,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+210E,U+210E,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+202D,U+202D,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+202E,U+202E,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://xkcd.com/1137/,,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+FE0E,U+FE0E,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+FE0F,U+FE0F,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/search?gc=Mn,host of
-characters,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-http://unicode.org/faq/char_combmark.html,handy FAQ,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-http://stackoverflow.com/a/1732454/113195,this answer,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+1F1E6..U+1F1FF,Regional Indicator Symbols,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+1F3FB..U+1F3FF,U+1F3FB to U+1F3FF,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://en.wikipedia.org/wiki/Fitzpatrick_scale,the Fitzpatrick
-scale,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+00A0,U+00A0,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+00AD,U+00AD,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+200B,U+200B,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+200D,U+200D,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2060,U+2060,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-http://www.smashingmagazine.com/2015/10/space-yourself/,a comprehensive
-article,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+0000,U+0000,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+10FFFF,U+10FFFF,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+1F402,U+1F402,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+FBF9,U+FBF9,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+FDFA,U+FDFA,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+5146,U+5146,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+16B61,U+16B61,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+0F33,U+0F33,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+0080,U+0080,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+0081,U+0081,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+0099,U+0099,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-http://unicode.org/mail-arch/unicode-ml/y2015-m10/0050.html,were meant to be part
-of an upgrade to ISO
-2022,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+006F,U+006F,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://en.wikipedia.org/wiki/Shogi,Japanese variant of chess,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+006C,U+006C,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+200D,U+200D,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+5146,U+5146,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/domino_tiles,Domino tiles,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+1F4C0,U+1F4C0,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+2060,U+2060,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+16B61,U+16B61,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/mahjong_tiles,Mahjong tiles,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+1680,U+1680,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+2654..U+265F,Chess figures,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0F33,U+0F33,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+037E,U+037E,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+1DD2,U+1DD2,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0080,U+0080,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0081,U+0081,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+F8FF,U+F8FF,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0099,U+0099,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+1F574,U+1F574,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+1F596,U+1F596,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+1F918,U+1F918,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2800,U+2800,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2654..U+265F,Chess figures,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
 https://codepoints.net/U+2660..U+2667,Card suits,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/playing_cards,deck of
-cards,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2680..U+2685,Die faces,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+1F3B2,die
-emoji,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2686..U+2689,Go pieces,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+26C0..U+26C3,Draughts (or checkers) pieces,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/U+2616,U+2617,U+26C9,U+26CA,Shogi pieces,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://en.wikipedia.org/wiki/Shogi,Japanese variant of chess,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/domino_tiles,Domino tiles,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
-https://codepoints.net/mahjong_tiles,Mahjong tiles,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+2800,U+2800,https://github.com/Codepoints/awesome-codepoints#readme,Code Points

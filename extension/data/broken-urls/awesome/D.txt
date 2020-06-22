@@ -1,0 +1,16 @@
+http://arsdnet.net/this-week-in-d,This week in D,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://linuxcommand.org/man_pages/logrotate8.html,logrotate,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://diamondmvc.org/,Diamond,https://github.com/zhaopuming/awesome-d#readme,D error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'diamondmvc.org'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'diamondmvc.org'. (_ssl.c:1076)
+http://circularstudios.com/dash,http://circularstudios.com/dash,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://dlang.org/blog/2017/05/31/project-highlight-excel-d/,excel-d,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones,XOmB bare bones,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://wiki.xomb.org/index.php?title=Main_Page,Main page,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.packtpub.com/application-development/d-cookbook,D Cookbook,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/application-development/learning-d,Learning D,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.packtpub.com/web-development/d-web-development,D Web Development,https://github.com/zhaopuming/awesome-d#readme,D error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

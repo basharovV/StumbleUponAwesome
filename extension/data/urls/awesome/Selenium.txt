@@ -1,50 +1,49 @@
-http://www.seleniumhq.org/,Selenium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://webdriver.io,WebdriverIO,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://casperjs.org/,CasperJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://zombie.js.org/,Zombie.js,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://dalekjs.com/,DalekJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://slimerjs.org/,SlimerJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://nightwatchjs.org/,Nightwatch,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://karma-runner.github.io/0.12/index.html,Karma,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://angular.github.io/protractor/,Protractor,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://codecept.io/,CodeceptJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://ios-driver.github.io/ios-driver/,ios-driver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://www.nightmarejs.org/,Nightmare.js,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://seleniumhq.github.io/selenium/docs/api/rb/index.html,Selenium with Ruby,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://watir.github.io,Watir,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://docs.seattlerb.org/mechanize/,Mechanize,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://rubygems.org/gems/cobweb,cobweb,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://rubygems.org/gems/capybara,Capybara,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://selenium-python.readthedocs.io/,Selenium with Python,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://wwwsearch.sourceforge.net/mechanize/,mechanize,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://robotframework.org/,Robot,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://seleniumhq.github.io/selenium/docs/api/java/index.html,Selenium with Java,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://scrapy.org,Scrapy,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://appium.io/docs/en/drivers/mac/,Appium for Mac,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://conductor.ddavison.io,Conductor,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://galenframework.com/,Galen Framework,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://seleniumhq.github.io/selenium/docs/api/rb/index.html,Selenium with Ruby,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://www.seleniumhq.org/,Selenium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://www.thucydides.info/,Serenity,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html,Selenium with C#,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://www.gebish.org/,Geb,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://www.npmjs.com/package/wdio-screenshot,wdio-screenshot,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://sites.google.com/a/chromium.org/chromedriver/home,Chrome,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,Edgedriver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://appium.io/,Appium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://selendroid.io/mobileWeb.html,Selendroid,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://ios-driver.github.io/ios-driver/,ios-driver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://appium.io/docs/en/drivers/mac/,Appium for Mac,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 https://www.ranorex.com/selocity/browser-extension/,Ranorex Selocity,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://www.microfocus.com/products/silk-portfolio/silk-webdriver/,Silk WebDriver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://code.google.com/archive/p/fire-ie-selenium/,Fire IE Selenium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://saucelabs.com,Sauce Labs,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://testingbot.com,TestingBot,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://browsers.aerokube.com,Aerokube Browsers,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://www.mail7.io/,Mail7,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email,This document,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://scrapy.org,Scrapy,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://django-dynamic-scraper.readthedocs.org/en/latest/,Django Dynamic Scraper,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://watir.github.io,Watir,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://webdriver.io,WebdriverIO,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html,Selenium with C#,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://docs.seattlerb.org/mechanize/,Mechanize,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://rubygems.org/gems/cobweb,cobweb,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://www.microfocus.com/products/silk-portfolio/silk-webdriver/,Silk WebDriver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://casperjs.org/,CasperJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://www.gebish.org/,Geb,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://rubygems.org/gems/capybara,Capybara,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://code.google.com/archive/p/fire-ie-selenium/,Fire IE Selenium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://zombie.js.org/,Zombie.js,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://scrapinghub.com/scrapy-cloud.html,Scrapy Cloud,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://www.w3.org/TR/webdriver/,WebDriver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://dalekjs.com/,DalekJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://www.npmjs.com/package/wdio-screenshot,wdio-screenshot,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://saucelabs.com,Sauce Labs,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 https://seleniumhq.wordpress.com/,Official Selenium Blog,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://sites.google.com/a/chromium.org/chromedriver/home,Chrome,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://slimerjs.org/,SlimerJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://selenium-python.readthedocs.io/,Selenium with Python,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://elementalselenium.com/,Elemental Selenium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://testingbot.com,TestingBot,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://wwwsearch.sourceforge.net/mechanize/,mechanize,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://nightwatchjs.org/,Nightwatch,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,Edgedriver,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://www.assertselenium.com/,Assert Selenium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://browsers.aerokube.com,Aerokube Browsers,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://karma-runner.github.io/0.12/index.html,Karma,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://appium.io/,Appium,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 https://saucelabs.com/blog,SauceLabs Blog,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
-http://it-kosmopolit.de/Selenium/blog/selenium-blogs/selenium_blogs.php,All Selenium Blogs,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://robotframework.org/,Robot,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://selendroid.io/mobileWeb.html,Selendroid,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://www.mail7.io/,Mail7,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://angular.github.io/protractor/,Protractor,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email,This document,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://seleniumhq.github.io/selenium/docs/api/java/index.html,Selenium with Java,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
+http://codecept.io/,CodeceptJS,https://github.com/christian-bromann/awesome-selenium#readme,Selenium
 http://www.christian-bromann.com/,Christian Bromann,https://github.com/christian-bromann/awesome-selenium#readme,Selenium

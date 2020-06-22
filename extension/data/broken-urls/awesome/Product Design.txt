@@ -1,0 +1,7 @@
+https://pixabay.com/,Pixbay,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.fontpicker.io/,Font Picker,https://github.com/teoga/awesome-product-design#readme,Product Design error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.pexels.com,Pexels,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.appsee.com/,Appsee,https://github.com/teoga/awesome-product-design#readme,Product Design error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.lovelyui.com/,Lovely UI,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.brianlovin.com/,Brian Lovin,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://findguidelin.es/,Find Guidelines,https://github.com/teoga/awesome-product-design#readme,Product Design error: timeout('timed out') | reason: 

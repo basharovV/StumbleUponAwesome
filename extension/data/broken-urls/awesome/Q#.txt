@@ -1,0 +1,1 @@
+https://mybuild.microsoft.com/sessions?q=quantum,Quantum computing sessions at //Build,https://github.com/ebraminio/awesome-qsharp#readme,Q# error: <HTTPError 404: 'Not Found'> | reason: Not Found

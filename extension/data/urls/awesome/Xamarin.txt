@@ -1,6 +1,9 @@
+https://www.planetxamarin.com,Planet Xamarin,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/,Azure,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
+https://www.facebook.com/planetxamarin/,Facebook,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 https://bitbucket.org/robertvazan/autodependencyproperty.fody/src,AutoDependencyProperty.Fody,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 http://www.ammyui.com/,Ammy,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
+https://hackr.io/tutorials/learn-xamarin,Programming Community Curated Resources For Learning Xamarin,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 https://gitlab.com/hodgskin-callan/Invention,Invention,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 https://bitbucket.org/dadhi/dryioc,DryIoc,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 http://www.mvvmlight.net,MVVMLight,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
@@ -8,6 +11,3 @@ https://app.quicktype.io/?l=cs,Quicktype ★886,https://github.com/XamSome/aweso
 https://fluentassertions.com,FluentAssertions,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 https://www.syncfusion.com/xamarin-ui-controls,Syncfusion Components,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
 https://www.telerik.com/xamarin-ui,Telerik UI for Xamarin,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
-https://www.planetxamarin.com,Planet Xamarin,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
-https://www.facebook.com/planetxamarin/,Facebook,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
-https://hackr.io/tutorials/learn-xamarin,Programming Community Curated Resources For Learning Xamarin,https://github.com/XamSome/awesome-xamarin#readme,Xamarin

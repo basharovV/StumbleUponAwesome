@@ -1,0 +1,2 @@
+https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/git-hyper-blame.html,hyper-blame,https://github.com/stevemao/awesome-git-addons#readme,Git Add-ons
+https://framagit.org/mdamien/git-word-blame,git-word-blame,https://github.com/stevemao/awesome-git-addons#readme,Git Add-ons

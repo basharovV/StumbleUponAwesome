@@ -1,0 +1,3 @@
+http://www.tryclj.com/,Try Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://clojurekoans.com,Clojure Koans,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://clojurekatas.org,Clojure Katas,https://github.com/razum2um/awesome-clojure#readme,Clojure error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

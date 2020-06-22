@@ -6,4 +6,3 @@ http://www.mothersruin.com/software/SuspiciousPackage/,Suspicious Package,https:
 http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip,download manually,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
 https://color.adobe.com,Adobe Color CC,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
 http://www.eigenlogik.com/spectrum/mac,Spectrum,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
-http://www.codeadventure.com,Prisma,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins

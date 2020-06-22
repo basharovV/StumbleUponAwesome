@@ -1,0 +1,1 @@
+https://slack.eta-lang.org/,Slack,https://github.com/sfischer13/awesome-eta#readme,Eta error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)

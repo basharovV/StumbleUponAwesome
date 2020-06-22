@@ -1,0 +1,11 @@
+http://gocover.io/,GoCover.io,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://git.sci4me.com/sci4me/yakvs,yakvs,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.freebsd.org/cgi/man.cgi?query=fail,failpoints,https://github.com/avelino/awesome-go#readme,Go error: timeout('timed out') | reason: 
+https://www.gophercon.in/,GopherCon India,https://github.com/avelino/awesome-go#readme,Go error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1076)
+https://www.meetup.com/Golang-Mountain-View/,Golang Mountain View,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developers.google.com/closure/templates/,official spec,https://github.com/avelino/awesome-go#readme,Go error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://www.meetup.com/nycgolang/,Golang New York,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://jetbrains.com/go,GoLand,https://github.com/avelino/awesome-go#readme,Go error: timeout('The read operation timed out') | reason: 
+http://myanimelist.net/modules.php?go=api,MyAnimeList API,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.capitalgolang.com,Capital Go,https://github.com/avelino/awesome-go#readme,Go error: timeout('timed out') | reason: 
+https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en,Sophos UTM REST API,https://github.com/avelino/awesome-go#readme,Go error: timeout('The read operation timed out') | reason: 

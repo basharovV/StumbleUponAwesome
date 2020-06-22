@@ -1,0 +1,1 @@
+https://use-the-platform.com/periodic-weather/,Periodic Weather,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

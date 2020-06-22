@@ -1,77 +1,74 @@
+http://bigchem.eu/alllectures,BigChem,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://partridgejiang.github.io/Kekule.js/,Kekule.js,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://chembl.github.io/,ChEMBL blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 https://en.wikipedia.org/wiki/Cheminformatics,Wikipedia,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://sourceforge.net/projects/pymol/,PyMOL,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://jmol.sourceforge.net/,Jmol,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.ks.uiuc.edu/Research/vmd/,VMD,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.cgl.ucsf.edu/chimera/,Chimera,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.cgl.ucsf.edu/chimera/docs/sourcecode.html,Source,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.cgl.ucsf.edu/chimerax/,ChimeraX,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.cgl.ucsf.edu/chimerax/docs/devel/conventions.html,here,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.openmolecules.org/datawarrior/index.html,DataWarrior,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://openbabel.org/wiki/Main_Page,Open Babel,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://bigchem.eu/,BigChem,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://nglviewer.org/nglview/latest/,nglviewer,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.tornadoweb.org/en/stable/,Tornado,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.steinbeck-molecular.de/steinblog/,SteinBlog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 http://www.mayachemtools.org/index.html,MayaChemTools,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://depth-first.com/,Depth-First,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.steinbeck-molecular.de/steinblog/index.php/about/,Christoph Steinbeck,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://nanx.me/Rcpi/index.html,Rcpi,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.gromacs.org/,Gromacs,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://pytorch-geometric.readthedocs.io/en/latest/,pytorch-geometric,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://sourceforge.net/projects/pymol/,PyMOL,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://practicalcheminformatics.blogspot.com/,Practical Cheminformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://dasher.wustl.edu/chem478/,Molecular modeling course,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://jmol.sourceforge.net/,Jmol,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://chem-bla-ics.blogspot.tw/,chem-bla-ics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 http://m3g.iqm.unicamp.br/packmol/home.shtml,Packmol,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1,BCL::Commons,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://blog.rguha.net/,So much to do, so little time - Trying to squeeze sense out of chemical data,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://openmm.org/,OpenMM,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://depth-first.com/about/,Richard L. Apodaca,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.ks.uiuc.edu/Research/vmd/,VMD,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://blog.rguha.net/?page_id=8,Rajarshi Guha,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://egonw.github.io/,Egon Willighagen,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://pubchempy.readthedocs.io,PubChemPy,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://dasher.wustl.edu/,Jay Ponder,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.ks.uiuc.edu/Research/namd/,NAMD,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://rguha.wordpress.com/,1,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC,Computational Approaches in Cheminformatics and Bioinformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.cgl.ucsf.edu/chimera/,Chimera,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.ebi.ac.uk/research/thornton,Thornton group,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.rguha.net/index.html,2,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://dasher.wustl.edu/chem430/,Simulation in Chemistry and Biochemistry,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://asteeves.github.io/,steeveslab-blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.cgl.ucsf.edu/chimera/docs/sourcecode.html,Source,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://bitbucket.org/dan2097/opsin/downloads/,OPSIN,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://opensourcemolecularmodeling.github.io/README.html,Open Source Molecular Modeling,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.cgl.ucsf.edu/chimerax/,ChimeraX,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.macinchem.org/,Macs in Chemistry,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://pubchemblog.ncbi.nlm.nih.gov/,PubChem Blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://chemspipy.readthedocs.org,ChemSpiPy,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.drugdiscovery.net/,DrugDiscovery.NET,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://molssi.org/,MolSSL,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.cgl.ucsf.edu/chimerax/docs/devel/conventions.html,here,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.andreasbender.de/,Andreas Bender,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://pubchem.ncbi.nlm.nih.gov/,PubChem,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://jcheminf.biomedcentral.com/,Journal of Cheminformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://www.openmolecules.org/datawarrior/index.html,DataWarrior,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://iwatobipen.wordpress.com/,Is life worth living?,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785,Chemoinformatics for Drug Discovery,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://openbabel.org/wiki/Main_Page,Open Babel,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://baoilleach.blogspot.tw/,Noel O'Blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://chembl.blogspot.tw/,The ChEMBL-og blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://cheminf20.org/,Cheminformatics 2.0,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://cirpy.readthedocs.org/,CIRpy,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766,Molecular Descriptors for Chemoinformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 http://vina.scripps.edu/,AutoDock Vina,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://pubs.acs.org/journal/jcisd8,Journal of Chemical Information and Modeling (ACS Publications),https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.ebi.ac.uk/,EMBL-EBI,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://cactus.nci.nih.gov/chemical/structure,NCI Chemical Identifier Resolver (CIR),https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://molssi.org/software-search/,MolSSI Molecular Software Database,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://cactus.nci.nih.gov/osra/,OSRA,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://www.redbrick.dcu.ie/~noel/,Noel O'Boyle,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 https://sourceforge.net/projects/smina/,smina,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://bottlepy.org/docs/dev/,Bottle,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html,myChEMBL,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+http://learncheminformatics.com/,Learncheminformatics.com,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 http://www.rdkit.org/,RDKit,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 https://sourceforge.net/projects/cdk/,CDK (Chemistry Development Kit),https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
+https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)%3A_Chem_4399%2F%2F5399,ChemInformatics course of University of Arkansas at Little Rock,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html,ChemmineR,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
 https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/,standardiser,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://partridgejiang.github.io/Kekule.js/,Kekule.js,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://nglviewer.org/nglview/latest/,nglviewer,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://nanx.me/Rcpi/index.html,Rcpi,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://pytorch-geometric.readthedocs.io/en/latest/,pytorch-geometric,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://pubchempy.readthedocs.io,PubChemPy,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://chemspipy.readthedocs.org,ChemSpiPy,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://cirpy.readthedocs.org/,CIRpy,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://cactus.nci.nih.gov/chemical/structure,NCI Chemical Identifier Resolver (CIR),https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://cactus.nci.nih.gov/osra/,OSRA,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://bottlepy.org/docs/dev/,Bottle,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.tornadoweb.org/en/stable/,Tornado,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.gromacs.org/,Gromacs,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://openmm.org/,OpenMM,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.ks.uiuc.edu/Research/namd/,NAMD,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://bitbucket.org/dan2097/opsin/downloads/,OPSIN,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://molssi.org/,MolSSL,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://jcheminf.biomedcentral.com/,Journal of Cheminformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://pubs.acs.org/journal/jcisd8,Journal of Chemical Information and Modeling (ACS Publications),https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://learncheminformatics.com/,Learncheminformatics.com,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)%3A_Chem_4399%2F%2F5399,ChemInformatics course of University of Arkansas at Little Rock,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://bigchem.eu/alllectures,BigChem,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://bigchem.eu/,BigChem,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://dasher.wustl.edu/chem478/,Molecular modeling course,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://dasher.wustl.edu/,Jay Ponder,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://dasher.wustl.edu/chem430/,Simulation in Chemistry and Biochemistry,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://opensourcemolecularmodeling.github.io/README.html,Open Source Molecular Modeling,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://pubchemblog.ncbi.nlm.nih.gov/,PubChem Blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://pubchem.ncbi.nlm.nih.gov/,PubChem,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://chembl.blogspot.tw/,The ChEMBL-og blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.ebi.ac.uk/,EMBL-EBI,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://chembl.github.io/,ChEMBL blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.steinbeck-molecular.de/steinblog/,SteinBlog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.steinbeck-molecular.de/steinblog/index.php/about/,Christoph Steinbeck,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://practicalcheminformatics.blogspot.com/,Practical Cheminformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://blog.rguha.net/,So much to do, so little time - Trying to squeeze sense out of chemical data,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://blog.rguha.net/?page_id=8,Rajarshi Guha,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://rguha.wordpress.com/,1,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.rguha.net/index.html,2,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://baoilleach.blogspot.tw/,Noel O'Blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://www.redbrick.dcu.ie/~noel/,Noel O'Boyle,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://chem-bla-ics.blogspot.tw/,chem-bla-ics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://egonw.github.io/,Egon Willighagen,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://chembioinfo.com/,Asad's Blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.ebi.ac.uk/research/thornton,Thornton group,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://asteeves.github.io/,steeveslab-blog,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.macinchem.org/,Macs in Chemistry,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.drugdiscovery.net/,DrugDiscovery.NET,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-http://www.andreasbender.de/,Andreas Bender,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://iwatobipen.wordpress.com/,Is life worth living?,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://cheminf20.org/,Cheminformatics 2.0,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://depth-first.com/,Depth-First,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://depth-first.com/about/,Richard L. Apodaca,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC,Computational Approaches in Cheminformatics and Bioinformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785,Chemoinformatics for Drug Discovery,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766,Molecular Descriptors for Chemoinformatics,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://molssi.org/software-search/,MolSSI Molecular Software Database,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics
-https://fiehnlab.ucdavis.edu/staff/kind/metabolomics,Pages created by Tobias Kind, PhD,https://github.com/hsiaoyi0504/awesome-cheminformatics#readme,Cheminformatics

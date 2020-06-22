@@ -1,0 +1,1 @@
+http://ricostacruz.com/cheatsheets/ledger.html,Cheat Sheet,https://github.com/sfischer13/awesome-ledger#readme,Ledger error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,2 @@
+https://enjinx.io/,Enjinx,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docs.flintlang.org/,Flint Documentation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused

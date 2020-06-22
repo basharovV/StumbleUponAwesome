@@ -1,0 +1,57 @@
+https://en.wikipedia.org/wiki/Computational_science,Computational Science,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://en.wikipedia.org/wiki/Feature_engineering,features,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://en.wikipedia.org/wiki/Test_set,training set,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/implementing-linear-regression-using-ruby/,How to implement linear regression in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/,How to implement classification using logistic regression in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/,How to implement simple binary classification using a Neural Network in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/,How to implement classification using a SVM in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/,Unsupervised learning using k-means clustering in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/,Teaching an AI to play a simple game using Q-Learning in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/,Teaching a Neural Network to play a game using Q-Learning in Ruby,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/,Using the Python scikit-learn machine learning library in Ruby using PyCall,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+http://dmg.org/pmml/v4-3/GeneralStructure.html,PMML,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://scikit-learn.org/stable/index.html,Scikit-Learn,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.linkedin.com/in/jdayo/,Joseph Emmanuel Dayo,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby,slides,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://rubykaigi.org/2018/presentations/mrkn.html,page,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=8G709hKkthY,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.slideshare.net/halogenandtoast/is-it-food,slides,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=bQSzZrDDV80,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://speakerdeck.com/schneems/bayes-is-bae,slides,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://rubythursday.com/,RubyThursday,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=ScIFARN0jCo,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.crondose.com/2016/12/practical-machine-learning-ruby/,tutorial,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=SRnM_P_ygqI,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future,slides,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=gfQ8XEy7vO4,video: jp,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=pYC5mXHUWkc,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html,tutorial,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=crziu7dk6Vw,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://speakerdeck.com/stympy/machine-learning-techniques,slides,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=KC5MtKHm1O4,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=iSug6CgxWxc,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc,slides,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.vasinov.com/blog/machine-learning-with-ruby-part-one/,tutorial,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=hsZcrlbBg_0,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.youtube.com/watch?v=vy_zQ1-F0JI,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+http://neovintage.org/2011/11/14/text-classification-using-support/,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://vimeo.com/22513786,video,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069,Amazon,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.practicalai.io/,Practical Artificial Intelligence,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://sciruby.slack.com/,SciRuby Slack,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://gitter.im/red-data-tools/,Red Data Gitter,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.reddit.com/r/MachineLearning/search?q=Ruby&restrict_sr=on,Reddit,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://stackoverflow.com/search?q=machine+learning+ruby,Stack Overflow,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://opencv.org/,OpenCV,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.xquartz.org/,X11/XQuartz,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://www.imagemagick.org/script/index.php,ImageMagick,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://scikit-learn.org/stable/tutorial/machine_learning_map/,scikit-learn algorithm cheatsheet,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://en.wikipedia.org/wiki/Extract,_transform,_load,ETL,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby
+https://silverhammermba.github.io/emberb/,The Definitive Guide to Ruby's C API,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby

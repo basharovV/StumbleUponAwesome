@@ -1,0 +1,5 @@
+http://www.grandideastudio.com/jtagulator/,JTAGULATOR,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
+https://ieeexplore.ieee.org/abstract/document/8806725,Challenges in Designing Exploit Mitigations for Deeply Embedded Systems,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security error: timeout('The read operation timed out') | reason: 
+https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook,IoT Penetration Testing Cookbook,https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme,Embedded and IoT Security error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

@@ -1,59 +1,55 @@
 https://webpack.js.org/vote/,Cast your vote for upcoming Webpack features!,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-http://webpack.github.io/docs/,Webpack 1.x,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/,Advanced WebPack Part 1 - The CommonsChunk Plugin.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://plus.google.com/events/c76mih8qcjj0ffocpdlcbegvejs,ngAir 75 - Webpack 2 with Sean Larkin.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://webpack.js.org//,Webpack 2.x,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-http://stackoverflow.com/tags/webpack,StackOverflow,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://medium.com/tag/webpack,Medium,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://gitter.im/webpack/webpack,Gitter Chat,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://angularclass.com,AngularClass,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://angularair.com,AngularAir,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://easymetrics.com,EasyMetrics,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://codeyellow.nl,Code Yellow,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-http://knsv.github.io/mermaid/,mermaid,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=PthDwpgrhmQ,Webpack HMR.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://fengari.io,Fengari,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.npmjs.com/package/webpack-combine-loaders,Combine Loader,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.npmjs.com/package/icons-loader,Icons Loader,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.npmjs.com/package/modernizr-loader,Modernizr Loader,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.consul.io/api/kv.html,Consul KV-store,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://webpack.js.org/plugins/define-plugin/,DefinePlugin,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://webpack.js.org/api/compiler-hooks/,compiler hooks,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social,packtracker.io,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://alligator.io/js/create-custom-webpack-plugin/,Creating a Custom webpack Plugin,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://egghead.io/courses/angular-and-webpack-for-modular-applications,Angular and Webpack for modular applications,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5,Webpack : an unexpected journey,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p,Angular2 with Webpack Project Setup.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+http://stackoverflow.com/tags/webpack,StackOverflow,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=MzVFrIAwwS8,Advanced WebPack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,Webpack your bags.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development,An Annotated webpack 4 Config for Frontend Web Development,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.npmjs.com/package/webpack-combine-loaders,Combine Loader,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=TaWKUpahFZM,Getting Started with Webpack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=ANMN9M9LhNQ,Gift Wrap Your Code with Webpack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://youtu.be/H3g0BdyVVxA,Everything’s a plugin: Understanding webpack from the inside out,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://medium.com/tag/webpack,Medium,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8,Learn Webpack Course,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://laracasts.com/series/webpack-for-everyone,Webpack for Everyone,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=_QEM9kdV-b0,Webpack: It's Not Magic,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://egghead.io/courses/using-webpack-for-production-javascript-applications,Using Webpack for Production JavaScript Applications,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.npmjs.com/package/icons-loader,Icons Loader,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://frontendmasters.com/courses/webpack-fundamentals/,Webpack 4 Fundamentals,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.pluralsight.com/courses/webpack-fundamentals,Webpack Fundamentals,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://frontendmasters.com/courses/performance-webpack/,Web Performance with Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.npmjs.com/package/modernizr-loader,Modernizr Loader,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21,How to do proper tree-shaking in Webpack 2,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://webpack.academy,Webpack Academy,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.consul.io/api/kv.html,Consul KV-store,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://gitter.im/webpack/webpack,Gitter Chat,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://egghead.io/playlists/intro-to-webpack-4ca2d994,Intro to webpack (playlist),https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://webpack.js.org/plugins/define-plugin/,DefinePlugin,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/,Declaratively Rendering Earth in 3D, Building a Cesium + React App with Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin,Seamless client side JavaScript w/ Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=C_ZtQClrVYw,Introduction to Webpack 2, what is it?,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://webpack.js.org/api/compiler-hooks/,compiler hooks,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=eWmkBNBTbMM,Webpack 2 - A full tutorial,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://angularair.com,AngularAir,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=AZPYL30ozCY&feature=youtu.be,Webpack: Core Concepts,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+http://survivejs.com/webpack/introduction,SurviveJS - Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social,packtracker.io,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/,A Detailed Introduction To Webpack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://www.youtube.com/watch?v=WQue1AN93YU,Intro to Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+http://jsair.io/webpack,Juho, Johannes, Tobias & Sean on JavaScript Air,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://alligator.io/js/create-custom-webpack-plugin/,Creating a Custom webpack Plugin,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://javascriptair.com,JavaScript Air,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 http://blog.andrewray.me/webpack-when-to-use-and-why/,Webpack: When To Use and Why.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://easymetrics.com,EasyMetrics,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://webpack.jakoblind.no,Visual config tool for webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/,WebPack Code splitting with ES6 and Babel 6.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
+https://codeyellow.nl,Code Yellow,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack,Adventure Time With Webpack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 http://jonathancreamer.com/advanced-webpack-part-2-code-splitting,Advanced WebPack Part 2 - Code Splitting.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
 http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin,Advanced WebPack Part 3 - Creating a custom notifier plugin.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/,Advanced WebPack Part 1 - The CommonsChunk Plugin.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,Webpack your bags.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://youtu.be/H3g0BdyVVxA,Everything’s a plugin: Understanding webpack from the inside out,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8,Learn Webpack Course,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=_QEM9kdV-b0,Webpack: It's Not Magic,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin,Seamless client side JavaScript w/ Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=C_ZtQClrVYw,Introduction to Webpack 2, what is it?,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=eWmkBNBTbMM,Webpack 2 - A full tutorial,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=AZPYL30ozCY&feature=youtu.be,Webpack: Core Concepts,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=WQue1AN93YU,Intro to Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://plus.google.com/events/c76mih8qcjj0ffocpdlcbegvejs,ngAir 75 - Webpack 2 with Sean Larkin.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=PthDwpgrhmQ,Webpack HMR.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p,Angular2 with Webpack Project Setup.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=MzVFrIAwwS8,Advanced WebPack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=TaWKUpahFZM,Getting Started with Webpack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.youtube.com/watch?v=ANMN9M9LhNQ,Gift Wrap Your Code with Webpack.,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://laracasts.com/series/webpack-for-everyone,Webpack for Everyone,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://frontendmasters.com/courses/webpack-fundamentals/,Webpack 4 Fundamentals,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://frontendmasters.com/courses/performance-webpack/,Web Performance with Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://egghead.io/playlists/intro-to-webpack-4ca2d994,Intro to webpack (playlist),https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://egghead.io/courses/angular-and-webpack-for-modular-applications,Angular and Webpack for modular applications,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://egghead.io/courses/using-webpack-for-production-javascript-applications,Using Webpack for Production JavaScript Applications,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://www.pluralsight.com/courses/webpack-fundamentals,Webpack Fundamentals,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://webpack.academy,Webpack Academy,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://slashgear.github.io/webpack-workshop/,Webpack workshops,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-http://survivejs.com/webpack/introduction,SurviveJS - Webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-http://jsair.io/webpack,Juho, Johannes, Tobias & Sean on JavaScript Air,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://javascriptair.com,JavaScript Air,https://github.com/webpack-contrib/awesome-webpack#readme,webpack
-https://webpack.jakoblind.no,Visual config tool for webpack,https://github.com/webpack-contrib/awesome-webpack#readme,webpack

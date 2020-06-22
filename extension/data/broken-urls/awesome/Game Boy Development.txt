@@ -1,0 +1,3 @@
+http://gbdk-developers.com/,GBDK Developers,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://gameboy.modermodemet.se/en,Game Boy Demospotting,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.devrs.com/gb/files/gb.html,Game Boy Cartridges Schematics,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: timeout('timed out') | reason: 
