@@ -1,9 +1,0 @@
-http://espressif.com/en/products/hardware/esp8266ex/overview,,https://github.com/agucova/awesome-esp#readme,ESP
-http://espressif.com/en/products/hardware/esp32/overview,,https://github.com/agucova/awesome-esp#readme,ESP
-http://bbs.espressif.com/,Espressif AT,https://github.com/agucova/awesome-esp#readme,ESP
-http://www.esp8266basic.com/,ESPBasic,https://github.com/agucova/awesome-esp#readme,ESP
-https://devicehive.com/,DeviceHive,https://github.com/agucova/awesome-esp#readme,ESP
-http://espressif.com/en/support/download/other-tools,ESP Flash Tool,https://github.com/agucova/awesome-esp#readme,ESP
-https://hackaday.io/project/28831-wifi-satellite-34c3,WiFi Satellite,https://github.com/agucova/awesome-esp#readme,ESP
-https://heartypatch.protocentral.com/,HeartyPatch,https://github.com/agucova/awesome-esp#readme,ESP
-https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged,HealthyPi v4,https://github.com/agucova/awesome-esp#readme,ESP

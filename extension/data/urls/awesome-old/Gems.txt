@@ -1,4 +1,0 @@
-http://ckeditor.com,ckeditor.com,https://github.com/hothero/awesome-rails-gem#readme,Gems
-https://apiblueprint.org,apiblueprint,https://github.com/hothero/awesome-rails-gem#readme,Gems
-http://markevans.github.io/dragonfly,Dragonfly,https://github.com/hothero/awesome-rails-gem#readme,Gems
-http://activeadmin.info,ActiveAdmin,https://github.com/hothero/awesome-rails-gem#readme,Gems

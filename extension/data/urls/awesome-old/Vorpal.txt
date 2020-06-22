@@ -1,9 +1,0 @@
-https://gitter.im/dthree/vorpal,Chat,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-http://stackoverflow.com/questions/tagged/vorpal.js,Stack Overflow,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/,http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-http://daily-javascript.com/articles/vorpal/,By Ramon Gebben,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor,Raptor,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-https://www.producthunt.com/,Product Hunt,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-https://trello.com/,Trello,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-https://www.npmjs.com/package/cbcluster,cbcluster,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
-http://www.lifx.com,LIFX,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal
