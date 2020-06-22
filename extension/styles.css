@@ -158,6 +158,7 @@ Welcome popup
 }
 
 .sax-show {
+    display: initial;
     opacity: 1;
     transition: opacity 400ms ease-in-out;
 }
@@ -168,6 +169,7 @@ Welcome popup
 }
 
 .sax-show-fast {
+    display: initial;
     opacity: 1;
     transition: opacity 100ms ease-in-out;
 }

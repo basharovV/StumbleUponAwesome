@@ -1,7 +1,7 @@
 # Changelog
 Check out past and upcoming releases here!
 
-## [1.0.7] - Unreleased
+## [1.1.0] - Unreleased
 
 ### Added
 - Rabbit hole feature - stay on the same topic you stumbled on (with fancy rabbit animation!) When in the rabbit hole, all stumbles will be related to the topic. 

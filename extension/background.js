@@ -45,7 +45,6 @@ async function init() {
   rabbitHoleCategory = await getRabbitHoleCategory();
 }
 
-init();
 
 /**
  * 
@@ -105,6 +104,8 @@ async function findUrl(source, category) {
  */
 async function stumble() {
 
+  await init();
+  
   const randomLine = await findUrl('awesome', rabbitHoleCategory);
 
   stumbleUrl = {
@@ -302,7 +303,7 @@ const set = async (key, val) => {
 }
 
 const getRabbitHoleCategory = async () => {
-  await get('rabbitHoleCategory', null);
+  return await get('rabbitHoleCategory', null);
 }
 
 const setRabbitHoleCategory = async category => {

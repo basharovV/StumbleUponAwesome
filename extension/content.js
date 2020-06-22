@@ -13,6 +13,29 @@ const div = (id) => {
 }
 
 /**
+ * Fade out, then hide after 1 sec.
+ * @param {HTMLElement} element 
+ * @returns {number} timeoutId
+ */
+function fadeOutAndHide(element, secondsToFadeOut, secondsToGone) {
+    const timeoutId = setTimeout(() => {
+
+        element.classList.add('sax-hide');
+        element.classList.remove('sax-show');
+
+        const timeoutId = setTimeout(() => {
+            element.classList.add('sax-gone');
+        }, secondsToGone * 1000);
+    }, secondsToFadeOut * 1000);
+
+    return timeoutId;
+}
+
+function showAndFadeIn(element) {
+
+}
+
+/**
  * 
  * @param {{visited: number, stumbleUrl: StumbleURL, isRabbitHoleEnabled: boolean}} request 
  */
@@ -119,8 +142,9 @@ function showStumbleInfo(request) {
         isDisplayed = true;
 
         // clearTimeout();
+        exitTimeoutId = fadeOutAndHide(ui);
         exitTimeoutId = setTimeout(() => {
-            ui.classList.add('sax-hide')
+            ui.classList.add('sax-hide');
             ui.classList.remove('sax-show');
             isDisplayed = false;
         }, 5000);
@@ -137,7 +161,7 @@ function showStumbleInfo(request) {
         if (isDisplayed) {
             // clearTimeout();
             exitTimeoutId = setTimeout(() => {
-                ui.classList.add('sax-gone');
+                ui.classList.add('sax-hide');
                 ui.classList.remove('sax-show');
                 isDisplayed = false;
             }, 4000);
@@ -165,20 +189,19 @@ function showStumbleInfo(request) {
         rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.png'));
         // Hide new feature popup
         if (!request.isRabbitHoleEnabled) {
-            newFeaturePopup.classList.add('sax-hide-fast');
-            newFeaturePopup.classList.remove('sax-show-fast');
+            fadeOutAndHide(newFeaturePopup);
         }
     });
 
     rabbitHole.addEventListener('click', () => {
-        chrome.storage.local.set({'featureRabbitHole1Seen': true}, () => {
+        chrome.storage.local.set({ 'featureRabbitHole1Seen': true }, () => {
             const newFeaturePopup = document.getElementById('sax-new-feature-popup');
             newFeaturePopup.classList.remove('sax-show-fast');
             newFeaturePopup.classList.add('sax-gone');
         });
         chrome.runtime.sendMessage({ message: 'rabbit-hole-enter' })
     });
-    
+
     var rabbitHoleExitButton = document.getElementById('sax-rabbit-hole-exit-button');
 
     rabbitHoleExitButton.addEventListener('click', () => {
@@ -186,7 +209,7 @@ function showStumbleInfo(request) {
     });
 
     // Show / Hide the New feature popup depending on flag
-    chrome.storage.local.get({'featureRabbitHole1Seen': false} , function (result) {
+    chrome.storage.local.get({ 'featureRabbitHole1Seen': false }, function (result) {
         const newFeaturePopup = document.getElementById('sax-new-feature-popup');
 
         if (request.isRabbitHoleEnabled || result.featureRabbitHole1Seen) {
@@ -226,7 +249,7 @@ function toggleStumbleInfo(request) {
     console.log(`Bubbles info box: ${bubblesInfo}`);
     if (bubblesInfo !== null) {
         if (isDisplayed) {
-            bubblesInfo.classList.add('sax-hide');
+            bubblesInfo.classList.add('sax-gone');
             bubblesInfo.classList.remove('sax-show');
             isDisplayed = false;
         } else {
