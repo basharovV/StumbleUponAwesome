@@ -14,25 +14,19 @@ There are 32,443 unique sites from 528 awesome collection pages on Github from k
 
 ----
 
-### How to use it:
+## How to use it:
 **To stumble:** Simply click on the ⚡️ extension button → go to a new awesome site!
 <small>(or use **`Alt`** + **`Shift`** +**`S`**)</small>
 
-#### ꩜ New: Rabbit hole 
+### ꩜ New: Rabbit hole 
 
-_We have all been down internet rabbit holes_. 
-
-.
-
-One minute you're casually reading the news, the next you've read so much about `random topic` you might as well do a TED talk. 
-
-.
-
-_What just happened?_ The rabbit hole pulled you in and you lost track of time, but you also might have discovered something _awesome_. 
-
-.
-
-So why not embrace it, by having a fancy button for it, _obviously_. **Stay stumblin' on the same topic,** or exit back to random mode.
+_We have all been down internet rabbit holes_. <br/>
+.<br/>
+One minute you're casually reading the news, the next you've read so much about `random topic` you might as well do a TED talk. <br/>
+.<br/>
+_What just happened?_ The rabbit hole pulled you in and you lost track of time, but you also might have discovered something _awesome_. <br/>
+.<br/>
+So why not embrace it, by having a fancy button for it, _obviously_. **Stay stumblin' on the same topic,** or exit back to random mode.<br/>
 
 <p align="left">
   <img style="width: 100%;padding:0;margin:0;" src="rabbit-hole.gif"/>
