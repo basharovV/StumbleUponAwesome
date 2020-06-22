@@ -21,11 +21,17 @@ There are 32,443 unique sites from 528 awesome collection pages on Github from k
 #### ꩜ New: Rabbit hole 
 
 _We have all been down internet rabbit holes_. 
+
 .
+
 One minute you're casually reading the news, the next you've read so much about `random topic` you might as well do a TED talk. 
+
 .
+
 _What just happened?_ The rabbit hole pulled you in and you lost track of time, but you also might have discovered something _awesome_. 
+
 .
+
 So why not embrace it, by having a fancy button for it, _obviously_. **Stay stumblin' on the same topic,** or exit back to random mode.
 
 <p align="left">
