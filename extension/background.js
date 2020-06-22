@@ -330,6 +330,14 @@ const getStumbleTabId = async () => {
   return await get('stumbleTabId', null);
 }
 
+const saveLastWindowId = async windowId => {
+  await set('lastWindowId', windowId);
+}
+
+const getLastWindowId = async () => {
+  return await get('lastWindowId', null);
+}
+
 function update() {
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
 
@@ -387,8 +395,9 @@ chrome.browserAction.onClicked.addListener(
     const tabIds = tabs.map(t => t.id);
 
     // Reset if necessary
-    if (windowId !== currentWindowId || !stumbleTabId || !tabIds.includes(savedStumbleTabId)) {
+    if (windowId !== currentWindowId || !savedStumbleTabId || !tabIds.includes(savedStumbleTabId)) {
       windowId = currentWindowId;
+      await saveLastWindowId(windowId);
       chrome.storage.local.remove(['stumbleTabId'], () => {
         stumbleTabId = null;
       })
@@ -492,7 +501,12 @@ chrome.runtime.onMessage.addListener(
   }
 );
 
+/**
+ * Restore values into memory. 
+ * Background script can go idle at anytime, so we need to persist these. 
+ */
 async function init() {
+  windowId = await getLastWindowId();
   stumbleTabId = await getStumbleTabId();
   stumbleUrl = await get('lastStumbleUrl', null);
   rabbitHoleCategory = await getRabbitHoleCategory();
