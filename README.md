@@ -1,6 +1,8 @@
 # <img src="extension/images/icon_128.png" width="45" align="left"> StumbleUponAwesome
 An *awesome* internet discovery button, for developers, tech and science lovers. 
 
+<img src="https://img.shields.io/chrome-web-store/users/dhfmgppomdaagdcbpccdfjpopgikcdge?color=%236F82EB&label=chrome%20users&labelColor=464646&style=flat-square&logo=google-chrome&logoColor=white"/> <img src="https://img.shields.io/chrome-web-store/v/dhfmgppomdaagdcbpccdfjpopgikcdge?color=E87676&label=version&style=flat-square" /> <img src="https://img.shields.io/github/license/basharovV/stumbleuponawesome?style=flat-square" />
+
 <p align="center">
   <img style="width: 100%;padding:0;margin:0;" src="header.png"/>
 </p>
