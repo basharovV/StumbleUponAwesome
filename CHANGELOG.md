@@ -1,7 +1,12 @@
 # Changelog
 Check out past and upcoming releases here!
 
-## [1.1.0] - Unreleased
+## Unreleased 
+
+## Fixed
+- Bug that caused stumbles to open in new tab after background script went idle
+
+## [1.1.0] - 24 June 2020
 
 ### Added
 - Rabbit hole feature - stay on the same topic you stumbled on (with fancy rabbit animation!) When in the rabbit hole, all stumbles will be related to the topic. 
