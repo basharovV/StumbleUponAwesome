@@ -1,7 +1,7 @@
 # Changelog
 Check out past and upcoming releases here!
 
-## Unreleased 
+## [1.1.1] - 26 June 2020
 
 ## Fixed
 - Bug that caused stumbles to open in new tab after background script went idle

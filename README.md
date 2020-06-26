@@ -12,7 +12,7 @@ An *awesome* internet discovery button, for developers, tech and science lovers.
 ⚡️ [Install the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)
 
 
-There are 32,443 unique sites from 528 awesome collection pages on Github from kind contributors. There's some hidden gems waiting in there. 
+There are 41,299 unique sites from 542 awesome lists on Github from kind contributors. There's some hidden gems waiting in there. 
 
 ----
 
@@ -60,7 +60,7 @@ Here's some of the things I'd like to build out for this extension. However the 
 
 **[→ Changelog](CHANGELOG.md)**
 
-**[→ Current version: 1.1.0](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
+**[→ Current version: 1.1.1](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
 
 ### A note about permissions
 This extension requires the `<all_urls>` permission, in order to show the overlay UI on every stumble page that you visit. It does not access data on these sites. There is no tracking, or analytics of any kind, and state is only stored locally. 
