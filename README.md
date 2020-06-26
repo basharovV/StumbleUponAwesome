@@ -54,7 +54,7 @@ Here's some of the things I'd like to build out for this extension. However the 
 - [ ] Categories
   - [x] [awesome curated lists](https://github.com/sindresorhus/awesome)
   - [ ] tech, science, software, startups, etc.
-- [x] Rabbit hole feature (stay on the same topic). _Done, not yet published_
+- [x] Rabbit hole feature (stay on the same topic).
 - [ ] Firefox support
 - [ ] Safari support
 
