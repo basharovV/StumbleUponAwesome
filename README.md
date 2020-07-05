@@ -1,26 +1,32 @@
 # <img src="extension/images/icon_128.png" width="45" align="left"> StumbleUponAwesome
 An *awesome* internet discovery button, for developers, tech and science lovers. 
 
-<img src="https://img.shields.io/chrome-web-store/users/dhfmgppomdaagdcbpccdfjpopgikcdge?color=%236F82EB&label=chrome%20users&labelColor=464646&style=flat-square&logo=google-chrome&logoColor=white"/> <img src="https://img.shields.io/chrome-web-store/v/dhfmgppomdaagdcbpccdfjpopgikcdge?color=E87676&label=version&style=flat-square" /> <img src="https://img.shields.io/github/license/basharovV/stumbleuponawesome?style=flat-square" />
+<img src="https://flat.badgen.net/chrome-web-store/users/dhfmgppomdaagdcbpccdfjpopgikcdge?color=6F82EB&label=chrome%20users&icon=chrome"/> <img src="https://flat.badgen.net/amo/users/stumbleuponawesome?color=6F82EB&label=firefox%20users&icon=firefox"/> <img src="https://flat.badgen.net/chrome-web-store/v/dhfmgppomdaagdcbpccdfjpopgikcdge?color=E87676&label=version"/>  <img src="https://flat.badgen.net/github/license/basharovV/stumbleuponawesome?color=green" />
 
 <p align="center">
   <img style="width: 100%;padding:0;margin:0;" src="header.png"/>
 </p>
 
-> A Chrome/Brave extension that takes you to a random site from one of the [awesome curated lists](https://github.com/sindresorhus/awesome). Like good ol' StumbleUpon (which is now dead). 
+> A browser extension that takes you to a random site from one of the [awesome curated lists](https://github.com/sindresorhus/awesome). Like good ol' StumbleUpon (which is now dead). 
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3"><b>⚡️ Install Chrome Extension</b></a>
+  <a href="https://addons.mozilla.org/en-GB/firefox/addon/stumbleuponawesome/"><b>⚡️ Install Firefox Add-on</b></a>
+</p>
 
-⚡️ [Install the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)
-
-
-There are 41,299 unique sites from 542 awesome lists on Github from kind contributors. There's some hidden gems waiting in there. 
+There are 41,299 unique sites from 542 awesome lists on Github from kind contributors. There's some hidden gems waiting in there 💎 . 
 
 ----
 
 ## How to use it:
 **To stumble:** Simply click on the ⚡️ extension button → go to a new awesome site!
-<small>(or use **`Alt`** + **`Shift`** +**`S`**)</small>
 
-### ꩜ New: Rabbit hole 
+<small>(or use <kbd>**`Alt`**</kbd> + <kbd>**`Shift`**</kbd> +<kbd>**`S`**</kbd>)</small>
+
+---
+
+<img align="right" width="150" src="./rabbit-hole-icon.gif"/>
+
+### ꩜ Introducing: The Rabbit Hole 
 
 _We have all been down internet rabbit holes_. <br/>
 .<br/>
@@ -28,9 +34,11 @@ One minute you're casually reading the news, the next you've read so much about 
 .<br/>
 _What just happened?_ The rabbit hole pulled you in and you lost track of time, but you also might have discovered something _awesome_. <br/>
 .<br/>
-So why not embrace it, by having a fancy button for it, _obviously_. **Stay stumblin' on the same topic,** or exit back to random mode.<br/>
+So why not embrace it, by having a fancy button for it, _obviously_. 
 
-<p align="left">
+**Stay stumblin' on the same topic,** or exit back to random mode.<br/>
+
+<p align="center">
   <img style="width: 100%;padding:0;margin:0;" src="rabbit-hole.gif"/>
 </p>
 
@@ -55,12 +63,11 @@ Here's some of the things I'd like to build out for this extension. However the 
   - [x] [awesome curated lists](https://github.com/sindresorhus/awesome)
   - [ ] tech, science, software, startups, etc.
 - [x] Rabbit hole feature (stay on the same topic).
-- [ ] Firefox support
+- [x] Firefox support
 - [ ] Safari support
 
 **[→ Changelog](CHANGELOG.md)**
 
-**[→ Current version: 1.1.1](https://chrome.google.com/webstore/detail/stumbleuponawesome/dhfmgppomdaagdcbpccdfjpopgikcdge?authuser=3)**
 
 ### A note about permissions
 This extension requires the `<all_urls>` permission, in order to show the overlay UI on every stumble page that you visit. It does not access data on these sites. There is no tracking, or analytics of any kind, and state is only stored locally. 
