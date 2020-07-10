@@ -2,6 +2,7 @@
 An *awesome* internet discovery button, for developers, tech and science lovers. 
 
 <img src="https://flat.badgen.net/chrome-web-store/users/dhfmgppomdaagdcbpccdfjpopgikcdge?color=6F82EB&label=chrome%20users&icon=chrome"/> <img src="https://flat.badgen.net/amo/users/stumbleuponawesome?color=6F82EB&label=firefox%20users&icon=firefox"/> <img src="https://flat.badgen.net/chrome-web-store/v/dhfmgppomdaagdcbpccdfjpopgikcdge?color=E87676&label=version"/>  <img src="https://flat.badgen.net/github/license/basharovV/stumbleuponawesome?color=green" />
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
   <img style="width: 100%;padding:0;margin:0;" src="header.png"/>
