@@ -1,6 +1,6 @@
 {
   "name": "StumbleUponAwesome",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "An awesome internet discovery button. Like StumbleUpon, but for developers, tech and science lovers.",
   "background": {
     "scripts": [
