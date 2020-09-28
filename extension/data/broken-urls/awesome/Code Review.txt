@@ -1,1 +1,2 @@
-https://engineering.tumblr.com/post/170040992289/how-i-review-code,How I review code,https://github.com/joho/awesome-code-review#readme,Code Review error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error
+https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm,Effective Code Reviews Without the Pain,https://github.com/joho/awesome-code-review#readme,Code Review error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gitrise.com/,GitRise,https://github.com/joho/awesome-code-review#readme,Code Review error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

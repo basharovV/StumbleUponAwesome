@@ -1,1 +1,2 @@
+https://tailwindcss.com/docs/what-is-tailwind/,Docs,https://github.com/troxler/awesome-css-frameworks#readme,Frameworks error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 http://zurb.com/responsive,Demo,https://github.com/troxler/awesome-css-frameworks#readme,Frameworks error: <HTTPError 404: 'Not Found'> | reason: Not Found

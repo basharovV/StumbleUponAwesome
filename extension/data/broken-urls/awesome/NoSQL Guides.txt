@@ -1,1 +1,1 @@
-https://doi.org/10.1109/MS.2014.51,here,https://github.com/erictleung/awesome-nosql-guides#readme,NoSQL Guides error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/,Thank You for Your Help NoSQL, but We Got It from Here (2020),https://github.com/erictleung/awesome-nosql-guides#readme,NoSQL Guides error: timeout('The read operation timed out') | reason: 

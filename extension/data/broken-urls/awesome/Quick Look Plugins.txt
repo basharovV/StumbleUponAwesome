@@ -1,1 +1,1 @@
-http://www.codeadventure.com,Prisma,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://www.codeadventure.com,Prisma,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

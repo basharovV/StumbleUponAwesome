@@ -1,4 +1,2 @@
 https://litmus.com/community/learning,Litmus learning,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-http://codepen.io/reallygoodemails/,Really good emails Codepen,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://devhints.io/html-email,Rico's cheatsheet,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://emailcomb.com/,EmailComb,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://emailcomb.com/,EmailComb,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 308: 'Unknown'> | reason: Unknown

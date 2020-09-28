@@ -1,0 +1,57 @@
+https://www.garrensmith.com/blogs/mini-couch-hack-week,MiniCouchDB in Rust,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://blog.couchdb.org/2020/02/26/the-road-to-couchdb-3-0-prepare-for-4-0/,The Road to CouchDB 3.0: Prepare for 4.0,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://ehealthafrica.github.io/couchdb-best-practices/,Best Practices,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html,Pagination strategies with PouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html,12 pro tips for better code with PouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html,PouchDB - Secondary Indexes,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html,Views Collation,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/,Cloudant - MapReduce and the Secondary Index (Video),https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://docs.cloudant.com/design_documents.html,Cloudant - Design Documents,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://docs.cloudant.com/design_document_management.html,Cloudant - Design Document Management,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://docs.cloudant.com/transactions.html,Grouping related documents together in Cloudant,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions,Document Revisions (from wiki),https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb,Simple Document Versioning,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://blog.couchdb.org/,Official Blog,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://docs.couchdb.org/,Official Docs,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://wiki.apache.org/couchdb/Frequently_asked_questions,FAQ (old wiki),https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://cwiki.apache.org/confluence/display/COUCHDB/Frequently+Asked+Questions,new wiki,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://guide.couchdb.org/,The Definitive Guide,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://cwiki.apache.org/confluence/display/COUCHDB/Books,List of books on the Wiki,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://www.youtube.com/watch?v=BKQ9kXKoHS810,10 Common Misconceptions,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://conf.couchdb.org/,conference,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://nosqltapes.com,The NoSQL Tapes,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://nosqltapes.com/video/hoffman-and-kocoloski-on-cloudant-and-couchdb,Volume 5 - CouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://nosqltapes.com/video/understanding-mapreduce-with-mike-miller,Volume 8 - MapReduce,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://www.oreilly.com/pub/e/1760,Scaling Out with BigCouch,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register,IBM - The New Builders Webinar Series,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://webchat.freenode.net/?channels=couchdb,IRC,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://couchdb.apache.org/bylaws.html,Bylaws,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://whimsy.apache.org/board/minutes/CouchDB.html,Minutes,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000,Mailing Lists Description,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://grokbase.com/s/couchdb,Grokbase,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://stackoverflow.com/questions/tagged/couchdb,Stack Overflow,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://cloudant.com/,Cloudant,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://www.smileupps.com/,Smileupps,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://bitnami.com/stack/couchdb/cloud/google,Bitnami Launchpad for Google Cloud Platform,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://pouchdb.com/,PouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://www.foundationdb.org/,FoundationDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://www.couchbase.com/,Couchbase,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://docs.couchbase.com/server/current/install/migrate-couchdb.html,Migrating from Apache CouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://research.google.com/archive/sawzall.html,Google’s paper on Sawzall,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://www.dimagi.com/blog/what-every-developer-should-know-about-couchdb/,What Every Developer Should Know About CouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://www.nosql.se/2011/09/couchdb-maximum-database-size/,CouchDB Maximum Database Size,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://horicky.blogspot.com/2009/11/nosql-patterns.html,NOSQL Patterns,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence/,Persistent Trees in git, Clojure and CouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://pozorvlak.livejournal.com/176385.html,CouchDB - JSON and B-trees and REST, oh my!,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well,Are attachments duplicated for each revision?,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/,Simple CouchDB and Cloudant Backup,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://docs.cloudant.com/backup-guide.html,Cloudant Backup Guide,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html,List of CouchApps,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+http://ddoc.me/,Ddoc Lab,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://bitnami.com/stack/couchdb,Bitnami CouchDB,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki,Official CouchDB Wiki,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://wiki.apache.org/couchdb/,Official CouchDB Wiki (old),https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://docs.cloudant.com/guides.html,Cloudant Official Guides,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://cwiki.apache.org/confluence/display/COUCHDB/CouchDB+clients,List of CouchDB Clients,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities,List of CouchDB Useful Utilities,https://github.com/quangv/awesome-couchdb#readme,CouchDB
+https://wiki.apache.org/couchdb/Related_Projects,Old Wiki's Related Projects List,https://github.com/quangv/awesome-couchdb#readme,CouchDB

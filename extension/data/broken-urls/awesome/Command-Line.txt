@@ -1,1 +1,2 @@
-https://support.apple.com/en-us/HT201949,Apple support page,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://apps.apple.com/de/app/macos-high-sierra/id1246284741,App Store,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://apps.apple.com/de/app/macos-mojave/id1398502828,App Store,https://github.com/herrbischoff/awesome-macos-command-line#readme,Command-Line error: <HTTPError 404: 'Not Found'> | reason: Not Found

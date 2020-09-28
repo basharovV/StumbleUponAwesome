@@ -1,25 +1,25 @@
 https://www.youtube.com/watch?v=p027ysBt0_M,Chess Peeps,https://github.com/hkirat/awesome-chess#readme,Chess
-https://www.thingiverse.com/thing:470700,Spiral Pieces in 3-D,https://github.com/hkirat/awesome-chess#readme,Chess
 http://chesstempo.com,chesstempo.com,https://github.com/hkirat/awesome-chess#readme,Chess
 https://kairavacademydotcom.files.wordpress.com/2013/06/john-thursby-75-chess-problems.pdf,Chess Problems,https://github.com/hkirat/awesome-chess#readme,Chess
+https://www.thingiverse.com/thing:470700,Spiral Pieces in 3-D,https://github.com/hkirat/awesome-chess#readme,Chess
 https://chessprogramming.wikispaces.com/,chessprogramming.wikispaces.com,https://github.com/hkirat/awesome-chess#readme,Chess
-https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent,Pieces on Wikipedia,https://github.com/hkirat/awesome-chess#readme,Chess
 http://www.gutenberg.org/cache/epub/5614/pg5614-images.html,Chess strategy,https://github.com/hkirat/awesome-chess#readme,Chess
+https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent,Pieces on Wikipedia,https://github.com/hkirat/awesome-chess#readme,Chess
+https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode,Chess Pieces in Unicode,https://github.com/hkirat/awesome-chess#readme,Chess
 http://freechess.org/,freechess.org,https://github.com/hkirat/awesome-chess#readme,Chess
-https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation,FEN,https://github.com/hkirat/awesome-chess#readme,Chess
-https://www.npmjs.com/package/chess,npm chess package,https://github.com/hkirat/awesome-chess#readme,Chess
-http://multiplayerchess.com,multiplayerchess.com,https://github.com/hkirat/awesome-chess#readme,Chess
-http://en.lichess.org/,lichess.org,https://github.com/hkirat/awesome-chess#readme,Chess
-https://chess24.com/en/play/chess,chess24.com,https://github.com/hkirat/awesome-chess#readme,Chess
-http://play.chessbase.com/js/apps/playchess/,chessbase.com,https://github.com/hkirat/awesome-chess#readme,Chess
 http://www.flaticon.com/search/chess,Icons on flaticons,https://github.com/hkirat/awesome-chess#readme,Chess
-http://www.chess.com/,chess.com,https://github.com/hkirat/awesome-chess#readme,Chess
+https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation,FEN,https://github.com/hkirat/awesome-chess#readme,Chess
 https://thenounproject.com/search/?q=chess,Icons on thenounproject,https://github.com/hkirat/awesome-chess#readme,Chess
 https://www.youtube.com/watch?v=fPopQaY7Og4,Understanding Chess Mastery,https://github.com/hkirat/awesome-chess#readme,Chess
 https://www.youtube.com/watch?v=A3yDvM8aplY,How Chess Can Revolutionize Learning,https://github.com/hkirat/awesome-chess#readme,Chess
 https://www.youtube.com/watch?v=v34NqCbAA1c,Working backward to solve problems,https://github.com/hkirat/awesome-chess#readme,Chess
 https://www.youtube.com/watch?v=lgCSo1Txw3c,Chess Life,https://github.com/hkirat/awesome-chess#readme,Chess
 https://www.youtube.com/watch?v=7EuxVOgrEig,Why Chess is Boring,https://github.com/hkirat/awesome-chess#readme,Chess
+https://www.npmjs.com/package/chess,npm chess package,https://github.com/hkirat/awesome-chess#readme,Chess
+http://multiplayerchess.com,multiplayerchess.com,https://github.com/hkirat/awesome-chess#readme,Chess
+http://en.lichess.org/,lichess.org,https://github.com/hkirat/awesome-chess#readme,Chess
+https://chess24.com/en/play/chess,chess24.com,https://github.com/hkirat/awesome-chess#readme,Chess
+http://www.chess.com/,chess.com,https://github.com/hkirat/awesome-chess#readme,Chess
 https://en.wikipedia.org/wiki/Algebraic_notation_(chess),Algebraic Chess Notation,https://github.com/hkirat/awesome-chess#readme,Chess
 https://en.wikipedia.org/wiki/ICCF_numeric_notation,ICCF numeric notation,https://github.com/hkirat/awesome-chess#readme,Chess
 https://en.wikipedia.org/wiki/Descriptive_notation,Descriptive Notation,https://github.com/hkirat/awesome-chess#readme,Chess

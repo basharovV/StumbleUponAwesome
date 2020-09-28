@@ -1,0 +1,31 @@
+https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF,Official TensorFlow.js video series,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.tensorflow.org/js,TensorFlow.js,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://youtu.be/iH9CS-QYmZs,TensorFlow.js: ML for the web and beyond,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.tensorflow.org/js/guide,Official Documentation,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.youtube.com/watch?v=y4pfTQJaUJU,Rock Paper Scissors!,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://js.tensorflow.org/api/latest/,API Reference,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.youtube.com/watch?v=X55m9eS5UFU,Color Blind Tensors,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://lipsync.withyoutube.com/,LipSync,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://codelabs.developers.google.com/,Google Codelabs,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html,BodyPix,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js,Beginning ML with TensorFlow.js,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.reddit.com/r/TensorFlowJS,Reddit,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.manning.com/books/deep-learning-with-javascript,Deep Learning with JavaScript,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://danfo.jsdata.org/,Danfo.js,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.tensorflow.org/js/models,Official tfjs models on TensorFlow.js website,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.amazon.com/Hands-Machine-Learning-TensorFlow-js-applications/dp/1838821732,Hands-On Machine Learning with TensorFlow.js,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://glitch.com/@TensorFlowJS,Glitch,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.npmjs.com/search?q=%40tensorflow-models,@tensorflow-models on NPM,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://blog.tensorflow.org/search?label=TensorFlow.js&max-results=20,Official TensorFlow.js blog,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.tensorflow.org/js/demos,Official tfjs demo website,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://codepen.io,CodePen,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://playground.tensorflow.org,TensorFlow Playground,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://arxiv.org/abs/1901.05350,TensorFlow.js: Machine Learning for the Web and Beyond,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://aijs.rocks/,AiJS,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://arxiv.org/abs/1910.07402,JSDoop and TensorFlow.js: Volunteer Distributed Web Browser-Based Neural Network Training,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://towardsdatascience.com/search?q=tensorflow.js,Towards Data Science,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://teachablemachine.withgoogle.com/,Teachable Machine,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.ng-conf.org/,NgConf 2020,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://www.tensorplayground.com/1.0.0/,TensorPlayground.com,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://stackoverflow.com/questions/tagged/tensorflow.js,Stack Overflow,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js
+https://pose-animator-demo.firebaseapp.com/camera.html,Pose Animator,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js

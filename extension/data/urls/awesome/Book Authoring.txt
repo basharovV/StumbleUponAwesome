@@ -1,27 +1,27 @@
 https://www.nostarch.com/download/nspagreement.pdf,No Starch Press Standard Contract,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.aristeia.com/authorAdvice.html,Scott Meyers' Advice to Prospective Book Authors,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.fasterj.com/articles/bookwriting.shtml,Writing A Technical Book: Is It Worthwhile?,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers,How Book Advances Work – A Simple Explanation for Writers,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.quepublishing.com/about/write_for_us.aspx,Que Publishing,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers,How Book Advances Work – A Simple Explanation for Writers,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.fasterj.com/articles/bookwriting.shtml,Writing A Technical Book: Is It Worthwhile?,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 https://www.manning.com/write-for-us,Manning Publications,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://web.archive.org/web/20130809065323/http://oreilly.com/oreilly/author/ch02.html,The Proposal (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679,The Editing Process and Editor Types (Que Publishing),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://web.archive.org/web/20130710213743/http://oreilly.com/oreilly/author/ch04.html,Writing and Editing (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.informit.com/about/write_for_us.aspx,Write for Us (Pearson Education),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://web.archive.org/web/20130711002825/http://oreilly.com/oreilly/author/ch06.html,Marketing Your Book (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-https://news.ycombinator.com/item?id=12118554,Ask HN: Considerations when asked to write a book?,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://web.archive.org/web/20130809065323/http://oreilly.com/oreilly/author/ch02.html,The Proposal (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.wrox.com/WileyCDA/Section/id-105073.html,Wrox,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677,Drafting a Proposal (Que Publishing),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 https://www.nostarch.com/writeforus.htm,No Starch Press,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.oreilly.com/work-with-us.html,O’Reilly,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.informit.com/about/write_for_us.aspx,Write for Us (Pearson Education),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://blog.codinghorror.com/do-not-buy-this-book/,Do Not Buy This Book,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm,Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678,Anatomy of a TOC (Que Publishing),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.apress.com/write-for-us/,Apress,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://web.archive.org/web/20130710213743/http://oreilly.com/oreilly/author/ch04.html,Writing and Editing (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.voidspace.org.uk/python/articles/technical-writing.shtml,Writing a Technical Book,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677,Drafting a Proposal (Que Publishing),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/,Tips for Writing a Programming Book,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678,Anatomy of a TOC (Que Publishing),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://web.archive.org/web/20130711002825/http://oreilly.com/oreilly/author/ch06.html,Marketing Your Book (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+https://news.ycombinator.com/item?id=12118554,Ask HN: Considerations when asked to write a book?,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.writersdigest.com/online-editor/book-contract-whats-negotiable-and-whats-not,Book Contract: What’s Negotiable and What’s Not,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.oreilly.com/work-with-us.html,O’Reilly,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://www.apress.com/write-for-us/,Apress,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
+http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html,The Contract (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 https://write-with-us.pragprog.com/,The Pragmatic Programmers,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 http://authors.packtpub.com/,Packt Publishing,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://www.writersdigest.com/online-editor/book-contract-whats-negotiable-and-whats-not,Book Contract: What’s Negotiable and What’s Not,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
-http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html,The Contract (O'Reilly: So You Want to Write a Book?),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring
 https://web.archive.org/web/20161010102603/http://www.apress.com/files/Apress_Contract.pdf,Apress Standard Contract,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring

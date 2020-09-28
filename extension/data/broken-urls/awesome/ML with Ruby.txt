@@ -1,1 +1,1 @@
-https://www.linkedin.com/in/jdayo/,Joseph Emmanuel Dayo,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 999: 'INKApi Error'> | reason: INKApi Error
+https://www.linkedin.com/in/jdayo/,Joseph Emmanuel Dayo,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 999: 'Request denied'> | reason: Request denied

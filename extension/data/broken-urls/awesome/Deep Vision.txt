@@ -1,5 +1,6 @@
+https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/,[Website],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf,[Paper-CVPR],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://arxiv.org/pdf/1412.1123,[Paper],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: RemoteDisconnected('Remote end closed connection without response') | reason: 
-https://arxiv.org/pdf/1606.01847,Paper,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://arxiv.org/pdf/1512.03385v1.pdf,Paper,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf,Paper,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
 http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf,[Paper],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/,[Dataset],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

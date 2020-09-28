@@ -2,7 +2,4 @@ https://kf-sass.com,Kf,https://github.com/Famolus/awesome-sass#readme,Sass error
 https://bkzl.github.io/hocus-pocus/,Hocus-Pocus,https://github.com/Famolus/awesome-sass#readme,Sass error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://csstyle.io,csstyle,https://github.com/Famolus/awesome-sass#readme,Sass error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
 https://lucasgruwez.github.io/waffle-grid/,Waffle Grid,https://github.com/Famolus/awesome-sass#readme,Sass error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://include-media.com/,include-media,https://github.com/Famolus/awesome-sass#readme,Sass error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://colourgarden.net/avalanche,Avalanche,https://github.com/Famolus/awesome-sass#readme,Sass error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://anotheruiguy.gitbooks.io/sass-in-the-real-world-book-2-of-4/content/,Sass in the Real World: Book II of IV,https://github.com/Famolus/awesome-sass#readme,Sass error: timeout('The read operation timed out') | reason: 
-https://www.sitepoint.com/sass-reference/,SitePoint Sass and SCSS Reference,https://github.com/Famolus/awesome-sass#readme,Sass error: <HTTPError 404: 'Not Found'> | reason: Not Found

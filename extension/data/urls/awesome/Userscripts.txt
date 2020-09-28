@@ -1,40 +1,40 @@
 http://makeapullrequest.com,,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://openuserjs.org/scripts/tumpio/Endless_Google,Endless Google,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-http://www.greasespot.net/,Greasemonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://www.reddit.com/r/userscripts/,r/userscripts on Reddit,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/390656-youtube-link-title,YouTube Link Title,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/790-show-and-reload-broken-images,Show and reload broken images,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+http://www.greasespot.net/,Greasemonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/3187-google-images-direct-link,Google Images direct link,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://addons.mozilla.org/firefox/addon/firemonkey/,Firemonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/32-show-password-onmouseover,Show Password onMouseOver,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/9932-youtube,YouTube Plus,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://tampermonkey.net/,Tampermonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://www.reddit.com/r/userscripts/,r/userscripts on Reddit,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://addons.mozilla.org/firefox/addon/firemonkey/,Firemonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/5359-url-shortener-unshortener,URL Shortener Unshortener,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks,Greasemonkey Hacks,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://tampermonkey.net/,Tampermonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 http://reek.github.io/anti-adblock-killer/,Anti-Adblock Killer,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://addons.mozilla.org/firefox/addon/userunified-script-injector/,USI,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-http://hayageek.com/greasemonkey-tutorial/,Greasemonkey Tutorial for Beginners,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/36662-image-max-url,Image Max URL,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://www.youtube.com/watch?v=hAeWOOJPp0o,Video - GreaseMonkey Userscript Development,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://violentmonkey.github.io/,Violentmonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks,Greasemonkey Hacks,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+http://hayageek.com/greasemonkey-tutorial/,Greasemonkey Tutorial for Beginners,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/4294-antiadware,AntiAdware,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-http://userscripts-mirror.org/,UserScripts Mirror,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://adguard.com/,Adguard,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://adsbypasser.github.io/,AdsBypasser,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/404-mouseover-popup-image-viewer,Mouseover Popup Image Viewer,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://openuserjs.org/scripts/nokeya/Direct_links_out,Direct links out,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://greasyfork.org/,Greasy Fork,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://greasyfork.org/scripts/18787-github-monospace-font-toggle,GitHub monospace font toggle,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://www.youtube.com/watch?v=hAeWOOJPp0o,Video - GreaseMonkey Userscript Development,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://adsbypasser.github.io/,AdsBypasser,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://addons.mozilla.org/firefox/addon/userunified-script-injector/,USI,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+http://userscripts-mirror.org/,UserScripts Mirror,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://violentmonkey.github.io/,Violentmonkey,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://adguard.com/,Adguard,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/394820-mouseover-popup-image-viewer,Mouseover Popup Image Viewer (updated fork),https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/18787-github-monospace-font-toggle,GitHub monospace font toggle,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/,Greasy Fork,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://openuserjs.org/scripts/nokeya/Direct_links_out,Direct links out,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://openuserjs.org/,OpenUserJS,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://greasyfork.org/scripts/4255-linkify-plus-plus,Linkify Plus Plus,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://stackoverflow.com/questions/tagged/userscripts,Stack Overflow,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://greasyfork.org/scripts/18788-github-diff-file-toggle,GitHub Diff File Toggle,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/24204-picviewer-ce,Picviewer CE+,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/18788-github-diff-file-toggle,GitHub Diff File Toggle,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/4255-linkify-plus-plus,Linkify Plus Plus,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 http://webchat.freenode.net/?channels=greasemonkey,#greasemonkey on Freenode,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera,Select text inside a link like Opera,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
-https://greasyfork.org/scripts/18789-github-toggle-code-wrap,GitHub Toggle Code Wrap,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/1523-remove-google-click-tracking,Remove Google Click Tracking,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/18789-github-toggle-code-wrap,GitHub Toggle Code Wrap,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera,Select text inside a link like Opera,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/22737-remove-yandex-redirect,Remove Yandex Redirect,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/22194,GitHub Make Tooltips,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts
 https://greasyfork.org/scripts/37902-iridium,Iridium,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts

@@ -1,112 +1,118 @@
-https://www.youtube.com/watch?v=oKg1hTOQXoY,The Computer Revolution hasn't happend yet,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=ecIWPzGEbFc,The Future of Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=2V1FtfBDsLU,Effective Programs - 10 Years of Clojure,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 https://www.youtube.com/watch?v=vK1DazRK_a0,Solving Problems The Clojure Way,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/playlist?list=PL7664379246A246CB,Crockford on JavaScript,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/85490944,Spotify Engineering Culture - Part 1,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=Z8KcCU-p8QA,Stop Treading Water - Learning to Learn,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/43598193,Crafting Wicked Domain Models,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/97537026,TDD in Tatters,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/71278954,The Future of Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=WpkDN78P884,Architecture the Lost Years,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/111122950,Life is Terrible: Let's Talk About the Web,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=9KKMnoTTHJk,The Web We Lost,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/36579366,Inventing on Principle,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/94950270,Spotify Engineering Culture - Part 2,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/78893726,Go To There and Back Again,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=_ahvzDzKdB0,Growing a Language,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/post-functional-scala-clojure-haskell,Living in a Post-Functional World,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=HhwElTL-mdI,Test-Driven Development - Write better code in less time,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=PkOBnYxqj3k,Critical rendering path - Crash course on web performance,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=bo36MrBfTk4,The Better Parts,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=pNhBQJN44YQ,Extreme Cleverness: Functional Data Structures in Scala,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw,The Mess We're In,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.youtube.com/watch?v=aAb7hSCtvGw,How To Design A Good API and Why it Matters,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/145917204,How To Stop Hating Your Tests,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=ji5_MqicxSo,The Last Lecture: Achieving Your Childhood Dreams,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=4Sso4HtvJsw,To the Moon!,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://worrydream.com/MediaForThinkingTheUnthinkable/,Media for Thinking the Unthinkable,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=faJ8N0giqzw,Tangible Functional Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/12529436,10 Things I Learned from the jQuery Source,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=eBU34NZhW7I,DOOM’s Development: A Year of Madness,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/model-to-work-evans,DDD: putting the model to work,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=R9FOchgTtLM,Why You Don't Get Mock Objects,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=UF8uR6Z6KLc,Steve Jobs' 2005 Stanford Commencement Address,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin,Functional Programming Design Patterns,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=ByNs9TG30E8,Om Next,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=wEhu57pih5w,The Clean Code Talks - Unit Testing,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.destroyallsoftware.com/talks/wat,WAT,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=f84n5oFoZBc,Hammock Driven Development,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/19428577,Unleash Your Domain,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/68320415,Adopting Continuous Delivery,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=Cym4TZwTCNU,Deconstructing the Database,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/181409251,5 WTFs in 6 LOCs,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=u6XAPnuFjJc,Drive - The Surprising Truth About What Motivates Us,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/108441214,The Art of Destroying Software,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/97507575,Domain modelling with the F# type system,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript,The Birth & Death of JavaScript,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=ajGX7odA87k,Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/reimagining-software,Finding a Way Out,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.thoughtworks.com/talks/the-death-of-agile,The Death of Agile,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=h1g1YyVO6j8,Simplify Challenging Software Problems with Rocket Science,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=gsffg5xxFQI,ClojureScript for Skeptics,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=s1Y454DTRtg,Acceptance Testing For Continuous Delivery,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.youtube.com/watch?v=m3svKOdZijA,Hey Underscore, You're Doing It Wrong!,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=AUYPnxv0yss,Programming is terrible - Lessons learned from a life wasted,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.destroyallsoftware.com/talks/ideology,Ideology,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=ty3p5VDcoOI,TDD and Software Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=Pb5oIIPO62g,A Lecture on Creativity,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=23Yxji-tEfc,Community.js,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=BdSiBlLafNY,Why Agile Works,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=9IPn5Gk_OiM,A short history of Software Engineering, and other ideas that didn't work,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=HaJ1hvon0E0,Bitcoin: Where the Laws of Mathematics Prevail,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=17rkSdkc5TI,An End to Negativity,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/95066828,Computers are a Sadness, I am the Cure,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=zzcCWEb-tyk,The Meaning of Life,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/68375232,TDD, where did it all go wrong,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=oKg1hTOQXoY,The Computer Revolution hasn't happend yet,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=2V1FtfBDsLU,Effective Programs - 10 Years of Clojure,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 https://www.youtube.com/watch?v=C5fa1LZYodQ,Is Node.js Better,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller,The Joys and Pains of a Long Lived Codebase,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=idLyobOhtO4,Linus Torvalds on Git,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/79866978,Implementing Programmer Anarchy,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/80533536,Integrated Tests Are a Scam,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/97415346,Becoming an Outlier: Career Reboot for the Developer Mind,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=RhdlBHHimeM,Real Software Engineering,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=2y5Pv4yN0b0,Stewardship: The Sobering Parts,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=AecPrwqjbGw,Delivering Liberty, at Scale,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/289852238,Structure and Interpretation of Test Cases,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=oiFYPAel-KY,Functional is cool, but do you know OO,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=J4dlF0kcThQ,Therapeutic Refactoring,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=9zc4DSTRGeM,Surviving the Framework Hype Cycle,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.infoq.com/presentations/category-theory-propositions-principle,Category Theory for the Working Hacker,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=hG4LH6P8Syk,The Land that Scrum Forgot,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/68390508,Holistic testing,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey,Are We There Yet?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=XPSZC3mJRO0,The Lost Art Of Software Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 https://www.youtube.com/watch?v=p0O1VVqRSK0,Demanding Professionalism in Software Development,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=uEFrE6cgVNY,Evidence-Oriented Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=XTl7Jn_kmio,Types are like the Weather, Type Systems are like Weathermen,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/strategic-design-evans,Strategic Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=mDZ-QSLQIB8,The Programming Language Wars,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=US8QG9I1XW0,Functional architecture - The pits of success,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.destroyallsoftware.com/talks/boundaries,Boundaries,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=TlU1opuCXB0,Hopelessness and Confidence in Distributed Systems Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/6222577,Reliability, Availability, and Scalability,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/worst-programming-language,The Worst Programming Language Ever,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.infoq.com/presentations/scalability-variant-structuring,Moving Past the Scaling Myth,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=-UKEPd2ipEk,Kill "Microservices" before its too late,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=cHoYNStQOEc,Unconventional Programming with Chemical Computing,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://pyvideo.org/video/880/stop-writing-classes,Stop Writing Classes,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://martinfowler.com/articles/is-tdd-dead/,Is TDD Dead?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.infoq.com/presentations/Simple-Made-Easy,Simple Made Easy,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=doZ0XAc9Wtc,To Clojure and back: Writing and rewriting in Ruby,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://vimeo.com/79866979,Implementing Micro Service Architectures,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://www.youtube.com/watch?v=pMGY9ViIGNU,Functional Principles for Object-Oriented Developers,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f,A Brief History of Graphics,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=B93QezwTQpI,The Transformation Priority Premise,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=epT1xgxSpFU,All I needed for FP I learned in High School Algebra,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.youtube.com/watch?v=xY45YE7ggng,The Charming Genius of the Apollo Guidance Computer,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-http://vimeo.com/52831373,Immutability Changes Everything,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=9zc4DSTRGeM,Surviving the Framework Hype Cycle,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 https://www.youtube.com/watch?v=OdI7Ukf-Bf4,The History (and the Future) of Software,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=B93QezwTQpI,The Transformation Priority Premise,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/97329157,Seven Ineffective Coding Habits of Many Programmers,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/43598193,Crafting Wicked Domain Models,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=WpkDN78P884,Architecture the Lost Years,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=9KKMnoTTHJk,The Web We Lost,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/playlist?list=PL7664379246A246CB,Crockford on JavaScript,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=Z8KcCU-p8QA,Stop Treading Water - Learning to Learn,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=ecIWPzGEbFc,The Future of Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/85490944,Spotify Engineering Culture - Part 1,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/71278954,The Future of Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/97537026,TDD in Tatters,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=_ahvzDzKdB0,Growing a Language,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=ji5_MqicxSo,The Last Lecture: Achieving Your Childhood Dreams,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/181409251,5 WTFs in 6 LOCs,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=KjgvffBlWAg,1968,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/111122950,Life is Terrible: Let's Talk About the Web,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=HhwElTL-mdI,Test-Driven Development - Write better code in less time,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw,The Mess We're In,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=UF8uR6Z6KLc,Steve Jobs' 2005 Stanford Commencement Address,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=uO3a4HIBDU4,Programming is Writing is Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=PkOBnYxqj3k,Critical rendering path - Crash course on web performance,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=eBU34NZhW7I,DOOM’s Development: A Year of Madness,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/36579366,Inventing on Principle,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/78893726,Go To There and Back Again,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/post-functional-scala-clojure-haskell,Living in a Post-Functional World,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask,The Actor Model,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/94950270,Spotify Engineering Culture - Part 2,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=4Sso4HtvJsw,To the Moon!,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=f84n5oFoZBc,Hammock Driven Development,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=RhdlBHHimeM,Real Software Engineering,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=Cym4TZwTCNU,Deconstructing the Database,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=bo36MrBfTk4,The Better Parts,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/145917204,How To Stop Hating Your Tests,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://worrydream.com/MediaForThinkingTheUnthinkable/,Media for Thinking the Unthinkable,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=pNhBQJN44YQ,Extreme Cleverness: Functional Data Structures in Scala,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/model-to-work-evans,DDD: putting the model to work,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/12529436,10 Things I Learned from the jQuery Source,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=h1g1YyVO6j8,Simplify Challenging Software Problems with Rocket Science,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=u6XAPnuFjJc,Drive - The Surprising Truth About What Motivates Us,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=oiFYPAel-KY,Functional is cool, but do you know OO,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=ajGX7odA87k,Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.youtube.com/watch?v=aAb7hSCtvGw,How To Design A Good API and Why it Matters,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=R9FOchgTtLM,Why You Don't Get Mock Objects,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=faJ8N0giqzw,Tangible Functional Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=ByNs9TG30E8,Om Next,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=9IPn5Gk_OiM,A short history of Software Engineering, and other ideas that didn't work,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/68320415,Adopting Continuous Delivery,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/19428577,Unleash Your Domain,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=idLyobOhtO4,Linus Torvalds on Git,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=s1Y454DTRtg,Acceptance Testing For Continuous Delivery,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=wEhu57pih5w,The Clean Code Talks - Unit Testing,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin,Functional Programming Design Patterns,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.destroyallsoftware.com/talks/ideology,Ideology,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=Pb5oIIPO62g,A Lecture on Creativity,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/108441214,The Art of Destroying Software,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/reimagining-software,Finding a Way Out,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=ty3p5VDcoOI,TDD and Software Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=gsffg5xxFQI,ClojureScript for Skeptics,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://pyvideo.org/video/880/stop-writing-classes,Stop Writing Classes,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=HaJ1hvon0E0,Bitcoin: Where the Laws of Mathematics Prevail,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=zzcCWEb-tyk,The Meaning of Life,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=AUYPnxv0yss,Programming is terrible - Lessons learned from a life wasted,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.thoughtworks.com/talks/the-death-of-agile,The Death of Agile,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/80533536,Integrated Tests Are a Scam,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.destroyallsoftware.com/talks/wat,WAT,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=AecPrwqjbGw,Delivering Liberty, at Scale,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/97507575,Domain modelling with the F# type system,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller,The Joys and Pains of a Long Lived Codebase,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.youtube.com/watch?v=pMGY9ViIGNU,Functional Principles for Object-Oriented Developers,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=BdSiBlLafNY,Why Agile Works,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/97415346,Becoming an Outlier: Career Reboot for the Developer Mind,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/68375232,TDD, where did it all go wrong,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/95066828,Computers are a Sadness, I am the Cure,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=2y5Pv4yN0b0,Stewardship: The Sobering Parts,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/289852238,Structure and Interpretation of Test Cases,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript,The Birth & Death of JavaScript,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/worst-programming-language,The Worst Programming Language Ever,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 https://vimeo.com/45140590,Adventures in Functional Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
-https://www.infoq.com/presentations/Value-Values,The Value of Values,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/79866978,Implementing Programmer Anarchy,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=J4dlF0kcThQ,Therapeutic Refactoring,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=hG4LH6P8Syk,The Land that Scrum Forgot,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=cHoYNStQOEc,Unconventional Programming with Chemical Computing,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=uEFrE6cgVNY,Evidence-Oriented Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.youtube.com/watch?v=m3svKOdZijA,Hey Underscore, You're Doing It Wrong!,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/68390508,Holistic testing,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 https://vimeo.com/97514630,Functional Programming: What? Why? When?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=mDZ-QSLQIB8,The Programming Language Wars,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=23Yxji-tEfc,Community.js,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.infoq.com/presentations/8-lines-code-refactoring,8 Lines of Code,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=TlU1opuCXB0,Hopelessness and Confidence in Distributed Systems Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=17rkSdkc5TI,An End to Negativity,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.destroyallsoftware.com/talks/boundaries,Boundaries,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=-UKEPd2ipEk,Kill "Microservices" Before Its Too Late,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey,Are We There Yet?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.infoq.com/presentations/category-theory-propositions-principle,Category Theory for the Working Hacker,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://martinfowler.com/articles/is-tdd-dead/,Is TDD Dead?,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=XTl7Jn_kmio,Types are like the Weather, Type Systems are like Weathermen,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=US8QG9I1XW0,Functional architecture - The pits of success,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.infoq.com/presentations/scalability-variant-structuring,Moving Past the Scaling Myth,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=doZ0XAc9Wtc,To Clojure and back: Writing and rewriting in Ruby,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
 http://www.infoq.com/presentations/functional-pros-cons,Deconstructing Functional Programming,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f,A Brief History of Graphics,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=epT1xgxSpFU,All I needed for FP I learned in High School Algebra,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/strategic-design-evans,Strategic Design,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.youtube.com/watch?v=xY45YE7ggng,The Charming Genius of the Apollo Guidance Computer,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://www.infoq.com/presentations/Simple-Made-Easy,Simple Made Easy,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/6222577,Reliability, Availability, and Scalability,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://vimeo.com/79866979,Implementing Micro Service Architectures,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+http://vimeo.com/52831373,Immutability Changes Everything,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks
+https://www.infoq.com/presentations/Value-Values,The Value of Values,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks

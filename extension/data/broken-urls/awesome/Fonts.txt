@@ -1,0 +1,4 @@
+https://aftertheflood.co/projects/sparks/,AtF Spark,https://github.com/brabadu/awesome-fonts#readme,Fonts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://paymentfont.com/,PaymentFont,https://github.com/brabadu/awesome-fonts#readme,Fonts error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://dank.sh/,Dank Mono,https://github.com/brabadu/awesome-fonts#readme,Fonts error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://pagecdn.com/lib/easyfonts,Easy Fonts,https://github.com/brabadu/awesome-fonts#readme,Fonts error: timeout('The read operation timed out') | reason: 

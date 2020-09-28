@@ -1,0 +1,28 @@
+https://webchat.freenode.net/?channels=pyramid,,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html,New Architecture,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://websauna.org/docs/,Websauna,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://pyjwt.readthedocs.io/en/latest/,PyJWT,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://yosaiproject.github.io/yosai/,https://yosaiproject.github.io/yosai/,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://techspot.zzzeek.org/2012/04/19/using-beaker-for-caching-why-you-ll-want-to-switch-to-dogpile.cache/,Why You'll Want to Switch to
+dogpile.cache,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://pynacl.readthedocs.io/en/latest/secret/,PyNaCl,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/,What the Zope Transaction Manager Means To Me (and
+you),https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://python-rq.org,RQ,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://www.ringo-framework.org/,Ringo,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://karlproject.readthedocs.io/en/latest/,KARL,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://docs.pylonsproject.org/projects/akhet/en/latest/,Akhet,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://khufuproject.github.io/,Khufu Project,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://getappenlight.com/,AppEnlight,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://www.oreilly.com/web-platform/free/python-web-frameworks.csp,Python Web Frameworks,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://2018.ploneconf.org/sprints,Sushi Sprint at PloneConf 2018 in Tokyo, Japan,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://pyconweb.com/talks/28-05-2017/pyramid-workshop,Pyramid Workshop in Munich, Germany.,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://2017.ploneconf.org/,PloneConf 2017,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://2016.ploneconf.org/,PloneConf 2016,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://dragonsprint.com/,DragonSprint 2016,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html,List of videos from the official site,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://training.talkpython.fm/courses/all,Online Video Courses at Talk Python Training,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+http://shop.oreilly.com/product/0636920041900.do,Web Applications with Python and the Pyramid
+Framework,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://trypyramid.com/community-powered-by-pyramid.html,Projects, Websites, Companies and Organizations that use
+Pyramid,https://github.com/uralbash/awesome-pyramid#readme,Pyramid

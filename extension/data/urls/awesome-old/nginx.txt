@@ -1,0 +1,76 @@
+https://www.cambus.net,Frederic Cambus,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/nginx-1-6-1-7-released/,Understanding Nginx versioning,https://github.com/fcambus/nginx-resources#readme,nginx
+https://web.archive.org/web/20180614224054/http://mindend.com/interview-with-the-creator-of-nginx/,Interview with the creator of Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+http://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/,Interview with Igor Sysoev, author of Apache's competitor NGINX,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/,The case for Nginx in front of application servers,https://github.com/fcambus/nginx-resources#readme,nginx
+https://thoughts.t37.net/nginx-optimization-understanding-sendfile-tcp-nodelay-and-tcp-nopush-c55cdd276765,Nginx Optimization: understanding sendfile, tcp_nodelay and tcp_nopush,https://github.com/fcambus/nginx-resources#readme,nginx
+https://aosabook.org/en/nginx.html,The Architecture of Open Source Applications (Volume 2): nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+http://www.nginxguts.com/category/nginx/,Nginx Guts - Shedding light on Nginx internals,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx-discovery.com/,Nginx discovery journey,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.slideshare.net/joshzhu/nginx-internals,Nginx Internals,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/,Inside NGINX: How We Designed for Performance & Scale,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/thread-pools-boost-performance-9x/,Thread Pools in NGINX,https://github.com/fcambus/nginx-resources#readme,nginx
+https://nginx.org/en/docs/beginners_guide.html,Beginner's Guide,https://github.com/fcambus/nginx-resources#readme,nginx
+https://nginx.org/en/docs/varindex.html,Alphabetical index of variables,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/,Nginx Pitfalls,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.engineyard.com/useful-rewrites-for-nginx,Useful Rewrites for Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.martinfjordvald.com/nginx-primer/,Nginx Configuration Primer,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.martinfjordvald.com/nginx-primer-2-from-apache-to-nginx/,Nginx Primer 2: From Apache to Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.martinfjordvald.com/understanding-the-nginx-configuration-inheritance-model/,Understanding the Nginx Configuration Inheritance Model,https://github.com/fcambus/nginx-resources#readme,nginx
+https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx,How to Configure OCSP Stapling in Apache and Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.digitalocean.com/community/tools/nginx,NGINX Config - Online nginx configuration generator,https://github.com/fcambus/nginx-resources#readme,nginx
+https://docs.nginx.com/nginx/admin-guide/,NGINX and NGINX Plus Admin Guide,https://github.com/fcambus/nginx-resources#readme,nginx
+https://openresty.org/download/agentzh-nginx-tutorials-en.html,agentzh's Nginx Tutorials,https://github.com/fcambus/nginx-resources#readme,nginx
+https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html,Introduction to nginx.conf scripting,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/load-balancing-with-nginx-plus/,Load Balancing with NGINX and NGINX Plus,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/load-balancing-with-nginx-plus-part-2/,Part 2,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.martinfjordvald.com/optimizing-nginx-for-high-traffic-loads/,Optimizing Nginx for High Traffic Loads,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/websocket-nginx/,NGINX as a WebSockets Proxy,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/http-keepalives-and-web-performance/,HTTP Keepalive Connections and Web Performance,https://github.com/fcambus/nginx-resources#readme,nginx
+https://enable-cors.org/server_nginx.html,CORS on Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/,Serving precompressed content with Nginx and Zopfli,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.cambus.net/nginx-on-freebsd/,Nginx on FreeBSD,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/,Using New Debugging Features to Probe NGINX Internals,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/,Performing A/B Testing with NGINX and NGINX Plus,https://github.com/fcambus/nginx-resources#readme,nginx
+https://nginx.org/en/docs/dev/development_guide.html,Official Development Guide,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.evanmiller.org/nginx-modules-guide.html,Guide to Nginx Module Development,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.evanmiller.org/nginx-modules-guide-advanced.html,Advanced Topics In Nginx Module Development,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.airpair.com/nginx/extending-nginx-tutorial,Developing Nginx Modules,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.telize.com,Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+http://gin.io/,GIN - JSON-API framework,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.monterail.com/blog/2011/outbound-api-rate-limits-the-nginx-way,Outbound API rate limits: the nginx way,https://github.com/fcambus/nginx-resources#readme,nginx
+https://vitobotta.com/2014/01/12/nginx-rate-limits/,Using Nginx to comply with a third-party API's rate limits,https://github.com/fcambus/nginx-resources#readme,nginx
+http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html,Simple API with Nginx and PostgreSQL,https://github.com/fcambus/nginx-resources#readme,nginx
+https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html,Nginx JSON hacks,https://github.com/fcambus/nginx-resources#readme,nginx
+https://web.archive.org/web/20170712003702/https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html,Using Environment Variables In Nginx.conf,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/,Log rotation directly within Nginx configuration file,https://github.com/fcambus/nginx-resources#readme,nginx
+https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html,Realtime pixel tracking with Nginx, syslog-ng, and Redis,https://github.com/fcambus/nginx-resources#readme,nginx
+https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html,Dynamic log formats in Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+https://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/,Nginx: a caching, thumbnailing, reverse proxying image server?,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.slideshare.net/sarahnovotny/5-things-you-didnt-know-nginx-could-do,Things you didn't know Nginx could do,https://github.com/fcambus/nginx-resources#readme,nginx
+https://mjanja.ch/2015/03/finding-the-nginx-gzip_comp_level-sweet-spot/,Finding the nginx gzip_comp_level sweet spot,https://github.com/fcambus/nginx-resources#readme,nginx
+https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf,Nginx, Lua, and beyond,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/,Pushing Nginx to its limit with Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it,Augmenting APIs with Nginx and Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/,Adding OAuth Support to Nginx via Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf,Scripting libdrizzle with Lua inside Nginx,https://github.com/fcambus/nginx-resources#readme,nginx
+https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/,Nginx and Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/,Writing an Nginx authentication module in Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html,Scaling TextRazor in the Cloud with Nginx and Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/,Measuring Nginx Cache Performance using Lua and Redis,https://github.com/fcambus/nginx-resources#readme,nginx
+https://leafo.net/lapis/,Lapis - A web framework for Lua or MoonScript powered by OpenResty,https://github.com/fcambus/nginx-resources#readme,nginx
+https://leafo.net/posts/creating_an_image_server.html,Nginx image processing server with OpenResty and Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html,SysAdvent 2014 - OpenResty, Nginx and Lua,https://github.com/fcambus/nginx-resources#readme,nginx
+https://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/,OpenResty (Nginx) with dynamically generated certificates,https://github.com/fcambus/nginx-resources#readme,nginx
+https://ide.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx,Ceryx - A dynamic reverse proxy,https://github.com/fcambus/nginx-resources#readme,nginx
+https://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/,An Introduction To OpenResty,https://github.com/fcambus/nginx-resources#readme,nginx
+https://openresty.gitbooks.io/programming-openresty/content/,Programming OpenResty (written by the OpenResty creator),https://github.com/fcambus/nginx-resources#readme,nginx
+https://tengine.taobao.org,Tengine Web Server,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXflDvBv642YFqT0UTqQGFsH,NGINX Conference 2019 Videos,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXe_Vc708VKvr5KJ4gnf1WxS,NGINX Conference 2018 Videos,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXeT-z_rcZ9yF0kV5SENZ-yt,NGINX Conference 2017 Videos,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXcOsB_dT26iu0BvbSxWYG1g,NGINX Conference 2016 Videos,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn,NGINX Conference 2015 Videos,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k,NGINX Conference 2014 Videos,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.nginx.com/nginxconf/,NGINX Conference,https://github.com/fcambus/nginx-resources#readme,nginx
+https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8,NGINX User Summit 2014 - Lightning talks,https://github.com/fcambus/nginx-resources#readme,nginx

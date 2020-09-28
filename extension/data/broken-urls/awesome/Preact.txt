@@ -1,1 +1,3 @@
+https://preact-slack.now.sh,Slack,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://use-the-platform.com/periodic-weather/,Periodic Weather,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+http://nbrugby.com,Rugby News Board,https://github.com/preactjs/awesome-preact#readme,Preact error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

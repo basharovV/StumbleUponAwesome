@@ -1,3 +1,5 @@
 http://jnettop.kubs.info/wiki/,Jnettop,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif,Screenshot,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107,paper on clj-net-pcap,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://bitbucket.org/nathanj/ecap/wiki,ECap,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://jnetpcap.com,jNetPcap,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://code.google.com/p/socket-sentry,Socket Sentry,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: timeout('timed out') | reason: 

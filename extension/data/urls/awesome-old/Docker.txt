@@ -1,0 +1,141 @@
+https://app.netlify.com/sites/awesome-docker/deploys,,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github,contribute on Github,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.docker.com/why-docker,What is Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://semaphoreci.com/blog/docker-benefits,Benefits of using Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=xsjSadjKXns,Docker for novices,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://training.mirantis.com,Docker Training,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2,Docker Tutorial for Beginners (Updated 2019 version),https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.katacoda.com/courses/docker,Katacoda,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://training.play-with-docker.com/,Play With Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/,Practical Introduction to Container Terminology,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.freecodecamp.org/news/the-docker-handbook/,The Docker Handbook,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/,A Comparative Study of Docker Engine on Windows Server vs Linux Platform,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.docker.com/blog/build-your-first-docker-windows-server-container/,Build And Run Your First Docker Windows Server Container,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/,Docker on Windows behind a firewall,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://vegibit.com/docker-quick-tutorial/,Docker Quick Tutorial,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://success.mirantis.com/article/modernizing-traditional-dot-net-applications,Docker Reference Architecture: Modernizing Traditional .NET Framework Applications,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.alexellis.io/docker-does-sql2016-aspnet/,Docker with Microsoft SQL 2016 + ASP.NET,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.hanselman.com/blog/ExploringASPNETCoreWithDockerInBothLinuxAndWindowsContainers.aspx,Exploring ASP.NET Core with Docker in both Linux and Windows Containers,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.docker.com/docker-for-windows/,Docker for Windows,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/,Running a Legacy ASP.NET App in a Windows Container,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=N7SG2wEyQtM,Windows Containers and Docker: The 101,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/,Windows Containers Quick Start,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/blackfish/blackfish,blackfish,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/blackfish/,@blackfish,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/n0r1sk/bosnd,BosnD,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://brooklyn.apache.org/,Brooklyn,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/n0r1sk/dockproc,DockProc,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.dynatrace.com/technologies/docker-monitoring/,Dynatrace,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://grafana.com/grafana/dashboards/179,Grafana Docker Dashboard Template,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.okd.io,OpenShift,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.redhat.com/en,Red Hat,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.aquasec.com,Aqua Security,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://phonito.io/?b=b,Phonito Security,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.paloaltonetworks.com/prisma/cloud,Prisma Cloud,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://sysdig.com/products/kubernetes-security/runtime-security/,Sysdig Secure,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html,Trend Micro DeepSecurity,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://portworx.com,portworx,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.quobyte.com/,quobyte,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://getcaptain.co/,Captain,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://docker-stacks.com/,DockerStacks,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar,sidecar,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://microbadger.com,MicroBadger,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.packer.io/docs/builders/docker,packer,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://pythonspeed.com/products/pythoncontainer/,Production-Ready Python Containers 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://jrruethe.github.io/blog/2015/09/20/dockerfile-generator/,Dockerfile Generator,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://dockerfile.github.io/,Dockerfile Project,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/pandrew/dockerfiles,@pandrew,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://aws.amazon.com/ecr/,Amazon EC2 Container Registry 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://azure.microsoft.com/en-us/services/container-registry/,Azure Container Registry 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://cloudsmith.com/docker-registry/,Cloudsmith 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://cycle.io/,Cycle.io 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.dist.cloud/product/container-registry/,Dist 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://cloud.google.com/container-registry/,GCE Container Registry 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.gitlab.com/ce/user/project/container_registry.html,GitLab Container Registry,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://jfrog.com/artifactory/,JFrog Artifactory 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://private-docker-registry.com,Private Docker Registry 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.sonatype.com/nexus-repository-oss,Sonatype Nexus,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/masaeedu/docker-client,Docker Client TypeScript,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://buddy.works,Buddy 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/gitlab-org/gitlab-runner,GitLab Runner,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://screwdriver.cd/,Screwdriver 💲,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://thinktandem.io/,Tandem,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.deluan.com,Deluan,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.ansible.com/ansible/latest/modules/docker_container_module.html,Ansible,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.vagrantup.com/docs/providers/docker/basics.html,Vagrant - Docker provider,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://cms.codeship.com/features/pro,CodeShip,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://aws.amazon.com/ecs/,Amazon ECS,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://arukas.io/,Arukas,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.cloud66.com,Cloud 66,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://dockhero.io/,Dockhero,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.giantswarm.io/,Giant Swarm,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://cloud.google.com/kubernetes-engine/docs/,Google Container Engine,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://jelastic.cloud/,Jelastic Cloud,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://d2iq.com/products/dcos,Mesosphere DC/OS Platform,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://d2iq.com,@mesosphere,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.openshift.com/products/dedicated/,OpenShift Dedicated,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://sloppy.io/en/,Sloppy.io,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.joyent.com/,Triton,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/,AppDynamics,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/,Axibase Time-Series Database,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.broadcom.com/info/aiops/docker-monitoring,Broadcom Docker Monitoring,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.splunk.com/en_us/blog/cloud/collecting-docker-logs-and-stats-with-splunk.html,Collecting docker logs and stats with Splunk,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.site24x7.com/docker-monitoring.html,Site24x7,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://sysdig.com/products/monitor/,Sysdig Monitor,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/,Valuable Docker Links,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.docker.com/blog/docker-weekly-archives/,Docker Weekly,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://hackr.io/tutorials/learn-docker,Programming Community Curated Resources for learning Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.manning.com/books/docker-in-action-second-edition,Docker in Action, Second Edition,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://hashnode.com/n/docker,Docker Community on Hashnode,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.manning.com/books/docker-in-practice-second-edition,Docker in Practice, Second Edition,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.bookmarks.dev/search?q=docker,Docker dev bookmarks,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.bookmarks.dev/tagged/docker,docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://pythonspeed.com/docker/,Docker packaging guide for Python,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.manning.com/books/learn-docker-in-a-month-of-lunches,Learn Docker in a Month of Lunches,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development,An Annotated Docker Config for Frontend Web Development,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://brunorocha.org/python/dealing-with-linked-containers-dependency-in-docker-compose.html,Dealing with linked containers dependency in docker-compose,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://docker-saigon.github.io/post/Docker-Caveats/,Docker Caveats,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.jessfraz.com/post/docker-containers-on-the-desktop/,Docker Containers on the Desktop,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=1qlLUf7KtAw,presentation,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.flexera.com/blog/cloud/docker-vs-vms-combining-both-for-cloud-portability-nirvana/,Docker vs. VMs? Combining Both for Cloud Portability Nirvana,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd,Don't Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/,GUI Apps with Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.hypriot.com/,Docker Pirates ARMed with explosive stuff,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.balena.io,git push docker containers to linux devices,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://opensource.com/business/14/9/security-for-docker,Bringing new security features to Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.projectatomic.io/docs/docker-and-selinux/,Docker and SELinux,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://fr.slideshare.net/MichaelBoelen/docker-security-are-your-containers-tightly-secured-to-the-ship,Docker Security: Are Your Containers Tightly Secured to the Ship? SlideShare,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://linux-audit.com/tag/docker/,Security Best Practices for Building Docker Images,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/,Software Engineering Radio interview of Docker Security Team Lead (Diogo Mónica),https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://snyk.io/blog/10-docker-image-security-best-practices/,Ten Docker Image Security Best Practices Cheat Sheet,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/,Top ten most popular docker images each contain at least 30 vulnerabilities,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://opensource.com/business/15/3/docker-security-tuning,Tuning Docker with the newest security enhancements,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=1jwo8-1HYYg,Contributing to Docker by Andrew "Tianon" Page (InfoSiftr),https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=GpHMTR7P2Ms,Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=zWGFqMuEHdw,Docker and SELinux by Daniel Walsh from Red Hat,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=UZpyvK6UGFo,Docker Course,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=FdkNAjjO5yQ,Docker for Developers,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/playlist?list=PLLhEJK7fQIxD-btrjrqdEfQHbkZnQrmqE,Docker from scratch,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=Glk5d5WP6MI,Docker in Production,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/playlist?list=PLLhEJK7fQIxAY4gZd1Wl-GsLvg-e9Ap1e,Docker Swarm from scratch,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/playlist?list=PLLhEJK7fQIxAz3d4Fj3edq7UcxEhdTCBm,Docker Registry from scratch,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=CAewZCBT4PI,Docker: How to Use Your Own Private Registry,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://vimeo.com/110835013,Extending Docker with Plugins,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=7CZFpHUPqXw,From Local Docker Development to Production Deployments,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=GaHzdqFithc,Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt),https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=ZVaRK10HBjo,Introduction to Docker and containers,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://vimeo.com/123341629,Logging on Docker: What You Need to Know,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=6f2E6PKYb0w,Performance Analysis of Docker - Jeremy Eder,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615,Scalable Microservices with Kubernetes,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=IiITP3yIRd8,State of containers: a debate with CoreOS, VMware and Google,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://docker-br.herokuapp.com,Docker BR on Slack,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://telegram.me/dockerbr,Docker BR on Telegram,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://dockone.io/,DockerOne,https://github.com/veggiemonk/awesome-docker#readme,Docker
+http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0,@LiYingJie,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.docker.com/docker-community,Docker Community,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://events.docker.com,Docker Events,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.meetup.com/Docker-Online-Meetup/,Docker On Line Meetup,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.reddit.com/r/docker/,Docker Reddit Community,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://t.me/docker_ru,Docker Russian-speaking Community,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://dockertips.com/,Docker Tips,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://starchart.cc/veggiemonk/awesome-docker,,https://github.com/veggiemonk/awesome-docker#readme,Docker

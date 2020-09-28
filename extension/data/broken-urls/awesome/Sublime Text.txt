@@ -2,6 +2,3 @@ http://zhuravel.biz/setting-up-sublime-text-for-ruby-development,Setting up Subl
 https://sublime-text-unofficial-documentation.readthedocs.org,Unofficial Documentation,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://colorsublime.com,colorsublime.com,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pragprog.com/screencasts/v-mrst2/sublime-text-2,Sublime Text 2,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.packtpub.com/application-development/mastering-sublime-text,Mastering Sublime Text,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found

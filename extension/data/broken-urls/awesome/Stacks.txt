@@ -1,13 +1,12 @@
-https://awesomestacks.dev/rock-solid-modern-rails,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/self-hosted-devops-and-collaboration,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/unity-Game-Development-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/ethereum-d-app,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://docs.oracle.com/javase/specs/index.html,Java,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/gcp-kubernetes-stack,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/strapi-cms-with-gatsby,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/react-firebase-starter,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/vue-enterprise-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-https://awesomestacks.dev/serverless-stack-with-react-on-aws,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('The read operation timed out') | reason: 
-http://vemapp.moleculer.services/,Welcome to Vue-Express-Mongo BoilerPlate,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://stackshare.io/codecov,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/sentry,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/skylight,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/spring-boot,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/electron,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/amplitude,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/typescript,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/reduxjs,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/taiga,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://stackshare.io/new-relic,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+http://vemapp.moleculer.services/,Welcome to Vue-Express-Mongo BoilerPlate,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('timed out') | reason: 

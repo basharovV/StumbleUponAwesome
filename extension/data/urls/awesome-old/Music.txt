@@ -1,0 +1,39 @@
+http://ardour.org/,Ardour,https://github.com/ciconia/awesome-music#readme,Music
+http://www.softsynth.com/jsyn/,JSyn,https://github.com/ciconia/awesome-music#readme,Music
+http://www.portaudio.com/,PortAudio,https://github.com/ciconia/awesome-music#readme,Music
+http://lame.sourceforge.net/,Lame,https://github.com/ciconia/awesome-music#readme,Music
+https://musicbrainz.org,MusicBrainz,https://github.com/ciconia/awesome-music#readme,Music
+http://www.cpdl.org/,CPDL,https://github.com/ciconia/awesome-music#readme,Music
+http://imslp.org/,IMSLP,https://github.com/ciconia/awesome-music#readme,Music
+http://midifile.sapp.org/,Midifile,https://github.com/ciconia/awesome-music#readme,Music
+http://timidity.sourceforge.net/,Timidity,https://github.com/ciconia/awesome-music#readme,Music
+http://abjad.mbrsi.org/,Abjad,https://github.com/ciconia/awesome-music#readme,Music
+http://www.denemo.org/,Denemo,https://github.com/ciconia/awesome-music#readme,Music
+http://elbsound.studio/music_fonts.php,Jan Angermüller's music fonts page,https://github.com/ciconia/awesome-music#readme,Music
+http://guidolib.sourceforge.net/,Guido,https://github.com/ciconia/awesome-music#readme,Music
+https://www.hacklily.org,Hacklily,https://github.com/ciconia/awesome-music#readme,Music
+http://lilybin.com/,Lilybin,https://github.com/ciconia/awesome-music#readme,Music
+http://lilypond.org/,Lilypond,https://github.com/ciconia/awesome-music#readme,Music
+http://lsr.di.unimi.it/,Lilypond Snippet Repository,https://github.com/ciconia/awesome-music#readme,Music
+http://notat.io/,NOTATIO,https://github.com/ciconia/awesome-music#readme,Music
+https://pypi.python.org/pypi/python-ly,Python-ly,https://github.com/ciconia/awesome-music#readme,Music
+http://scorelib.sapp.org/,Scorelib,https://github.com/ciconia/awesome-music#readme,Music
+http://www.bachproject.net/,Bach: Automated Composer's Helper,https://github.com/ciconia/awesome-music#readme,Music
+http://commonmusic.sourceforge.net/,Common Music,https://github.com/ciconia/awesome-music#readme,Music
+http://csound.github.io/,Csound,https://github.com/ciconia/awesome-music#readme,Music
+http://faust.grame.fr/,Faust,https://github.com/ciconia/awesome-music#readme,Music
+http://inscore.sourceforge.net/,Inscore,https://github.com/ciconia/awesome-music#readme,Music
+http://web.mit.edu/music21/,music21,https://github.com/ciconia/awesome-music#readme,Music
+http://music-suite.github.io/docs/ref/,Music Suite,https://github.com/ciconia/awesome-music#readme,Music
+https://www.cs.cmu.edu/~music/nyquist/,Nyquist,https://github.com/ciconia/awesome-music#readme,Music
+http://repmus.ircam.fr/openmusic/home,OpenMusic,https://github.com/ciconia/awesome-music#readme,Music
+http://www.platonicmusicengine.com/,Platonic Music Engine,https://github.com/ciconia/awesome-music#readme,Music
+http://puredata.info/,Pure Data,https://github.com/ciconia/awesome-music#readme,Music
+http://tidal.lurk.org/,Tidal,https://github.com/ciconia/awesome-music#readme,Music
+https://www.artusi.xyz,Artusi,https://github.com/ciconia/awesome-music#readme,Music
+https://fourscoreandmore.org/,Four Score and More,https://github.com/ciconia/awesome-music#readme,Music
+https://www.musictheory.net,musictheory.net,https://github.com/ciconia/awesome-music#readme,Music
+http://openmusictheory.com/,OpenMusicTheory,https://github.com/ciconia/awesome-music#readme,Music
+http://music-encoding.org/,MEI (Music Encoding Initiative),https://github.com/ciconia/awesome-music#readme,Music
+http://www.musicxml.com/,MusicXML,https://github.com/ciconia/awesome-music#readme,Music
+http://www.smufl.org/,SMuFL (Standard Music Font Layout),https://github.com/ciconia/awesome-music#readme,Music

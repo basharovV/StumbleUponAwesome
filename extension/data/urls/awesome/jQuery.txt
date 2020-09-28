@@ -1,50 +1,54 @@
-https://bower.io/,Bower,https://github.com/petk/awesome-jquery#readme,jQuery
-https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/petk/awesome-jquery#readme,jQuery
+http://www.snoopcode.com/jquery/,Snoopcode,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.quora.com/jQuery,Quora,https://github.com/petk/awesome-jquery#readme,jQuery
-https://cheerio.js.org/,cheerio,https://github.com/petk/awesome-jquery#readme,jQuery
+https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/petk/awesome-jquery#readme,jQuery
+http://www.unheap.com/,jQuery Unheap,https://github.com/petk/awesome-jquery#readme,jQuery
+https://bower.io/,Bower,https://github.com/petk/awesome-jquery#readme,jQuery
 https://j11y.io/javascript/extending-jquerys-selector-capabilities/,Extending jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.smashingmagazine.com/category/jquery,Smashing Magazine,https://github.com/petk/awesome-jquery#readme,jQuery
-http://www.unheap.com/,jQuery Unheap,https://github.com/petk/awesome-jquery#readme,jQuery
-http://nicholasjohnson.com/javascript-book/,JavaScript plus a dash of JQuery,https://github.com/petk/awesome-jquery#readme,jQuery
-http://jquery.com/,jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
-https://jquery.org/,jQuery Foundation,https://github.com/petk/awesome-jquery#readme,jQuery
+https://cheerio.js.org/,cheerio,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.tiny.cloud/,TinyMCE,https://github.com/petk/awesome-jquery#readme,jQuery
+http://jquery.com/,jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
+http://nicholasjohnson.com/javascript-book/,JavaScript plus a dash of JQuery,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.meetup.com/topics/jquery/,Meetup,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/,PHP front end setup without Node,https://github.com/petk/awesome-jquery#readme,jQuery
-https://j11y.io/jquery/,jQuery Source Viewer,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.syncfusion.com/ebooks/jquery,jQuery Succinctly, Syncfusion,https://github.com/petk/awesome-jquery#readme,jQuery
 https://bootstrap-table.com/,Bootstrap table,https://github.com/petk/awesome-jquery#readme,jQuery
-https://developer.mozilla.org/en-US/docs/Web/JavaScript,JavaScript,https://github.com/petk/awesome-jquery#readme,jQuery
-http://jqapi.com/,Alternative jQuery Documentation Browser,https://github.com/petk/awesome-jquery#readme,jQuery
 https://zeptojs.com/,Zepto,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.manning.com/books/jquery-in-action-third-edition,jQuery in Action, Third Edition,https://github.com/petk/awesome-jquery#readme,jQuery
-http://todomvc.com/examples/jquery/,jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
-http://jbone.js.org/,jBone,https://github.com/petk/awesome-jquery#readme,jQuery
+https://developer.mozilla.org/en-US/docs/Web/JavaScript,JavaScript,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.syncfusion.com/ebooks/jquery,jQuery Succinctly, Syncfusion,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.datatables.net/,DataTables,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.pluralsight.com/courses/code-school-try-jquery,Code School,https://github.com/petk/awesome-jquery#readme,jQuery
-https://pypi.org/project/django-static-jquery/,django-static-jquery,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks,jQuery: Novice to Ninja: New Kicks And Tricks,https://github.com/petk/awesome-jquery#readme,jQuery
-https://getawesomeness.herokuapp.com/,GetAwesomeness,https://github.com/petk/awesome-jquery#readme,jQuery
+http://jbone.js.org/,jBone,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/,PHP front end setup without Node,https://github.com/petk/awesome-jquery#readme,jQuery
+https://jquery.org/,jQuery Foundation,https://github.com/petk/awesome-jquery#readme,jQuery
+https://j11y.io/jquery/,jQuery Source Viewer,https://github.com/petk/awesome-jquery#readme,jQuery
 https://fancygrid.com/,FancyGrid,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.codecademy.com/learn/learn-jquery,Codecademy jQuery track,https://github.com/petk/awesome-jquery#readme,jQuery
+https://pypi.org/project/django-static-jquery/,django-static-jquery,https://github.com/petk/awesome-jquery#readme,jQuery
+https://getawesomeness.herokuapp.com/,GetAwesomeness,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.manning.com/books/jquery-in-action-third-edition,jQuery in Action, Third Edition,https://github.com/petk/awesome-jquery#readme,jQuery
+http://jqapi.com/,Alternative jQuery Documentation Browser,https://github.com/petk/awesome-jquery#readme,jQuery
 https://en.wikipedia.org/wiki/.properties,.properties,https://github.com/petk/awesome-jquery#readme,jQuery
-https://hackr.io/tutorials/learn-jquery,Programming Community Curated Resources for Learning jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
+http://todomvc.com/examples/jquery/,jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
 https://forum.jquery.com/,Forum,https://github.com/petk/awesome-jquery#readme,jQuery
-http://michael-designs.com/yahoo-emoticons-jquery-plugin/,Yahoo! Emoticons,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.learningjquery.com/,Learning jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.npmjs.com/search?q=keywords:jquery-plugin,Plugins,https://github.com/petk/awesome-jquery#readme,jQuery
 http://irc.lc/freenode/jquery,Freenode,https://github.com/petk/awesome-jquery#readme,jQuery
+http://api.jquery.com/,API documentation,https://github.com/petk/awesome-jquery#readme,jQuery
 https://stackoverflow.com/tags/jquery,Stack Overflow,https://github.com/petk/awesome-jquery#readme,jQuery
-http://jquerymobile.com/,jQuery mobile,https://github.com/petk/awesome-jquery#readme,jQuery
-https://contribute.jquery.org/style-guide/,Style guides,https://github.com/petk/awesome-jquery#readme,jQuery
-http://plugins.jquery.com/,previous one,https://github.com/petk/awesome-jquery#readme,jQuery
+http://michael-designs.com/yahoo-emoticons-jquery-plugin/,Yahoo! Emoticons,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks,jQuery: Novice to Ninja: New Kicks And Tricks,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.pluralsight.com/courses/code-school-try-jquery,Code School,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.facebook.com/groups/jquerycode/,Facebook,https://github.com/petk/awesome-jquery#readme,jQuery
-https://code.tutsplus.com/categories/jquery,Tuts+,https://github.com/petk/awesome-jquery#readme,jQuery
-http://jqueryui.com/,jQuery UI,https://github.com/petk/awesome-jquery#readme,jQuery
+http://jquerymobile.com/,jQuery mobile,https://github.com/petk/awesome-jquery#readme,jQuery
+https://hackr.io/tutorials/learn-jquery,Programming Community Curated Resources for Learning jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.linkedin.com/groups/100943,Linked.in,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.npmjs.com/search?q=keywords:jquery-plugin,Plugins,https://github.com/petk/awesome-jquery#readme,jQuery
+http://jqueryui.com/,jQuery UI,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.codecademy.com/learn/learn-jquery,Codecademy jQuery track,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.packtpub.com/web-development/learning-jquery-fourth-edition,Learning jQuery - Fourth Edition,https://github.com/petk/awesome-jquery#readme,jQuery
+http://plugins.jquery.com/,previous one,https://github.com/petk/awesome-jquery#readme,jQuery
 http://qunitjs.com/,Qunit,https://github.com/petk/awesome-jquery#readme,jQuery
-http://www.jqueryrain.com/,jQuery Rain,https://github.com/petk/awesome-jquery#readme,jQuery
-https://www.reddit.com/r/jquery,Reddit,https://github.com/petk/awesome-jquery#readme,jQuery
 http://blog.jquery.com/,jQuery Blog,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.learningjquery.com/,Learning jQuery,https://github.com/petk/awesome-jquery#readme,jQuery
+http://www.jqueryrain.com/,jQuery Rain,https://github.com/petk/awesome-jquery#readme,jQuery
+https://contribute.jquery.org/style-guide/,Style guides,https://github.com/petk/awesome-jquery#readme,jQuery
 http://blog.jqueryui.com/,jQuery UI Blog,https://github.com/petk/awesome-jquery#readme,jQuery
+https://www.reddit.com/r/jquery,Reddit,https://github.com/petk/awesome-jquery#readme,jQuery
 https://www.sitepoint.com/javascript/jquery/,Sitepoint,https://github.com/petk/awesome-jquery#readme,jQuery
+https://code.tutsplus.com/categories/jquery,Tuts+,https://github.com/petk/awesome-jquery#readme,jQuery
+http://learn.jquery.com/,Learn jQuery,https://github.com/petk/awesome-jquery#readme,jQuery

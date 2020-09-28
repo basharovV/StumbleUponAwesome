@@ -1,118 +1,121 @@
-https://www.battlecode.org/,MIT Battlecode,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://freecoursesite.com/?s=Machine+Learning+Data+Science,Professional and In-Depth Machine Learning Video Courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461,Prolog Programming For Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://owainlewis.com,Owain Lewis,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://ai.google/,AI Google,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://fastml.com/,FastML,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/livevideo/deep-learning-with-r-in-motion,Deep Learning with R in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567,Gödel, Escher, Bach: An Eternal Golden Braid,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.amazon.com/gp/product/0743276647,The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10462,Artificial Intelligence Review,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/13748,Progress in Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://www.manning.com/books/fusion-in-action,Fusion in Action,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/livevideo/grokking-deep-learning-in-motion,Grokking Deep Learning in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://ai.facebook.com,Facebook AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://aichallenge.org,AI Challenge,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://freecoursesite.com/?s=Machine+Learning+Data+Science,Professional and In-Depth Machine Learning Video Courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://arxiv.org/abs/1411.1373,Ethical Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/engineering/robotics/journal/40903,Intelligent Industrial Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://mithi.github.io/deep-blueberry,Deep Blueberry: Deep Learning book,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.battlecode.org/,MIT Battlecode,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677,Artificial Intelligence: A New Synthesis,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/serverless-machine-learning-in-action,Serverless Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://freecoursesite.com/?s=Artificial+Intelligence,Professional and In-Depth Artificial Intelligence Video Courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://www.manning.com/books/real-world-natural-language-processing,Real-World Natural Language Processing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://www.manning.com/livevideo/reinforcement-learning-in-motion,Reinforcement Learning in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://golden.com/wiki/Cluster%3A_Artificial_intelligence,Golden Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677,Artificial Intelligence: A New Synthesis,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.r2d3.us/,R2D3,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://aichallenge.org,AI Challenge,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://freecoursesite.com/?s=Deep+Learning,Professional and In-Depth Deep Learning Video Courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/146,AI & Society,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477,AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://leenissen.dk/fann/wp/,FANN,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.cs.fsu.edu/~cap5605/Luger_0136070477_1.pdf,PDF here,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/grokking-machine-learning,Grokking Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11,On Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://ai.facebook.com,Facebook AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461,Prolog Programming For Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://theaigames.com,AI Games,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://golden.com/wiki/Cluster%3A_Artificial_intelligence,Golden Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/grokking-machine-learning,Grokking Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://www.goodreads.com/book/show/34272565-life-3-0,Life 3.0: Being Human in the Age of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf,Deep Learning. Methods And Applications,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/succeeding-with-ai,Succeeding with AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://videolectures.net/jul09_hinton_deeplearn,A tutorial on Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7,How To Create A Mind,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://neuralnetworksanddeeplearning.com,Neural Networks And Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.elsevier.com/locate/artint,Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.elementsofai.com/,Elements of AI (Part 1) - Reaktor/University of Helsinki,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.interscience.wiley.com/jpages/0884-8173/,International Journal of Intelligent Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://cis.ieee.org/,IEEE Computational Intelligence Society,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10515,Automated Software Engineering,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://videolectures.net/rldm2015_littman_computational_reinforcement,Basics of Computational Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://online.stanford.edu/course/statistical-learning-winter-2014,Stanford Statistical Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://web.stanford.edu/~hastie/ElemStatLearn/,The Elements of Statistical Learning: Data Mining, Inference, and Prediction,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020,Machine Learning: A Probabilistic Perspective,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://artint.info/html/ArtInt.html,Foundations Of Computational Agents,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://wiki.opencog.org/w/The_Open_Cognition_Project,Open Cognition Project,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.cbinsights.com/blog/python-tools-machine-learning/,Python Tools for Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://intelligence.org/research-guide/,Machine Intelligence Research Institute,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://videolectures.net/rldm2015_silver_reinforcement_learning,Deep Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/deep-learning-and-the-game-of-go,Deep Learning and the Game of Go,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://ai.stanford.edu/~nilsson/QAI/qai.pdf,The Quest For Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/essential-natural-language-processing,Essential Natural Language Processing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10458,Autonomous Agents and Multi-Agent Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.kaggle.com/learn/overview,Kaggle's micro courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/deep-learning-for-search,Deep Learning for Search,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409,Knowledge Based Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.r2d3.us/,R2D3,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7,How To Create A Mind,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://spinningup.openai.com/,Spinning Up in Deep Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://youtu.be/7o2GzSj86e8?t=3457,Intelligent agents and paradigms for AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/deep-learning-with-pytorch,Deep Learning with PyTorch,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://openai.com/about/,OpenAI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10588,Computational and Mathematical Organization Theory,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://artint.info/html/ArtInt.html,Foundations Of Computational Agents,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://leenissen.dk/fann/wp/,FANN,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/succeeding-with-ai,Succeeding with AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409,Knowledge Based Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.elsevier.com/locate/artint,Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://cis.ieee.org/,IEEE Computational Intelligence Society,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477,AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://ai.stanford.edu/~nilsson/QAI/qai.pdf,The Quest For Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.elementsofai.com/,Elements of AI (Part 1) - Reaktor/University of Helsinki,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://web.stanford.edu/~hastie/ElemStatLearn/,The Elements of Statistical Learning: Data Mining, Inference, and Prediction,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf,Deep Learning. Methods And Applications,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://sites.google.com/view/deep-rl-bootcamp/lectures,Deep RL Bootcamp Lectures,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://wiki.python.org/moin/PythonForArtificialIntelligence,Python for Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/,Getting Started with Deep Learning and Python,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.youtube.com/watch?v=sc-KbuZqGkI,The Unreasonable Effectiveness Of Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF,Computational Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.aaai.org/Magazine/magazine.php,AI Magazine,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/deep-reinforcement-learning-in-action,Deep Reinforcement Learning in Action,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://developers.google.com/machine-learning/crash-course/ml-intro,Machine Learning Crash Course By Google,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/livevideo/aws-machine-learning-in-motion,AWS Machine Learning in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://videolectures.net/jul09_hinton_deeplearn,A tutorial on Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos,MIT Artifical Intelligence Videos,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.etaij.org/,Electronic Transactions on Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://aitopics.org/,AITopics,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.aaai.org/home.html,Association For The Advancement of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://intelligence.org/research-guide/,Machine Intelligence Research Institute,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10515,Automated Software Engineering,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/146,AI & Society,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://neuralnetworksanddeeplearning.com,Neural Networks And Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/deep-learning-and-the-game-of-go,Deep Learning and the Game of Go,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.interscience.wiley.com/jpages/0884-8173/,International Journal of Intelligent Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://developers.google.com/machine-learning/crash-course/ml-intro,Machine Learning Crash Course By Google,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://wiki.opencog.org/w/The_Open_Cognition_Project,Open Cognition Project,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/essential-natural-language-processing,Essential Natural Language Processing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://openai.com/about/,OpenAI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://see.stanford.edu/Course/CS229,Stanford CS229 - Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/livevideo/deep-learning-crash-course,Deep Learning Crash Course,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise,Machine Learning for Mortals (Mere and Otherwise),https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://videolectures.net/rldm2015_littman_computational_reinforcement,Basics of Computational Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/deep-learning-for-search,Deep Learning for Search,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba,Grokking Deep Learning in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/livevideo/deep-learning-with-r-in-motion,Deep Learning with R in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/grokking-deep-reinforcement-learning,Grokking Deep Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10472,Annals of Mathematics and Artifical Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://airesources.org/,AIResources,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/12065,Evolutionary Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.worldscinet.com/journals/ijait/ijait.shtml,International Journal on Artificial Intelligence Tools,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://deepmind.com/research/,Google DeepMind Research,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597,Artificial Intelligence: A Modern Approach,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/,Computers and Thought: A practical Introduction to Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10458,Autonomous Agents and Multi-Agent Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/livevideo/deep-learning-crash-course,Deep Learning Crash Course,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.kaggle.com/learn/overview,Kaggle's micro courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020,Machine Learning: A Probabilistic Perspective,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/deep-learning-with-pytorch,Deep Learning with PyTorch,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://www.udacity.com/course/cs271,Intro to Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10588,Computational and Mathematical Organization Theory,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597,Artificial Intelligence: A Modern Approach,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://videolectures.net/rldm2015_silver_reinforcement_learning,Deep Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/,Computers and Thought: A practical Introduction to Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.aaai.org/home.html,Association For The Advancement of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF,Computational Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.cbinsights.com/blog/python-tools-machine-learning/,Python Tools for Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://aurellem.org/society-of-mind/index.html,Society of Mind,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://aima.cs.berkeley.edu/books.html,list of recommended reading,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/200,Applicable Algebra in Engineering, Communication and Computing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://machinelearningmastery.com/,Machine Learning Mastery,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://developer.nvidia.com/deep-learning,Nvidia Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://ieeexplore.ieee.org/servlet/opac?punumber=9670,EXPERT—IEEE Intelligent Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/how-machine-learning-works,How Machine Learning Works,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://deepmind.com/research/,Google DeepMind Research,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://youtu.be/7o2GzSj86e8?t=3457,Intelligent agents and paradigms for AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/deep-reinforcement-learning-in-action,Deep Reinforcement Learning in Action,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126,AI Communications,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://aitopics.org/,AITopics,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.etaij.org/,Electronic Transactions on Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.youtube.com/watch?v=sc-KbuZqGkI,The Unreasonable Effectiveness Of Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise,Machine Learning for Mortals (Mere and Otherwise),https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/,Getting Started with Deep Learning and Python,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://wiki.python.org/moin/PythonForArtificialIntelligence,Python for Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.amazon.com/exec/obidos/ASIN/1558601910,Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://developer.nvidia.com/deep-learning,Nvidia Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://airesources.org/,AIResources,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/12065,Evolutionary Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.aaai.org/Magazine/magazine.php,AI Magazine,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/grokking-deep-reinforcement-learning,Grokking Deep Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/livevideo/aws-machine-learning-in-motion,AWS Machine Learning in Motion,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/how-machine-learning-works,How Machine Learning Works,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.manning.com/books/machine-learning-with-tensorflow-second-edition,MachineLearningWithTensorFlow2ed,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html,Reinforcement Learning: An Introduction,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://pages.uoregon.edu/moursund/Books/AIBook/index.htm,Brief Introduction To Educational Implications Of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics,Artificial Intelligence For Robotics,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.worldscinet.com/journals/ijait/ijait.shtml,International Journal on Artificial Intelligence Tools,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915,The Cambridge Handbook Of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10472,Annals of Mathematics and Artifical Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://machinelearningmastery.com/,Machine Learning Mastery,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://class.coursera.org/ml-008,Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.reddit.com/r/artificial/,Artificial Intelligence Subreddit,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/200,Applicable Algebra in Engineering, Communication and Computing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://ieeexplore.ieee.org/servlet/opac?punumber=9670,EXPERT—IEEE Intelligent Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.cs.washington.edu/research/,Journal of Artificial Intelligence Research,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://deeplearning.net/,Deep Learning.net,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.manning.com/books/machine-learning-with-tensorflow-second-edition,MachineLearningWithTensorFlow2ed,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://ai.google/,AI Google,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10817,Journal of Automated Reasoning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html,Reinforcement Learning: An Introduction,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://fastml.com/,FastML,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915,The Cambridge Handbook Of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://pages.uoregon.edu/moursund/Books/AIBook/index.htm,Brief Introduction To Educational Implications Of Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10844,Journal of Intelligent Information Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.reddit.com/r/artificial/,Artificial Intelligence Subreddit,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.ieee-ras.org/publications/t-ase,IEEE Transactions Automation Science and Engineering,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/13740,Journal on Data Semantics,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 https://experiments.withgoogle.com/collection/ai,AI Experiments with Google,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10489,Applied Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://owainlewis.com,Owain Lewis,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/engineering/robotics/journal/40903,Intelligent Industrial Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics,Artificial Intelligence For Robotics,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-https://class.coursera.org/ml-008,Machine Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://journals.cambridge.org/action/displayJournal?jid=KER,Knowledge Engineering Review,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://journals.cambridge.org/action/displayJournal?jid=AIE,Artificial Intelligence for Engineering Design, Analysis and Manufacturing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/11023,Minds and Machines,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/10462,Artificial Intelligence Review,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.springer.com/journal/13748,Progress in Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G,Super Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://arxiv.org/abs/1411.1373,Ethical Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10817,Journal of Automated Reasoning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.ieee-ras.org/publications/t-ase,IEEE Transactions Automation Science and Engineering,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.tandf.co.uk/journals/tf/08839514.html,Applied Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.tandf.co.uk/journals/tf/0952813X.html,Journal of Experimental and Theoretical Artificial Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10489,Applied Intelligence,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8,Our Final Invention: Artificial Intelligence And The End Of The Human Era,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/10844,Journal of Intelligent Information Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/13740,Journal on Data Semantics,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1,How to Create a Mind: The Secret of Human Thought Revealed,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
 http://cogprints.org/7150/1/10.1.1.83.5248.pdf,Minds, Brains, And Programs,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
-http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567,Gödel, Escher, Bach: An Eternal Golden Braid,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://journals.cambridge.org/action/displayJournal?jid=AIE,Artificial Intelligence for Engineering Design, Analysis and Manufacturing,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+http://www.springer.com/journal/11023,Minds and Machines,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence

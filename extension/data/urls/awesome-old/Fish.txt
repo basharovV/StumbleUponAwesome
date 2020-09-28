@@ -1,0 +1,7 @@
+https://rootnroll.com/d/fish-shell/,Try in browser!,https://github.com/jorgebucaran/awesome-fish#readme,Fish
+https://www.reddit.com/r/fishshell,r/fishshell,https://github.com/jorgebucaran/awesome-fish#readme,Fish
+https://gitter.im/fish-shell/fish-shell,Gitter Channel,https://github.com/jorgebucaran/awesome-fish#readme,Fish
+https://stackoverflow.com/questions/tagged/fish,StackOverflow #fish,https://github.com/jorgebucaran/awesome-fish#readme,Fish
+https://fishshell.com/docs/current/cmds/argparse.html,argparse,https://github.com/jorgebucaran/awesome-fish#readme,Fish
+https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview,Touch Bar,https://github.com/jorgebucaran/awesome-fish#readme,Fish
+https://hub.docker.com/r/dideler/fish-shell,Ubuntu LTS container,https://github.com/jorgebucaran/awesome-fish#readme,Fish

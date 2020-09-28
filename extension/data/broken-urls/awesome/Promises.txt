@@ -1,0 +1,1 @@
+https://ponyfoo.com/articles/es6-promises-in-depth,ES6 Promises in Depth,https://github.com/wbinnssmith/awesome-promises#readme,Promises error: timeout('The read operation timed out') | reason: 

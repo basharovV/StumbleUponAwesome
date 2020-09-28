@@ -1,3 +1,1 @@
-https://gethead.info/,A list of things that go in your pages' HEAD element,https://github.com/diegocard/awesome-html5#readme,HTML5 error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error
-https://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work/,What is WebRTC and how does it work,https://github.com/diegocard/awesome-html5#readme,HTML5 error: RemoteDisconnected('Remote end closed connection without response') | reason: 
 https://html5devconf.com/videos.html,HTML5 Developer Conference,https://github.com/diegocard/awesome-html5#readme,HTML5 error: <HTTPError 404: 'Not Found'> | reason: Not Found

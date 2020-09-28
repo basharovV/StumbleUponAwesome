@@ -1,3 +1,2 @@
-https://interactiveaudiolab.github.io/nussl/,NUSSL,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html,Digital Signal Processing Course,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.sfstoolbox.org,SFS-Python,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://interactiveaudiolab.github.io/nussl/,NUSSL,https://github.com/faroit/awesome-python-scientific-audio#readme,Scientific Audio error: <HTTPError 404: 'Not Found'> | reason: Not Found

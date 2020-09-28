@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/CAPTCHA,CAPTCHA,https://github.com/ZYSzys/awesome-captcha#readme,Captcha
+https://captcheck.netsyms.com,Captcheck,https://github.com/ZYSzys/awesome-captcha#readme,Captcha
+https://www.phpcaptcha.org,Securimage,https://github.com/ZYSzys/awesome-captcha#readme,Captcha

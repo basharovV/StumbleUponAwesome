@@ -1,8 +1,13 @@
-https://infoactive.co/data-design,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://www.ccs.neu.edu/home/matthias/HtDP2e/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://realworldocaml.org/v1/en/html/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'v1.realworldocaml.org'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'v1.realworldocaml.org'. (_ssl.c:1076)
-http://ops-school.readthedocs.org/en/latest/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.rafekettler.com/magicmethods.html,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://realworldocaml.org/v1/en/html/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://infoactive.co/data-design,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://www.cs.cmu.edu/~rwh/plbook/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://ops-school.readthedocs.org/en/latest/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.rafekettler.com/magicmethods.html,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://nlpwp.org/book/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://build-podcast.com/,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://developer.android.com/guide/index.html,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+http://mattmahoney.net/dc/dce.html,Site,https://github.com/hubtee/awesome-opensource-documents#readme,Open Source Documents error: timeout('timed out') | reason: 

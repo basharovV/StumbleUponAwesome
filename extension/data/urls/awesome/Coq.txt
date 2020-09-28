@@ -1,48 +1,53 @@
-http://www.chargueraud.org/softs/tlc/,TLC,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.inria.fr,Coq proof assistant,https://github.com/coq-community/awesome-coq#readme,Coq
-https://stackoverflow.com/questions/tagged/coq,Coq tag on Stack Overflow,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitlab.inria.fr/coquelicot/coquelicot,Coquelicot,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.inria.fr/refman/practical-tools/utilities.html,coq_makefile,https://github.com/coq-community/awesome-coq#readme,Coq
-https://cstheory.stackexchange.com/questions/tagged/coq,Coq tag on Theoretical Computer Science Stack Exchange,https://github.com/coq-community/awesome-coq#readme,Coq
-https://iris-project.org,Iris,https://github.com/coq-community/awesome-coq#readme,Coq
-https://softwarefoundations.cis.upenn.edu,Software Foundations,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.inria.fr/packages.html,Coq Package Index,https://github.com/coq-community/awesome-coq#readme,Coq
-https://project.inria.fr/coqexchange/news/,Coq Exchange: ideas and experiment reports about Coq,https://github.com/coq-community/awesome-coq#readme,Coq
-http://math-comp.github.io,Mathematical Components,https://github.com/coq-community/awesome-coq#readme,Coq
-https://querycert.github.io,Q*cert,https://github.com/coq-community/awesome-coq#readme,Coq
-http://adam.chlipala.net/cpdt/,Certified Programming with Dependent Types,https://github.com/coq-community/awesome-coq#readme,Coq
-http://compcert.inria.fr,CompCert,https://github.com/coq-community/awesome-coq#readme,Coq
-http://gallium.inria.fr/blog,Gagallium,https://github.com/coq-community/awesome-coq#readme,Coq
-https://nixos.org/nixos/packages.html?channel=nixpkgs-unstable&query=coqPackages,Nix Coq packages,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gmalecha.github.io,Gregory Malecha's blog,https://github.com/coq-community/awesome-coq#readme,Coq
-https://vst.cs.princeton.edu,VST,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitlab.inria.fr/agueneau/incremental-cycles,Incremental Cycles,https://github.com/coq-community/awesome-coq#readme,Coq
-http://coq-blog.clarus.me,Guillaume Claret's Coq blog,https://github.com/coq-community/awesome-coq#readme,Coq
-https://opam.ocaml.org,OPAM,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.inria.fr/refman/practical-tools/coqide.html,CoqIDE,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitlab.inria.fr/gappa/coq,Gappa,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitlab.mpi-sws.org/iris/lambda-rust,lambda-rust,https://github.com/coq-community/awesome-coq#readme,Coq
-http://www.joachim-breitner.de/blog/tag/Coq,Joachim Breitner's blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
-https://proofgeneral.github.io,Proof General,https://github.com/coq-community/awesome-coq#readme,Coq
 http://poleiro.info,Poleiro: a Coq blog by Arthur Azevedo de Amorim,https://github.com/coq-community/awesome-coq#readme,Coq
-http://color.inria.fr,CoLoR,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.inria.fr/refman/,Official Coq manual,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr,Coq proof assistant,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr/refman/practical-tools/utilities.html,coq_makefile,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.inria.fr/coquelicot/coquelicot,Coquelicot,https://github.com/coq-community/awesome-coq#readme,Coq
+https://chargueraud.org/teach/verif/,Foundations of Separation Logic,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr/packages.html,Coq Package Index,https://github.com/coq-community/awesome-coq#readme,Coq
 https://www.ralfj.de/blog/categories/coq.html,Ralf Jung's blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitlab.mpi-sws.org/iris/stdpp,Coq-std++,https://github.com/coq-community/awesome-coq#readme,Coq
-https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/program-logics-certified-compilers,Program Logics for Certified Compilers,https://github.com/coq-community/awesome-coq#readme,Coq
-http://adam.chlipala.net/frap/,Formal Reasoning About Programs,https://github.com/coq-community/awesome-coq#readme,Coq
-http://flocq.gforge.inria.fr,Flocq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://iris-project.org,Iris,https://github.com/coq-community/awesome-coq#readme,Coq
+http://math-comp.github.io,Mathematical Components,https://github.com/coq-community/awesome-coq#readme,Coq
+https://dune.build,Dune,https://github.com/coq-community/awesome-coq#readme,Coq
 https://www.labri.fr/perso/casteran/CoqArt/,Coq'Art,https://github.com/coq-community/awesome-coq#readme,Coq
-https://ilyasergey.net/pnp/,Programs and Proofs,https://github.com/coq-community/awesome-coq#readme,Coq
-http://iste.co.uk/book.php?id=1238,Computer Arithmetic and Formal Proofs,https://github.com/coq-community/awesome-coq#readme,Coq
-https://math-comp.github.io/mcb/,The Mathematical Components book,https://github.com/coq-community/awesome-coq#readme,Coq
+http://compcert.inria.fr,CompCert,https://github.com/coq-community/awesome-coq#readme,Coq
+https://querycert.github.io,Q*cert,https://github.com/coq-community/awesome-coq#readme,Coq
 https://www.codewars.com/kata/search/coq,CodeWars' Coq kata,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.discourse.group,Official Coq Discourse forum,https://github.com/coq-community/awesome-coq#readme,Coq
+https://vst.cs.princeton.edu,VST,https://github.com/coq-community/awesome-coq#readme,Coq
 http://cel.archives-ouvertes.fr/inria-00001173,Coq in a Hurry,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitter.im/coq/coq,Official Coq Gitter chat,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.inria.fr/agueneau/incremental-cycles,Incremental Cycles,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu,Software Foundations,https://github.com/coq-community/awesome-coq#readme,Coq
 https://mdnahas.github.io/doc/nahas_tutorial.html,Mike Nahas's Coq Tutorial,https://github.com/coq-community/awesome-coq#readme,Coq
-https://coq.inria.fr/refman/proof-engine/ltac2.html,Ltac2,https://github.com/coq-community/awesome-coq#readme,Coq
-https://gitlab.inria.fr/charguer/cfml2,CFML,https://github.com/coq-community/awesome-coq#readme,Coq
-http://gallium.inria.fr/~fpottier/menhir/,Menhir,https://github.com/coq-community/awesome-coq#readme,Coq
-https://www.cl.cam.ac.uk/~pes20/ott/,Ott,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr/refman/practical-tools/coqide.html,CoqIDE,https://github.com/coq-community/awesome-coq#readme,Coq
+http://adam.chlipala.net/cpdt/,Certified Programming with Dependent Types,https://github.com/coq-community/awesome-coq#readme,Coq
+https://nixos.org/nixos/packages.html?channel=nixpkgs-unstable&query=coqPackages,Nix Coq packages,https://github.com/coq-community/awesome-coq#readme,Coq
+https://proofgeneral.github.io,Proof General,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.mpi-sws.org/iris/lambda-rust,lambda-rust,https://github.com/coq-community/awesome-coq#readme,Coq
+http://color.inria.fr,CoLoR,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.cs.princeton.edu/~appel/papers/plcc.pdf,Program Logics for Certified Compilers,https://github.com/coq-community/awesome-coq#readme,Coq
+https://opam.ocaml.org,OPAM,https://github.com/coq-community/awesome-coq#readme,Coq
+http://adam.chlipala.net/frap/,Formal Reasoning About Programs,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr/refman/,Official Coq manual,https://github.com/coq-community/awesome-coq#readme,Coq
 https://www.reddit.com/r/coq/,Coq subreddit,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.inria.fr/gappa/coq,Gappa,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.mpi-sws.org/iris/stdpp,Coq-std++,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr/stdlib/,Official Coq standard library,https://github.com/coq-community/awesome-coq#readme,Coq
+https://stackoverflow.com/questions/tagged/coq,Coq tag on Stack Overflow,https://github.com/coq-community/awesome-coq#readme,Coq
+http://flocq.gforge.inria.fr,Flocq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://ilyasergey.net/pnp/,Programs and Proofs,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.inria.fr/refman/proof-engine/ltac2.html,Ltac2,https://github.com/coq-community/awesome-coq#readme,Coq
+https://cstheory.stackexchange.com/questions/tagged/coq,Coq tag on Theoretical Computer Science Stack Exchange,https://github.com/coq-community/awesome-coq#readme,Coq
+http://plv.mpi-sws.org/paco/,Paco,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.discourse.group,Official Coq Discourse forum,https://github.com/coq-community/awesome-coq#readme,Coq
+http://iste.co.uk/book.php?id=1238,Computer Arithmetic and Formal Proofs,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.inria.fr/charguer/cfml2,CFML,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.pl-a.net,Planet Coq link aggregator,https://github.com/coq-community/awesome-coq#readme,Coq
+http://gallium.inria.fr/~fpottier/menhir/,Menhir,https://github.com/coq-community/awesome-coq#readme,Coq
+https://math-comp.github.io/mcb/,The Mathematical Components book,https://github.com/coq-community/awesome-coq#readme,Coq
+https://project.inria.fr/coqexchange/news/,Coq Exchange: ideas and experiment reports about Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.cl.cam.ac.uk/~pes20/ott/,Ott,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.zulipchat.com,Official Coq Zulip chat,https://github.com/coq-community/awesome-coq#readme,Coq
+http://gallium.inria.fr/blog,Gagallium,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gmalecha.github.io,Gregory Malecha's blog,https://github.com/coq-community/awesome-coq#readme,Coq
+http://coq-blog.clarus.me,Guillaume Claret's Coq blog,https://github.com/coq-community/awesome-coq#readme,Coq
+http://www.joachim-breitner.de/blog/tag/Coq,Joachim Breitner's blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://plv.csail.mit.edu/blog/category/coq.html,MIT PLV blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq

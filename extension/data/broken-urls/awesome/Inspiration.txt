@@ -1,4 +1,3 @@
 http://uifaces.com,User Inter Faces,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://www.mentor.so/,Mentor,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://www.hurl.it/,Hurl.it,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-http://localtunnel.me,Localtunnel,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 404: 'Not Found'> | reason: Not Found

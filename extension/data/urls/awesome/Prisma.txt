@@ -1,28 +1,25 @@
+https://www.youtube.com/watch?v=Bqacj0iOL68,Building a Backend for React with Next.js, Prisma 2, and PostgreSQL,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
 https://www.prisma.io/,Prisma,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/blog/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a/,Demystifying the info argument in GraphQL Resolvers,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials,Tutorials,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials/deploy-prisma-to-digitalocean-with-docker-machine-ct06,Digital Ocean (Docker Machine),https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://www.prisma.io/docs/,Prisma Docs,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://www.tomorrowapp.io/,Tomorrow,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
 https://www.howtographql.com/,How to GraphQL,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/blog/,Blog,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials/deploy-prisma-to-digitalocean-ct12/,Digital Ocean (manual),https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials/deploy-prisma-to-kubernetes-ct13/,Kubernetes,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials/,Tutorials,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/forum/t/querying-specific-fields-in-db-from-local-service-with-prisma/2075/4,Different use cases for the info argument,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/forum/,Forum,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://divu.in/prisma-deep-dive-3162dea2820c,Prisma Deep Dive Article,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5,Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma),https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://predictcovid.com/,Predict Covid,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+http://prisma.io/day,Prisma Day (remote),https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia,Improve Your GraphQL performance with Prisma,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://www.prisma.io/tutorials/?tag=postgresql,PostgresQL Tutorials,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae,Get started with Prisma v2. Prisma Client,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://www.meetup.com/graphql-berlin/,GraphQL Meetup (remote),https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://blog.logrocket.com/an-introduction-to-prisma-2/,An Introduction to Prisma 2,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc,Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://leerob.io/blog/next-prisma,Static Sites with Next.js 9.3 and Prisma,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://nestjs.com/,NestJS,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://www.meetup.com/TypeScript-Berlin/,TypeScript Meetup (remote),https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749,Using Prisma with GraphQL Codegen,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://swacblooms.com/using-prisma-in-azure-functions/,Using Prisma in Azure Functions,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4,Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://notiz.dev/blog/how-to-connect-nestjs-with-prisma,How to query your database using Prisma with NestJS,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://prisma.io,Website,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://prisma.io/docs/,Docs,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
+https://prisma.io/blog,Blog,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
 https://slack.prisma.io/,Slack,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.graph.cool/forum/t/deployment-of-prisma-to-aws-ec2/2880?u=nilan,Deployment to AWS EC2,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://medium.com/@jonathancardoso/graphql-mutation-arguments-validation-with-yup-using-graphql-middleware-645822fb748,GraphQL Mutation Arguments Validation with Yup using graphql-middleware,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.graph.cool/forum/t/minimal-serverless-prisma-project-template/2827?u=nilan,Serverless Template,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials/deploy-prisma-to-aws-fargate-ct14/,AWS Fargate,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://medium.com/@maticzavadlal/graphcool-1-0-example-series-authentication-282f274b8343,Authentication with GitHub OAuth2,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy,React Native and Prisma YouTube Tutorial Series,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/blog/graphql-directive-permissions-authorization-made-easy-54c076b5368e/,GraphQL Directive Permissions,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.youtube.com/watch?v=-n30pzgnkW0&list=PLs2PzMqLzi7Xmx44xTLfOBCwCAxVgQvE*,Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/docs/,Docs,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/forum/t/graphql-file-handling-with-aws-s3-prisma-graphql-yoga/2779,File Handling with AWS S3, Prisma & graphql-yoga,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://medium.com/@maticzavadlal/graphcool-1-0-examples-series-file-api-3b16b4b8785f,Handling files with Amazon S3 and Prisma,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://www.prisma.io/tutorials/deploy-a-graphql-server-with-apex-up-cs05/,Deploying a GraphQL Server with Apex Up,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://dev.to/andre/handling-errors-in-graphql--2ea3,Handling Errors in GraphQL,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://medium.zenika.com/building-a-multi-tenant-application-with-prisma-11bf890304d6,Building a multi-tenant application with Prisma,https://github.com/catalinmiron/awesome-prisma#readme,Prisma
-https://techblog.commercetools.com/prisma-horizontal-scaling-a-practical-guide-3a05833d4fc3,Prisma Horizontal Scaling,https://github.com/catalinmiron/awesome-prisma#readme,Prisma

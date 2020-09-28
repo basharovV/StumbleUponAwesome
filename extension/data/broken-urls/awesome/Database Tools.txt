@@ -1,1 +1,2 @@
-https://www.bigsql.org/pgadmin3,pgAdmin3,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: <HTTPError 308: 'PERMANENT REDIRECT'> | reason: PERMANENT REDIRECT
+https://www.bigsql.org/pgadmin3,pgAdmin3,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://www.bigsql.org,BigSQL,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable

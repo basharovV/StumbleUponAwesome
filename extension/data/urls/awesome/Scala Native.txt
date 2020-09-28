@@ -1,22 +1,22 @@
 https://hackage.haskell.org/package/optparse-applicative,optparse-applicative,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
-http://www.scala-native.org/,,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://www.gnu.org/software/gsl,GNU Scientific Library (GSL),https://github.com/tindzk/awesome-scala-native#readme,Scala Native
+http://www.scala-native.org/,,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://www.scala-lang.org/,Scala programming language,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
-http://first.wpi.edu/FRC/roborio/release/docs/java/,FIRST Robotics WPILib libraries,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://wiki.gnome.org/Projects/libsoup,libsoup,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://en.wikipedia.org/wiki/Java_virtual_machine,JVM,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
+http://first.wpi.edu/FRC/roborio/release/docs/java/,FIRST Robotics WPILib libraries,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 http://llvm.org/docs/LangRef.html,LLVM intermediate representation,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
-https://akka.io/,Akka,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://gstreamer.freedesktop.org,GStreamer,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
+https://akka.io/,Akka,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 http://llvm.org/,LLVM,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://www.lagomframework.com/,Lagom,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
-https://www.qt.io,Qt,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
-http://www.foundweekends.org/giter8/,Giter8,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://get-coursier.io/docs/cli-native-bootstrap,bootstrap command,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
+http://www.foundweekends.org/giter8/,Giter8,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
+https://www.qt.io,Qt,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://developers.google.com/protocol-buffers/,Protocol Buffer,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://hub.docker.com/r/tindzk/seed/tags,Seed Docker image,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
-http://argonaut.io,Argonaut,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://developer.gnome.org/gtk3/stable/index.html,Gtk+,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
+http://argonaut.io,Argonaut,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://en.wikipedia.org/wiki/Java_Database_Connectivity,JDBC,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://www.scala-sbt.org/,sbt,https://github.com/tindzk/awesome-scala-native#readme,Scala Native
 https://www.bazel.build/,Bazel,https://github.com/tindzk/awesome-scala-native#readme,Scala Native

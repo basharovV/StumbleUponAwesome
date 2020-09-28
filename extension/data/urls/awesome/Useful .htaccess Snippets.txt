@@ -1,13 +1,13 @@
 https://httpd.apache.org/docs/current/howto/htaccess.html,howto in the httpd documentation,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 https://httpd.apache.org/docs/2.4/upgrading.html,upgrading document,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 http://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/,Source,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
-http://www.htaccess-guide.com/deny-visitors-by-referrer/,Source,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way,Source,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
+http://www.htaccess-guide.com/deny-visitors-by-referrer/,Source,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 http://www.askapache.com/htaccess/apache-speed-etags.html,Source,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
-https://en.wikipedia.org/wiki/Cross-origin_resource_sharing,CORS,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 http://www.sitepoint.com/domain-www-or-no-www/,still,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
-https://developers.google.com/speed/webp/?csw=1,WebP images,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
+https://en.wikipedia.org/wiki/Cross-origin_resource_sharing,CORS,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 https://devcenter.heroku.com/articles/apex-domains,open,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
+https://developers.google.com/speed/webp/?csw=1,WebP images,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 http://yes-www.org/,for,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 http://no-www.org/,debate,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets
 http://overit.com/blog/canonical-urls,recommended,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets

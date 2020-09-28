@@ -1,4 +1,0 @@
-https://www.jooq.org,jOOQ,https://github.com/akullpp/awesome-java#readme,Java error: timeout('The read operation timed out') | reason: 
-https://seata.io,Seata,https://github.com/akullpp/awesome-java#readme,Java error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'seata.io'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'seata.io'. (_ssl.c:1076)
-https://koloboke.com,Koloboke,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://jaxenter.com,JAXenter,https://github.com/akullpp/awesome-java#readme,Java error: timeout('The read operation timed out') | reason: 

@@ -1,15 +1,16 @@
-https://fedoraproject.org/wiki/EPEL,EPEL,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://puppet.com/mcollective,MCollective,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://xenserver.org/,XenServer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://palletops.com/,Pallet,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://pritunl.com/,Pritunl,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: timeout('timed out') | reason: 
-http://just-install.it/,just-install,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.octopussy.pm,Octopussy,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
-https://bloonix.org,Bloonix,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)
-http://www.starkandwayne.com/codex/,Codex,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://cc1.ifj.edu.pl/,Cracow Cloud One - Polish Private Cloud,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: timeout('timed out') | reason: 
-http://imapsync.lamiral.info/,ImapSync,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: timeout('timed out') | reason: 
-http://www.librenms.org,LibreNMS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: timeout('timed out') | reason: 
-https://statusfy.co/,Statusfy,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-http://hypertable.org/,Hypertable,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://community.openvpn.net,OpenVPN,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://puppet.com/mcollective,MCollective,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.itpi.org/the-visible-ops-handbook-review.html,The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://ajenti.org/,Ajenti,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
 https://opends.java.net/,OpenDS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://statusfy.co/,Statusfy,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 308: 'Unknown'> | reason: Unknown
+http://www.starkandwayne.com/codex/,Codex,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.sysdig.org/,Sysdig,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+http://hypertable.org/,Hypertable,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 308: 'Unknown'> | reason: Unknown
+https://www.softwarecollections.org,Software Collections,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.octopussy.pm,Octopussy,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+http://www.ganeti.org/,Ganeti,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: timeout('timed out') | reason: 
+http://just-install.it/,just-install,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://cc1.ifj.edu.pl/,Cracow Cloud One - Polish Private Cloud,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out

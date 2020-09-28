@@ -1,0 +1,11 @@
+https://interpreterbook.com/,Thorsten Ball's Monkey Language,https://github.com/vlang/awesome-v#readme,V
+https://www.raylib.com,raylib,https://github.com/vlang/awesome-v#readme,V
+https://kate-editor.org/,Kate,https://github.com/vlang/awesome-v#readme,V
+https://www.scintilla.org/SciTE.html,SciTE,https://github.com/vlang/awesome-v#readme,V
+https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_,V Programming Language,https://github.com/vlang/awesome-v#readme,V
+https://v-community.gitbook.io/v-by-example/,GitBook,https://github.com/vlang/awesome-v#readme,V
+https://v-wasm.now.sh/,V Playground,https://github.com/vlang/awesome-v#readme,V
+https://devbits.app/play?lang=v&code64=Zm4gbWFpbigpIHsKCWFyZWFzIDo9IFsnZ2FtZScsICd3ZWInLCAndG9vbHMnLCAnc2NpZW5jZScsICdzeXN0ZW1zJywgJ2VtYmVkZGVkJywgJ2RyaXZlcnMnLCAnR1VJJywgJ21vYmlsZSddIAoJZm9yIGFyZWEgaW4gYXJlYXMgewoJCXByaW50bG4oJ0hlbGxvLCAkYXJlYSBkZXZlbG9wZXJzIScpCgl9Cn0K,DevBits V Playground,https://github.com/vlang/awesome-v#readme,V
+https://simonknott.de/articles/VLang.html,An introduction to V,https://github.com/vlang/awesome-v#readme,V
+https://www.reddit.com/r/vlang,r/vlang,https://github.com/vlang/awesome-v#readme,V
+https://stackoverflow.com/questions/tagged/vlang,Stack Overflow,https://github.com/vlang/awesome-v#readme,V

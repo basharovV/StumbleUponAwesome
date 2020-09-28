@@ -1,62 +1,63 @@
-https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner,,https://github.com/JStumpp/awesome-android#readme,Android
 https://appspector.com,AppSpector,https://github.com/JStumpp/awesome-android#readme,Android
 https://square.github.io/,Square libraries,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh,How to Make Android Apps,https://github.com/JStumpp/awesome-android#readme,Android
 https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF,Android Design in Action Video series,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh,How to Make Android Apps,https://github.com/JStumpp/awesome-android#readme,Android
+https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner,,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0,Android DevBytes Video Series,https://github.com/JStumpp/awesome-android#readme,Android
 https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started,Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!,https://github.com/JStumpp/awesome-android#readme,Android
-https://futurestud.io/tutorials/tag/android,Future Studio,https://github.com/JStumpp/awesome-android#readme,Android
 https://android.libhunt.com,Awesome Android @LibHunt,https://github.com/JStumpp/awesome-android#readme,Android
+https://futurestud.io/tutorials/tag/android,Future Studio,https://github.com/JStumpp/awesome-android#readme,Android
+https://medium.com/google-developers/developing-for-android-introduction-5345b451567c,Developing for Android,https://github.com/JStumpp/awesome-android#readme,Android
 https://unity3d.com/unity/features/multiplatform,Unity,https://github.com/JStumpp/awesome-android#readme,Android
 https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/,Build a one-on-one Android chat app using Kotlin,https://github.com/JStumpp/awesome-android#readme,Android
 http://greenrobot.org/greendao/,GreenDAO,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0,Android DevBytes Video Series,https://github.com/JStumpp/awesome-android#readme,Android
 https://mindorks.com/android/store,Android Store,https://github.com/JStumpp/awesome-android#readme,Android
-https://medium.com/google-developers/developing-for-android-introduction-5345b451567c,Developing for Android,https://github.com/JStumpp/awesome-android#readme,Android
-https://cocos2d-x.org/,Cocos2d-x,https://github.com/JStumpp/awesome-android#readme,Android
-https://getstream.io/tutorials/android-chat/,Stream Chat,https://github.com/JStumpp/awesome-android#readme,Android
-https://visualstudio.microsoft.com/xamarin/,Xamarin,https://github.com/JStumpp/awesome-android#readme,Android
-https://andyroid.net,AndY,https://github.com/JStumpp/awesome-android#readme,Android
-http://ormlite.com/sqlite_java_android_orm.shtml,ORMLite,https://github.com/JStumpp/awesome-android#readme,Android
-https://getstream.io/chat/,Stream,https://github.com/JStumpp/awesome-android#readme,Android
-https://archon-runtime.github.io,ARChon,https://github.com/JStumpp/awesome-android#readme,Android
-https://phonegap.com,PhoneGap,https://github.com/JStumpp/awesome-android#readme,Android
-http://www.activeandroid.com,ActiveAndroid,https://github.com/JStumpp/awesome-android#readme,Android
-http://satyan.github.io/sugar/,Sugar ORM,https://github.com/JStumpp/awesome-android#readme,Android
 https://www.androidhive.info,Android Hive Tutorials,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.cometchat.com/tutorials/android-chat-push-notifications/,Add Push Notifications to Your Android Chat App Using Kotlin,https://github.com/JStumpp/awesome-android#readme,Android
-http://www.appcelerator.com/mobile-app-development-products/,Titanium,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.bluestacks.com,BlueStacks,https://github.com/JStumpp/awesome-android#readme,Android
+https://cocos2d-x.org/,Cocos2d-x,https://github.com/JStumpp/awesome-android#readme,Android
+https://visualstudio.microsoft.com/xamarin/,Xamarin,https://github.com/JStumpp/awesome-android#readme,Android
+http://ormlite.com/sqlite_java_android_orm.shtml,ORMLite,https://github.com/JStumpp/awesome-android#readme,Android
+https://andyroid.net,AndY,https://github.com/JStumpp/awesome-android#readme,Android
 https://androidweekly.net,Android Weekly,https://github.com/JStumpp/awesome-android#readme,Android
-https://ionicframework.com,Ionic Framework,https://github.com/JStumpp/awesome-android#readme,Android
-http://robolectric.org/,Roboletric,https://github.com/JStumpp/awesome-android#readme,Android
-https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android,Square In-App Payments for Android,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.genymotion.com,Genymotion,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.tune.com/,MobileAppTracking,https://github.com/JStumpp/awesome-android#readme,Android
-https://coronalabs.com/product/,Corona SDK,https://github.com/JStumpp/awesome-android#readme,Android
-http://melix.github.io/blog/2014/06/grooid.html,Groovy on Android,https://github.com/JStumpp/awesome-android#readme,Android
+http://www.activeandroid.com,ActiveAndroid,https://github.com/JStumpp/awesome-android#readme,Android
+https://phonegap.com,PhoneGap,https://github.com/JStumpp/awesome-android#readme,Android
+https://getstream.io/tutorials/android-chat/,Stream Chat,https://github.com/JStumpp/awesome-android#readme,Android
 http://romannurik.github.io/AndroidAssetStudio/,Android Asset Studio,https://github.com/JStumpp/awesome-android#readme,Android
-https://clevertap.com,CleverTap,https://github.com/JStumpp/awesome-android#readme,Android
+https://archon-runtime.github.io,ARChon,https://github.com/JStumpp/awesome-android#readme,Android
+http://satyan.github.io/sugar/,Sugar ORM,https://github.com/JStumpp/awesome-android#readme,Android
+https://developer.android.com/courses/,Google Developers Training,https://github.com/JStumpp/awesome-android#readme,Android
 http://jgilfelt.github.io/android-actionbarstylegenerator/,Android Action Bar Style Generator,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.bignox.com,nox,https://github.com/JStumpp/awesome-android#readme,Android
-https://cloudrail.com,CloudRail,https://github.com/JStumpp/awesome-android#readme,Android
-https://globus.software,GLMap,https://github.com/JStumpp/awesome-android#readme,Android
-https://insert-koin.io/,Koin,https://github.com/JStumpp/awesome-android#readme,Android
-http://greenrobot.github.io/EventBus/,EventBus,https://github.com/JStumpp/awesome-android#readme,Android
-http://actionbarsherlock.com,ActionBarSherlock,https://github.com/JStumpp/awesome-android#readme,Android
-https://get.fabric.io/,Fabric Crashlytics,https://github.com/JStumpp/awesome-android#readme,Android
+https://getstream.io/chat/,Stream,https://github.com/JStumpp/awesome-android#readme,Android
+http://robolectric.org/,Roboletric,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.tune.com/,MobileAppTracking,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.bluestacks.com,BlueStacks,https://github.com/JStumpp/awesome-android#readme,Android
+http://www.appcelerator.com/mobile-app-development-products/,Titanium,https://github.com/JStumpp/awesome-android#readme,Android
 https://mindorks.com/,Mindorks,https://github.com/JStumpp/awesome-android#readme,Android
-http://jakewharton.github.io/butterknife/,Butter Knife,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.genymotion.com,Genymotion,https://github.com/JStumpp/awesome-android#readme,Android
+https://ionicframework.com,Ionic Framework,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.cometchat.com/tutorials/android-chat-push-notifications/,Add Push Notifications to Your Android Chat App Using Kotlin,https://github.com/JStumpp/awesome-android#readme,Android
+https://clevertap.com,CleverTap,https://github.com/JStumpp/awesome-android#readme,Android
+https://coronalabs.com/product/,Corona SDK,https://github.com/JStumpp/awesome-android#readme,Android
+https://globus.software,GLMap,https://github.com/JStumpp/awesome-android#readme,Android
+http://melix.github.io/blog/2014/06/grooid.html,Groovy on Android,https://github.com/JStumpp/awesome-android#readme,Android
+http://greenrobot.github.io/EventBus/,EventBus,https://github.com/JStumpp/awesome-android#readme,Android
+https://insert-koin.io/,Koin,https://github.com/JStumpp/awesome-android#readme,Android
+https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android,Square In-App Payments for Android,https://github.com/JStumpp/awesome-android#readme,Android
 https://ayusch.com/,AndroidVille,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.hockeyapp.net/,HockeyApp,https://github.com/JStumpp/awesome-android#readme,Android
 https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed,Android Dialogs,https://github.com/JStumpp/awesome-android#readme,Android
-https://mint.splunk.com/,Splunk MINT,https://github.com/JStumpp/awesome-android#readme,Android
 https://talkingkotlin.com/,Talking Kotlin,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.apteligent.com/,Apteligent,https://github.com/JStumpp/awesome-android#readme,Android
+http://actionbarsherlock.com,ActionBarSherlock,https://github.com/JStumpp/awesome-android#readme,Android
 https://www.androidauthority.com/podcast/,Android Authority,https://github.com/JStumpp/awesome-android#readme,Android
-https://developers.google.com/android/guides/overview,Google Play Services,https://github.com/JStumpp/awesome-android#readme,Android
-https://www.androidcentral.com/podcast,Android Central,https://github.com/JStumpp/awesome-android#readme,Android
+https://get.fabric.io/,Fabric Crashlytics,https://github.com/JStumpp/awesome-android#readme,Android
 https://androiduiux.com/free-design-resources/,Android UI design resources,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.hockeyapp.net/,HockeyApp,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.androidcentral.com/podcast,Android Central,https://github.com/JStumpp/awesome-android#readme,Android
 https://android-arsenal.com/,The Android Arsenal,https://github.com/JStumpp/awesome-android#readme,Android
-https://pencil.evolus.vn/,Pencil Project,https://github.com/JStumpp/awesome-android#readme,Android
+https://mint.splunk.com/,Splunk MINT,https://github.com/JStumpp/awesome-android#readme,Android
+https://developers.google.com/android/guides/overview,Google Play Services,https://github.com/JStumpp/awesome-android#readme,Android
+https://cloudrail.com,CloudRail,https://github.com/JStumpp/awesome-android#readme,Android
+https://www.apteligent.com/,Apteligent,https://github.com/JStumpp/awesome-android#readme,Android
 https://hackr.io/tutorials/learn-android-development,Programming Community Curated Resources for Learning Android Development,https://github.com/JStumpp/awesome-android#readme,Android
+https://developer.android.com/topic/libraries/data-binding/,Data Binding Library,https://github.com/JStumpp/awesome-android#readme,Android
 https://www.vogella.com/tutorials/android.html,Vogella Tutorials,https://github.com/JStumpp/awesome-android#readme,Android
+http://jakewharton.github.io/butterknife/,Butter Knife,https://github.com/JStumpp/awesome-android#readme,Android
+https://pencil.evolus.vn/,Pencil Project,https://github.com/JStumpp/awesome-android#readme,Android

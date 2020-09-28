@@ -1,0 +1,18 @@
+https://player.vimeo.com/video/173346398,OpenDTrace,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300658,DTrace Performance Improvements with Always-on Instrumentation,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300657,D language improvements,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300656,D Syntactic Sugar,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300655,DTrace and Go,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300654,DTrace and Postgres,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300653,DTrace in the Zone,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346406,Introduction,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300651,DTrace ustack() performance improvements,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346405,(Useful!) DTrace intro,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173300650,DTrace Exploitation,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346404,CTF Everywhere!,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346403,Distributed DTrace,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346402,DTracign Apps,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346401,DTrace and JSON: Together at last!,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346400,ASSERT() as a DTrace probe (and why I need some help),https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://player.vimeo.com/video/173346399,Implementing (or not) fds[] in FreeBSD,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blogs.oracle.com/eschrock/entry/dtrace_sysevent_provider,DTrace sysevent provider,https://github.com/xen0l/awesome-dtrace#readme,DTrace error: timeout('The read operation timed out') | reason: 

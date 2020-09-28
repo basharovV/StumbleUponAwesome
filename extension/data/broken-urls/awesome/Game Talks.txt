@@ -1,8 +1,7 @@
 https://vimeo.com/125149688,On Trying to Make Idea-Rich Games,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.linkedin.com/pub/joseph-burchett/10/677/50b,Joseph Burchett,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 999: 'Request denied'> | reason: Request denied
 http://vimeo.com/82383614,Desigining a Legacy Game,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.dicesummit.org/video_gallery/video_gallery_2012.asp,dicesummit,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://vimeo.com/23534126,Lecture Series: Portal 2,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.dicesummit.org/video_gallery/video_gallery_2011.asp,dicesummit,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://gamedesignadvance.com/?page_id=1616,Another Castle,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://infiniteammo.ca/podcast,Infinite Ammo Podcast,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.digipen.edu/news-and-events/podclass-the-digipen-podcast/,Podclass,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found

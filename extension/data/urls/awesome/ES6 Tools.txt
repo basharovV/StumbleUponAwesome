@@ -1,8 +1,7 @@
 https://www.npmjs.com/package/es6-module-packager,es6-module-packager,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
-https://www.npmjs.com/package/jade-traceur,jade-traceur,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://h3manth.com/new/blog/2013/es6-on-nodejs/,ES6 on node,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
-http://jspm.io/,JSPM,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://rollupjs.org/,Rollup,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
+http://jspm.io/,JSPM,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://www.npmjs.com/package/grunt-init-es6,grunt-init-es6,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 https://www.npmjs.com/package/es6-module-transpiler-brunch,plugin,https://github.com/addyosmani/es6-tools#readme,ES6 Tools
 http://soft.vub.ac.be/~tvcutsem/proxies/,Proxy API,https://github.com/addyosmani/es6-tools#readme,ES6 Tools

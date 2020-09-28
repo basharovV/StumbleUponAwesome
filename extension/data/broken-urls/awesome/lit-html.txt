@@ -1,0 +1,3 @@
+https://cdn.pika.dev/lit-html,lit-html,https://github.com/web-padawan/awesome-lit-html#readme,lit-html error: <HTTPError 302: 'Moved Temporarily'> | reason: Moved Temporarily
+https://cdn.pika.dev/lit-element,lit-element,https://github.com/web-padawan/awesome-lit-html#readme,lit-html error: <HTTPError 302: 'Moved Temporarily'> | reason: Moved Temporarily
+https://www.npmjs.com/package/lit-robot,lit-robot,https://github.com/web-padawan/awesome-lit-html#readme,lit-html error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error

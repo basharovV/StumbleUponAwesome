@@ -1,160 +1,175 @@
 https://en.wikipedia.org/wiki/LAPACK,LAPACK,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://portmedia.sourceforge.net/portmidi/,PortMidi,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://marketplace.visualstudio.com/items?itemName=rust-lang.rust,rust-lang/rls-vscode,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://app.wercker.com/applications/59696a02ee70670100155ae2,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://chromium.googlesource.com/chromiumos/platform/crosvm/,chromium/chromiumos/platform/crosvm,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://google.github.io/flatbuffers/,FlatBuffers,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rust-lang-nursery.github.io/rust-cookbook/,Rust Cookbook,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/FixFromDarkness/organize-rt/-/commits/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://oam.dev/,Open Application Model,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://docs.rs/termstyle/0.1.2/termstyle/,termstyle,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/mockiato/mockiato,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/chrisrabotin/nyx/pipelines,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/blackbeam/mysql_async/tree/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://www.arewewebyet.org,Are we web yet?,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/pwoolcoc/soup,pwoolcoc/soup,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://amp.rs,amp,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.libssh2.org/,libssh2,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://areweideyet.com/,Are we (I)DE yet?,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://www.rust-lang.org/production,Rust — Production,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/JSON_Web_Token,JSON Web Token,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/Inotify,inotify,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://cloudsmith.io/l/cargo-registry/,Cloudsmith 💲,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/estk/log4rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://tratt.net/laurie/src/snare/,snare,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://arrayfire.com/,Arrayfire,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/N-gram,n-grams,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://overexact.com/rust-for-professionals/,Rust for professionals,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.reddit.com/r/rust/,Rust Subreddit,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://doc.libsodium.org/,libsodium,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://advsys.net/ken/voxlap.htm,Voxlap,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/pkalivas/radiate,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html,conventional changelog,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.youtube.com/watch?v=t4CyEKb-ywA,Shipping a Solid Rust Crate,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://cirrus-ci.com/github/HeroicKatora/oxide-auth,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://oam.dev/,Open Application Model,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://kiss3d.org,Kiss3d,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://wiki.haskell.org/Introduction_to_QuickCheck1,QuickCheck,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/SnejUgal/tbot,tbot,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://opcfoundation.org/about/opc-technologies/opc-ua/,OPC UA,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://nng.nanomsg.org/index.html,Nng (nanomsg v2),https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/Sensirion/lin-bus-rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/cloudflare/quiche,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://entrproject.org/,entr,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.youtube.com/watch?v=lO1z-7cuRYI,Rust: Hack Without Fear!,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e,Rust in Motion,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://ci.appveyor.com/project/sciter-sdk/rust-sciter,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://ci.appveyor.com/project/vosen/visualrust,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/github/ivanceras/titik,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://tratt.net/laurie/src/snare/,snare,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rocksdb.org/,RocksDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.piston.rs/,Piston,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/neachdainn/nng-rs/pipelines,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/cossacklabs/themis,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/tikv/tikv,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/SnejUgal/tbot/-/commits/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://cis198-2016s.github.io/schedule/,University of Pennsylvania's Comp Sci Rust Programming Course,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/dandavison/delta,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/,A system to programmatically run data pipelines,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol,NNTP,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/imsnif/diskonaut,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html,Brotli,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://tokio.rs,tokio,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://hackr.io/tutorials/learn-rust,Programming Community Curated Resources for Learning Rust,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb,CodeLLDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/holochain/holochain-rust,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/github/ivanceras/sauron-native,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://ci.appveyor.com/project/dgriffen/rls-vs2017,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://areweideyet.com/,Are we (I)DE yet?,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/Post_Office_Protocol,POP3,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://community.chef.io/products/chef-habitat/,habitat,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/rust-lang/rustfmt,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://git.meli.delivery/meli/meli.git,meli,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://symas.com/lmdb/,LMDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/JasonShin/fp-core.rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer,rust-analyzer,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/theimpossibleastronaut/configster,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.sourceware.org/bzip2/,libbz2,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rust-embedded.org/,Rust Embedded,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rustbeginners.github.io/awesome-rust-mentors/,awesome-rust-mentors,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://modbus.org,modbus,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.rust-lang.org/tools,Rust Tools,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://pythonhosted.org/pickleDB/,PickleDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://cosmos.network/ibc/,Interblockchain Communication,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.chef.io/,Chef,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.libssh2.org/,libssh2,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/evansmurithi/cloak,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.sqlite.org/index.html,Sqlite3,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://cloud.drone.io/igor-petruk/scriptisto,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://blog.subnetzero.io/post/building-language-vm-part-00/,Build a language VM,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://docopt.org,DocOpt,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://lcamtuf.coredump.cx/afl/,AFL,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://doc.libsodium.org/,libsodium,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://arewegameyet.rs,Are we game yet?,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/dochtman/Projects/_build,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/FixFromDarkness/organize-rt,organize-rt,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://advsys.net/ken/voxlap.htm,Voxlap,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://exercism.io/tracks/rust,exercism.io,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://doc.rust-lang.org/book/first-edition/ffi.html,Foreign Function Interface,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/chrisrabotin/nyx/pipelines,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/imp/pager-rs,imp/pager-rs,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://chromium.googlesource.com/chromiumos/platform/crosvm/,chromium/chromiumos/platform/crosvm,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/ruffle-rs/ruffle,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/github/MHmorgan/mhdb,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/rust-lang/atom-ide-rust,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.getzola.org/,zola,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://starship.rs/,starship/starship,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/,OPAQUE,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/velvia/compressed-vec,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/nimiq/core-rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/importcjj/rust-ajson,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://stomp.github.io/stomp-specification-1.2.html,STOMP 1.2,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://newrustacean.com,New Rustacean,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/Bencode,Bencode,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://jakegoulding.com/rust-ffi-omnibus/,The Rust FFI Omnibus,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://ci.appveyor.com/project/evansmurithi/cloak,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://maidsafe.net,MaidSafe,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://cglab.ca/~abeinges/blah/too-many-lists/book/,Learning Rust With Entirely Too Many Linked Lists,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://michelhe.github.io/rustboyadvance-ng/,WebAssembly,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/FixFromDarkness/organize-rt/-/commits/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/estk/log4rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://code.google.com/archive/p/miniz,miniz,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://www.arewewebyet.org,Are we web yet?,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/ritchie46/polars,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/libp2p/rust-libp2p,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/paritytech/parity-bitcoin,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://doc.qt.io,Qt,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/N-gram,n-grams,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rustacean-station.org/,Rustacean Station,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/ashleygwilliams/cargo-generate,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.redox-os.org/redox-os/redox,redox-os/redox,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/pkalivas/radiate,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/yoshuawuyts/rustasync/_build?definitionId=2,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://docs.rs,docs.rs,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://www.bittorrent.org/beps/bep_0029.html,uTP,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://doc.rust-lang.org/rust-by-example/,Rust by Example,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/vstakhov/libucl,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/AgilData/mysql-proxy-rs/tree/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/File_Transfer_Protocol,FTP,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/flio/rustation-ng/,rustation-ng,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/lucawen/repoch/,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.eclipse.org/,Eclipse,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://amethyst.rs,Amethyst,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.confluent.io/product/confluent-platform/data-compatibility/,confluent schema registry,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/sfackler/cargo-tree,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://pijul.org,Pijul,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/lucawen/rbtc,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://zeromq.org/,ZeroMQ,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms,BLAS,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://ci.appveyor.com/project/KodrAus/elastic,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://ci.appveyor.com/project/mystor/rust-cpp/branch/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://docs.rs/serialport/3.0.0/serialport/,serialport,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rodrigorc.github.io/raze/,live version here,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rust-lang-nursery.github.io/rust-cookbook/,Rust Cookbook,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://firecracker-microvm.github.io/,Firecracker Microvm,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/elbartus/yake,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/brotzeit/rustic,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.fmod.com,FMOD,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://rusty-spike.blubrry.net,Rusty Spike,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://nanomsg.org/,nanomsg,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://docs.rs/termstyle/0.1.2/termstyle/,termstyle,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.arangodb.com,ArangoDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/maciejkula/rustlearn,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/graphql-rust/GraphQL%20Rust/_build/latest?definitionId=1,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/Limited-memory_BFGS,Conjugate Gradient,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/getzola/zola/_build,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/Inotify,inotify,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t,RustCamp 2015 Talks,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://circleci.com/gh/blackbeam/mysql_async/tree/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://google.github.io/flatbuffers/,FlatBuffers,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/veloren/veloren/commits/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://company-mode.github.io,company,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://cassandra.apache.org,Cassandra,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://app.wercker.com/applications/59696a02ee70670100155ae2,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://portmedia.sourceforge.net/portmidi/,PortMidi,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://tools.ietf.org/html/rfc7252,Constrained Application Protocol(CoAP),https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://amp.rs,amp,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/neachdainn/nng-rs,neachdainn/nng-rs,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/Douman/yukikaze,DoumanAsh/yukikaze,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://aturon.github.io/,Rust Guidelines,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://phabricator.kde.org/source/rust-qt-binding-generator/,Rust Qt Binding Generator,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/freddy6896/espanso/_build,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+http://kakoune.org/,Kakoune,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://www.nginx.com,Nginx,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://travis-ci.com/ilai-deutel/kibi,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://stomp.github.io/stomp-specification-1.2.html,STOMP 1.2,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://benchmarksgame-team.pages.debian.net/benchmarksgame/,The Computer Language Benchmarks Game,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html,Brotli,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/File_Transfer_Protocol,FTP,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/rust-lang/rustfmt,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.redox-os.org/redox-os/redox,redox-os/redox,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://www.netfilter.org/projects/iptables/index.html,iptables,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/holochain/holochain-rust,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rocksdb.org/,RocksDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://git.meli.delivery/meli/meli.git,meli,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/,A system to programmatically run data pipelines,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.arangodb.com,ArangoDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://www.bittorrent.org/beps/bep_0029.html,uTP,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e,Rust in Motion,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.rust-lang.org/tools,Rust Tools,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/Sensirion/lin-bus-rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/Douman/yukikaze,DoumanAsh/yukikaze,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/nimiq/core-rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://cloud.drone.io/igor-petruk/scriptisto,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/JasonShin/fp-core.rs,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://cis198-2016s.github.io/schedule/,University of Pennsylvania's Comp Sci Rust Programming Course,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/SnejUgal/tbot,tbot,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/maciejkula/rustlearn,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.sourceware.org/bzip2/,libbz2,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://ci.appveyor.com/project/KodrAus/elastic,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.habitat.sh,habitat,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/paritytech/parity-bitcoin,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb,CodeLLDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://hypothesis.works/,Hypothesis,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://doc.qt.io,Qt,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/ruffle-rs/ruffle,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://pythonhosted.org/pickleDB/,PickleDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://docs.rs,docs.rs,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/rust-lang/atom-ide-rust,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://blog.subnetzero.io/post/building-language-vm-part-00/,Build a language VM,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://speakerdeck.com/jvns/learning-systems-programming-with-rust,Learning systems programming with Rust,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://nanomsg.org/,nanomsg,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://code.google.com/archive/p/miniz,miniz,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/evansmurithi/cloak,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rust-embedded.org/,Rust Embedded,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://zeromq.org/,ZeroMQ,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.chef.io/,Chef,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://michelhe.github.io/rustboyadvance-ng/,WebAssembly,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://newrustacean.com,New Rustacean,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/SnejUgal/tbot/-/commits/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.youtube.com/watch?v=t4CyEKb-ywA,Shipping a Solid Rust Crate,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/importcjj/rust-ajson,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/Bencode,Bencode,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://phabricator.kde.org/source/rust-qt-binding-generator/,Rust Qt Binding Generator,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/neachdainn/nng-rs,neachdainn/nng-rs,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://cassandra.apache.org,Cassandra,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/flio/rustation-ng/,rustation-ng,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://starship.rs/,starship/starship,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.youtube.com/watch?v=lO1z-7cuRYI,Rust: Hack Without Fear!,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.eclipse.org/,Eclipse,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/lucawen/rbtc,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://doc.rust-lang.org/book/first-edition/ffi.html,Foreign Function Interface,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/imp/pager-rs,imp/pager-rs,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://wiki.haskell.org/Introduction_to_QuickCheck1,QuickCheck,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://sciter.com/,Sciter,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://company-mode.github.io,company,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://dev.azure.com/freddy6896/espanso/_build/latest?definitionId=1&branchName=master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.sqlite.org/index.html,Sqlite3,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://jakegoulding.com/rust-ffi-omnibus/,The Rust FFI Omnibus,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms,BLAS,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://dev.azure.com/andoriyu/personal/_build/latest?definitionId=7&branchName=master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.confluent.io/product/confluent-platform/data-compatibility/,confluent schema registry,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://arewegameyet.com,Are we game yet?,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://dev.azure.com/yoshuawuyts/rustasync/_build?definitionId=2,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rustacean-station.org/,Rustacean Station,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rodrigorc.github.io/raze/,live version here,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://kakoune.org/,Kakoune,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://datatracker.ietf.org/doc/rfc6455/,WebSocket,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.getzola.org/,zola,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/AgilData/mysql-proxy-rs/tree/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/ashleygwilliams/cargo-generate,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/sfackler/cargo-tree,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://docopt.org,DocOpt,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/veloren/veloren/commits/master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://tools.ietf.org/html/rfc7252,Constrained Application Protocol(CoAP),https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/dtolnay/cxx,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://ci.appveyor.com/project/evansmurithi/cloak,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://ci.appveyor.com/project/sciter-sdk/rust-sciter,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rusty-spike.blubrry.net,Rusty Spike,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://hackr.io/tutorials/learn-rust,Programming Community Curated Resources for Learning Rust,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://nng.nanomsg.org/index.html,Nng (nanomsg v2),https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://netbeans.org/,NetBeans,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://maidsafe.net,MaidSafe,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/Limited-memory_BFGS,Conjugate Gradient,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.fmod.com,FMOD,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://lcamtuf.coredump.cx/afl/,AFL,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/tikv/tikv,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://bitbucket.org/cfyzium/bearlibterminal,BearLibTerminal,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/cloudflare/quiche,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://sol.gfxile.net/soloud/,soloud audio engine library,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://travis-ci.com/BenSchZA/pier,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/neachdainn/nng-rs/pipelines,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://travis-ci.com/lucawen/repoch/,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol,NNTP,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://confreaks.tv/events/rustcamp2015,RustCamp 2015 Talks,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://dev.azure.com/dochtman/Projects/_build,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://symas.com/lmdb/,LMDB,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://dev.azure.com/getzola/zola/_build/latest?definitionId=1&branchName=master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://rustbeginners.github.io/awesome-rust-mentors/,awesome-rust-mentors,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://amethyst.rs,Amethyst,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://en.wikipedia.org/wiki/Post_Office_Protocol,POP3,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://en.wikipedia.org/wiki/JSON_Web_Token,JSON Web Token,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://netbeans.org/,NetBeans,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://datatracker.ietf.org/doc/rfc6455/,WebSocket,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2&branchName=master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://buildkite.com/materialize/tests,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
 https://travis-ci.com/imsnif/bandwhich,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://pijul.org,Pijul,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://aturon.github.io/,Rust Guidelines,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://firecracker-microvm.github.io/,Firecracker Microvm,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://opcfoundation.org/about/opc-technologies/opc-ua/,OPC UA,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://entrproject.org/,entr,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://exercism.io/tracks/rust,exercism.io,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://jenkins.amethyst-engine.org/blue/organizations/jenkins/amethyst/activity/,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://tokio.rs,tokio,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://circleci.com/gh/libp2p/rust-libp2p,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://cglab.ca/~abeinges/blah/too-many-lists/book/,Learning Rust With Entirely Too Many Linked Lists,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://ci.appveyor.com/project/vosen/visualrust,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://www.piston.rs/,Piston,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://modbus.org,modbus,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://docs.rs/serialport/3.0.0/serialport/,serialport,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://doc.rust-lang.org/rust-by-example/,Rust by Example,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-http://kiss3d.org,Kiss3d,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://gitlab.com/FixFromDarkness/organize-rt,organize-rt,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://ci.appveyor.com/project/dgriffen/rls-vs2017,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
-https://dev.azure.com/cobalt-org/cobalt-org/_build/latest?definitionId=2&branchName=master,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://cloudsmith.com/cargo-registry/,Cloudsmith 💲,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://travis-ci.com/mockiato/mockiato,,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://gitlab.com/pwoolcoc/soup,pwoolcoc/soup,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://classpert.com/it-computer-science/software-development/rust-programming,Rust Online Courses at Classpert,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/,The Computer Language Benchmarks Game,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://overexact.com/rust-for-professionals/,Rust for professionals,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://www.reddit.com/r/rust/,Rust Subreddit,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://speakerdeck.com/jvns/learning-systems-programming-with-rust,Learning systems programming with Rust,https://github.com/rust-unofficial/awesome-rust#readme,Rust
+https://hypothesis.works/,Hypothesis,https://github.com/rust-unofficial/awesome-rust#readme,Rust

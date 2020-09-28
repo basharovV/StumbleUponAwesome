@@ -1,0 +1,2 @@
+https://spectrum.chat/ava,Spectrum,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://avacasts.com,AVA Casts,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 404: 'Not Found'> | reason: Not Found

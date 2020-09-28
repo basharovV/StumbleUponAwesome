@@ -1,59 +1,56 @@
+https://code.google.com/archive/p/tracexploit/,Tracexploit,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://www.few.vu.nl/argos/,Argos,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html,T-Pot: A Multi-Honeypot Platform,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://code.google.com/archive/p/loganon/,LogAnon,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://www.cs.vu.nl/~herbertb/misc/shelia/,Shelia,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://baitnswitch.sourceforge.net,Bait and Switch,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://code.google.com/archive/p/droidbox/,Droidbox,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://ghh.sourceforge.net,Google Hack Honeypot,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html,T-Pot: A Multi-Honeypot Platform,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://conpot.org/,Conpot,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://buffer.github.io/thug/,Thug,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://shadowd.zecure.org/overview/introduction/,Shadow Daemon,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://thug-distributed.readthedocs.io/en/latest/index.html,Thug Distributed Task Queuing,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/,Dionaea and EC2 in 20 Minutes,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://impost.sourceforge.net/,Impost,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://shadowd.zecure.org/overview/introduction/,Shadow Daemon,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://conpot.org/,Conpot,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://help.comodo.com/topic-72-1-451-4768-.html,COMODO automated sandbox,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole,Honeymole,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://hub.docker.com/r/lyrebird/honeypot-base/,Lyrebird,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://thug-distributed.readthedocs.io/en/latest/index.html,Thug Distributed Task Queuing,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://hub.docker.com/r/honeynet/thug/,Dockerized Thug,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://isc.sans.edu/diary/22680,Using a Raspberry Pi honeypot to contribute data to DShield/ISC,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://cuckoosandbox.org/,Cuckoo,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://hub.docker.com/r/lyrebird/honeypot-base/,Lyrebird,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://www.gfi.com/products-and-solutions/all-products,CWSandbox / GFI Sandbox,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://www.keyfocus.net/kfsensor/,KFSensor,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://scadahoneynet.sourceforge.net,SCADA honeynet,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://monkey.org/~jose/software/rfi-sandbox/,RFISandbox,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://sysdig.com/opensource/,Sysdig,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://www.gfi.com/products-and-solutions/all-products,CWSandbox / GFI Sandbox,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://isc.sans.edu/diary/22680,Using a Raspberry Pi honeypot to contribute data to DShield/ISC,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://libvmi.com/,vmitools,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://sourceforge.net/projects/honeyperl/,Honeyperl,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://bitbucket.org/zaccone/quechua,Quechua,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/,scada-honeynet,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://pecl.php.net/package/funcall,funcall,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://code.google.com/archive/p/dns-mole/,dnsMole,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://artemisa.sourceforge.net,Artemnesia VoIP,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://canarytokens.org/generate,CanaryTokens.org,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://www.frida.re,Frida,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://www.honeyd.org/tools.php,Honeycomb,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://link.springer.com/article/10.1007%2Fs10115-008-0137-3,vEYE,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://hihat.sourceforge.net/,HIHAT,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://honeyview.sourceforge.net/,Honeyview,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://www.all.net/dtk/dtk.html,Deception Toolkit,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://pecl.php.net/package/funcall,funcall,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://www.hybrid-analysis.com,Hybrid Analysis,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://code.google.com/archive/p/tracexploit/,Tracexploit,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://www.few.vu.nl/argos/,Argos,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://honeybrid.sourceforge.net,HoneyBrid,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://labrea.sourceforge.net/labrea-info.html,LaBrea,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://jbxcloud.joesecurity.org/login,Joebox Cloud,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://kojoney.sourceforge.net/,Kojoney,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://malwr.com/,malwr.com,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole,Honeymole,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/,scada-honeynet,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://www.openhub.net/p/mwcollectd,mwcollectd,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://amunhoney.sourceforge.net,Amun,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://sites.google.com/site/webhoneypotsite/,DShield Web Honeypot Project,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://baitnswitch.sourceforge.net,Bait and Switch,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://code.google.com/archive/p/dns-mole/,dnsMole,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://afterglow.sourceforge.net/,Afterglow,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://www.cgsecurity.org/,TestDisk & PhotoRec,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://libvmi.com/,vmitools,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://www.frida.re,Frida,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://hihat.sourceforge.net/,HIHAT,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://sourceforge.net/projects/honeystats/,HoneyStats,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://sourceforge.net/projects/honeyperl/,Honeyperl,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://communityhoneynetwork.readthedocs.io/en/stable/,Community Honey Network,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://www.icir.org/christian/honeycomb/,Honeycomb,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://www.cc2asn.com/,CC2ASN,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://heipei.io/sigint-hpfriends/,hpfriends - real-time social data-sharing,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://www.all.net/dtk/dtk.html,Deception Toolkit,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://canarytokens.org/generate,CanaryTokens.org,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://honeybrid.sourceforge.net,HoneyBrid,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://www.honeyd.org/tools.php,Honeycomb,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://kojoney.sourceforge.net/,Kojoney,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://honeyview.sourceforge.net/,Honeyview,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://sites.google.com/site/webhoneypotsite/,DShield Web Honeypot Project,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+http://amunhoney.sourceforge.net,Amun,https://github.com/paralax/awesome-honeypots#readme,Honeypots
+https://www.cgsecurity.org/,TestDisk & PhotoRec,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm,Mail::SMTP::Honeypot,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://www.atomicsoftwaresolutions.com/,HoneyBOT,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://www.nepenthespharm.com/,PHARM,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/,Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-http://impost.sourceforge.net/,Impost,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://www.spamhole.net/,Spamhole,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 https://code.google.com/archive/p/gsoc-honeyweb/,HoneyWeb,https://github.com/paralax/awesome-honeypots#readme,Honeypots
 http://monkeyspider.sourceforge.net,MonkeySpider,https://github.com/paralax/awesome-honeypots#readme,Honeypots
-https://www.cs.vu.nl/~herbertb/misc/shelia/,Shelia,https://github.com/paralax/awesome-honeypots#readme,Honeypots

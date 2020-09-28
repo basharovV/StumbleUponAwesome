@@ -1,115 +1,116 @@
-https://en.wikipedia.org/wiki/NarrowBand_IOT,NB-IoT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security,DTLS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Overview,Tiny OS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://lwmqn.github.io/,Lightweight MQTT Machine Network,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www-ssl.intel.com/content/dam/www/public/us/en/documents/white-papers/developing-solutions-for-iot.pdf,Developing solutions for the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Eddystone_(Google),Eddystone,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614,Hakim Cassimally,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.udoo.org,UDOO,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://thomasnordquist.github.io/MQTT-Explorer/,MQTT Explorer,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.onem2m.org/,OneM2M,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Sigfox,Sigfox,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf,Evaluation of indoor positioning based on Bluetooth Smart technology,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://ubos.net/,UBOS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://z-wavealliance.org/,Z-Wave Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://developer.qualcomm.com/hardware/dragonboard-410c,Dragonboard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://i1820.github.io/,I1820,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Wi-Fi,Wi-Fi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.ipso-alliance.org/ipso-community/resources/technical-archive/,Technical Archive,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://opcfoundation.org/,OPCUA,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://iostash.io,IOStash,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/6LoWPAN,6LowPan,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://developer.apple.com/homekit/,Apple HomeKit,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511,Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.blynk.cc,Blynk,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://thingsboard.io,Thingsboard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://mynewt.apache.org/,Apache Mynewt,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://dev.windows.com/en-us/iot,Windows 10 IoT Core,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://openconnectivity.org/,OCF,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://arxiv.org/pdf/1207.0203.pdf,IoT: A Vision, Architectural Elements, and Future Directions,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://iota.org/,IOTA,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/C_(programming_language),C,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/IBeacon,iBeacon,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992,Smart Things: Ubiquitous Computing User Experience Design,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://kuzzle.io/solutions/technologies/iot-backend/,Website,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html,AIOTI,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.espressif.com/en/products/hardware/esp32/overview,ESP32,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://threadgroup.org/,Thread,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://iot.mozilla.org/,Mozilla WebThings,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/C%2B%2B,C++,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/ZigBee,ZigBee,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.groovy-lang.org/,Groovy,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.bluetooth.com/,Bluetooth Special Interest Group,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/MQTT,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://cylonjs.com/,Cylon.js,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.lua.org/,Lua,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Mike-Kuniavsky/e/B001K8LTGU/ref=dp_byline_cont_book_1,Mike Kuniavsky,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://corlysis.com/,Corlysis,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.solid-run.com/freescale-imx6-family/hummingboard/,HummingBoard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.ipso-alliance.org/,IPSO Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://fresh.amazon.com/dash/,Amazon Dash,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.eluaproject.net/,eLua,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.opc-router.com/opc-router-details/,OPC Router,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.manning.com/books/javascript-on-things,JavaScript on Things: Hardware for Web Developers,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://eclipse.org/smarthome/,Eclipse Smarthome,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/WebSocket,Websocket,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf,Realizing the Potential of the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://c3d.github.io/elfe/,ELFE,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.freedomotic.com,Freedomotic,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.lora-alliance.org/,LoRa Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.z-wave.com/,Z-Wave,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://freeboard.io/,Freeboard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://luvit.io/,Luvit,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank,Lyza Danger Gardner,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Near_field_communication,NFC,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://johnny-five.io/,Johnny-Five,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Z-Wave,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://opcfoundation.org/about/opc-foundation/mission-statement/,OPC Foundation,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://losant.com,Losant,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/OPC_Unified_Architecture,OPCUA,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://coap.technology/,CoAP,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/,A Simple Explanation Of 'The Internet Of Things' (Forbes),https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://nebula.readthedocs.io,Nebula,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://pi4j.com/,Pi4J,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://eclipse.org/kura/,Kura,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.wi-fi.org/,Wi-Fi Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
 https://en.wikipedia.org/wiki/Constrained_Application_Protocol,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://wiringpi.com/,WiringPi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.contiki-os.org/,Contiki,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://docs.micropython.org/,MicroPython,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://amazon.com/author/domguinard,Dominique Guinard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://microservicebus.com,MicroServiceBus.com,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.zigbee.org/,Zigbee Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html,Intel Galileo,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337,Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf,The Internet of Things: Evolution or Revolution ?,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://gladysassistant.com,Gladys,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://wiki.eclipse.org/Mihini,Mihini,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.dreamfactory.com,DreamFactory,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/,IoT security. Is there an app for that ?,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.etsi.org/technologies-clusters/technologies/m2m,ETSI M2M,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.freertos.org/,FreeRTOS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/IEEE_802.15.4,802.15.4,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.openhab.org/,OpenHAB,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1,Nitesh Dhanjani,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Bluetooth,Bluetooth,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://en.wikipedia.org/wiki/Bluetooth_low_energy,Bluetooth Low Energy,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://gobot.io/,Gobot,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://wso2.com/wso2_resources/wso2_whitepaper_a-reference-architecture-for-the-internet-of-things.pdf,A Reference Architecture for the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://manning.com/books/using-the-web-to-build-the-iot,Using the Web to Build the IoT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/,EC-GSM-IoT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
 https://en.wikipedia.org/wiki/LoRaWAN,LoRaWAN,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732,Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.microduino.cc/,Microduino,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1,Robert Faludi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.nodemcu.com/index_en.html,Node MCU (ESP 8266),https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://www.olimex.com/Products/OLinuXino/open-source-hardware,OLinuXino,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1,Designing the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://developer.qualcomm.com/hardware/dragonboard-410c,Dragonboard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/NarrowBand_IOT,NB-IoT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
 http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1,Adrian McEwen,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security,DTLS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://lwmqn.github.io/,Lightweight MQTT Machine Network,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Sigfox,Sigfox,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Eddystone_(Google),Eddystone,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Wi-Fi,Wi-Fi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614,Hakim Cassimally,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol,HTTP,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://wso2.com/wso2_resources/wso2_whitepaper_a-reference-architecture-for-the-internet-of-things.pdf,A Reference Architecture for the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://i1820.github.io/,I1820,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/6LoWPAN,6LowPan,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/IBeacon,iBeacon,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.udoo.org,UDOO,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511,Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/MQTT,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://wiringpi.com/,WiringPi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www-ssl.intel.com/content/dam/www/public/us/en/documents/white-papers/developing-solutions-for-iot.pdf,Developing solutions for the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://iostash.io,IOStash,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.etsi.org/technologies-clusters/technologies/m2m,ETSI M2M,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://mynewt.apache.org/,Apache Mynewt,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.zigbee.org/,Zigbee Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf,Evaluation of indoor positioning based on Bluetooth Smart technology,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://thingsboard.io,Thingsboard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/WebSocket,Websocket,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Near_field_communication,NFC,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://thomasnordquist.github.io/MQTT-Explorer/,MQTT Explorer,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://threadgroup.org/,Thread,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992,Smart Things: Ubiquitous Computing User Experience Design,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/OPC_Unified_Architecture,OPCUA,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/ZigBee,ZigBee,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://developer.apple.com/homekit/,Apple HomeKit,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Mike-Kuniavsky/e/B001K8LTGU/ref=dp_byline_cont_book_1,Mike Kuniavsky,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.espressif.com/en/products/hardware/esp32/overview,ESP32,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://kuzzle.io/solutions/technologies/iot-backend/,Website,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.blynk.cc,Blynk,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.onem2m.org/,OneM2M,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.ipso-alliance.org/ipso-community/resources/technical-archive/,Technical Archive,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://z-wavealliance.org/,Z-Wave Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.z-wave.com/,Z-Wave,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://waterstream.io/,Waterstream,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://arxiv.org/pdf/1207.0203.pdf,IoT: A Vision, Architectural Elements, and Future Directions,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.manning.com/books/javascript-on-things,JavaScript on Things: Hardware for Web Developers,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Z-Wave,Wikipedia,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://opcfoundation.org/,OPCUA,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://iota.org/,IOTA,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank,Lyza Danger Gardner,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://cylonjs.com/,Cylon.js,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.mbed.com/,ARM mbed,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://iot.mozilla.org/,Mozilla WebThings,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://coap.technology/,CoAP,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://fresh.amazon.com/dash/,Amazon Dash,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf,Realizing the Potential of the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.contiki-os.org/,Contiki,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://luvit.io/,Luvit,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.solid-run.com/freescale-imx6-family/hummingboard/,HummingBoard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://freeboard.io/,Freeboard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://corlysis.com/,Corlysis,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/,A Simple Explanation Of 'The Internet Of Things' (Forbes),https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://johnny-five.io/,Johnny-Five,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://eclipse.org/smarthome/,Eclipse Smarthome,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://book.webofthings.io,Building the Web of Things: with examples in Node.js and Raspberry Pi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://pi4j.com/,Pi4J,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.opc-router.com/opc-router-details/,OPC Router,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.freedomotic.com,Freedomotic,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.freertos.org/,FreeRTOS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://nebula.readthedocs.io,Nebula,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://openconnectivity.org/,OCF,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html,Intel Galileo,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://amazon.com/author/domguinard,Dominique Guinard,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html,AIOTI,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/,IoT security. Is there an app for that ?,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://gladysassistant.com,Gladys,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337,Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/IEEE_802.15.4,802.15.4,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.bluetooth.com/,Bluetooth Special Interest Group,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://ubos.net/,UBOS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.nodemcu.com/index_en.html,Node MCU (ESP 8266),https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Bluetooth,Bluetooth,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1,Nitesh Dhanjani,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://eclipse.org/kura/,Kura,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/Bluetooth_low_energy,Bluetooth Low Energy,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://losant.com,Losant,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.olimex.com/Products/OLinuXino/open-source-hardware,OLinuXino,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://dev.windows.com/en-us/iot,Windows 10 IoT Core,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://microservicebus.com,MicroServiceBus.com,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/C_(programming_language),C,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.dreamfactory.com,DreamFactory,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/,EC-GSM-IoT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://en.wikipedia.org/wiki/C%2B%2B,C++,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://wiki.eclipse.org/Mihini,Mihini,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://manning.com/books/using-the-web-to-build-the-iot,Using the Web to Build the IoT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.groovy-lang.org/,Groovy,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732,Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.lua.org/,Lua,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1,Robert Faludi,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.ipso-alliance.org/,IPSO Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.eluaproject.net/,eLua,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1,Designing the Internet of Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.openhab.org/,OpenHAB,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
 http://www.hardkernel.com/,Odroid,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://node-os.com/,NodeOS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-https://raspbian.org/,Raspbian,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://c3d.github.io/elfe/,ELFE,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
 https://www.particle.io,Particle,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
-http://www.riot-os.org/,RIOT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.lora-alliance.org/,LoRa Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://gobot.io/,Gobot,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://opcfoundation.org/about/opc-foundation/mission-statement/,OPC Foundation,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://docs.micropython.org/,MicroPython,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://node-os.com/,NodeOS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
 https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/,Pinoccio,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://www.wi-fi.org/,Wi-Fi Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+https://raspbian.org/,Raspbian,https://github.com/HQarroum/awesome-iot#readme,Internet of Things
+http://www.riot-os.org/,RIOT,https://github.com/HQarroum/awesome-iot#readme,Internet of Things

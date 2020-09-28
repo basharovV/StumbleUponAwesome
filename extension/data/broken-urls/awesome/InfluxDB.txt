@@ -1,1 +1,1 @@
-https://www.dropwizard.io/0.9.1/docs/,dropwizard,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB error: timeout('The read operation timed out') | reason: 
+https://www.dropwizard.io/0.9.1/docs/,dropwizard,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB error: <HTTPError 404: 'Not Found'> | reason: Not Found

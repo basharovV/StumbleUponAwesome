@@ -1,0 +1,6 @@
+https://bitbucket.org/kachelaqa/pkgbrowser,PkgBrowser,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.magpieos.net/,MagpieOS,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.archlinux32.org/,Arch Linux 32,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects error: timeout('The read operation timed out') | reason: 
+https://sourceforge.net/projects/puppyrusa/,PuppyRus-A,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects error: timeout('The read operation timed out') | reason: 
+https://sourceforge.net/projects/rasparch/,RaspArch,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects error: timeout('The read operation timed out') | reason: 
+http://kmkeen.com/pkgbuild-watch/,pkgbuild-watch,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects error: timeout('timed out') | reason: 

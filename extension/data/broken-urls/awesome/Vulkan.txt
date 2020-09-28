@@ -1,7 +1,7 @@
-https://developer.samsung.com/game/usage,Vulkan Usage Recommencation,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan,AMD,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: timeout('timed out') | reason: 
-https://developer.android.com/ndk/guides/graphics/index.html,For Android,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+https://www.basemark.com/blog/basemark-extends-its-benchmarking-lead-with-a-vulkan-performance-test/,Basemark,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developer.android.com/ndk/guides/graphics/index.html,For Android,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
-Moved Temporarily
+Found
 https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf,Efficient Rendering with Vulkan on PowerVR,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan,AMD,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: timeout('timed out') | reason: 
 http://gpuopen.com/say-hello/,Say Hello to a New Rendering API in Town!,https://github.com/vinjn/awesome-vulkan#readme,Vulkan error: <HTTPError 404: 'Not Found'> | reason: Not Found

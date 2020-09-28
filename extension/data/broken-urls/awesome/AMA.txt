@@ -1,7 +1,5 @@
 http://anthonyramella.com,blog,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://M-ZUBER/AMA,Mordechai Zuber,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://sourcejs.com,SourceJS,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://nodecasts.io,Nodecasts,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://descriptive.audio,Descriptive Podcast,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://www.mashape.com,Mashape,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://watchmecode.com,screencaster,https://github.com/sindresorhus/amas#readme,AMA error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://watchmecode.com,screencaster,https://github.com/sindresorhus/amas#readme,AMA error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

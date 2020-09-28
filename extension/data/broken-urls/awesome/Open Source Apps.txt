@@ -1,0 +1,3 @@
+https://tracking.gitads.io/?repo=open-source-mac-os-appss,here,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://tracking.gitads.io/?repo=open-source-mac-os-apps,,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/kosovan/theunarchiver/src,The Unarchiver,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found

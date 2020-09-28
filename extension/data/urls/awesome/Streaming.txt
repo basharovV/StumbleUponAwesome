@@ -1,5 +1,6 @@
 https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/,In-Stream Big Data Processing,https://github.com/manuzhang/awesome-streaming#readme,Streaming
 http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf,Real Time Analytics: Algorithms and Systems (VLDB 2015),https://github.com/manuzhang/awesome-streaming#readme,Streaming
+https://www.manning.com/books/grokking-streaming-systems,Grokking Streaming Systems,https://github.com/manuzhang/awesome-streaming#readme,Streaming
 http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html,streaming (stream processing),https://github.com/manuzhang/awesome-streaming#readme,Streaming
 https://manuzhang.github.io/awesome-streaming/,https://manuzhang.github.io/awesome-streaming/,https://github.com/manuzhang/awesome-streaming#readme,Streaming
 https://logdevice.io/,LogDevice,https://github.com/manuzhang/awesome-streaming#readme,Streaming

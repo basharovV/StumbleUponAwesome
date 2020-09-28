@@ -1,1 +1,1 @@
-https://wiki.bash-hackers.org/,Bash Hackers Wiki,https://github.com/alebcay/awesome-shell#readme,Shell error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
+http://xmlstar.sourceforge.net/,xmlstarlet,https://github.com/alebcay/awesome-shell#readme,Shell error: timeout('timed out') | reason: 

@@ -1,80 +1,81 @@
 http://stomp.github.io/,Stomp,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.spock.li/tutorials/getting-started,Getting Started,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Network,Network,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Interfacing_other_languages,Tools for interfacing with other languages,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Data_structures,Data Structures & IO Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.haskell.org/alex/,Alex,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Applications_and_libraries/Theorem_provers,Theorem Provers,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Network,Network,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Conferences,Conferences,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Data_structures,Data Structures & IO Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Interfacing_other_languages,Tools for interfacing with other languages,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.yesodweb.com/book-1.6,Developing Web Applications with Yesod and Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.haskell.org/documentation,Documentation,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Conferences,Conferences,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Web/Servers,Web Servers,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Database_interfaces,Database Interfaces,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Music_and_sound,Audio, music and sound,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.haskell.org/cabal/,Cabal,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.youtube.com/playlist?list=PLnqUlCo055hV5dPC-4VWeXzhI8ooeTsVy,Haskell Symposium 2015,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Web/Servers,Web Servers,https://github.com/krispo/awesome-haskell#readme,Haskell
 http://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B,Redoing Make - Haskell from Scratch,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Database_interfaces,Database Interfaces,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B,Haskell Implementors' Workshop 2015,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Music_and_sound,Audio, music and sound,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.haskell.org/ghc/,GHC,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Learning_Haskell,Learn Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Web/Frameworks,Web Frameworks,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://fay-lang.org/,Fay,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.haskell.org/community,Community,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://www.youtube.com/playlist?list=PLxj9UAX4Em-IBXkvcC3MycLlcxyoi7v8B,Haskell - Code Deconstructed,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.stackage.org/,Stackage,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html,GHCi,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Development_Libraries_and_Tools,Development Libraries and Tools,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.youtube.com/playlist?list=PLnqUlCo055hV5dPC-4VWeXzhI8ooeTsVy,Haskell Symposium 2015,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://leepike.github.io/Copilot/,Copilot,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://haskell-distributed.github.io/,Cloud Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B,Haskell Implementors' Workshop 2015,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.haskell.org/ghc/,GHC,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Applications_and_libraries/Compilers_and_interpreters,Compilers & Interpreters,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Books,Books,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Operating_system,Operating systems and systems programming,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Editors,Editors written in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.stackage.org/,Stackage,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://www.youtube.com/playlist?list=PLxj9UAX4Em-IBXkvcC3MycLlcxyoi7v8B,Haskell - Code Deconstructed,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Web/Cloud,Cloud,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html,GHCi,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Generic_programming,Generic Programming,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://hackage.haskell.org/,Hackage,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Tutorials,Tutorials,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Editors,editors for Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries,Application & Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Compiler_tools,Compiler construction, lexing, parsing, pretty printing,https://github.com/krispo/awesome-haskell#readme,Haskell
 http://www.youtube.com/playlist?list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx,Adventures in Haskell - A Calculator,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Bioinformatics,Bioinformatics,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://dev.stephendiehl.com/hask/,What I Wish I Knew When Learning Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.haskell.org/haddock/,Haddock,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Extended_Haskell,Extended Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Concurrency_and_parallelism,Concurrency & Parallelism,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://haskell-distributed.github.io/,Cloud Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Web/Cloud,Cloud,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries,Application & Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://hackage.haskell.org/,Hackage,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Compiler_tools,Compiler construction, lexing, parsing, pretty printing,https://github.com/krispo/awesome-haskell#readme,Haskell
 http://www.youtube.com/playlist?list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd,Sed implementation in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Mathematics,Mathematics & Physics,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Games,Games,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://happylearnhaskelltutorial.com/,Happy Learn Haskell Tutorial,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Web/Deploy,Deploy,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Tutorials,Tutorials,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Editors,Editors written in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.haskell.org/haddock/,Haddock,https://github.com/krispo/awesome-haskell#readme,Haskell
 http://www.youtube.com/user/LazyCasts,LazyCasts,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://chimera.labs.oreilly.com/books/1230000000929/index.html,Concurrency & Parallelism,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.haskell.org/onlinereport/,Revised report,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://leepike.github.io/Copilot/,Copilot,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Concurrency_and_parallelism,Concurrency & Parallelism,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://dev.stephendiehl.com/hask/,What I Wish I Knew When Learning Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Web/Libraries,Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Editors,editors for Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.haskell.org/happy/,Happy,https://github.com/krispo/awesome-haskell#readme,Haskell
 http://www.youtube.com/watch?v=Li6oaO8x2VY,Haskell Development Workflow Demo,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/GUI_libraries,Graphical User Interface (GUI) Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.reddit.com/r/haskell/,Reddit,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh,Learn You a Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://hackage.haskell.org/package/deiko-config,Deiko-config,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems,H-99,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://hackage.haskell.org/package/configurator,Configurator,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Graphics,Graphics,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://stackoverflow.com/questions/tagged?tagnames=haskell,Stackoverflow,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Web/Libraries,Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.futurelearn.com/courses/functional-programming-haskell/,Functional Programming in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://www.haskell.org/,Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Applications_and_libraries/Linguistics,Linguistics and natural language processing,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html,Introduction to Haskell - Web Programming,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://tryhaskell.org/,Try Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Operating_system,Operating systems and systems programming,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Web/Databases_and_Persistence,Database and Persistence,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh,Learn You a Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Extended_Haskell,Extended Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Web/Testing_and_Verification,Testing and Verification,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Generic_programming,Generic Programming,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://happylearnhaskelltutorial.com/,Happy Learn Haskell Tutorial,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Games,Games,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Web/Content_Management,CMS,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.futurelearn.com/courses/functional-programming-haskell/,Functional Programming in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Bioinformatics,Bioinformatics,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://chimera.labs.oreilly.com/books/1230000000929/index.html,Concurrency & Parallelism,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/GUI_libraries,Graphical User Interface (GUI) Libraries,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.haskell.org/onlinereport/,Revised report,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Mathematics,Mathematics & Physics,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://hackage.haskell.org/package/deiko-config,Deiko-config,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.reddit.com/r/haskell/,Reddit,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://pandoc.org/,Pandoc,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Graphics,Graphics,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems,H-99,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://www.haskell.org/,Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://stackoverflow.com/questions/tagged?tagnames=haskell,Stackoverflow,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://tryhaskell.org/,Try Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html,Introduction to Haskell - Web Programming,https://github.com/krispo/awesome-haskell#readme,Haskell
+http://hackage.haskell.org/package/configurator,Configurator,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://plus.google.com/communities/104818126031270146189,G+,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html,Your First Web Application with Spock,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Web/Testing_and_Verification,Testing and Verification,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/Applications_and_libraries/Linguistics,Linguistics and natural language processing,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Mailing_lists,Mailing lists,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/Web/Content_Management,CMS,https://github.com/krispo/awesome-haskell#readme,Haskell
-https://wiki.haskell.org/IRC_channel,IRC channels,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Applications_and_libraries/Robotics,Robotics,https://github.com/krispo/awesome-haskell#readme,Haskell
+https://wiki.haskell.org/IRC_channel,IRC channels,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/User_groups,Local user groups,https://github.com/krispo/awesome-haskell#readme,Haskell
-http://pandoc.org/,Pandoc,https://github.com/krispo/awesome-haskell#readme,Haskell
 http://planet.haskell.org/,Planet Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://wiki.haskell.org/Haskell_Communities_and_Activities_Report,Haskell Communities and Activities Report,https://github.com/krispo/awesome-haskell#readme,Haskell
 https://www.haskell.org/hoogle/,Hoogle,https://github.com/krispo/awesome-haskell#readme,Haskell

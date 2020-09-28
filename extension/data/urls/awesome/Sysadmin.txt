@@ -1,277 +1,287 @@
-http://www.thekelleys.org.uk/dnsmasq/doc.html,dnsmasq,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://nginx.org/,Nginx,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.ganeti.org/,Ganeti,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.gnu.org/software/emacs/,GNU Emacs,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://mogilefs.org/,MogileFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://kafka.apache.org,Kafka,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://hadoop.apache.org/,HDFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://brackets.io/,Brackets,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html,tcollector,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://rocketeer.autopergamene.eu/,Rocketeer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cherokee-project.com/,Cherokee,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://golangci.com/,GolangCI,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 https://ant.apache.org/,Apache Ant,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.poweradmin.org/,Poweradmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://activemq.apache.org/,ActiveMQ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://elrepo.org/tiki/tiki-index.php,ElRepo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://kubernetes.io/,Kubernetes,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.reddit.com,Reddit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://creativecommons.org/licenses/by-sa/4.0/,Creative Commons Attribution-ShareAlike 4.0 International,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://easybuild.readthedocs.org/en/latest/,EasyBuild,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://kr.github.io/beanstalkd/,BeanstalkD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://feathur.com,Feathur,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://pcp.io,Performance Co-Pilot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://mitmproxy.org/,mitmproxy,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://wpkg.org/,WPKG,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://uchiwa.io/,Uchiwa,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://wiki.archlinux.org/,ArchWiki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.pomerium.io/,Pomerium,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://alternativeto.net,AlternativeTo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.infradead.org/ocserv/,ocserv,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.netxms.org/,NetXMS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://darcs.net/Theory/PekkaPatchTheory,wiki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://ganglia.sourceforge.net/,Ganglia,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://maven.apache.org/,Apache Maven,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.rabbitmq.com/,RabbitMQ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://burp.grke.org/,Burp,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.glpi-project.org/,GLPI,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.openafs.org/,OpenAFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.knot-dns.cz/,Knot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://portainer.io/,Portainer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.varnish-cache.org/,Varnish,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://retspen.github.io,WebVirtMgr,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.nylas.com/nylas-mail/,Nylas Mail,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://mathias-kettner.com/check_mk.html,check_mk,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://lighttable.com/,Light Table,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.postgresql.org/,PostgreSQL,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://gearman.org/,Gearman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://jenkins-ci.org/,Jenkins,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://graphite.readthedocs.org/en/latest/,Graphite,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://phpsysinfo.github.io/phpsysinfo/,PhpSysInfo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://go.drawthe.net/,DrawThe.Net,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://wpkg.org/,WPKG,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://freeradius.org/,FreeRADIUS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://tigervnc.org/,Tiger VNC,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://cfengine.com/,CFEngine,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.virtualmin.com/,Virtualmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://easybuild.readthedocs.org/en/latest/,EasyBuild,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.claws-mail.org/,Claws Mail,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.hiawatha-webserver.org/,Hiawatha,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.convirture.com/products_opensource.php,ConVirt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://bosun.org/quickstart.html,Documentation,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://deb.sury.org/,deb.sury.org,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.xymon.com/,Xymon,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://kubernetes.io/docs/,Documentation,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://ajenti.org/,Ajenti,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.bitwizard.nl/mtr/,mtr,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.tacc.utexas.edu/research-development/tacc-projects/lmod,environment-modules Lmod,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://bounca.org/,BounCA,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://phpipam.net/,phpIPAM,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://atomiadns.com/,Atomia DNS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.isc.org/downloads/bind/,Bind,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://lustre.org/,Lustre,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.firebirdsql.org/,Firebird,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://nginx.org/,Nginx,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.eclipse.org/,Eclipse,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.rethinkdb.com/,RethinkDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.observium.org/,Observium,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://mermaid-js.github.io/mermaid-live-editor/,Mermaid,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://jenkins-ci.org/,Jenkins,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.bazel.io/,Bazel,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.remmina.org/wp/,Remmina,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.duplicati.com,Duplicati,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://puppet.com/,Puppet,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://imapsync.lamiral.info/,ImapSync,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://oss.oetiker.ch/rrdtool/,RRDtool,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://app.diagrams.net/,Diagrams.net,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cr.yp.to/djbdns.html,djbdns,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.cacti.net,Cacti,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://pritunl.com/,Pritunl,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.poweradmin.org/,Poweradmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.varnish-cache.org/,Varnish,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://opennebula.org/,OpenNebula,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://elrepo.org/tiki/tiki-index.php,ElRepo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://duplicity.nongnu.org/,Duplicity,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://smallstep.com/certificates/,Smallstep Certificates,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://buildbot.net/,Buildbot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.geany.org/,Geany,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://laminar.ohwg.net,Laminar,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://omdistro.org/,OMD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://opendj.forgerock.org/,OpenDJ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://wiki.gentoo.org/,Gentoo Wiki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.exist-db.org/,Https://www.exist-db.org/,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://dashing.io/,Dashing,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://andrewchilds.github.io/overcast/,Overcast,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://openvz.org,OpenVZ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://wiki.x2go.org/doku.php,X2go,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.moosefs.org/,MooseFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://rclone.org/,rclone,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cabotapp.com/,Cabot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.gnu.org/software/emacs/,GNU Emacs,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://analogj.github.io/capsulecd-slides/,CapsuleCD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.mutt.org/,Mutt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://fedoraproject.org/wiki/EPEL,EPEL,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://clonezilla.org/,Clonezilla,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://wiki.openstack.org/wiki/Designate,Designate,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://puppet.com/products/bolt,Bolt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://creativecommons.org/licenses/by-sa/4.0/,Creative Commons Attribution-ShareAlike 4.0 International,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://grml.org,grml,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://lighttable.com/,Light Table,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.glpi-project.org/,GLPI,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://zookeeper.apache.org/,ZooKeeper,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://blog.devopsguys.com/,DevOpsGuys,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://facette.io,Facette,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.thekelleys.org.uk/dnsmasq/doc.html,dnsmasq,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://mogilefs.org/,MogileFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://ius.io/,IUS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://arstechnica.com/civis/,ArsTechnica OpenForum,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://concourse-ci.org/,Concourse,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.nongnu.org/rdiff-backup/,Rdiff-backup,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 https://camlistore.org/,Camlistore,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://galeracluster.com/,Galera,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.phptesting.org/,PHPCI,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://saltstack.com/,Salt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.shrubbery.net/rancid/,RANCID,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cockpit-project.org/,Cockpit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://opentsdb.net/,OpenTSDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://community.zenoss.org,Zenoss,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.docker.com/,Docker,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://mathias-kettner.com/check_mk.html,check_mk,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://pcp.io,Performance Co-Pilot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://neo4j.com/,Neo4j,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://mitmproxy.org/,mitmproxy,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.nylas.com/nylas-mail/,Nylas Mail,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://limetext.org/,Lime,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.amanda.org/,Amanda,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://restic.net/,Restic,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://rpms.famillecollet.com/,Remi,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.knot-dns.cz/,Knot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.openafs.org/,OpenAFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.openshift.org,Openshift,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://racktables.org/,RackTables,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://ci.concourse-ci.org/,Demo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.softether.org/,SoftEther,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://mariadb.org/,MariaDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://docs.docker.com/compose/,Docker Compose,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.tacc.utexas.edu/research-development/tacc-projects/lmod,environment-modules Lmod,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://cachethq.io,Cachet,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://phpsysinfo.github.io/phpsysinfo/,PhpSysInfo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://strider-cd.github.io/,Strider,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.rconfig.com/,rConfig,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.bitwizard.nl/mtr/,mtr,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://micro-editor.github.io/,Micro,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://developer.rackspace.com/blog/,Rackspace Developers,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://docs.docker.com/engine/swarm/,Docker Swarm,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.ezservermonitor.com,eZ Server Monitor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.factor.io/,Factor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://influxdb.com/,InfluxDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.fogproject.org/,Fog,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://snipeitapp.com/,Snipe IT,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://rsnapshot.org/,Rsnapshot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.stashboard.org,Stashboard,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.bareos.org/en/,Bareos,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.openstack.org/,OpenStack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.adminer.org/,adminer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.strongswan.org/,strongSwan,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://redis.io/,Redis,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://ori.scs.stanford.edu/,Ori Filesystem,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://www.OpenLDAP.org/,OpenLDAP,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://opennebula.org/,OpenNebula,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://racktables.org/,RackTables,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.gns3.com/,GNS3,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://linuxcontainers.org/lxc/,LXC,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.duplicati.com,Duplicati,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://ius.io/,IUS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.phpservermonitor.org/,PHP Server Monitor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://cfengine.com/,CFEngine,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.postgres-xl.org/,PostgreSQL-XL,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://andrewchilds.github.io/overcast/,Overcast,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://community.openvpn.net,OpenVPN,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://laminar.ohwg.net,Laminar,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.reddit.com/r/linux,/r/Linux,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://clonezilla.org/,Clonezilla,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://puppet.com/,Puppet,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cockpit-project.org/,Cockpit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://docs.gns3.com/,Documentation,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://duplicity.nongnu.org/,Duplicity,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://hpcbios.readthedocs.org/en/latest/,HPCBIOS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://snipeitapp.com/,Snipe IT,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://maven.apache.org/,Apache Maven,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.ezservermonitor.com,eZ Server Monitor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://sylpheed.sraoss.jp/en/,Sylpheed,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://k3oni.github.io/pydash/,pyDash,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://rpms.famillecollet.com/,Remi,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.freeipa.org/,FreeIPA,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.webmin.com/,Webmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://rclone.org/,rclone,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.elastic.co/,Elasticsearch,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.sysdig.org/,Sysdig,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.linux-kvm.org,KVM,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://sqlite.org/,SQLite,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.nlnetlabs.nl/projects/nsd/,NSD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.nongnu.org/rdiff-backup/,Rdiff-backup,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://ceph.com/,Ceph,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://kafka.apache.org,Kafka,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://couchdb.apache.org/,CouchDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://opennodecloud.com,OpenNode,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://flapjack.io/,Flapjack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://buildbot.net/,Buildbot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://spack.io/,Spack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.phptesting.org/,PHPCI,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://limetext.org/,Lime,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://capistranorb.com/,Capistrano,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://restic.net/,Restic,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.bazel.io/,Bazel,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.openshift.org,Openshift,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://phpipam.net/,phpIPAM,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://linuxcontainers.org/lxd/,LXD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.rabbitmq.com/,RabbitMQ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.powerdns.com/,PowerDNS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://blog.devopsguys.com/,DevOpsGuys,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://analogj.github.io/capsulecd-slides/,CapsuleCD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.fogproject.org/,Fog,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.firebirdsql.org/,Firebird,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.reddit.com/r/chatops,https://www.reddit.com/r/chatops,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://flume.apache.org/,Flume,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.fabfile.org/,Fabric,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://tigervnc.org/,Tiger VNC,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://sensuapp.org/,Sensu,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.mozilla.org/de/thunderbird/,Thunderbird,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://puppet.com/products/bolt,Bolt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://mozilla-services.github.io/hindsight/,Hindsight,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.fusiondirectory.org,Fusion Directory,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://micro-editor.github.io/,Micro,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://nadarei.co/mina/,Mina,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://docs.openstack.org/developer/swift/,Swift,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://archipelproject.org/,Archipel,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://strider-cd.github.io/,Strider,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.eggheads.org/,Eggdrop,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://drbd.linbit.com/,DRBD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://rsnapshot.org/,Rsnapshot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.shinken-monitoring.org/,Shinken,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://unbound.net/,Unbound,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.snebu.com/,Snebu,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cloudstack.apache.org/,CloudStack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://concourse-ci.org/,Concourse,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.reddit.com/r/sysadmin/,/r/SysAdmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.urbackup.org/,UrBackup,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.mongodb.org/,MongoDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cobbler.github.io/,Cobbler,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.amanda.org/,Amanda,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://zbackup.org/,ZBackup,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.fossil-scm.org/,Fossil,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://froxlor.org/,Froxlor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.ovirt.org/,oVirt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://adagios.org/,Adagios,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.claws-mail.org/,Claws Mail,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.gerritcodereview.com/,Gerrit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://ci.concourse-ci.org/,Demo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.munki.org/munki/,munki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://ocsinventory-ng.org/?lang=en,OCS Inventory NG,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.openstack.org/,OpenStack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://sheepdog.github.io/sheepdog/,SheepDog,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.icinga.org/,Icinga,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://swmp.ml/,SWMP - Server Web Monitor Page,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://leo-project.net,LeoFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://collectd.org/,Collectd,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.factor.io/,Factor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://git-scm.com/,Git,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.remmina.org/wp/,Remmina,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://openvz.org,OpenVZ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.bareos.org/en/,Bareos,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.shrubbery.net/rancid/,RANCID,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.thruk.org/,Thruk,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://access.redhat.com/documentation/en/red-hat-software-collections/,Red Hat Software Collections,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.ispconfig.org,ISPConfig,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://indieauth.com/,Indieauth,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://bolo.niftylogic.com/,bolo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://linuxcommand.org/tlcl.php,The Linux Command Line,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://backuppc.github.io/backuppc/,BackupPC,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://galeracluster.com/,Galera,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://community.spiceworks.com/start,Spiceworks Community,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://ravendb.net/,RavenDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://sentora.org/,Sentora,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.softether.org/,SoftEther,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://bazaar.canonical.com/,GNU Bazaar,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://theforeman.org/,The Foreman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://collectl.sourceforge.net/,Collectl,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://uchiwa.io/,Uchiwa,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.rconfig.com/,rConfig,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.proxmox.com/proxmox-ve,Proxmox VE,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://vestacp.com/,VestaCP,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://subversion.apache.org/,Subversion,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html,tcollector,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.i-doit.org/,i-doit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.port389.org/,389 Directory Server,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.strongswan.org/,strongSwan,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://bosun.org/,Bosun,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.libravatar.org/,Libravatar,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.gluster.org/,GlusterFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://darcs.net/,Darcs,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.opsi.org,Opsi,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://tahoe-lafs.org/trac/tahoe-lafs,TahoeLAFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://ganglia.sourceforge.net/,Ganglia,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://cachethq.io,Cachet,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.tinc-vpn.org/,tinc,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.xymon.com/,Xymon,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.yadifa.eu/,Yadifa,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://darcs.net/Theory/PekkaPatchTheory,wiki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://sysadmin.libhunt.com,Awesome SysAdmin @ LibHunt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.xtreemfs.org/,XtreemFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://serverfault.com/,Server Fault,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.eucalyptus.cloud/,Eucalyptus,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.go.cd/,GoCD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://directory.apache.org/,Apache Directory Server,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.combodo.com/itop-193,iTop,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://wiki.x2go.org/doku.php,X2go,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://bosun.org/quickstart.html,Documentation,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.ldap-account-manager.org/lamcms/,LDAP Account Manager (LAM),https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://ipfs.io/,IPFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.qemu.org/,QEMU,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://tumblr.github.io/collins/,Collins,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.naemon.org/,Naemon,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.convirture.com/products_opensource.php,ConVirt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.mutt.org/,Mutt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.virtualmin.com/,Virtualmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://osiam.github.io/,OSIAM,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://hadoop.apache.org/,HDFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.stashboard.org,Stashboard,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://atomiadns.com/,Atomia DNS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://serversforhackers.com/,Servers for Hackers,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://lustre.org/,Lustre,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://flynn.io,Flynn,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://golangci.com/,GolangCI,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://oss.oetiker.ch/rrdtool/,RRDtool,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://stackexchange.github.io/dnscontrol/,DnsControl,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.pomerium.io/,Pomerium,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.rethinkdb.com/,RethinkDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://tsuru.io,Tsuru,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.cacti.net,Cacti,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.wireguard.com/,WireGuard,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://zookeeper.apache.org/,ZooKeeper,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://werf.io/,werf,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 https://www.phplist.com/,phpList,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.ansible.com/,Ansible,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.netdata.cloud/,Netdata,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://dashing.io/,Dashing,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.opsschool.org,Ops School,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://brackets.io/,Brackets,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://algernon.roboticoverlords.org/,Algernon,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://bounca.org/,BounCA,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.webmin.com/,Webmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://backuppc.github.io/backuppc/,BackupPC,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.tinc-vpn.org/,tinc,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.snebu.com/,Snebu,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://hbase.apache.org/,Apache HBase,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://bosh.io/docs/,BOSH,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en,WAPT,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://mesos.apache.org/,Mesos,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cabotapp.com/,Cabot,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://wiki.archlinux.org/,ArchWiki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.isc.org/downloads/bind/,Bind,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.moosefs.org/,MooseFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.exist-db.org/,Https://www.exist-db.org/,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.netxms.org/,NetXMS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://httpd.apache.org/,Apache,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.docker.com/,Docker,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://facette.io,Facette,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cr.yp.to/djbdns.html,djbdns,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://itrevolution.com/books/phoenix-project-devops-book/,The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.system-status-dashboard.com/,System Status Dashboard (SSD),https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.cloudfoundry.org/,Cloud Foundry,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://smallstep.com/certificates/,Smallstep Certificates,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://opentsdb.net/,OpenTSDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.adminer.org/,adminer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.eclipse.org/,Eclipse,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://staytus.co/,Staytus,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://webopsweekly.com/,Web Operations Weekly,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cherokee-project.com/,Cherokee,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://neo4j.com/,Neo4j,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://cassandra.apache.org/,Cassandra,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://docs.docker.com/compose/,Docker Compose,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.pgbarman.org,Barman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.percona.com/software,Percona Server,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://wiki.openstack.org/wiki/Designate,Designate,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://everythingsysadmin.com/books.html,The Practice of System and Network Administration,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://getcloudify.org/,Cloudify,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.xcp-ng.org/,XCP-ng,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://alternativeto.net,AlternativeTo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://grml.org,grml,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://attic-backup.org,Attic,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://www.hiawatha-webserver.org/,Hiawatha,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.geany.org/,Geany,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://influxdb.com/,InfluxDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://docs.docker.com/engine/swarm/,Docker Swarm,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://deb.sury.org/,deb.sury.org,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://opendj.forgerock.org/,OpenDJ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.observium.org/,Observium,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.cloudslang.io/,CloudSlang,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://wiki.gentoo.org/,Gentoo Wiki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.xenproject.org/,Xen,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://redis.io/,Redis,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://omdistro.org/,OMD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.phpservermonitor.org/,PHP Server Monitor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://docs.basho.com/,Riak,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://xenserver.org/,XenServer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-https://jujucharms.com/,Juju,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://arstechnica.com/civis/,ArsTechnica OpenForum,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://nano-editor.org,Nano,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://archipelproject.org/,Archipel,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://portainer.io/,Portainer,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://hpcbios.readthedocs.org/en/latest/,HPCBIOS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://ceph.com/,Ceph,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://froxlor.org/,Froxlor,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.percona.com/software,Percona Server,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://sylpheed.sraoss.jp/en/,Sylpheed,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cloudstack.apache.org/,CloudStack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://capistranorb.com/,Capistrano,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.elastic.co/,Elasticsearch,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://k3oni.github.io/pydash/,pyDash,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.urbackup.org/,UrBackup,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://linuxcommand.org/tlcl.php,The Linux Command Line,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://gitlab.com/gitlab-org/gitlab-ce,Source Code,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://graphite.readthedocs.org/en/latest/,Graphite,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://flapjack.io/,Flapjack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cassandra.apache.org/,Cassandra,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.nlnetlabs.nl/projects/nsd/,NSD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.wireguard.com/,WireGuard,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://cobbler.github.io/,Cobbler,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.system-status-dashboard.com/,System Status Dashboard (SSD),https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://linuxcontainers.org/lxc/,LXC,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.fabfile.org/,Fabric,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://zbackup.org/,ZBackup,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.gns3.com/,GNS3,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://flume.apache.org/,Flume,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.ispconfig.org,ISPConfig,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://spack.io/,Spack,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis,http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
-http://www.infradead.org/ocserv/,ocserv,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://theforeman.org/,The Foreman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://staytus.co/,Staytus,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.powerdns.com/,PowerDNS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://algernon.roboticoverlords.org/,Algernon,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://nadarei.co/mina/,Mina,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://linuxcontainers.org/lxd/,LXD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.postgresql.org/,PostgreSQL,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://mozilla-services.github.io/hindsight/,Hindsight,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.mozilla.org/de/thunderbird/,Thunderbird,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://drbd.linbit.com/,DRBD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.gerritcodereview.com/,Gerrit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://docs.gns3.com/,Documentation,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://docs.openstack.org/developer/swift/,Swift,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.reddit.com,Reddit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://httpd.apache.org/,Apache,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.port389.org/,389 Directory Server,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://0xacab.org/riseuplabs/backupninja,Backupninja,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.icinga.org/,Icinga,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.go.cd/,GoCD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.munki.org/munki/,munki,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://adagios.org/,Adagios,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://couchdb.apache.org/,CouchDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://sentora.org/,Sentora,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://collectd.org/,Collectd,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://directory.apache.org/,Apache Directory Server,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://sheepdog.github.io/sheepdog/,SheepDog,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://leo-project.net,LeoFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.i-doit.org/,i-doit,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.librenms.org,LibreNMS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://vestacp.com/,VestaCP,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.freeipa.org/,FreeIPA,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://unbound.net/,Unbound,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://tsuru.io,Tsuru,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://bloonix-monitoring.org/,Bloonix,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.reddit.com/r/chatops,https://www.reddit.com/r/chatops,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://collectl.sourceforge.net/,Collectl,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://sensuapp.org/,Sensu,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://itrevolution.com/books/phoenix-project-devops-book/,The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.pgbarman.org,Barman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.fossil-scm.org/,Fossil,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://access.redhat.com/documentation/en/red-hat-software-collections/,Red Hat Software Collections,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.combodo.com/itop-193,iTop,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://swmp.ml/,SWMP - Server Web Monitor Page,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://bolo.niftylogic.com/,bolo,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.naemon.org/,Naemon,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.yadifa.eu/,Yadifa,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://everythingsysadmin.com/books.html,The Practice of System and Network Administration,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.gluster.org/,GlusterFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
 http://packman.readthedocs.org,packman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://tahoe-lafs.org/trac/tahoe-lafs,TahoeLAFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://git-scm.com/,Git,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.thruk.org/,Thruk,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://tumblr.github.io/collins/,Collins,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.postgres-xl.org/,PostgreSQL-XL,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.eggheads.org/,Eggdrop,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://attic-backup.org,Attic,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://bosh.io/docs/,BOSH,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.mongodb.org/,MongoDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://stackexchange.github.io/dnscontrol/,DnsControl,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://bosun.org/,Bosun,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://bazaar.canonical.com/,GNU Bazaar,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.fusiondirectory.org,Fusion Directory,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.netdata.cloud/,Netdata,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://activemq.apache.org/,ActiveMQ,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://ipfs.io/,IPFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.xtreemfs.org/,XtreemFS,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://subversion.apache.org/,Subversion,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://sysadmin.libhunt.com,Awesome SysAdmin @ LibHunt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://kr.github.io/beanstalkd/,BeanstalkD,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.cloudfoundry.org/,Cloud Foundry,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://darcs.net/,Darcs,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.reddit.com/r/linux,/r/Linux,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.ansible.com/,Ansible,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://indieauth.com/,Indieauth,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.linux-kvm.org,KVM,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://gearman.org/,Gearman,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://ravendb.net/,RavenDB,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://sqlite.org/,SQLite,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://opennodecloud.com,OpenNode,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.opsschool.org,Ops School,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://getcloudify.org/,Cloudify,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.ovirt.org/,oVirt,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.cloudslang.io/,CloudSlang,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.proxmox.com/proxmox-ve,Proxmox VE,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://ocsinventory-ng.org/?lang=en,OCS Inventory NG,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.reddit.com/r/linuxquestions,/r/LinuxQuestions,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://jujucharms.com/,Juju,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.qemu.org/,QEMU,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.opsi.org,Opsi,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en,WAPT,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.xcp-ng.org/,XCP-ng,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.eucalyptus.cloud/,Eucalyptus,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://flynn.io,Flynn,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.reddit.com/r/sysadmin/,/r/SysAdmin,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://mesos.apache.org/,Mesos,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://www.xenproject.org/,Xen,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.libravatar.org/,Libravatar,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://www.ldap-account-manager.org/lamcms/,LDAP Account Manager (LAM),https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://community.spiceworks.com/start,Spiceworks Community,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://osiam.github.io/,OSIAM,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://serverfault.com/,Server Fault,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+https://serversforhackers.com/,Servers for Hackers,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin
+http://webopsweekly.com/,Web Operations Weekly,https://github.com/n1trux/awesome-sysadmin#readme,Sysadmin

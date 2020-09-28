@@ -1,1 +1,9 @@
 https://liberapay.com/icculus/,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: <HTTPError 410: 'Gone'> | reason: Gone
+https://opencollective.com/pixelfed,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/f-droid,F-Droid,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/lollipop-cloud-team,Lollipop Cloud,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/secure-scuttlebutt-consortium,Secure Scuttlebutt,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/flarum/,Flarum,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/qubes-os,Qubes OS,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/thelounge,The Lounge,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 
+https://opencollective.com/perkeep,Perkeep,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons error: timeout('The read operation timed out') | reason: 

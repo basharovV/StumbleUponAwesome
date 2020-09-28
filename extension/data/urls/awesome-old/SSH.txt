@@ -1,0 +1,34 @@
+https://manfred.life/,blog,https://github.com/moul/awesome-ssh#readme,SSH
+http://linux.die.net/man/1/scp,scp,https://github.com/moul/awesome-ssh#readme,SSH
+https://rsync.samba.org,rsync,https://github.com/moul/awesome-ssh#readme,SSH
+https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol,sftp,https://github.com/moul/awesome-ssh#readme,SSH
+http://curl.haxx.se,curl,https://github.com/moul/awesome-ssh#readme,SSH
+https://mosh.mit.edu,Mosh,https://github.com/moul/awesome-ssh#readme,SSH
+http://www.harding.motd.ca/autossh/,autossh,https://github.com/moul/awesome-ssh#readme,SSH
+https://sshhub.de,sshhub,https://github.com/moul/awesome-ssh#readme,SSH
+https://tmux.github.io,tmux,https://github.com/moul/awesome-ssh#readme,SSH
+http://sourceforge.net/projects/clusterssh/,ClusterSSH,https://github.com/moul/awesome-ssh#readme,SSH
+http://www.ryanbrink.com/slack-ssh-session-notifications/,Slack notifications,https://github.com/moul/awesome-ssh#readme,SSH
+https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/,archived version,https://github.com/moul/awesome-ssh#readme,SSH
+https://serverauth.com,ServerAuth,https://github.com/moul/awesome-ssh#readme,SSH
+https://www.netfort.gr.jp/~dancer/software/dsh.html.en,DSH - Dancer's shell / distributed shell,https://github.com/moul/awesome-ssh#readme,SSH
+https://code.google.com/p/sshpt/,SSH Power Tool,https://github.com/moul/awesome-ssh#readme,SSH
+https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en,Secure Shell chrome extension,https://github.com/moul/awesome-ssh#readme,SSH
+https://guacamole.incubator.apache.org/,Apache Guacamole,https://github.com/moul/awesome-ssh#readme,SSH
+http://linux.die.net/man/8/sshmitm,sshmitm,https://github.com/moul/awesome-ssh#readme,SSH
+http://www.telnet.org/htm/faq.htm,telnet,https://github.com/moul/awesome-ssh#readme,SSH
+https://en.wikipedia.org/wiki/Remote_Shell,rsh,https://github.com/moul/awesome-ssh#readme,SSH
+https://www.libssh.org,libssh,https://github.com/moul/awesome-ssh#readme,SSH
+https://godoc.org/golang.org/x/crypto/ssh,crypto/ssh,https://github.com/moul/awesome-ssh#readme,SSH
+http://www.jcraft.com/jsch/,jsch,https://github.com/moul/awesome-ssh#readme,SSH
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu,How to use SSH to Connect to a Remote Server,https://github.com/moul/awesome-ssh#readme,SSH
+https://blog.0xbadc0de.be/archives/300,Best practices,https://github.com/moul/awesome-ssh#readme,SSH
+http://linux-audit.com/granting-temporary-access-to-servers-using-signed-ssh-keys/,Granting Temporary Access to Your Servers (Using Signed SSH Keys),https://github.com/moul/awesome-ssh#readme,SSH
+https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/,How to SSH login without a password,https://github.com/moul/awesome-ssh#readme,SSH
+https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777,01/14/2016,https://github.com/moul/awesome-ssh#readme,SSH
+https://wiki.mozilla.org/Security/Guidelines/OpenSSH,Security/Guidelines/OpenSSH - MozillaWiki,https://github.com/moul/awesome-ssh#readme,SSH
+http://linux.die.net/man/1/ssh,man page,https://github.com/moul/awesome-ssh#readme,SSH
+http://www.openssh.com/specs.html,Specifications (OpenSSH),https://github.com/moul/awesome-ssh#readme,SSH
+https://en.wikipedia.org/wiki/Secure_Shell,Wikipedia article,https://github.com/moul/awesome-ssh#readme,SSH
+http://stackoverflow.com/questions/tagged/ssh,StackOverflow,https://github.com/moul/awesome-ssh#readme,SSH
+http://serverfault.com/questions/tagged/ssh,ServerFault,https://github.com/moul/awesome-ssh#readme,SSH

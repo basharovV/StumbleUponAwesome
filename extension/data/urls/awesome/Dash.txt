@@ -1,54 +1,54 @@
 https://www.youtube.com/watch?v=dueejcyrYh8,An introduction to Dash DataTable,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html,Finding Bigfoot with Dash, Part 1,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html,Part 2,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://squid-syracuse.herokuapp.com/,Street Quality IDentification [SQUID],https://github.com/ucg8j/awesome-dash#readme,Dash
+https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html,Part 2,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://community.plot.ly,Plotly hosted Question and Answer community,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html,Part 3,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/products/dash/,,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://stackoverflow.com/questions/tagged/plotly-dash,Stack Overflow,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://plot.ly/dash/plugins,Tutorial on creating custom Dash components with React.js.,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/stock-tickers/,Simple Stock Tickers,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://lukesingham.com/,Luke Singham,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/products/dash/,,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/,Visualize Earthquakes with Plotly Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://dash.plot.ly/dash-bio,Dash Bio Components,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.youtube.com/watch?v=yfWJXkySfe0,ARGO Labs - Plotly Dash Tutorial (Video),https://github.com/ucg8j/awesome-dash#readme,Dash
-https://alysivji.github.io/,Aly Sivji,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt,Data Visualization GUIs with Dash and Python (Video playlist),https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.youtube.com/watch?v=3F5AR-uUqJc,Interactive Visualization of Machine Learning and Computer Vision with Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503,Introducing Plotly Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.youtube.com/watch?v=wifoPPRgG_I,Webinar: Converting React components to Dash components,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/volatility-surface,Volatility Surface Explorer,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://dash.plot.ly/canvas,Dash Canvas Components,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.youtube.com/watch?v=LKXSFBB5ccI,Interactive Image Processing with Dash-Canvas,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://pascalbugnion.net,Pascal Bugnion,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.youtube.com/watch?v=snXcIsCMQgk,Dash Cytoscape Component,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://dash.plot.ly/cytoscape,Dash Cytoscape Component,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/getting-started,Plotly's tutorials - Part 1: App Layout,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://dash.plot.ly/datatable,Dash DataTable Component,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/drug-explorer/,Drug Discovery,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://dash.plot.ly/dash-daq,Dash DAQ Components,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/live-wind-data/,Live Wind Streaming,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://traffic-accidents-uk.herokuapp.com/,Traffic Accidents UK,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/getting-started-part-2,Plotly's tutorials - Part 2: Interactivity,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://dash-bootstrap-components.opensource.asidatascience.com/,dash-bootstrap-components,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/interactive-graphing,Plotly's tutorials - Part 3: Interactive Graphing,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/recession-report/,Recession in 255 Charts,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/stock-tickers/,Simple Stock Tickers,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.youtube.com/watch?v=yfWJXkySfe0,ARGO Labs - Plotly Dash Tutorial (Video),https://github.com/ucg8j/awesome-dash#readme,Dash
+https://lukesingham.com/,Luke Singham,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt,Data Visualization GUIs with Dash and Python (Video playlist),https://github.com/ucg8j/awesome-dash#readme,Dash
+https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503,Introducing Plotly Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.youtube.com/watch?v=3F5AR-uUqJc,Interactive Visualization of Machine Learning and Computer Vision with Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://alysivji.github.io/,Aly Sivji,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://dash.plot.ly/dash-bio,Dash Bio Components,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.youtube.com/watch?v=wifoPPRgG_I,Webinar: Converting React components to Dash components,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://pascalbugnion.net,Pascal Bugnion,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.youtube.com/watch?v=LKXSFBB5ccI,Interactive Image Processing with Dash-Canvas,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/volatility-surface,Volatility Surface Explorer,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://plot.ly/dash/gallery,Plotly App Gallery,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html,How the Recession Reshaped the Economy in 255 Charts,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/new-york-oil-and-gas/,Oil and Gas Explorer,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.youtube.com/watch?v=snXcIsCMQgk,Dash Cytoscape Component,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://dash.plot.ly/canvas,Dash Canvas Components,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://www.dashboardom.com/,Dash Data Dashboards and Apps,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/getting-started,Plotly's tutorials - Part 1: App Layout,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://www.youtube.com/watch?v=eusglTlW4OA,Dash: Data exploration web apps in pure Python,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://dash.plot.ly/cytoscape,Dash Cytoscape Component,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://www.youtube.com/watch?v=sea2K4AuPOk,Overview of Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://www.youtube.com/watch?v=5BAthiN0htc&t=1s,We're Launching Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/state,Plotly's tutorials - Part 4: Callbacks With State,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/uber-rides/,Uber Rides,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://plot.ly/dash/gallery/yield-curve/,3D Yield Curve,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://alysivji.github.io/reactive-dashboards-with-dash.html,Interactive Web-Based Dashboards in Python,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html,A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/drug-explorer/,Drug Discovery,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://dash.plot.ly/datatable,Dash DataTable Component,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python,Plotly dash and data visualisation in Python, PyData, Berlin 2017,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/live-wind-data/,Live Wind Streaming,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/getting-started-part-2,Plotly's tutorials - Part 2: Interactivity,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://dash.plot.ly/dash-daq,Dash DAQ Components,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf,plotly.py Cheat Sheet,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/recession-report/,Recession in 255 Charts,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://dash-bootstrap-components.opensource.asidatascience.com/,dash-bootstrap-components,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/interactive-graphing,Plotly's tutorials - Part 3: Interactive Graphing,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html,How the Recession Reshaped the Economy in 255 Charts,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/new-york-oil-and-gas/,Oil and Gas Explorer,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/yield-curve/,3D Yield Curve,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/gallery/uber-rides/,Uber Rides,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html,A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://plot.ly/dash/state,Plotly's tutorials - Part 4: Callbacks With State,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://bigfoot-sightings-dash.herokuapp.com/,Finding Bigfoot,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://alysivji.github.io/reactive-dashboards-with-dash.html,Interactive Web-Based Dashboards in Python,https://github.com/ucg8j/awesome-dash#readme,Dash
+https://belle-croissant-54211.herokuapp.com/,Visualize Earthquakes with Plotly Dash,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb,Using Plotly’s Dash to deliver public sector decision support dashboards,https://github.com/ucg8j/awesome-dash#readme,Dash
 https://radumas.info/blog/tutorial/2017/08/10/codeday.html,OPS CodeDay: Dash Plotly Map + Graph,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://bigfoot-sightings-dash.herokuapp.com/,Finding Bigfoot,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf,plotly.py Cheat Sheet,https://github.com/ucg8j/awesome-dash#readme,Dash
 http://pbpython.com/plotly-dash-intro.html,Creating Interactive Visualizations with Plotly’s Dash Framework,https://github.com/ucg8j/awesome-dash#readme,Dash
-https://belle-croissant-54211.herokuapp.com/,Visualize Earthquakes with Plotly Dash,https://github.com/ucg8j/awesome-dash#readme,Dash

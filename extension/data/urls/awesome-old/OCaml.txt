@@ -1,0 +1,150 @@
+https://ocamlverse.github.io/,OCamlverse,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://adambard.com/blog/getting-started-with-ocaml/,OCaml for the impatient,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ocaml.org/,Official OCaml Website,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://discuss.ocaml.org/,OCaml Discourse Web Forum,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://discord.gg/ZBgYuvR,OCaml Discord Chat,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://caml.inria.fr/resources/forums.en.html,Official OCaml Mailing List,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ocaml.org/community/planet/,OCaml Planet,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.reddit.com/r/ocaml/,OCaml SubReddit,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://philtomson.github.io/blog/2014-05-29-comparing-a-machine-learning-algorithm-implemented-in-f-sharp-and-ocaml/,Comparing a Machine Learning Algorithm Implemented in F# and OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.lri.fr/~filliatr/combine/,https://www.lri.fr/~filliatr/combine/,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.xmailserver.org/xdiff-lib.html,libXdiff,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://raft.github.io/raft.pdf,Raft consensus algorithm,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/react,React,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://gallium.inria.fr/blog/,Gagallium,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://typeocaml.com/,Type OCaml – Many things about OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://opam.ocaml.org/blog/,OCaml Platform,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://drup.github.io/,Drup's Thingies,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/,More OCaml: Algorithms, Methods, and Diversions,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.greenteapress.com/thinkocaml/index.html,How to Think Like a (Functional) Programmer,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocaml-book.com/,OCaml from the Very Beginning,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383,Pearls of Functional Algorithm Design,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://realworldocaml.org/,Real World OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ocaml.github.io/ocamlunix/,Unix System Programming in OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://caml.inria.fr/pub/docs/u3-ocaml,Using, Understanding, and Unraveling OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures,Purely Functional Data Structures,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.ffconsultancy.com/products/ocaml_for_scientists/,OCaml for Scientists,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.cs.cornell.edu/courses/cs3110/2018fa/textbook/,Functional Programming in OCaml: A Principled Approach,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://mascot.x9c.fr/,Mascot,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.cduce.org/,cDuce,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://compcert.inria.fr/,Compcert C Compiler,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.eff-lang.org/,Eff Programming Language,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://nekovm.org/,Neko Programming Language,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://protz.github.io/mezzo/,Mezzo Programming Language,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.ocamljava.org/,OCaml-Java,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://opalang.org/,Opa Programming Language,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.cminusminus.org/,Quick C-- Target Language,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.cs.tufts.edu/~nr/c--/qc--.html,Alternative website,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://facebook.github.io/reason/,Reason,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://raml.co/index.html,RaML,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html,ocamllex/ocamlyacc,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://llvm.org/docs/tutorial/OCamlLangImpl1.html,Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocsigen.org/lwt/,Lwt,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://opensource.janestreet.com/async/,Async,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://blog.janestreet.com/announcing-async/,The blog post that introduced Async,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://rgrinberg.com/posts/abandoning-async/,A user gives up on Async,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/,Cooperative Concurrency in OCaml: A Core.Std.Async Example,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://forge.ocamlcore.org/projects/camldbm/,Dbm,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://massd.github.io/mongo/,Mongo.ml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://pgocaml.forge.ocamlcore.org/,PG'OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://mmottl.github.io/postgresql-ocaml/,PostgreSQL-OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://mlin.github.io/ocaml-sqlite3EZ/,Sqlite3EZ,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ygrek.org.ua/p/ocaml-mysql/,mysql,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://obigstore.forge.ocamlcore.org/,Obigstore,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/,Implementing the Binary Memcached Protocol with Ocaml and Bitstring,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11,Interfacing OCaml and PostgreSQL with Caqti,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://calendar.forge.ocamlcore.org/,calendar,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/ptime,ptime,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://try.ocamlpro.com/,Try OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.tutorialspoint.com/compile_ocaml_online.php,codingground,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://caml.inria.fr/pub/docs/manual-ocaml/browser.html,ocamlbrowser,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://openmirage.org/blog/modular-foreign-function-bindings,Modular foreign function bindings,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.typerex.org/ocp-index.html,ocp-index,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://sublime.wbond.net/packages/OCaml%20Autocompletion,Sublime text package,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.typerex.org/ocp-indent.html,ocp-indent,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ocaml.org/learn/tutorials/99problems.html,99 problems,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://rosettacode.org/wiki/Category:OCaml,Rosetta Code,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://exercism.io/languages/ocaml,OCaml at Exercism,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://coq.inria.fr/,Coq,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://why3.lri.fr/,Why3,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://alt-ergo.lri.fr/,Alt-Ergo,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://haifengl.wordpress.com/2014/06/17/ocaml-introduction/,Functional Programming with OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective/,Python to OCaml: retrospective,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://queue.acm.org/detail.cfm?id=2038036,OCaml for the Masses,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://espertech.wordpress.com/2014/07/15/why-we-use-ocaml,Why We Use OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://wiki.xen.org/wiki/OCaml_Coding_Considerations,Xen – OCaml Coding Considerations,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs,Monads are a class of hard drugs,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html,Beginner's guide to OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/,Why OCaml, why now?,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://cranialburnout.blogspot.ca/,A blog about game development in OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html,(Functional) Alternatives to inheritance,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://learnxinyminutes.com/docs/ocaml/,Learn X in Y minutes,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://archimedes.forge.ocamlcore.org/,archimedes,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.linux-nantes.org/~fmonnier/OCaml/GL/,glMLite,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://forge.ocamlcore.org/projects/lablgl/,lablgl,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/tgls,tgls,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://lablgtk.forge.ocamlcore.org/,lablgtk,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://forge.ocamlcore.org/projects/labltk/,labltk,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/tsdl,TSDL,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml,Higher-Rank Polymorphism in OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.lexifi.com/ocaml/inlined-records-constructors/,Inlined records in constructors,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://espertech.wordpress.com/2014/07/30/algebraic-data-types/,Algebraic Data Types,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers,XEN – OCaml Best Practices for Developers,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://opensource.janestreet.com/standards/,OCaml Style Guide (by Jane Street),https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html,[1],https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html,[2],https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.seas.upenn.edu/~cis120/current/programming_style.shtml,[3],https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://bitbucket.org/camlspotter/compiler-libs-hack,A safe but strange way of modifying OCaml compiler,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/,Fiddling with the OCaml Type System,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/logs,Logs,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ocaml.xyz/,Owl,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://blog.janestreet.com/deep-learning-experiments-in-ocaml/,Deep Learning with OCaml (PyTorch bindings),https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://blog.janestreet.com/of-pythons-and-camels/,Transfer Learning with OCaml (PyTorch bindings),https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/,Reinforcement Learning with OCaml (PyTorch bindings),https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://whitequark.org/blog/2014/04/16/a-guide-to-extension-points-in-ocaml/,A Guide to Extension Points in OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://blogs.janestreet.com/extension-points-or-how-ocaml-is-becoming-more-like-lisp,Extension Points, or how OCaml is becoming more like Lisp,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.lexifi.com/ocaml/syntax-extensions-without-camlp4-lets-do-it/,Syntax extensions without Camlp4: let's do it!,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html,Reading Camlp4 – Ambassador to the Computers,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://okmij.org/ftp/ML/MetaOCaml.html,MetaOCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://zhanghongbo.me/fan/,Fan,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://camlp5.github.io/,camlp5,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html,camlp4,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://psellos.com/2014/08/2014.08.ocamlxarm-402.html,OCaml on iOS 7 Released,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://blog.danny-willems.be/en/ocaml-cordova-secured-typed-hybrid-mobile-applications/,OCaml + Cordova = more secured, typed and hybrid mobile applications,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about,Introduction to Functional Programming in OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.cs.princeton.edu/~dpw/courses/cos326-12/,Princeton University - Functional programming in OCaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://opam.ocamlpro.com/,OPAM,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/findlib.html,ocamlfind,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://fdopen.github.io/opam-repository-mingw,OCaml for Windows,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://oasis.forge.ocamlcore.org/,Oasis,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocaml.org/learn/tutorials/ocamlbuild/,ocamlbuild,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://bazel.build/,Bazel,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://rdicosmo.github.io/parmap/,Parmap,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://functory.lri.fr/About.html,Functory,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/ocamlnet.html,Ocamlnet,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://sklml.inria.fr,Sklml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities,What is the state of OCaml's parallelization abilities?,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://stackoverflow.com/questions/14440531/ocaml-polymorphism-example-other-than-template-function,OCaml polymorphism example other than template function?,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing,OCaml - polymorphic print and type losing,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://biocaml.org,http://biocaml.org,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://mmottl.github.io/lacaml/,lacaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://freux.fr/oss/obandit.html,obandit,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://mirage.io/blog/introducing-nocrypto,OCaml-TLS: building the nocrypto library core,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://framagit.org/zoggy/ocaml-rdf,OCaml-RDF,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/jsonm,jsonm,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://erratique.ch/software/xmlm,xmlm,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC,OCaPIC,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ounit.forge.ocamlcore.org/,OUnit,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://batteries.vhugot.com/qtest/,qtest,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://kaputt.x9c.fr/,Kaputt,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test,Pa_test,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+https://testanything.org/,Test Anything Protocol,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocsigen.org/eliom/,Ocsigen Eliom,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html,Nethtml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netasn1.html,Netasn1,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netencoding.html,Netencoding,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netmime.html,Netmime,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html,list of
+modules,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocsigen.org/tyxml,tyxml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml
+http://ocsigen.org/js_of_ocaml,js_of_ocaml,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml

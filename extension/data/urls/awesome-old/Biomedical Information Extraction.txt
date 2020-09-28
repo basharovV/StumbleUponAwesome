@@ -1,0 +1,158 @@
+https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.117.310967,Biomedical Informatics on the Cloud: A Treasure Hunt for Advancing Cardiovascular Medicine,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.sciencedirect.com/science/article/pii/S1532046417302563,Clinical information extraction applications: A literature review,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.sciencedirect.com/science/article/pii/S1532046417301909,Literature Based Discovery: Models, methods, and trends,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.jstor.org/stable/4307965,Undiscovered Public Knowledge,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/,Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1702.03222,Mining Electronic Health Records (EHRs): A Survey,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6250990/,Capturing the Patient's Perspective: a Review of Advances in Natural Language Processing of Health-Related Text,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory,Boston Children's Hospital Natural Language Processing Laboratory,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://commonfund.nih.gov/bd2k,BD2K,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://www.heartbd2k.org/,HeartBD2K,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://knoweng.org/about/people/,KnowEng,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://mobilize.stanford.edu/,Mobilize,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/,Brown Center for Biomedical Informatics,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html,Center for Computational Pharmacology NLP Group,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman,Demner-Fushman group at NLM,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/research/bionlp/,BioNLP group at NCBI,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://jensenlab.org/,JensenLab,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://www.nactem.ac.uk/,National Centre for Text Mining (NaCTeM),https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects,Mayo Clinic's clinical natural language processing program,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://monarchinitiative.org/,Monarch Initiative,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://turkunlp.org/,TurkuNLP,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://sbmi.uth.edu/nlp/,UTHealth Houston Biomedical Natural Language Processing Lab,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://nlp.cs.vcu.edu/,VCU Natural Language Processing Lab,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://zaklab.org,Zaklab,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.dbmi.columbia.edu/,Columbia University Department of Biomedical Informatics,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.amia.org/,AMIA,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://imia-medinfo.org/,IMIA,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://en.wikipedia.org/wiki/Open_science,open science,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org,arXiv,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.biorxiv.org/,bioRxiv,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.medrxiv.org/,medRxiv,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/database,Database,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/nar,NAR,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/jamia,JAMIA,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.sciencedirect.com/journal/journal-of-biomedical-informatics,JBI,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nature.com/sdata/,Scientific Data,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://acm-bcb.org/,ACM-BCB,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://ieeebibm.org/BIBM2019/,BIBM,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.iscb.org/about-ismb,ISMB,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://cosi.iscb.org/wiki/TextMining:Home,full-day special session on Text Mining for Biology and Healthcare,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://psb.stanford.edu/,PSB,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://bioasq.org/,BioASQ,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://biocreative.bioinformatics.udel.edu/,BioCreAtIvE workshop,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://sites.google.com/view/ohnlp2018/home,BioCreative/OHNLP Challenge,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://alt.qcri.org/semeval2020/,SemEval workshop,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://competitions.codalab.org/competitions/19948,SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://knowledge-learning.github.io/ehealthkd-2019/,eHealth-KD,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://www.sepln.org/workshops/tass/,TASS,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://dreamchallenges.org/,more bioinformatics-focused challenges,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nltk.org/book/,NLTK tutorials,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040020,Getting Started in Text Mining,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/,earlier paper by the same authors,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://link.springer.com/book/10.1007/978-1-4939-0709-0,Biomedical Literature Mining,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.coursera.org/learn/mining-medical-data,Coursera - Foundations of mining non-structured medical data,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://jensenlab.org/training/textmining/,JensenLab text mining exercises,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.bits.vib.be/training-list/111-bits/training/previous-trainings/183-text-mining,VIB text mining and curation training,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://biopython.org/,Biopython,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://dx.doi.org/10.1093/bioinformatics/btp163,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://spacy.io/,spaCy,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1902.07669,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68,Med7,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/2003.01271,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://ctakes.apache.org/,cTAKES,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/jamia/article/17/5/507/830823,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://clamp.uth.edu/,CLAMP,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/jamia/article/25/3/331/4657212,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://clamp.uth.edu/clampdemo.php,live demo,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/dnorm/,DNorm,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810844/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/research/pubtator/,PubTator Central,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/nar/article/47/W1/W587/5494727,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/taggerone/,TaggerOne,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018376/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://link.springer.com/article/10.1007/s10032-019-00317-0,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://brat.nlplab.org/,brat,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.aclweb.org/anthology/E12-2021/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.sciencedirect.com/science/article/pii/S1532046418301825,This paper from Hongfang Liu's group at Mayo Clinic,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts,BioASQword2vec,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://bioasq.lip6.fr/info/BioASQword2vec/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://code.google.com/archive/p/word2vec/,word2vec,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647,BioWordVec,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nature.com/articles/s41597-019-0055-0,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1901.08746,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1810.04805,BERT language model,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.aclweb.org/anthology/W19-1909/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1904.05342,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1903.10676,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/1906.05474,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://microsoft.github.io/BLURB/models.html,PubMedBERT,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://arxiv.org/abs/2007.15779,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://davis.wpi.edu/xmdv/datasets/ohsumed.html,OHSUMED,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://dl.acm.org/citation.cfm?id=188557,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/,PubMed Central Open Access Subset,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://pages.semanticscholar.org/coronavirus-research,CORD-19,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://bionlp.nlm.nih.gov/tac2017adversereactions/,SPL-ADR-200db,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nature.com/articles/sdata20181,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://sourceforge.net/projects/biocreative/files/,BioCreAtIvE 1,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S1,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-s2-s1,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://biocreative.bioinformatics.udel.edu/accounts/login/?next=/resources/corpora/biocreative-v-cdr-corpus/,BioCreAtIvE V CDR Task Corpus (BC5CDR),https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/,n2c2 (formerly i2b2) Data,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://portal.dbmi.hms.harvard.edu/data-challenges/,list of data challenges,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/,NCBI Disease Corpus,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.sciencedirect.com/science/article/pii/S1532046413001974,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://omim.org/,OMIM,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://wsd.nlm.nih.gov/,Word Sense Disambiguation (WSD),https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nlm.nih.gov/databases/download/CQC.html,Clinical Questions Collection,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://2013.bionlp-st.org/,BioNLP ST 2013 datasets,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://rgai.inf.u-szeged.hu/node/105,BioScope,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://bioc.sourceforge.net/,BioC format,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://corpora.informatik.hu-berlin.de,WBI corpora repository,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://mars.cs.utu.fi/PPICorpora/,group at Turku University,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pubmed/15811782,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://bioc.sourceforge.net/BioC-BioGRID.html,BioC-BioGRID,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/database/article/doi/10.1093/database/baw147/2884890,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-50,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://mars.cs.utu.fi/BioInfer/,Additional information and download links are here.,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/bioinformatics/article/23/3/365/236564,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://cohd.io,Columbia Open Health Data,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nature.com/articles/sdata2018273,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://ctdbase.org/,Comparative Toxicogenomics Database,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323936/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://mimic.physionet.org/,MIMIC-III,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nature.com/articles/sdata201635,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://physionet.org/content/mimic-cxr/2.0.0/,MIMIC-CXR,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html,UMLS Knowledge Sources,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/books/NBK9676/,reference manual,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://mimic-iv.mit.edu/,MIMIC-IV,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://www.disease-ontology.org/,Disease Ontology,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://www.obofoundry.org/ontology/doid.html,OBO Foundry,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nlm.nih.gov/research/umls/rxnorm/index.html,RxNorm,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/jamia/article/18/4/441/734170,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html,SPECIALIST Lexicon,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html,UMLS Metathesaurus,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html,MetamorphoSys installation tool,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/books/NBK9684/,See the manual here,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://semanticnetwork.nlm.nih.gov/,UMLS Semantic Network,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447396/,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://en.wikipedia.org/wiki/Data_model,data model,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://biolink.github.io/biolink-model/,Biolink,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://yaml.org/,YAML,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+http://wiki.biouml.org/index.php/BioUML,BioUML,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://academic.oup.com/nar/article/47/W1/W225/5498754,paper,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://www.uml.org/what-is-uml.htm,UML,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://creativecommons.org/publicdomain/zero/1.0,,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction

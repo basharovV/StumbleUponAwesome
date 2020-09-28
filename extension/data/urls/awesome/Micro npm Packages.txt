@@ -4,4 +4,3 @@ https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d
 https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113,In Defense of Hyper Modular JavaScript,https://github.com/parro-it/awesome-micro-npm-packages#readme,Micro npm Packages
 http://g14n.info/2015/12/tiny-npm-package/,Tiny npm package: Guidelines to create a Node.js module following the small package philosophy,https://github.com/parro-it/awesome-micro-npm-packages#readme,Micro npm Packages
 https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/,The cost of small modules,https://github.com/parro-it/awesome-micro-npm-packages#readme,Micro npm Packages
-http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing/,Why I think "micro-packages" are a good thing.,https://github.com/parro-it/awesome-micro-npm-packages#readme,Micro npm Packages

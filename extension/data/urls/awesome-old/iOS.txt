@@ -1,0 +1,156 @@
+https://ko-fi.com/M4M3WPRD,,https://github.com/vsouza/awesome-ios#readme,iOS
+https://try.instabug.com/awesome-ios?utm_source=awesomeios&utm_medium=repos&utm_campaign=awesomeios-repo-Q320-Sept,,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/,Apple- Start Developing with iOS,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html,Apple - Object-Oriented Programming with Objective-C,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html,Apple - Programming with Objective-C,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development,CodeProject,https://github.com/vsouza/awesome-ios#readme,iOS
+https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175,Lifehacker,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming,Ray Wenderlich,https://github.com/vsouza/awesome-ios#readme,iOS
+https://itunes.apple.com/us/course/developing-ios-7-apps-for-iphone-and-ipad/id733644550,Stanford - Developing iOS 7 Apps for iPhone and iPad,https://github.com/vsouza/awesome-ios#readme,iOS
+https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120,Stanford - Developing iOS 10 Apps with Swift,https://github.com/vsouza/awesome-ios#readme,iOS
+https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316,Stanford - Developing iOS 11 Apps with Swift,https://github.com/vsouza/awesome-ios#readme,iOS
+https://swifteducation.github.io/teaching_app_development_with_swift/,Swifteducation - Teaching App Development with Swift,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585,Udacity - Intro to iOS App Development with Swift,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.udemy.com/course/arkit-beginner-to-professional/,Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.udemy.com/course/ios-13-app-development-bootcamp/,iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp,https://github.com/vsouza/awesome-ios#readme,iOS
+https://classpert.com/ios-development,Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.localytics.com/,Localytics,https://github.com/vsouza/awesome-ios#readme,iOS
+https://get.fabric.io,Answers by Fabric,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.mocaplatform.com/features,MOCA Analytics,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.devtodev.com/,devtodev,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.bugsnag.com/platforms/ios-crash-reporting,Bugsnag,https://github.com/vsouza/awesome-ios#readme,iOS
+https://inapptics.com,Inapptics,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.rubymotion.com/,RubyMotion,https://github.com/vsouza/awesome-ios#readme,iOS
+https://xamarin.com/,Xamarin,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.bugsee.com,Bugsee,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.couchbase.com/products/mobile/,Couchbase Mobile,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.dollarswift.org/,https://www.dollarswift.org/,https://github.com/vsouza/awesome-ios#readme,iOS
+http://akordadev.github.io/AutoLayoutMagic/,Auto Layout Magic,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developer.audiob.us/,AudioBus,https://github.com/vsouza/awesome-ios#readme,iOS
+https://photoeditorsdk.com/,PhotoEditorSDK,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developer.apple.com/metal/,Metal,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.appcoda.com/qr-code-ios-programming-tutorial/,QR Code Scanner,https://github.com/vsouza/awesome-ios#readme,iOS
+https://pspdfkit.com/,PSPDFKit,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.modejong.com/AVAnimator/,AVAnimator,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.airship.com/platform/channels/mobile-app/,Urban Airship,https://github.com/vsouza/awesome-ios#readme,iOS
+https://growthpush.com,Growth Push,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.braze.com/,Braze,https://github.com/vsouza/awesome-ios#readme,iOS
+https://batch.com,Batch,https://github.com/vsouza/awesome-ios#readme,iOS
+https://boxcar.io,Boxcar,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.sailthru.com,Carnival,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.catapush.com/,Catapush,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.netmera.com/,Netmera,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.pushwoosh.com,Pushwoosh,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.swrve.com,Swrve,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.jsoncafe.com/,jsoncafe.com,https://github.com/vsouza/awesome-ios#readme,iOS
+https://passkit.com,Passkit,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.moltin.com/developer/swift-ecommerce-sdk/,Moltin,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developers.google.com/analytics/devguides/collection/ios/v3/,Google Analytics,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.dropbox.com/lp/developers,Dropbox,https://github.com/vsouza/awesome-ios#readme,iOS
+https://firebase.google.com/docs/ios/setup,Firebase,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.goprimer.com/,Primer,https://github.com/vsouza/awesome-ios#readme,iOS
+http://noze.io,Noze.io,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.npmjs.com/package/validator,validator.js,https://github.com/vsouza/awesome-ios#readme,iOS
+https://cucumber.io/,Cucumber,https://github.com/vsouza/awesome-ios#readme,iOS
+http://ios-driver.github.io/ios-driver/index.html,ios-driver,https://github.com/vsouza/awesome-ios#readme,iOS
+https://flawlessapp.io/,Flawless App,https://github.com/vsouza/awesome-ios#readme,iOS
+https://ocmock.org/,OCMock,https://github.com/vsouza/awesome-ios#readme,iOS
+https://componentkit.org/,ComponentKit,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.redbeard.io/,RedBeard,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.appanimations.com,AppAnimations,https://github.com/vsouza/awesome-ios#readme,iOS
+http://samvermette.com/314,http://samvermette.com/314,https://github.com/vsouza/awesome-ios#readme,iOS
+https://dribbble.com/shots/2242263--1-Pull-to-refresh-Freebie-Weather-Concept,concept,https://github.com/vsouza/awesome-ios#readme,iOS
+https://holko.pl/2016/01/05/typed-table-view-controller/,https://holko.pl/2016/01/05/typed-table-view-controller/,https://github.com/vsouza/awesome-ios#readme,iOS
+https://cocoapods.org/,CocoaPods,https://github.com/vsouza/awesome-ios#readme,iOS
+http://sap-production.github.io/xcode-maven-plugin/site/,Xcode Maven,https://github.com/vsouza/awesome-ios#readme,iOS
+https://swift.sandbox.bluemix.net,IBM Swift Sandbox,https://github.com/vsouza/awesome-ios#readme,iOS
+https://nomad-cli.com,Nomad,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.get-struct.tools,Struct,https://github.com/vsouza/awesome-ios#readme,iOS
+https://cutter.albemala.me/,Cutter,https://github.com/vsouza/awesome-ios#readme,iOS
+https://speculid.com,Speculid,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.sensiblecocoa.com,STV Framework,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.bitrise.io,Bitrise,https://github.com/vsouza/awesome-ios#readme,iOS
+https://firebase.google.com/products/crashlytics/,Crashlytics,https://github.com/vsouza/awesome-ios#readme,iOS
+https://developer.apple.com/testflight/,TestFlight Beta Testing,https://github.com/vsouza/awesome-ios#readme,iOS
+https://appcenter.ms,AppCenter,https://github.com/vsouza/awesome-ios#readme,iOS
+https://theapplaunchpad.com/,AppLaunchpad,https://github.com/vsouza/awesome-ios#readme,iOS
+https://semaphoreci.com/product/ios,Semaphore,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.mobileaction.co,Free App Store Optimization Tool,https://github.com/vsouza/awesome-ios#readme,iOS
+https://swiftify.com/,Swiftify,https://github.com/vsouza/awesome-ios#readme,iOS
+https://draculatheme.com/xcode/,Dracula Theme,https://github.com/vsouza/awesome-ios#readme,iOS
+https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings,Xcode Keymap for Visual Studio Code,https://github.com/vsouza/awesome-ios#readme,iOS
+https://erenkabakci.github.io/WWDC-Recap/,WWDC-Recap,https://github.com/vsouza/awesome-ios#readme,iOS
+https://bgr.com/ios-7/,BGR,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.imore.com/,iMore,https://github.com/vsouza/awesome-ios#readme,iOS
+https://lifehacker.com/tag/ios,Lifehacker,https://github.com/vsouza/awesome-ios#readme,iOS
+https://nshipster.com,NSHipster,https://github.com/vsouza/awesome-ios#readme,iOS
+https://asciiwwdc.com/,ASCIIwwdc,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.natashatherobot.com/,Natasha The Robot,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.reddit.com/r/iOSProgramming/,iOS Programming Subreddit,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.ioscreator.com/,iOScreator,https://github.com/vsouza/awesome-ios#readme,iOS
+http://mathewsanders.com/,Mathew Sanders,https://github.com/vsouza/awesome-ios#readme,iOS
+http://hboon.com/iosdevnuggets/,iOS Dev Nuggets,https://github.com/vsouza/awesome-ios#readme,iOS
+https://engineering.fb.com/category/ios/,Code Facebook,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.cocoacontrols.com/,Cocoa Controls,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.ohmyswift.com/blog/,Ohmyswift,https://github.com/vsouza/awesome-ios#readme,iOS
+http://iosfonts.com/,iOS Fonts,https://github.com/vsouza/awesome-ios#readme,iOS
+https://stackoverflow.com/questions/tagged/ios,"iOS" on Stackoverflow,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.appcoda.com/,AppCoda,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.tutorialspoint.com/ios/index.htm,Tutorials Point,https://github.com/vsouza/awesome-ios#readme,iOS
+https://codewithchris.com/,Code with Chris,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.cocoawithlove.com/,Cocoa with Love,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos,Brian Advent youtube channel,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.raywenderlich.com/ios,raywenderlich.com,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.bignerdranch.com/blog/category/ios/,Big Nerd Ranch,https://github.com/vsouza/awesome-ios#readme,iOS
+https://code.tutsplus.com/categories/ios-sdk,Tuts+,https://github.com/vsouza/awesome-ios#readme,iOS
+https://thinkster.io/a-better-way-to-learn-swift,Thinkster,https://github.com/vsouza/awesome-ios#readme,iOS
+http://cocoadevcentral.com,Cocoa Dev Central,https://github.com/vsouza/awesome-ios#readme,iOS
+https://jamesonquave.com/blog/tutorials/,Swift Tutorials by Jameson Quave,https://github.com/vsouza/awesome-ios#readme,iOS
+https://teamtreehouse.com/library/topic:ios,Treehouse's iOS Courses and Workshops,https://github.com/vsouza/awesome-ios#readme,iOS
+https://academy.realm.io/,Realm Academy,https://github.com/vsouza/awesome-ios#readme,iOS
+https://learnappmaking.com,LearnAppMaking,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.manning.com/livevideo/ios-development-with-swift-lv,iOS Development with Swift in Motion,https://github.com/vsouza/awesome-ios#readme,iOS
+https://daddycoding.com/,DaddyCoding,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.invisionapp.com/inside-design/design-resources/tethr/,iOS UI Design Kit,https://github.com/vsouza/awesome-ios#readme,iOS
+https://facebook.design/,iOS GUI by Facebook Design Resources,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.fluidui.com,FluidUI,https://github.com/vsouza/awesome-ios#readme,iOS
+https://principleformac.com/,Principle,https://github.com/vsouza/awesome-ios#readme,iOS
+http://weekly.awesomeios.com,AwesomeiOS Weekly,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.raywenderlich.com/newsletter,raywenderlich.com Weekly,https://github.com/vsouza/awesome-ios#readme,iOS
+https://iosdev.tools,iOS Dev Tools Weekly,https://github.com/vsouza/awesome-ios#readme,iOS
+https://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b,iOS Trivia Weekly,https://github.com/vsouza/awesome-ios#readme,iOS
+http://indieiosfocus.com/,Indie iOS Focus Weekly,https://github.com/vsouza/awesome-ios#readme,iOS
+https://swiftweekly.github.io/,Swift Weekly Brief,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.serverswift.tech,Server-Side Swift Weekly,https://github.com/vsouza/awesome-ios#readme,iOS
+https://us11.campaign-archive.com/home/?u=cd1f3ed33c6527331d82107ba&id=532dc7fb64,iOS Cookies Newsletter,https://github.com/vsouza/awesome-ios#readme,iOS
+https://mobiledeveloperscafe.com,Mobile Developers Cafe,https://github.com/vsouza/awesome-ios#readme,iOS
+https://medium.com/swift-programming,Swift Programming,https://github.com/vsouza/awesome-ios#readme,iOS
+https://medium.com/flawless-app-stories,Flawless App,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.raywenderlich.com/podcast,The Ray Wenderlich Podcast,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.imore.com/debug,Debug,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.appstorypodcast.com,App Story,https://github.com/vsouza/awesome-ios#readme,iOS
+https://devchat.tv/iphreaks/,iPhreaks,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.relay.fm/radar,Under the Radar,https://github.com/vsouza/awesome-ios#readme,iOS
+http://coreint.org/,Core Intuition,https://github.com/vsouza/awesome-ios#readme,iOS
+http://www.swiftplayhouse.com/,Swift Playhouse,https://github.com/vsouza/awesome-ios#readme,iOS
+https://releasenotes.tv/,Release Notes,https://github.com/vsouza/awesome-ios#readme,iOS
+https://mtjc.fireside.fm/,More Than Just Code,https://github.com/vsouza/awesome-ios#readme,iOS
+https://spec.fm/podcasts/runtime,Runtime,https://github.com/vsouza/awesome-ios#readme,iOS
+https://spec.fm/podcasts/swift-unwrapped,Swift Unwrapped,https://github.com/vsouza/awesome-ios#readme,iOS
+https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2,Fireside Swift,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.swiftbysundell.com/podcast/,Swift by Sundell,https://github.com/vsouza/awesome-ios#readme,iOS
+https://books.apple.com/us/book/swift-programming-language/id881256329,The Swift Programming Language by Apple,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/,iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607,Programming in Objective-C by Stephen G. Kochan,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.mikeash.com/book.html,The Complete Friday Q & A: Volume 1,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426,Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022,Cocoa Design Patterns,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.manning.com/books/hello-swift,Hello Swift! by Tanmay Bakshi with Lynn Beighley,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.manning.com/books/ios-development-with-swift,iOS Development with Swift by Craig Grummitt,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.manning.com/books/anyone-can-create-an-app,Anyone Can Create an App by Wendy L. Wise,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.objc.io/books/advanced-swift/,Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.objc.io/books/functional-swift/,Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.objc.io/books/core-data/,Core Data by Florian Kugler and Daniel Eggert,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.manning.com/books/classic-computer-science-problems-in-swift,Classic Computer Science Problems in Swift,https://github.com/vsouza/awesome-ios#readme,iOS
+https://www.manning.com/books/swift-in-depth,Swift in Depth,https://github.com/vsouza/awesome-ios#readme,iOS
+https://hackr.io/tutorials/learn-ios-swift,Curated-Resources-for-Learning-Swift,https://github.com/vsouza/awesome-ios#readme,iOS

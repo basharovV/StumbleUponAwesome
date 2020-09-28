@@ -1,2 +1,1 @@
-https://keywordtool.io/amazon,Keyword Tool,https://github.com/ScaleLeap/awesome-amazon-seller#readme,Amazon Sellers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.jumpsend.com/blog/,JumpSend,https://github.com/ScaleLeap/awesome-amazon-seller#readme,Amazon Sellers error: <HTTPError 404: 'Not Found'> | reason: Not Found

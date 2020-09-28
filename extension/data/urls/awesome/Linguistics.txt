@@ -1,29 +1,29 @@
 http://www.nltk.org/,Natural Language ToolKit (NLTK),https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-http://snowball.tartarus.org/,Snowball,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Outline_of_natural_language_processing,Outline of natural language processing,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+http://snowball.tartarus.org/,Snowball,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://snowball.tartarus.org/texts/stemmersoverview.html,Stemming algorithms for various European languages,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://www.tidytextmining.com,Text Mining with R,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Part-of-speech_tagging,Parts of speech tagging,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://www.tidytextmining.com,Text Mining with R,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://tartarus.org/martin/PorterStemmer/,The Porter Stemmer Algorithm,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Sentiment_analysis,Sentiment analysis,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s,Foundations of Computational Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://www.lighttag.io/how-to-label-data/,How To Label Data,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Tf%E2%80%93idf,Term frequency - inverse document frequency,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://books.google.nl/books?id=YiFDxbEX3SUC,Foundations of Statistical Natural Language Processing,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://www.lighttag.io/how-to-label-data/,How To Label Data,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Vector_space_model,Vector space model,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Bag-of-words_model,Bag of words model,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s,Foundations of Computational Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i,Computational Linguistics Lecture Playlist (Youtube),https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-http://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC&redir_esc=y,Semisupervised Learning for Computational Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Document_classification,Document classification,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://books.google.nl/books?id=fZmj5UNK8AQC,Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g,The Virtual Linguistics Campus,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://essentialsoflinguistics.pressbooks.com/,Essentials of Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://books.google.nl/books?id=YiFDxbEX3SUC,Foundations of Statistical Natural Language Processing,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Language_model,Language models,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g,The Virtual Linguistics Campus,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Naive_Bayes_classifier,Naive Bayes classification,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf,Introduction to Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
-http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349,The Oxford Handbook of Computational Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+http://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC&redir_esc=y,Semisupervised Learning for Computational Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://essentialsoflinguistics.pressbooks.com/,Essentials of Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://en.wikipedia.org/wiki/Natural_language_processing,Natural language processing,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://books.google.nl/books?id=fZmj5UNK8AQC,Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf,Introduction to Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://www.nltk.org/book/,Natural Language Processing with Python,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
+http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349,The Oxford Handbook of Computational Linguistics,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 http://www.goodreads.com/shelf/show/natural-language-processing,15 most popular books on good reads,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 https://linguistics.stackexchange.com/,Linguistics Stack Exchange,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics
 https://untranslatable.co/,Untranslatable.co, Multilingual urban dictionary,https://github.com/theimpossibleastronaut/awesome-linguistics#readme,Linguistics

@@ -1,112 +1,122 @@
-https://www.youtube.com/watch?v=kqAKiouk1lY,DjangoCon US 2016 - Atomic Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s,Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s,Wagtail on Divio Cloud – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,What the Wagtail Docs Don't Tell You – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Lightning Talks – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=ei7ot_Wry3o,Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3,Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html,Amplify a Wagtail/Django site,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://gitlab.com/rosarior/awesome-django,Awesome Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/ObM2pUgY-bs?t=16m38s,The Zen of Wagtail – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=1634,Wagtail and Oscar – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
 https://www.youtube.com/watch?v=xPPfTvLS7oQ,Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s,Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=uZc0aZrHtQw,Wagtail Wednesdays #03 - Using tabs to create a cleaner admin interface,https://github.com/springload/awesome-wagtail#readme,Wagtail
 https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4,Django Logging for Wagtail – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
 https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4,Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10,Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=uZc0aZrHtQw,Wagtail Wednesdays #03 - Using tabs to create a cleaner admin interface,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html,Amplify a Wagtail/Django site,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=3UC1MNFOjEI,PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5,Making Wagtail Accessible – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://gitlab.com/rosarior/awesome-django,Awesome Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=HGXHtFpLDCA,Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s,StreamField editor at UWKM – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8,Migrating your Drupal content to Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
 https://pypi.org/pypi?%3Aaction=list_classifiers,PyPI classifiers for Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/hZcuq8WJVew?t=2m57s,Plone to Wagtail – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=yRmZ6WUfoOc,Wagtail — еще одна CMS на Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.meetup.com/Dutch-Wagtail-Meetup/,Dutch Wagtail Meetup,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://harrislapiroff.github.io/wagtail-space-us-2019/,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s,Things i learned at Wagtail Space – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/MAzZ2lhMhzM?t=592,The State of Wagtail – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11,The State of Wagtail: 2019 – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.meetup.com/Wellington-Wagtail-CMS-Meetup/,Wellington Wagtail CMS Meetup,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=3313,wagtail-textract – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6,Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s,Fly Wagtail to a PyCon – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/hZcuq8WJVew?t=24m9s,Hundreds of Wagtail in Flight – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6,Everyone can fly a flag – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/,How to Add Buttons to ModelAdmin Index View,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s,How Google uses Wagtail – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/MAzZ2lhMhzM?t=2057,Image rotation feature – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7,Choosing Wagtail for Columbia University – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://puput.readthedocs.org/,Puput,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s,Wagtail Performance – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s,Introducing Draft.js in Wagtail – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=3468,Django 2.2 compatibility – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/,Podcast.init Episode 58 - Wagtail with Tom Dyson,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=KJWCGq3IRNc,Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://thib.me/introducing-draft-js-in-wagtail,Presentation,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=_CfU9UivYPI,Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s,Mutliple images uploader – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/-Qii_AyQsxE?t=2m21s,Wagtail & Agile – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s,Let It Go – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7,Architecting for a multi-domain site – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.wagtail.space/,Wagtail Space,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/,How to Prevent Users from Creating Pages by Type,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=uD9PTag2-PQ,How to Deploy Wagtail to Google App Engine,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8,Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s,Developing Solutions for Girls, by Men – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=3937,SEO dashboard – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e,Drupal Front End WTF, Wagtail Front End FTW,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch,Wagtail’s first hatch,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/,Wagtail: 2 Steps for Adding Pages Outside of the CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://slides.com/benbeecher/mds/,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/-Qii_AyQsxE?t=38m13s,Deploy Wagtail to the Divio Cloud – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s,Wagtail’s first hatch – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s,watch the lightning talk,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/,How to Create and Manage Menus of Wagtail application,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/MAzZ2lhMhzM?t=2264,Debug templates – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://madewithwagtail.org/,Made with Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=glIIF-kBXf0,An Introduction to Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8,Contributions can be more than code – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Wagtail in the Cloud – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s,The Word Problem – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=4126,My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s,Wagtail on Divio Cloud – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/OedQi5W3Zho,All about Wagtail – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://pypi.org/search/?q=Wagtail,PyPI - Python Package Index,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://gitlab.com/alexgleason/wagtailfontawesome,Wagtail FontAwesome,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9,Thoughtful Code Review – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=4404,Fly, Wagtail, fly! – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://gitlab.com/alexgleason/wagtailerrorpages,Wagtail Error Pages,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://learnwagtail.com/,Learn Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/OedQi5W3Zho?t=19m1s,Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/,Adding document previews to Wagtail CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/MAzZ2lhMhzM?t=2567,Wagtail Headless with HATEOAS – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Learning Wagtail – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Wagtail in 2018 – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.accordbox.com/blog/wagtail-tutorials/,Wagtail Tutorials: Build Blog Step by Step,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/,Getting started in Wagtail, a newcomer's perspective,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,What the Wagtail Docs Don't Tell You – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/OedQi5W3Zho?t=34m37s,Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Sharing is Caring – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django,Présentation de Wagtail, le dernier CMS Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://djangopackages.org/grids/g/wagtail-cms/,Django Packages,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=o_dFgr8HZYU,Wagtail screencasts: Creating and displaying pages in Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/,Python CMS Framework Review: Wagtail vs Django-CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=ObM2pUgY-bs,Wagtail's preview, a new hope – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/MAzZ2lhMhzM?t=2926,Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=nCMgoTerEb4,Draftail extensions – custom entities tutorial,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Lightning Talks – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/ObM2pUgY-bs?t=16m38s,The Zen of Wagtail – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1,Writing (code) for authors – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/MAzZ2lhMhzM?t=4067,[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015,Slide deck,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=ciYNMcv3lE0,Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://foundation.mozilla.org/en/docs/how-do-i-wagtail/,How Do I Wagtail?,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2,Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://wagtail.io/blog/upgrading-to-wagtail-2/,Upgrading to Wagtail 2.0,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=ei7ot_Wry3o,Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=47,Wagtail & Whatsapp – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3,Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://thib.me/getting-started-with-draftail-extensions,Getting started with Draftail extensions,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s,StreamField editor at UWKM – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
 https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit,Wellington Wagtail CMS Meetup - Meet Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=HGXHtFpLDCA,Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8,Migrating your Drupal content to Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5,Making Wagtail Accessible – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=3313,wagtail-textract – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/hZcuq8WJVew?t=2m57s,Plone to Wagtail – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/MAzZ2lhMhzM?t=592,The State of Wagtail – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://foundation.mozilla.org/en/docs/how-do-i-wagtail/,How Do I Wagtail?,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s,Things i learned at Wagtail Space – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=kqAKiouk1lY,DjangoCon US 2016 - Atomic Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6,Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=CedcZmQ9KHs,Wagtail Wednesdays #05 - How to organise your fields and streamline the editor experience,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10,Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s,Fly Wagtail to a PyCon – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7,Choosing Wagtail for Columbia University – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=3UC1MNFOjEI,PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=KJWCGq3IRNc,Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=3468,Django 2.2 compatibility – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/hZcuq8WJVew?t=24m9s,Hundreds of Wagtail in Flight – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/MAzZ2lhMhzM?t=2057,Image rotation feature – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s,Wagtail Performance – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8,Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=yRmZ6WUfoOc,Wagtail — еще одна CMS на Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=_CfU9UivYPI,Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6,Everyone can fly a flag – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://harrislapiroff.github.io/wagtail-space-us-2019/,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s,How Google uses Wagtail – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s,Mutliple images uploader – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Wagtail in the Cloud – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=uD9PTag2-PQ,How to Deploy Wagtail to Google App Engine,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.meetup.com/Dutch-Wagtail-Meetup/,Dutch Wagtail Meetup,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11,The State of Wagtail: 2019 – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://puput.readthedocs.org/,Puput,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=3937,SEO dashboard – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s,Introducing Draft.js in Wagtail – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/MAzZ2lhMhzM?t=2264,Debug templates – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s,Wagtail Space easter egg team demo – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/-Qii_AyQsxE?t=2m21s,Wagtail & Agile – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/,How to Add Buttons to ModelAdmin Index View,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://posts-by.lb.ee/dev-wagtail-extending-the-functionality-of-email-forms-232c8469ac97,Extending The Functionality of Email Forms in Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://madewithwagtail.org/,Made with Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s,Wagtail Space 2019 – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Learning Wagtail – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.coderedcorp.com/cms/,Learn more,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7,Architecting for a multi-domain site – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://thib.me/introducing-draft-js-in-wagtail,Presentation,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.meetup.com/Wellington-Wagtail-CMS-Meetup/,Wellington Wagtail CMS Meetup,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=4126,My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/MAzZ2lhMhzM?t=2567,Wagtail Headless with HATEOAS – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Sharing is Caring – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV,Wagtail in 2018 – Wagtail Space US 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/-Qii_AyQsxE?t=38m13s,Deploy Wagtail to the Divio Cloud – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s,watch the lightning talk,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s,Let It Go – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/,Wagtail: 2 Steps for Adding Pages Outside of the CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://pypi.org/search/?q=Wagtail,PyPI - Python Package Index,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/,Podcast.init Episode 58 - Wagtail with Tom Dyson,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s,Developing Solutions for Girls, by Men – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=4404,Fly, Wagtail, fly! – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://slides.com/benbeecher/mds/,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/MAzZ2lhMhzM?t=2926,Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://gitlab.com/alexgleason/wagtailfontawesome,Wagtail FontAwesome,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/OedQi5W3Zho,All about Wagtail – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s,Wagtail’s first hatch – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8,Contributions can be more than code – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson,Django Chat: Wagtail CMS - Tom Dyson,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/,How to Prevent Users from Creating Pages by Type,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://gitlab.com/alexgleason/wagtailerrorpages,Wagtail Error Pages,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s,The Word Problem – Wagtail Space 2018,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/YydSbL8gMS4?t=24,Wagtail & GraphQL – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9,Thoughtful Code Review – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/MAzZ2lhMhzM?t=4067,[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/OedQi5W3Zho?t=19m1s,Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://djangopackages.org/grids/g/wagtail-cms/,Django Packages,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1,Writing (code) for authors – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/CSwpj-jyjP4?t=47,Wagtail & Whatsapp – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://youtu.be/OedQi5W3Zho?t=34m37s,Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://learnwagtail.com/,Learn Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e,Drupal Front End WTF, Wagtail Front End FTW,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/,Getting started in Wagtail, a newcomer's perspective,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=ObM2pUgY-bs,Wagtail's preview, a new hope – Wagtail Space 2017,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit,Slides,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=o_dFgr8HZYU,Wagtail screencasts: Creating and displaying pages in Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
 https://youtu.be/CSwpj-jyjP4?t=785,Slack2Wagtail – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
-https://youtu.be/CSwpj-jyjP4?t=1634,Wagtail and Oscar – Wagtail Space 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2,Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/,How to Create and Manage Menus of Wagtail application,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=nCMgoTerEb4,Draftail extensions – custom entities tutorial,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django,Présentation de Wagtail, le dernier CMS Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://jordi.nz/code-blocks-wagtail-using-pygments/,Code blocks for Wagtail using Pygments,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=ciYNMcv3lE0,Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/,Adding document previews to Wagtail CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://pythoneatstail.com,PythonEatsTail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=glIIF-kBXf0,An Introduction to Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.accordbox.com/blog/wagtail-tutorials/,Wagtail Tutorials: Build Blog Step by Step,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=6j0NVq6g4FE,DjangoCon US 2015 - Wagtail - Yet Another Django CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/,Python CMS Framework Review: Wagtail vs Django-CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015,Slide deck,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://wagtail.io/blog/upgrading-to-wagtail-2/,Upgrading to Wagtail 2.0,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://thib.me/getting-started-with-draftail-extensions,Getting started with Draftail extensions,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch,Wagtail’s first hatch,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.springload.co.nz/,Springload,https://github.com/springload/awesome-wagtail#readme,Wagtail

@@ -1,42 +1,43 @@
 http://love2d.org,LÖVE,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 http://gvvaughan.github.io/specl/,Specl,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://gitlab.com/Alloyed/love-gltf,love-gltf,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://sheepolution.com/learn/book/contents,How to LÖVE,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/hyperclick-love,Hyperclick Löve,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://packagecontrol.io/packages/SublimeLove,SublimeLove,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://simplegametutorials.github.io/,Simple Game Tutorials,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode,Local Lua Debugger,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 http://norman.github.io/telescope/,Telescope,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-http://esotericsoftware.com,Spine,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://packagecontrol.io/packages/SublimeLinter-luacheck,SublimeLinter-luacheck,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/linter-luaparse,linter-luaparse,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://gitlab.com/Alloyed/love-gltf,love-gltf,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/autocomplete-love,Autocomplete Löve,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://hump.readthedocs.io/en/latest/timer.html,hump.timer,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://packagecontrol.io/,Package Manager,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://sheepolution.com/learn/book/contents,How to LÖVE,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+http://esotericsoftware.com,Spine,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/hyperclick-love,Hyperclick Löve,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://hump.readthedocs.io/en/latest/camera.html,hump.camera,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://packagecontrol.io/packages/SublimeLove,SublimeLove,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/linter-luaparse,linter-luaparse,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://notabug.org/pgimeno/Gspot,Gspöt,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://hump.readthedocs.io/en/latest/vector.html,hump.vector,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://packagecontrol.io/packages/SublimeLinter-luacheck,SublimeLinter-luacheck,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://cs50.harvard.edu/games/,CS50’s Introduction to Game Development,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://gitlab.com/sdonalcreative/brackets-love-hints/,LÖVE Hints for Brackets.io,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://hump.readthedocs.io/en/latest/vector.html,hump.vector,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://notabug.org/pgimeno/Gspot,Gspöt,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://kalis.me/building-love2d-games-web-docker/,Building love2d games for the web with love.js and Docker,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://hump.readthedocs.io/en/latest/class.html,hump.class,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://gitlab.com/Alloyed/hanker,Hanker,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://hump.readthedocs.io/en/latest/class.html,hump.class,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://studio.zerobrane.com/,ZeroBrane Studio,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/love-atom,Love-Atom,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://kalis.me/building-love2d-games-web-docker/,Building love2d games for the web with love.js and Docker,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://gitlab.com/technomancy/polywell,Polywell,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://bitbucket.org/itraykov/profile.lua/src/,profile.lua,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home,Lua for IDEA,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 http://ejmr.github.io/chance.lua/,chance.lua,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/autocomplete-glsl,Autocomplete GLSL,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/love-atom,Love-Atom,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://bitbucket.org/itraykov/profile.lua/src/,profile.lua,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://optikon.co.uk/,Optikon,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://hc.readthedocs.io/en/latest/,HC,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/autocomplete-glsl,Autocomplete GLSL,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://rvagamejams.com/learn2love/,learn2love,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/language-glsl,language-glsl,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 http://lua.space/gamedev/using-tiled-maps-in-love,Using Tiled Maps in LÖVE,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/language-glsl,language-glsl,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://bitbucket.org/T-BoneISS/l-veftw,LoveFTW,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://vim.sourceforge.io/,Vim,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://simplegametutorials.github.io/,Simple Game Tutorials,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/language-lua,language-lua,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 http://love2d.org/forums/viewtopic.php?f=5&t=80885,Shadertoy viewer,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://vim.sourceforge.io/,Vim,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/language-lua,language-lua,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://notepad-plus-plus.org,Notepad++,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/love-launcher,Löve Launcher,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher,Visual Studio Code LÖVE Launcher,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
+https://atom.io/packages/love-launcher,Löve Launcher,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua,Lua for Visual Studio Code,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
 https://atom.io/packages/love-ide,Löve IDE,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://packagecontrol.io/,Package Manager,https://github.com/love2d-community/awesome-love2d#readme,LÖVE
-https://atom.io/packages/autocomplete-love,Autocomplete Löve,https://github.com/love2d-community/awesome-love2d#readme,LÖVE

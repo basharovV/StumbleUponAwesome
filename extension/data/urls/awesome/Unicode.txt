@@ -1,343 +1,406 @@
-http://www.unicode.org/versions/Unicode7.0.0/,Version 7.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F88?lang=en,U+1F88,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+03B0?lang=en,U+03B0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FB2?lang=en,U+1FB2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F92?lang=en,U+1F92,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB03?lang=en,U+FB03,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1F9C?lang=en,U+1F9C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F54?lang=en,U+1F54,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode6.3.0/,Version 6.3.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FE7?lang=en,U+1FE7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FA6?lang=en,U+1FA6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+03B0?lang=en,U+03B0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FC7?lang=en,U+1FC7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE7?lang=en,U+1FE7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 http://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt,Unicode Blocks List,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FF2?lang=en,U+1FF2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://emojipedia.org/,Emojipedia,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FA7?lang=en,U+1FA7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F56?lang=en,U+1F56,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FB3?lang=en,U+1FB3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+0587?lang=en,U+0587,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB04?lang=en,U+FB04,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/charts/index.html,Unicode Character Code Charts,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FA8?lang=en,U+1FA8,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FF3?lang=en,U+1FF3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://emojitracker.com/,emojitracker,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA6?lang=en,U+1FA6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode7.0.0/,Version 7.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1F9D?lang=en,U+1F9D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/charts/case/,Unicode Case Charts,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0587?lang=en,U+0587,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FCC?lang=en,U+1FCC,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F89?lang=en,U+1F89,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FF4?lang=en,U+1FF4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/charts/normalization/,Unicode Normalization Chart,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FA9?lang=en,U+1FA9,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F80?lang=en,U+1F80,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/faq/,Unicode FAQ,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode6.2.0/,Version 6.2.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.joelonsoftware.com/articles/Unicode.html,The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF2?lang=en,U+1FF2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA7?lang=en,U+1FA7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/index.html,Unicode Character Code Charts,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1E96?lang=en,U+1E96,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Bassa_Vah,Bassa Vah,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F8A?lang=en,U+1F8A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FD2?lang=en,U+1FD2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Mathematical_Operators,Mathematical Operators,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tamil,Tamil,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs,Miscellaneous Symbols and Pictographs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FB4?lang=en,U+1FB4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Syloti_Nagri,Syloti Nagri,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F81?lang=en,U+1F81,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Yijing_Hexagram_Symbols,Yijing Hexagram Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FF6?lang=en,U+1FF6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F94?lang=en,U+1F94,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Shavian,Shavian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FAA?lang=en,U+1FAA,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Phoenician,Phoenician,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tagbanwa,Tagbanwa,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Combining_Diacritical_Marks_Extended,Combining Diacritical Marks Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1F9E?lang=en,U+1F9E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_D,CJK Unified Ideographs Extension D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F82?lang=en,U+1F82,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ahom,Ahom,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FD3?lang=en,U+1FD3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FB6?lang=en,U+1FB6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F8B?lang=en,U+1F8B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FAB?lang=en,U+1FAB,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Basic_Latin,Basic Latin,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Katakana,Katakana,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FD6?lang=en,U+1FD6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Counting_Rod_Numerals,Counting Rod Numerals,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F95?lang=en,U+1F95,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Thaana,Thaana,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F9F?lang=en,U+1F9F,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hangul_Jamo,Hangul Jamo,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.3.0/,Version 6.3.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF3?lang=en,U+1FF3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://emojipedia.org/,Emojipedia,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD2?lang=en,U+1FD2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA8?lang=en,U+1FA8,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB03?lang=en,U+FB03,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F92?lang=en,U+1F92,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F88?lang=en,U+1F88,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F54?lang=en,U+1F54,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB2?lang=en,U+1FB2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/case/,Unicode Case Charts,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Spacing_Modifier_Letters,Spacing Modifier Letters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB13?lang=en,U+FB13,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/roadmaps/,http://www.unicode.org/roadmaps/,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode6.0.0/,Version 6.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F83?lang=en,U+1F83,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Georgian_Supplement,Georgian Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FF7?lang=en,U+1FF7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Lycian,Lycian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F8C?lang=en,U+1F8C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FB7?lang=en,U+1FB7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/charts/PDF/U2000.pdf,general punctuation chart,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode5.2.0/,Version 5.2.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FD7?lang=en,U+1FD7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FBC?lang=en,U+1FBC,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://unicode.org/faq/unsup_char.html,supported in rendering,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_E,CJK Unified Ideographs Extension E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://kunststube.net/encoding/,What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FC2?lang=en,U+1FC2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9F?lang=en,U+1F9F,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.2.0/,Version 6.2.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E97?lang=en,U+1E97,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Thaana,Thaana,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mathematical_Operators,Mathematical Operators,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tagbanwa,Tagbanwa,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tamil,Tamil,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD3?lang=en,U+1FD3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Katakana,Katakana,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB04?lang=en,U+FB04,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF4?lang=en,U+1FF4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA9?lang=en,U+1FA9,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F93?lang=en,U+1F93,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phaistos_Disc,Phaistos Disc,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-A,Miscellaneous Mathematical Symbols-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F96?lang=en,U+1F96,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F8D?lang=en,U+1F8D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1E98?lang=en,U+1E98,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FE2?lang=en,U+1FE2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F84?lang=en,U+1F84,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FFC?lang=en,U+1FFC,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Inscriptional_Pahlavi,Inscriptional Pahlavi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB3?lang=en,U+1FB3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Shavian,Shavian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F56?lang=en,U+1F56,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F89?lang=en,U+1F89,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Compatibility_Forms,CJK Compatibility Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cham,Cham,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/normalization/,Unicode Normalization Chart,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Georgian_Supplement,Georgian Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phoenician,Phoenician,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Yijing_Hexagram_Symbols,Yijing Hexagram Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Combining_Diacritical_Marks_Extended,Combining Diacritical Marks Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Counting_Rod_Numerals,Counting Rod Numerals,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://emojitracker.com/,emojitracker,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs,Miscellaneous Symbols and Pictographs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ahom,Ahom,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Combining_Diacritical_Marks_Supplement,Combining Diacritical Marks Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sharada,Sharada,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Syloti_Nagri,Syloti Nagri,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_D,CJK Unified Ideographs Extension D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.1.0/,Version 6.1.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/High_Surrogates,High Surrogates,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bassa_Vah,Bassa Vah,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Jamo,Hangul Jamo,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FA0?lang=en,U+1FA0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://caniemoji.com/android-2/,Can I Emoji?,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Emoticons,Emoticons,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F8E?lang=en,U+1F8E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Latin_Extended_Additional,Latin Extended Additional,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB00?lang=en,U+FB00,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+00DF?lang=en,U+00DF,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F97?lang=en,U+1F97,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F85?lang=en,U+1F85,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FC3?lang=en,U+1FC3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Balinese,Balinese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Common_Indic_Number_Forms,Common Indic Number Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F98?lang=en,U+1F98,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode5.1.0/,Version 5.1.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FE3?lang=en,U+1FE3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Telugu,Telugu,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Myanmar_Extended-A,Myanmar Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB01?lang=en,U+FB01,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FAD?lang=en,U+1FAD,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/faq/,Unicode FAQ,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD6?lang=en,U+1FD6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB05?lang=en,U+FB05,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAA?lang=en,U+1FAA,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F94?lang=en,U+1F94,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F80?lang=en,U+1F80,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E98?lang=en,U+1E98,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF6?lang=en,U+1FF6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.0.0/,Version 6.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.joelonsoftware.com/articles/Unicode.html,The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB4?lang=en,U+1FB4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA1?lang=en,U+1FA1,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD7?lang=en,U+1FD7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAB?lang=en,U+1FAB,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB06?lang=en,U+FB06,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F95?lang=en,U+1F95,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F81?lang=en,U+1F81,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode5.2.0/,Version 5.2.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1E99?lang=en,U+1E99,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode4.0.1/,Version 4.0.1,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F86?lang=en,U+1F86,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB15?lang=en,U+FB15,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F8F?lang=en,U+1F8F,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Psalter_Pahlavi,Psalter Pahlavi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+0130?lang=en,U+0130,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/corrigendum5.html,Version 4.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Carian,Carian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Latin-1_Supplement,Latin-1 Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F99?lang=en,U+1F99,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB02?lang=en,U+FB02,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://www.smashingmagazine.com/2015/10/space-yourself/,Space Yourself,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB16?lang=en,U+FB16,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1E9A?lang=en,U+1E9A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Combining_Diacritical_Marks,Combining Diacritical Marks,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F87?lang=en,U+1F87,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Khmer,Khmer,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF7?lang=en,U+1FF7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.emojifoundation.com/,World Translation Foundation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8A?lang=en,U+1F8A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB6?lang=en,U+1FB6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FA2?lang=en,U+1FA2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Control_Pictures,Control Pictures,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FC4?lang=en,U+1FC4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+0149?lang=en,U+0149,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FAE?lang=en,U+1FAE,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE2?lang=en,U+1FE2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAC?lang=en,U+1FAC,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F96?lang=en,U+1F96,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB13?lang=en,U+FB13,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Telugu,Telugu,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F82?lang=en,U+1F82,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode5.1.0/,Version 5.1.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Khmer,Khmer,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E9A?lang=en,U+1E9A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miscellaneous_Technical,Miscellaneous Technical,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bopomofo,Bopomofo,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs,CJK Unified Ideographs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FFC?lang=en,U+1FFC,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Supplemental_Arrows-A,Supplemental Arrows-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Combining_Diacritical_Marks,Combining Diacritical Marks,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Myanmar_Extended-A,Myanmar Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Emoticons,Emoticons,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Lydian,Lydian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Small_Form_Variants,Small Form Variants,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tifinagh,Tifinagh,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/NKo,NKo,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8B?lang=en,U+1F8B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols,Mathematical Alphanumeric Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://caniemoji.com/android-2/,Can I Emoji?,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Balinese,Balinese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB7?lang=en,U+1FB7,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Psalter_Pahlavi,Psalter Pahlavi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FA3?lang=en,U+1FA3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1E9E?lang=en,U+1E9E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+FB17?lang=en,U+FB17,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Osmanya,Osmanya,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode4.0.1/,Version 4.0.1,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/High_Private_Use_Surrogates,High Private Use Surrogates,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ethiopic,Ethiopic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAD?lang=en,U+1FAD,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Basic_Latin,Basic Latin,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F97?lang=en,U+1F97,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sinhala_Archaic_Numbers,Sinhala Archaic Numbers,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F83?lang=en,U+1F83,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB14?lang=en,U+FB14,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://kunststube.net/encoding/,What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE3?lang=en,U+1FE3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_E,CJK Unified Ideographs Extension E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB00?lang=en,U+FB00,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Common_Indic_Number_Forms,Common Indic Number Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Pahawh_Hmong,Pahawh Hmong,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Latin_Extended_Additional,Latin Extended Additional,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FBC?lang=en,U+1FBC,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/corrigendum5.html,Version 4.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAE?lang=en,U+1FAE,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F98?lang=en,U+1F98,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F84?lang=en,U+1F84,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FE4?lang=en,U+1FE4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F9A?lang=en,U+1F9A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F90?lang=en,U+1F90,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FC6?lang=en,U+1FC6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://mathiasbynens.be/notes/javascript-unicode,JavaScript has a Unicode Problem,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Pau_Cin_Hau,Pau Cin Hau,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F50?lang=en,U+1F50,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.name.com/blog/how-tos/2015/12/want-an-emoji-url-this-is-how-you-register-one/,How to register an emoji URL,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB01?lang=en,U+FB01,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E9E?lang=en,U+1E9E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FA4?lang=en,U+1FA4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1FE6?lang=en,U+1FE6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+01F0?lang=en,U+01F0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/emoji/charts/full-emoji-list.html,Unicode Consortium's Emoji Chart,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Sundanese,Sundanese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Meroitic_Hieroglyphs,Meroitic Hieroglyphs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F52?lang=en,U+1F52,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Miao,Miao,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Lycian,Lycian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F99?lang=en,U+1F99,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC2?lang=en,U+1FC2,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F85?lang=en,U+1F85,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Warang_Citi,Warang Citi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://codepoints.net/U+1FA5?lang=en,U+1FA5,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Optical_Character_Recognition,Optical Character Recognition,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/emoji/charts/emoji-zwj-sequences.html,Emoji combined sequences,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F91?lang=en,U+1F91,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tags,Tags,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Phags-pa,Phags-pa,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Sutton_SignWriting,Sutton SignWriting,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+1F9B?lang=en,U+1F9B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/U+0390?lang=en,U+0390,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/search?IDS=1,ID_START,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Greek_Extended,Greek Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Yi_Radicals,Yi Radicals,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE6?lang=en,U+1FE6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Braille_Patterns,Braille Patterns,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAF?lang=en,U+1FAF,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB15?lang=en,U+FB15,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8C?lang=en,U+1F8C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F50?lang=en,U+1F50,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB02?lang=en,U+FB02,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC3?lang=en,U+1FC3,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Ethiopic_Supplement,Ethiopic Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://labs.spotify.com/2013/06/18/creative-usernames/,Creative usernames and Spotify account hijacking,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ethiopic_Extended,Ethiopic Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Latin-1_Supplement,Latin-1 Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F86?lang=en,U+1F86,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Control_Pictures,Control Pictures,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB16?lang=en,U+FB16,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8D?lang=en,U+1F8D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9A?lang=en,U+1F9A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F52?lang=en,U+1F52,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Samaritan,Samaritan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC4?lang=en,U+1FC4,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phags-pa,Phags-pa,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Elbasan,Elbasan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Arabic_Presentation_Forms-B,Arabic Presentation Forms-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Kana_Supplement,Kana Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://codepoints.net/search?IDC=1,ID_CONTINUE,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Batak,Batak,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Cuneiform,Cuneiform,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Meetei_Mayek_Extensions,Meetei Mayek Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Kanbun,Kanbun,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Supplemental_Arrows-B,Supplemental Arrows-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Old_Italic,Old Italic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Enclosed_Alphanumerics,Enclosed Alphanumerics,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/ucd/,Unicode Character Database,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Khojki,Khojki,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Greek_and_Coptic,Greek and Coptic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F87?lang=en,U+1F87,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Yi_Syllables,Yi Syllables,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.name.com/blog/how-tos/2015/12/want-an-emoji-url-this-is-how-you-register-one/,How to register an emoji URL,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB17?lang=en,U+FB17,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8E?lang=en,U+1F8E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Kannada,Kannada,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Mende_Kikakui,Mende Kikakui,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://davidwalsh.name/unicode-css-classes,Unicode CSS Classes,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Mandaic,Mandaic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://dumps.codepoints.net/,Database Dumps of Codepoints.net,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Arabic_Presentation_Forms-B,Arabic Presentation Forms-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_Turkic,Old Turkic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9B?lang=en,U+1F9B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Khojki,Khojki,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tai_Viet,Tai Viet,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC6?lang=en,U+1FC6,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sundanese,Sundanese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ornamental_Dingbats,Ornamental Dingbats,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/emoji/charts/full-emoji-list.html,Unicode Consortium's Emoji Chart,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/emoji/charts/emoji-zwj-sequences.html,Emoji combined sequences,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Mongolian,Mongolian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Old_Hungarian,Old Hungarian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/General_Punctuation,General Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8F?lang=en,U+1F8F,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Carian,Carian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Meroitic_Hieroglyphs,Meroitic Hieroglyphs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Pau_Cin_Hau,Pau Cin Hau,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Supplemental_Arrows-B,Supplemental Arrows-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ethiopic_Extended,Ethiopic Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F90?lang=en,U+1F90,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Latin_Extended-A,Latin Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sutton_SignWriting,Sutton SignWriting,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Cherokee,Cherokee,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Latin_Extended-B,Latin Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Lisu,Lisu,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Meroitic_Cursive,Meroitic Cursive,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Transport_and_Map_Symbols,Transport and Map Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Optical_Character_Recognition,Optical Character Recognition,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Compatibility_Jamo,Hangul Compatibility Jamo,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F91?lang=en,U+1F91,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mandaic,Mandaic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Yi_Radicals,Yi Radicals,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Greek_Extended,Greek Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Cyrillic,Cyrillic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Caucasian_Albanian,Caucasian Albanian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unifont.org/fontguide/,http://www.unifont.org/fontguide/,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Bopomofo_Extended,Bopomofo Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Low_Surrogates,Low Surrogates,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Cuneiform_Numbers_and_Punctuation,Cuneiform Numbers and Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Saurashtra,Saurashtra,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement,CJK Compatibility Ideographs Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://www.smashingmagazine.com/2015/10/space-yourself/,Space Yourself,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms,Halfwidth and Fullwidth Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended,Unified Canadian Aboriginal Syllabics Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Malayalam,Malayalam,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miao,Miao,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Low_Surrogates,Low Surrogates,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Meetei_Mayek_Extensions,Meetei Mayek Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/search?IDS=1,ID_START,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Batak,Batak,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Caucasian_Albanian,Caucasian Albanian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_Hungarian,Old Hungarian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Multani,Multani,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Rumi_Numeral_Symbols,Rumi Numeral Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Transport_and_Map_Symbols,Transport and Map Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended,Unified Canadian Aboriginal Syllabics Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Coptic_Epact_Numbers,Coptic Epact Numbers,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://mathiasbynens.be/notes/javascript-unicode,JavaScript has a Unicode Problem,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cyrillic_Extended-A,Cyrillic Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Meroitic_Cursive,Meroitic Cursive,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cuneiform,Cuneiform,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-B,Miscellaneous Mathematical Symbols-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Latin_Extended-B,Latin Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Enclosed_Alphanumerics,Enclosed Alphanumerics,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Kanbun,Kanbun,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/search?IDC=1,ID_CONTINUE,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mende_Kikakui,Mende Kikakui,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Arabic_Extended-A,Arabic Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Lisu,Lisu,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/General_Punctuation,General Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cyrillic_Supplement,Cyrillic Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics,Unified Canadian Aboriginal Syllabics,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tags,Tags,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sinhala,Sinhala,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Kana_Supplement,Kana Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Ethiopic_Extended-A,Ethiopic Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Devanagari_Extended,Devanagari Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Specials,Specials,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Linear_A,Linear A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Rumi_Numeral_Symbols,Rumi Numeral Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Khudawadi,Khudawadi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Lepcha,Lepcha,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://labs.spotify.com/2013/06/18/creative-usernames/,Creative usernames and Spotify account hijacking,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Private_Use_Area,Private Use Area,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://davidwalsh.name/unicode-css-classes,Unicode CSS Classes,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Alchemical_Symbols,Alchemical Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://shapecatcher.com/,Shapecatcher,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Supplemental_Punctuation,Supplemental Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Box_Drawing,Box Drawing,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/IPA_Extensions,IPA Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Superscripts_and_Subscripts,Superscripts and Subscripts,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ol_Chiki,Ol Chiki,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Devanagari_Extended,Devanagari Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Malayalam,Malayalam,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Kharoshthi,Kharoshthi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Cyrillic_Supplement,Cyrillic Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Mahjong_Tiles,Mahjong Tiles,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics,Unified Canadian Aboriginal Syllabics,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Vai,Vai,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Specials,Specials,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A,Supplementary Private Use Area-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Devanagari,Devanagari,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Strokes,CJK Strokes,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Early_Dynastic_Cuneiform,Early Dynastic Cuneiform,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Linear_A,Linear A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Brahmi,Brahmi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Shorthand_Format_Controls,Shorthand Format Controls,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Alchemical_Symbols,Alchemical Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Private_Use_Area,Private Use Area,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Khudawadi,Khudawadi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Latin_Extended-E,Latin Extended-E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Currency_Symbols,Currency Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Domino_Tiles,Domino Tiles,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Sinhala,Sinhala,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Supplemental_Mathematical_Operators,Supplemental Mathematical Operators,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Old_Permic,Old Permic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Block_Elements,Block Elements,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Kayah_Li,Kayah Li,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Limbu,Limbu,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Bengali,Bengali,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Sundanese_Supplement,Sundanese Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Linear_B_Syllabary,Linear B Syllabary,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Cypriot_Syllabary,Cypriot Syllabary,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Cyrillic_Extended-B,Cyrillic Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Radicals_Supplement,CJK Radicals Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Cherokee_Supplement,Cherokee Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Supplementary_Private_Use_Area-B,Supplementary Private Use Area-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tai_Le,Tai Le,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Geometric_Shapes,Geometric Shapes,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Egyptian_Hieroglyphs,Egyptian Hieroglyphs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Playing_Cards,Playing Cards,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Grantha,Grantha,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/standard/principles.html,Principles of the Unicode Standard,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows,Miscellaneous Symbols and Arrows,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Vedic_Extensions,Vedic Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode9.0.0/,Version 9.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hebrew,Hebrew,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Byzantine_Musical_Symbols,Byzantine Musical Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-http://www.unicode.org/versions/Unicode8.0.0/,Version 8.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Linear_B_Ideograms,Linear B Ideograms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Bamum,Bamum,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ugaritic,Ugaritic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Gurmukhi,Gurmukhi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Combining_Diacritical_Marks_for_Symbols,Combining Diacritical Marks for Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bopomofo_Extended,Bopomofo Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cuneiform_Numbers_and_Punctuation,Cuneiform Numbers and Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/roadmaps/,http://www.unicode.org/roadmaps/,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_Italic,Old Italic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Arabic_Mathematical_Alphabetic_Symbols,Arabic Mathematical Alphabetic Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Supplemental_Mathematical_Operators,Supplemental Mathematical Operators,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Devanagari,Devanagari,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Variation_Selectors_Supplement,Variation Selectors Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Superscripts_and_Subscripts,Superscripts and Subscripts,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Armenian,Armenian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Ogham,Ogham,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/PDF/U2000.pdf,general punctuation chart,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Thai,Thai,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Old_North_Arabian,Old North Arabian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Enclosed_CJK_Letters_and_Months,Enclosed CJK Letters and Months,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unifont.org/fontguide/,http://www.unifont.org/fontguide/,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Latin_Extended-E,Latin Extended-E,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Vai,Vai,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Brahmi,Brahmi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Linear_B_Syllabary,Linear B Syllabary,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/CJK_Compatibility_Ideographs,CJK Compatibility Ideographs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Miscellaneous_Symbols,Miscellaneous Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://unicode.org/faq/unsup_char.html,supported in rendering,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Duployan,Duployan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://unicode.org/cldr/utility/confusables.jsp?r=None,Confusable Unicode Characters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Grantha,Grantha,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cypriot_Syllabary,Cypriot Syllabary,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Kayah_Li,Kayah Li,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Block_Elements,Block Elements,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Geometric_Shapes_Extended,Geometric Shapes Extended,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/ucd/,Unicode Character Database,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Radicals_Supplement,CJK Radicals Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Gothic,Gothic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ol_Chiki,Ol Chiki,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_South_Arabian,Old South Arabian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+00DF?lang=en,U+00DF,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tai_Le,Tai Le,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bengali,Bengali,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Strokes,CJK Strokes,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A,Supplementary Private Use Area-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows,Miscellaneous Symbols and Arrows,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mahjong_Tiles,Mahjong Tiles,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hebrew,Hebrew,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0130?lang=en,U+0130,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Lao,Lao,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cyrillic_Extended-B,Cyrillic Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Currency_Symbols,Currency Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://dumps.codepoints.net/,Database Dumps of Codepoints.net,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cherokee_Supplement,Cherokee Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Early_Dynastic_Cuneiform,Early Dynastic Cuneiform,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Runic,Runic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Linear_B_Ideograms,Linear B Ideograms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Kaithi,Kaithi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Alphabetic_Presentation_Forms,Alphabetic Presentation Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0149?lang=en,U+0149,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Shorthand_Format_Controls,Shorthand Format Controls,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Imperial_Aramaic,Imperial Aramaic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Geometric_Shapes,Geometric Shapes,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Rejang,Rejang,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tirhuta,Tirhuta,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+01F0?lang=en,U+01F0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Supplemental_Arrows-C,Supplemental Arrows-C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sundanese_Supplement,Sundanese Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Kangxi_Radicals,Kangxi Radicals,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Glagolitic,Glagolitic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0390?lang=en,U+0390,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Katakana_Phonetic_Extensions,Katakana Phonetic Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Domino_Tiles,Domino Tiles,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Supplementary_Private_Use_Area-B,Supplementary Private Use Area-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Combining_Diacritical_Marks_for_Symbols,Combining Diacritical Marks for Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Arabic,Arabic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_North_Arabian,Old North Arabian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tibetan,Tibetan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/standard/principles.html,Principles of the Unicode Standard,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Meetei_Mayek,Meetei Mayek,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_Permic,Old Permic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tagalog,Tagalog,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Arabic_Presentation_Forms-A,Arabic Presentation Forms-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/New_Tai_Lue,New Tai Lue,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Sora_Sompeng,Sora Sompeng,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Imperial_Aramaic,Imperial Aramaic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Phonetic_Extensions,Phonetic Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Egyptian_Hieroglyphs,Egyptian Hieroglyphs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Byzantine_Musical_Symbols,Byzantine Musical Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Aegean_Numbers,Aegean Numbers,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tirhuta,Tirhuta,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Meetei_Mayek,Meetei Mayek,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Kangxi_Radicals,Kangxi Radicals,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Modifier_Tone_Letters,Modifier Tone Letters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Old_Persian,Old Persian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Gujarati,Gujarati,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hangul_Jamo_Extended-A,Hangul Jamo Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Glagolitic,Glagolitic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Gurmukhi,Gurmukhi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miscellaneous_Symbols,Miscellaneous Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode9.0.0/,Version 9.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Palmyrene,Palmyrene,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Supplemental_Symbols_and_Pictographs,Supplemental Symbols and Pictographs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Arabic,Arabic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Compatibility,CJK Compatibility,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Anatolian_Hieroglyphs,Anatolian Hieroglyphs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Runic,Runic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Alphabetic_Presentation_Forms,Alphabetic Presentation Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Chakma,Chakma,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Lao,Lao,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Manichaean,Manichaean,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Dingbats,Dingbats,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hangul_Syllables,Hangul Syllables,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Javanese,Javanese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement,Enclosed Alphanumeric Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Latin_Extended-D,Latin Extended-D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ancient_Greek_Numbers,Ancient Greek Numbers,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Deseret,Deseret,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Khmer_Symbols,Khmer Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Phonetic_Extensions_Supplement,Phonetic Extensions Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A,CJK Unified Ideographs Extension A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Oriya,Oriya,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Number_Forms,Number Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Arabic_Presentation_Forms-A,Arabic Presentation Forms-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tibetan,Tibetan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ancient_Greek_Musical_Notation,Ancient Greek Musical Notation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Enclosed_Ideographic_Supplement,Enclosed Ideographic Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ideographic_Description_Characters,Ideographic Description Characters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Nabataean,Nabataean,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Mahajani,Mahajani,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Siddham,Siddham,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Avestan,Avestan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hangul_Jamo_Extended-B,Hangul Jamo Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Jamo_Extended-A,Hangul Jamo Extended-A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode8.0.0/,Version 8.0.0,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Latin_Extended-C,Latin Extended-C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Bamum_Supplement,Bamum Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Buginese,Buginese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Ancient_Symbols,Ancient Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tagalog,Tagalog,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Myanmar_Extended-B,Myanmar Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Symbols_and_Punctuation,CJK Symbols and Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hatran,Hatran,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tai_Xuan_Jing_Symbols,Tai Xuan Jing Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Arrows,Arrows,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_C,CJK Unified Ideographs Extension C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Enclosed_CJK_Letters_and_Months,Enclosed CJK Letters and Months,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Playing_Cards,Playing Cards,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bamum,Bamum,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Vedic_Extensions,Vedic Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Letterlike_Symbols,Letterlike Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Syriac,Syriac,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Modi,Modi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ideographic_Description_Characters,Ideographic Description Characters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Manichaean,Manichaean,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Myanmar,Myanmar,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Mro,Mro,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Tai_Tham,Tai Tham,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Inscriptional_Parthian,Inscriptional Parthian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Coptic,Coptic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Hiragana,Hiragana,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Syllables,Hangul Syllables,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Hanunoo,Hanunoo,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ugaritic,Ugaritic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Variation_Selectors,Variation Selectors,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Khmer_Symbols,Khmer Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ancient_Greek_Numbers,Ancient Greek Numbers,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Gujarati,Gujarati,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Chakma,Chakma,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Nabataean,Nabataean,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_B,CJK Unified Ideographs Extension B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Javanese,Javanese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Dingbats,Dingbats,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Coptic,Coptic,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Anatolian_Hieroglyphs,Anatolian Hieroglyphs,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Musical_Symbols,Musical Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Compatibility,CJK Compatibility,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Modifier_Tone_Letters,Modifier Tone Letters,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Number_Forms,Number Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement,Enclosed Alphanumeric Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Symbols_and_Punctuation,CJK Symbols and Punctuation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Avestan,Avestan,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Arabic_Supplement,Arabic Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Takri,Takri,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
-https://wikipedia.org/wiki/Georgian,Georgian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Modi,Modi,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phonetic_Extensions,Phonetic Extensions,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Jamo_Extended-B,Hangul Jamo Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Vertical_Forms,Vertical Forms,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Buhid,Buhid,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Buginese,Buginese,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ancient_Symbols,Ancient Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Georgian,Georgian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Oriya,Oriya,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mahajani,Mahajani,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Old_Persian,Old Persian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_C,CJK Unified Ideographs Extension C,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Myanmar_Extended-B,Myanmar Extended-B,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hatran,Hatran,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ancient_Greek_Musical_Notation,Ancient Greek Musical Notation,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Latin_Extended-D,Latin Extended-D,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A,CJK Unified Ideographs Extension A,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hiragana,Hiragana,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Inscriptional_Parthian,Inscriptional Parthian,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Takri,Takri,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phonetic_Extensions_Supplement,Phonetic Extensions Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Arrows,Arrows,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
 https://wikipedia.org/wiki/Combining_Half_Marks,Combining Half Marks,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bamum_Supplement,Bamum Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Enclosed_Ideographic_Supplement,Enclosed Ideographic Supplement,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tai_Xuan_Jing_Symbols,Tai Xuan Jing Symbols,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Deseret,Deseret,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tai_Tham,Tai Tham,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mro,Mro,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode

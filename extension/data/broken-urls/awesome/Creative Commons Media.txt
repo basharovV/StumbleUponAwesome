@@ -1,2 +1,1 @@
 https://courses.candelalearning.com/catalog/lumen,Candela Learning,https://github.com/shime/creative-commons-media#readme,Creative Commons Media error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)
-http://www.europeana.eu/portal/,Europeana,https://github.com/shime/creative-commons-media#readme,Creative Commons Media error: timeout('The read operation timed out') | reason: 

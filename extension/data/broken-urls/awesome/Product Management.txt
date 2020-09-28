@@ -1,3 +1,5 @@
-https://www.linkedin.com/in/sachinrekhi/,Sachin Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 999: 'INKApi Error'> | reason: INKApi Error
-https://www.linkedin.com/in/adachen/,Ada Chen Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 999: 'INKApi Error'> | reason: INKApi Error
-https://www.linkedin.com/in/davegirouard,Dave Girouard,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 999: 'INKApi Error'> | reason: INKApi Error
+https://www.linkedin.com/in/sachinrekhi/,Sachin Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 999: 'Request denied'> | reason: Request denied
+https://www.linkedin.com/in/adachen/,Ada Chen Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 999: 'Request denied'> | reason: Request denied
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/,PM at Microsoft,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.linkedin.com/in/davegirouard,Dave Girouard,https://github.com/dend/awesome-product-management#readme,Product Management error: <HTTPError 999: 'Request denied'> | reason: Request denied
+https://pmtrack.co,PMTrack,https://github.com/dend/awesome-product-management#readme,Product Management error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

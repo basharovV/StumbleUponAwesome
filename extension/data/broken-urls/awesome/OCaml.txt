@@ -2,3 +2,4 @@ http://freux.fr/oss/obandit.html,obandit,https://github.com/ocaml-community/awes
 http://www.linux-nantes.org/~fmonnier/OCaml/GL/,glMLite,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/,Cooperative Concurrency in OCaml: A Core.Std.Async Example,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.seas.upenn.edu/~cis120/current/programming_style.shtml,[3],https://github.com/ocaml-community/awesome-ocaml#readme,OCaml error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/camlspotter/compiler-libs-hack,A safe but strange way of modifying OCaml compiler,https://github.com/ocaml-community/awesome-ocaml#readme,OCaml error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,39 +1,38 @@
 https://www.cloudflare.com,,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://cloudflare.github.io,Open Source,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/connecting-to-google-storage/32350,Connecting to Google Storage,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://workers.cloudflare.com/docs,Documentation,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://api.cloudflare.com,API Docs,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://workers.cloudflare.com/docs,Documentation,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com,Forum,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/parse-url-query-strings-with-cloudflare-workers/90286,URL Query Strings Parser,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflare.com/integrations,Integration Resources,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/perform-regex-replacements-and-inject-css-javascript-with-cloudflare-workers/90279,Regrex Replacement and Injection,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.reddit.com/r/CloudFlare,Reddit,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://workers.cloudflare.com/docs/tutorials,Tutorials,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/ip-redirects/18285,IP Redirects,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.facebook.com/Cloudflare,Facebook,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://workers.cloudflare.com/docs/reference/runtime,Runtime,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflare.com/integrations,Integration Resources,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900,Geographic Routing and Load Balancer,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.youtube.com/cloudflare-,YouTube,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/strip-utm-query-string/47941,UTM Tag Stripper,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://community.cloudflare.com/t/short-url-using-workers/39877,Short URL Redirector,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://workers.cloudflare.com/docs/reference/storage,Workers KV,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://stackexchange.com/search?q=cloudflare,Stack Exchange,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://community.cloudflare.com/t/short-url-using-workers/39877,Short URL Redirector,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://www.cloudflare.com/technical-resources,Technical Resources,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://stackoverflow.com/questions/tagged/cloudflare,Stack Overflow,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://www.cloudflareworkers.com,Playground,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://serverfault.com/questions/tagged/cloudflare,Server Fault,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://support.cloudflare.com,Support,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.reddit.com/r/CloudFlare,Reddit,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://blog.cloudflare.com/serverlist,The Serverlist Newsletter,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://blog.cloudflare.com,Official Blog,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflare.com/apps/developers,Cloudflare Apps,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflarestatus.com,System Status,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://developers.cloudflare.com,Developers Hub,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflare.com/apps,Apps Directory,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://workers.cloudflare.com/docs/reference/tooling/serverless,Serverless Plugin,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflare.com/network,Network Map,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflare.com/apps/developer/docs/getting-started,Documentation,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.facebook.com/Cloudflare,Facebook,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflare.com/apps/developers,Cloudflare Apps,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.youtube.com/cloudflare-,YouTube,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://support.cloudflare.com,Support,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflare.com/apps,Apps Directory,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378,Usage,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
-https://www.cloudflare.com/fund,Developer Fund,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://stackexchange.com/search?q=cloudflare,Stack Exchange,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflarestatus.com,System Status,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflare.com/apps/developer/docs/getting-started,Documentation,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/worker-recipe-cache-purge-proxy/29978,Usage,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://stackoverflow.com/questions/tagged/cloudflare,Stack Overflow,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406,Usage,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://serverfault.com/questions/tagged/cloudflare,Server Fault,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflare.com/fund,Developer Fund,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://www.cloudflare.com/network,Network Map,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://blog.cloudflare.com,Official Blog,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
+https://developers.cloudflare.com,Developers Hub,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare
 https://www.cloudflare.com/products/cloudflare-workers,Cloudflare Workers,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare

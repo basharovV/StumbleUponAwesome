@@ -1,15 +1,4 @@
 https://pragprog.com/book/phoenix/programming-phoenix,Programming Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.packtpub.com/application-development/learning-elixir,Learning Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/application-development/elixir-cookbook,Elixir Cookbook,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/application-development/mastering-elixir,Mastering Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://startlearningelixir.com/r/etudes-for-elixir,Études for Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://startlearningelixir.com/r/take-off-with-elixir,Take Off With Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
 https://pragprog.com/book/jaerlang2/programming-erlang,Programming Erlang,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.packtpub.com/web-development/phoenix-web-development,Phoenix Web Development,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
+https://startlearningelixir.com/r/etudes-for-elixir,Études for Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused

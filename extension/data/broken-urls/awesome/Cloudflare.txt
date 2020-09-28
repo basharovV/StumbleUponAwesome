@@ -1,1 +1,2 @@
+https://workers.cloudflare.com/docs/reference/runtime,Runtime,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare error: <HTTPError 404: 'OK'> | reason: OK
 https://forwarding.app,Redirect Management,https://github.com/irazasyed/awesome-cloudflare#readme,Cloudflare error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

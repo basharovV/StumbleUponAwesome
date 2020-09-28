@@ -1,0 +1,27 @@
+https://weerdbg.com/,Weer,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://wishbone.readthedocs.io/en/latest/misc/profiling.html,Wishbone python framework,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromedevtools.github.io/timeline-viewer/,DevTools Timeline Viewer,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+http://sokolovstas.github.io/SublimeWebInspector/,Sublime Web Inspector,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html,WebStorm/JetBrains Chrome Extension,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromedevtools.github.io/devtools-protocol/,DevTools Protocol API Docs,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://sites.google.com/a/chromium.org/chromedriver/,ChromeDriver,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://intuit.github.io/karate/karate-core/,karate,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27,Debugging Node.js with Chrome DevTools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://www.npmjs.com/package/chrome-devtools-frontend,chrome-devtools-frontend,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+http://chromelens.xyz,Chromelens,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en,Clockwork,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/emulated-device-lab/oaonfodocibcdobdeelbbfggjombamff,Emulated Device Lab,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US,RailsPanel,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi,React Developer Tools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi,EmberJS Inspector,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk,Angular Batarang,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://augury.angular.io,Augury,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka,Marionette Inspector,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd,Backbone Debugger,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae,App Inspector for Sencha,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd,Redux Devtools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/,Three.js,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik,Metal.js Developer Tools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi,DevTools Author,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo,Zero Dark Matrix,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo,Material UI Theme,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools

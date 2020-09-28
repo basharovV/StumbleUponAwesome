@@ -1,2 +1,4 @@
 https://console.ng.bluemix.net/catalog/services/ibm-graph/,IBM Graph,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.tinkerpopbook.com/,TinkerPop Book,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf,Linux Foundation Presentation,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://academy.datastax.com/demos/getting-started-graph-databases,Getting Started with Graph Databases,https://github.com/mohataher/awesome-tinkerpop#readme,TinkerPop error: <HTTPError 404: 'Not Found'> | reason: Not Found

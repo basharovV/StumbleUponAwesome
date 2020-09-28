@@ -1,84 +1,17 @@
-https://simperium.com/,simperium.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://fosshost.org/,fosshost.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://cloudsmith.io,cloudsmith.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.scaledrone.com/,scaledrone.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://resizeappicon.com/,resizeappicon.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://quay.io/,quay.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://projectlocker.com,projectlocker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://sourceforge.net/,sourceforge.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.gremlin.com/gremlin-free-software,Gremlin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.bearer.sh,bearer.sh,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://placekitten.com/,placekitten.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://zilore.com/en/dns,zilore.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://mailboxlayer.com/,mailboxlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.browserling.com/,browserling.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://fakejson.com/,fakejson.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://parsehub.com/,parsehub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.codebasehq.com/,codebasehq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://ubertesters.com/,ubertesters.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.diggernaut.com/,Diggernaut,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.alienvault.com/open-threat-exchange/reputation-monitor,alienvault.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://wrapapi.com/,wrapapi.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://tilda.cc/,tilda.cc,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.ovh.ie/ssl-gateway/,ovh.ie,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: RemoteDisconnected('Remote end closed connection without response') | reason: 
-https://postbacks.io/,Postbacks,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://www.gridlastic.com/,gridlastic.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.progress.com/kinvey,progress.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.bmc.com/truesightpulse/,bmc.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://postale.io/,postale.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://undraw.co/,unDraw,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://zenscrape.com/web-scraping-api,Zenscrape,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.loginradius.com/,LoginRadius,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.trashmail.com,trashmail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://keybase.io/,Keybase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://howuku.com,howuku.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://screenshotlayer.com/,screenshotlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://zonewatcher.com,zonewatcher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://slack.com/,slack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://localise.biz/,Loco,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
+https://build.opensuse.org/,build.opensuse.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://pushcrew.com/,pushcrew.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.000webhost.com/,000WebHost,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://haveibeenpwned.com,Have I been pwned?,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.mailkitchen.com/,mailkitchen,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
 https://shrinkray.io/,shrinkray.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)
-https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree,https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.mailjet.com/,mailjet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.filestash.app,Filestash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.jamf.com/,jamf.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://verifalia.com/email-verification-api,Verifalia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.pexels.com/,pexels.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www2png.com/,WWW2PNG,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://applitools.com/,Applitools.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://report-uri.io/,report-uri.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://meet.google.com/,Google Meet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.statuspile.com/,StatusPile,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.sender.net,Sender,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.logintc.com/,logintc.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://probeapi.speedchecker.xyz/,speedchecker.xyz,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://mouseflow.com/,mouseflow.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://remotemysql.com,remotemysql.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://cloudcraft.co/,Cloudcraft,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.graphhopper.com/,graphhopper.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://readme.readme.io/docs/open-source,here,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://verimail.io/,verimail.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://mailpop.in,mailpop.in,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.prismic.io/,Prismic,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://configcat.com,ConfigCat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://runcloud.io/,runcloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://bonsai.io/,bonsai.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://mailnesia.com,Mailnesia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.quickmetrics.io/,Quickmetrics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: RemoteDisconnected('Remote end closed connection without response') | reason: 
-https://www.noip.com/,noip,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.eclipse.org/che/,Eclipse Che,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.section.io/,section.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://testanywhere.co/,testanywhere.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://sendgrid.com/,sendgrid.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://vatlayer.com/,vatlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-http://devport.co/,devport.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('timed out') | reason: 
-https://speeder.io/,speeder.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
-https://kwes.io/,Kwes.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://sematext.com/logsene,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://www.jsdelivr.com/,jsdelivr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://superfeedr.com/,superfeedr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
 https://cognalys.com/,cognalys.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://staticman.net/,Staticman,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://image4.io/,image4.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://jsfiddle.net/,jsfiddle.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://pusher.com/,pusher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
-https://connect.yandex.com/pdd/,Yandex.Connect,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
+https://usekrucible.com,Krucible,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 520: 'Origin Error'> | reason: Origin Error
+https://imagebin.ca/,imagebin.ca,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://speedboard.app,SpeedBoard,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: timeout('The read operation timed out') | reason: 
+https://hiberly.com,hiberly.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://simperium.com/,simperium.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.zenhub.io/,zenhub.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://keybase.io/,Keybase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error
+https://postbacks.io/,Postbacks,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.pexels.com/,pexels.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://report-uri.io/,report-uri.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

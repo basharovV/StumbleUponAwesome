@@ -1,3 +1,7 @@
-https://www.owasp.org/index.php/Testing_Checklist,OWASP Testing Checklist v4,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://mig.mozilla.org/,mig,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://torstatus.blutmagie.de/,Tor Node List,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://lxr.free-electrons.com/source/Documentation/networking/packet_mmap.txt,PACKET_MMAP/TPACKET/AF_PACKET,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://xmodulo.com/two-factor-authentication-ssh-login-linux.html,Tutorials: How to set up two-factor authentication for SSH login on Linux,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ,Emerging Threats - Open Source,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://www.phishtank.com/,PhishTank,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.dshield.org/reports.html,Internet Storm Center,https://github.com/sbilly/awesome-security#readme,Security error: timeout('The read operation timed out') | reason: 

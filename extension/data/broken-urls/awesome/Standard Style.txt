@@ -1,1 +1,3 @@
 https://www.uber.com/,Uber,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://www.npmjs.com/package/prettier-standard,prettier-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://getyodlr.com/home,yodlr,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 404: 'Not Found'> | reason: Not Found

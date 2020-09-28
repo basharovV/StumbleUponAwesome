@@ -1,0 +1,153 @@
+https://develop.battle.net/,Battle.net,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.blizzard.com,Blizzard,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://bf4stats.com/,Battlefield 4 Stats,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://boardgamegeek.com/wiki/page/BGG_XML_API2,BoardGameGeek,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.programmableweb.com/api/eve-online-crest-carbon-restful,EVE Online,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.giantbomb.com/api/,Giant Bomb,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.igdb.com/api,IGDB,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://developer.marvel.com/,Marvel Developer,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.metacritic.com/game,metacritc,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.opencritic.com,OpenCritic,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.opendota.com/,OpenDota,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://pandascore.co/,PandaScore,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://pokeapi.co/,PokéAPI,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://developer.riotgames.com/,Riot Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://steamdb.info/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://thegamesdb.net/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.vgchartz.com,VGChartz,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://xboxapi.com/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://doi.org/10.1145/1943552.1943569,paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://whatoplay.com,WhatoPlay,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://aibirds.org,AI Birds,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.aigameresearch.org/demo-item/pcg-angry-bots/,Angry Bots,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.daimonin.org/,Daimonin,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.deliantra.net/,Deliantra,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.ice.ci.ritsumei.ac.jp/~ftgaic/,Fighting Game AI Competition,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://home.flightgear.org/,FlightGear Flight Simulator,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://cilab.sejong.ac.kr/gdmc2017/,Game Data Mining Competition,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://arxiv.org/abs/1802.02301,Paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.gvgai.net/,General Video Game AI,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://arxiv.org/abs/1802.10363,Paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://hanabi.aiclash.com/,Hanabi Competition,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://dockhorn.antares.uberspace.de/wordpress/,Hearthstone AI,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.marioai.org/,Infinite Mario Bros,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://julian.togelius.com/mariocompetition2009/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.minecraft.net/en-us/,Minecraft,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://minidungeons.com/,MiniDungeons,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://dx.doi.org/10.1145/3290605.3300854,Paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.openlierox.net/,OpenLieroX,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://gitlab.com/OpenMW/openmw,openmw,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://openmw.org/en/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://sites.google.com/site/platformersai/,Platformer AI,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://openai.com/blog/retro-contest/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://robocode.sourceforge.io/,Robocode,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://game.engineering.nyu.edu/showdown-ai-competition/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf,paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://sites.google.com/site/starcraftaic/,StarCraft AI Competition,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://thegenius.sourceforge.net/,The Genius,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://torcs.sourceforge.net/,The Open Racing Car Simulator,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://gitlab.com/voadi/voadi,Vegan on a Desert Island,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://gitlab.com/veloren/veloren,veloren,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://veloren.net/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://pythonhosted.org/vindinium/,Documentation,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://vizdoom.cs.put.edu.pl/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://wargus.github.io/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://games.leonardomauro.com/digger/,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://duckhuntjs.com/,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://arcade.lostdecadegames.com/onslaught-arena/,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://games.leonardomauro.com/starshipsorades/,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://projects.leonardomauro.com/tapai/,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://pubby.github.io/webnes/index_app.html,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/datasnaek/league-of-legends,(LoL) League of Legends Ranked Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games,17K Mobile Strategy Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads,2018 FIFA World Cup Squads,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/sdobson46/higher-or-lower-game,380,000 Guesses Dataset - Higher or Lower?,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset,Animal Crossing New Horizons NookPlaza Catalog,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/mrpantherson/board-game-data,Board Game Data,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/gabrio/board-games-dataset,Board Games Dataset,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.boardgamegeek.com/,BoardGameGeek,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/jingking/boardgaming-online-processed-game-records,Boardgaming Online Game Records,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/schiller/cartolafc,CartolaFC,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/moradnejad/clash-of-clans-50000-user-comments,Clash of Clans app store user comments,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/swappyk/clash-royale-dataset,Clash royale Dataset,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global,Complete FIFA 2017 Player dataset (Global),https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3,Condensing Steam: Distilling the Diversity of Gamer Behavior,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://archive.ics.uci.edu/ml/datasets/Connect-4,Connect-4 Data Set,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage,CS:GO Competitive Matchmaking Data,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/lucianomartins/data-game-clashroyale,Data Game ClashRoyale,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/raxnamosa/defense-of-the-ancients,Defense of the Ancients,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results,Dota 2 Games (UCI),https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset,FIFA 18 Complete Player Dataset,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes,Fortnite: Battle Royale - Weapon Attributes,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://data.world/kreynol3/fortnite-statistics80-games,Fortnite Statistics_80 Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats,GOSU.AI Dota 2 Game Chats,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/jeradrose/hearthstone-cards,Hearthstone Cards,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units,Heroes of Might and Magic 3 Units,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/romainvincent/history-of-hearthstone,History of Hearthstone,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats,LCS 2017 Summer Split Fantasy Player & Team Stats,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min,League of Legends Diamond Ranked Games (10 min),https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/xenogearcap/league2016,League of Legends Summoner Ids and Data - 2016,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/mylesoneill/magic-the-gathering-cards,Magic The Gathering Cards,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data,Oldschool Runescape Polling Data,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://blog.opendota.com/2017/03/24/datadump2/,OpenDota,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/edopic/overwatch,Overwatch,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/mylesoneill/overwatch-game-records,Overwatch Game Records,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/simonho87/overwatch-ranked-data,Overwatch Ranked Data,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/gagazet/path-of-exile-league-statistic,Path of exile game statistic,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM,Platform Experience Dataset,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://doi.org/10.1109/ACII.2015.7344647,Paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/terminus7/pokemon-challenge,Pokemon- Weedle's Cave,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/abcsds/pokemon,Pokemon with stats,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://data.world/notgibs/pokemon-wonder-trade-results,Pokemon Wonder Trade Results,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/abcsds/pokemongo,PokemonGO,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/semioniy/predictemall,Predict'em All,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/skihikingkevin/pubg-match-deaths,PUBG Match Deaths and Statistics,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/danofer/skillcraft,SkillCraft-StarCraft,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/leomauro/smmnet,SMMnet,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy,Starcraft: Scouting The Enemy,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset,StarCraft 2 (UCI),https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://doi.org/10.1371/journal.pone.0075129,Paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history,StarCraft II matches history,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis,StarCraft II Replay Analysis,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://nova.wolfwork.com/dataMining.html,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://arxiv.org/abs/1708.02139,paper,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2,Super Trunfo - Dinossaurs 2,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/lemonkoala/terra-mystica,Terra Mystica Snellman Statistics,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/rounakbanik/pokemon,The Complete Pokemon Dataset,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/cblesa/travian-buildings,Travian buildings,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/mylesoneill/warcraft-avatar-history,World of Warcraft Avatar History,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://mmnet.iis.sinica.edu.tw/dl/wowah/,Website,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds,World of Warcraft Battlegrounds,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/lava18/google-play-store-apps,Google Play Store Apps,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/floval/jvc-game-reviews,JVC Game Reviews,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://www.jeuxvideo.com/,JeuxVideo.com,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://webrobots.io/kickstarter-datasets/,Kickstarter Datasets,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000,Metacritic games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.metacritic.com,metacritc,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/kingburrito666/over-13000-steam-games,Over 13,000 Steam Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://data.world/jshep512/pew-gaming-broadband,PEW-Gaming-Broadband,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/tamber/steam-video-games,Steam Video Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal,Vandal Game Reviews,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://vandal.elespanol.com/,Vandal.com,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/juttugarakesh/video-game-data,Video Game DATA,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/gregorut/videogamesales,Video Game Sales,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings,Video Game Sales with Ratings,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/launay10christian/video-games-review,Video Games Review,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.kaggle.com/ashaheedq/video-games-sales-2019,Video Games Sales 2019,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues,World Top 100 Countries by Game Revenues,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.euromonitor.com/,Euro-Monitor, Video Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.grandviewresearch.com/industry/digital-media,Grand View Research, Digital Media,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://newzoo.com/,Newzoo,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://www.statista.com/topics/868/video-games/,Statista, Video Games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://academictorrents.com/,Academic Torrents,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://aws.amazon.com/datasets/,AWS Datasets,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://data.world,data.world,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb,GitHub Activity Data,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+http://kaggle.com/,Kaggle,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://libregamewiki.org/Main_Page,Libre Game Wiki,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://openhtml5games.com/,Play,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto,Open-source games,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://archive.ics.uci.edu/,UCI,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets
+https://webscope.sandbox.yahoo.com/,Yahoo! Datasets,https://github.com/leomaurodesenv/game-datasets#readme,Game Datasets

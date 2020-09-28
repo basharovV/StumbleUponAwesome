@@ -1,0 +1,26 @@
+http://ckeditor.com/,CKEditor,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://prosemirror.net/,ProseMirror,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://www.theguardian.com/,Guardian,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://quilljs.com/,Quill,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://summernote.org/,Summernote,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://wysihtml.com/,wysihtml,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://www.tinymce.com/,TinyMCE,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://jakiestfu.github.io/Medium.js/docs/,Medium.js,https://github.com/dok/awesome-text-editing#readme,Text Editing
+https://textbox.io/,Textbox.IO,https://github.com/dok/awesome-text-editing#readme,Text Editing
+https://www.froala.com/wysiwyg-editor,Froala,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://imperavi.com/redactor/,Redactor,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://www.alohaeditor.org/Content.Node/index.html,Aloha Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://www.wymeditor.org/,WYMeditor,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://dojotoolkit.org/,Dijit Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://yui.github.io/yui2/,YUI Rich Text Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://markitup.jaysalvat.com/home/,markitup,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://www.openwebware.com/,openwysiwyg,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://jqueryte.com/,tejQuery,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://nicedit.com/,NicEdit,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://alloyeditor.com/,Alloy,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://facebook.github.io/draft-js/,Draft.js,https://github.com/dok/awesome-text-editing#readme,Text Editing
+https://medv.io/codejar/,CodeJar,https://github.com/dok/awesome-text-editing#readme,Text Editing
+https://codemirror.net/,CodeMirror,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html,EditArea,https://github.com/dok/awesome-text-editing#readme,Text Editing
+http://jakiestfu.github.io/Behave.js/,Behave.js,https://github.com/dok/awesome-text-editing#readme,Text Editing
+https://code.google.com/p/pagedown/wiki/PageDown,pagedown,https://github.com/dok/awesome-text-editing#readme,Text Editing

@@ -1,126 +1,178 @@
 https://angular.io/guide/http,Official HttpClient,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.io/guide/router,Official Routing & Navigation,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://ng-bootstrap.github.io,ng-bootstrap,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://cordova.apache.org/docs/en/latest/,Cordova Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928,Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/,Testing Http services in Angular 2 with Jasmine,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41,Part 1 Let’s learn how to install and setup AngularFire2 4.0,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://en.wikipedia.org/wiki/Haxe,Haxe on Wikipedia,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/,Testing UI Components with the TestComponentBuilder,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0,Angular 4 with server side rendering (aka Angular Universal),https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://angulardoc.io/,AngularDoc,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/,Marble testing for RxJS observables in Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.io/guide/aot-compiler,Official Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://mdbootstrap.com/angular/,angular-bootstrap-md,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs,Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://hackr.io/tutorials/learn-angular,Programming Community Curated Resources for Learning Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/,Angular 2 with OpenID Connect Implicit Flow from Damien Bowden,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://developers.google.com/experts/all/technology/web-technologies,Google Developer Experts,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.io/,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://angular-meteor.com/angular2,Angular2-Meteor,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.syncfusion.com/angular-ui-components,Essential JS 2 for Angular by Syncfusion,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://todomvc.com/examples/angular2/,Official Angular 2.0,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/,Building an Angular Application for Production,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit,Demystifying Ahead-Of-Time Compilation In Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508,Multiple solutions for Angular Ahead of Time (AOT) Compilation,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.hirez.io/c/components-1/e/episode-1-course-overview,HiRez.io - Angular In Depth - Components,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html,Styling Angular 2 components,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a,Angular Template Syntax,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04,The Core Concepts of Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=bVI5gGTEQ_U,Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html,Developing a zippy component in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=8tGcdaItj0I,Iterative version upgrade strategies for large Angular applications – Jen Bourey,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.manning.com/books/angular-in-action,Angular in Action,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be,Angular typed Store,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=cAC4d3KIQcM,Debugging Angular 2 Apps with Batarangle – Yuri Takhteyev and Igor Krivanov,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be,Angular advanced tips and tricks,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=RD0xYicNcaY,Building apps with Firebase and Angular 2 - Sara Robinson,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/,Angular 2 Workshop,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=4YmnbGoh49U,Better concepts, less code in Angular 2 - Victor Savkin and Tobias Bosch,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw,Angular Fullstack JavaScript Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://leanpub.com/practical-angular-2,Practical Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=9odY9Rh5kTQ,Modularity and Packaging for Angular2 Applications – Pawel Kozlowski,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.youtube.com/watch?v=3FT0BqYASCo,Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://mgechev.github.io/angular-seed/,Angular Seed,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.ag-grid.com/,ag-grid,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://babeljs.io/repl/,REPL,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability,,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be,Two Phases of Angular 2 Applications,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.jqwidgets.com/angular/,angular-jqwidgets,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html,Even better ES5 code for Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.primefaces.org/primeng/,prime-ng,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html,Resolving Service Dependencies in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html,Writing Angular 2 code in ES5,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html,The difference between Annotations and Decorators,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://teradata.github.io/covalent/,Covalent,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html,Forward references in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html,Host and Visibility in Angular 2's Dependency Injection,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html,Dependency Injection in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/,Haxe: working with JavaScript libraries,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html,Routing in Angular 2 Deprecated,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0,Web Workers in Angular 2.0,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming,Web Age Solutions,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.ng-book.com/2/,ng-book 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://plnkr.co/edit/PxCzCu?p=preview,Plunker: Angular 2 + Babel,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://angular-meteor.com/,Angular Meteor,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c,Change Detection in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.angular.io,Blog,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0,Creating a Virtualized Grid,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html,Routing in Angular 2 Revisited,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://learnxinyminutes.com/docs/haxe/,Learn haxe in Y minutes,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.angular-meteor.com/angular2,Angular 2 Meteor,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html,Angular 2 Template Syntax Demystified - Part 1,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://angularair.com/,AngularAir,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.letsboot.com/angular-2-in-house-training-support,Letsboot.com,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://blog.ionic.io/angular-2-series-components/,Components,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://material.angular.io,Material 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0,Socket.io with Observables,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0,Change Detection,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.io/guide/styleguide,Official Angular style guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://auth0.com/blog/angular2-series-working-with-pipes/,Working with Pipes,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://www.youtube.com/watch?v=UxjgUjVpe24,Keynote – Brad Green, Igor Minar and Jules Kremer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html,Writing Angular 2 code in ES5,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html,Resolving Service Dependencies in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.pluralsight.com/courses/angular-2-getting-started-update,Pluralsight - Angular 2: Getting Started,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cli.angular.io/,Official web page,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gitlab.com/service-work/is-loading,isLoading? service,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://theherdlocker.com/tweet/popularity/angular2,Twitter's Most Shared #angular2 Content in a Simple Weekly Digest,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/,Haxe: working with JavaScript libraries,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=C0F2E-PRm44,Testing strategies with Angular 2 – Julie Ralph,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928,Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.ng-book.com/2/,ng-book 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/guide/router,Official Routing & Navigation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularbootcamp.com,Angular Boot Camp,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://babeljs.io/repl/,REPL,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular-2-part-1/,Adding Redux With NgRx/store and Angular2 - Part 1,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.syncfusion.com/angular-ui-components,Essential JS 2 for Angular by Syncfusion,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html,Forward references in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=4SbiiyRSIwo,Building native mobile apps with Angular 2 0 and NativeScript​ - Sebastian Witalec,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://patrickjs.com,,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://webpack.js.org,Official web page,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html,The difference between Annotations and Decorators,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://hackr.io/tutorials/learn-angular,Programming Community Curated Resources for Learning Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://plnkr.co/edit/PxCzCu?p=preview,Plunker: Angular 2 + Babel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://books.ninja-squad.com/angular,Become a ninja with Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html,Host and Visibility in Angular 2's Dependency Injection,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41,Part 1 Let’s learn how to install and setup AngularFire2 4.0,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://channel9.msdn.com/Events/Build/2015/3-644,Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=bVI5gGTEQ_U,Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://learnxinyminutes.com/docs/haxe/,Learn haxe in Y minutes,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://thoughtram.io/training.html,thoughtram,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.reddit.com/r/Angular2/,/r/Angular2 Subreddit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/,Testing Http services in Angular 2 with Jasmine,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://angular-meteor.com/,Angular Meteor,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.pluralsight.com/guides/debugging-angular-2-applications,Debugging Angular 2 Applications,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=8tGcdaItj0I,Iterative version upgrade strategies for large Angular applications – Jen Bourey,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html,Dependency Injection in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://channel9.msdn.com/Events/Build/2016/T627,Channel9 - Creating Cross-Platform Apps with Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/ngx-awesome-uploader,ngx-awesome-uploader,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.manning.com/books/angular-2-development-with-typescript,Angular Development with TypeScript,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developers.google.com/experts/all/technology/web-technologies,Google Developer Experts,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability,,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://PatrickJS.github.io/awesome-angular/,View as github page.,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8,Writing Angular in Typescript,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html,Routing in Angular 2 Deprecated,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.manning.com/books/angular-in-action,Angular in Action,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://egghead.io/browse/frameworks/angular,Egghead.io - Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe,A success story for Haxe,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html,Routing in Angular 2 Revisited,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.facebook.com/groups/angular2/,Angular Group on Facebook,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.typescriptlang.org/play/,REPL,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/~angular,,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0,Web Workers in Angular 2.0,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://snipcart.com/blog/angular-seo-universal-server-side-rendering,SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angular-meteor.com/angular2,Angular 2 Meteor,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/ngx-cdmon,ngx-cdmon,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=cAC4d3KIQcM,Debugging Angular 2 Apps with Batarangle – Yuri Takhteyev and Igor Krivanov,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/,Testing UI Components with the TestComponentBuilder,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/,Angular 2 Workshop,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://blog.ionic.io/angular-2-series-introduction/,Introduction,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html,Angular 2 Template Syntax Demystified - Part 1,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=RD0xYicNcaY,Building apps with Firebase and Angular 2 - Sara Robinson,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://gitlab.com/service-work/size-observer,Angular SizeObserver,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/,Domain Models and Dependency Injection,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.schule/,Angular.Schule (in Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.io/docs/ts/latest/cookbook/aot-compiler.html,AOT,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection,Angular 2 Bits Unified Dependency Injection,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.io/guide/cheatsheet,Cheatsheet,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://devchat.tv/adv-in-angular,Adventures in Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://auth0.com/blog/angular-2-series-part-3-using-http/,Using Http,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.udemy.com/the-complete-guide-to-angular-2/,udemy - The Complete Guide to Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://ionicframework.com,Ionic Framework,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.nativescript.org/,NativeScript,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://mgechev.github.io/angular-seed/,Angular Seed,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://plus.google.com/+AngularJS,AngularJS on Google+,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0,Creating a Virtualized Grid,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://haxe.io/,News And Information For Haxe Developers,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.pluralsight.com/courses/angular-2-first-look,Pluralsight - Angular 2: First Look,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/,Create a Desktop App with Angular 2 and Electron,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html,Part 1,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://ionicframework.com/docs/,Ionic Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://bitsrc.io/,bitsrc,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0,Using NativeScript,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx,Authentication in Angular with NGRX,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html,View Encapsulation in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.codeschool.com/courses/accelerating-through-angular,Code School - Accelerating Through Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=4YmnbGoh49U,Better concepts, less code in Angular 2 - Victor Savkin and Tobias Bosch,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/md2,md2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.ag-grid.com/,ag-grid,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/,Marble testing for RxJS observables in Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs,Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://leanpub.com/practical-angular-2,Practical Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.nativescript.org/,NativeScript,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://angularair.com/,AngularAir,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be,Angular typed Store,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a,Angular Template Syntax,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://blog.ionic.io/angular-2-series-components/,Components,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=9odY9Rh5kTQ,Modularity and Packaging for Angular2 Applications – Pawel Kozlowski,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html,Styling Angular 2 components,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://material.angular.io,Material 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/guide/aot-compiler,Official Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://www.metricsgraphicsjs.org,MetricsGraficsJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular.de/schulungen/angular-intensiv/,Angular.DE (Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bitsrc.io/,bitsrc,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming,Web Age Solutions,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html,Even better ES5 code for Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=3FT0BqYASCo,Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0,Socket.io with Observables,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://auth0.com/blog/angular2-series-working-with-pipes/,Working with Pipes,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0,Using NativeScript,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.angular.io,Blog,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be,Angular advanced tips and tricks,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://angular.io/guide/security,Angular.io Security Guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://haxe.org,Haxe.org,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://patrickjs.com,PatrickJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://cordova.apache.org/,Cordova Framework,https://github.com/PatrickJS/awesome-angular#readme,Angular
 http://yagolopez.js.org/ng-dashboard/dist/,DEMO ONLINE,https://github.com/PatrickJS/awesome-angular#readme,Angular
-http://angularexpo.com/,Angular Expo,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://medium.com/letsboot,letsboot.com,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/docs/ts/latest/cookbook/aot-compiler.html,AOT,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://devchat.tv/adv-in-angular,Adventures in Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/,Domain Models and Dependency Injection,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0,Change Detection,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/,Ahead-of-Time Compilation in Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.jqwidgets.com/angular/,angular-jqwidgets,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/docs,Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw,Angular Fullstack JavaScript Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.letsboot.com/angular-2-in-house-training-support,Letsboot.com,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.packtpub.com/web-development/switching-angular-2,Switching to Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/ng2-material,ng2-material,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://haxe.org,Haxe.org,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://auth0.com/blog/angular-2-series-part-3-using-http/,Using Http,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0,Angular 4 with server side rendering (aka Angular Universal),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/guide/cheatsheet,Cheatsheet,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://en.wikipedia.org/wiki/Haxe,Haxe on Wikipedia,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://ionicframework.com,Ionic Framework,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/,Create a Desktop App with Angular 2 and Electron,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.primefaces.org/primeng/,prime-ng,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be,FalcorJS + Angular2 (Video),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04,The Core Concepts of Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview,HiRez.io - Angular Basics,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/,Building an Angular Application for Production,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://angular-meteor.com/angular2,Angular2-Meteor,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.schule/,Angular.Schule (in Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html,Part 1,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf,Slides,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angularbuddies.slack.com/messages/ng-2/,#ng-2 Slack Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18,Dependency Injection in Angular 1 and Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://vsavkin.com/angular-2-router-d9e30599f9ea,Angular 2 Router,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://dartlang.slack.com/messages/angular2,#angular2 Slack Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://try.haxe.org/,Haxe Playground,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://www.gitbook.com/book/rangle-io/ngcourse2/details,Rangle's Angular 2 training,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://dartlang-slack.herokuapp.com/,Sign up,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://www.npmjs.com/package/angular2-mdl,angular2-mdl,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=3vuLPzjc4RI,Video,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.udemy.com/angular-crash-course-for-beginners,Angular 4 Master Class: Beginner to Advanced,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://teradata.github.io/covalent/,Covalent,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://angular.io/guide/quickstart,Getting Started Guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://gitter.im/angular/angular,Gitter Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW,揭秘 Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://stackoverflow.com/questions/tagged/angular,Angular StackOverflow,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit,Demystifying Ahead-Of-Time Compilation In Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://haxe.org/documentation/introduction/compiler-targets.html,Haxe compiler targets,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://medium.com/letsboot,letsboot.com,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://ionicframework.com/docs/,Ionic Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.de/schulungen/angular-intensiv/,Angular.DE (Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/angular2-infinite-scroll,angular2-infinite-scroll,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/,Angular 2 with OpenID Connect Implicit Flow from Damien Bowden,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cordova.apache.org/,Cordova Framework,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://www.npmjs.com/package/mdl-ext,mdl-ext,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://www.manning.com/books/testing-angular-applications,Testing Angular Applications,https://github.com/PatrickJS/awesome-angular#readme,Angular
-https://angular-buch.com/,Angular-Buch (German),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW,揭秘 Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://workshops.de/seminare-schulungen-kurse/angular-typescript/,Workshops.DE (Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.hirez.io/c/components-1/e/episode-1-course-overview,HiRez.io - Angular In Depth - Components,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gitter.im/angular/angular,Gitter Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ng-bootstrap.github.io,ng-bootstrap,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be,Two Phases of Angular 2 Applications,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cordova.apache.org/docs/en/latest/,Cordova Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://stackoverflow.com/questions/tagged/angular,Angular StackOverflow,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://classpert.com/angularjs,List of over 140 Angular Courses (free and paid) at Classpert,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://trimox.github.io/angular-mdc-web,Material Web Components,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.manning.com/books/testing-angular-applications,Testing Angular Applications,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.udemy.com/introduction-to-angular2/,udemy - Introduction to Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://augury.rangle.io/,Augury,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.io/guide/styleguide,Official Angular style guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx,Angular 2 OAuth2 OIDC from Manfred Steyer,https://github.com/PatrickJS/awesome-angular#readme,Angular
 https://ngrefs.com,Angular References,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508,Multiple solutions for Angular Ahead of Time (AOT) Compilation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-buch.com/,Angular-Buch (German),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://codesandbox.io/s/angular-angular,CodeSandbox,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://mdbootstrap.com/angular/,angular-bootstrap-md,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18,Dependency Injection in Angular 1 and Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://todomvc.com/examples/angular2/,Official Angular 2.0,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.udemy.com/angular-2-tutorial-for-beginners/,udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://pub.dartlang.org/,Pub,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c,Change Detection in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://angularexpo.com/,Angular Expo,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/ngx-credit-cards,ngx-credit-cards,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://plus.google.com/communities/114566943291919232850,Dartisans,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.udemy.com/the-complete-guide-to-angular-2/,udemy - The Complete Guide to Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in,Better Support For Functional Programming In,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularbuddies.slack.com/messages/ng-2/,#ng-2 Slack Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.pluralsight.com/courses/angular-2-first-look,Pluralsight - Angular 2: First Look,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection,Angular 2 Bits Unified Dependency Injection,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://dartlang.slack.com/messages/angular2,#angular2 Slack Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vsavkin.com/angular-2-router-d9e30599f9ea,Angular 2 Router,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html,Developing a tabs component in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html,Developing a zippy component in Angular 2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://dartlang-slack.herokuapp.com/,Sign up,https://github.com/PatrickJS/awesome-angular#readme,Angular

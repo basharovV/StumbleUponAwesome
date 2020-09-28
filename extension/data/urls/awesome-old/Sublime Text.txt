@@ -1,0 +1,58 @@
+http://www.sublimetext.com/,Sublime Text,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://en.wikipedia.org/wiki/Sublime_Text,Wikipedia,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://sublime-text-unofficial-documentation.readthedocs.org,Unofficial Documentation,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.sublimetext.com/docs/3/,official documentation TOC,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/,Shortcut Cheat Sheet,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://www.shortcutfoo.com/app/tutorial/sublimetext,ShortcutFoo,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://leanpub.com/sublime-productivity,Sublime Productivity,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://leanpub.com/writing-sublime-plugins,Writing Sublime Plugins,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.packtpub.com/application-development/mastering-sublime-text,Mastering Sublime Text,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.sublimetext.com/blog/,Sublime Blog,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://sublimetexttips.com,Sublime Text Tips,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.sublimetext.com/forum/,Official Forum,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://www.reddit.com/r/SublimeText,Sublime Reddit,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://superuser.com/questions/tagged/sublime-text-2,version 2,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://superuser.com/questions/tagged/sublime-text-3,version 3,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://superuser.com/questions/tagged/sublime-text,version-agnostic,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts,The Complete Visual Guide to Sublime Text 3,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.pluralsight.com/courses/sublime-text-3-from-scratch,Sublime Text 3 From Scratch,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://pragprog.com/screencasts/v-mrst2/sublime-text-2,Sublime Text 2,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2,Perfect Workflow in Sublime Text 2,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://packagecontrol.io/packages/LSP,LSP,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://en.wikipedia.org/wiki/Dired,Dired,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://www.railstutorial.org/,Ruby on Rails Tutorial,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://zhuravel.biz/setting-up-sublime-text-for-ruby-development,Setting up Sublime Text for Ruby development,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://dbader.org/blog/setting-up-sublime-text-for-python-development,Setting up Sublime Text for Python development,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://piotr.banaszkiewicz.org/blog/2013/08/24/sublime-text-3-for-python-development/,Sublime Text 3 for Python development,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://opensourcehacker.com/2014/03/10/sublime-text-3-for-python-javascript-and-web-developers/,Sublime Text 3 for Python, JavaScript and web developers,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://pypi.python.org/pypi/PythonTidy/,PythonTidy,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://jsbeautifier.org,http://jsbeautifier.org,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://emmet.io,Emmet,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://hayakubundle.com,Hayaku,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.sublimetext.com/docs/2/osx_command_line.html,Command line usage,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://buymeasoda.github.io/soda-theme/,Soda,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://kkga.github.io/spacegray/,Spacegray,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://kkga.github.io/spacegray,http://kkga.github.io/spacegray,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://equinsuocha.io/material-theme,http://equinsuocha.io/material-theme,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://jamiewilson.io/predawn,http://jamiewilson.io/predawn,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://colorsublime.com,colorsublime.com,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://tmtheme-editor.herokuapp.com,http://tmtheme-editor.herokuapp.com,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://draculatheme.com/,several other applications,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon,By Jon-Paul Lunney,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://dribbble.com/shots/382409-Sublime-Text-2-Icon,By Chris Lee,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme,By Ernest Ojeh,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://www.behance.net/gallery/22168387/Sublime-Text-Icon,By Matheus Falcão,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.paratype.com/public/,PT Mono,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.marksimonson.com/fonts/view/anonymous-pro,Anonymous Pro,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.fonts.com/font/microsoft-corporation/consolas,Consolas,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender,Droid Sans Mono,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://dejavu-fonts.org,Deja Vu Sans Mono,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://fonts.google.com/specimen/Fira+Mono,Fira Mono,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+https://en.wikipedia.org/wiki/Monaco_%28typeface%29,Monaco,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.dafont.com/bitstream-vera-mono.font,Bitstream Vera Sans Mono,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://sourcefoundry.org/hack/,Hack,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://stackoverflow.com/questions/4689/recommended-fonts-for-programming,Recommended Fonts for Programming?,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://www.slant.co/topics/67/~programming-fonts,What are the best programming fonts?,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://blog.codinghorror.com/progamming-fonts/,Progamming Fonts,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://blog.codinghorror.com/revisiting-programming-fonts/,Revisiting Programming Fonts,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text
+http://blog.codinghorror.com,CodingHorror,https://github.com/dreikanter/sublime-bookmarks#readme,Sublime Text

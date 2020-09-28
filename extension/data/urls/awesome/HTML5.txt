@@ -1,149 +1,150 @@
+https://www.w3schools.com/tags/tag_canvas.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.w3schools.com/tags/tag_source.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.youtube.com/watch?v=EXjPsvwIDwU,Making the mobile web fast, feature-rich, and beautiful,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://w3c.github.io/frame-timing/,Draft from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027,HTML5: Up and Running,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA,ARIA from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.html5rocks.com/en/tutorials/workers/basics/,Web Worker Basics,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture,Chrome's new Picture in Picture API,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d,Prefetching and prerendeding,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.youtube.com/watch?v=euCNWhs7ivQ,Dart: HTML of the Future, Today!,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://hacks.mozilla.org/category/mozilla-hacks-weekly/,Mozilla Hacks Weekly Articles,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.w3schools.com/tags/tag_track.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585,HTML5 Vibration API,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456,HTML5 Apps: Positioning with Geolocation,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA,ARIA from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027,HTML5: Up and Running,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.youtube.com/watch?v=euCNWhs7ivQ,Dart: HTML of the Future, Today!,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/,An Extensive Guide To Progressive Web Applications,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795,HTML5 Battery Status API,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/TR/WebCryptoAPI/,Web Cryptography API draft,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.w3schools.com/tags/tag_canvas.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://hacks.mozilla.org/category/mozilla-hacks-weekly/,Mozilla Hacks Weekly Articles,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.w3schools.com/tags/tag_source.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://w3c.github.io/frame-timing/,Draft from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://a11y-style-guide.com/style-guide/,Great Accessibility Style Guide,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.w3schools.com/tags/tag_track.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/updates/2015/08/using-requestidlecallback,On Google developers,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://hayato.io/2016/shadowdomv1/,What's New in Shadow DOM v1 (by examples),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://webplatform.github.io/docs/Main_Page/index.html,HTML official reference,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps/,The Business Case for Progressive Web Apps,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/speed/img-compression/,Image compression,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/,Intro to the HTML5 Speech Synthesis API,https://github.com/diegocard/awesome-html5#readme,HTML5
 http://w3c.github.io/push-api/,Push API W3C draft,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://diafygi.github.io/webcrypto-examples/,Table of web cryptography support,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/updates/2015/08/using-requestidlecallback,On Google developers,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5canvastutorials.com/,Various Tutorials,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/TR/WebCryptoAPI/,Web Cryptography API draft,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://a11y-style-guide.com/style-guide/,Great Accessibility Style Guide,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://hayato.io/2016/shadowdomv1/,What's New in Shadow DOM v1 (by examples),https://github.com/diegocard/awesome-html5#readme,HTML5
 https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/,How fast are web workers?,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://hackr.io/tutorials/learn-html-5,Community Curated Resources,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/speed/txt-compression/,Text compression,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://webplatform.github.io/docs/Main_Page/index.html,HTML official reference,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/,Intro to the HTML5 Speech Synthesis API,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795,HTML5 Battery Status API,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://w3c.github.io/html/,HTML 5.3,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/es7/observe/,Data-binding Revolutions with Object.observe(),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto,Window.crypto,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://eprint.iacr.org/2015/616.pdf,Privacy analysis of the HTML5 Battery Status API,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers,Web Workers in MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://css-tricks.com/using-requestanimationframe/,Using requestAnimationFrame (CSS Tricks),https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/TR/resource-timing/,Resource timing spec,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/primers/service-workers/,Service Worker fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://alistapart.com/article/designing-for-cognitive-differences,Designing for Cognitive Differences,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5canvastutorials.com/,Various Tutorials,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms,Changes to forms in HTML5 from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://notifications.spec.whatwg.org/,Notifications API spec,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/payments/,Web payments API overview,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html,Cryptography next steps from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667,Getting started with Web Workers,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://thepaciellogroup.github.io/AT-browser-tests/,Guide on how HTML elements are supported by screen readers,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://shapeshed.com/html5-speech-recognition-api/,Another useful intro,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/web-components/customelements,Custom elements v1: reusable web components,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/,HTML5 Rocks,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598,HTML5 Network Information API,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.w3schools.com/html/html5_semantic_elements.asp,Semantic elements from W3Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/,WebGL Fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://diafygi.github.io/webcrypto-examples/,Table of web cryptography support,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers,Web Workers in MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/speed/img-compression/,Image compression,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/es7/observe/,Data-binding Revolutions with Object.observe(),https://github.com/diegocard/awesome-html5#readme,HTML5
 https://simon.html5.org/dump/html5-canvas-cheat-sheet.html,Cheat Sheet,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.google.com/intl/en/chrome/demos/speech.html,Web speech API demo,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/web-app-manifest/,The Web App Manifest (Google's fundamentals),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/offline/storage/,Client-Side Storage,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://serviceworkies.com/,ServiceWorkies - Learn SWs playing a game,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://docs.sencha.com/,Sencha Touch tutorials,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/,Progressive enhancement,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://caniuse.com/,Can I use...,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://html5gallery.com/,HTML5 Gallery,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications,Using files from web applications (MDN),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://blog.teamtreehouse.com/use-details-summary-elements,How to Use the Details and Summary Elements,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://notifications.spec.whatwg.org/,Notifications API spec,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://css-tricks.com/using-requestanimationframe/,Using requestAnimationFrame (CSS Tricks),https://github.com/diegocard/awesome-html5#readme,HTML5
+https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps/,The Business Case for Progressive Web Apps,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/,HTML5 Rocks,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto,Window.crypto,https://github.com/diegocard/awesome-html5#readme,HTML5
 http://shop.oreilly.com/product/0636920021360.do,Using the HTML5 Filesystem API,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/webappfieldguide/toc/index/,Field guide to web applications,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites,Top 25 Accessibility Testing Tools for Website,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://hacks.mozilla.org/2018/11/the-power-of-web-components/,The power of web components,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API,Using the Web Speech API,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://w3c.github.io/developers/tools/,W3C quality tools,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667,Getting started with Web Workers,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://blog.teamtreehouse.com/use-details-summary-elements,How to Use the Details and Summary Elements,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/web-components/customelements,Custom elements v1: reusable web components,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html,Cryptography next steps from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/payments/,Web payments API overview,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/,Progressive enhancement,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://alistapart.com/article/designing-for-cognitive-differences,Designing for Cognitive Differences,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/speed/txt-compression/,Text compression,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.apress.com/us/book/9781430266976,HTML5 Game Development Insights,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/WAI/ER/tools/,Web Accessibility Evaluation Tools List from W3,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://blog.teamtreehouse.com/use-html5-sectioning-elements,How to Use The HTML5 Sectioning Elements,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Learn/HTML,HTML5 development guide from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines,Sections and Outlines of an HTML5 from MDN Document,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://ccoenraets.github.io/cordova-tutorial/,Apache Cordova tutorial,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/websockets/basics/,Introducing Websockets,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://beta.html5test.com/,HTML5 test,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/file/dndfiles/,Reading local files in JavaScript,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/2014/06/w3c-highlights/,W3C Highlights form June 2014,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.codemag.com/Article/1411041,Introduction to IndexedDB,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.smashingmagazine.com/2011/11/html5-semantics/,HTML5 Semantics from Smashing Magazine,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.manning.com/books/web-design-playground,Web Design Playground: HTML & CSS The Interactive Way,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.madebymike.com.au/writing/service-workers/,Offline content with service workers,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/primers/service-workers/,Service Worker fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://shapeshed.com/html5-speech-recognition-api/,Another useful intro,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/offline/storage/,Client-Side Storage,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://hacks.mozilla.org/2018/11/the-power-of-web-components/,The power of web components,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications,Using files from web applications (MDN),https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/,WebGL Fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/TR/resource-timing/,Resource timing spec,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://gethead.info/,A list of things that go in your pages' HEAD element,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.w3schools.com/html/html5_semantic_elements.asp,Semantic elements from W3Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://eprint.iacr.org/2015/616.pdf,Privacy analysis of the HTML5 Battery Status API,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/,Details element polyfill,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://html5please.com/,HTML5 Please,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171,PhoneGap from Scratch,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://w3c.github.io/FileAPI/,File API Draft,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://pa11y.org/,Pa11y - automated accessibility testing,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://html5gallery.com/,HTML5 Gallery,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.google.com/intl/en/chrome/demos/speech.html,Web speech API demo,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://thepaciellogroup.github.io/AT-browser-tests/,Guide on how HTML elements are supported by screen readers,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://serviceworkies.com/,ServiceWorkies - Learn SWs playing a game,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.manning.com/books/web-design-playground,Web Design Playground: HTML & CSS The Interactive Way,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines,Sections and Outlines of an HTML5 from MDN Document,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://blog.teamtreehouse.com/use-html5-sectioning-elements,How to Use The HTML5 Sectioning Elements,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.webcomponents.org/community/articles/a-quick-polymer-introduction,A Quick Introduction To Polymer,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063,Real-World Off-Line Data Storage,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting,Lesser known semantics element from W3C & Opera,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://bestvpn.org/html5demos/,HTML5 demos,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.sitepoint.com/html5-time-element-guide/,Time element guide,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/TR/file-system-api/,File system API,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.youtube.com/watch?v=IIRj8DftkqE,Service Worker Libraries, Totally Tooling Tips,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.polymer-project.org/blog/es6,Building web components using Polymer and ES6 classes,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/accessibility/,Excellent intro to accessibility from Google's fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.w3.org/TR/2014/WD-webvtt1-20141113/,First draft from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Learn/HTML,HTML5 development guide from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://caniuse.com/,Can I use...,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API,Using the Web Speech API,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598,HTML5 Network Information API,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://extensiblewebmanifesto.org/,The extensible web manifesto,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/file/dndfiles/,Reading local files in JavaScript,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/web-app-manifest/,The Web App Manifest (Google's fundamentals),https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/2014/06/w3c-highlights/,W3C Highlights form June 2014,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.w3schools.com/tags/tag_audio.asp,audio tag from W3Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.youtube.com/watch?v=4zoC3eaa9z0,Video from google developers,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/,Demythstifying Web Components,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://keenhtml.com,Keen HTML,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Overlay_Extensions/XUL_School/Local_Storage,Local storage tutorial,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/speed/quick/,Best practices for mobile web apps,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/,The Offline Cookbook,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/,Getting started with HTML5 Game Development from Mozilla Hacks,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.webcomponents.org/community/articles/introduction-to-html-imports,Introduction to HTML imports,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.w3schools.com/tags/tag_video.asp,video tag from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://diveinto.html5doctor.com/,Dive Into HTML5,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.youtube.com/watch?v=qDJAz3IIq18,Instant-loading Offline-first (Progressive Web App Summit 2016),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/webcomponents/imports/,HTML imports,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web,Permissions API for the Web by Google,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content,Tutorial from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/appcache/beginner/,A Beginner's Guide to Using the Application Cache,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.sitepoint.com/html5-time-element-guide/,Time element guide,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://docs.sencha.com/,Sencha Touch tutorials,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.polymer-project.org/blog/es6,Building web components using Polymer and ES6 classes,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.w3.org/TR/html5-diff/,Differences between HTML5 and HTML4 from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.sitepoint.com/experimenting-web-speech-api/,Experimenting with the Web Speech API,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/,Aria in HTML,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/getusermedia/intro/,Capturing audio and video in HTML5,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://frontendfoc.us/,HTML5 Weekly,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.w3schools.com/tags/tag_video.asp,video tag from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/webappfieldguide/toc/index/,Field guide to web applications,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.madebymike.com.au/writing/service-workers/,Offline content with service workers,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.smashingmagazine.com/2011/11/html5-semantics/,HTML5 Semantics from Smashing Magazine,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites,Top 25 Accessibility Testing Tools for Website,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://w3c.github.io/developers/tools/,W3C quality tools,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://w3c.github.io/FileAPI/,File API Draft,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://html5please.com/,HTML5 Please,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/TR/2014/WD-webvtt1-20141113/,First draft from W3C,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content,Tutorial from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/websockets/basics/,Introducing Websockets,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.youtube.com/watch?v=IIRj8DftkqE,Service Worker Libraries, Totally Tooling Tips,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es,Getting started with the Web Audio API,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://beta.html5test.com/,HTML5 test,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/WAI/ER/tools/,Web Accessibility Evaluation Tools List from W3,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.w3.org/TR/file-system-api/,File system API,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/,Demythstifying Web Components,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://ccoenraets.github.io/cordova-tutorial/,Apache Cordova tutorial,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.codemag.com/Article/1411041,Introduction to IndexedDB,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting,Lesser known semantics element from W3C & Opera,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.sitepoint.com/experimenting-web-speech-api/,Experimenting with the Web Speech API,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://hacks.mozilla.org/2016/02/html-5-game-development-video-series/,HTML 5 game development video series by Mozilla,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/webcomponents/yeoman/,Building Webapps with Yeoman and Polymer,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.talater.com/annyang/,Free voice recognition library (annyang),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/push-notifications/,Web Push Notifications (Google's Web fundamentals),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.w3schools.com/tags/tag_embed.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://webaim.org/standards/wcag/checklist,Accessibility checklist for web developers,https://github.com/diegocard/awesome-html5#readme,HTML5
-http://html5gamedevelopment.com/,Info, news and tutorials,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.youtube.com/watch?v=4zoC3eaa9z0,Video from google developers,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://developer.mozilla.org/es/docs/Web_Audio_API,Web Audio API at MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://2017.ind.ie/blog/accessible-video-player/,Accessible and Responsive HTML5 Video Player,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://blog.carbonfive.com/2014/10/16/webrtc-made-simple/,WebRTC made simple,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.html5rocks.com/en/tutorials/webrtc/datachannels/,WebRTC data channels tutorial,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/getusermedia/intro/,Capturing audio and video in HTML5,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/webcomponents/imports/,HTML imports,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/,The Offline Cookbook,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/accessibility/,Excellent intro to accessibility from Google's fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://html5gamedevelopment.com/,Info, news and tutorials,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.webcomponents.org/community/articles/introduction-to-html-imports,Introduction to HTML imports,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.talater.com/annyang/,Free voice recognition library (annyang),https://github.com/diegocard/awesome-html5#readme,HTML5
+https://keenhtml.com,Keen HTML,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171,PhoneGap from Scratch,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063,Real-World Off-Line Data Storage,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://bestvpn.org/html5demos/,HTML5 demos,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://pa11y.org/,Pa11y - automated accessibility testing,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.w3schools.com/tags/tag_embed.asp,Brief description from W3 Schools,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.youtube.com/watch?v=qDJAz3IIq18,Instant-loading Offline-first (Progressive Web App Summit 2016),https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/webcomponents/yeoman/,Building Webapps with Yeoman and Polymer,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web,Permissions API for the Web by Google,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://webaim.org/standards/wcag/checklist,Accessibility checklist for web developers,https://github.com/diegocard/awesome-html5#readme,HTML5
+http://diveinto.html5doctor.com/,Dive Into HTML5,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/speed/quick/,Best practices for mobile web apps,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Overlay_Extensions/XUL_School/Local_Storage,Local storage tutorial,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://frontendfoc.us/,HTML5 Weekly,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/appcache/beginner/,A Beginner's Guide to Using the Application Cache,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API,Using Geolocation,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/,Firefox Reality now available,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://html5-game-development.zeef.com/andre.antonio.schmitz,Over 380 resources on HTML5 game development,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.ampproject.org/learn/overview/,Accelerated Mobile Pages (AMP),https://github.com/diegocard/awesome-html5#readme,HTML5
 https://developers.google.com/web/progressive-web-apps/,Intro to PWAs,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://docs.telerik.com/kendo-ui/controls/hybrid/introduction,https://docs.telerik.com/kendo-ui/controls/hybrid/introduction,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/web/fundamentals/web-components/shadowdom,Shadow DOM v1: self-contained web components,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/push-notifications/,Web Push Notifications (Google's Web fundamentals),https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work/,What is WebRTC and how does it work,https://github.com/diegocard/awesome-html5#readme,HTML5
 http://danielcwilson.com/blog/2015/07/animations-intro/,Intro to web animations,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels,WebRTC data channels from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://docs.telerik.com/kendo-ui/controls/hybrid/introduction,https://docs.telerik.com/kendo-ui/controls/hybrid/introduction,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/,Aria in HTML,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.ampproject.org/learn/overview/,Accelerated Mobile Pages (AMP),https://github.com/diegocard/awesome-html5#readme,HTML5
 http://danielcwilson.com/blog/2016/08/why-waapi/,When to Use the Web Animations API,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developers.google.com/speed/docs/insights/rules,Google developers best practices,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5,Making a Guitar Tuner with HTML5,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.youtube.com/watch?v=DH1vTVkqCDQ,Polymer: declarative, encapsulated, reusable components,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://2017.ind.ie/blog/accessible-video-player/,Accessible and Responsive HTML5 Video Player,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/speed/docs/insights/rules,Google developers best practices,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developers.google.com/web/fundamentals/web-components/shadowdom,Shadow DOM v1: self-contained web components,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.twilio.com/blog/audio-visualisation-web-audio-api--react,Audio visualisation with the Web Audio API and React,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://blog.carbonfive.com/2014/10/16/webrtc-made-simple/,WebRTC made simple,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://developers.google.com/web/fundamentals/performance/why-performance-matters/,Optimizing performance from Google Web Fundamentals,https://github.com/diegocard/awesome-html5#readme,HTML5
 http://www.w3.org/TR/2014/WD-resource-hints-20141021/,Resource hints draft (preconnect and preload),https://github.com/diegocard/awesome-html5#readme,HTML5
-https://www.twilio.com/blog/audio-visualisation-web-audio-api--react,Audio visualisation with the Web Audio API and React,https://github.com/diegocard/awesome-html5#readme,HTML5
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API,Using Geolocation,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.html5rocks.com/es/tutorials/getusermedia/intro/,Capturing Audio & Video in HTML5,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.html5rocks.com/en/tutorials/webrtc/datachannels/,WebRTC data channels tutorial,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels,WebRTC data channels from MDN,https://github.com/diegocard/awesome-html5#readme,HTML5
 https://www.sitepoint.com/using-the-media-capture-api/,Using the media capture API,https://github.com/diegocard/awesome-html5#readme,HTML5
+https://www.youtube.com/watch?v=DH1vTVkqCDQ,Polymer: declarative, encapsulated, reusable components,https://github.com/diegocard/awesome-html5#readme,HTML5

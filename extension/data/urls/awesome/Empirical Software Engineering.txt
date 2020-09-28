@@ -1,46 +1,45 @@
-http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/,GitHub Bug Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://www.icse-conferences.org/,ICSE: International Conference on Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://androidtimemachine.github.io,AndroidTimeMachine,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 https://en.wikipedia.org/wiki/Experimental_software_engineering,experimental, or empirical software engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://travistorrent.testroots.org,TravisTorrent,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://androidtimemachine.github.io,AndroidTimeMachine,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 https://en.wikipedia.org/wiki/Search-based_software_engineering,search-based software engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://wiki.debian.org/UltimateDebianDatabase,Ultimate Debian Database (UDD),https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://www.msrconf.org/,Mining Software Repositories (MSR),https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://www.inf.u-szeged.hu/~ferenc/papers/UnifiedBugDataSet/,Unified Bug Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://publications.computer.org/software-magazine/,IEEE Software magazine,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://www.computer.org/csdl/journal/ts,IEEE Transactions on Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://cloud.google.com/bigquery/public-data/github,GitHub on Google BigQuery,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://sir.unl.edu/portal/index.php,SIR,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/,Eclipse Bug Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://promise.site.uottawa.ca/SERepository/datasets-page.html,PROMISE,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://slebok.github.io/zoo/,Grammar Zoo,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://www.journals.elsevier.com/journal-of-systems-and-software,Journal of Systems and Software,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://boa.cs.iastate.edu/,Boa,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://androzoo.uni.lu/,AndroZoo,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://www.icse-conferences.org/,ICSE: International Conference on Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 http://bug.inf.usi.ch/index.php,Bug Prediction Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://www.kave.cc/datasets,KaVE,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://flossmole.org/collection_details,FLOSSmole,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://grimoirelab.github.io/,GrimoireLab,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://zenodo.org/,Zenodo,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://wiki.debian.org/UltimateDebianDatabase,Ultimate Debian Database (UDD),https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 http://kin-y.github.io/miningReviewRepo/,Code Reviews,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000695,SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://zenodo.org/record/1489120,Maven Dependency Graph,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://link.springer.com/journal/10664,Empirical Software Engineering journal,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://promise.site.uottawa.ca/SERepository/,PROMISE: Predictive Models and Data Analytics in Software Engineering conference,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://reporeapers.github.io,RepoReapers Data Set,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://www.spinellis.gr,Diomidis Spinellis,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://cloud.google.com/bigquery/public-data/github,GitHub on Google BigQuery,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://www.msrconf.org/,Mining Software Repositories (MSR),https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://slebok.github.io/zoo/,Grammar Zoo,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://publications.computer.org/software-magazine/,IEEE Software magazine,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://sir.unl.edu/portal/index.php,SIR,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 http://www.comp.nus.edu.sg/%7Erelease/corebench/,CoREBench,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://dl.acm.org/citation.cfm?id=J790,ACM Transactions on Software Engineering and Methodology (TOSEM),https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://www.kave.cc/datasets,KaVE,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://www.computer.org/csdl/journal/ts,IEEE Transactions on Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://promise.site.uottawa.ca/SERepository/datasets-page.html,PROMISE,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 https://rvantonder.github.io/CryptOSS/,Cryptocurrency GitHub Activity and Market Cap Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://doi.org/10.5281/zenodo.2583978,Software Heritage Graph Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 http://download.eclipse.org/scava/datasets/aeri_stacktraces/aeri_stacktraces.html,Eclipse AERI stacktraces,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://flossmole.org/collection_details,FLOSSmole,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://www.journals.elsevier.com/journal-of-systems-and-software,Journal of Systems and Software,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://zenodo.org/record/1489120,Maven Dependency Graph,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://zenodo.org/,Zenodo,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767,Enron Spreadsheets and Emails,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://dl.acm.org/citation.cfm?id=3341907,paper here,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://stamina.chefbe.net/download,STAMINA,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://maven.apache.org,Maven repository,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://www.esec-fse.org/,ESEC/FSE: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-https://archive.org/details/stackexchange,Stack Exchange,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
-http://ghtorrent.org/,GHTorrent,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://reporeapers.github.io,RepoReapers Data Set,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 http://zenodo.org/communities/seacraft,Software Engineering Artifacts Can Really Assist Future Tasks,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://maven.apache.org,Maven repository,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 https://zenodo.org/communities/empirical-software-engineering/,Empirical Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
 https://zenodo.org/communities/msr/,Mining Software Repositories,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://ghtorrent.org/,GHTorrent,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000695,SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/,GitHub Bug Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://doi.org/10.5281/zenodo.2583978,Software Heritage Graph Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://www.spinellis.gr,Diomidis Spinellis,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://dl.acm.org/citation.cfm?id=3341907,paper here,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://stamina.chefbe.net/download,STAMINA,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://archive.org/details/stackexchange,Stack Exchange,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://travistorrent.testroots.org,TravisTorrent,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/,Eclipse Bug Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://boa.cs.iastate.edu/,Boa,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://www.spinellis.gr/sw/ckjm/,ckjm,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://grimoirelab.github.io/,GrimoireLab,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://link.springer.com/journal/10664,Empirical Software Engineering journal,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+http://promise.site.uottawa.ca/SERepository/,PROMISE: Predictive Models and Data Analytics in Software Engineering conference,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://dl.acm.org/citation.cfm?id=J790,ACM Transactions on Software Engineering and Methodology (TOSEM),https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering
+https://www.esec-fse.org/,ESEC/FSE: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering

@@ -77,7 +77,7 @@ class BlogSpider(scrapy.Spider):
                     urls_file.write(str(link.text) + ',' + str(link.url)+ "\n")
                     awesome_readmes.append(link.url)
                     pages_count += 1
-                    # yield scrapy.Request(link.url, callback=self.parse_readme_contents, cb_kwargs=dict(list_url=link.url, list_name=link.text))
+                    yield scrapy.Request(link.url, callback=self.parse_readme_contents, cb_kwargs=dict(list_url=link.url, list_name=link.text))
             
             print("Done. Number of links:" + str(len(links)))
 

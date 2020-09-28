@@ -1,69 +1,73 @@
-https://developers.facebook.com/docs/plugins,Facebook,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://soundcloud.com/,SoundCloud,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://azure.microsoft.com/en-us/services/functions/,Azure Functions,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://trolley.link/,Trolley,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.formsite.com/,FormSite,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.elformo.com/,elFormo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://commercelayer.io/,Commerce Layer,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.mixcloud.com/,Mixcloud,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.livechatinc.com/,LiveChat,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.moneybutton.com/,MoneyButton,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.spotify.com/,Spotify,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.tawk.to/,tawk.co,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.formstack.com/,FormStack,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://developer.spotify.com/technologies/widgets/spotify-play-button/,Spotify Play Button,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.iron.io/platform/ironworker/,IronWorkers,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://www.sharethis.com/,ShareThis,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://flipmail.co/,Flipmail,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://maps.google.com/,Google Maps,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.websitealive.com/,WebsiteAlive,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://open.iron.io/,IronFunctions,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://www.google.co.nz/forms/about/,Google Forms,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://info.shapeshift.io/tools/shifty-button,ShapeShift Shifty Button,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.zopim.com/,Zopim,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://lab.hakim.se/reveal-js/,Reveal.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.goodreads.com/api,Goodreads API and widgets,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://getsimpleform.com/,Simple Form,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://www.typeform.com/,Typeform,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://mailchimp.com/,MailChimp,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://mux.com/,Mux,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://lunrjs.com/,lunr.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.mixcloud.com/,Mixcloud,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.zopim.com/,Zopim,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://getsimpleform.com/,Simple Form,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://qualaroo.com/,Qualaroo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.99inbound.com,99 Inbound,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.goodreads.com/user/edit,settings page,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.stackpath.com/products/edgeengine/,StackPath EdgeEngine,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://mailchimp.com/,MailChimp,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.spotify.com/,Spotify,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://www.wufoo.com/,Wufoo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://cse.google.com/cse/,Google Custom Search Engine,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://www.google.com/analytics/,Google Analytics,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.youtube.com/,YouTube,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://calendar.google.com/,Google Calendar,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.ecwid.com/,Ecwid,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://www.intensedebate.com/,IntenseDebate Comments,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.99inbound.com,99 Inbound,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://www.constantcontact.com/,Constant Contact,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://vimeo.co/,Vimeo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://getform.io/,Getform,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.stackpath.com/products/edgeengine/,StackPath EdgeEngine,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://info.shapeshift.io/tools/shifty-button,ShapeShift Shifty Button,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.ecwid.com/,Ecwid,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://lunrjs.com/,lunr.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://www.aweber.com/,AWeber,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://www.vevo.com/,Vevo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.google.com/forms/about/,Google Forms,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://booking.timekit.io/,Booking.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://www.foxycart.com/,FoxyCart,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.goodreads.com/api,Goodreads API and widgets,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://www.campaignmonitor.com/,Campaign Monitor,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://www.intensedebate.com/,IntenseDebate Comments,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://fusejs.io/,fuse.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://getform.io/,Getform,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.google.com/forms/about/,Google Forms,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://elasticlunr.com/docs/index.html,elasticlunr,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://maps.google.com/,Google Maps,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://developers.pinterest.com/,Pinterest,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.goodreads.com/user/edit,settings page,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html,Zoho,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://formkeep.com/,FormKeep,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://wistia.com/,Wistia,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://gumroad.com/,Gumroad,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://web.livefyre.com/apps/comments/,LiveFyre,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.formbackend.com,FormBackend,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://developers.facebook.com/docs/plugins,Facebook,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://www.foxycart.com/,FoxyCart,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://calendar.google.com/,Google Calendar,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://embed.redditjs.com/,Redditjs Embed Widget,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://gumroad.com/,Gumroad,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://lab.hakim.se/reveal-js/,Reveal.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://payhip.com/,Payhip,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://developers.pinterest.com/,Pinterest,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.youtube.com/,YouTube,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.npmjs.com/package/js-search,js-search,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.formbackend.com,FormBackend,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://muut.com/,Muut.com,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://jsfiddle.net/,JSFiddle,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://zenplanner.com/,zenplanner,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://pageclip.co,Pageclip,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://www.sharethis.com/,ShareThis,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://trolley.link/,Trolley,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://www.123contactform.com/,123 Contact Form,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.flickr.com/,Flickr,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-https://www.jivochat.com/,jivochat,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
-http://formspree.io/,Formspree,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://reyesr.github.io/fullproof/,fullproof,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://pageclip.co,Pageclip,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://commercelayer.io/,Commerce Layer,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://jets.js.org/,Jets.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://booking.timekit.io/,Booking.js,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 http://www.formassembly.com/,FormAssembly,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://formspree.io/,Formspree,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.formsite.com/,FormSite,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://cse.google.com/cse/,Google Custom Search Engine,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.elformo.com/,elFormo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.moneybutton.com/,MoneyButton,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://www.vevo.com/,Vevo,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.formester.com,Formester,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://zenplanner.com/,zenplanner,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://www.google.com/analytics/,Google Analytics,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.formstack.com/,FormStack,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.jivochat.com/,jivochat,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.flickr.com/,Flickr,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://wistia.com/,Wistia,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://flipmail.co/,Flipmail,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://sheetsu.com/,Sheetsu,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.livechatinc.com/,LiveChat,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://jsfiddle.net/,JSFiddle,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://mailthis.to/,MailThis,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.tawk.to/,tawk.co,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.websitealive.com/,WebsiteAlive,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
 https://webtask.io/,Webtask by Auth0,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+https://www.iron.io/platform/ironworker/,IronWorkers,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services
+http://open.iron.io/,IronFunctions,https://github.com/agarrharr/awesome-static-website-services#readme,Static Website Services

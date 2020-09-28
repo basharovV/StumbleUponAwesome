@@ -1,86 +1,91 @@
 https://en.wikipedia.org/wiki/Quantum_computing,,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantum.country/qcvc,Quantum computing for the very curious,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965,Quantum Computing for Computer Scientists,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://cqcl.github.io/pytket/build/html/index.html,pytket,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.edx.org/course/quantum-machine-learning,Quantum Machine Learning,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://blog.qutech.nl/,Bits of Quantum,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://tph.tuwien.ac.at/~oemer/qcl.html,QCL,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://davidbkemp.github.io/QuantumComputingArticle/,An Interactive Introduction to Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.reddit.com/r/QuantumComputing/,Quantum Computing Subreddit,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://dkopczyk.quantee.co.uk/category/quantum_computing/,Dawid Kopczyk,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.cs.cmu.edu/~odonnell/quantum18/,Professor O'Donnell at CMU,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.facebook.com/groups/qinfo.scientists.unite/,Quantum Information and Quantum Computer Scientists of the World Unite,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX,Quantum Impact,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://cnot.io/,CNOT,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://qiskit.org,Qiskit SDK,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x,Quantum Mechanics and Quantum Computation,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2,Quantum Computing Seminar Series,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://medium.com/@decodoku,Decodoku,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.manning.com/books/quantum-computing-for-java-developers,Quantum Computing for Java Developers,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://arxiv.org/pdf/1804.10068.pdf,Quantum Machine Learning for Data Scientists,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://qsharp.community,Q# Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://support.dwavesys.com/hc/en-us/community/topics,D-Wave Leap Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://pyquil.readthedocs.io/en/latest/,Documentation for Forest and pyQuil,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.coursera.org/learn/quantum-computing-algorithms,The Introduction To Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://algassert.com/quirk,Quirk,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://mustythoughts.com,Musty Thoughts,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://vm6502q.readthedocs.io,Qrack,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://strawberryfields.readthedocs.io/en/latest/,Documentation for Strawberry Fields,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://community.qiskit.org/,IBM Q Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ,Anastasia Marchenkova,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA,Rigetti Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x,The Quantum Internet and Quantum Computers: How Will They Change the World?,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://medium.com/qiskit,Qiskit blog,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.quantum-quest.nl/,The Quantum Quest,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y,Classical and Quantum Computation,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.dwavesys.com/take-leap,D-Wave Leap,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantum-circuit.com/,Quantum Programming Studio,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.robertsutor.com/dancing-with-qubits/,Dancing with Qubits,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://brilliant.org/courses/quantum-computing/,Brilliant.org Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.futurelearn.com/courses/intro-to-quantum-computing,Understanding Quantum Computers,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.mathstat.dal.ca/~selinger/quipper/,Quipper,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantumfrontiers.com/,Quantum Frontiers,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://qiskit.slack.com/,IBM Q Qiskit Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://qutip.org/docs/latest/index.html,QuTiP,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://aws.amazon.com/braket/,Amazon Braket,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction,IBM Q Full User Guide,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/,MIT Quantum Information Sciences,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantum-computing.ibm.com,IBM Quantum Experience,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantumweekly.com/,Quantum Weekly,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview,Q#,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.youtube.com/watch?v=Omv-bPvQ3E8&list=PLOFEBzvs-VvrRlVz7wqaqmaMZj_ZK2Afe,Circuit Sessions,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://u.strawberryfields.ai/slack,Strawberry Fields Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://workedproblems.wordpress.com/category/nielsenchuang/,Nielsen and Chuang,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.reddit.com/r/MikeAndIke/,Mike & Ike Subreddit,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY,Coding with Qiskit video series,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://docs.ocean.dwavesys.com/en/latest/overview/install.html,Ocean,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://soundcloud.com/mequanics,Meet the meQuanics,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://community.qiskit.org/textbook,Learn Quantum Computation using Qiskit,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/,QC101 Quantum Computing & Quantum Physics for Beginners,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest,Introduction to Quantum Programming,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantumzeitgeist.com/,Quantum Zeitgeist,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://anchor.fm/quantumcomputingnow,Quantum Computing Now,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://quantumcomputing.com/,Strangeworks Platform,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp,Learn Quantum Computing with Python and Q#,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 https://www.youtube.com/watch?v=F_Riqjdh2oM,Quantum Computing for Computer Scientists,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.udemy.com/course/quantum-computing/,Quantum Computing: Theory to Simulation and Programming,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://anchor.fm/quantumcomputingnow,Quantum Computing Now,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://cqcl.github.io/pytket/build/html/index.html,pytket,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 https://www.youtube.com/playlist?list=PL1826E60FD05B44E4,Quantum Computing for the Determined,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.zapatacomputing.com/orquestra/,Orquestra,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://devblogs.microsoft.com/qsharp/,Q# Blog,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://davidbkemp.github.io/QuantumComputingArticle/,An Interactive Introduction to Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.edx.org/course/quantum-machine-learning,Quantum Machine Learning,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://tph.tuwien.ac.at/~oemer/qcl.html,QCL,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 http://algassert.com/,Algorithmic Assertions,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://math.nist.gov/quantum/zoo/,Quantum Algorithm Zoo,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://michaelnielsen.org/,Michael Nielsen,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-http://projectq.ch/,Project Q,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0,Quantum Cryptography,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz,Quantum Computation and Information at CMU,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI,Quantum Computer Programming,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://discuss.pennylane.ai/,Pennylane Discussion Forum,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.worldscientific.com/worldscibooks/10.1142/6077,Problems and Solutions in Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.edx.org/course/quantum-information-science-i,Quantum Information Science I, Part I,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683,Programming Quantum Computers: Essential Algorithms and Code Samples,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf,Quantum Computation and Quantum Information,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
-https://www.scottaaronson.com/blog/,Shtetl-Optimized,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://cnot.io/,CNOT,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://michaelnielsen.org/,Michael Nielsen,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.springer.com/gp/book/9783030239213,Quantum Computing: An Applied Approach,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantum.country/qcvc,Quantum computing for the very curious,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://blog.qutech.nl/,Bits of Quantum,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x,Quantum Mechanics and Quantum Computation,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz,Quantum Computation and Information at CMU,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf,Quantum Computing: A Gentle Introduction,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993,Quantum Computing Explained,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.cs.cmu.edu/~odonnell/quantum18/,Professor O'Donnell at CMU,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://dkopczyk.quantee.co.uk/category/quantum_computing/,Dawid Kopczyk,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantumzeitgeist.com/,Quantum Zeitgeist,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://qiskit.org,Qiskit SDK,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX,Quantum Impact,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965,Quantum Computing for Computer Scientists,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.coursera.org/learn/quantum-computing-algorithms,The Introduction To Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://arxiv.org/pdf/1804.10068.pdf,Quantum Machine Learning for Data Scientists,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://medium.com/@decodoku,Decodoku,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2,Quantum Computing Seminar Series,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.reddit.com/r/MikeAndIke/,Mike & Ike Subreddit,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x,The Quantum Internet and Quantum Computers: How Will They Change the World?,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://cloudblogs.microsoft.com/quantum/,Microsoft Quantum blog,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://algassert.com/quirk,Quirk,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://vm6502q.readthedocs.io,Qrack,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://devblogs.microsoft.com/qsharp/,Q# Blog,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://support.dwavesys.com/hc/en-us/community/topics,D-Wave Leap Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://discuss.pennylane.ai/,Pennylane Discussion Forum,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.futurelearn.com/courses/intro-to-quantum-computing,Understanding Quantum Computers,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.manning.com/books/quantum-computing-for-java-developers,Quantum Computing for Java Developers,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://pyquil.readthedocs.io/en/latest/,Documentation for Forest and pyQuil,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.quantum-quest.nl/,The Quantum Quest,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://aws.amazon.com/braket/,Amazon Braket,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantum-circuit.com/,Quantum Programming Studio,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ,Anastasia Marchenkova,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://strawberryfields.readthedocs.io/en/latest/,Documentation for Strawberry Fields,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://brilliant.org/courses/quantum-computing/,Brilliant.org Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.youtube.com/watch?v=Omv-bPvQ3E8&list=PLOFEBzvs-VvrRlVz7wqaqmaMZj_ZK2Afe,Circuit Sessions,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.dwavesys.com/take-leap,D-Wave Leap,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.scottaaronson.com/blog/,Shtetl-Optimized,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/,MIT Quantum Information Sciences,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantum-computing.ibm.com,IBM Quantum Experience,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://mustythoughts.com,Musty Thoughts,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 https://quantum-computing.herokuapp.com/,Quantum Computing Slack Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY,Coding with Qiskit video series,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://community.qiskit.org/,IBM Q Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.mathstat.dal.ca/~selinger/quipper/,Quipper,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://qutip.org/docs/latest/index.html,QuTiP,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://medium.com/qiskit,Qiskit blog,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://qiskit.slack.com/,IBM Q Qiskit Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest,Introduction to Quantum Programming,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
 http://quantumcomputing.stackexchange.com/,Quantum Computing StackExchange,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview,Q#,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantumnews.io/,Quantumfy,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction,IBM Q Full User Guide,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/,QC101 Quantum Computing & Quantum Physics for Beginners,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://docs.ocean.dwavesys.com/en/latest/overview/install.html,Ocean,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantumcomputing.com/,Strangeworks Platform,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://workedproblems.wordpress.com/category/nielsenchuang/,Nielsen and Chuang,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantumfrontiers.com/,Quantum Frontiers,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://thequantumdaily.com/,The Quantum Daily,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.zapatacomputing.com/orquestra/,Orquestra,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.udemy.com/course/quantum-computing/,Quantum Computing: Theory to Simulation and Programming,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.tensorflow.org/quantum,TensorFlow Quantum,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://projectq.ch/,Project Q,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.reddit.com/r/QuantumComputing/,Quantum Computing Subreddit,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y,Classical and Quantum Computation,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://math.nist.gov/quantum/zoo/,Quantum Algorithm Zoo,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0,Quantum Cryptography,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.facebook.com/groups/qinfo.scientists.unite/,Quantum Information and Quantum Computer Scientists of the World Unite,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://quantumweekly.com/,Quantum Weekly,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.robertsutor.com/dancing-with-qubits/,Dancing with Qubits,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI,Quantum Computer Programming,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://qsharp.community,Q# Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.edx.org/course/quantum-information-science-i,Quantum Information Science I, Part I,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA,Rigetti Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+http://community.qiskit.org/textbook,Learn Quantum Computation using Qiskit,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp,Learn Quantum Computing with Python and Q#,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://u.strawberryfields.ai/slack,Strawberry Fields Community,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://soundcloud.com/mequanics,Meet the meQuanics,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.worldscientific.com/worldscibooks/10.1142/6077,Problems and Solutions in Quantum Computing,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing
+https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683,Programming Quantum Computers: Essential Algorithms and Code Samples,https://github.com/desireevl/awesome-quantum-computing#readme,Quantum Computing

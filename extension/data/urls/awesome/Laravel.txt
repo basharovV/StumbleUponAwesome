@@ -1,173 +1,191 @@
-https://www.youtube.com/channel/UCRawXmZv30Vf_MivyPYb_GQ/videos,Laracon US 2014,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://adamwathan.me/refactoring-to-collections/,Refactoring to Collections,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://summerblue.github.io/laravel5-cheatsheet/,Laravel LTS Cheat Sheet,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://laravel.com,Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://summerblue.github.io/laravel5-cheatsheet/,Laravel LTS Cheat Sheet,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/group.laravel/,Laravel Global Community,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://larachat.slack.com/,Larachat Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.lynda.com/search?q=laravel,Lynda,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravel.jp/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/channel/UCRawXmZv30Vf_MivyPYb_GQ/videos,Laracon US 2014,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravelslovenija/,Laravel Slovenia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://www.laravel.gen.tr/,Laravel Turkey,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.fr/,Laravel France,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 http://code.tutsplus.com/categories/laravel/courses,Tuts+,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://vapor.laravel.com,Vapor,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravel.jp/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravelslovenija/,Laravel Slovenia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/group.laravel/,Laravel Global Community,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.com/docs,Documentation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://adamwathan.me/refactoring-to-collections/,Refactoring to Collections,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.youtube.com/playlist?list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe,Laracon EU 2013,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/building-web-applications-using-parse-rest-api,Building Web Applications Using Parse REST API,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.fr/,Laravel France,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://spatie.be/en/opensource/laravel,Spatie,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.hu,Laravel Hungary,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.facebook.com/groups/laravel.my/,Laravel Malaysia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.lynda.com/search?q=laravel,Lynda,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laraveles.slack.com,LaravelES Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://book.serversforhackers.com,Servers for Hackers,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravelturkiye/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/LaravelBanglaDesh/,Laravel Bangladesh,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.com/api/master/,Laravel API Reference,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.hu,Laravel Hungary,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravellive.in/,Laravel Live India,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://forge.laravel.com/,Forge,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN,Laracon US 2013,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.pluralsight.com/search?q=laravel&categories=course,Pluralsight,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://code.tutsplus.com/categories/laravel,Tuts+,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/Copenhagen-Laravel-Meetup/,Copenhagen Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://book.serversforhackers.com,Servers for Hackers,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/LaravelBanglaDesh/,Laravel Bangladesh,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/implementinglaravel,Implementing Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://serversforhackers.com/laravel-perf,Servers for Hackers,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://www.laravel.gen.tr/,Laravel Turkey,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl,Laravel TestTools,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laraveles.slack.com,LaravelES Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://larachat.co/register,Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://medium.com/tag/laravel/latest,Medium,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://dor.ky/tag/laravel/,Dor.ky,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.com/docs,Documentation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://socialiteproviders.github.io/,Socialite Providers 2.0,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.amazon.com/Laravel-Starter-Shawn-McCool-ebook/dp/B00ABFQ0AS,Laravel Starter,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/bitfumes,Bitfumes,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravelturkiye/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel-first-framework,Laravel - My First Framework,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/Laravel-Detroit/,Detroit Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582,Full-Stack Vue.js 2 and Laravel 5,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://id-laravel.com/,Laravel Indonesia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.facebook.com/groups/LaravelAlgeria/,Laravel Algeria,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://course.testdrivenlaravel.com/,Test-Driven Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.com/api/master/,Laravel API Reference,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://www.laravelnigeria.com/,Laravel Nigeria,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://confidentlaravel.com/,ConfidentLaravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laraveldaily.com/,Laravel Daily,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/codehappy,Laravel: Code Happy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://stillat.com/explore/categories/laravel-5,Stillat,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://buildanapi.com,Build an API with Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravelnigeria/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravel/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/user/silencedsg/videos,Duilio Palacios,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://hashids.org/php/,Hashids,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://scotch.io/tag/laravel,Scotch,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravelcm.slack.com,Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://gitter.im/laravel/laravel,Gitter,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravelliveindia.slack.com/join/shared_invite/enQtNjQyMDE4NDA3MDQzLWMyZmIxNGZkNGVkNGFmMzE1MTgyOGNiZGY1ZmU1ZDQ3Mzk2ODBlZGJlODk3ZmI0OWNlZmI5MzQyZDJhYzg1NjE,Slack Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/easylaravel/,Easy Laravel 5,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://serversforhackers.com/laravel-perf,Servers for Hackers,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl,Laravel TestTools,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://larachat.co/register,Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.pluralsight.com/search?q=laravel&categories=course,Pluralsight,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582,Full-Stack Vue.js 2 and Laravel 5,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/building-web-applications-using-parse-rest-api,Building Web Applications Using Parse REST API,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://dor.ky/tag/laravel/,Dor.ky,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/Copenhagen-Laravel-Meetup/,Copenhagen Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://lumen.laravel.com,Lumen,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel-and-angularjs,Laravel and AngularJS,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravelnigeria.com,Laravel Nigeria,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://forgerecipes.com/,ForgeRecipes,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://spark.laravel.com/,Spark,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://nova.laravel.com/,Laravel Nova,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/gettingstuffdonelaravel,Getting Stuff Done with Laravel 4,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://socialiteproviders.github.io/,Socialite Providers 2.0,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel5learneasy,Laravel 5 Learn Easy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.amazon.com/Laravel-Starter-Shawn-McCool-ebook/dp/B00ABFQ0AS,Laravel Starter,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://www.laravelnigeria.com/,Laravel Nigeria,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://course.testdrivenlaravel.com/,Test-Driven Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://code.tutsplus.com/categories/laravel,Tuts+,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/bitfumes,Bitfumes,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelcm.slack.com,Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 http://www.laravel.gr,Laravel Greece,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.digitalocean.com/community/search?q=laravel&primary_filter=newest&type=tutorials,Digital Ocean,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://codigofacilito.com/courses/laravel,CodigoFacilito,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/codebright,Laravel: Code Bright,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/,Paris Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.com/docs/master/homestead,Homestead,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelnigeria.com,Laravel Nigeria,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://id-laravel.com/,Laravel Indonesia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://forgerecipes.com/,ForgeRecipes,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://gitter.im/laravel/laravel,Gitter,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravelnigeria/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://lumen.laravel.com/docs,Documentation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/implementinglaravel,Implementing Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://medium.com/tag/laravel/latest,Medium,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/user/silencedsg/videos,Duilio Palacios,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravel/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/Laravel-Detroit/,Detroit Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.youtube.com/playlist?list=PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS,Laracon EU 2018,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://t.me/laravelindonesia,Telegram,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://statamic.com/,Statamic,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/laravelgr,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/laravelcm,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.com/docs/master/valet,Valet,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.fortrabbit.com/laravel-hosting,FortRabbit,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://www.laravel.com.br/,Laravel Brasil,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc,Laracon US 2018,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/laravellive/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravelph,Laravel Philippines,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laravelme.com/,Laravel Middle East,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravelbrasil/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/Melbourne-laravel-Meetup/,Melbourne Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laragon.org/,Laragon,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/codesmart,Laravel: Code Smart,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://devcenter.heroku.com/articles/getting-started-with-laravel,Documentation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laracon.us/,Laracon US,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2,Laracon EU 2017,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos,Amitav Roy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://vessel.shippingdocker.com,Vessel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://www.laravelpodcast.com/,The Laravel Podcast,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://hashids.org/php/,Hashids,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://buildanapi.com,Build an API with Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel-and-angularjs,Laravel and AngularJS,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://laracasts.com,Laracasts,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg,Youtube,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.tw/,Laravel Taiwan,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/Laravel-Hungary-Meetup/,Budapest Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PL-yJve--iT5oaLQA6OI8TWLVSOBP1qhs3,Laracon US 2017,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laracon.eu/,Laracon EU,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/laravelme,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel,Laravel: From Apprentice To Artisan,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laracasts.simplecast.fm/,The Laracasts Snippet,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://stackoverflow.com/questions/tagged/laravel,StackOverflow,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN,Laracon EU 2016,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laracademy.co/,Laracademy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://docs.lando.dev/config/laravel.html,Lando,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://confidentlaravel.com/,ConfidentLaravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.fortrabbit.com/laravel-hosting,FortRabbit,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelliveindia.slack.com/join/shared_invite/enQtNjQyMDE4NDA3MDQzLWMyZmIxNGZkNGVkNGFmMzE1MTgyOGNiZGY1ZmU1ZDQ3Mzk2ODBlZGJlODk3ZmI0OWNlZmI5MzQyZDJhYzg1NjE,Slack Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc,Laracon US 2018,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://t.me/laravelindonesia,Telegram,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel-first-framework,Laravel - My First Framework,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://nova.laravel.com/,Laravel Nova,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/laravelgr,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://spark.laravel.com/,Spark,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/laravelcm,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laraveldaily.com/,Laravel Daily,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://codigofacilito.com/courses/laravel,CodigoFacilito,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2,Laracon EU 2017,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://stillat.com/explore/categories/laravel-5,Stillat,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.com/docs/master/homestead,Homestead,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/gettingstuffdonelaravel,Getting Stuff Done with Laravel 4,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laravelme.com/,Laravel Middle East,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://devcenter.heroku.com/articles/getting-started-with-laravel,Documentation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://laravel-news.com/archive/,Archive,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://www.laravel.com.br/,Laravel Brasil,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/codehappy,Laravel: Code Happy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/,Paris Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravelcollectionsunraveled,Laravel Collections Unraveled,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://statamic.com/,Statamic,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.com/docs/master/valet,Valet,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravelph,Laravel Philippines,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PL-yJve--iT5oaLQA6OI8TWLVSOBP1qhs3,Laracon US 2017,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://scotch.io/tag/laravel,Scotch,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/laravelme,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravelbrasil/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/laravellive/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://packagist.org/,Packagist,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.facebook.com/groups/laravel.georgia/,Laravel Georgia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html,Tutorial,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravelphp.uk/,Laravel UK,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laracon.net/,Laracon Online,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists,Dev Marketer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laravel-italia.it,Laravel Italy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.cloudways.com/en/laravel-hosting.php,Cloudways,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://plus.google.com/communities/106838454910116161868,Google+,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.udemy.com/courses/search/?q=laravel,Udemy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/London-Laravel/,London Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://styde.net/category/laravel-5/,Styde,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://packagist.org/,Packagist,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laraveles.com/foro/,Laravel Spanish,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laraconfbrasil.com.br/,Laraconf Brasil,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.reddit.com/r/laravel,Reddit,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.digitalocean.com/community/search?q=laravel&primary_filter=newest&type=tutorials,Digital Ocean,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg,Youtube,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/Melbourne-laravel-Meetup/,Melbourne Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laragon.org/,Laragon,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://www.meetup.com/topics/laravel/,All Meetups,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/codebright,Laravel: Code Bright,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://laravelcollective.com/,Laravel Collective,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/vietnam.laravel/,Laravel Vietnam,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravelphp.uk/login/slack,Slack Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://telegram.me/laravelbr,Telegram,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PL-yJve--iT5o9fH_cRY0u6P751pcF59GK,Laracon US 2016,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/laravel-application-development-blueprints,Laravel Application Development Blueprints,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN,Laracon EU 2016,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://devdojo.com/search?value=laravel,DevDojo,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laravel-italia.it,Laravel Italy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://www.laravelpodcast.com/,The Laravel Podcast,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laracon.us/,Laracon US,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://stackoverflow.com/questions/tagged/laravel,StackOverflow,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/easylaravel/,Easy Laravel 5,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://leanpub.com/laravelsurvivalguide,The Laravel Survival Guide,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel4cookbook,Laravel 4 Cookbook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laracon.com.au/,Laracon Australia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ,Laracon EU 2015,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://ploi.io/,Ploi,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://packalyst.com/,Packalyst,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/playlist?list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN,Laracon EU 2014,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.quora.com/topic/Laravel,Quora,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravel.ru/,Laravel Russia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravelshift.com/,Laravel Shift,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://hechoenlaravel.com,Hecho en Laravel (Spanish),https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.laravel.co.kr/,Laravel Korea,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://codepier.io?ref=awesome-laravel,CodePier,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://discord.gg/9dpuWeZ,Discord,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel-5-for-beginners-laraboot,Laraboot: Laravel 5 For Beginners,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laracasts.com/discuss,Laracasts Forum,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/groups/laravelkorea/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://laravellive.uk/,Laravel Live UK,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.facebook.com/LaravelCommunity,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://cloudways.com/blog/laravel,Cloudways Laravel Blog,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laravelsd.com/,Laravel Schema Designer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laravel.jp/,Laravel Japan,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://envoyer.io/,Envoyer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.meetup.com/athens-laravel-meetup/,Athens-Greece Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel-testing-decoded,Laravel Testing Decoded,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://styleci.io,StyleCI,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://laravel.io/forum,Laravel.io Forum,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://pusher.com/tutorials?tag=Laravel,Pusher Laravel Tutorials,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://codecanyon.net/tags/laravel?term=laravel,CodeCanyon,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.linkedin.com/groups/4419933/profile,LinkedIn,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://larashout.com/,LaraShout,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-http://m.vk.com/laravel_rus,VK group,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.codecourse.com/,Codecourse,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.amazon.com/gp/product/1491936088,Laravel Up & Running,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.youtube.com/user/phpacademy/playlists,YouTube,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://www.neontsunami.com/tags/laravel,Neon Tsunami,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravelcompanion-secondedition,Laravel Companion,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/laravel-aws,Deploy Laravel on AWS with CloudFormation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PL-yJve--iT5o9fH_cRY0u6P751pcF59GK,Laracon US 2016,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://vessel.shippingdocker.com,Vessel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos,Amitav Roy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/vietnam.laravel/,Laravel Vietnam,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelphp.uk/,Laravel UK,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.cloudways.com/en/laravel-hosting.php,Cloudways,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://slack.laravel.com.br,Slack,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/codesmart,Laravel: Code Smart,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laracon.eu/,Laracon EU,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://leanpub.com/build-apis-you-wont-hate,Build APIs You Won't Hate,https://github.com/chiraggude/awesome-laravel#readme,Laravel
-https://leanpub.com/frontend,Integrating Front end Components with Web Applications,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laracasts.simplecast.fm/,The Laracasts Snippet,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laracademy.co/,Laracademy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://plus.google.com/communities/106838454910116161868,Google+,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://docs.lando.dev/config/laravel.html,Lando,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ,Laracon EU 2015,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/London-Laravel/,London Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laracon.net/,Laracon Online,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://telegram.me/laravelbr,Telegram,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://ploi.io/,Ploi,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/Laravel-Hungary-Meetup/,Budapest Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/playlist?list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN,Laracon EU 2014,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelphp.uk/login/slack,Slack Signup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists,Dev Marketer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel-5-for-beginners-laraboot,Laraboot: Laravel 5 For Beginners,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.udemy.com/courses/search/?q=laravel,Udemy,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://phphub.org/,Laravel China,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://mattstauffer.co/blog,Matt Stauffer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://discord.gg/9dpuWeZ,Discord,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laraconfbrasil.com.br/,Laraconf Brasil,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://codepier.io?ref=awesome-laravel,CodePier,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/laravel-5-essentials,Laravel 5 Essentials,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.ru/,Laravel Russia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelgurus.com/,Laravel Gurus,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.reddit.com/r/laravel,Reddit,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://envoyer.io/,Envoyer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.quora.com/topic/Laravel,Quora,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://hechoenlaravel.com,Hecho en Laravel (Spanish),https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://vegibit.com/tag/laravel/,Vegi Bit,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://m.vk.com/laravel_rus,VK group,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravelshift.com/,Laravel Shift,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://leanpub.com/easyecommerce,Easy E-Commerce Using Laravel and Stripe,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravel.tw/,Laravel Taiwan,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laracon.com.au/,Laracon Australia,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laracasts.com/discuss,Laracasts Forum,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel-5-4-for-beginners,Laravel 5.4 For Beginners,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laraveles.com/foro/,Laravel Spanish,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/LaravelCommunity,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.meetup.com/athens-laravel-meetup/,Athens-Greece Meetup,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.amazon.com/gp/product/1491936088,Laravel Up & Running,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel,Laravel: From Apprentice To Artisan,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://laravellive.uk/,Laravel Live UK,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/frontend,Integrating Front end Components with Web Applications,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laravelsd.com/,Laravel Schema Designer,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://styleci.io,StyleCI,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.linkedin.com/groups/4419933/profile,LinkedIn,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laravel.io/forum,Laravel.io Forum,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.facebook.com/groups/laravelkorea/,Facebook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://codecanyon.net/tags/laravel?term=laravel,CodeCanyon,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laraveles.com/blog/,Laraveles,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices,Laravel Design Patterns and Best Practices,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://leanpub.com/l5-beauty,Laravel 5.1 Beauty,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://styde.net/category/laravel-5/,Styde,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel4cookbook,Laravel 4 Cookbook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravelcompanion-secondedition,Laravel Companion,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.neontsunami.com/tags/laravel,Neon Tsunami,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://laravel.jp/,Laravel Japan,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/learning-laravel-4-application-development,Learning Laravel 4 Application Development,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel-testing-decoded,Laravel Testing Decoded,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+http://cloudways.com/blog/laravel,Cloudways Laravel Blog,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://leanpub.com/larasign,Design Patterns with PHP and Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://pusher.com/tutorials?tag=Laravel,Pusher Laravel Tutorials,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/laravel-aws,Deploy Laravel on AWS with CloudFormation,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/getting-started-laravel-4,Getting Started with Laravel 4,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://larashout.com/,LaraShout,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.codecourse.com/,Codecourse,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.youtube.com/user/phpacademy/playlists,YouTube,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/mastering-laravel,Mastering Laravel,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 http://pusher-community.github.io/real-time-laravel/,How to Build Real-Time Laravel Apps with Pusher,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://www.packtpub.com/web-development/laravel-application-development-cookbook,Laravel Application Development Cookbook,https://github.com/chiraggude/awesome-laravel#readme,Laravel
 https://www.amazon.com/Learning-Laravels-Eloquent-Francesco-Malatesta-ebook/dp/B00YSILQ6C,Learning Laravel's Eloquent,https://github.com/chiraggude/awesome-laravel#readme,Laravel
+https://leanpub.com/rn_laravel,React Native and Laravel for Future Mobile Development,https://github.com/chiraggude/awesome-laravel#readme,Laravel

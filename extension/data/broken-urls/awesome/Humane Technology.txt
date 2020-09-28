@@ -1,7 +1,5 @@
-https://zotlabs.com/osada/,Osada,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.dknapps.de/mindbell/,MindBell,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://wikitruth.co/,WikiTruth,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/,Firefox Lightbeam,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://voten.co/,Voten,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: <HTTPError 521: 'Origin Down'> | reason: Origin Down
 https://www.datafordemocracy.org/pledge,Ethics Pledge,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://exodify.org/,Exodify,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/,Firefox Lightbeam,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.dknapps.de/mindbell/,MindBell,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://exodify.org/,Exodify,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: timeout('The read operation timed out') | reason: 
+https://notabug.org/diogo/gnu-social,,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology error: timeout('The read operation timed out') | reason: 

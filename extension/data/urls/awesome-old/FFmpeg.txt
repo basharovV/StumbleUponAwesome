@@ -1,0 +1,10 @@
+http://ffmpeg.org,FFmpeg,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://ffmpeg.org/ffmpeg-filters.html,Filters,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://man.cx/ffmpeg,Man page,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://trac.ffmpeg.org,Wiki & Bug Tracker,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+http://www.ffmpeg.org,FFmpeg,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://gl-transitions.com/,gl-transitions,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+http://dranger.com/ffmpeg,How to Write a Video Player in Less Than 1k Lines,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl,Applying OpenGL Shaders with FFmpeg,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv,follow-up,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg
+https://superuser.com/questions/tagged/ffmpeg,Stack Overflow,https://github.com/transitive-bullshit/awesome-ffmpeg#readme,FFmpeg

@@ -1,10 +1,11 @@
 https://rundexter.com/app/spreadsheet-bot,Dexter,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.getbotmetrics.com/,Botmetrics,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://developer.ibm.com/code/exchanges/bots/,IBM Bot Asset Exchange,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ls.terminal.ink/,Terminal Bot List,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.getbotmetrics.com/,Botmetrics,https://github.com/hackerkid/bots#readme,Bots error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1076)
+https://botlist.co/,BotList,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
 https://dev.havenondemand.com/apis,Haven OnDemand,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://bottesting.co/,BotTesting,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/,Discord,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://chatbotconf.com/,ChatbotConf,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://chatmetrics.io/,ChatMetrics,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://dialoganalytics.com/,Dialog,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://discordbots.org/,Discord Bot List,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/,Discord,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://chatbotconf.com/,ChatbotConf,https://github.com/hackerkid/bots#readme,Bots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://slackhq.com/a-beginners-guide-to-your-first-bot,A Beginner’s Guide To Your First Bot.,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developer.ciscospark.com/getting-started.html,Cisco Spark,https://github.com/hackerkid/bots#readme,Bots error: <HTTPError 404: 'Not Found'> | reason: Not Found

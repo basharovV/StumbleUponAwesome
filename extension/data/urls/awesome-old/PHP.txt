@@ -1,0 +1,155 @@
+https://packagist.com/,Private Packagist,https://github.com/ziadoz/awesome-php#readme,PHP
+https://melody.sensiolabs.org/,Melody,https://github.com/ziadoz/awesome-php#readme,PHP
+https://toranproxy.com,Toran Proxy,https://github.com/ziadoz/awesome-php#readme,PHP
+https://cakephp.org/,CakePHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://getlaminas.org/,Laminas,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nette.org,Nette,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phalcon.io/en-us,Phalcon,https://github.com/ziadoz/awesome-php#readme,PHP
+https://spiral.dev/,Spiral,https://github.com/ziadoz/awesome-php#readme,PHP
+https://rad.knplabs.com/,Knp RAD Components,https://github.com/ziadoz/awesome-php#readme,PHP
+https://backdropcms.org,Backdrop,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.concrete5.org/,Concrete5,https://github.com/ziadoz/awesome-php#readme,PHP
+https://getkirby.com/,Kirby,https://github.com/ziadoz/awesome-php#readme,PHP
+http://auraphp.com/,Aura,https://github.com/ziadoz/awesome-php#readme,PHP
+https://plugins.cakephp.org/,CakePHP Plugins,https://github.com/ziadoz/awesome-php#readme,PHP
+https://hoa-project.net/En/,Hoa Project,https://github.com/ziadoz/awesome-php#readme,PHP
+https://thephpleague.com/,League of Extraordinary Packages,https://github.com/ziadoz/awesome-php#readme,PHP
+https://spatie.be/open-source,Spatie Open Source,https://github.com/ziadoz/awesome-php#readme,PHP
+https://symfony.com/doc/master/components/index.html,Symfony Components,https://github.com/ziadoz/awesome-php#readme,PHP
+https://docs.laminas.dev/components/,Laminas Components,https://github.com/ziadoz/awesome-php#readme,PHP
+https://laravel-zero.com,Laravel-Zero,https://github.com/ziadoz/awesome-php#readme,PHP
+https://getexpressive.org/,Mezzio,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.slimframework.com/,Slim,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phptal.org/,PHPTAL,https://github.com/ziadoz/awesome-php#readme,PHP
+https://en.wikipedia.org/wiki/Template_Attribute_Language,TAL,https://github.com/ziadoz/awesome-php#readme,PHP
+http://platesphp.com/,Plates,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.smarty.net/,Smarty,https://github.com/ziadoz/awesome-php#readme,PHP
+http://couscous.io,Couscous,https://github.com/ziadoz/awesome-php#readme,PHP
+https://sculpin.io,Sculpin,https://github.com/ziadoz/awesome-php#readme,PHP
+http://spress.yosymfony.com,Spress,https://github.com/ziadoz/awesome-php#readme,PHP
+http://httplug.io,HTTPlug,https://github.com/ziadoz/awesome-php#readme,PHP
+https://php-vcr.github.io/,PHP VCR,https://github.com/ziadoz/awesome-php#readme,PHP
+https://mailchimp.com/features/transactional-email/,Mandrill,https://github.com/ziadoz/awesome-php#readme,PHP
+https://swiftmailer.symfony.com,SwiftMailer,https://github.com/ziadoz/awesome-php#readme,PHP
+https://amphp.org/byte-stream/,ByteStream,https://github.com/ziadoz/awesome-php#readme,PHP
+http://php-di.org/,PHP-DI,https://github.com/ziadoz/awesome-php#readme,PHP
+https://pimple.symfony.com/,Pimple,https://github.com/ziadoz/awesome-php#readme,PHP
+https://imagine.readthedocs.io/en/latest/index.html,Imagine,https://github.com/ziadoz/awesome-php#readme,PHP
+https://docs.behat.org/en/latest/,Behat,https://github.com/ziadoz/awesome-php#readme,PHP
+http://mink.behat.org/en/latest/,Mink,https://github.com/ziadoz/awesome-php#readme,PHP
+https://qa.php.net/write-test.php,PHPT,https://github.com/ziadoz/awesome-php#readme,PHP
+https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/,GitlabCi,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.jenkins.io/,Jenkins,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.jenkins.io/solutions/php/,PHP support,https://github.com/ziadoz/awesome-php#readme,PHP
+http://phpdox.de/,phpDox,https://github.com/ziadoz/awesome-php#readme,PHP
+http://phpseclib.sourceforge.net/,PHPSecLib,https://github.com/ziadoz/awesome-php#readme,PHP
+https://security.symfony.com/,Symfony Security Monitoring,https://github.com/ziadoz/awesome-php#readme,PHP
+https://vaddy.net/,VAddy,https://github.com/ziadoz/awesome-php#readme,PHP
+https://owasp.org/www-project-zap/,Zap,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.openwall.com/phpass/,phpass,https://github.com/ziadoz/awesome-php#readme,PHP
+https://yohan.giarel.li/Finite/,Finite,https://github.com/ziadoz/awesome-php#readme,PHP
+http://patchwork2.org/,Patchwork,https://github.com/ziadoz/awesome-php#readme,PHP
+https://pecl.php.net/package/APM,APM,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blackfire.io,Blackfire.io,https://github.com/ziadoz/awesome-php#readme,PHP
+http://phpdebugbar.com/,PHP Debug Bar,https://github.com/ziadoz/awesome-php#readme,PHP
+https://tideways.com/,Tideways.io,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.zend.com/products/z-ray,Z-Ray,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.phing.info/,Phing,https://github.com/ziadoz/awesome-php#readme,PHP
+https://bldr.io/,Bldr,https://github.com/ziadoz/awesome-php#readme,PHP
+https://taskphp.github.io/,Task,https://github.com/ziadoz/awesome-php#readme,PHP
+https://geocoder-php.org/,GeoCoder,https://github.com/ziadoz/awesome-php#readme,PHP
+https://yohan.giarel.li/CalendR/,CalendR,https://github.com/ziadoz/awesome-php#readme,PHP
+https://sylius.com/,Sylius,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.doctrine-project.org/,Doctrine,https://github.com/ziadoz/awesome-php#readme,PHP
+https://redbeanphp.com/index.php,RedBean,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.doctrine-project.org/projects/migrations.html,Doctrine Migrations,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.solarium-project.org/,Solarium,https://github.com/ziadoz/awesome-php#readme,PHP
+https://foolcode.github.io/SphinxQL-Query-Builder/,SphinxQL query builder,https://github.com/ziadoz/awesome-php#readme,PHP
+https://bshaffer.github.io/oauth2-server-php-docs/,OAuth2 Server,https://github.com/ziadoz/awesome-php#readme,PHP
+https://oauth2.thephpleague.com/,OAuth2 Server,https://github.com/ziadoz/awesome-php#readme,PHP
+https://cartalyst.com/manual/sentinel-social/2.0,Sentinel Social,https://github.com/ziadoz/awesome-php#readme,PHP
+https://cartalyst.com/manual/sentinel/2.0,Sentinel,https://github.com/ziadoz/awesome-php#readme,PHP
+https://spec.commonmark.org/,CommonMark spec,https://github.com/ziadoz/awesome-php#readme,PHP
+https://json-schema.org/,JSON Schema,https://github.com/ziadoz/awesome-php#readme,PHP
+https://api-platform.com,API Platform,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.php.net/manual/en/book.apc.php,Alternative PHP Cache (APC),https://github.com/ziadoz/awesome-php#readme,PHP
+https://bref.sh/,Bref,https://github.com/ziadoz/awesome-php#readme,PHP
+http://openwhisk.apache.org/,OpenWhisk,https://github.com/ziadoz/awesome-php#readme,PHP
+https://serverless.com/cli/,Serverless Framework,https://github.com/ziadoz/awesome-php#readme,PHP
+https://vapor.laravel.com/,Laravel Vapor,https://github.com/ziadoz/awesome-php#readme,PHP
+https://async-aws.com/,AsyncAWS,https://github.com/ziadoz/awesome-php#readme,PHP
+https://campaignmonitor.github.io/createsend-php/,Campaign Monitor,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.php-cpp.com/,PHP CPP,https://github.com/ziadoz/awesome-php#readme,PHP
+http://dunkels.com/adam/phpstack/,PHPStack,https://github.com/ziadoz/awesome-php#readme,PHP
+https://anahkiasen.github.io/underscore-php/,Underscore,https://github.com/ziadoz/awesome-php#readme,PHP
+https://php-osx.liip.ch/,PHP OSX,https://github.com/ziadoz/awesome-php#readme,PHP
+https://vessel.shippingdocker.com/,Vessel,https://github.com/ziadoz/awesome-php#readme,PHP
+https://hacklang.org/,Hack,https://github.com/ziadoz/awesome-php#readme,PHP
+https://netbeans.org,Netbeans,https://github.com/ziadoz/awesome-php#readme,PHP
+https://3v4l.org/,3V4L,https://github.com/ziadoz/awesome-php#readme,PHP
+https://dbv.vizuina.com/,DBV,https://github.com/ziadoz/awesome-php#readme,PHP
+https://libs.garden/php,libs.garden: PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nomadphp.com/,Nomad PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phpbestpractices.org/,PHP Best Practices,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.php-fig.org/,PHP FIG,https://github.com/ziadoz/awesome-php#readme,PHP
+http://php-pds.com,PHP Package Development Standards,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.phpschool.io/,PHP School,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phpsecurity.readthedocs.io/en/latest/index.html,PHP Security,https://github.com/ziadoz/awesome-php#readme,PHP
+https://php.ug,PHP UG,https://github.com/ziadoz/awesome-php#readme,PHP
+http://phpversions.info/,PHP Versions,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.securingphp.com/,Securing PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://7php.com/,Seven PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/,PHP Annotated Monthly,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.atlassian.com/git,Atlassian Git Tutorials,https://github.com/ziadoz/awesome-php#readme,PHP
+https://linuxjourney.com/,Learning Linux,https://github.com/ziadoz/awesome-php#readme,PHP
+https://semver.org/,Semantic Versioning,https://github.com/ziadoz/awesome-php#readme,PHP
+https://owasp.org/,The Open Web Application Security Project (OWASP),https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.functionalphp.com/,Functional Programming in PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://leanpub.com/grumpy-phpunit,Grumpy PHPUnit,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.brandonsavage.net/,Mastering Object-Orientated PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://shop.oreilly.com/product/0636920033868.do,Modern PHP New Features and Good Practices,https://github.com/ziadoz/awesome-php#readme,PHP
+https://leanpub.com/mlaphp,Modernizing Legacy Applications in PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://leanpub.com/php7,PHP 7 Upgrade Guide,https://github.com/ziadoz/awesome-php#readme,PHP
+https://daylerees.com/php-pandas/,PHP Pandas,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.scalingphpbook.com,Scaling PHP Applications,https://github.com/ziadoz/awesome-php#readme,PHP
+https://leanpub.com/signalingphp,Signaling PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://leanpub.com/grumpy-testing,The Grumpy Programmer's Guide to Building Testable PHP Applications,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.phparch.com/books/xml-parsing-with-php/,XML Parsing with PHP,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886,The Tangled Web — Securing Web Applications,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.youtube.com/c/nomadphp,Nomad PHP Lightning Talks,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.youtube.com/user/phpukconference/videos,PHP UK Conference,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW,Programming with Anthony,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.infoq.com/presentations/php-history/,Taking PHP Seriously,https://github.com/ziadoz/awesome-php#readme,PHP
+https://laravelpodcast.com/,Laravel Podcast,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phpinternals.news,PHP Internals News,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phptownhall.com/,PHP Town Hall,https://github.com/ziadoz/awesome-php#readme,PHP
+https://voicesoftheelephpant.com/,Voices of the ElePHPant,https://github.com/ziadoz/awesome-php#readme,PHP
+http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html,Create Your Own PHP Framework,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html,Don't Worry About BREACH,https://github.com/ziadoz/awesome-php#readme,PHP
+http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html,On PHP 5.3, Lambda Functions and Closures,https://github.com/ziadoz/awesome-php#readme,PHP
+http://fabien.potencier.org/php-is-much-better-than-you-think.html,PHP Is Much Better Than You Think,https://github.com/ziadoz/awesome-php#readme,PHP
+https://phppackagechecklist.com/,PHP Package Checklist,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html,PHP Sucks! But I Like It!,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html,Preventing CSRF Attacks,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html,Seven Ways to Screw Up BCrypt,https://github.com/ziadoz/awesome-php#readme,PHP
+https://seancoates.com/blogs/use-env/,Use Env,https://github.com/ziadoz/awesome-php#readme,PHP
+https://wiki.php.net/rfc,PHP RFCs,https://github.com/ziadoz/awesome-php#readme,PHP
+https://externals.io/,Externals,https://github.com/ziadoz/awesome-php#readme,PHP
+https://php-rfc-watch.beberlei.de/,PHP RFC Watch,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html,Disproving the Single Quotes Myth,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html,How Big Are PHP Arrays (And Values) Really?,https://github.com/ziadoz/awesome-php#readme,PHP
+http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html,How Long is a Piece of String,https://github.com/ziadoz/awesome-php#readme,PHP
+http://www.phpinternalsbook.com,PHP Internals Book,https://github.com/ziadoz/awesome-php#readme,PHP
+http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html,Print vs Echo, Which One is Faster?,https://github.com/ziadoz/awesome-php#readme,PHP
+http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html,The PHP Ternary Operator. Fast or Not?,https://github.com/ziadoz/awesome-php#readme,PHP
+http://blog.golemon.com/2008/01/understanding-opcodes.html,Understanding OpCodes,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html,When Does Foreach Copy?,https://github.com/ziadoz/awesome-php#readme,PHP
+http://blog.golemon.com/2007/01/youre-being-lied-to.html,You're Being Lied To,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.php.net/manual/en/features.gc.refcounting-basics.php,1,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.php.net/manual/en/features.gc.collecting-cycles.php,2,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.php.net/manual/en/features.gc.performance-considerations.php,3,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html,1,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html,2,https://github.com/ziadoz/awesome-php#readme,PHP
+https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html,3,https://github.com/ziadoz/awesome-php#readme,PHP
+https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html,4,https://github.com/ziadoz/awesome-php#readme,PHP
+https://www.phparch.com/magazine/,php[architect],https://github.com/ziadoz/awesome-php#readme,PHP

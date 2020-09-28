@@ -1,2 +1,3 @@
-http://www.tml.tkk.fi/Opinnot/Tik-110.501/1995/zeroknowledge.html,Zero Knowledge Protocols and Small Systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.mathunion.org/ICM/ICM1986.2/Main/icm1986.2.1444.1451.ocr.pdf,How to Prove a Theorem So No One Else Can Claim It,https://github.com/pFarb/awesome-crypto-papers#readme,Papers error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf,How to Share a Secret,https://github.com/pFarb/awesome-crypto-papers#readme,Papers error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.tml.tkk.fi/Opinnot/Tik-110.501/1995/zeroknowledge.html,Zero Knowledge Protocols and Small Systems,https://github.com/pFarb/awesome-crypto-papers#readme,Papers error: <HTTPError 404: 'Not Found'> | reason: Not Found

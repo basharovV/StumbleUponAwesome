@@ -1,261 +1,292 @@
-http://www.haskellcast.com/,HaskellCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://beatsryetypes.com/,Beats, Rye & Types,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://partiallyderivative.com/,Partially Derivative,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://lineardigressions.com/,Linear Digressions,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://mindthecloud.com,Mind the Cloud Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://futureofcoding.org/,Future of Coding,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://backtofrontshow.com/,The Back to Front Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.bastayadepicar.com/,Basta ya de picar,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://soundcloud.com/thoughtworks,ThoughtWorks,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devmuslim.id/,Developer Muslim,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://shoptalkshow.com/,ShopTalk Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.talkingcode.com/,Talking Code,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://elemencast.github.io,Elemencast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://soundcloud.com/wyssinstitute/sets/disruptive,Disruptive,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.vox.com/land-of-the-giants-podcast,Land of Giants,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.bbc.co.uk/programmes/b015sqc7,The Life Scientific,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://teahour.fm/,Teahour,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html,NOlegaltech Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://compilando.audio,Compilando Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://5by5.tv/bigwebshow,The Big Web Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.hellointernet.fm/,Hello Internet,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://soundcloud.com/between-screens,Between Screens,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://temanmacet.com/,Teman Macet,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.rwpod.com/,RWPod,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.thecloudcast.net/,Cloudcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.b9.com.br/podcasts/naruhodo/,Naruhodo!,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.jupiterbroadcasting.com/show/linux-action-news/,Linux Action News,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.cmpod.net/,Curious Minds,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://msdevshow.com/,MS Dev Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://soundcloud.com/esc-podcast,Eat Sleep Code Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://ifttd.io/,IFTTD – If This Then Dev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://softwareengineeringdaily.com/,Software Engineering Daily,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://a16z.com/podcasts/,a16z Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://antennapod.org,AntennaPod,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://foocast.io/,FooCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://podlodka.io,Podlodka,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devtalk.pl/,DevTalk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ochobitshacenunbyte.com/category/miscelaneos/,Davidochobits podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://radio-t.com/,Radio-T,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://code-maven.com/cmos,CMOS,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://threedevsandamaybe.com/,Three Devs and a Maybe,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.dotnetrocks.com/,.NET Rocks!,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://talkingkotlin.com/,Talking Kotlin,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.doggcatcher.com,DoggCatcher,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://darknetdiaries.com,Darknet Diaries,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://newrustacean.com/,New Rustacean,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://jovemnerd.com.br/nerdcast/,NerdCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://cacheme.org/podcast/,CAChemE,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://tecnoblog.net/categoria/podcast/,Tecnocast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://jadi.net/2012/07/podcast-haye-jadi/,RadioGeek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.nasa.gov/johnson/HWHAP/,Houston We Have a Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://radiojs.ru/,RadioJS,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://deployando.me/,deployando.me,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://galeradorau.com.br/category/podcast/galera-do-rau/,Galera do Rau,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://tecnologicamentearretado.com.br,Tecnologicamente Arretado,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://linuxheadlines.show/,Linux Headlines,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://spec.fm/podcasts/toolsday,Toolsday Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://bi.11fs.com/,Blockchain Insider,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://elixiroutlaws.com,Elixir Outlaws,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://bikeshed.fm/,The Bike Shed,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://mindbending.org/pt/category/hack-n-cast,Hack n' Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
 http://ttlpodcast.com/,TTL Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://sdcast.ksdaemon.ru,SDCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.se-radio.net/,Software Engineering Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.codenewbie.org/podcast,CodeNewbie Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.jupiterbroadcasting.com/tag/linux-action-show/,The Linux Action Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://gpodder.github.io,gPodder,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.10deploys.com/,10deploys,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://elgatodeturing.com/,El gato de Turing,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.wnycstudios.org/shows/notetoself,Note To Self,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://electro-monkeys.fr/,Electro Monkeys,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://shiryakhat.net/,Shir Ya Khat,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://softskills.audio/,Soft Skills Engineering,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://developers.google.com/web/shows/http203/,HTTP 203,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://corecursive.com/,CoRecursive Interviews,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://99vidas.com.br/,99Vidas,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.phproundtable.com/,PHP Round Table,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://changelog.com/podcast,The Changelog,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.eduardocollado.com/,Eduardo Collado,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://hipsters.tech/,Hipsters ponto Tech,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://devhell.info/,/dev/hell,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://kodsnack.se/,Kodsnack,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/,Xadrez Verbal,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://ubuntupodcast.org,Ubuntu Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.gimletmedia.com/reply-all,Reply All,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://agileleague.com/,Design vs Dev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw,Knowledge Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://boagworld.com/show,Boagworld Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://pizzadedados.com/,Pizza de Dados,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://phptownhall.com/,PHP Town Hall,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.microsoft.com/en-us/microsoft-365/blog/,Office 365 Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://talkpython.fm/,Talk Python to Me,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://soundcloud.com/rdshipit/,CapyCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://soundcloud.com/zenorocha,Zeno Overflow,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://avpodcast.net/podcastlinux,Podcast Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.rtve.es/alacarta/audios/fallo-de-sistema/,Fallo de sistema,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.bloguelinux.ca/,Blogue Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.orbit.fm/bookbytes/,BookBytes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://appelsenperenshow.nl/,De Appels en Peren Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://chwast.it//,ChwastIT,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://gnulinuxvalencia.org/category/podcasts,GNU/Linux Valencia,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://blog.cognitect.com/cognicast,The Cognicast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://bootstrappedweb.com/,Bootstrapped Web,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.fwthinking.com/podcasts,Fw:Thinking,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://oxide.computer/blog/categories/on-the-metal/,On the Metal,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.orbit.fm/weboftomorrow/,Web of Tomorrow,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://looselycoupled.info/,The Loosely Coupled Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://zofe.com.br/,Zone Of Front-Enders,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.pythonpodcast.com/,Podcast._init_,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo,Chama o Suporte,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.lambda3.com.br/category/podcast/,Lambda3 Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html,Home Studio Libre: el Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ironsysadmin.com/,Iron Sysadmin,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://blog.codepen.io/radio/,CodePen Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://apfelfunk.com/,Apfelfunk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.soundofsymfony.com/,Sound Of Symfony,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devpod.org/,devPod,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://podcastlinux.gitlab.io,Linux Express, de Podcast Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://dragoesdegaragem.com/,Dragões de Garagem,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://dosideas.com/podcast/ideasagiles/,Ideas ágiles,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://weirdtrickmafia.fm/,Weird Trick Mafia,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://emberweekend.com/episodes,Ember Weekend,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://uwebdesign.ru/,uWebDesign,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html,Podcast oficial KDE España,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://atp.fm/,Accidental Tech Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://tech45.eu/,Tech45,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://risky.biz/netcasts/risky-business/,Risky Business,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://linuxforeveryone.fireside.fm/,Linux For Everyone,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://frontendfriday.fi/,Frontend Friday,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://podcast.voidnull.es/,La Pingüina Increíblemente Curiosa,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.nacionlumpen.com/,Nación Lumpen,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.podebug.com/,PODebug,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://changelog.com/practicalai,Practical AI,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.radiokawa.com/episode/la-dev-team-hs2/,La Dev Team,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://golangshow.com/,GoLang Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.startalkradio.net/?sfid=22493&post_types=show,StarTalk Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
 https://manifest.fm,The Manifest,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://irlpodcast.org/,IRL: Because Online Life Is Real Life,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://whyarecomputers.com/,Why Are Computers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://opensourcesystempodcast.vf.io/,Open Source System Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://twit.tv/shows/floss-weekly,FLOSS Weekly,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://anchor.fm/devdrops,DevDrops,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://maratonlinuxero.org,Maratón Linuxero,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devopsdeflope.ru/,DevOps Deflope,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devchat.tv/,DevChat.tv,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://podcast.jcea.es/python/,Python en español,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.nasa.gov/kennedy/rocketranch/,Rocket Ranch,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://ourludicrousfuture.com/,Our Ludicrous Future,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.portalcafebrasil.com.br/todos/lidercast/,Lídercast Café Brasil,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://javascriptair.com/,JavaScript Air,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html,Salmorejo Geek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://academy.datastax.com/distributed-data-show,The Distributed Data Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.comptoirsecu.fr/,Le comptoir sécu,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.wired.com/series/webmonkey/,WIRED's Webmonkey Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://masalladelainnovacion.com,Más Allá de la Innovación,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://techsnacks.nl/,TechSnacks,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://swordandlaser.com/,Sword & Laser,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://bsdtalk.blogspot.com/,BSDTalk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://radiopublic.com/,RadioPublic,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://webbidevaus.fi/,Webbidevaus.fi,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://quebradev.com.br/,Quebradev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://anchor.fm/opencast,Opencast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.tor.com/features/series/rocket-talk-podcast/,Rocket Talk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://wedevelopers.com/,WeDevelopers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://podcast.jcea.es/podcast1984/,1984,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.stuffmedia.com/techstuff-podcast.htm,TechStuff,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed,HangOps.Ru,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://packetpushers.net/,Packet Pushers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.pluralsight.com/search?q=ruby,Ruby5,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.carbonite.com/podcasts/breach/,Breach,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://changelog.com/founderstalk,Founders Talk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.runasradio.com/,RunAs Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://theshipshow.com/,The Ship Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/,Rapadura Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://lescastcodeurs.com,Les Cast Codeurs,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://pythonbytes.fm/,Python Bytes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.metnerdsomtafel.nl/,Met Nerds om Tafel,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://rooteando.com/tag/podcast,Tomando Un Café,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://completedeveloperpodcast.com/,Complete Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.gitminutes.com/,GitMinutes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://testandcode.com/,Test and Code Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.redegeek.com.br/podcast/,Rede Geek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://buildphase.fm/,Build Phase,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.jupiterbroadcasting.com/show/linuxun/,Linux Unplugged,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://freakshow.fm/,Freak Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html,Mosqueteroweb Tecnología,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112,iTunes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.fiveminutegeekshow.com,The Five-Minute Geek Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true,Ubuntu y otras hierbas,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.relay.fm/cortex,Cortex,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.gcppodcast.com/,Google Cloud Platform Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://aws.amazon.com/fr/blogs/france/podcasts/,Le podcast AWS en français,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.developershangout.io/,DevelopersHangout,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://fragmentedpodcast.com/,Fragmented,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://aws.amazon.com/podcasts/aws-podcast/,Listen and Learn about AWS,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://foodfightshow.org/,The Food Fight Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://androidbackstage.blogspot.com/,Android Developers Backstage,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://stackoverflow.blog/podcasts/,The Stack Overflow Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://changelog.com/jsparty,JS Party,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.grc.com/securitynow.htm,Security Now!,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://reloading.com.br/,Reloading,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://chooselinux.show/,Choose Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.syfy.com/syfywire/syfy25/podcast-episodes,SYFY25 Origin Stories,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://5by5.tv/webahead,The Web Ahead,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://rebuild.fm/,Rebuild,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.magicreadalong.com,Magic Read Along,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://changelog.com/gotime,Go Time,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://spec.fm/podcasts/developer-tea,Developer Tea,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://ugeek.github.io/,uGeek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://cppcast.com/,CppCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://hanselminutes.com/,The Hanselminutes podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://ochentaycincoporcientococoa.tumblr.com/,85% Cocoa,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.b9.com.br/shows/mamilos/,Mamilos,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://hackaday.com/category/podcasts/,Hackaday Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://syntax.fm/,Syntax FM,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://crew.co/,Makers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.ctrlclickcast.com/,CTRL+Click Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.fullstackradio.com/,Full Stack Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.atareao.es/podcasts,Atareao Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://ceritanyadeveloper.com/,Ceritanya Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
 http://developingperspective.com/,Developing Perspective,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.laravelpodcast.com,The Laravel Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://securityweekly.com,Security Weekly,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://testinginthepub.co.uk/testinginthepub/,Testing In The Pub,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devzen.ru/,DevZen Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://devopscafe.org/,DevOps Cafe,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.functionalgeekery.com/,Functional Geekery,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://visualstudiotalkshow.libsyn.com/,Visual Studio Talk Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://tehataukopi.club/,Teh atau Kopi,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://embeddedsuccess.com/podcast/,Mastering Embedded Systems,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://thatpodcast.io/,That Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/,A hombros de gigantes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://minkorrekt.de/,Methodisch inkorrekt,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://thewebplatform.libsyn.com/,The Web Platform Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.jupiterbroadcasting.com/show/asknoah/,Ask Noah,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.bbc.co.uk/programmes/b01n7094,Digital Human,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://overcast.fm,Overcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://theaccidentalengineer.com/,The Accidental Engineer,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://sysadministrivia.com/,Sysadministrivia,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://ladybug.dev/,Ladybug Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://kdicast.com/,How to make games,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://thisdeveloperslife.com/,This Developer's Life,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.radionukular.de/,Radio Nukular,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://semaphoreci.com/podcast,Semaphore Uncut,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://awayfromthekeyboard.com/category/podcasts/,Away From The Keyboard,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://agilecoffee.com/,The Agile Coffee Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://archive.org/details/BricolabsPodcast,Bricolabs Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://datahackers.com.br/podcast,DataHackers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://requestforcomments.de/,Request for Comments,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://selfhosted.show/,Self Hosted,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-http://reactive.audio/,Reactive,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://thoughtbot.com/podcasts,Thoughtbot,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://laravel-news.com/podcast/,Laravel News Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://changelog.com/afk,Away from Keyboard,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://devnaestrada.com.br/,DevNaEstrada,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://reactpodcast.com/,React Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://workingdraft.de/,Working Draft,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
-https://www.greaterthancode.com/,Greater Than Code,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://crew.co/,Makers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://swordandlaser.com/,Sword & Laser,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://ourludicrousfuture.com/,Our Ludicrous Future,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA,State of E-commerce,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.dotnetrocks.com/,.NET Rocks!,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ochobitshacenunbyte.com/category/miscelaneos/,Davidochobits podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.dancarlin.com/hardcore-history-series/,HardcoreHistory,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://changelog.com/jsparty,JS Party,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://tecnologicamentearretado.com.br,Tecnologicamente Arretado,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://fragmentedpodcast.com/,Fragmented,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://thecyberwire.com/podcasts/daily-podcast,The CyberWire Daily,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://jovemnerd.com.br/nerdcast/,NerdCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
 https://www.codenewbie.org/basecs,Base.cs,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://99vidas.com.br/,99Vidas,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://reactpodcast.com/,React Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://radio-t.com/,Radio-T,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://foocast.io/,FooCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://semaphoreci.com/podcast,Semaphore Uncut,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://apfelfunk.com/,Apfelfunk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://shiryakhat.net/,Shir Ya Khat,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://cppcast.com/,CppCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.pocketcasts.com/,Pocket Casts,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://devopscafe.org/,DevOps Cafe,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://ubuntupodcast.org,Ubuntu Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://theshipshow.com/,The Ship Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://thatpodcast.io/,That Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://beatsryetypes.com/,Beats, Rye & Types,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://just4fun.io/,Just4Fun,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://chooselinux.show/,Choose Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://deployando.me/,deployando.me,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://radiojs.ru/,RadioJS,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.cybrary.it/info/cybrary-podcast/,The Cybrary Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://soundcloud.com/rdshipit/,CapyCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://embeddedsuccess.com/podcast/,Mastering Embedded Systems,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/,Xadrez Verbal,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://packetpushers.net/,Packet Pushers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.greaterthancode.com/,Greater Than Code,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://devhell.info/,/dev/hell,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.bbc.co.uk/programmes/b01n7094,Digital Human,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://kodsnack.se/,Kodsnack,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://soundcloud.com/between-screens,Between Screens,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://chaosradio.de,Chaosradio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
 http://reasonablysound.com/,Reasonably Sound,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.functionalgeekery.com/,Functional Geekery,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ctrlclickcast.com/,CTRL+Click Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://cacheme.org/podcast/,CAChemE,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://overcast.fm,Overcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://selfhosted.show/,Self Hosted,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://theaccidentalengineer.com/,The Accidental Engineer,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://mindthecloud.com,Mind the Cloud Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo,Chama o Suporte,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.orbit.fm/weboftomorrow/,Web of Tomorrow,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://soundcloud.com/zenorocha,Zeno Overflow,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://phpdojeitocerto.tumblr.com/,PHP Do Jeito Certo,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://chwast.it//,ChwastIT,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://partiallyderivative.com/,Partially Derivative,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://sdcast.ksdaemon.ru,SDCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.datastax.com/resources/distributed-data-show,The Distributed Data Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://appelsenperenshow.nl/,De Appels en Peren Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.eduardocollado.com/,Eduardo Collado,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://soundcloud.com/wyssinstitute/sets/disruptive,Disruptive,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.bloguelinux.ca/,Blogue Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.syfy.com/syfywire/syfy25/podcast-episodes,SYFY25 Origin Stories,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://freakshow.fm/,Freak Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.citizencosmos.space/,Citizen Cosmos,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://ladybug.dev/,Ladybug Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://futureofcoding.org/,Future of Coding,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://pizzadedados.com/,Pizza de Dados,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://weirdtrickmafia.fm/,Weird Trick Mafia,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://elgatodeturing.com/,El gato de Turing,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://zofe.com.br/,Zone Of Front-Enders,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://podcastlinux.gitlab.io,Linux Express, de Podcast Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://msdevshow.com/,MS Dev Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://bi.11fs.com/,Blockchain Insider,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devpod.org/,devPod,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://soundcloud.com/esc-podcast,Eat Sleep Code Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://shoptalkshow.com/,ShopTalk Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://antennapod.org,AntennaPod,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://galeradorau.com.br/category/podcast/galera-do-rau/,Galera do Rau,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://atp.fm/,Accidental Tech Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.phproundtable.com/,PHP Round Table,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://razborpoletov.com,Razbor Poletov,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://syntax.fm/,Syntax FM,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://tech45.eu/,Tech45,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://agilecoffee.com/,The Agile Coffee Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://dragoesdegaragem.com/,Dragões de Garagem,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.cmpod.net/,Curious Minds,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://logbuch-netzpolitik.de/,Logbuch:Netzpolitik,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://simpleprogrammer.com/,Get Up and Code,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.fiveminutegeekshow.com,The Five-Minute Geek Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://frontendfriday.fi/,Frontend Friday,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://newrustacean.com/,New Rustacean,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://phptownhall.com/,PHP Town Hall,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://imasters.com.br/perfil/databasecast/,DatabaseCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://stackoverflow.blog/podcasts/,The Stack Overflow Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html,Podcast oficial KDE España,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.doggcatcher.com,DoggCatcher,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://elixiroutlaws.com,Elixir Outlaws,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.radiokawa.com/episode/la-dev-team-hs2/,La Dev Team,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://whyarecomputers.com/,Why Are Computers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://mindbending.org/pt/category/hack-n-cast,Hack n' Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://gnulinuxvalencia.org/category/podcasts,GNU/Linux Valencia,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://softwareengineeringdaily.com/,Software Engineering Daily,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
 http://www.hpmorpodcast.com/,Harry Potter and the methods of rationality,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.thecloudcast.net/,Cloudcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://darknetdiaries.com,Darknet Diaries,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://laravel-news.com/podcast/,Laravel News Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://minkorrekt.de/,Methodisch inkorrekt,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://backtofrontshow.com/,The Back to Front Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://5by5.tv/webahead,The Web Ahead,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://foodfightshow.org/,The Food Fight Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://anchor.fm/devdrops,DevDrops,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://techsnacks.nl/,TechSnacks,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html,Salmorejo Geek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.comptoirsecu.fr/,Le comptoir sécu,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.rtve.es/alacarta/audios/fallo-de-sistema/,Fallo de sistema,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://5by5.tv/bigwebshow,The Big Web Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://sysadministrivia.com/,Sysadministrivia,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://gpodder.github.io,gPodder,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.haskellcast.com/,HaskellCast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html,Home Studio Libre: el Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://webbidevaus.fi/,Webbidevaus.fi,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://lineardigressions.com/,Linear Digressions,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.gimletmedia.com/reply-all,Reply All,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.podebug.com/,PODebug,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://uwebdesign.ru/,uWebDesign,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://boagworld.com/show,Boagworld Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.pythonpodcast.com/,Podcast._init_,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.metnerdsomtafel.nl/,Met Nerds om Tafel,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.wired.com/series/webmonkey/,WIRED's Webmonkey Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://code-maven.com/cmos,CMOS,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.radionukular.de/,Radio Nukular,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://lescastcodeurs.com,Les Cast Codeurs,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://podcast.voidnull.es/,La Pingüina Increíblemente Curiosa,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.hellointernet.fm/,Hello Internet,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://hipsters.tech/,Hipsters ponto Tech,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://golangshow.com/,GoLang Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://hanselminutes.com/,The Hanselminutes podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://thewebplatform.libsyn.com/,The Web Platform Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://dosideas.com/podcast/ideasagiles/,Ideas ágiles,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.gitminutes.com/,GitMinutes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112,iTunes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.talkingcode.com/,Talking Code,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://gpodder.net/,gPodder Director,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://changelog.com/practicalai,Practical AI,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.orbit.fm/bookbytes/,BookBytes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.embedded.fm/,Embedded.fm,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.se-radio.net/,Software Engineering Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://rooteando.com/tag/podcast,Tomando Un Café,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.carbonite.com/podcasts/breach/,Breach,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw,Knowledge Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.wnycstudios.org/shows/notetoself,Note To Self,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://aws.amazon.com/fr/blogs/france/podcasts/,Le podcast AWS en français,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://risky.biz/netcasts/risky-business/,Risky Business,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.askdeveloper.com/,Ask Developer,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://defensivesecurity.org/category/podcast/,Defensive Security Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://bikeshed.fm/,The Bike Shed,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://thisdeveloperslife.com/,This Developer's Life,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.nasa.gov/johnson/HWHAP/,Houston We Have a Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://maratonlinuxero.org,Maratón Linuxero,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://androidbackstage.blogspot.com/,Android Developers Backstage,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devopsdeflope.ru/,DevOps Deflope,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.nacionlumpen.com/,Nación Lumpen,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://quebradev.com.br/,Quebradev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://requestforcomments.de/,Request for Comments,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://bootstrappedweb.com/,Bootstrapped Web,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.codenewbie.org/podcast,CodeNewbie Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.gcppodcast.com/,Google Cloud Platform Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://radiopublic.com/,RadioPublic,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://anchor.fm/opencast,Opencast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.nasa.gov/kennedy/rocketranch/,Rocket Ranch,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://pythonbytes.fm/,Python Bytes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.softwaresessions.com/,Software Sessions,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://rebuild.fm/,Rebuild,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://developers.google.com/web/shows/http203/,HTTP 203,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.jupiterbroadcasting.com/show/linux-action-news/,Linux Action News,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://masalladelainnovacion.com,Más Allá de la Innovación,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://anchor.fm/bugbountypodcast,The Bug Bounty Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://talkingkotlin.com/,Talking Kotlin,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.laravelpodcast.com,The Laravel Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://emberweekend.com/episodes,Ember Weekend,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://podcast.jcea.es/python/,Python en español,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://changelog.com/gotime,Go Time,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://podcast.jcea.es/podcast1984/,1984,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://256.nurkiewicz.com/,Around IT In 256 Seconds,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.vox.com/land-of-the-giants-podcast,Land of Giants,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://workingdraft.de/,Working Draft,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/,Rapadura Cast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed,HangOps.Ru,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true,Ubuntu y otras hierbas,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.bbc.co.uk/programmes/b015sqc7,The Life Scientific,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://visualstudiotalkshow.libsyn.com/,Visual Studio Talk Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://changelog.com/podcast,The Changelog,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html,Mosqueteroweb Tecnología,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://softskills.audio/,Soft Skills Engineering,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://twit.tv/shows/floss-weekly,FLOSS Weekly,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://wedevelopers.com/,WeDevelopers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://agileleague.com/,Design vs Dev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.lambda3.com.br/category/podcast/,Lambda3 Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.redegeek.com.br/podcast/,Rede Geek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://talkpython.fm/,Talk Python to Me,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://datahackers.com.br/podcast,DataHackers,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://ceritanyadeveloper.com/,Ceritanya Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://thoughtbot.com/podcasts,Thoughtbot,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.microsoft.com/en-us/microsoft-365/blog/,Office 365 Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://hackablepodcast.com,Hackable?,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://a16z.com/podcasts/,a16z Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.tor.com/features/series/rocket-talk-podcast/,Rocket Talk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ironsysadmin.com/,Iron Sysadmin,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.bsdnow.tv/,BSDNow,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://teahour.fm/,Teahour,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://ugeek.github.io/,uGeek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.soundofsymfony.com/,Sound Of Symfony,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html,NOlegaltech Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://changelog.com/founderstalk,Founders Talk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://corecursive.com/,CoRecursive Interviews,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://ochentaycincoporcientococoa.tumblr.com/,85% Cocoa,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://soundcloud.com/thoughtworks,ThoughtWorks,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://oxide.computer/blog/categories/on-the-metal/,On the Metal,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devnaestrada.com.br/,DevNaEstrada,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://podlodka.io,Podlodka,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://tehataukopi.club/,Teh atau Kopi,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.pluralsight.com/search?q=ruby,Ruby5,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://irlpodcast.org/,IRL: Because Online Life Is Real Life,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.jupiterbroadcasting.com/show/asknoah/,Ask Noah,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://bsdtalk.blogspot.com/,BSDTalk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://ifttd.io/,IFTTD – If This Then Dev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.wnycstudios.org/shows/radiolab,Radiolab,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.jupiterbroadcasting.com/tag/linux-action-show/,The Linux Action Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.portalcafebrasil.com.br/todos/lidercast/,Lídercast Café Brasil,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://hackaday.com/category/podcasts/,Hackaday Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devzen.ru/,DevZen Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devtalk.pl/,DevTalk,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.10deploys.com/,10deploys,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://blog.cognitect.com/cognicast,The Cognicast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://elemencast.github.io,Elemencast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://threedevsandamaybe.com/,Three Devs and a Maybe,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.runasradio.com/,RunAs Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://javascriptair.com/,JavaScript Air,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.atareao.es/podcasts,Atareao Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/,A hombros de gigantes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://awayfromthekeyboard.com/category/podcasts/,Away From The Keyboard,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://reactive.audio/,Reactive,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw,Enciclopédia do Teatro Impossível,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devmuslim.id/,Developer Muslim,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.startalkradio.net/?sfid=22493&post_types=show,StarTalk Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://kdicast.com/,How to make games,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://jadi.net/2012/07/podcast-haye-jadi/,RadioGeek,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.bastayadepicar.com/,Basta ya de picar,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://devchat.tv/,DevChat.tv,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://spec.fm/podcasts/toolsday,Toolsday Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://reloading.com.br/,Reloading,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.stuffmedia.com/techstuff-podcast.htm,TechStuff,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://temanmacet.com/,Teman Macet,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://linuxforeveryone.fireside.fm/,Linux For Everyone,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://changelog.com/afk,Away from Keyboard,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.opensourcesecuritypodcast.com/,Open Source Security Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://anchor.fm/faladev,FalaDev,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://looselycoupled.info/,The Loosely Coupled Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://buildphase.fm/,Build Phase,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.rwpod.com/,RWPod,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://developeronfire.com/,Developer On Fire,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://archive.org/details/BricolabsPodcast,Bricolabs Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://blog.codepen.io/radio/,CodePen Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://channel9.msdn.com/Shows/Azure-Friday,Azure Friday,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://electro-monkeys.fr/,Electro Monkeys,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://testandcode.com/,Test and Code Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.redhat.com/en/command-line-heroes,Command Line Heroes,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.developershangout.io/,DevelopersHangout,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.likeaboss.com.br,Like a Boss,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.grc.com/securitynow.htm,Security Now!,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://souforce.cloud/podcast/,Souforce.cloud,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://opensourcesystempodcast.vf.io/,Open Source System Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://spec.fm/podcasts/developer-tea,Developer Tea,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://compilando.audio,Compilando Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://securityweekly.com,Security Weekly,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.b9.com.br/shows/mamilos/,Mamilos,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.jupiterbroadcasting.com/show/linuxun/,Linux Unplugged,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://tecnoblog.net/categoria/podcast/,Tecnocast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://aws.amazon.com/podcasts/aws-podcast/,Listen and Learn about AWS,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.b9.com.br/podcasts/naruhodo/,Naruhodo!,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+http://www.magicreadalong.com,Magic Read Along,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://nullplus.plus,Null++,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo,Tech and Coffee,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://completedeveloperpodcast.com/,Complete Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://essamcafe.com/,Essam Cafe,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://www.relay.fm/cortex,Cortex,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://podu.me/shows/show/77/tech-tracks,Tech Tracks,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts
+https://castbox.fm/channel/id2453686?country=us,Khedr W Business,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts

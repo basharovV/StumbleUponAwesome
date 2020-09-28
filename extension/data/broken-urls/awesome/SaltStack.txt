@@ -1,17 +1,2 @@
-http://www.xenuser.org/saltstack-cheat-sheet/,SaltStack Cheat Sheet,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: timeout('timed out') | reason: 
-http://www.yet.org/2016/10/reclass/,Using Salt with reclass,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: timeout('timed out') | reason: 
 https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/,Moving away from Puppet: SaltStack or Ansible?,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
-http://www.yet.org/2016/09/salt/,About SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: timeout('timed out') | reason: 
-http://www.yet.org/2016/09/salt-formulas/,Salt Formulas,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: timeout('timed out') | reason: 
-https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition,Packt - Learning SaltStack, 2nd ed.,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition,Packt - Mastering SaltStack, 2nd ed.,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/networking-and-servers/extending-saltstack,Packt - Extending SaltStack,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/networking-and-servers/salt-cookbook,Packt - Salt Cookbook,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
+http://www.xenuser.org/saltstack-cheat-sheet/,SaltStack Cheat Sheet,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: timeout('timed out') | reason: 

@@ -1,1 +1,11 @@
-https://www.packtpub.com/au/application-development/micropython-cookbook,MicroPython Cookbook,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: timeout('The read operation timed out') | reason: 
+https://bitbucket.org/thesheep/micropython-max31855,micropython-max31855,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-si7021,micropython-si7021,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-pca9685,micropython-pca9685,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-ili9341,micropython-ili9341,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/oscarBravo/wipy_bme280,wipy_bme280,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-gp2y0e03,micropython-gp2y0e03,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-vl6180,micropython-vl6180,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-oled,micropython-oled,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-vl53l0x,micropython-vl53l0x,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/thesheep/micropython-ads1015,micropython-ads1015,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://slack-micropython.herokuapp.com/,Slack,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: timeout('The read operation timed out') | reason: 

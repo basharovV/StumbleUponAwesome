@@ -1,0 +1,107 @@
+https://learn.sparkfun.com/tutorials/tags/skill,"skill" tag on learn.sparkfun.com,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/,Soldering is Easy,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/,Uses of Different Soldering Iron Tips,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.ibiblio.org/kuphaldt/electricCircuits/,Lessons In Electric Circuits,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://ultimateelectronicsbook.com/,Ultimate Electronics: Practical Circuit Design and Analysis,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.khanacademy.org/science/electrical-engineering,Khan Academy - Electrical Engineering,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.fcctests.com/neets/Neets.htm,NEETS (Navy Electricity and Electronics Training Series),https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://inst.eecs.berkeley.edu/classes-eecs.html,Berkeley EECS,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://cmosedu.com,Dr. Jacob Baker,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.cerc.utexas.edu/~jaa/teaching.html,Dr. Abraham,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://users.ece.utexas.edu/~mcdermot/,Dr. McDermot,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://users.ece.utexas.edu/~valvano/,Dr. Valvano,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html,LTspice,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://ltwiki.org/?title=Main_Page,LTwiki,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://groups.io/g/LTspice,Group,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://ngspice.sourceforge.net/,ngspice,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://www.falstad.com/circuit/circuitjs.html,Circuit JS/Falstad,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://everycircuit.com,EveryCircuit,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://qucs.sourceforge.net/,Qucs,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://dd6um.darc.de/QucsStudio/qucsstudio.html,QucsStudio,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://opencircuitdesign.com,Open Circuit Design Software,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://www.ti.com/tool/TINA-TI,TINA-TI,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.tina.com,DesignSoft-TINA,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.cppsim.com/,CppSim,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.scilab.org/,Scilab with Xcos,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://icircuitapp.com/,iCircuit,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://www.spectrum-soft.com/download/download.shtm,Micro-Cap,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.veripool.org/wiki/verilator,Verilator,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://iverilog.icarus.com/,Icarus Verilog,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://tracespace.io/,Tracespace Viewer,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.gerblook.org/,Gerblook,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://mayhewlabs.com/3dpcb,Mayhew Labs 3dpcb,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://circuitpeople.com,CircuitPeople,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://stackrate.de/viewer/,Stackrate Viewer,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://gerbv.geda-project.org/,Gerbv,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://kicad-pcb.org/,KiCad GerbView,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.autodesk.com/products/eagle/overview,Eagle,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.rs-online.com/designspark/pcb-software,DesignSpark PCB,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://circuitmaker.com/,Altium CircuitMaker,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://geda-project.org,gEDA,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://diptrace.com,DipTrace,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://librepcb.org/,LibrePCB,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/,Contextual Electronics' Shine on You Crazy KiCad,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q,Contextual Electronics' Getting to Blinky Tutorial,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://forum.kicad.info,KiCad.info Forums,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf,Cheatsheet,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf,in landscape,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know,List of ULPs everyone should know,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://pcbshopper.com/,PCBShopper,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://oshpark.com,OSH Park,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://aisler.net,Aisler,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://dirtypcbs.com/store/pcbs,Dirty PCBs,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://jlcpcb.com/,JLCPCB,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://octopart.com,Octopart,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.findchips.com/,Findchips,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://parts.io/,Parts.io,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://kitspace.org,Kitspace,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://hackaday.io,Hackaday.io,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.hackster.io/,Hackster.io,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://inventhub.io/,InventHub,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://cadlab.io/,CADLAB,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://kitspace.org/1-click-bom/,1-click BOM,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://partsbox.io,PartsBox,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://partkeepr.org,PartKeepr,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://eyrie.io,Eyrie,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.snapeda.com,SnapEDA,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.adafruit.com/,Adafruit,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.tindie.com,Tindie,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://hackaday.com,Hackaday,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.bunniestudios.com,bunniestudios.com,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.baldengineer.com,Bald Engineer,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://rheingoldheavy.com,Rheingold Heavy,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.hackster.io/news,Hackster.io,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://dangerousprototypes.com/blog/,Dangerous Prototypes,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.eevblog.com/forum/,EEVBlog forum,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.reddit.com/r/electronics/,/r/electronics,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.reddit.com/r/ECE/,/r/ECE,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.reddit.com/r/AskElectronics/,/r/askelectronics,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://electronics.stackexchange.com,Electronics Stack Exchange,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.eevblog.com/forum/beginners/,EEVBlog beginners forum,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://theamphour.com/,The Amp Hour,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://embedded.fm/,Embedded.fm,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://thesparkgap.net,The Spark Gap Podcast,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://macrofab.com/blog/podcast/,MacroFab Engineering Podcast,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://theengineeringcommons.com/,The Engineering Commons Podcast,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/EEVblog,EEVblog,https://github.com/kitspace/awesome-electronics#readme,Electronics
+http://bigclive.com,BigClive,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/bigclivedotcom,YouTube channel,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/msadaghd,ElectroBOOM,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/micahjd,Micah Scott,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/afrotechmods,Afrotechmods,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/TheSignalPathBlog,The Signal Path,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA,w2aew,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/MrCarlsonsLab,Mr. Carlson's Lab,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/greatscottlab,GreatScott,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/julius256,Julian Ilett,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA,MikesElectricStuff,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU,Ben Eater,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/user/matarofe,Robert Feranec,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://strangeparts.com,Strange Parts,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw,YouTube channel,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://boldport.com/,Boldport Club,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.adafruit.com/adabox/,AdaBox,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://grabcad.com/library/electronic-components-1,GrabCad,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.3dcontentcentral.com,3D ContentCentral,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://www.eevblog.com/forum/eda/pcbeda-software-list/,PCB/EDA software list on the EEVblog forums,https://github.com/kitspace/awesome-electronics#readme,Electronics
+https://tcad.com/Software.html,TCAD Central,https://github.com/kitspace/awesome-electronics#readme,Electronics

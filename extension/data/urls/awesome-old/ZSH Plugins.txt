@@ -1,0 +1,103 @@
+https://circleci.com/gh/unixorn/awesome-zsh-plugins,,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://gitter.im/unixorn/awesome-zsh-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://codeclimate.com/github/unixorn/awesome-zsh-plugins,,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://getantibody.github.io/,http://getantibody.github.io/,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://ohmyz.sh/,oh-my-zsh,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://handlebarsjs.com/,handlebars,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://ohmyz.sh/,oh-my-zsh,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://zdharma.org/Zsh-100-Commits-Club/Zsh-Plugin-Standard.html,Zsh Plugin Standard,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://www.zsh.org/,ZSH,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/,A Beautifully Productive Terminal Experience,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://en.wikipedia.org/wiki/Z_shell,ZSH,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://wiki.archlinux.org/index.php/zsh,Arch Linux's ZSH introduction,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://commandlinepoweruser.com/,commandlinepoweruser.com,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/,Outrageously Useful Tips To Master Your Z Shell,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692,Why ZSH is Cooler than your Shell,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://thorsten-hans.com/frictionless-zsh-and-oh-my-zsh-management-with-antigen,Frictionless zsh And oh-my-zsh Management With Antigen,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://mgdm.net/weblog/zsh-antigen/,mgdm.net/weblog/zsh-antigen/,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://joshldavis.com/2014/07/26/oh-my-zsh-is-a-disease-antigen-is-the-vaccine/,Oh-my-zsh is the Disease and Antigen is the Vaccine,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.refining-linux.org/archives/59-ZSH-Gem-24-ZSH-frameworks.html,ZSH Gem 24,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience,A Beautifully Productive Terminal Experience,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://linhmtran168.github.io/blog/2013/12/15/ditching-oh-my-zsh-for-prezto/,Ditching oh-my-zsh for prezto,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://jeromedalbert.com/migrate-from-oh-my-zsh-to-prezto/,Migrate from Oh-My-Zsh to Prezto,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.microfocus.com/en-us/products/accurev/overview,accurev,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://brew.sh,brew,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.ansible.com/,Ansible,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://iterm2.com,iTerm 2,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html,awscli,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.vim.org,Vim,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://basex.org/,BaseX,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://bepo.fr/wiki/Accueil,bépo keyboard,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://stackexchange.com,Stack Exchange,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://the.exa.website,exa,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://gitlab.com/hermitmaster/zsh-exa-plugin,exa (hermitmaster),https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://exercism.io/,exercism.io,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://explainshell.com,explainshell.com,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://geeknote.me,Geeknote,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://git.io,git.io,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://molecule.readthedocs.io/en/latest/index.html,Molecule,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://hanamirb.org,hanami,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://hitokoto.cn/,hitokoto.cn,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://en.ipip.net,IPIP,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://kubernetes.io,kubernetes,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://docs.lando.dev,Lando,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://laradock.io/,Laradock,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://linuxbrew.sh/,linuxbrew,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.lipsum.com,lipsum.com,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.seanh.cc/terminal_velocity/,terminal_velocity,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://stedolan.github.io/jq/,jq,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.cyberciti.biz/faq/use-oathtool-linux-command-line-for-2-step-verification-2fa/,using oathtool for 2 step verification,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://phpunit.de/,PHPUnit,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://pipenv.readthedocs.io/en/latest/,pipenv,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://poetry.eustace.io/,Poetry,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://openrazer.github.io/,Razer Mouse,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://robo.li/,Robo,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://cirw.in/blog/bracketed-paste,bracketed-paste,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://terraform.io/,terraform,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://timewarrior.net/,timewarrior,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://virtualenvwrapper.readthedocs.io/en/latest/,virtualenvwrapper,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://docs.python.org/3/library/venv.html,venv module,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://virtualenv.pypa.io/en/latest/,virtualenv,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://fishshell.com/,Fish shell,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://docs.virtuozzo.com/master/index.html,virtuozzo,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://vox.rocks/,VOX,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://youtube-dl.org/,youtube-dl,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://buidler.dev,buidler.dev,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://docs.cloudfoundry.org/cf-cli/,Cloud Foundry CLI,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.concourse.ci/fly-cli.html,Concourse CLI,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://hashlink.haxe.org/,https://hashlink.haxe.org/,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://ipfs.io,Interplanetary File System,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://kafka.apache.org,kafka,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://keybase.io/docs/command_line,keybase,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://kompose.io/,Kompose,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/,kubeadm,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://nixos.org/,NixOS,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://nixos.org/nixops/,NixOps,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://1password.com/,1Password,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://1password.com/downloads/command-line/,op,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://packer.io,packer,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://network.pivotal.io/products/pivotal-container-service,PKS CLI,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://racket-lang.org,Racket,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://vertx.io/,vertx,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://blog.ysmood.org/my-ys-terminal-theme/,ys,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://cmder.net/,cmder,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://code.xero.nu/dotfiles,xero's zsh prompt,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://material.io/guidelines/style/color.html,material design,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://ethanschoonover.com/solarized,Solarized Light,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.deepin.org/en/original/deepin-terminal/,Deepin Terminal,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://en.wikipedia.org/wiki/Zsh,ZSH,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,bash,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://gitlab.com/nyarla/zsh-theme-nerdish,nerdish,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://www.rust-lang.org/,Rust,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://gitlab.com/zick.kim/zsh/zsh-psmin,psmin,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://sdkman.io/,sdkman,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://mbauhardt.github.io/spowerline/,spowerline,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://nerdfonts.com/,Nerd Fonts,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://ysmood.org/my-ys-terminal-theme/,ys,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://gitlab.com/robobenklein/zinc,zinc,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://sourcefoundry.org/hack/,Hack,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://input.fontbureau.com/,Input Mono,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://larsenwork.com/monoid/,Monoid,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://files.ax86.net/terminus-ttf/,Terminus,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+http://www.bash2zsh.com/zsh_refcard/refcard.pdf,ZSH Reference Card,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins
+https://grml.org/zsh/zsh-lovers.html,zsh-lovers site,https://github.com/unixorn/awesome-zsh-plugins#readme,ZSH Plugins

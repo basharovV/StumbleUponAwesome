@@ -1,0 +1,24 @@
+https://www.mps.mpg.de/dislin/,DISLIN,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://math.nist.gov/f90gl/,f90gl,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml,F03GL,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://glade.gnome.org/,Glade,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.astro.caltech.edu/~tjp/pgplot/,PGPLOT,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://www.netlib.org/blas/,BLAS,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://cernlib.web.cern.ch/cernlib/,CERNLIB,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://www.netlib.org/eispack/,EISPACK,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.lrz.de/services/software/mathematik/gsl/fortran/index.html,FGSL,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.lrz.de/services/software/mathematik/gsl/,GNU scientific library,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.imsl.com/products/imsl-fortran-libraries,IMSL,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.ssisc.org/lis/index.en.html,Lis,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.nag.co.uk/content/nag-library-fortran,NAG Fortran Library,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://sourceforge.net/projects/xml-fortran/,xml-fortran,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://sourceforge.net/projects/fortranxunit/,FRUIT,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://flibs.sourceforge.net/ftnunit.html,Ftunit,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://sourceforge.net/projects/pfunit/,pFUnit,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://gitlab.com/everythingfunctional/vegetables,Vegetables,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://blockit.sourceforge.net/,Blockit/PyF95++,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://hub.docker.com/r/baekjoon/onlinejudge-fortran/,Unoficial Image,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.fortran.com/,The Fortran Company,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://fortrandev.wordpress.com/,Fortran Dev,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+http://fortranwiki.org/fortran/show/HomePage,Fortran WIKI,https://github.com/rabbiabram/awesome-fortran#readme,Fortran
+https://www.youtube.com/watch?v=qUy8M10uZRU,GNU FORTRAN Lesson 1,https://github.com/rabbiabram/awesome-fortran#readme,Fortran

@@ -1,0 +1,30 @@
+https://godotengine.org,,https://github.com/Calinou/awesome-godot#readme,Godot
+https://codeberg.org/Yeldham/librerama,Librerama,https://github.com/Calinou/awesome-godot#readme,Godot
+http://kobuge-games.github.io/minilens/,Minilens,https://github.com/Calinou/awesome-godot#readme,Godot
+https://zacryol.itch.io/spindle-of-serendipity,spindle of serendipity,https://github.com/Calinou/awesome-godot#readme,Godot
+https://anti.itch.io/super-tux-party,Super Tux Party,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/,this Reddit thread,https://github.com/Calinou/awesome-godot#readme,Godot
+https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html,Official Getting Started Guide,https://github.com/Calinou/awesome-godot#readme,Godot
+https://devga.me/tutorials/godot2d/,Getting Started with Godot by devga.me,https://github.com/Calinou/awesome-godot#readme,Godot
+https://gitlab.com/menip/godot-multiplayer-tutorials,Godot Multiplayer Tutorials,https://github.com/Calinou/awesome-godot#readme,Godot
+http://kidscancode.org/godot_recipes/,Godot Recipes,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw,Bastiaan Olij's channel,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w,Bitwes's channel,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ,BornCG's Creating a Simple 3D Game,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/codewithtom,Code with Tom,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_,From GM:S to Godot,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ,GDquest,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/user/uheartbeast,HeartBeast,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg,KidsCanCode,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0,Making programs with Godot,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.youtube.com/user/Miziziziz,Miziziziz's channel,https://github.com/Calinou/awesome-godot#readme,Godot
+http://www.portaudio.com,PortAudio,https://github.com/Calinou/awesome-godot#readme,Godot
+https://godotengine.org/qa/438/camera2d-screen-shake-extension,Camera2D Screen Shake,https://github.com/Calinou/awesome-godot#readme,Godot
+https://kristianduske.com/trenchbroom/,TrenchBroom,https://github.com/Calinou/awesome-godot#readme,Godot
+https://gitlab.com/shine-upon-thee/joystick,SUTjoystick,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.mapeditor.org/,Tiled,https://github.com/Calinou/awesome-godot#readme,Godot
+https://atom.io/packages/lang-gdscript,Atom,https://github.com/Calinou/awesome-godot#readme,Godot
+https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools,Visual Studio Code,https://github.com/Calinou/awesome-godot#readme,Godot
+https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter,gdformat Visual Studio Code Extension,https://github.com/Calinou/awesome-godot#readme,Godot
+https://hugo.pro/projects/godot-builds/,Calinou's builds,https://github.com/Calinou/awesome-godot#readme,Godot
+https://www.npmjs.com/package/@gd-com/utils,gd-com npm package,https://github.com/Calinou/awesome-godot#readme,Godot

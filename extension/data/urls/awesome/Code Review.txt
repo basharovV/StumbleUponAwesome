@@ -1,54 +1,54 @@
 https://en.wikipedia.org/wiki/Code_review,code review,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.pullrequest.com/,PullRequest,https://github.com/joho/awesome-code-review#readme,Code Review
-https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7,Comments During Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400,Software Inspection: An Industry Best Practice,https://github.com/joho/awesome-code-review#readme,Code Review
 https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/,summary on the morning paper,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.codacy.com/ebooks/guide-to-code-reviews,Ultimate Guide to Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
+https://hecate.co/blog/code-review-review-is-the-managers-job,Code Review Review is the Manager's Job,https://github.com/joho/awesome-code-review#readme,Code Review
 http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf,An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997),https://github.com/joho/awesome-code-review#readme,Code Review
-https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3,Designing Awesome Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
-https://pullreminders.com,Pull Reminders,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.rubberduck.io,Rubberduck,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm,Effective Code Reviews Without the Pain,https://github.com/joho/awesome-code-review#readme,Code Review
 https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html,8 Tips for Great Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
-https://blog.skyliner.io/ship-small-diffs-741308bec0d1,Ship Small Diffs,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/,Feedback Ladders: How We Encode Code Reviews at Netlify,https://github.com/joho/awesome-code-review#readme,Code Review
-https://softagram.com/,Softagram,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.codacy.com/ebooks/guide-to-code-reviews,Ultimate Guide to Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.phacility.com/phabricator/,Phabricator,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.giladpeleg.com/blog/better-code-review/,A Better Code Review,https://github.com/joho/awesome-code-review#readme,Code Review
+https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7,Comments During Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
 https://dl.acm.org/citation.cfm?id=253234,Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997),https://github.com/joho/awesome-code-review#readme,Code Review
-https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/,Stacked Pull Requests: Keeping GitHub Diffs Small,https://github.com/joho/awesome-code-review#readme,Code Review
-https://johnbarton.co,John Barton,https://github.com/joho/awesome-code-review#readme,Code Review
+https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44,Pull Requests: How to Get and Give Good Feedback,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.pullrequest.com/,PullRequest,https://github.com/joho/awesome-code-review#readme,Code Review
 https://leanpub.com/whattolookforinacodereview,What to Look for in a Code Review,https://github.com/joho/awesome-code-review#readme,Code Review
-https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a,A Zen Manifesto for Effective Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
 https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf,Characteristics of Useful Code Reviews: An Empirical Study at Microsoft (Bosu, Greiler, Bird, 2015),https://github.com/joho/awesome-code-review#readme,Code Review
-https://blog.plaid.com/building-an-inclusive-code-review-culture/,Building an Inclusive Code Review Culture,https://github.com/joho/awesome-code-review#readme,Code Review
+https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3,Designing Awesome Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
 http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three,Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017,https://github.com/joho/awesome-code-review#readme,Code Review
 https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf,Code Reviewing in the Trenches: Understanding Challenges, Best Practices, and Tool Needs (MacLeod, Greiler, Storey, Bird, Czerwonka, 2018),https://github.com/joho/awesome-code-review#readme,Code Review
-https://codingsans.com/blog/code-review,Code Review: Create The Culture, Learn The Best Practices,https://github.com/joho/awesome-code-review#readme,Code Review
-https://confreaks.tv/videos/reddotrubyconf2017-goldilocks-and-the-three-code-reviews,Goldilocks and the Three Code Reviews - Vaidehi Joshi RedDot Ruby Conf 2017,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/,How Code Reviews work at Microsoft,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.youtube.com/watch?v=PJjmw9TRB7s,Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015,https://github.com/joho/awesome-code-review#readme,Code Review
-https://css-tricks.com/code-review-etiquette/,Code Review Etiquette,https://github.com/joho/awesome-code-review#readme,Code Review
+https://pullreminders.com,Pull Reminders,https://github.com/joho/awesome-code-review#readme,Code Review
+https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a,A Zen Manifesto for Effective Code Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
 https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35,Design and Code Inspections to Reduce Errors in Program Development (Fagan, 2002),https://github.com/joho/awesome-code-review#readme,Code Review
-https://phauer.com/2018/code-review-guidelines/,Code Review Guidelines for Humans,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/,Michaela Greiler on Code Reviews - SE Radio 2020,https://github.com/joho/awesome-code-review#readme,Code Review
-https://blog.codinghorror.com/code-reviews-just-do-it/,Code Reviews: Just Do It,https://github.com/joho/awesome-code-review#readme,Code Review
+https://confreaks.tv/videos/reddotrubyconf2017-goldilocks-and-the-three-code-reviews,Goldilocks and the Three Code Reviews - Vaidehi Joshi RedDot Ruby Conf 2017,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.rubberduck.io,Rubberduck,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.youtube.com/watch?v=PJjmw9TRB7s,Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015,https://github.com/joho/awesome-code-review#readme,Code Review
+https://blog.plaid.com/building-an-inclusive-code-review-culture/,Building an Inclusive Code Review Culture,https://github.com/joho/awesome-code-review#readme,Code Review
+https://blog.skyliner.io/ship-small-diffs-741308bec0d1,Ship Small Diffs,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/,Feedback Ladders: How We Encode Code Reviews at Netlify,https://github.com/joho/awesome-code-review#readme,Code Review
+https://codingsans.com/blog/code-review,Code Review: Create The Culture, Learn The Best Practices,https://github.com/joho/awesome-code-review#readme,Code Review
 http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf,Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes (Barnett et al. 2015),https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.atlassian.com/software/crucible,Crucible,https://github.com/joho/awesome-code-review#readme,Code Review
+https://softagram.com/,Softagram,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/,How Code Reviews work at Microsoft,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/,Michaela Greiler on Code Reviews - SE Radio 2020,https://github.com/joho/awesome-code-review#readme,Code Review
+https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/,Stacked Pull Requests: Keeping GitHub Diffs Small,https://github.com/joho/awesome-code-review#readme,Code Review
 https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/,summary on the morning paper,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.michaelagreiler.com/code-reviews-at-google/,Code Reviews at Google are lightweight and fast,https://github.com/joho/awesome-code-review#readme,Code Review
-https://gitpod.io,Gitpod,https://github.com/joho/awesome-code-review#readme,Code Review
-https://hecate.co/blog/code-review-review-is-the-managers-job,Code Review Review is the Manager's Job,https://github.com/joho/awesome-code-review#readme,Code Review
+https://css-tricks.com/code-review-etiquette/,Code Review Etiquette,https://github.com/joho/awesome-code-review#readme,Code Review
+https://johnbarton.co,John Barton,https://github.com/joho/awesome-code-review#readme,Code Review
 https://sback.it/publications/icse2018seip.pdf,Modern Code Review: A Case Study at Google,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.gitrise.com/,GitRise,https://github.com/joho/awesome-code-review#readme,Code Review
+https://engineering.tumblr.com/post/170040992289/how-i-review-code,How I review code,https://github.com/joho/awesome-code-review#readme,Code Review
+https://phauer.com/2018/code-review-guidelines/,Code Review Guidelines for Humans,https://github.com/joho/awesome-code-review#readme,Code Review
 https://sback.it/publications/icse2016b.pdf,Work Practices and Challenges in Pull-Based Development (Gousios et al. 2015),https://github.com/joho/awesome-code-review#readme,Code Review
 https://google.github.io/eng-practices/review/reviewer/,How to do a code review,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.phacility.com/phabricator/,Phabricator,https://github.com/joho/awesome-code-review#readme,Code Review
+https://blog.codinghorror.com/code-reviews-just-do-it/,Code Reviews: Just Do It,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.atlassian.com/software/crucible,Crucible,https://github.com/joho/awesome-code-review#readme,Code Review
+https://www.michaelagreiler.com/code-reviews-at-google/,Code Reviews at Google are lightweight and fast,https://github.com/joho/awesome-code-review#readme,Code Review
 https://mtlynch.io/human-code-reviews-1/,How to Do Code Reviews Like a Human,https://github.com/joho/awesome-code-review#readme,Code Review
+https://gitpod.io,Gitpod,https://github.com/joho/awesome-code-review#readme,Code Review
 https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c,On Code Review,https://github.com/joho/awesome-code-review#readme,Code Review
 https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345,The Art of Humanizing Pull Requests,https://github.com/joho/awesome-code-review#readme,Code Review
 https://cate.blog/2018/07/03/towards-productive-technical-discussions/,Towards Productive Technical Discussions,https://github.com/joho/awesome-code-review#readme,Code Review
 https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c,Unlearning Toxic Behaviors in a Code Review Culture,https://github.com/joho/awesome-code-review#readme,Code Review
-https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44,Pull Requests: How to Get and Give Good Feedback,https://github.com/joho/awesome-code-review#readme,Code Review
 https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68,Why I changed the way I think about Code Quality,https://github.com/joho/awesome-code-review#readme,Code Review
 https://www.goodreads.com/book/show/1563457.Best_Kept_Secrets_of_Peer_Code_Review,Best Kept Secrets of Peer Code Review,https://github.com/joho/awesome-code-review#readme,Code Review
 https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196,Handbook of Walkthroughs, Inspections, and Technical Reviews,https://github.com/joho/awesome-code-review#readme,Code Review
 https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850,Peer Reviews in Software: A Practical Guide,https://github.com/joho/awesome-code-review#readme,Code Review
-https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400,Software Inspection: An Industry Best Practice,https://github.com/joho/awesome-code-review#readme,Code Review

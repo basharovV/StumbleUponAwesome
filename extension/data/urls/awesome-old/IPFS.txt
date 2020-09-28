@@ -1,0 +1,118 @@
+http://ipn.io,,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://webchat.freenode.net/?channels=%23ipfs,,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://discuss.ipfs.io,our IPFS Discuss Forums,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://collab.ipfscluster.io/,Collaborative clusters,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://2read.net/,2read,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://3box.io,3Box,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://akasha.world/,akasha,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://www.alexandria.io/,Alexandria,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://arbo.re,Arbore,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipns/boards.ydns.eu,Boards,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://brig.readthedocs.io/en/latest,brig,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://cyber.page,Cyber,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://diffuse.sh,Diffuse,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.dgx.io/,digx,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://d.tube,dtube,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.edchain.io/,edChain,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://enzypt.io/,enzypt.io,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://ethlance.com,Ethlance,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.everforo.com,Everforo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://globalupload.io/,Global Upload,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://gogo.tattoo,gogo.tattoo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://infinitebooru.com,InfiniteBooru,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://infura.io,infura.io,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://gitlab.com/stavros/IPFessay,IPFessay,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/,IPFS ID and Public Key QR Codes Demo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.talaikis.com/,IPFS Image Uploader,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://ipfs-fps.zil.sh/,IPFS-FPS,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs-search.com,ipfs-search,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.ink,ipfs.ink,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipjot.herokuapp.com/,IpJot,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.ipse.io/,IPSE,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://kauri.io,Kauri,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://killcord.io/,killcord,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.openbazaar.org/,OpenBazaar,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://orbit.chat,Orbit,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://demo.originprotocol.com/,Origin Protocol,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://busterlabs.github.io/Partyshare,Partyshare,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://pathephone.github.io,Pathephone,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/,Peer Bandwidth Demo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/,Peer Map Demo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://peerweb.site/,Peer Web Site,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://peergos.org,Peergos,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://philes.co,Philes,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://mafintosh.github.io/playback/,Playback,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/,PubSub Chat Demo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://timothy.hobbs.cz/push-to-talk/index.html,PushToTalk,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://qri.io,qri,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://request.network/,Request,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://simpleaswater.com/ipfs-cluster-twitter-pinbot/,SimpleAsWater Bot,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://simpleid.xyz/,SimpleID,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://tallylab.com/,TallyLab,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.textile.photos,Textile Photos,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/,ToDo List Demo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://tree3.network/,Tree3 Network,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://ujomusic.com/,ujo,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://wistfulbooks.com/,Wistful Books,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://medium.com/pinata/how-to-create-a-unity-game-on-ipfs-using-pinata-d0af18a5bd44,How to Create a Unity Game on IPFS using Pinata,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://simpleaswater.com/ipfs-cluster-twitter-pinbot/?ref=awesomeipfs,Building a Twitter Bot using IPFS Cluster,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs,Hands-on IPLD Tutorial in Golang Series,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs,InterPlanetary Chat Application using Libp2p,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926,Managing storage in a Java application with IPFS,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841,10+ Resources Every IPFS Developer Should Know About,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po,The Complete Beginner's Guide to Deploying Your First Static Website to IPFS,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5,The Case for a Decentralized Social Network,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895,Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/,Content Identifiers in IPFS,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/,On future-proof cryptographic hashes,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html,Understanding the IPFS White Paper part 2,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html,Understanding the IPFS White Paper part 1,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85,Decentralized & Distributed Edge Computing Comes to Computes.io,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a,Using IPFS for IoT Communications,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b,IPFS: The Internet Democratised,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://changelog.com/204/,Changelog Podcast,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web,The InterPlanetary File System Wants to Create a Permanent Web,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example,Introduction to IPFS,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html,HTTP is obsolete. It's time for the distributed, permanent web,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://syzygy-tables.info/,7-piece Syzygy tablebases,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS,alpine-linux 3.4 packages,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa,arXiv,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb,cdn.media.ccc.de,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX,cdnjs,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB,Cooking Recipes,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/,Source,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox,Geocities by Archive Team,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv,haveibeenpwnd.com passwords,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM,IETF RFC Archive,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmajLDwZLH6bKTzd8jkq913ZbxaB2nFGRrkDAuygYNNv39,KinoKabaret Caen, 2018 - Shortfilms,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5,MDSConnect,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmPFj6iAxUwxVyEtDJBJHXVp4SX9dkV91Mh5mjqGxTctHy,No-Intro Collection,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp,Old Internet Files,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89,Presidential Daily Briefs,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D,Project Apollo Archives,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU,textfiles.com,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ,World Wide Web History Project,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipns/xkcd.hacdias.com,xkcd,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK,yarchive.net,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.boom.fyi,Boom.FYI,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://dws.datochain.com/,DWS,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.eternum.io/,Eternum,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://fission.codes,Fission,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://pinata.cloud,Pinata,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://robonomics.network/,Robonomics Network,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://temporal.cloud,Temporal,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://unstoppabledomains.com,Unstoppable Domains,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html,Blockwatch,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256,dillo-ipfs,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://galacteek.github.io,galacteek,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs-publish.uhlir.dev,ipfs-publish,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.video,ipfs-video-gateway,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://explore.ipld.io,IPLD Explorer,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://ipfs.fooock.com/,Public gateway status checker,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://orion.siderus.io,Siderus Orion,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://gitlab.com/terceranexus6/tellit,Tellit,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.youtube.com/watch?v=jONZtXMu03w,Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.youtube.com/watch?v=skMTdSEaCtA,IPFS Alpha - Why we must redistribute the web,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.youtube.com/watch?v=5Uj6uR3fp-U,IPFS Simply Explained,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.youtube.com/watch?v=HUVmypx9HGI,Juan Benet at Stanford 2015,https://github.com/ipfs/awesome-ipfs#readme,IPFS
+https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z,Textile Build Series - A Free Online Workshop,https://github.com/ipfs/awesome-ipfs#readme,IPFS

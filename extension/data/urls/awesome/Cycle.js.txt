@@ -1,45 +1,46 @@
-http://cycle.js.org/,cycle.js.org,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://developer.mozilla.org/en-US/docs/Web/API/Selection,Selection API,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://cycle.js.org/,cycle.js.org,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://youtu.be/31URmaeNHSs,Learning how to ride: an introduction to Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://clementd.cleverapps.io/,Clément Delafargue,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://egghead.io,egghead.io,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://oleg.fi/graafi/,http://oleg.fi/graafi/,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://www.youtube.com/watch?v=Rj8ZTRVka4E,Cycle.js was built to solve problems,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API,Web Speech API,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://frontend.fi/,Frontend.fi,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://www.youtube.com/watch?v=Rj8ZTRVka4E,Cycle.js was built to solve problems,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://oleg.fi/graafi/,http://oleg.fi/graafi/,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://matrixmultiplication.xyz/,webapp,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://www.youtube.com/watch?v=1ToJ7cxb1R8,Brains as Building Blocks,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement,HTMLAudioElement,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://glebbahmutov.com/draw-cycle/,glebbahmutov.com/draw-cycle,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://cyclejs-community.github.io/built-with-cycle,A website,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://frontend.fi/,Frontend.fi,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://thenewstack.io/developers-need-know-mvi-model-view-intent/,What Developers Need to Know about MVI (Model-View-Intent),https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://cyclejs.github.io/todomvc-cycle/,example,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://glebbahmutov.com/draw-cycle/,glebbahmutov.com/draw-cycle,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://www.meetup.com/js-monthly-london/,JS Monthly London,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://www.youtube.com/watch?v=1ToJ7cxb1R8,Brains as Building Blocks,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://www.youtube.com/watch?v=9BG0Y3C6WqM,User Interfaces as Pure Functions of Time,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/,Cycle.js: a reactive framework,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://facebook.github.io/jest/,Jest,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://cyclejs-community.github.io/built-with-cycle,A website,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://cyclejs.github.io/todomvc-cycle/,example,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://www.youtube.com/watch?v=rbrnyC5fXMM,Back to the Future, Hot reloading with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://dotjs.io/,dotjs 2016,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://www.youtube.com/watch?v=-PCq4pXaDZw,From MVC to FRP,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/,Building realtime applications with CycleJS and RxJS,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://jefersondaniel.com/cyclejs-notes,https://jefersondaniel.com/cyclejs-notes,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://enten.github.io/cyclejs-calendar/example,here,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://www.youtube.com/watch?v=Rx5N99TQ52g,Cycle.js on the bash side,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://facebook.github.io/jest/,Jest,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+http://slides.com/erykpiast/cycle,Cycle.js an honestly reactive framework for web user interfaces,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://jefersondaniel.com/cyclejs-notes,https://jefersondaniel.com/cyclejs-notes,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://tommy-the-runner.github.io/cyclejs-ace-editor/,here,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://vimeo.com/175121069,Reactive Programming with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://developer.mozilla.org/en-US/docs/Web/API/History_API,History API,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://ivanjov.com/working-with-http-streams-with-cycle-js/,Working with HTTP Streams with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://www.youtube.com/watch?v=1zj7M1LnJV4,What if the user was a function?,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://vimeo.com/175121069,Reactive Programming with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://enten.github.io/cyclejs-calendar/example,here,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://www.meetup.com/js-monthly-london/,JS Monthly London,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://vimeo.com/168652278,Unidirectional data flow architectures,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://www.youtube.com/watch?v=9BG0Y3C6WqM,User Interfaces as Pure Functions of Time,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://2016.jsday.it/,JSDay 2016,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://tommy-the-runner.github.io/cyclejs-ace-editor/,here,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://deepstream.io,deepstream.io,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://www.youtube.com/watch?v=uNZnftSksYg,Cycle.js and functional reactive user interfaces,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://dotjs.io/,dotjs 2016,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://www.youtube.com/watch?v=6_ETUyh0tns,Intro to Functional Reactive Programming with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-http://slides.com/erykpiast/cycle,Cycle.js an honestly reactive framework for web user interfaces,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://www.youtube.com/watch?v=1zj7M1LnJV4,What if the user was a function?,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://www.slideshare.net/aryelukashevski/cyclejs-introduction,Intro to Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://gitter.im/cyclejs/cycle-core,Gitter chat,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
-https://egghead.io/series/cycle-js-fundamentals,Cycle.js Fundamentals,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://vimeo.com/168652278,Unidirectional data flow architectures,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://www.youtube.com/watch?v=uNZnftSksYg,Cycle.js and functional reactive user interfaces,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://www.youtube.com/watch?v=6_ETUyh0tns,Intro to Functional Reactive Programming with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs,Reactive Programming with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://raquelxmoss.github.io/cycle-color-picker,Check out the example,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 http://lmatteis.github.io/cyclejs-slides/keynote/index.html,Cycle.js - building apps with streams only,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://slides.com/artfuldev/frp-with-cycle-js,Functional Reactive Programming with Cycle.js,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
 https://clementd-files.cellar.services.clever-cloud.com/blog/frp-full-cycle-ncrafts.html,Beyond flux: going full cycle with FRP,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://gitter.im/cyclejs/cycle-core,Gitter chat,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js
+https://egghead.io/series/cycle-js-fundamentals,Cycle.js Fundamentals,https://github.com/cyclejs-community/awesome-cyclejs#readme,Cycle.js

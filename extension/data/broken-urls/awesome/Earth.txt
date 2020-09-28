@@ -1,24 +1,13 @@
-https://www.fordays.com/,For Days,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-https://www.treedom.net/,Treedom,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.thecheekypanda.co.uk,The Cheeky Panda,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw,hot from the haybox,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.dpdhl.com/en/responsibility/environment-and-solutions.html,DHL GoGreen,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://kitche.co/,Kitche,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.energystar.gov/,EnergyStar.gov,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
 https://www.blablacar.com/,BlaBlaCar,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://eorhawaii.org/2013/07/18/become-a-member/,Eyes of the Reef Hawai'i,https://github.com/philsturgeon/awesome-earth#readme,Earth error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error
-https://www.rubicon3.co.uk/,Rubicon 3,https://github.com/philsturgeon/awesome-earth#readme,Earth error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
-https://www.fairphone.com/,Fairphone,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.litterati.org/,Litterati,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://edenprojects.org/,Eden Reforestation Projects,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.climateworks.org/,ClimateWorks,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://adidas.com/parley,Adidas Parley,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar,Preserve extra food with a solar dehydrator,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.hamwells.com/,Hamwells Showers,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.bio-bean.com/,Bio Bean,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://gikibadges.com/,Giki,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/,WageWorks Bicycle Reimbursement Program,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-http://snowcarbon.co.uk/,Snow Carbon,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
-https://footprint.wwf.org.uk/,WWF UK Calculator,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
+https://www.mijnimpact.app/,Mijn Impact,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.happycow.net,Happy Cow,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://circular.berlin/,Circular Berlin,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
+https://climatechoice.co/change-how-you-travel,Change How You Travel from Climate Choice,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
+https://www.gabv.org/,Global Alliance for Banking on Values,https://github.com/philsturgeon/awesome-earth#readme,Earth error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gabv.org'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gabv.org'. (_ssl.c:1076)
+https://www.vinted.com,Vinted Used Clothes Marketplace,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.greenease.co/,Green Ease,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.greenmovi.com.br,GreenMovi,https://github.com/philsturgeon/awesome-earth#readme,Earth error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://permacultureearthworks.com/,Permaculture Earthworks Handbook,https://github.com/philsturgeon/awesome-earth#readme,Earth error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://www.permaculturewomen.com/freepermaculturecourse.html,Permaculture Women,https://github.com/philsturgeon/awesome-earth#readme,Earth error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.dpdhl.com/en/responsibility/environment-and-solutions.html,DHL GoGreen,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
+https://adidas.com/parley,Adidas Parley,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 
+https://www.planetcare.org,PlanetCare Microfibre Laundry Filters,https://github.com/philsturgeon/awesome-earth#readme,Earth error: timeout('The read operation timed out') | reason: 

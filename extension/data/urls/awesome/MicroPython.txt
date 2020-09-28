@@ -1,49 +1,44 @@
 https://awesome-micropython.com/,,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-http://micropython.org/newsletter,MicroPython Newsletter,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/olivier.len02/micropython-multiaxis,micropython-multiaxis,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-http://micropython.org/,MicroPython,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-ili9341,micropython-ili9341,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/nickoala/micropython-mtx,micropython-mtx,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/robhamerling/micropython-tm1640,micropython-tm1640,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://store.micropython.org/,MicroPython Store,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/oscarBravo/wipy_bme280,wipy_bme280,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/nickoala/micropython-vec,micropython-vec,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/peterzuger/tlc5947-rgb-micropython,tlc5947-rgb-micropython,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://en.wikipedia.org/wiki/MicroPython,MicroPython on Wikipedia,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-gp2y0e03,micropython-gp2y0e03,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://www.meetup.com/en-AU/MicroPython-Meetup,Melbourne MicroPython Meetup,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/alphaaomega/micropython-spacecan,micropython-spacecan,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://plugins.jetbrains.com/plugin/9777-micropython,JetBrains MicroPython Plugin,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-oled,micropython-oled,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://slack-micropython.herokuapp.com/,Slack,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/aapjeisbaas/micropython-home-assistant,micropython-home-assistant,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-vl53l0x,micropython-vl53l0x,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode,Micropython IDE for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-ads1015,micropython-ads1015,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-vl6180,micropython-vl6180,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink,Micropython-REPLink for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://discord.gg/5GjKNE,Discord,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://micropython.org/webrepl,webrepl,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/WiLED-Project/ubutton,ubutton,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/zepl1/zepl,zepl,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/nnayo/micropython-fusion,micropython-fusion,https://github.com/mcauser/awesome-micropython#readme,MicroPython
 https://gitlab.com/cediddi/micropython-pcf8591,micropython-pcf8591,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://codewith.mu/,Mu Editor,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/alelec/jupyter_micropython_remote,jupyter_micropython_remote,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://thonny.org/,Thonny IDE,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-max31855,micropython-max31855,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/WiLED-Project/upwmcontroller,upwmcontroller,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/extel-open-source/micropython-modbus,micropython-modbus,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://gitlab.com/WiLED-Project/uencoder,uencoder,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-si7021,micropython-si7021,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-http://shop.oreilly.com/product/0636920056515.do,Programming with MicroPython: Embedded Programming with Microcontrollers and Python,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers,MicroPython Kickstarter,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://bitbucket.org/thesheep/micropython-pca9685,micropython-pca9685,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://www.apress.com/gp/book/9781484231227,MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://forum.micropython.org/,MicroPython Forum,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot,MicroPython on the ESP8266 Kickstarter,https://github.com/mcauser/awesome-micropython#readme,MicroPython
-https://www.facebook.com/micropython,MicroPython on Facebook,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink,Micropython-REPLink for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+http://micropython.org/,MicroPython,https://github.com/mcauser/awesome-micropython#readme,MicroPython
 https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537,Python for Microcontrollers: Getting Started with MicroPython,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://codewith.mu/,Mu Editor,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/WiLED-Project/upwmcontroller,upwmcontroller,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://micropython.org/webrepl,webrepl,https://github.com/mcauser/awesome-micropython#readme,MicroPython
 https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937,Advanced Programming in MicroPython By Example,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython,PyPi,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/WiLED-Project/uencoder,uencoder,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://thonny.org/,Thonny IDE,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/zepl1/zepl,zepl,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://forum.micropython.org/,MicroPython Forum,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip,MicroPython docs,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.packtpub.com/au/iot-hardware/micropython-projects,MicroPython Projects,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/alelec/jupyter_micropython_remote,jupyter_micropython_remote,https://github.com/mcauser/awesome-micropython#readme,MicroPython
 http://docs.micropython.org/,MicroPython Official Documentation,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/olivier.len02/micropython-multiaxis,micropython-multiaxis,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/extel-open-source/micropython-modbus,micropython-modbus,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers,MicroPython Kickstarter,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://libraries.io/search?q=micropython,Libraries.io,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.facebook.com/micropython,MicroPython on Facebook,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/explore?sort=latest_activity_desc&utf8=%E2%9C%93&name=micropython&sort=latest_activity_desc,GitLab Explore,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot,MicroPython on the ESP8266 Kickstarter,https://github.com/mcauser/awesome-micropython#readme,MicroPython
 http://wiki.micropython.org/Home,MicroPython Wiki,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/robhamerling/micropython-tm1640,micropython-tm1640,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/nickoala/micropython-mtx,micropython-mtx,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+http://micropython.org/newsletter,MicroPython Newsletter,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/peterzuger/tlc5947-rgb-micropython,tlc5947-rgb-micropython,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/nickoala/micropython-vec,micropython-vec,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://store.micropython.org/,MicroPython Store,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/alphaaomega/micropython-spacecan,micropython-spacecan,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.meetup.com/en-AU/MicroPython-Meetup,Melbourne MicroPython Meetup,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://en.wikipedia.org/wiki/MicroPython,MicroPython on Wikipedia,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://plugins.jetbrains.com/plugin/9777-micropython,JetBrains MicroPython Plugin,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/aapjeisbaas/micropython-home-assistant,micropython-home-assistant,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/nnayo/micropython-fusion,micropython-fusion,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode,Micropython IDE for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://gitlab.com/WiLED-Project/ubutton,ubutton,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://discord.gg/qw7d8bv,Discord,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+http://shop.oreilly.com/product/0636920056515.do,Programming with MicroPython: Embedded Programming with Microcontrollers and Python,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.apress.com/gp/book/9781484231227,MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers,https://github.com/mcauser/awesome-micropython#readme,MicroPython
+https://www.packtpub.com/au/application-development/micropython-cookbook,MicroPython Cookbook,https://github.com/mcauser/awesome-micropython#readme,MicroPython

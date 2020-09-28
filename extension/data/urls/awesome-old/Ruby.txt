@@ -1,0 +1,82 @@
+https://awesome-ruby.com,,https://github.com/markets/awesome-ruby#readme,Ruby
+http://antpaw.github.io/bhf/,bhf,https://github.com/markets/awesome-ruby#readme,Ruby
+http://jsonapi-rb.org,jsonapi-rb,https://github.com/markets/awesome-ruby#readme,Ruby
+https://rails-assets.org,Rails Assets,https://github.com/markets/awesome-ruby#readme,Ruby
+http://sass-lang.com,Sass,https://github.com/markets/awesome-ruby#readme,Ruby
+http://redis-store.org/,redis-store,https://github.com/markets/awesome-ruby#readme,Ruby
+http://cmdparse.gettalong.org,cmdparse,https://github.com/markets/awesome-ruby#readme,Ruby
+http://whatisthor.com,Thor,https://github.com/markets/awesome-ruby#readme,Ruby
+https://alchemy-cms.com,Alchemy CMS,https://github.com/markets/awesome-ruby#readme,Ruby
+http://camaleon.tuzitio.com/,Camaleon CMS,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.locomotivecms.com,LocomotiveCMS,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.pushtype.org/,PushType,https://github.com/markets/awesome-ruby#readme,Ruby
+http://radiantcms.org,Radiant,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.refinerycms.com,Refinery CMS,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.spinacms.com,Spina CMS,https://github.com/markets/awesome-ruby#readme,Ruby
+http://ruby-operators.herokuapp.com/,Ruby Operators,https://github.com/markets/awesome-ruby#readme,Ruby
+https://smashing.github.io/,Smashing,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.kiba-etl.org,Kiba,https://github.com/markets/awesome-ruby#readme,Ruby
+http://ankane.github.io/chartkick/,Chartkick,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.vagrantup.com,Vagrant,https://github.com/markets/awesome-ruby#readme,Ruby
+https://asciidoctor.org,Asciidoctor,https://github.com/markets/awesome-ruby#readme,Ruby
+http://yardoc.org,YARD,https://github.com/markets/awesome-ruby#readme,Ruby
+https://mailcatcher.me,MailCatcher,https://github.com/markets/awesome-ruby#readme,Ruby
+https://4commerce-technologies-ag.github.io/midi-smtp-server/,MidiSmtpServer,https://github.com/markets/awesome-ruby#readme,Ruby
+https://truemail-rb.org/truemail-gem,Truemail,https://github.com/markets/awesome-ruby#readme,Ruby
+http://rocketjob.github.io/symmetric-encryption/,Symmetric Encryption,https://github.com/markets/awesome-ruby#readme,Ruby
+https://rvm.io,RVM,https://github.com/markets/awesome-ruby#readme,Ruby
+https://bitbucket.org/jonforums/uru,Uru,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.libgosu.org,Gosu,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.zenspider.com/projects/hoe.html,Hoe,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.alchemists.io/projects/git-lint,Git Lint,https://github.com/markets/awesome-ruby#readme,Ruby
+http://ruby-gnome2.sourceforge.jp/,RubyGnome2,https://github.com/markets/awesome-ruby#readme,Ruby
+http://shoesrb.com,Shoes,https://github.com/markets/awesome-ruby#readme,Ruby
+https://nokogiri.org,Nokogiri,https://github.com/markets/awesome-ruby#readme,Ruby
+https://gitlab.com/yorickpeterse/oga,Oga,https://github.com/markets/awesome-ruby#readme,Ruby
+https://gitlab.com/honeyryderchuck/httpx,HTTPX,https://github.com/markets/awesome-ruby#readme,Ruby
+http://rib.godfat.org,rib,https://github.com/markets/awesome-ruby#readme,Ruby
+https://rocketjob.github.io/semantic_logger/,Semantic Logger,https://github.com/markets/awesome-ruby#readme,Ruby
+http://kschiess.github.io/parslet/,Parslet,https://github.com/markets/awesome-ruby#readme,Ruby
+http://neo4jrb.io,Neo4j.rb,https://github.com/markets/awesome-ruby#readme,Ruby
+https://bundler.io,Bundler,https://github.com/markets/awesome-ruby#readme,Ruby
+http://phusion.github.io/traveling-ruby/,Traveling Ruby,https://github.com/markets/awesome-ruby#readme,Ruby
+https://ddnexus.github.io/pagy/index,Pagy Wiki,https://github.com/markets/awesome-ruby#readme,Ruby
+http://instrumentalapp.com,Instrumental,https://github.com/markets/awesome-ruby#readme,Ruby
+http://rocketjob.io,RocketJob,https://github.com/markets/awesome-ruby#readme,Ruby
+https://sidekiq.org,Sidekiq,https://github.com/markets/awesome-ruby#readme,Ruby
+http://artoo.io,Artoo,https://github.com/markets/awesome-ruby#readme,Ruby
+http://beefproject.com,BeEF,https://github.com/markets/awesome-ruby#readme,Ruby
+https://thredded.org,Thredded,https://github.com/markets/awesome-ruby#readme,Ruby
+http://documentcloud.github.io/docsplit,Docsplit,https://github.com/markets/awesome-ruby#readme,Ruby
+http://middlemanapp.com,Middleman,https://github.com/markets/awesome-ruby#readme,Ruby
+http://nanoc.ws/,Nanoc,https://github.com/markets/awesome-ruby#readme,Ruby
+http://webgen.gettalong.org,webgen,https://github.com/markets/awesome-ruby#readme,Ruby
+http://test-unit.github.io,Test::Unit,https://github.com/markets/awesome-ruby#readme,Ruby
+http://fabricationgem.org/,Fabrication,https://github.com/markets/awesome-ruby#readme,Ruby
+http://octokit.github.io/octokit.rb,Octokit,https://github.com/markets/awesome-ruby#readme,Ruby
+http://cuba.is,Cuba,https://github.com/markets/awesome-ruby#readme,Ruby
+https://hyperstack.org/,Hyperstack,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.padrinorb.com,Padrino,https://github.com/markets/awesome-ruby#readme,Ruby
+https://pakyow.com/,Pakyow,https://github.com/markets/awesome-ruby#readme,Ruby
+http://ramaze.net/,Ramaze,https://github.com/markets/awesome-ruby#readme,Ruby
+http://roda.jeremyevans.net/,Roda,https://github.com/markets/awesome-ruby#readme,Ruby
+http://scorchedrb.com,Scorched,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.sinatrarb.com,Sinatra,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.phusionpassenger.com,Phusion Passenger,https://github.com/markets/awesome-ruby#readme,Ruby
+http://rack.github.io,Rack,https://github.com/markets/awesome-ruby#readme,Ruby
+http://unicorn.bogomips.org,Unicorn,https://github.com/markets/awesome-ruby#readme,Ruby
+http://anycable.io,AnyCable,https://github.com/markets/awesome-ruby#readme,Ruby
+http://faye.jcoglan.com/ruby.html,Faye,https://github.com/markets/awesome-ruby#readme,Ruby
+https://hakiri.io,Hakiri,https://github.com/markets/awesome-ruby#readme,Ruby
+https://inch-ci.org/,Inch CI,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.sideci.com,SideCI,https://github.com/markets/awesome-ruby#readme,Ruby
+https://travis-ci.com,Travis CI.com,https://github.com/markets/awesome-ruby#readme,Ruby
+https://vexor.io,Vexor CI,https://github.com/markets/awesome-ruby#readme,Ruby
+https://ruby.libhunt.com,Awesome Ruby @LibHunt,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.opensourcerails.com/,Open Source Rails,https://github.com/markets/awesome-ruby#readme,Ruby
+http://rubydaily.org,RubyDaily,https://github.com/markets/awesome-ruby#readme,Ruby
+http://www.rubyflow.com,RubyFlow,https://github.com/markets/awesome-ruby#readme,Ruby
+http://rubyland.news/,Ruby Land,https://github.com/markets/awesome-ruby#readme,Ruby
+https://devchat.tv/ruby-rogues,Ruby Rogues,https://github.com/markets/awesome-ruby#readme,Ruby
+https://rubybib.org,The Ruby Bibliography,https://github.com/markets/awesome-ruby#readme,Ruby
+https://www.ruby-toolbox.com,The Ruby Toolbox,https://github.com/markets/awesome-ruby#readme,Ruby

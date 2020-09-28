@@ -1,67 +1,68 @@
 https://www.youtube.com/watch?v=sPkeeWnsMn0,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://medium.com/@cmcorrales3/natural-language-processing-and-tweet-sentiment-analysis-fa1edbb5ddd5,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://colindrake.me/post/k-means-clustering-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://www.gingersoftware.com/,Ginger,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.youtube.com/watch?v=T1nFQ49TyeA,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://colindrake.me/post/k-means-clustering-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://www.ruby-lang.org/en/,,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://hunspell.github.io/,Hunspell,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.rubyguides.com/2015/09/ngram-analysis-ruby/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://www.thagomizer.com/blog/2017/04/13/the-google-nlp-api-meets-ruby.html,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://en.wikipedia.org/wiki/Natural_language_processing,NLP,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/,explanations,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://medium.com/@cmcorrales3/natural-language-processing-and-tweet-sentiment-analysis-fa1edbb5ddd5,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://en.wikipedia.org/wiki/Computational_linguistics,Computational Linguistics,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://rubywordcount.com/,Words Counted,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://ealdent.wordpress.com/2009/07/16/porting-the-uea-lite-stemmer-to-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://www.thagomizer.com/files/NLP_RailsConf2017.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://ealdent.wordpress.com/2009/09/13/nlp-resources-for-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.youtube.com/watch?v=T1nFQ49TyeA,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://en.wikipedia.org/wiki/Language_technology,HLT,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://skillsmatter.com/skillscasts/4883-how-to-parse-go,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://wordnet.princeton.edu/,Princeton WordNet®,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://en.wikipedia.org/wiki/Text_mining,Text Mining,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://yohasebe.com/rsyntaxtree/,RSyntaxTree,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,LDA,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708,link,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://wortschatz.uni-leipzig.de/en/download,SentiWS,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.rubyguides.com/2015/09/ngram-analysis-ruby/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://en.wikipedia.org/wiki/Knowledge_extraction,Knowledge Extraction,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.sitepoint.com/natural-language-processing-ruby-n-grams/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.amazon.de/Scripting-Intelligence-Information-Gathering-Processing/dp/1430223510,link,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://www.lulu.com/shop/mark-watson/practical-semantic-web-and-linked-data-applications-java-edition/paperback/product-10915016.html,link,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://skillsmatter.com/skillscasts/4883-how-to-parse-go,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://www.thagomizer.com/blog/2017/04/13/the-google-nlp-api-meets-ruby.html,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://ealdent.wordpress.com/2009/07/16/porting-the-uea-lite-stemmer-to-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://wordnet.princeton.edu/,Princeton WordNet®,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://opennlp.apache.org/,OpenNLP,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://glaucocustodio.github.io/2014/11/10/natural-language-parsing-with-ruby/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://guides.rubyonrails.org/active_record_basics.html,Active Record,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.youtube.com/watch?v=2ZDCxwB29Bg,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://zenmachine.wordpress.com/practical-text-classification-with-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.youtube.com/watch?v=5u86qVh8r0M,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on,Reddit,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.youtube.com/watch?v=oFmy_QBQ5DU,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://blog.honeybadger.io/ruby_unicode_normalization/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://developers.google.com/api-client-library/ruby/,Google,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D,Stack Overflow,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://benoithamelin.tumblr.com/ruby1line,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://disu.se/software/u-1.0/,u,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://deveiate.org/resume.html,Michael Granger,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-http://sciruby.com/,Scientific Ruby,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/,explanations,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://ealdent.wordpress.com/2009/09/13/nlp-resources-for-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://rubywordcount.com/,Words Counted,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://www.thagomizer.com/files/NLP_RailsConf2017.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://wortschatz.uni-leipzig.de/de,Wortschatz Leipzig,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,LDA,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://rubygems.org/gems/stanfordparser,stanfordparser,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://aonemd.github.io/blog/extracting-text-from-images-using-ruby,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://zenmachine.wordpress.com/practical-text-classification-with-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://yohasebe.com/rsyntaxtree/,RSyntaxTree,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://guides.rubyonrails.org/active_record_basics.html,Active Record,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://en.wikipedia.org/wiki/Earley_parser,Earley,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708,link,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.amazon.de/Scripting-Intelligence-Information-Gathering-Processing/dp/1430223510,link,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://developers.google.com/api-client-library/ruby/,Google,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://deveiate.org/resume.html,Michael Granger,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.sitepoint.com/natural-language-processing-ruby-n-grams/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://www.lulu.com/shop/mark-watson/practical-semantic-web-and-linked-data-applications-java-edition/paperback/product-10915016.html,link,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://disu.se/software/u-1.0/,u,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 https://deveiate.org/misc/Speak-My-Language.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://imagemagick.org/index.php,ImageMagick,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
-https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://aonemd.github.io/blog/extracting-text-from-images-using-ruby,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/,write-up,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
 http://juixe.com/papers/RubyConf2006.pdf,write-up,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://blog.honeybadger.io/ruby_unicode_normalization/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://benoithamelin.tumblr.com/ruby1line,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on,Reddit,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D,Stack Overflow,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://sciruby.com/,Scientific Ruby,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+http://glaucocustodio.github.io/2014/11/10/natural-language-parsing-with-ruby/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://imagemagick.org/index.php,ImageMagick,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.youtube.com/watch?v=2ZDCxwB29Bg,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.youtube.com/watch?v=5u86qVh8r0M,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby
+https://www.youtube.com/watch?v=oFmy_QBQ5DU,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby

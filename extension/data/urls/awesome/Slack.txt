@@ -1,17 +1,15 @@
-https://api.slack.com/community,Community-built integrations,https://github.com/matiassingers/awesome-slack#readme,Slack
 http://slackthemes.net/,Slackthemes,https://github.com/matiassingers/awesome-slack#readme,Slack
 http://sweetthemesaremadeofthe.se/,Sweet Themes are Made of These,https://github.com/matiassingers/awesome-slack#readme,Slack
-https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview,Atlassian Stash,https://github.com/matiassingers/awesome-slack#readme,Slack
-https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/,Datadog,https://github.com/matiassingers/awesome-slack#readme,Slack
-https://bitbucket.org/AlexanderBartash/slack-client/wiki/Home,slack-client,https://github.com/matiassingers/awesome-slack#readme,Slack
 http://yeoman.io/,Yeoman,https://github.com/matiassingers/awesome-slack#readme,Slack
+https://packagist.org/packages/threadmeup/slack-sdk,slack-sdk,https://github.com/matiassingers/awesome-slack#readme,Slack
+https://api.slack.com/community,Community-built integrations,https://github.com/matiassingers/awesome-slack#readme,Slack
+https://bitbucket.org/simes/wordpress-slack-notifier-plugin,wordpress-slack-notifier-plugin,https://github.com/matiassingers/awesome-slack#readme,Slack
+https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/,Datadog,https://github.com/matiassingers/awesome-slack#readme,Slack
+https://pypi.python.org/pypi/slackclient/0.13,pypi,https://github.com/matiassingers/awesome-slack#readme,Slack
+http://mts.io,Matias Singers,https://github.com/matiassingers/awesome-slack#readme,Slack
 https://www.drupal.org/project/slack,Drupal,https://github.com/matiassingers/awesome-slack#readme,Slack
 http://davestevens.github.io/slack-message-builder/,Slack Message Builder,https://github.com/matiassingers/awesome-slack#readme,Slack
 https://sscaas.eu/,Slack Slash Commands as a Service,https://github.com/matiassingers/awesome-slack#readme,Slack
-https://packagist.org/packages/threadmeup/slack-sdk,slack-sdk,https://github.com/matiassingers/awesome-slack#readme,Slack
 http://slacker.nathanhoad.net/,Slacker,https://github.com/matiassingers/awesome-slack#readme,Slack
-https://bitbucket.org/simes/wordpress-slack-notifier-plugin,wordpress-slack-notifier-plugin,https://github.com/matiassingers/awesome-slack#readme,Slack
 https://wordpress.org/plugins/slack/,Wordpress Plugin: Slack,https://github.com/matiassingers/awesome-slack#readme,Slack
 https://wordpress.org/plugins/bbpress-slack-integration/,Wordpress Plugin: bbPress Slack,https://github.com/matiassingers/awesome-slack#readme,Slack
-https://pypi.python.org/pypi/slackclient/0.13,pypi,https://github.com/matiassingers/awesome-slack#readme,Slack
-http://mts.io,Matias Singers,https://github.com/matiassingers/awesome-slack#readme,Slack

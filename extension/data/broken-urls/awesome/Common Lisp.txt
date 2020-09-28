@@ -1,3 +1,8 @@
-https://chat.lisp.cl/,chat.lisp.cl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://bitbucket.org/alessiostalla/doplus/wiki/Home,doplus,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/tarballs_are_good/template,template,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://jasom.github.io/clack-tutorial/pages/getting-started-with-clack/,getting started guide,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://ide.judge0.com/?lUpj,Judge0 IDE,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://sites.google.com/site/sabraonthehill/comparison-of-lisp-logging-libraries,extensive comparison of logging libraries,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ide.judge0.com/?lUpj,Judge0 IDE,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://bitbucket.org/budden/budden-tools/src/default/cl-advice/?at=default,cl-advice,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/tarballs_are_good/interface,interface,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://chat.lisp.cl/,chat.lisp.cl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

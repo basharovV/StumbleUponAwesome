@@ -5,11 +5,11 @@ http://well-formed-data.net/archives/1210/little-boxes,Well Formed Data,https://
 http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm,jqxChart,https://github.com/zingchart/awesome-charting#readme,Charting
 https://JSCharting.com/,JSCharting,https://github.com/zingchart/awesome-charting#readme,Charting
 http://numberpicture.com/build,Potion,https://github.com/zingchart/awesome-charting#readme,Charting
-http://www.zingchart.com,ZingChart,https://github.com/zingchart/awesome-charting#readme,Charting
-https://naver.github.io/billboard.js/,Billboard.js,https://github.com/zingchart/awesome-charting#readme,Charting
 http://recharts.org,recharts,https://github.com/zingchart/awesome-charting#readme,Charting
-http://morrisjs.github.io/morris.js,Morris.js,https://github.com/zingchart/awesome-charting#readme,Charting
+http://www.zingchart.com,ZingChart,https://github.com/zingchart/awesome-charting#readme,Charting
 http://datavizcatalogue.com,Dataviz Catalogue,https://github.com/zingchart/awesome-charting#readme,Charting
+https://naver.github.io/billboard.js/,Billboard.js,https://github.com/zingchart/awesome-charting#readme,Charting
+http://morrisjs.github.io/morris.js,Morris.js,https://github.com/zingchart/awesome-charting#readme,Charting
 http://www.rgraph.net/,rgraph,https://github.com/zingchart/awesome-charting#readme,Charting
 http://jtblin.github.io/angular-chart.js,Angular-Chart,https://github.com/zingchart/awesome-charting#readme,Charting
 http://www.flotcharts.org/,Flot,https://github.com/zingchart/awesome-charting#readme,Charting

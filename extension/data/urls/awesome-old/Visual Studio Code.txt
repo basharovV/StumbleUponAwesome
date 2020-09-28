@@ -1,0 +1,256 @@
+https://code.visualstudio.com/download,Releases (stable channel),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://code.visualstudio.com/insiders,Releases (insiders channel),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino,Arduino,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=kagof.befunge,Befunge,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=melmass.blink,Blink,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language,Bolt,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=yiwwan.vscode-bond,Bond,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=twxs.cmake,CMake,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code,Dart,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker,Dockerfile,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support,EJS,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir,Elixir,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang,Erlang,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp,F#,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=gaborv.flatbuffers,Flatbuffers,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran,Fortran,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack,Hack(HHVM),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars,Handlebars,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql,Hive SQL,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=julialang.language-julia,Julia,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=melmass.kl,KL,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin,Kotlin,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support,LaTeX,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason,Mason,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=openhab.openhab,openHAB,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=viatsko.parser3,Parser 3,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal,Pascal,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal,OmniPascal,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template,Perl HTML-Template,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray,POV-Ray,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=peterj.proto,Protobuf,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=groksrc.ruby,Ruby,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=scala-lang.scala,Scala,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=slevesque.shader,Shaders (HLSL, GLSL, Cg),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus,Stylus,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Kasik96.swift,Swift,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=melmass.vex,VEX,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir,Zephir,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vscodevim.vim,Migrating from Vim,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings,Migrating from Atom,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings,Migrating from Sublime Text,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings,Migrating from Visual Studio,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings,Migrating from Intellij IDEA,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html,Camel Humps,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://code.visualstudio.com/Docs/languages/overview,Languages,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl,1C/OScript,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus,AutoHotkey Plus,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode,Bash IDE,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug,Bash Debug,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Remisa.shellman,Shellman,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools,C/C++,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://www.microsoft.com,Microsoft,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/,official blog post,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd,Clangd,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global,gnu-global-tags,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me,YouCompleteMe,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+http://ycm-core.github.io/YouCompleteMe/,YouCompleteMe,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/,Microsoft's tutorial on using VSCode for remote C/C++ development,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp,C#,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://code.visualstudio.com/docs/languages/csharp,official documentation,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat,C# FixFormat,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions,C# Extensions,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools,MSBuild Project Tools,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer,VSCode Solution Explorer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer,.NET Core Test Explorer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva,Calva,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek,CSS Peek,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint,stylelint,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer,Autoprefixer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion,Intellisense for CSS class names,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=golang.Go,Go,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint,VsCode Groovy Lint,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter,haskell-linter,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server,Haskell IDE engine,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell,autocomplate-shell,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=redhat.java,Language Support for Java(TM) by Red Hat,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug,Debugger for Java,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven,Maven for Java,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok,Lombok,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel,Babel JavaScript,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode,Visual Studio IntelliCode,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin,tslint,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint,eslint,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo,XO,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=samverschueren.ava,AVA,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode,Prettier,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org,Schema.org Snippets,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://schema.org/,Schema.org,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker,Code Spell Checker,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=octref.vetur,Vetur,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome,Debugger for Chrome,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode,Flow Language Support,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide,vscode-flow-ide,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=eg2.tslint,tslint,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero,TypeScript Hero,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint,markdownlint,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one,Markdown All in One,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji,Markdown Emoji,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client,PHP Intelephense,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense,PHP IntelliSense,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets,Laravel 5 Snippets,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade,Laravel Blade Snippets,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets,Laravel Model Snippets,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan,Laravel Artisan,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv,DotENV,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2,Twig Language 2,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support,Smarty Template Support,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php,Format HTML in PHP,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ikappas.composer,Composer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug,PHP Debug,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker,PHP DocBlocker,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer,php cs fixer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs,phpcs,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt,phpfmt,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code,Configuring Visual Studio Code for Drupal,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vahidk.tensorflow-snippets,TensorFlow Snippets,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode,ReasonML,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=rust-lang.rust,Rust,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform,Terraform,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=bencoleman.armview,ARM Template Viewer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb,Azure Cosmos DB,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit,Azure IoT Toolkit,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks,Bookmarks,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext,Color Tabs,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests,Create tests,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy,Deploy,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate,Duplicate Action,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens,Error Lens,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets,ES7 React/Redux/GraphQL/React-Native snippets,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi,Gi,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs,GistPad,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory,Git History,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager,Git Project Manager,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink,GitLink,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens,GitLens,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators,Git Indicators,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github,GitHub,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor,GitHub Pull Request Monitor,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow,GitLab Workflow,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle,Gradle Tasks,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts,Icon Fonts,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost,Import Cost,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode,Jira and Bitbucket,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations,JS Parameter Annotations,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy,Jumpy,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban,Kanban,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer,Live Server,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip,Multiple clipboards,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode,ngrok for VSCode,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally,i18n Ally,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown,Instant Markdown,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense,npm Intellisense,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints,Parameter Hints,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff,Partial Diff,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype,Paste JSON as Code,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense,Path IntelliSense,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools,Power Tools,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode,PrintCode,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager,Project Manager,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard,Project Dashboard,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack,Remote Development,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode,Remote VSCode,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client,REST Client,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools,Text Power Tools,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree,Todo Tree,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes,Toggle Quotes,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin,Typescript Destructure,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime,WakaTime,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=samverschueren.yo,Yo,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing,Timing,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=wwm.better-align,Better Align,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag,Auto Close Tag,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag,Auto Rename Tag,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify,beautify,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug,html2pug,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes,ECMAScript Quotes Transformer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent,Paste and Indent,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines,Sort Lines,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround,Surround,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection,Wrap Selection,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle,Formatting Toggle,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer,Bracket Pair Colorizer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=steoates.autoimport,Auto Import,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate,Vscode Google Translate,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc,City Lights Icons,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons,VSCode Icons,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons,Seti Icons,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme,Material Icon Theme,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview,Browser Preview,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad,CodeRoad,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner,Code Runner,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode,Code Time,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight,Color Highlight,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer,Output Colorizer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash,Dash,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell,Edit with Shell Command,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig,Editor Config for VS Code,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync,ftp-sync,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag,Highlight JSX/HTML tags,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow,Indent Rainbow,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-iterm2-theme-sync,iTerm2 Theme Sync,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio,PlatformIO,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=pnp.polacode,Polacode,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh,carbon-now-sh,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode,Quokka,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=mattn.Runner,Runner,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=sozercan.slack,Slack,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype,SmoothType,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify,Spotify,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=jock.svg,SVG,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer,SVG Viewer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker,Text Marker (Highlighter),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn,ESDOC MDN,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator,Interface generator,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/Endormi.2077-theme,2077 theme by Endormi,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode,An Old Hope Theme by Dustin Sanders,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/wart.ariake-dark,Ariake Dark by wart,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/akamud.vscode-theme-onedark,Atom One Dark Theme by Mahmoud Ali,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme,Atomize by emroussel,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/teabyii.ayu,Ayu by teabyii,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/eckertalex.borealis,Borealis Theme by Alexander Eckert,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/ultradracula.captain-sweetheart,Captain Sweetheart by ultradracula,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/Yummygum.city-lights-theme,City Lights by Yummygum,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/wesbos.theme-cobalt2,Cobalt2 Theme Official by Wes Bos,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/dracula-theme.theme-dracula,Dracula Official by Dracula Theme,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/bogdanlazar.edge,Edge by Bogdan Lazar,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/fisheva.eva-theme,Eva Theme by fisheva,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/nopjmp.fairyfloss,Fairy Floss by nopjmp and sailorhg,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/thomaspink.theme-github,GitHub Theme by Thomas Pink,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/DimitarNonov.jellybeans-theme,Jellybeans Theme by Dimitar Nonov,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/whizkydee.material-palenight-theme,Material Palenight Theme by whizkydee,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/Equinusocio.vsc-material-theme,Material Theme by Mattia Astorino,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/u29dc.mno,Mno by u29dc,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode,Monokai Oblique by pushqrdx,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode,,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode,Monokai Pro by monokai (commercial),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/sdras.night-owl,Night Owl by Sarah Drasner,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=sdras.night-owl,,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/will-stone.plastic,Plastic by Will Stone,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code,Nord by arcticicestudio,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/daylerees.rainglow,Rainglow by Dayle Rees,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/mischah.relaxed-theme,Relaxed Theme by Michael Kühnel,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/ahmadawais.shades-of-purple,Shades of Purple by Ahmad Awais,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/smlombardi.slime,Slime Theme by smlombardi,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/selfrefactor.niketa-theme,Niketa Theme by Dejan Toteff,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments,Better Comments,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://code.visualstudio.com/docs/extensions/overview,Extending Visual Studio Code,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://code.visualstudio.com/docs,Official Documentation,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare,Live Share,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://tmtheme-editor.herokuapp.com/,Online TextMate Themes Editor,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://code.visualstudio.com/docs/extensions/yocode,Yo Code,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://themer.dev,Themer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced,Mark down preview,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple,Shades of Purple theme,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscode.pro/,VSCode.pro,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://viatsko.me,Valerii Iatsko,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code

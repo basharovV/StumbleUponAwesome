@@ -1,0 +1,1 @@
+https://discotek.ca/deepdive.xhtml,Deep Dive,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable

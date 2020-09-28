@@ -1,0 +1,88 @@
+https://gitter.im/sobolevn/awesome-cryptography?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.codetriage.com/sobolevn/awesome-cryptography,,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/Triple_DES,3DES,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/Advanced_Encryption_Standard,AES,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/Blowfish_(cipher),Blowfish,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/RSA_(cryptosystem),RSA,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://docs.ironcorelabs.com/concepts/transform-encryption,Transform Encryption (aka Proxy Re-Encryption),https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/MD5,MD5,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/SHA-1,SHA1,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://en.wikipedia.org/wiki/SHA-2,SHA2,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages,How to Generate Secure Random Numbers in Various Programming Languages,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.netlogix.at/news/artikel/password-insecurity-part-1/,Password Insecurity,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple,Secure Account Recovery Made Simple,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.math.brown.edu/~jhs/MathCryptoHome.html,An Introduction to Mathematical Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.schneier.com/books/cryptography_engineering/,Cryptography Engineering,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://cacr.uwaterloo.ca/hac/index.html,Handbook of Applied Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.cs.umd.edu/~jkatz/imc.html,Introduction to Modern Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.feistyduck.com/library/openssl-cookbook/,OpenSSL Cookbook,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://cryptobook.nakov.com,Practical Cryptography for Developers,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.manning.com/books/real-world-cryptography/,Real World Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.cl.cam.ac.uk/~rja14/book.html,Security Engineering,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://nostarch.com/seriouscrypto,Serious Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://simonsingh.net/books/the-code-book/,The Code Book,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://unglue.it/work/141611/,The Cryptoparty Handbook,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.schneier.com/academic/paperfiles/paper-self-study.pdf,A Self-Study Course In Block-Cipher Cryptanalysis,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.udacity.com/course/applied-cryptography--cs387,Applied Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.youtube.com/watch?v=ySQl0NhW1J0,Crypto Strikes Back!,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.coursera.org/learn/cryptography,Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://online.stanford.edu/course/cryptography,Cryptography - Stanford University,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.cybrary.it/course/cryptography/,Cybrary Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.khanacademy.org/computing/computer-science/cryptography,Journey into cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://courses.cs.washington.edu/courses/csep590/06wi/,Practical Aspects of Modern Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.youtube.com/watch?v=ZDnShu5V99s,Theory and Practice of Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://bcrypt.sourceforge.net/,Bcrypt,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.gnupg.org/,gpg,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://ves.host/docs/ves-util,ves,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://sobolevn.github.io/git-secret/,git-secret,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://directory.fsf.org/wiki/Libgcrypt,libgcrypt,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://monocypher.org,monocypher,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://nacl.cr.yp.to/,NaCl,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://tls.mbed.org/,PolarSSL,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://botan.randombit.net/,Botan,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.lysator.liu.se/~nisse/nettle/,Nettle,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://bouncycastle.org/csharp/index.html,Bouncy Castle,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model,Microsoft .NET Framework Cryptography Model,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://funcool.github.io/buddy-core/latest/,buddy-core,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://method-combination.net/lisp/ironclad/,ironclad,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://sourceforge.net/projects/tplockbox/,LockBox,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://bitbucket.org/sergworks/tforge,TForge,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://erlang.org/doc/apps/crypto/,crypto,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://erlang.org/doc/man/public_key.html,public_key,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://golang.org/pkg/crypto/,crypto,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://wiki.haskell.org/Applications_and_libraries/Cryptography,Cryptography & Hashing,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://hackage.haskell.org/package/cryptonite,Cryptonite,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://lib.haxe.org/p/haxe-crypto/,haxe-crypto,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://docs.ironcorelabs.com/ironnode-sdk/overview,IronNode,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://docs.ironcorelabs.com/ironweb-sdk/overview,IronWeb,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://shiro.apache.org/,Apache Shiro,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.bouncycastle.org/java.html,Bouncy Castle,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.flexiprovider.de/,Flexiprovider,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.mindrot.org/projects/jBCrypt/,jbcrypt,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://abstractj.github.io/kalium/,Project Kalium,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://paragonie.com/project/halite,halite,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://cryptography.io/en/latest/,cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://sourceforge.net/projects/cryptopy/,cryptopy,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://hashids.org,hashids,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.paramiko.org/,paramiko,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://opensource.apple.com/source/CommonCrypto/,CommonCrypto,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://blog.cryptographyengineering.com/,A Few Thoughts on Cryptographic Engineering,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://bristolcrypto.blogspot.co.uk/,Bristol Cryptography Blog,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://blog.engelke.com/tag/webcrypto/,Charles Engelke's Blog,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://rdist.root.org/,Root Labs rdist,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://blog.ironcorelabs.com,Salty Hash,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.schneier.com/,Schneier on security,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.metzdowd.com/mailman/listinfo/cryptography,metzdowd.com,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://moderncrypto.org/,Modern Crypto,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://lists.randombit.net/mailman/listinfo/cryptography,randombit.net,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.boxentriq.com/code-breaking,Boxentriq,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://manansingh.github.io/Cryptolab-Offline/cryptolab.html,Cryptolab,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://www.cryptool-online.org/,CrypTool,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://gchq.github.io/CyberChef/,CyberChef,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://factordb.com/,factordb.com,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://crypto.stackexchange.com/,Cryptography Stackexchange,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+http://cryptopals.com/,Cryptopals Crypto Challenges,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.iacr.org/,IACR,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://learncryptography.com/,Learn Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.reddit.com/r/cryptography/,Subreddit of Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography
+https://www.w3.org/TR/WebCryptoAPI/,WebCryptoAPI,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography

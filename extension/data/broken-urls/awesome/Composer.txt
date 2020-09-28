@@ -1,0 +1,2 @@
+https://getcomposer.org/apidoc/master/index.html,API Documentation,https://github.com/jakoch/awesome-composer#readme,Composer error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://naderman.de/,Nils Adermann (naderman),https://github.com/jakoch/awesome-composer#readme,Composer error: timeout('The read operation timed out') | reason: 

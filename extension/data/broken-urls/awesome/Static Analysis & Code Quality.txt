@@ -1,4 +1,3 @@
-https://sable.github.io/soot/,Soot,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://developer.android.com/studio,Android Studio,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Moved Temporarily
+https://dephpend.com,dephpend,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.sourcemeter.com/resources/rpg,SourceMeter,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality error: timeout('The read operation timed out') | reason: 
+http://wala.sourceforge.net,WALA,https://github.com/analysis-tools-dev/static-analysis#readme,Static Analysis & Code Quality error: timeout('timed out') | reason: 

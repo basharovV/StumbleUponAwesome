@@ -1,0 +1,86 @@
+https://tailwindcss.com,Tailwind CSS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwindui.com,Tailwind UI,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwindweekly.com/,Tailwind Weekly,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://builtwithtailwind.com/,Built With Tailwind,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss,IntelliSense for Code,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets,Styled Snippets for Code,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://material.io/design/environment/elevation.html,Material UI elevation,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.heropatterns.com,Hero Patterns,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://javisperez.github.io/tailwindcolorshades,Tailwind Color Shades,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://adevade.github.io/color-scheme-generator,Palette generator,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://color.tailwindow.com,Tailwindow's Color Shades,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwind-colors.meidev.co,Tailwind Colors,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwind-gradient-designer.csspost.com/,Tailwind Gradient Designer,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://stefanbuck.com/tailwind-color-theme-explorer,Tailwind Color Explorer,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwind.ink/,TailwindInk,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://grayscale.design/,Grayscale Design,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+http://gpt-tailwind.com/,GPT-3 Tailwind CSS code generator,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://stitches.hyperyolo.com/,Stitches,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwind-typography-playground.vercel.app/,Typography Playground,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwind.run,tailwind.run,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://github.vue.tailwind-prefix.cbass.dev,Tailwind Automatic Prefix Applicator,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://extensions.zeplin.io/5ae2d20017c57fd249c9876f,Zeplin Config & Class generator,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://protoship.io,Protoship Codegen,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://maizzle.com/,Maizzle,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+http://nerdcave.com/tailwind-cheat-sheet,Tailwind Cheat Sheet,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://umeshmk.github.io/Tailwindcss-cheatsheet,Tailwind Cheat Sheet,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwindmade.com/,Tailwind Made,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://mertjf.github.io/tailblocks,TailBlocks,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://tailwindcomponents.com,Tailwind Components,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.tailwindtoolbox.com,Tailwind Toolbox,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://merakiui.com,Meraki UI Components,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.tailwindtemplates.io,Tailwind Templates,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://treact.owaiskhan.me,Treact,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://kutty.netlify.app,Kutty,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://component.tailwindow.com/,Tailwindow,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://sailui.github.io/,Sail UI,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://craigerskine.github.io/jquery-tailwind-checkbox-toggle,jQuery Toggler,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://creative-tim.com/learning-lab/tailwind-starter-kit,Tailwind Kit,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://windmill-dashboard.vercel.app/,Windmill Dashboard,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://landing-gradients.netlify.app/,Landing Gradients,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://a17t.miles.land,a17t,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://git.habd.as/jhabdas/seminyak,Seminyak Hugo Theme,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://codepen.io/joshmanders/pen/PQQBoR,Navbar,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest,Testing Tailwind CSS plugins with Jest,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS,Tailwind CSS with Webpack 4 and PostCSS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c,Tailwind CSS with CSS-in-JS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project,Tailwind CSS in a Laravel Project,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app,Tailwind CSS with Ember,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://roots.io/guides/how-to-setup-tailwind-css-in-sage,Sage WordPress theme and Tailwind CSS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj,Tailwind CSS with GatsbyJS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4,Tailwind CSS with Phoenix 1.4,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://web-crunch.com/how-to-extend-tailwind-css,Extend Tailwind CSS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=ZrRRMBaz5Z0,Rebuilding Laravel.io,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=7gX_ApBeSpQ,Rebuilding Coinbase,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://codepen.io/adamwathan/pen/RxWrZr,Codepen,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=Pg_5Ni1_bg4,Rebuilding Twitter,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://codepen.io/drehimself/full/vpeVMx,CodePen,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=qxQKnqmNKv0,Rebuilding YouTube,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s,Rebuilding Netlify,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=banq3TfAPYk,Rebuilding Resolute,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://web-crunch.com/tailwind-css-movie-production-landing-page,Let's Build: Movie Production Landing Page,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://web-crunch.com/lets-build-tailwind-css-responsive-navbar,Lets Build: Responsive Navbar,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://web-crunch.com/lets-build-tailwind-css-dribbble-shot,Let's Build: Dribbble Shot,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://web-crunch.com/lets-build-tailwind-css-tweet,Let's Build: Tweet component,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f,Modal Dialog,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+http://joey.io/rebuilding-freshbooks-with-tailwind-css,Rebuilding FreshBooks,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss,Login Page (PingPing),https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page,Login Page,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project,Vue.js Component with Tailwind and Laravel,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css,Vue.js Modal,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css,Navigation,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://css-tricks.com/style-form-tailwind-css,Forms with Tailwind CSS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css,Photo gallery with CSS grids,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css,Rebuilding Bartik,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css,Rebuilding Airbnb's Home Page,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=HIPgzWS-Bxg,Laracasts Weekly Stream: Tailwind,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.youtube.com/watch?v=nBzfVK3QUzM,More experimentation with Tailwind CSS,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://youtu.be/SLGb2RLie9w,Rebuilding Spotify,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://youtu.be/t54tuaoHVLo,Rebuilding Discord,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://youtu.be/ULe6yKJrFuI,Rebuilding Meetup,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://joshmanders.com/,Josh Manders,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://primcloud.com/,Primcloud,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://jackmcdade.com/,Jack McDade,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://www.danceofdawn.com/,Dance of Dawn,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://sitesauce.app/,Sitesauce,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS
+https://hellosun.brussels/,Hello Sun,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS

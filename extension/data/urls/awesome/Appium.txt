@@ -1,25 +1,25 @@
 http://appium.io,,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-https://discuss.appium.io,Discuss,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/,Android setup Linux,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://webdriver.io/,JavaScript,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://selendroid.io/inspector.html,Selendroid Inspector,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/,Android setup Linux,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+https://discuss.appium.io,Discuss,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://stackoverflow.com/questions/tagged/appium,Stack Overflow,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-http://appium.slack.com,#appium on Slack,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial,QTPSELENIUM,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/,Appium + Mobile Game Testing,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+http://appium.slack.com,#appium on Slack,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://www.testingdiaries.com/appium-tutorial/,Testing Diaries,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1,Appium Bootcamp,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx,WinAppDriver,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://toolsqa.com/mobile-automation/appium/appium-tutorial/,TOOLSQA,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/,Appium + Mobile Game Testing,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1,Appium Bootcamp,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://www.guru99.com/introduction-to-appium.html,GURU99,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://www.slideshare.net/justinison75/mobile-selenium-grid-setup,Appium Mobile Grid Setup,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/,IMAGE RECOGNITION WITH APPIUM,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx,WinAppDriver,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://www.slideshare.net/justinison75/selenium-camp-2016,Selenium Camp 2016,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e,Uncover invisible changes in automated tests,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac,Adding AI to Appium,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
-https://caps.cloudgrey.io/,All about Appium Desired Capabilities,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/,IMAGE RECOGNITION WITH APPIUM,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 https://www.zaizi.com/blog/appium-mobile-apps-automation-tool,Appium Architecture & Appium Desktop,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool,Appium Architecture,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e,Uncover invisible changes in automated tests,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 https://en.wordpress.com/tag/appium/,All about Appium,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 http://testingalert.com/automate-android-actions-using-appium/,Automate Android Actions using Appium,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac,Adding AI to Appium,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
+https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480,Appium Essentials,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium
 https://www.gitbook.com/book/nishantverma/appium-for-android,Appium for Android,https://github.com/SrinivasanTarget/awesome-appium#readme,Appium

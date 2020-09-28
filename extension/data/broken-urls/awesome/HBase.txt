@@ -1,17 +1,1 @@
-http://antsdb.com/,AntsDB,https://github.com/rayokota/awesome-hbase#readme,HBase error: timeout('timed out') | reason: 
-http://gethue.com,Hue,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://www.packtpub.com/big-data-and-business-intelligence/hbase-administration-cookbook,HBase Administration Cookbook,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/big-data-and-business-intelligence/hbase-essentials,HBase Essentials,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/big-data-and-business-intelligence/hbase-design-patterns,HBase Design Patterns,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/big-data-and-business-intelligence/learning-hbase,Learning HBase,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/big-data-and-business-intelligence/hbase-high-performance-cookbook,HBase High Performance Cookbook,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
+http://gethue.com,Hue,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 308: 'Unknown'> | reason: Unknown

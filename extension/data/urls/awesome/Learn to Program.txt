@@ -1,36 +1,34 @@
-https://learnpythonthehardway.org/book/,Learn Python the Hard Way,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://degreed.com/learning/programming,Programming,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://learnpythonthehardway.org/book/,Learn Python the Hard Way,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.codechef.com/problems/easy/,CodeChef Problems,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.hackerearth.com/,HackerEarth,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://projecteuler.net/,Project Euler,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.railstutorial.org/book,Michael Hartl's Ruby on Rails Tutorial,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://courses.platzi.com/,Platzi,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://codesignal.com/,CodeSignal,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://academy.vertabelo.com/,Vertabelo Academy,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://webmaker.org/,Mozilla Webmaker,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.railstutorial.org/book,Michael Hartl's Ruby on Rails Tutorial,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://codingbat.com/,CodingBat,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://cssgridgarden.com/,Grid Garden,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://webmaker.org/,Mozilla Webmaker,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.codewars.com/,Codewars,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.khanacademy.org/hourofcode,Khan Academy's Hour of Code,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://en.hexlet.io,Hexlet.io,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.lynda.com/Developer-training-tutorials/50-0.html,Developer,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://programminghistorian.org/en/lessons/,Programming Historian,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://courses.platzi.com/,Platzi,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.codingame.com/,CodinGame,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.lynda.com/Web-training-tutorials/88-0.html,Web,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://software-carpentry.org/lessons/,Software Carpentry,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://academy.vertabelo.com/,Vertabelo Academy,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://wesbos.com/courses/,Wes Bos,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://hi.hyperskill.org/,Hyperskill by JetBrains Academy,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.khanacademy.org/computing/computer-science,Computer Science,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://cssgridgarden.com/,Grid Garden,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.lynda.com/Developer-training-tutorials/50-0.html,Developer,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://en.hexlet.io,Hexlet.io,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.edx.org/course/subject/computer-science,EDX,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.lynda.com/IT-training-tutorials/2057-0.html,IT,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.udacity.com/,Udacity,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://programminghistorian.org/en/lessons/,Programming Historian,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://software-carpentry.org/lessons/,Software Carpentry,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech,Coursera,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.thinkful.com/,Thinkful,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.lynda.com/Web-training-tutorials/88-0.html,Web,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://hi.hyperskill.org/,Hyperskill by JetBrains Academy,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.khanacademy.org/hourofcode,Khan Academy's Hour of Code,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://metacademy.org/roadmaps/,Roadmaps,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://exercism.io/,exercism.io,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.lynda.com/IT-training-tutorials/2057-0.html,IT,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://metacademy.org/course_guides/,Course Guides,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://itunes.stanford.edu/,Stanford on iTunes U,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
-https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular,PluralSight,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.thinkful.com/,Thinkful,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://exercism.io/,exercism.io,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.khanacademy.org/computing/computer-science,Computer Science,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.udacity.com/,Udacity,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://teamtreehouse.com/,Treehouse,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://learnlayout.com/,Learn CSS Layout,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.udemy.com/courses/search/?q=programming,Programming,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
@@ -38,3 +36,5 @@ https://www.udemy.com/courses/Development/,Development,https://github.com/karlho
 https://learn.shayhowe.com/,learn.shayhowe.com,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://www.htmldog.com/,HTML Dog,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
 https://degreed.com/learning/web%20development,Web Development,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://itunes.stanford.edu/,Stanford on iTunes U,https://github.com/karlhorky/learn-to-program#readme,Learn to Program
+https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular,PluralSight,https://github.com/karlhorky/learn-to-program#readme,Learn to Program

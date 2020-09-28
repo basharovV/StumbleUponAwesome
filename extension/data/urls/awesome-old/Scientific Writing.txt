@@ -1,0 +1,27 @@
+https://docutils.sourceforge.io/rst.html,reStructuredText,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://marktext.app/,Marktext,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://rmarkdown.rstudio.com/,R Markdown,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://www.zettlr.com/,Zettlr,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://editor.citationstyles.org/,Citation Style Language (CSL) styles,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://retorque.re/zotero-better-bibtex/,Better BibTeX for Zotero,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://zotfile.com/,ZotFile for Zotero,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://zbib.org/,ZoteroBib,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://www.diagrams.net/,diagrams.net,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://graphviz.org/,graphviz,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://vega.github.io/vega-lite/examples/,Vega Lite,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://plantuml.com/,PlantUML,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://cicero.xyz/,Cicero,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://docutils.sourceforge.io/docs/,docutils,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://nbconvert.readthedocs.io/en/latest/,nbconvert,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://pandoc.org/MANUAL,pandoc,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://scorreia.com/software/panflute/,Panflute,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://aspell.net/,GNU Aspell,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://hunspell.github.io/,Hunspell,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://languagetool.org/,LanguageTool,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://proselint.com/,proselint,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://sylvainhalle.github.io/textidote/,textidote,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://errata-ai.github.io/vale/,Vale,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown,Dennis Tenen and Grant Wythoff,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://u.arizona.edu/~selisker/post/workflow/,Scott Selisker,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd,Writing scientific papers for ACPD using Emacs
+Org-mode,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing

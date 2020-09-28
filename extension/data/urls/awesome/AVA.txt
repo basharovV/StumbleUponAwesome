@@ -1,9 +1,7 @@
-https://spectrum.chat/ava,Spectrum,https://github.com/avajs/awesome-ava#readme,AVA
 https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3,Testing React Native apps with AVA,https://github.com/avajs/awesome-ava#readme,AVA
 https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava,Getting Started with Create React App and AVA,https://github.com/avajs/awesome-ava#readme,AVA
 https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/,Effortless unit testing with AVA,https://github.com/avajs/awesome-ava#readme,AVA
 http://jsair.io/ava,JavaScript Air episode with the AVA team,https://github.com/avajs/awesome-ava#readme,AVA
-http://avacasts.com,AVA Casts,https://github.com/avajs/awesome-ava#readme,AVA
 https://www.youtube.com/watch?v=RxLW6-3dk5A,Testing React components with AVA,https://github.com/avajs/awesome-ava#readme,AVA
 http://silvenon.com/testing-react-and-redux/,Testing a React & Redux Codebase,https://github.com/avajs/awesome-ava#readme,AVA
 https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo,Stickers, t-shirts, etc,https://github.com/avajs/awesome-ava#readme,AVA

@@ -1,226 +1,62 @@
-https://play.google.com/store/apps/details?id=me.vickychijwani.kotlinkoans,Kotlin Kōans Android app,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://discuss.kotlinlang.org/,Forum,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlin.link,https://kotlin.link,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlin-enuguusergroup.slack.com/,Enugu Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinSrilanka/,Sri Lanka Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://bg-kug.github.io/,Bulgarian Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-User-Group-Stuttgart/,Stuttgart Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin_nn/,Nizhny Novgorod Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kansas-City-Kotlin-User-Group/,Kansas City User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Meetup-Cascavel/,Cascavel Kotlin Meetup,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Agadir-Kotlin-User-Group/,Agadir Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-South-Florida-Users-Group/,South Florida Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/395337754167951/,Azerbaijan Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-%C4%B0stanbul/,Istanbul Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://bitbucket.org/birkenfeld/pygments-main,birkenfeld/pygments-main,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin-meetup-sp/,Sao Paulo Kotlin Meetup,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinKenya/,Nairobi Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Edinburgh-Kotlin-User-Group/,Edinburgh Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/kotlinphnompenh,Cambodia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-User-Group-Basel/,Basel Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlindubai/,Dubai Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://nvite.com/JalandharKotlin/13lv7v,Jalandhar Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinBangladesh/,Bangladesh Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlin-jobs.com/,Jobs for Kotlin Developers,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinSyria/,Syria Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-User-Group-Cologne/?from=ref,Cologne Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.facebook.com/kotlinchile,Chile Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Rio/,Rio de Janeiro,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://bkug.by/,Belarus Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/kotlinmyanmarusergroup/about/,Myanmar Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Noun-Kotlin-User-Group/,Noun Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Toronto/events/235740293/,Toronto Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Copenhagen/,Copenhagen Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Austin-Kotlin-Meetup/,Austin Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/meetup-group-nWeRbyMu/,Oslo Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinJO/,Jordan Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/estoniaKotlin/,Estonia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Swiss-User-Group/,Swiss Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlinlang.org/docs/reference/data-science-overview.html,Kotlin for Data Science,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlin.connpass.com/,Japan Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://vk.com/kotlintgn,Taganrog Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Brisbane-Kotlin-User-Group/,Brisbane Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Twin-Cities-Kotlin-User-Group/,Twin Cities Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/,Podcast: Talking Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Kano-User-Group-Nigeria/,Kano Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlin.guide,Kotlin Guide,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://rosettacode.org/,RosettaCode,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/dnkotlin/,Nepal Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinkarachi/,Karachi Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/251720265392355,Cosenza Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin-belfast/,Belfast Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://meetup.com/kotlin-lisboa/,Lisboa Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Ondo-User-Group/,Ondo Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Paris-Meetup/,Paris Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://web.facebook.com/kotlinsurat,Surat Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Brooklyn-Kotlin/,Brooklyn (NY) Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/meetup-group-YgJEOzCn/,Utrecht Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Merida-Kotlin-User-Group/,Mérida Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinDelhi/,New Delhi Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://web.facebook.com/groups/383147662448461/,Algeria Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://t.me/KotlinDevBatam,Batam Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinCWB/,Curitiba CWB Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.downtomeet.com/Katsina-Kotlin-Group,Katsina Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Utah/,Utah Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://m.facebook.com/KotlinElAlto/,El Alto Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://plugins.jetbrains.com/plugin/11357-awesome-kotlin,AwesomeKotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/de-DE/Kotlin-User-Group-Hamburg/,Hamburg Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/135578123824203/,Uzhgorod Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/de-DE/Kotlin-Rhein-Main/,Rhein-Main Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://travis-ci.com/KotlinBy/awesome-kotlin,,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.meetup.com/kotlin-london/,London Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Melbourne-Kotlin-Meetup/,Melbourne Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinBengaluru/,Bengaluru Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.reddit.com/r/Kotlin/,/r/Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://weibo.com/kotlinhfug,Hefei Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin-office-hours/,Cambridge Kotlin Office Hours,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinLaPaz/,La Paz Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/VancouverKotlin/,Vancouver Kotlin Meetup,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/100333660782830/,Kathmandu Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/565405337181251/,Pakistan KotlinUser Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Croatia-Kotlin-User-Group-Meetup/,Croatia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.meetup.com/New-York-Kotlin-Meetup/,New York Kotlin Meetup,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/405177603231134/about/,Angola Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-User-Group-Helsinki/?from=ref,Helsinki Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://sydspace.org/kotlin/,Sydney Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/649651491892414/,Ouagadougou Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://plugins.jetbrains.com/plugin/10539-readhub,Readhub,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/czkug/,Czech Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://vk.com/rndkotlin,Rostov Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin-berlin/,Berlin Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Lagos-Kotlin-Meetup/,Lagos Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/DCKotlin/,Washington DC Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/1395212093948927/,Lviv Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kughcmc/,Ho Chi Minh Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://wetogether.co/kotlin-tw,Taiwan Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/limakotlin/,Lima Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/OCKotlinKrew/,Irvine Kotlin User Group "OC Kotlin Krew",https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.meetup.com/Chicago-Kotlin/,Chicago Kotlin Users Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Waterloo-P2P/events/,Waterloo Kotlin P2P,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Vienna/,Vienna Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://devdv.ru/projects/kug,Khabarovsk Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://stackoverflow.com/documentation/kotlin/topics,Stackoverflow Documentation on Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Dnipro/,Dnipro Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinHK,Hong Kong Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://sitc.community/communities/kug/,Samara Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlin.link/rss.xml,RSS Feed of articles, videos, slides, updates (20 latest articles),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Cincinnati-Kotlin/,Cincinnati Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/KUGAachen/,Aachen Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.meetup.com/Lyon-Kotlin-User-Group/,Lyon Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinTLV/,Tel Aviv Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Lapai-User-Group/,Lapai Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/kotlinitaly/,Italy Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/kotlinbauchi/,Bauchi Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/1540580306247047/,Peru Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/592717964582711/,Palestine Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Kolkata-UG/,Kolkata Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://antonioleiva.com/,Antonio Leiva - Android and any other monsters,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://blog.kotlin-academy.com/,Kotlin Academy,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-DFW/,Dallas, Kotlin DFW,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinHyderabad/,Hyderabad Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/St-Petersburg-Kotlin-User-Group/,St. Petersburg Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://hackr.io/tutorials/learn-kotlin,Programming Community Curated Resources for learning Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/KotlnWestFlorida,West Florida Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinMAD/,Madrid Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin-amsterdam/,Amsterdam Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/872547279487598/,Thailand Kotlin Developers,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinugbosnia,Bosnia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/395469687469099/,Indonesia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/642901202586581/,Philippines Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/470398203308975/,Beira Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/2178453949151460/,Rivers Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/778398068995641/,Abidjan Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/es/Kotlin-User-Group-GDL/,Guadalajara Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlinexpertise.com/,Kotlin Expertise Blog,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-RS/,Porto Alegre Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Dublin-Kotlin-Meetup/,Dublin Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.pluralsight.com/courses/building-android-apps-kotlin-getting-started,Building Android Apps with Kotlin: Getting Started - Alex Dunn,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Guatemala-Kotlin-Meetup/,Guatemala Kotlin Meetup,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlin.kr/,Korean Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlin-user-group-asuncion-py.github.io/,Asunción Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlin.link/rss-full.xml,RSS Feed of articles, videos, slides, updates (full archive),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Brighton-Kotlin/,Brighton Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/,Google's Kotlin Codelab,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/1825278611119862/,Lome Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinusergroup/,Kozhikode Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Serbia-Kotlin-User-Group/,Serbia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/sd-kotlin/,San Diego Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Abuja-User-Group-Nigeria/,Abuja Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/punekotlin,Pune Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinsantiago/,Santiago Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kug-bucharest/,Bucharest Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.linkedin.com/groups/7417237/profile,LinkedIn: Kotlin Developers (Join!),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlinlang.org/,Home Page,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/High-performance-Kotlin/,Amsterdam High-performance Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.meetup.com/Kotlin-Manchester/,Manchester Kotlin Developers,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://groupspaces.com/AccraGhanaKotlinUserGroup/,Accra Ghana Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/1501353116571104,Tunisia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://www.kotliner.cn/,Beijing Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Slovakia/,Slovakia Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlinindore/,Indore Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Dusseldorf-Kotlin-Meetup/,Dusseldorf Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Benin/,Benin Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Lubumbashi-Kotlin-User-Group/,Lubumbashi Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.hccug.org/,Houston Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Desarrollo-en-Android-con-Kotlin/,Buenos Aires Desarrollo en Android con Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlinveandroid.com/,Turkey Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://kotlinquiz.com,Kotlin Quiz,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/KotlinBudapest/,Budapest Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlinlang.org/docs/reference/,Language Reference,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/San-Francisco-Kotlin-Meetup/,San Francisco Kotlin Meetup,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/107080706530829/,Israel Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinbpl/,Bhopal Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinvellore,Vellore Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Karlsruhe-Software-Development-Meetup/,Karlsruhe Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 http://www.fundamental-kotlin.com/,Fundamental Kotlin, First Edition,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Sweden-Kotlin-User-Group/,Stockholm Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://store.raywenderlich.com/products/kotlin-apprentice,Kotlin Apprentice - Irina Galata, Joe Howard, Richard Lucas & Ellen Shapiro,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://try.kotlinlang.org/,Try Kotlin!,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Santa-Cruz-Kotlin-User-Group/events/245895831/,Santa Cruz Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/KotlinBrazza/,Brazza Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/Uganda-Kotlin-User-Group-613707548753658/,Uganda Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Minna-User-Group-Nigeria/,Minna Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-Athens/,Athens Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/KotlinAhmedabad/,Ahmedabad Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/groups/1961143800818624/,Bhubaneswar Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://store.raywenderlich.com/products/android-apprentice,Android Apprentice - Darryl Bayliss & Tom Blankenship,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinminya/,Minya Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlin-warri/,Warri Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/Kotlin.Cairo/,Cairo Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kassel-Kotlin-User-Group/,Kassel Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/kotlinbcn/,Barcelona, KotlinBCN,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/it-IT/KUG-Milan/,Milano Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlin.nl/,Dutch Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/Kotlin-Yola-User-Group-104198534358013/,Yola Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/Kotlin-Allahabad-User-Group-967463300076405/,Allahabad Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinCotonou/,Cotonou Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://vnkotlin.com,Vietnam Kotlin User Group (online community),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://t.me/kotlin_crb,Cirebon Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.amazon.com/Hands-Design-Patterns-Kotlin-applications/dp/1788998014,Hands-on Design Patterns with Kotlin - Alexey Soshin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://web.facebook.com/groups/1598555973529998/?ref=group_header,Ado-Ekiti Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://kotlinthree.github.io/,Shanghai, KotlinThree,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.pluralsight.com/courses/building-android-apps-kotlin-getting-started,Building Android Apps with Kotlin: Getting Started - Alex Dunn,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlin.link,https://kotlin.link,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://discuss.kotlinlang.org/,Kotlin Forum,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlinquiz.com,Kotlin Quiz,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.raywenderlich.com/7109-test-driven-development-tutorial-for-android-getting-started,Test-Driven Development Tutorial for Android: Getting Started - By Victoria Gonda,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://teamtreehouse.com/library/kotlin-for-java-developers,Kotlin for Java Developers,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://vk.com/kotlinmoscow,Moscow Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://store.raywenderlich.com/products/kotlin-apprentice,Kotlin Apprentice - Irina Galata, Joe Howard, Richard Lucas & Ellen Shapiro,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://antonioleiva.com/,Antonio Leiva - Android and any other monsters,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlin-jobs.com/,Jobs for Kotlin Developers,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://rosettacode.org/,RosettaCode,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://plugins.jetbrains.com/plugin/11357-awesome-kotlin,AwesomeKotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlinexpertise.com/,Kotlin Expertise Blog,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://slack.kotlinlang.org/,Kotlin Slack,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://store.raywenderlich.com/products/data-structures-and-algorithms-in-kotlin,Data Structures & Algorithms in Kotlin - Irina Galata & Matei Suica,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://plugins.jetbrains.com/plugin/10539-readhub,Readhub,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://store.raywenderlich.com/products/android-apprentice,Android Apprentice - Darryl Bayliss & Tom Blankenship,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://travis-ci.com/KotlinBy/awesome-kotlin,,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.amazon.com/Hands-Design-Patterns-Kotlin-applications/dp/1788998014,Hands-on Design Patterns with Kotlin - Alexey Soshin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.packtpub.com/application-development/functional-kotlin,Functional Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://superkotlin.com,SuperKotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-http://blog.jetbrains.com/kotlin/,Blog,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011,Kotlin Bootcamp for Programmers - Google,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://kotlin.link/rss.xml,RSS Feed of articles, videos, slides, updates (20 latest articles),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012,Developing Android Apps with Kotlin - Google,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/KotlinVijayawada/,Vijayawada Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://youtrack.jetbrains.com/issues/KT,Issue Tracker,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://facebook.com/kotlincbe/,Coimbatore Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Kotlin-User-Group-Munich/,Munich Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.facebook.com/kotlinegypt/,Egypt Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://community-z.com/communities/astana-jkug,Astana Java & Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://kotlin.link/rss-full.xml,RSS Feed of articles, videos, slides, updates (full archive),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://www.udacity.com/course/kotlin-for-android-developers--ud888,Kotlin for Android Developers,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/krakow-kotlin/,Krakow Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.meetup.com/Singapore-Kotlin-User-group/,Singapore Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://manning.com/books/kotlin-in-action,Kotlin in Action - Dmitry Jemerov, Svetlana Isakova,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://leedskotlinusergroup.netlify.com/published/2020/1/6/our-first-meetup/,Leeds Kotlin User Group,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://www.manning.com/books/functional-programming-in-kotlin,Functional Programming in Kotlin - Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.packtpub.com/application-development/reactive-programming-kotlin,Reactive Programming in Kotlin - Rivu Chakraborty,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/,Head First Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.reddit.com/r/Kotlin/,Kotlin Subreddit,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://kotlinlang.org/,Home Page,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://blog.kotlin-academy.com/,Kotlin Academy,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://www.coursera.org/learn/kotlin-for-java-developers,Kotlin for Java Developers - JetBrains,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://kotlinlang.org/docs/reference/,Language Reference,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 http://www.http4k.org,http4k/http4k,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
-https://leanpub.com/kotlin-for-android-developers,Kotlin for Android Developers - Antonio Leiva,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://hackr.io/tutorials/learn-kotlin,Programming Community Curated Resources for learning Kotlin,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlintesting.com,KotlinTesting Blog,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://try.kotlinlang.org/,Try Kotlin!,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.linkedin.com/groups/7417237/profile,LinkedIn: Kotlin Developers (Join!),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://zeganstyl.github.io/thelema-teavm-tests/,TeaVM,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://zeganstyl.github.io/thelema-kxjs-demo/,Kotlin/JS,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://www.udemy.com/kotlin-course/,Kotlin Programming: Next Level Java Development,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://autokonfig.nohus.dev/,Nohus/AutoKonfig,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://blog.jetbrains.com/kotlin/,Blog,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlinlang.org/docs/reference/data-science-overview.html,Kotlin for Data Science,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://youtrack.jetbrains.com/issues/KT,Issue Tracker,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://manning.com/books/kotlin-in-action,Kotlin in Action - Dmitry Jemerov, Svetlana Isakova,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://speakerdeck.com/agiuliani/kotlin-cheat-sheet,Kotlin Cheat Sheet,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 http://shop.oreilly.com/product/0636920052982.do,Introduction to Kotlin Programming by Hadi Hariri,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.optaplanner.org/compatibility/kotlin.html,kiegroup/optaplanner,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://play.google.com/store/apps/details?id=me.vickychijwani.kotlinkoans,Kotlin Kōans Android app,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.manning.com/books/functional-programming-in-kotlin,Functional Programming in Kotlin - Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://classpert.com/kotlin-programming,Kotlin Online Courses at Classpert,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://kotlin.guide,Kotlin Guide,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://store.raywenderlich.com/products/advanced-android-app-architecture,Advanced Android App Architecture,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 http://shop.oreilly.com/product/0636920052999.do,Advanced Kotlin Programming,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://leanpub.com/kotlin-for-android-developers,Kotlin for Android Developers - Antonio Leiva,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://hyperskill.org/onboarding/tracks/3,Jetbrain's Hyperskill Academy,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/,Google's Kotlin Codelab,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
 https://caster.io/courses/introduction-to-kotlin/,Kotlin an Introduction - Caster.io,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.packtpub.com/application-development/programming-kotlin,Programming Kotlin - Stephen Samuel, Stefan Bocutiu,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.packtpub.com/application-development/android-development-kotlin,Android Development with Kotlin - Marcin Moskala, Igor Wojda,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+https://www.packtpub.com/application-development/mastering-android-development-kotlin,Mastering Android Development with Kotlin - Miloš Vasić,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin

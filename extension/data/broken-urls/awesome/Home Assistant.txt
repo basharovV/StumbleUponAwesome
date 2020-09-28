@@ -1,4 +1,1 @@
-https://www.home-assistant.io/docs/installation/docker/,Docker,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: timeout('The read operation timed out') | reason: 
-https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/,Gitlab CI/CD,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Moved Permanently
+https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8,Home Assistant Companion,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently

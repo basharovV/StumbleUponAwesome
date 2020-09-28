@@ -1,463 +1,485 @@
 http://cis198-2016s.github.io/,CIS 198,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://aaronbloomfield.github.io/pdr/labs/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://berkeley-cs61as.github.io/,CS 61AS,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://stanford.edu/class/ee103/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs.brown.edu/courses/cs173/2012/OnLine/,online class,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://uvadlc.github.io/,UvA DEEP LEARNING,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://berkeley-cs61as.github.io/,CS 61AS,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm,6.006,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3,Video lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/class/cs20si/index.html,CS20si,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.itu.dk/people/sestoft/itu/PCPP/E2015/,PCPP,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs.brown.edu/courses/cs173/2012/OnLine/,online class,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/download-course-materials/,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://css.csail.mit.edu/6.824/2014/labs/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://css.csail.mit.edu/6.858/2014/quiz.html,Quizzes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/class/cs20si/index.html,CS20si,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://wpressutexas.net/forum/,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1109/2013su/calendar.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5142/2013fa/,CS 5142,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS2110/2014fa/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm,6.006,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci135_36_fall12.php,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4120/2013fa/schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1115/2013fa/syllabus.htm,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5430/2013sp/,CS 5430,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs5540sp2013/,CS 5540,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1133/2013fa/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/3193/S11/index.html,CSCE 3193,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php,CSCI 235,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/download-course-materials/,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550,CS 193p,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs.brown.edu/courses/cs173/2012/Videos/,Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://csapp.cs.cmu.edu/public/labs.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.cit.cornell.edu/physics4481-7681_2018fa/,CS 4812,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4820/2015sp/,CS 4820,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15462.courses.cs.cmu.edu/fall2015/reading,Lectures and Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci235/csci235_f14.php,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/,CIS 4930 / CIS 5930,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://computationstructures.org/notes/tradeoffs/notes.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/course?category=University%2FEngineering%2FComputer%2520Science%2FProgramming%2520Languages&list=EC6D76F0C99A731667,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://matt.might.net/teaching/compilers/spring-2015/,CS 5470,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://css.csail.mit.edu/6.858/2014/reference.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/class/cs103/,CS 103,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3152/2014sp/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://work.caltech.edu/textbook.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.columbia.edu/~jebara/4771/index.html,COMS 4771,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci135_36_fall12.php,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://wpressutexas.net/forum/,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://jhalderm.com/pub/papers/evm-ccs10.pdf,seas,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15462.courses.cs.cmu.edu/fall2015/exercises,Assignments and Quizes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://css.csail.mit.edu/6.824/2014/schedule.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://css.csail.mit.edu/6.858/2014/projects.html,Final Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4120/2013fa/homework.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://berkeley-cs61as.github.io/textbook.html,Assignments and Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4780/2014fa/,CS 4780,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://itunes.apple.com/us/course/programming-abstractions/id495054099,Programming Abstractions,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1115/2013fa/lecture_slides.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1110/2014fa/,CS 1110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://web.stanford.edu/class/cs143/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4152/2014sp/,CS 4152,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ww2.cs.fsu.edu/~redwood/,W. Owen Redwood,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php,CSCI 335,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html,Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/exams/,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.columbia.edu/~jebara/resume.html,Tony Jebara,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ai.berkeley.edu/project_overview.html,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/3193/S11/index.html,CSCE 3193,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/course?category=University%2FEngineering%2FComputer%2520Science%2FProgramming%2520Languages&list=EC6D76F0C99A731667,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5142/2013fa/,CS 5142,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1109/2013su/calendar.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4120/2013fa/schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://csapp.cs.cmu.edu/public/labs.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html,CS 224,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1115/2013fa/syllabus.htm,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550,CS 193p,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5430/2013sp/,CS 5430,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS6650/2013fa/,CS 6650,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.columbia.edu/~jebara/4771/handouts.html,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures/introduction.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS2110/2014fa/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1133/2013fa/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/class/cs103/,CS 103,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cse1.net/syllabus,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://computationstructures.org/exercises/cmos/lab.html,Labs-Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://css.csail.mit.edu/6.858/2014/reference.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://css.csail.mit.edu/6.824/2014/schedule.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs.brown.edu/courses/cs173/2012/Videos/,Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://web.stanford.edu/class/cs143/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php,CSCI 235,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://work.caltech.edu/textbook.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15462.courses.cs.cmu.edu/fall2015/reading,Lectures and Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.cit.cornell.edu/physics4481-7681_2018fa/,CS 4812,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://berkeley-cs61as.github.io/textbook.html,Assignments and Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/Courses/CS5412/2014sp/,CS 5412,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099,Updated courses for iOS8 - Swift,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4820/2015sp/,CS 4820,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs421/fa2014/,CS 421,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs5540sp2013/,CS 5540,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cse1.net/recaps,Notes / Recaps,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.columbia.edu/~jebara/4771/index.html,COMS 4771,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html,15-319/619,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://css.csail.mit.edu/6.858/2014/projects.html,Final Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/exams/,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://colorfulengineering.org/,Oliver Serang,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://cs.brown.edu/courses/cs173/2014/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci235/csci235_f14.php,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://stanford.edu/class/ee103/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4780/2014fa/,CS 4780,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://matt.might.net/teaching/compilers/spring-2015/,CS 5470,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://itunes.apple.com/us/course/programming-abstractions/id495054099,Programming Abstractions,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html,6.945,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://philipmjohnson.org/essays/ase-initial-results.html,"Athletic Software Engineering" pedagogy,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cse1.net/psets,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4120/2013fa/homework.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1115/2013fa/lecture_slides.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html,Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1110/2014fa/,CS 1110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6840/2014sp/,CS 6840,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://snap.berkeley.edu,Snap*!*,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3152/2014sp/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html,CS 173,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.columbia.edu/~jebara/resume.html,Tony Jebara,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ww2.cs.fsu.edu/~redwood/,W. Owen Redwood,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://mrl.nyu.edu/~perlin/courses/fall2015/,CSCI-GA.2270-001,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.eecs.umich.edu/courses/eecs588/readings.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs5540sp2013/home/course-description,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php,CSCI 335,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS4860/2012fa/,CS 4860,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1115/2013fa/projects_and_exams.htm,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15721.courses.cs.cmu.edu/spring2016/schedule.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.cs.ucdavis.edu/~gusfield/cs122f10/,ECS 122A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/6.851/spring14/index.html,6.851,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs186fall2013/section-notes,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS4820/2015sp/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ai.berkeley.edu/exams.html,Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs5540sp2013/home/course-description,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html,CS 224,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://mrl.nyu.edu/~perlin/courses/fall2015/,CSCI-GA.2270-001,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.eecs189.org/,CS 189,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses2.cit.cornell.edu/info4302_2012fa/,CS 4302,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html,CS 173,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm,CS 4786,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4670/2015sp/,CS 4670,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/6.851/spring14/index.html,6.851,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html,6.945,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.nuprl.org,www.nuprl.org,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4152/2014sp/about/faq.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4820/2015sp/syllabus/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://am207.github.io/2016/index.html,AM 207,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6840/2014sp/,CS 6840,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs5540sp2013/lectures,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961,Updated courses for iOS9 - Swift,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.cs.ucdavis.edu/~gusfield/cs122f10/,ECS 122A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://computationstructures.org/exercises/cmos/lab.html,Labs-Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15721.courses.cs.cmu.edu/spring2016/schedule.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cse1.net/recaps,Notes / Recaps,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/6.854/current/,Advanced Algorithms,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1130/2014sp/,CS 1130,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/download-course-materials/,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://philipmjohnson.org/essays/ase-initial-results.html,"Athletic Software Engineering" pedagogy,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs186fall2013/section-notes,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html,15-319/619,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html,Github Page,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://pl.barzilay.org/,CS 4400,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html,Practice Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cse1.net/psets,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/6.851/spring14/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4786/2015sp/assignments.htm,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3110/2014fa/,CS 3110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154,book,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.fsu.edu/~liux/,Xiuwen Liu,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/6.851/spring14/hmwk.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs5540sp2013/assignments,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://people.seas.harvard.edu/~minilek/cs224/fall14/hmwk.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www-scf.usc.edu/~csci104/20142/lectures/,CSCI 104,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.ee.columbia.edu/~cylin/course/bigdata/,EECS E6893 & EECS E6895,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.classes.cs.uchicago.edu/archive/2016/winter/22300-1/,CS 223,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html,Lectures and Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1130/2014sp/about/overview.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4786/2015sp/lectures.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://snap.berkeley.edu,Snap*!*,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.keithschwarz.com/cs143/WWW/sum2011/,CS143 - 2011,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.umd.edu/class/spring2015/cmsc430/,CMSC 430,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw,NB,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs186fall2013/homeworks,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.ops-class.org/asst/0/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html,CS 5150,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15462.courses.cs.cmu.edu/fall2015/exercises,Assignments and Quizes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://15418.courses.cs.cmu.edu/spring2015/,15-418,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses2.cit.cornell.edu/info4302_2012fa/course_information.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.umd.edu/class/spring2015/cmsc430/Schedule.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4152/2014sp/sessions/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15445.courses.cs.cmu.edu/fall2017/,15-445/645,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://people.seas.harvard.edu/~minilek/cs224/fall14/hmwk.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.columbia.edu/~jebara/4771/handouts.html,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html,Lecture notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.harchaoui.eu/,Zaid Harchaoui,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://pdos.csail.mit.edu/6.828/2014/,6.828,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.umd.edu/class/spring2015/cmsc430/Projects.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html,Distributed System Design,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/a/bodik.org/cs164/home,CS 164,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.tufts.edu/Course/75/Assignments,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.fsu.edu/~liux/,Xiuwen Liu,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154,book,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses2.cit.cornell.edu/info4302_2012fa/,CS 4302,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ai.berkeley.edu/project_overview.html,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/6.854/current/,Advanced Algorithms,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.eecs189.org/,CS 189,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.keithschwarz.com/cs143/WWW/sum2011/,CS143 - 2011,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099,Updated courses for iOS8 - Swift,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://am207.github.io/2016/index.html,AM 207,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1115/2013fa/projects_and_exams.htm,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1110/2014fa/about/grading.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html,Practice Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://15418.courses.cs.cmu.edu/spring2015/exercises,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1130/2014sp/web-lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6118/2012fa/,CS 6118,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4152/2014sp/,CS 4152,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs162.eecs.berkeley.edu/,CS 162,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=homeworks,Homeworks,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about,StatLearning,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://pl.barzilay.org/,CS 4400,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs186fall2013/homeworks,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://theory.stanford.edu/~tim/w16/w16.html,CS 261,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ai.berkeley.edu/exams.html,Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm,CS 4786,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.classes.cs.uchicago.edu/archive/2016/winter/22300-1/,CS 223,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.tufts.edu/Course/75/Assignments,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/6.851/spring14/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901,Practical Malware Analysis,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://nb.mit.edu/,problem set and lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung,Dr. Ching-Yung Lin,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www-scf.usc.edu/~csci104/20142/lectures,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.scs.stanford.edu/14sp-cs240h/,CS 240h,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.nuprl.org,www.nuprl.org,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://15418.courses.cs.cmu.edu/spring2015/reading,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://statweb.stanford.edu/~tibs/ElemStatLearn/,Elements of Statistical Learning,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses2.cit.cornell.edu/info4302_2012fa/lectures.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs5540sp2013/lectures,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/6.851/spring14/hmwk.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS2043/2014sp/,CS 2043,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs224d.stanford.edu/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://courses.csail.mit.edu/6.857/2015/,6.857,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1130/2014sp/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~ninamf/courses/601sp15/,10-601,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://hkn.eecs.berkeley.edu/exams/course/CS/61C,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://pl.barzilay.org/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/6.857/2015/handouts,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://llcao.net/cu-deeplearning15/index.html,EECS E6894,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://pgbovine.net/cpython-internals.htm,CSC 253,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.ops-class.org/exams/,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1110/2014fa/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6700/2013sp/,CS 6700,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4152/2014sp/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/6.857/2015/references,References,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html,CS 229r,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://rpis.ec,RPISEC,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1133/2013fa/,CS 1133,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.eli.sdsu.edu/courses/fall15/cs696/index.html,CS 696,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://stellar.mit.edu/S/course/6/sp15/6.045/index.html,6.045,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://pdos.csail.mit.edu/6.828/2014/labguide.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs109.github.io/2014/pages/schedule.html,Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml,Project Ideas and Datasets,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4670/2015sp/,CS 4670,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4820/2015sp/syllabus/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4152/2014sp/about/faq.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~dga/15-440/F12/index.html,15-440,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html,Distributed System Design,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4786/2015sp/assignments.htm,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/cs3410/2016fa/,CS 3410,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4700/2014fa/,CS 4700,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1110/2014fa/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://rpis.ec,RPISEC,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.eng.utah.edu/~cs1410-20/,CS 1410-2,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://bjc.berkeley.edu,Curriculum,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw,NB,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://pl.barzilay.org/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs5540sp2013/assignments,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.ee.columbia.edu/~cylin/course/bigdata/,EECS E6893 & EECS E6895,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/a/bodik.org/cs164/home,CS 164,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/6.857/2015/handouts,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15445.courses.cs.cmu.edu/fall2017/,15-445/645,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html,CS 229r,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/6.857/2015/references,References,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4786/2015sp/lectures.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://pl.barzilay.org/resources.html,Lecture Notes/Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4152/2014sp/sessions/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/download-course-materials/,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://css.csail.mit.edu/6.858/2014/,6.858,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://llcao.net/cu-deeplearning15/programming_problem.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs109.github.io/2014/pages/homework.html,Labs and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15445.courses.cs.cmu.edu/fall2017/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://pl.barzilay.org/resources.html,Lecture Notes/Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses2.cit.cornell.edu/info4302_2012fa/homeworks.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.scs.stanford.edu/14sp-cs240h/slides/,Lecture Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html,10-708,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1133/2013fa/about/overview.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm,6.868J,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://crypto.stanford.edu/cs155/,CS 155,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://theory.stanford.edu/~tim/w16/w16.html,CS 261,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/2004/S14/index.html,CSCE 2004,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://bitbucket.org/cs164_overlord/,Code for Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.cs.washington.edu/courses/cse154/14au/,CSE 154,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php,COS 326,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www3.cs.stonybrook.edu/~skiena/373/,CSE 373,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html,Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm,Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html,Lab1,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/2004/S14/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses2.cit.cornell.edu/cs5724/,CS 5724,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://stanford.edu/class/ee103/julia_files,Code,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm,6.046J/18.410J,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm,6.854J/18.415J,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~epxing/Class/10708-14/homework.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4154/2014fa/,CS 4154,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs.brown.edu/courses/cs173/2014/,CS 173,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~dga/15-440/F12/index.html,15-440,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://stanford.edu/class/ee103/,EE103,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs5220-f11/,CS 5220,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html,Lab2,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html,getting that job in Google,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~dsteurer/toc13/,CS 4810,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.cl.cam.ac.uk/teaching/1516/L28/,L28,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/2004/S14/notes/index.html,Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www-scf.usc.edu/~csci104/20142/labs,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info,CVX 101,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php,CSCI 360,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://people.seas.harvard.edu/~minilek/cs229r/fall15/hmwk.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html,Lab3,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c,Lecture Videos - Spring 2016,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs241/sp2016/mps.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/class/cs107/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/,15-451/651,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/class/cs246/,CS246,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://rpi.edu,Rensselaer Polytechnic Institute,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www-scf.usc.edu/~csci104/20142/lectures/,CSCI 104,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS1110/2014fa/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.csce.uark.edu/~sgauch/2004/S14/hw/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www-scf.usc.edu/~csci104/20142/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://datastructur.es/sp16/,CS 61B,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1133/2013fa/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cse1.net/lectures,CSCI E-1,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0,Marvin Minsky,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3110/2014fa/lecture_notes.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://stanford.edu/~boyd/,Stephen Boyd,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://research.microsoft.com/en-us/people/mickens/,James Mickens,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php,CSCI 493.66,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.cs.ucdavis.edu/~gusfield/cs122f10/syll122.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS2043/2014sp/,CS 2043,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs231n.stanford.edu/syllabus.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/~boyd/cvxbook/,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/,Lectures Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://datastructur.es/sp16/resources.html,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php,CS 140,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5114/2013sp/index.php,CS 5114,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/cs3410/2016fa/,CS 3410,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ini740.com/F19/,14-740,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/,6.006,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://people.csail.mit.edu/nickolai/,Nickolai Zeldovich,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3110/2014fa/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15445.courses.cs.cmu.edu/fall2017/schedule.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://css.csail.mit.edu/6.858/2014/schedule.html,Video Lectures and Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://crcv.ucf.edu/courses/CAP5415/,CAP 5415,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://pdos.csail.mit.edu/6.828/2014/schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://canvas.instructure.com/courses/904706,CS 6670,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1112/2014fa/,CS 1112,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://course.fast.ai/ml.html,Fast.ai Introduction to Machine Learning for Coders,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www-scf.usc.edu/~csci104/20142/resources.html,Additional Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php,CSCI 493.75,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs3220-s12/,CS 3220,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x,edX,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.eecs.umich.edu/courses/eecs588/,EECS 588,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://webpages.uncc.edu/~jmconrad/EducationalMaterials/index.html,ECGR4101/5101,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.bren.ucsb.edu/people/Faculty/james_frew.htm,James Frew,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.icir.org/vern/cs261n-Sp14/,CS 261,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://compsci.hunter.cuny.edu/~sweiss/courses/csci135.php,CSCI 135,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs3220-s12/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://pdos.csail.mit.edu/6.828/2011/schedule.html,Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs241/sp2016/labs.html,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs50.tv,here,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.utah.edu/~mflatt/,Professor Matthew Flatt,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.ece.cmu.edu/~ece447/s15/doku.php?id=readings,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/,CS 276,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.seas.ucla.edu/~vandenbe/,Lieven Vandenberghe,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.tufts.edu/Course/75/Labs,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://stellar.mit.edu/S/course/6/sp15/6.045/courseMaterial/topics/topic1/syllabus/syllabus2015/syllabus2015.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://aaronbloomfield.github.io/pdr/slides/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1112/2014fa/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.tufts.edu/Course/75,CS 75,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~dsteurer/toc13/syllabus/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4154/2014fa/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.andrew.cmu.edu/course/15-749/,15-749,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://canvas.instructure.com/courses/904706/assignments/syllabus,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://en.wikipedia.org/wiki/Manuel_Blum,Manuel Blum,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html,CSE P 501,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://htdp.org/2003-09-26/Book/,HtDP,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/class/cs276/index.html,CS276,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://work.caltech.edu/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://mchow01.github.io,Ming Y. Chow,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1112/2014fa/Exercises/exercises.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs.brown.edu/courses/cs173/2012/book/,awesome,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm,6.001,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/,Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6700/2013sp/,CS 6700,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.ops-class.org/,Hack the Kernel,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/,CS 287,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs3220-s12/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html,CS 5150,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://pdos.csail.mit.edu/6.828/2014/schedule.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm,Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.scs.stanford.edu/14sp-cs240h/,CS 240h,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://webpages.uncc.edu/~jmconrad/EducationalMaterials/index.html,ECGR4101/5101,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=readings,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961,Updated courses for iOS9 - Swift,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://aaronbloomfield.github.io/pdr/slides/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://crypto.stanford.edu/cs155/,CS 155,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php,CSCI 360,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://hkn.eecs.berkeley.edu/exams/course/CS/61C,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/,15-451/651,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/,Old Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6118/2012fa/,CS 6118,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://rpi.edu,Rensselaer Polytechnic Institute,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://15721.courses.cs.cmu.edu/spring2016/,15-721,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php,CS 6452,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://jhalderm.com/,J. Alex Halderman,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~bindel/class/cs3220-s12/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.sunysb.edu/~algorith/video-lectures/,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1112/2014fa/Projects/projects.html,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://web.stanford.edu/class/cs143/,CS 143,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.berkeley.edu/~jrs/61b/lab/index.html,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.cs.washington.edu/courses/csep552/16wi/,CSEP 552,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4300/2013fa/,CS 4300,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.cs.washington.edu/courses/csep501/09au/homework/index.html,Assignments, Tests, and Solutions,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://see.stanford.edu/Course/CS106A,CS 106A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/watch?v=9DWlqtsNGV0&index=1&list=PLmP5iIyVnKPQ-cO_EENdUgEdlRf0u5LYa,Youtube Playlist,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~dsteurer/toc13/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs61a.org/,CS 61A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15721.courses.cs.cmu.edu/spring2016/syllabus.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses2.cit.cornell.edu/cs5724/,CS 5724,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm,6.868J,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.tufts.edu/Course/75/Labs,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.scs.stanford.edu/14sp-cs240h/slides/,Lecture Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4152/2014sp/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www-scf.usc.edu/~csci104/20142/lectures,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15445.courses.cs.cmu.edu/fall2017/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs241/sp2016/index.html,CS 241,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php,CSCI 493.66,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses2.cit.cornell.edu/info4302_2012fa/course_information.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://people.seas.harvard.edu/~minilek/cs229r/fall15/hmwk.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://stellar.mit.edu/S/course/6/sp15/6.045/index.html,6.045,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS4410/2014fa/,CS 4410,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://jhalderm.com/pub/papers/dcvoting-fc12.pdf,US,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html,CSCI-UA.0202: Operating Systems (Undergrad),https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.berkeley.edu/~luca/cs278-08/,CS 278,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://papl.cs.brown.edu/2014/index.html,books,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.andrew.cmu.edu/course/15-749/READINGS/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://canvas.instructure.com/courses/904706/assignments,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs.wheaton.edu/~tvandrun/dmfp/,DMFP,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs425/fa2016/index.html,CS 425,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.eng.utah.edu/~cs1410-20/schedule.html,Lectures and Assignments 1,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://jhalderm.com/pub/papers/ivoting-ccs14.pdf,over,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://inst.eecs.berkeley.edu/~cs294-101/sp15/,CS 294,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1112/2014fa/,CS 1112,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.cs.ucdavis.edu/~gusfield/cs122f10/syll122.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://online.stanford.edu/course/computer-science-101-self-paced,CS 101,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html,Lab1,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://en.wikipedia.org/wiki/Manuel_Blum,Manuel Blum,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/cse154/14au/,CSE 154,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://pdos.csail.mit.edu/6.828/2011/schedule.html,Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm,6.046J/18.410J,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://nb.mit.edu/,problem set and lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php,CSCI 493.75,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html,CS 75,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/,Lectures Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://stanford.edu/class/ee103/homework.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4154/2014fa/,CS 4154,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://statweb.stanford.edu/~tibs/ElemStatLearn/,Elements of Statistical Learning,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/class/cs107/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html,Lab2,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/cse331/15sp/,CSE 331,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html,Github Page,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung,Dr. Ching-Yung Lin,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs241/sp2016/mps.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~ninamf/courses/601sp15/,10-601,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://canvas.instructure.com/courses/904706,CS 6670,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x,edX,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.seas.upenn.edu/~cis500/cis500-f14/index.html,CIS 500,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm,CS 6630,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs.wheaton.edu/~tvandrun/dmfp/source.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.tufts.edu/Course/75/Learningunits,Text Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule,DS-GA 1008,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1112/2014fa/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/,6.006,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs231n.stanford.edu/syllabus.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15721.courses.cs.cmu.edu/spring2016/syllabus.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~dsteurer/toc13/,CS 4810,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www-scf.usc.edu/~csci104/20142/labs,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm,6.854J/18.415J,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://dcg.ethz.ch/lectures/podc_allstars/,PODC,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://love2d.org/,LÖVE 2D,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses2.cit.cornell.edu/cs5724/schedule.htm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.icir.org/vern/cs261n-Sp14/,CS 261,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html,Lab3,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php,CS 140,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://stellar.mit.edu/S/course/6/sp15/6.045/courseMaterial/topics/topic1/syllabus/syllabus2015/syllabus2015.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.umd.edu/class/spring2015/cmsc430/,CMSC 430,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos,Youtube,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf,incremental approach to compiler design,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://work.caltech.edu/homeworks.html,Homework,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5114/2013sp/index.php,CS 5114,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.berkeley.edu/~brewer/cs262/,CS 262a,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml,Project Ideas and Datasets,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3110/2014fa/,CS 3110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.eng.utah.edu/~cs2420-20/,CS2420-20,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://research.microsoft.com/en-us/people/mickens/,James Mickens,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs5220-f11/,CS 5220,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://llcao.net/cu-deeplearning15/index.html,EECS E6894,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.eecs.umich.edu/courses/eecs588/,EECS 588,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://bitbucket.org/cs164_overlord/,Code for Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www-scf.usc.edu/~csci104/20142/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info,CVX 101,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c,Lecture Videos - Spring 2016,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://see.stanford.edu/Course/CS106A,CS 106A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.umd.edu/class/spring2015/cmsc430/Schedule.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1130/2014sp/,CS 1130,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://rust-class.org/index.html,CS 4414,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://video.bilkent.edu.tr/course_videos.php?courseid=10,CS 411,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.cs.washington.edu/courses/csep552/13sp/video/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://blue.cse.buffalo.edu/people/gwa/,Dr.Geoffrey Challen,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://rust-class.org/pages/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs498374/fa2014/,CS 374,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1115/2013fa/,CS 1115,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://rust-class.org/pages/classes.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs425/fa2016/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.pyret.org/,Pyret,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~213/,15-213,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/~dsteurer/toc13/homework/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://pgbovine.net/cpython-internals.htm,CSC 253,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses2.cit.cornell.edu/info4302_2012fa/lectures.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html,10-708,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1112/2014fa/Exercises/exercises.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs241/sp2016/labs.html,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15445.courses.cs.cmu.edu/fall2017/schedule.html,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs50.tv,here,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://people.csail.mit.edu/nickolai/,Nickolai Zeldovich,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html,CS 91,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.cs.ucdavis.edu/~gusfield/cs222w11/,ECS 222A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.ischool.berkeley.edu/courses/i290-abdt,Info 290,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cmu.edu/~213/schedule.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html,Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://inst.eecs.berkeley.edu/~cs10/fa14/,CS 10,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://complexity16.dsteurer.org/,CS 6810,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://mitpress.mit.edu/sicp/full-text/book/book.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.ops-class.org/slides/,Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.pyret.org/,Pyret,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/,CS 108,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3152/2014sp/,CS 3152,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://inst.eecs.berkeley.edu/~cs162/sp15/,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cis.upenn.edu/~bcpierce/sf/current/index.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography,CIS 581,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs425/fa2016/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php,CS 3110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/csep552/16wi/,CSEP 552,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs.brown.edu/courses/cs173/2014/,CS 173,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www-scf.usc.edu/~csci104/20142/resources.html,Additional Resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php,CS 6452,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.umd.edu/class/spring2015/cmsc430/Projects.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://canvas.instructure.com/courses/904706/assignments/syllabus,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.utah.edu/~mflatt/,Professor Matthew Flatt,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://jhalderm.com/,J. Alex Halderman,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.berkeley.edu/~culler/,David Culler,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://llcao.net/cu-deeplearning15/programming_problem.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3110/2014fa/course_info.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://css.csail.mit.edu/6.858/2014/schedule.html,Video Lectures and Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://compsci.hunter.cuny.edu/~sweiss/courses/csci135.php,CSCI 135,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www3.cs.stonybrook.edu/~skiena/373/,CSE 373,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.eli.sdsu.edu/courses/fall15/cs696/index.html,CS 696,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf,Book,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0,Marvin Minsky,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://rust-class.org/pages/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1130/2014sp/about/overview.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://htdp.org/2003-09-26/Book/,HtDP,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.andrew.cmu.edu/course/15-749/,15-749,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~epxing/Class/10708-14/homework.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1112/2014fa/Projects/projects.html,Projects,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.pyret.org/,Pyret,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://see.stanford.edu/Course/CS106B,CS 106B,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.seas.upenn.edu/~cis500/cis500-f14/index.html,CIS 500,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://cs162.eecs.berkeley.edu/,UCB's CS162,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://rust-class.org/pages/classes.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/~boyd/cvxbook/,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs425/fa2016/index.html,CS 425,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.hmc.edu/csforall/,CS-for-all,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.andrew.cmu.edu/course/15-749/READINGS/,Readings,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html,CSCI-UA.0202: Operating Systems (Undergrad),https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs.brown.edu/courses/cs173/2012/book/,awesome,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.cs.ucdavis.edu/~gusfield/cs222w11/,ECS 222A,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://stanford.edu/class/ee103/julia_files,Code,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/class/cs246/,CS246,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://jhalderm.com/pub/papers/dcvoting-fc12.pdf,US,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/,CS 108,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~dsteurer/toc13/syllabus/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://canvas.instructure.com/courses/904706/assignments,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3110/2014fa/lecture_notes.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/cse341/16sp/,CSE 341,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses2.cit.cornell.edu/info4302_2012fa/homeworks.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.cl.cam.ac.uk/teaching/1516/L28/,L28,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4154/2014fa/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html,Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://inst.eecs.berkeley.edu/~cs10/fa14/,CS 10,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php,COS 326,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography,CIS 581,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/csep552/13sp/video/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1130/2014sp/web-lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/,CS 287,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/2004/S14/index.html,CSCE 2004,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1115/2013fa/,CS 1115,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://stanford.edu/class/ee103/,EE103,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://6004.mit.edu/,6.004,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~213/,15-213,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://jhalderm.com/pub/papers/ivoting-ccs14.pdf,over,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm,CS 6630,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs425/fa2016/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://inst.eecs.berkeley.edu/~cs168/fa15/,CS 168,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3110/2014fa/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html,Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/2004/S14/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://homes.cs.washington.edu/~djg/teachingMaterials/spac/,SPAC,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.cs.hmc.edu/twiki/bin/view/ModularCS1,Lectures and Other resources,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.stanford.edu/class/cs276/index.html,CS276,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://see.stanford.edu/Course/CS107,CS 107,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/watch?v=9DWlqtsNGV0&index=1&list=PLmP5iIyVnKPQ-cO_EENdUgEdlRf0u5LYa,Youtube Playlist,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://papl.cs.brown.edu/2014/,PAPL,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cmu.edu/~213/schedule.html,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://inst.eecs.berkeley.edu/~cs162/sp15/,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://inst.eecs.berkeley.edu/~cs294-101/sp15/,CS 294,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://papl.cs.brown.edu/2014/index.html,books,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html,getting that job in Google,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~dsteurer/toc13/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://css.csail.mit.edu/6.824/2014/index.html,6.824,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.eng.utah.edu/~cs1410-20/schedule.html,Lectures and Assignments 1,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://complexity16.dsteurer.org/syllabus/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://inst.eecs.berkeley.edu/~cs168/fa14/,CS 168,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php,Lecture Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1130/2014sp/assignments/index.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs109.github.io/2014/pages/schedule.html,Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs3220-s12/,CS 3220,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://web.stanford.edu/class/cs193a/lectures.shtml,CS 193a,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://papl.cs.brown.edu/2014/,PAPL,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS3152/2014sp/about/faq.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://philipmjohnson.org/,Philip Johnson,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs498374/fa2014/work.html,Assignments/Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://see.stanford.edu/Course/CS107,CS 107,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://complexity16.dsteurer.org/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/s_labs.html,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html,Lecture Notes/Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/2004/S14/notes/index.html,Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html,CSE P 501,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://video.bilkent.edu.tr/course_videos.php?courseid=10,CS 411,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm,6.001,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://otfried.org/courses/cs109/index.html,CS 109,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.neilvandyke.org/racket-sicp/,IDE,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://inst.eecs.berkeley.edu/~cs168/fa14/class.html,Lecture Notes & Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://complexity16.dsteurer.org/homework/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/Courses/cs3110/2014fa/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/iap/interview/index.php,6.INT,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://homes.cs.washington.edu/~djg/teachingMaterials/spac/,SPAC,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs109.github.io/2014/pages/homework.html,Labs and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.pyret.org/,Pyret,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs425/fa2016/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs3220-s12/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/s_labs.html,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php,CS 3110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.csce.uark.edu/~sgauch/2004/S14/hw/index.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://inst.eecs.berkeley.edu/~cs168/fa14/,CS 168,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://web.stanford.edu/class/cs193a/videos.shtml,here,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://web.mit.edu/6.005/www/fa16/,6.005,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.eng.utah.edu/~cs2420-20/schedule.html,Lectures and Assignments 2,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/,CS 276,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://stanford.edu/~boyd/,Stephen Boyd,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236,Lecture Notes,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.ece.cmu.edu/~ece447/s15/doku.php?id=start,18-447,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs3220-s12/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1133/2013fa/,CS 1133,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/,Lectures and Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cse1.net/lectures,CSCI E-1,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cis.upenn.edu/~bcpierce/sf/current/index.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3152/2014sp/,CS 3152,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS1109/2013su/,CS 1109,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/iap/interview/materials.php,Handouts,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://css.csail.mit.edu/6.824/2014/index.html,6.824,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://blogs.ischool.berkeley.edu/i290-abdt-s12/,Previous Years coursepage,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4120/2013fa/,CS 4120,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://courses.csail.mit.edu/iap/interview/calendar.php,Topics Covered,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://15462.courses.cs.cmu.edu/fall2015,CMU 462,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://inst.eecs.berkeley.edu/~cs168/fa14/class.html,Lecture Notes & Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~dsteurer/toc13/homework/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://users.ece.cmu.edu/~omutlu/,Onur Mutlu,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://htdp.org/2003-09-26/Book/curriculum.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS1109/2013su/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/,CS 452,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.cs.cornell.edu/courses/CS4120/2013fa/overview.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/~bindel/class/cs3220-s12/assignments.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php,Lecture Slides,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/iap/interview/index.php,6.INT,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cs.washington.edu/courses/csep501/09au/homework/index.html,Assignments, Tests, and Solutions,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.seas.ucla.edu/~vandenbe/,Lieven Vandenberghe,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1133/2013fa/about/overview.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/iap/interview/materials.php,Handouts,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS3152/2014sp/about/faq.php,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1109/2013su/syllabus.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.programming-challenges.com/pg.php?page=index,programming competitions,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://15462.courses.cs.cmu.edu/fall2015,CMU 462,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://web.stanford.edu/class/cs143/,CS 143,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://complexity16.dsteurer.org/,CS 6810,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/Courses/cs3110/2014fa/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs.wheaton.edu/~tvandrun/dmfp/,DMFP,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4300/2013fa/,CS 4300,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.eng.utah.edu/~cs2420-20/schedule.html,Lectures and Assignments 2,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.berkeley.edu/~luca/cs278-08/,CS 278,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.csail.mit.edu/iap/interview/calendar.php,Topics Covered,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.berkeley.edu/~jrs/61b/lab/index.html,Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://htdp.org/2003-09-26/Book/curriculum.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://courses.cms.caltech.edu/cs179/,CS 179,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cs.wheaton.edu/~tvandrun/dmfp/source.html,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS1133/2013fa/lectures/index.php,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule,DS-GA 1008,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.tufts.edu/Course/75,CS 75,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://complexity16.dsteurer.org/syllabus/,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4120/2013fa/,CS 4120,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs498374/fa2014/,CS 374,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://mchow01.github.io,Ming Y. Chow,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://sites.google.com/site/cs186spring2015/,CS 186,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://racket-lang.org/,Racket Language,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://mitpress.mit.edu/sicp/full-text/book/book.html,Textbook,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.ischool.berkeley.edu/courses/i290-abdt,Info 290,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule,Lectures and Recitation,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.seas.upenn.edu/~cis194/,CIS 194,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://cs61a.org/extra.html,Extra Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://complexity16.dsteurer.org/lectures/,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.sunysb.edu/~algorith/video-lectures/,Lecture Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.cs.cornell.edu/courses/CS4120/2013fa/overview.html,Syllabus,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs498374/fa2014/work.html,Assignments/Exams,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://complexity16.dsteurer.org/homework/,Assignments,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS2110/2014fa/index.html,CS 2110,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.seas.upenn.edu/~cis194/spring13/index.html,Previous,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F,Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html,Lecture Notes/Labs,https://github.com/prakhar1989/awesome-courses#readme,University Courses
 http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html,lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule,Lectures and Recitation,https://github.com/prakhar1989/awesome-courses#readme,University Courses
-https://sites.google.com/site/cs186spring2015/,CS 186,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://www.neilvandyke.org/racket-sicp/,IDE,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://web.mit.edu/6.005/www/fa16/,6.005,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://ocw.tufts.edu/Course/75/Learningunits,Text Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F,Videos,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://blogs.ischool.berkeley.edu/i290-abdt-s12/,Previous Years coursepage,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+http://philipmjohnson.org/,Philip Johnson,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://work.caltech.edu/lectures.html,Lectures,https://github.com/prakhar1989/awesome-courses#readme,University Courses
+https://work.caltech.edu/homeworks.html,Homework,https://github.com/prakhar1989/awesome-courses#readme,University Courses

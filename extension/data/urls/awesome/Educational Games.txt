@@ -1,46 +1,49 @@
 https://en.m.wikipedia.org/wiki/Educational_game,,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://getmimo.com/,Mimo,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://boolean.method.ac/,The Boolean Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 http://vimgenius.com/,Vim Genius,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-http://www.canonoutsideofauto.ca/,Canon Explains Exposure,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://cantunsee.space/,Can't Unsee,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://www.duolingo.com/,Duolingo,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://www.codeavengers.com/,Code Avengers,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://betterwebtype.com/font-memory-game,Font Memory Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://csunplugged.org/en/,CS Unplugged,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://www.duolingo.com/,Duolingo,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://www.pluralsight.com/codeschool,Code School,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://method.ac/,Method of Action,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-http://www.postcrashgames.com/finitris/,Finitris,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://code.org/,Code.org,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-http://guessthecorrelation.com/,Guess The Correlation,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://www.codecademy.com/,Codecademy,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+http://www.canonoutsideofauto.ca/,Canon Explains Exposure,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 http://programminggames.org/,Programming Games Wiki,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://bezier.method.ac/,The Bézier Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://codecombat.com/,CodeCombat,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://learningmusic.ableton.com,Learning Music,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://regexone.com/lesson/introduction_abcs,RegexOne,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://learningsynths.ableton.com/,Learning Synths,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://color.method.ac/,Color,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://cantunsee.space/,Can't Unsee,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml,Five Reasons to Use Games in the Classroom,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://www.codingame.com/start,CodinGame,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://shape.method.ac/,Shape Type,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://flukeout.github.io/,CSS Diner,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://pianu.com,Pianu,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://david-peter.de/cube-composer/,Cube Composer,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://betterwebtype.com/font-memory-game,Font Memory Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://regexone.com/lesson/introduction_abcs,RegexOne,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 http://cssgridgarden.com/,CSS Grid Garden,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-http://box-256.com/,BOX-256,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://type.method.ac/,Kern Type,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://method.ac/,Method of Action,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://csunplugged.org/en/,CS Unplugged,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 http://www.flexboxdefense.com/,Flexbox Defense,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://deadlockempire.github.io/,Deadlock Empire,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://md5crypt.github.io/clipsgame/,Clips the Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://alf.nu/ReturnTrue,ReturnTrue,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://code.org/,Code.org,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+http://www.postcrashgames.com/finitris/,Finitris,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://www.codecademy.com/,Codecademy,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 http://flexboxfroggy.com/,Flexbox Froggy,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://www.freecodecamp.org/,Free Code Camp,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://learngitbranching.js.org/,Learn Git Branching,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://www.flexboxgame.com/,Flexbox with Webflow,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-http://pixact.ly/,Pixactly,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://www.openvim.com/,Open Vim,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
-https://vim-adventures.com/,Vim Adventures,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://bezier.method.ac/,The Bézier Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://screeps.com/,Screeps,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+http://guessthecorrelation.com/,Guess The Correlation,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://codecombat.com/,CodeCombat,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://color.method.ac/,Color,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://www.flexboxgame.com/,Flexbox with Webflow,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://www.apple.com/swift/playgrounds/,Swift Playgrounds,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://learningmusic.ableton.com,Learning Music,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://www.codingame.com/start,CodinGame,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://alexnisnevich.github.io/untrusted/,Untrusted,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://learningsynths.ableton.com/,Learning Synths,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://shape.method.ac/,Shape Type,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://www.openvim.com/,Open Vim,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://mmckegg.github.io/web-audio-school/,Web Audio School,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://david-peter.de/cube-composer/,Cube Composer,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://xss-game.appspot.com,XSS game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://deadlockempire.github.io/,Deadlock Empire,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://type.method.ac/,Kern Type,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://vim-adventures.com/,Vim Adventures,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://www.freecodecamp.org/,Free Code Camp,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://pianu.com,Pianu,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
 https://yrgo.se,Yrgo,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://learngitbranching.js.org/,Learn Git Branching,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+http://box-256.com/,BOX-256,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+https://md5crypt.github.io/clipsgame/,Clips the Game,https://github.com/yrgo/awesome-educational-games#readme,Educational Games
+http://pixact.ly/,Pixactly,https://github.com/yrgo/awesome-educational-games#readme,Educational Games

@@ -1,0 +1,1 @@
+https://ponyfoo.com/articles/polyfills-or-ponyfills,Polyfills or Ponyfills?,https://github.com/Richienb/awesome-ponyfills#readme,Ponyfills error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

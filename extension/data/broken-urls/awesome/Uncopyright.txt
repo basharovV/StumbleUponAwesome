@@ -1,9 +1,12 @@
-https://www.spacex.com/media,SpaceX media,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://michaelbeil.com/uncopyright,Michael Beil,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.spacex.com/media,SpaceX media,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pixabay.com/service/license/,Pixabay License,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://charb.it/uncopyright/,Char Bit,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://pixabay.com/forum/official-pixabay-news-2/the-pixabay-license-7823/,in 2019,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://charb.it/uncopyright/,Char Bit,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4,still in the public domain,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.stafforini.com/tango/uncopyright/,Puro compás,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pixabay.com/service/,terms of service,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://pxhere.com/it/license,PxHere,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://web.archive.org/web/20170412063800/https://www.flickr.com/photos/spacex/16787988882/,Flickr,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: timeout('The read operation timed out') | reason: 
+https://www.blendswap.com/blends/search?keywords=+&is_fan_art=1&blend_license=CC-0&render_engine=&sort=downloads&direction=desc,BlendSwap: CC0 search,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: timeout('The read operation timed out') | reason: 
+http://www.stafforini.com/tango/uncopyright/,Puro compás,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://refereemindset.com/uncopyright,Referee Mindset,https://github.com/johnjago/awesome-uncopyright#readme,Uncopyright error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,1 +1,1 @@
-https://wiki.bash-hackers.org/scripting/style,Scripting with style,https://github.com/NARKOZ/guides#readme,Design and Development Guides error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
+https://atlassian.design/server/foundations/writing-style/,Writing style,https://github.com/NARKOZ/guides#readme,Design and Development Guides error: <HTTPError 404: 'Not Found'> | reason: Not Found

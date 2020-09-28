@@ -1,8 +1,9 @@
-https://amiigo.com/,Amiigo,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+http://www.logsit.com/,Logsit,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/,Self-Tracking,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://ubiome.com/,uBiome,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8,Perspective,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
 https://jawbone.com/up,Jawbone UP,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://quantifiedself.com/qs-access-app/,QS Access,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.cardiio.com/,Cardiio,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+http://www.cardiio.com/,Cardiio,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8,Moods by Mokriya,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
 https://secure-nikeplus.nike.com/plus/what_is_fuel/,Nike Fuel,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: <HTTPError 410: 'Gone'> | reason: Gone
 https://quantifyme.io/,Wearables Table,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://ubiome.com/,uBiome,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://exist.io/,Exist,https://github.com/woop/awesome-quantified-self#readme,Quantified Self error: timeout('The read operation timed out') | reason: 

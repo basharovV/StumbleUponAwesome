@@ -1,0 +1,255 @@
+https://awesomestacks.dev/,,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/stackshare/awesome-stacks,,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+http://awesome.re/,awesome list,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/react-next-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://nextjs.org/,Next.js,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/next-js,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://testing-library.com/docs/react-testing-library/intro,React Testing Library,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/react-testing-library,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://emotion.sh/,Emotion,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/emotion,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.i18next.com/,I18next,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://redux-saga.js.org/,Redux Saga,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/react-starter-kit,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://reactjs.org/,React,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/react,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://webpack.js.org/,Webpack,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/webpack,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://graphql.org/,GraphQL,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/graphql,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://babeljs.io/,Babel,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/babel,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://expressjs.com/,Express,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/expressjs,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://nodejs.org/,Node.js,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/nodejs,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/react-firebase-starter,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://firebase.google.com/,Firebase,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/firebase,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://facebook.github.io/create-react-app/,Create React App,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/create-react-app,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://material-ui.com/,Material UI,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/material-ui,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://facebook.github.io/relay/,Relay,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/relay,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/vue-starter,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://vuejs.org/,Vue.js,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/vue-js,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.typescriptlang.org/,TypeScript,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/typescript,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://jestjs.io/,Jest,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/jest,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://prettier.io/,Prettier,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/prettier,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://vuex.vuejs.org/,Vuex,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://router.vuejs.org/,Vue Router,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://vue-starter.herokuapp.com/docs/,vue-starter,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/vue-enterprise-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://cli.vuejs.org/,Vue CLI,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://sass-lang.com,Sass,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/sass,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/progressive-web-app-with-gatsby,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://gatsbyjs.org/,Gatsby,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/gatsbyjs,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://firebase.google.com/docs/firestore/,Cloud Firestore,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/cloud-firestore,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://netlify.com/,Netlify,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/netlify,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.styled-components.com/,styled components,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/styled-components,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.contentful.com/,Contentful,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/contentful,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092,JAMstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/,Learn how to easily build a GatsbyJS website powered by Contentful,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/victor-hugo-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://gohugo.io/,Hugo,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/hugo_2,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://postcss.org/,PostCSS,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/postcss,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/nuxt-type-script-docker,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://nuxtjs.org/,Nuxt,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/nuxt,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://eslint.org/,eslint,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/eslint,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stylelint.io/,stylelint,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/stylelint,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.docker.com/,Docker,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/docker,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/graph-cms-react-apollo,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://graphcms.com/,GraphCMS,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/graphcms,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.apollographql.com/,Apollo,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/apollo,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/strapi-cms-with-gatsby,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://strapi.io,Strapi CMS,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.heroku.com/,Heroku,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/heroku,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/,Building a Static Blog using Gatsby and Strapi,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.youtube.com/playlist?list=PL7Q0DQYATmvgGiz0MbbsMA_aB1V0yLE7a,Learn Gatsby with Strapi Headless CMS Video Series,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/algolia-site-search,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://algolia.com/,Algolia,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/algolia,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://community.algolia.com/docsearch,DocSearch,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/,gatsby-plugin-algolia,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/,instantsearch.js,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://forestry.io/blog/search-with-algolia-in-hugo/,Static site search with Hugo + Algolia,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/mevn-mongo-express-vue-node,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.mongodb.com/,MongoDB,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/mongodb,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://nodejs.org/en/,Node.js,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+http://vemapp.moleculer.services/,Welcome to Vue-Express-Mongo BoilerPlate,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/rock-solid-modern-rails,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://rubyonrails.org/,Rails,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/rails,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://graphql-ruby.org/,GraphQL Ruby,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/graphql-ruby,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://dev.apollodata.com/,Apollo Client,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://heroku.com,Heroku,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://blog.heroku.com/a-rock-solid-modern-web-stack,A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/serverless-stack-with-react-on-aws,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://serverless.com/,Serverless Framework,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/serverless,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://aws.amazon.com/lambda,AWS Lambda,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/aws-lambda,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+http://aws.amazon.com/dynamodb/,DynamoDB,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/amazon-dynamodb,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://aws.amazon.com/cognito/,Amazon Cognito,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/amazon-cognito,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://aws.amazon.com/s3/,Amazon S3,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/amazon-s3,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://aws-amplify.github.io/,AWS Amplify,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/aws-amplify,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://aws.amazon.com/cloudfront/,Amazon CloudFront,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/amazon-cloudfront,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://serverless-stack.com/,serverless-stack.com,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/electron-react-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+http://electron.atom.io/,Electron,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/electron,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://redux.js.org/,Redux,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/reduxjs,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.electron.build,electron-builder,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://electron-react-boilerplate.js.org/,Electron React Boilerplate website,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/vue-with-electron,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a,Vue.js & Electron: The easy way. – Mikeal,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://alligator.io/vuejs/vue-electron/,How to use Vue.js with Electron and Vuex,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/code-coverage-and-ci,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://circleci.com/,CircleCI,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/circleci,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://codecov.io/,Codecov,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/codecov,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.gnu.org/software/bash/,Bash,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/gnu-bash,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/github,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://circleci.com/blog/making-code-coverage-easy-to-see-with-the-codecov-orb/,Making code coverage easy to see with Codecov & CircleCI,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://docs.codecov.io/docs/ci-service-relationship,CI Provider Relationship,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://docs.codecov.io/docs/about-the-codecov-bash-uploader,Codecov Bash Uploader,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/vue-spa-with-laravel,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://php.net,PHP 7,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/php,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://laravel.com/,Laravel,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/laravel,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://laravel.com/docs/5.8/mix,Laravel Mix,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://laravel-news.com/using-vue-router-laravel,Building a Vue SPA with Laravel,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://laravel-news.com/your-first-laravel-application,Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://flask.palletsprojects.com/,Flask,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/flask,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.python.org/,Python,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/python,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://medium.com/@akhilmaulloo/how-to-install-fremp-stack-on-ubuntu-20-04-e4be2a3a88b9,How to install FReMP Stack on Ubuntu?,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://medium.com/@akhilmaulloo/the-fremp-stack-building-a-full-stack-web-application-91308e505250,How to build a full stack web app using FReMP?,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://medium.com/@akhilmaulloo/the-fremp-stack-deploying-to-heroku-163254c3ca4d,How to deploy the app to Heroku?,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://fremp.github.io,Official Website,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/gcp-kubernetes-stack,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://cloud.google.com/kubernetes-engine/,GKE,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/google-kubernetes-engine,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://kubernetes.io/,Kubernetes,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/kubernetes,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://cloud.google.com/stackdriver/,Stackdriver,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/stackdriver,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/ethereum-d-app,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://solidity.readthedocs.io,Solidity,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://web3js.readthedocs.io,web3.js,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://truffleframework.com/truffle,Truffle,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://truffleframework.com/ganache,Ganache,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://truffleframework.com/drizzle,drizzle,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/rails-monitoring-stack,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.skylight.io,Skylight,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/skylight,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://newrelic.com,New Relic,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/new-relic,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.sqreen.com/,Sqreen,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/sqreen,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/user-behavior-analytics-via-segment,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://segment.com,Segment,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/segment,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://marketingplatform.google.com/about/analytics/,Google Analytics,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/google-analytics,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://amplitude.com,Amplitude,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/amplitude,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.fullstory.com/,FullStory,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/fullstory,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+http://kafka.apache.org/,Kafka,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/kafka,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://spark.apache.org,Apache Spark,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/spark,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+http://cassandra.apache.org,Cassandra,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/cassandra,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture,Applying the Lambda Architecture with Spark, Kafka, and Cassandra,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://databricks.com/session/streaming-analytics-with-spark-kafka-cassandra-and-akka,Streaming Analytics with Spark, Kafka, Cassandra, and Akka,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/self-hosted-devops-and-collaboration,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://about.gitlab.com/,GitLab,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/gitlab,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://zulipchat.com,Zulip,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/zulip,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/hubot,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://sentry.io,Sentry,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/sentry,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://taiga.io,Taiga.io,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/taiga,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.metabase.com/,Metabase,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/metabase,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/production-ready-django-docker,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.djangoproject.com/,Django,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/django,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://caddyserver.com/,Caddy,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/caddy,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/res-tful-api-with-java-and-spring-boot,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://spring.io/projects/spring-boot,Spring Boot,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/spring-boot,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://gradle.org/,Gradle,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/gradle,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://docs.oracle.com/javase/specs/index.html,Java,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/java,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://spring.io/guides/gs/spring-boot/,Building an Application with Spring Boot,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/react-native-with-expo-and-hasura,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://hasura.io/,Hasura,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/hasura,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://facebook.github.io/react-native/,React Native,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/react-native,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://expo.io/,Expo,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/expo,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/digitalocean,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://auth0.com/,Auth0,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/auth0,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.udemy.com/course/how-to-make-a-full-stack-react-native-app-with-easy-backend/?referralCode=E944B7F521E0A6B88CD2,Udemy course: Learn the Newest and EASIEST React Native Stack,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/,Tutorial: Fullstack React Native with GraphQL and Authentication,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://docs.hasura.io/1.0/graphql/manual/guides/deployment/digital-ocean-one-click.html,Guide: Hasura GraphQL Engine One-click App on DigitalOcean Marketplace,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/unity-Game-Development-boilerplate,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://unity.com/,Unity,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/unity-3d,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.plasticscm.com/,Plastic SCM,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/plastic-scm,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/teamcity,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.youtube.com/playlist?list=PL29P1RRr5_NzEhAustJCTwdahs60JvcMm,First steps with Plastic SCM in Unity,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://www.plasticscm.com/games,Plastic SCM for Games,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://jenkins.io/,Jenkins,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/jenkins,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://es.atlassian.com/software/jira,Jira,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/jira,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://slack.com,Slack,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io/slack,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://support.acquia.com/hc/en-us/articles/360005167214-Integrating-JIRA-GitHub-Jenkins-and-Slack-in-your-workflow,Integrating Jira, GitHub, Jenkins, and Slack in your workflow,https://github.com/stackshareio/awesome-stacks#readme,Stacks
+https://stackshare.io,StackShare,https://github.com/stackshareio/awesome-stacks#readme,Stacks

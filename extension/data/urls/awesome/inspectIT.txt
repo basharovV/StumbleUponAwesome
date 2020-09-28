@@ -4,12 +4,12 @@ https://inspectit-performance.atlassian.net/browse/INSPECTIT,Issue Tracking,http
 https://inspectit-performance.atlassian.net/wiki/,Documentation,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://blog.novatec-gmbh.de/automated-performance-regression-testing/,Automated Performance Regression Testing Using Open Source Tools,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://dzone.com/articles/how-to-write-your-own-sensor-for-the-open-source-a,How to Write Your Own Sensor,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
-https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/,Cross-JVM Tracing,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/,Using Java Management Extensions (JMX),https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
+https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/,Cross-JVM Tracing,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://www.youtube.com/watch?v=bqZPBsTxAc4,inspectIT in 7 Minutes,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://www.youtube.com/watch?v=x0fnYSANIFk,Integration of inspectIT into a Sping Boot or Java application,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/,Dynamically Change Monitoring Points During JVM Run-Time With inspectIT,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
+https://blog.novatec-gmbh.de/inspectit-restful-services/,Collaboration With inspectIT RESTful Services,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://blog.novatec-gmbh.de/end-user-monitoring-inspectit-1-8/,End User Monitoring done easy in inspectIT 1.8,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 http://creativecommons.org/publicdomain/zero/1.0/,,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
-https://blog.novatec-gmbh.de/inspectit-restful-services/,Collaboration With inspectIT RESTful Services,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT
 https://opensource.com/article/17/3/inspectit,Using Open Source APM Software: inspectIT,https://github.com/inspectit-labs/awesome-inspectit#readme,inspectIT

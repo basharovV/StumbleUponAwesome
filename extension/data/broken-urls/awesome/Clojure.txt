@@ -1,3 +1,12 @@
+http://docs.caudate.me/lucidity/lucid-mind.html,lucid.mind,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://docs.caudate.me/lucidity/lucid-publish.html,lucid.publish,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.tryclj.com/,Try Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://clojurekoans.com,Clojure Koans,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://docs.caudate.me/lucidity/lucid-unit.html,lucid.unit,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://docs.caudate.me/lucidity/lucid-system.html,lucid.system,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://clojurekatas.org,Clojure Katas,https://github.com/razum2um/awesome-clojure#readme,Clojure error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://docs.caudate.me/lucidity/lucid-query.html,lucid.query,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://docs.caudate.me/lucidity/lucid-graph.html,lucid.graph,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sjl.bitbucket.io/clojure-lanterna/,clojure-lanterna,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://docs.caudate.me/lucidity/lucid-distribute.html,lucid.distribute,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://docs.caudate.me/lucidity/lucid-package.html,lucid.package,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://docs.caudate.me/lucidity/lucid-git.html,lucid.git,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found

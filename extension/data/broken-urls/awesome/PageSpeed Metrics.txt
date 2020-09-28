@@ -1,1 +1,2 @@
+https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index,Docs - Visually Complete - WPT,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://calibreapp.com/blog/how-pagespeed-works/,How Google Pagespeed works,https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme,PageSpeed Metrics error: <HTTPError 308: 'Unknown'> | reason: Unknown

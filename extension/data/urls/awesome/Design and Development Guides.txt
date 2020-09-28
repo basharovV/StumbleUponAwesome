@@ -1,42 +1,43 @@
 https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist,Web Application Security Guide/Checklist,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-http://jstherightway.org/,JavaScript: The Right Way,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/htmlcssguide.html,Google HTML/CSS Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/javaguide.html,Google Java Style,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://google.github.io/styleguide/shell.xml,Google Shell Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/htmlcssguide.html,Google HTML/CSS Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://opensource.zalando.com/restful-api-guidelines/,Zalando RESTful API and Event Scheme Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+http://jstherightway.org/,JavaScript: The Right Way,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0,Principles of bot design,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/javaguide.html,Google Java Style,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://wiki.bash-hackers.org/scripting/style,Scripting with style,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://goodui.org/,A Good User Interface,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/objcguide.xml,Google Objective-C Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://css-tricks.com/sass-style-guide/,Sass Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://atlassian.design/server/foundations/writing-style/,Writing style,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices,General Best Practices,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/objcguide.xml,Google Objective-C Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://www.sqlstyle.guide/,SQL Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+http://guides.beanstalkapp.com/deployments/best-practices.html,Deployments Best Practices,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://phptherightway.com/,PHP: The Right Way,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://sass-guidelin.es/,Sass Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://opensource.zalando.com/restful-api-guidelines/,Zalando RESTful API and Event Scheme Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://www.php-fig.org/psr/,PHP Standard Recommendations,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/,Documentation Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0,Principles of bot design,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://help.apple.com/asg/mac/2013/,Apple Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf,Perl Best Practices Quick Reference Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices,General Best Practices,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/xmlstyle.html,Google XML Document Format Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-http://www.catb.org/~esr/faqs/smart-questions.html,How To Ask Questions The Smart Way,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://www.python.org/dev/peps/pep-0008/,PEP 8 - Style Guide for Python Code,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-http://guides.beanstalkapp.com/deployments/best-practices.html,Deployments Best Practices,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://www.sqlstyle.guide/,SQL Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/pyguide.html,Google Python Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://developers.google.com/style/,Google Developer Documentation Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html,C Code Style Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://ivomynttinen.com/blog/ios-design-guidelines,The iOS Design Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://docs.scala-lang.org/style/,Scala Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/jsoncstyleguide.xml,Google JSON Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt,ESA Style Guide for 'C' coding,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://twitter.github.io/effectivescala/,Effective Scala,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://google.github.io/styleguide/vimscriptguide.xml,Google Vimscript Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/cppguide.html,Google C++ Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/xmlstyle.html,Google XML Document Format Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://google.github.io/styleguide/angularjs-google-style.html,An AngularJS Style Guide for Closure Users at Google,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://developers.google.com/machine-learning/guides/rules-of-ml/,Rules of Machine Learning,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://ivomynttinen.com/blog/ios-design-guidelines,The iOS Design Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://www.php-fig.org/psr/,PHP Standard Recommendations,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/jsoncstyleguide.xml,Google JSON Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf,Perl Best Practices Quick Reference Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html,C Code Style Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://www.python.org/dev/peps/pep-0008/,PEP 8 - Style Guide for Python Code,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/pyguide.html,Google Python Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 http://www.betterspecs.org/,Better Specs { rspec guidelines with ruby },https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index,Framework Design Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://infosec.mozilla.org/fundamentals/security_principles.html,Security Principles,https://github.com/NARKOZ/guides#readme,Design and Development Guides
-https://google.github.io/styleguide/javascriptguide.xml,Google JavaScript Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://docs.scala-lang.org/style/,Scala Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt,ESA Style Guide for 'C' coding,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/cppguide.html,Google C++ Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://twitter.github.io/effectivescala/,Effective Scala,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://vuejs.org/v2/style-guide/,The official style guide for Vue-specific code,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index,Framework Design Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://google.github.io/styleguide/javascriptguide.xml,Google JavaScript Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://google.github.io/styleguide/jsguide.html,Google JavaScript Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/,Documentation Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://help.apple.com/asg/mac/2013/,Apple Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+http://www.catb.org/~esr/faqs/smart-questions.html,How To Ask Questions The Smart Way,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://developers.google.com/style/,Google Developer Documentation Style Guide,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://developers.google.com/machine-learning/guides/rules-of-ml/,Rules of Machine Learning,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://infosec.mozilla.org/fundamentals/security_principles.html,Security Principles,https://github.com/NARKOZ/guides#readme,Design and Development Guides
 https://infosec.mozilla.org/guidelines/web_security,Web Security Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines,WebAppSec/Secure Coding Guidelines,https://github.com/NARKOZ/guides#readme,Design and Development Guides

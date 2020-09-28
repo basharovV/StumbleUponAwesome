@@ -1,2 +1,4 @@
+http://www.ringo-framework.org/,Ringo,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: <HTTPError 400: 'Bad Request'> | reason: Bad Request
 https://websauna.org/docs/,Websauna,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://pyconweb.com/talks/28-05-2017/pyramid-workshop,Pyramid Workshop in Munich, Germany.,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://getappenlight.com/,AppEnlight,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://pyconweb.com/talks/28-05-2017/pyramid-workshop,Pyramid Workshop in Munich, Germany.,https://github.com/uralbash/awesome-pyramid#readme,Pyramid error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)

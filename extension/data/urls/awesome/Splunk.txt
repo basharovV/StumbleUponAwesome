@@ -1,44 +1,42 @@
 https://www.splunk.com/en_us/software/splunk-enterprise/server-and-infrastructure-monitoring-and-troubleshooting.html,Splunk App for Infrastructure,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://anthonygtellez.github.io/,Anthony Tellez,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://conf.splunk.com,.Conf,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://splunk.com,Splunk,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://conf.splunk.com,.Conf,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://conf.splunk.com/watch/conf-online.html,Past .Conf Material,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://www.duanewaddle.com/,Duane Waddle,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://www.splunk.com/download,Downloads,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/4370/,Event Timeline Viz,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/3975/,Splunkbase Entry,https://github.com/sduff/awesome-splunk#readme,Splunk
 http://splk.it/slack,Splunk UserGroups Slack,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://www.davidveuve.com/tech/,David Veuve,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/3120/,Timeline,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://www.splunk.com/page/previous_releases,Previous Releases,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://docs.splunk.com/Documentation/InfraApp,SAI Documentation,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://reddit.com/r/splunk,/r/Splunk,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/3514/,Halo,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/4370/,Event Timeline Viz,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://www.davidveuve.com/tech/,David Veuve,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://answers.splunk.com,Splunk Answers,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://gosplunk.com/,GoSplunk,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com,SplunkBase,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/3975/,Splunkbase Entry,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://reddit.com/r/splunk,/r/Splunk,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://docs.splunk.com/Documentation/InfraApp,SAI Documentation,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://blogs.splunk.com/,Splunk Blogs,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://dev.splunk.com,Splunk Dev,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://dev.splunk.com/enterprise/dev_license/,Free Dev License,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://wiki.splunk.com/Community:IRC,IRC,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/3120/,Timeline,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://docs.splunk.com/Documentation/InfraApp/latest/Install/About,SAI Install Guide,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://www.splunk.com/en_us/software/enterprise-security.html,ES Home Page,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://wiki.splunk.com/Community:IRC,IRC,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/4460/,Heat Map,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://answers.splunk.com,Splunk Answers,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://www.mylogocloud.com/splunk,Splunk Store,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://www.splunk.com/en_us/community/splunk-trust.html,Splunk Trust,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com,SplunkBase,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/3162/,Calendar Heat Map,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://simonduff.net/splunk,Simon Duff,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/263/,ES Splunkbase Entry,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/3129/,Punchcard,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://blogs.splunk.com/,Splunk Blogs,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://docs.splunk.com/Documentation/ES/latest,ES Documentation,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://www.rfaircloth.com/,Ryan Faircloth,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://www.splunk.com/en_us/software/it-service-intelligence.html,ITSI Home Page,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://dev.splunk.com,Splunk Dev,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/3117/,Horizon Chart,https://github.com/sduff/awesome-splunk#readme,Splunk
-http://www.georgestarcher.com/,George Starcher,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://dev.splunk.com/enterprise/dev_license/,Free Dev License,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://docs.splunk.com/,Splunk Docs,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://splunk-sizing.appspot.com/,Storage,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/3514/,Halo,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://www.rfaircloth.com/,Ryan Faircloth,https://github.com/sduff/awesome-splunk#readme,Splunk
+http://www.georgestarcher.com/,George Starcher,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/4460/,Heat Map,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://docs.splunk.com/Documentation/ES/latest,ES Documentation,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://www.splunk.com/en_us/software/it-service-intelligence.html,ITSI Home Page,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/3162/,Calendar Heat Map,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/3129/,Punchcard,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://splunkbase.splunk.com/app/3117/,Horizon Chart,https://github.com/sduff/awesome-splunk#readme,Splunk
+https://docs.splunk.com/Documentation/ITSI/latest,ITSI Documentation,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://splunkbase.splunk.com/app/3112/,Sankey Diagram,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://splunkbase.splunk.com/app/1841/,ITSI Splunkbase Entry,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://splunkbase.splunk.com/app/3674/,WebGL Globe,https://github.com/sduff/awesome-splunk#readme,Splunk
 https://usergroups.splunk.com/,UserGroups,https://github.com/sduff/awesome-splunk#readme,Splunk
-https://docs.splunk.com/Documentation/ITSI/latest,ITSI Documentation,https://github.com/sduff/awesome-splunk#readme,Splunk

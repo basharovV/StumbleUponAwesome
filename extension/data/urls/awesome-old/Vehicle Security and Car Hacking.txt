@@ -1,0 +1,119 @@
+https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec,How to hack a car — a quick crash-course,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/,Stopping a Jeep Cherokee on the Highway Remotely,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.troyhunt.com/controlling-vehicle-features-of-nissan/,Troy Hunt on Controlling Nissans,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/,Tesla hackers explain how they did it at Defcon,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/,Anatomy of the Rolljam Wireless Car Hack,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://blog.ioactive.com/2013/08/car-hacking-content.html,IOActive's Tools and Data,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607,Developments in Car Hacking,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf,Car Hacking on the Cheap,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://illmatics.com/carhacking.html,Car Hacking: The definitive source,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap,Car Hacking on the cheap,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://phys.org/news/2017-05-tackle-autonomous-vehicle.html,Researchers tackle autonomous vehicle security,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/,How big data will impact car security in the proximate future: Concerns and solutions,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html,Reverse engineering of the Nitro OBD2,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://p1kachu.pluggi.fr/project/automotive/2018/12/28/subaru-ssm1/,Analysis of an old Subaru Impreza - Subaru Select Monitor v1 (SSM1),https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/,Car Hacking in 30 Minutes or Less,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://samy.pl/defcon2015/,"Drive It Like You Hacked It" from DEFCON 23,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be,Samy Kamkar on Hacking Vehicles with OnStar,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=OobLb1McxnI,Remote Exploitation of an Unaltered Passenger Vehicle,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=n70hIu9lcYo,Adventures in Automotive Networks and Control Units,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=orWqKWvIW_0,Can You Trust Autonomous Vehicles?,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=YLBQdO6a5IQ,Ken Munro & Dave Lodge - Hacking the Mitsubishi Outlander & IOT,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf,A Platform base on Visualization for Protecting CAN Bus Security,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf,Gateway Internals of Tesla Motors,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=P-mzo2X47sg,Car Hacking 101,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=g-a20ORka-A,State of Automotive Cyber Safety, 2015,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=WcObDVy2-1I,State of Automotive Cyber Safety, 2016,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=KX_0c9R4Fng,How to Hack a Tesla Model S,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://tekeye.uk/automotive/cyber-security/car-hacking-videos,Car Hacking Videos,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=C29UGFsIWVI,Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=MAGacjNw0Sw,A Survey of Remote Automotive Attack Surfaces,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf,Pentesting vehicles with YACHT (Yet Another Car Hacking Tool),https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=KU7gl1n1tIs,How to drift with any car,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.youtube.com/watch?v=F0mYkI2FJ_4,Car Infotainment Hacking Methodology and Attack Surface Scenario,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://opengarages.org/handbook/,2014 Car Hacker's Handbook,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.amazon.com/Car-Hackers-Manual-Craig-Smith/dp/0990490106?ie=UTF8&keywords=2014%20car%20hacker%27s%20manual&qid=1405445024&ref_=sr_1_1&sr=8-1,here,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032,2016 Car Hacker's Handbook,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.nostarch.com/carhacking,No Starch Press,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.amazon.com/Comprehensible-Guide-Controller-Area-Network/dp/0976511606/ref=pd_sim_14_1?ie=UTF8&dpID=41-D9UhlE9L&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&psc=1&refRID=3FH8N10610H0RX8SMB6K,A Comprehensible Guide to Controller Area Network,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.amazon.cn/dp/B075QZXY7W,智能汽车安全攻防大揭秘,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR,Controller Area Network Prototyping with Arduino,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR,Embedded Networking with CAN and CANopen,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide,Inside Radio: An Attack and Defense Guide,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.autosec.org/pubs/cars-oakland2010.pdf,Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf,Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://illmatics.com/car_hacking.pdf,Adventures in Automotive Networks and Control Units (aka car hacking),https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://illmatics.com/car_hacking_poories.pdf,Car Hacking for Poories,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://illmatics.com/remote%20attack%20surfaces.pdf,A Survey of Remote Automotive Attack Surfaces, 2014,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://illmatics.com/Remote%20Car%20Hacking.pdf,Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://illmatics.com/can%20message%20injection.pdf,Advanced CAN Message Injection, 2016,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://iamthecavalry.org/5star,5-Star Automotive Cyber Safety Framework, 2015,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf,A Vulnerability in Modern Automotive Standards and How We Exploited It,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://ieeexplore.ieee.org/abstract/document/7413993/,A Car Hacking Experiment: When Connectivity Meets Vulnerability,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://ieeexplore.ieee.org/abstract/document/7223297/,Security issues and vulnerabilities in connected car systems,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.autosec.org/pubs/fingerprint.pdf,Automobile Driver Fingerprinting, 2016,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf,Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://dl.acm.org/citation.cfm?id=3064816,Modeling Inter-Signal Arrival Times for Accurate Detection of
+CAN Bus Signal Injection Attacks,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013,here,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://keenlab.tencent.com/en/,Keen Security Lab Blog,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://opengarages.org/index.php/Main_Page,OpenGarages,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.carhackingvillage.com/,DEFCON Car Hacking Village,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.canbushack.com/blog/index.php,canbushack: Hack Your Car,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.iamthecavalry.org/,I Am The Cavalry,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://community.carloop.io/,Carloop Community,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.pythoncarsecurity.com/,Python Security,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.automotivecybersecurity.com/,U.S. Automotve Cyber Security Summit,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://automotive-cyber-security.iqpc.de/,European Automotive Cyber Security Summit,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.escar.info/,escar conference,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.vdi-wissensforum.de/en/event/it-security-for-vehicles/,IT Security for Vehicles,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://chris.illmatics.com/about.html,Website,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://samy.pl,Website,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.pentestpartners.com/blog,Website,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://iamthecavalry.org,Website,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.carhackingvillage.com/,Website,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.mintynet.com/,Website,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://securityweekly.com/,Security Weekly,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.trustedsec.com/podcast/,TrustedSec Podcast,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://isc.sans.edu/,SANS Internet Storm Center,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://soundcloud.com/securityledger,Security Ledger,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/,Car Hacking with Craig Smith,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://blog.bugcrowd.com/big-bugs-podcast-episode-1,Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.npr.org/2013/08/02/208270026/hacking-under-the-hood-and-into-your-car,Hacking Under the Hood and Into Your Car,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://soundcloud.com/securityledger/chris-valasek-of-ioactive,Hacking Connected Vehicles with Chris Valasek of IOActive,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://makezine.com/2016/04/08/car-hacking-tools-trade/,This article,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.seeedstudio.com/wiki/CAN-BUS_Shield,ChuangZhou CAN-Bus Shield,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.dfrobot.com/index.php?route=product/product&product_id=1444,DFRobot CAN-BUS Shield For Arduino,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.sparkfun.com/products/13262,SparkFun CAN-BUS Shield,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://linklayer.github.io/cantact/,CANtact,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://freematics.com/pages/products/arduino-telematics-kit-3/,Freematics OBD-II Telematics Kit,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.elmelectronics.com/obdic.html,ELM327,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://goodfet.sourceforge.net/hardware/goodthopter12/,GoodThopter12,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.8devices.com/products/usb2can/,USB2CAN,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://store.intrepidcs.com/,Intrepid Tools,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://newae.com/tools/chipwhisperer/,ChipWhisperer,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.carloop.io/,Carloop,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://gutenshit.github.io/CANBadger/,CANBadger,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://bitbucket.org/jcdemay/canspy,CANSPY,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://canb.us/,CANBus Triple,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.fischl.de/usbtin/,USBtin,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://openxcplatform.com/hardware.html,OpenXC,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://macchina.cc/guide/m2,Macchina M2,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://pandwarf.com/,PandwaRF,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.tindie.com/products/muxsan/can-mitm-bridge-3-port-rev-25/,CAN MITM Bridge by MUXSCAN,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://kayak.2codeornot2code.org/,Kayak,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.romraider.com/,RomRaider,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.vanheusden.com/O2OO/,O2OO,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://rbei-etas.github.io/busmaster/,BUSMASTER,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://openxcplatform.com/getting-started/index.html,OpenXC,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix,metasploit,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://mazdatweaks.com/,Mazda AIO Tweaks,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://python-can.readthedocs.io/en/latest/index.html,Python-CAN,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://scapy.readthedocs.io/en/latest/layers/automotive.html,automotive doc,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.uberatc.com/,UberATC,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.intrepidcs.com/jobs/,Intrepid Control Systems,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://www.rapid7.com/company/careers.jsp,Rapid7,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+http://www.ioactive.com/,IOActive,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://hackerone.com/gm,General Motors,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://bugcrowd.com/fca,Fiat Chrysler Automobiles,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking
+https://bugcrowd.com/tesla,Tesla Motors,https://github.com/jaredthecoder/awesome-vehicle-security#readme,Vehicle Security and Car Hacking

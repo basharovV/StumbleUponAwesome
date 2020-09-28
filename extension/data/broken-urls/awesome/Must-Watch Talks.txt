@@ -1,3 +1,3 @@
+http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837,All the Right Moves: How to Put Your UI in Motion,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://jqueryuk.com/2015/videos.php?s=mdo-ular-css,mdo-ular CSS,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://vimeo.com/100501790,Slaying the Dragon: How to Refactor CSS for Maintainability,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks error: <HTTPError 410: 'Gone'> | reason: Gone
-http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837,All the Right Moves: How to Put Your UI in Motion,https://github.com/AllThingsSmitty/must-watch-css#readme,Must-Watch Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found

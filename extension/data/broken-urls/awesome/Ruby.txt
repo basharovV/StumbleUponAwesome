@@ -1,2 +1,2 @@
-http://radiantcms.org,Radiant,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://www.pakyow.org/,Pakyow,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)
+https://thredded.org,Thredded,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://radiantcms.org,Radiant,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

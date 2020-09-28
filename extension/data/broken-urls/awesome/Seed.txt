@@ -1,0 +1,1 @@
+https://crates.io/crates/seed-icons,seed-icons,https://github.com/seed-rs/awesome-seed-rs#readme,Seed error: <HTTPError 404: 'Not Found'> | reason: Not Found

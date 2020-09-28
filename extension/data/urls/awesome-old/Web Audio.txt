@@ -1,0 +1,22 @@
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API,WebAudio,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://xsound.app/,XSound.js,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://okazari.github.io/Rythm.js/,Rythm.js,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://www.npmjs.com/package/soundfont-player,soundfont-player,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://gridsound.github.io,GridSound,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://learningmusic.ableton.com/,Learning Music,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://audionodes.com,AudioNodes,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://dsp.audio/editor/,DSP.audio Worklet Editor,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://audiomass.co/,AudioMass,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://ide.csound.com/,Csound IDE,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://en.wikipedia.org/wiki/Csound,CSound programming language,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://web-audio-api.firebaseapp.com/,Web Audio API Understandable Reference,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735,The Web Audio API: What Is It?,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://padenot.github.io/web-audio-perf/,Web Audio Perf,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr,Browser Noise: Web Audio Tutorials,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://www.routledge.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531,JavaScript for Sound Artists,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://webaudioapi.com/book/,Web Audio API,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://www.webaudioweekly.com,Web Audio Weekly Newsletter,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://web-audio-slackin.herokuapp.com/,Slack,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+http://outputchannel.com/midi-logger/,Midi Logger,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://www.webaudiomodules.org/,Web Audio Modules,https://github.com/notthetup/awesome-webaudio#readme,Web Audio
+https://chinmay.audio/,Chinmay Pendharkar,https://github.com/notthetup/awesome-webaudio#readme,Web Audio

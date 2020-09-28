@@ -1,276 +1,311 @@
-http://www.cs.toronto.edu/~tijmen/,Tijmen Tieleman,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=wZfVBwOO0-k,Demystifying Unsupervised Feature Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07,Deep Learning Crash Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www-i6.informatik.rwth-aachen.de/,Language Processing and Pattern Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ipab.inf.ed.ac.uk/mvu/,Machine Vision Unit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm,Deep Learning Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/,A Beginner's Guide To Understanding Convolutional Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ais.uni-bonn.de/~schulz/,Hannes Schulz,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/,UFLDL Tutorial 2,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://shannon.cs.illinois.edu/DenotationGraph/,Flickr 30k,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW,Deep Learning - UC Berkeley | STAT-157,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ai.stanford.edu/~wzou,Youzhi (Will) Zou,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vision.caltech.edu/~bchen3/Site/Bo_David_Chen.html,Bo David Chen,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=3boKlkPBckA,Visual Perception with Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ee.oulu.fi/research/imag/color/pbfd.html,University of Oulu Physics-based Face Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm,Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://deeplearning4j.org/,DeepLearning4J,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf,An introduction to genetic algorithms,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark,Implementing a Distributed Deep Learning Network over Spark,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf,LSTM,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.manning.com/livevideo/machine-learning-for-mere-mortals,Machine Learning for Mere Mortals video course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://aima.cs.berkeley.edu/,Artificial Intelligence: A Modern Approach,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf,Using Very Deep Autoencoders for Content Based Image Retrieval,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.iro.umontreal.ca/~vincentp,Pascal Vincent,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://users.ics.aalto.fi/alexilin/,Alexander Ilin,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.taurusstudio.net/research/pmtexdb/index.htm,Photometric 3D Surface Texture Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://uvadlc.github.io,UVA Deep Learning Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.fit.vutbr.cz/research/groups/speech/publi/2011/mikolov_icassp2011_5528.pdf,Extensions of Recurrent Neural Network Language Model,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial,Deep Learning for NLP (without Magic),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf,Learning Deep Architectures for AI,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ee.oulu.fi/mvmp/,Machine Vision and Media Processing Unit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://homepages.inf.ed.ac.uk/amos/,Amos Storkey,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start,Deep Learning Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/abs/1506.03340,Paper,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf,Recurrent Neural Network based Language Modeling in Meeting Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://mscoco.org/home/,Microsoft COCO,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://sites.google.com/site/drpngx/,Patrick Nguyen,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.stanford.edu/~jngiam/,Jiquan Mgiam,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=AyzOUbkUf3M,The Next Generation of Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://aass.oru.se/~mlt/,Martin Längkvist,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.outex.oulu.fi,University of Oulu Texture Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://course.fast.ai/part2,Deep Learning from the Foundations,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.utexas.edu/users/ai-lab/,cs.utexas.edu/users/ai-lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://research.google.com/youtube8m/,YouTube-8M Dataset,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1404.7828v4.pdf,Deep Learning in Neural Networks: An Overview,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vision.stanford.edu/feifeili,Fei-Fei Li,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://developer.nvidia.com/cuDNN,cuDNN,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://people.csail.mit.edu/rgrosse/,Roger Grosse,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://mdenil.com/,Misha Denil,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.nyu.edu/~ylan/,Boureau Y-Lan,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html,Large-scale Fashion (DeepFashion) Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://selfdrivingcars.mit.edu/,MIT 6.S094: Deep Learning for Self-Driving Cars,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks,A Deep Learning Tutorial: From Perceptrons to Deep Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://melisgl.github.io/mgl-pax-world/mgl-manual.html,MGL,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://hips.seas.harvard.edu/,hips.seas.harvard.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://homes.cs.washington.edu/~pedrod/,Pedro Domingos,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/,Artificial intelligence and machine learning: Topic wise explanation,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.anc.ed.ac.uk/~amos/afreightdata.html,Air Freight,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/,YOLO: Practical Implementation using Python,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ronan.collobert.com/,Ronan Collobert,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~norouzi/,Mohammad Norouzi,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://neptune.ml/,Neptune,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ahmedbesbes.com,http://ahmedbesbes.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://homepages.inf.ed.ac.uk/pseries/,Peggy Series,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ee.oulu.fi/mvg,Machine Vision Group,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1406.1078v3.pdf,GRU - Gated Recurrent Unit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.utstat.toronto.edu/~rsalakhu/,Ruslan Salakhutdinov,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://introtodeeplearning.com/,MIT 6.S191: Introduction to Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html,View Sphere Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.stanford.edu/~karpathy/,Andrej Karpathy,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html,Sequences for Flow Based Reconstruction,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://nlp.stanford.edu/~socherr/pa4_ner.pdf,Neural Networks for Named Entity Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.manning.com/books/grokking-deep-learning-for-computer-vision,Grokking Deep Learning for Computer Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://rll.berkeley.edu/deeprlcourse/,Berkeley CS 294: Deep Reinforcement Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.metacademy.org/roadmaps/rgrosse/deep_learning,Deep Learning from the Bottom up,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.idsia.ch/~juergen/,Jürgen Schmidhuber,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://plus.google.com/communities/112866381580457264725,Google Plus - Deep Learning Community,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://i21www.ira.uka.de/image_sequences,Traffic Image Sequences and 'Marbled Block' Sequence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://amitness.com/,amitness.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A,Siraj Raval's Deep Learning tutorials,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://i21www.ira.uka.de,IAKS/KOGS,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.ubc.ca/~nando/,Nando de Freitas,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893,Deep Reinforcement Learning (nanodegree) - Udacity,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf,Speech Recognition with Deep Recurrent Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://chainer.org/,Chainer - A flexible framework of neural networks for deep learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html,U Oulu wood and knots database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.washington.edu/research/ai/,cs.washington.edu/research/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn,The wonderful and terrifying implications of computers that can learn,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.imm.dtu.dk/~aam/,Annotated face, hand, cardiac & meat images,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://researcher.watson.ibm.com/researcher/view.php?person=us-bedk,Brian Kingsbury,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.manning.com/books/math-and-architectures-of-deep-learning,Math and Architectures of Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://sites.google.com/site/blancousna/,Justin A. Blanco,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://rnnlm.org/,RNNLM Toolkit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://web.eecs.umich.edu/~honglak/,Honglak Lee,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.aiai.ed.ac.uk/,aiai.ed.ac.uk,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://aiweekly.co,AI Weekly,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cvpr2018.thecvf.com,CVPR - IEEE Conference on Computer Vision and Pattern Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://web.stanford.edu/class/cs294a/handouts.html,Unsupervised Deep Learning - Stanford,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://research.google.com/pubs/105214.html,Ian Goodfellow,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/,A.I - Berkeley,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.imm.dtu.dk/image/,Image Analysis and Computer Graphics,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.dmi.usherb.ca/~larocheh/index_en.html,Hugo Larochelle,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://koray.kavukcuoglu.org/,Koray Kavukcuoglu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.utoronto.ca/~ndjaitly/,Navdeep Jaitly,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://theaisummer.com/,AI Summer,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.idsia.ch/~meier/,Ueli Meier,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ls7-www.cs.uni-dortmund.de/,Computer Science VII (Graphical Systems),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~ilya/,Ilya Sutskever,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vis-www.cs.umass.edu/~vislib/,UMass Vision Image Archive,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://class.coursera.org/ml-005,Machine Learning - Stanford,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.site.uottawa.ca/~laganier/,Robert Laganière,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.icg.tu-graz.ac.at/~schindler/Data,ICG Testhouse sequence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ufldl.stanford.edu/housenumbers/,Google House Numbers,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://nicolas.le-roux.name/,Nicolas Le Roux,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&searchItems=&sessionTopic=&sessionEvent=4&sessionYear=2014&sessionFormat=&submit=&select=+,Caffe Webinar,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~jmartens/,James Martens,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.manning.com/livevideo/keras-in-motion,Keras in Motion video course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://work.caltech.edu/lectures.html,Machine Learning - Caltech,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~kriz/cifar.html,CIFAR-10 and CIFAR-100,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~nitish/,Nitish Srivastava,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.nyu.edu/~sermanet,Pierre Sermanet,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://celweb.vuse.vanderbilt.edu/aamas18/,AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://deeplearning.cs.toronto.edu/i2t,deeplearning.cs.toronto.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.jasonmorton.com/,Jason Morton,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://nips.cc/Conferences/2018,NIPS - Neural Information Processing Systems,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ayyucekizrak.com/,Merve Ayyüce Kızrak,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://groups.csail.mit.edu/vision/TinyImages/,Tiny Images,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/,Using convolutional neural nets to detect facial keypoints tutorial,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/,CAVIAR video sequences of mall and public space behavior,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://nlp.stanford.edu/~manning/,Christopher Manning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~hinton/deeprefs.html,Geoff Hinton's reading list (all papers),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf,Mastering the Game of Go with Deep Neural Networks and Tree Search,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1502.02367v3.pdf,GFRNN,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://sampl.eng.ohio-state.edu,Signal Analysis and Machine Perception Laboratory,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/,A.I - MIT,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vincent.vanhoucke.com,Vincent Vanhoucke,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~graves/preprint.pdf,Supervised Sequence Labelling with Recurrent Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.udemy.com/share/1000gAA0QdcV9aQng=/,Face Detection with Computer Vision and Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~vmnih/,Volodymyr Mnih,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://deeplearning.stanford.edu/,deeplearning.stanford.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf,Statistical Language Models based on Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html,VGG Convolutional Neural Networks Practical,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://course.fast.ai/,Practical Deep Learning For Coders,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.thespermwhale.com/jaseweston/,Jason Weston,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://hackr.io/tutorials/learn-artificial-intelligence-ai,Programming Community Curated Resources,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.clement.farabet.net/,Clement Farabet,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://sourceforge.net/p/rnnl/wiki/Home/,RNNLIB - A recurrent neural network library,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ri.cmu.edu/projects/project_418.html,CMU PIE Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf,Training Recurrent Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://deeplearning.cs.cmu.edu/,Introduction to Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.ijcai-18.org/,IJCAI - 	International Joint Conference on Artificial Intelligence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://amitness.com/2020/02/illustrated-self-supervised-learning/,The Illustrated Self-Supervised Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://marathon.csee.usf.edu/Mammography/Database.html,Mammography Image Databases,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/,www.mpi-inf.mpg.de/departments/computer-vision...,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://jmlr.org/proceedings/papers/v37/chung15.pdf,.,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.manning.com/books/deep-learning-with-python,Deep Learning with Python,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.vision.caltech.edu/html-files/archive.html,Caltech Image Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://yann.lecun.com/,Yann LeCun,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://amitness.com/2020/02/albert-visual-summary/,Visual Paper Summary: ALBERT (A Lite BERT),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html,A beginners Guide to Deep Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://research.microsoft.com/en-us/people/fseide/,Frank Seide,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.nyu.edu/~mirowski/,Piotr Mirowski,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html,Vision and learning - computers and brains,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://nlp.stanford.edu/,nlp.stanford.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~tang/,Yichuan Tang,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf,.,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ai.stanford.edu/~quocle/,Quoc V. Le,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://singa.incubator.apache.org/,Apache SINGA - A General Distributed Deep Learning Platform,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=czLI3oLDe8M,Deep Learning: Intelligence from Big Data,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vision.stanford.edu/teaching/cs231n/syllabus.html,Convolutional Neural Networks for Visual Recognition - Stanford,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html,Yoshua Bengio,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=RIkxVci-R4k,How To Create A Mind,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.manning.com/books/grokking-deep-learning,Grokking Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://research.google.com/pubs/jeff.html,Jeff Dean,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://icml.cc,ICML - 	International Conference on Machine Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=vShMxxqtDDs&index=3&list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT,Recent Developments in Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ai-junkie.com/ann/evolved/nnt1.html,ai-junkie.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r,Statistical Machine Learning - CMU,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 https://www.youtube.com/watch?v=FoO8qDB8gUU,Introduction to Artificial Neural Networks and Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://conferences.oreilly.com/artificial-intelligence/ai-ny,O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html,Neural Networks - usherbrooke,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.cisuc.uc.pt/people/show/2028,Noel Lopes,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.otago.ac.nz/research/vision/index.html,Vision Research Group,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://nlp.stanford.edu/~socherr/thesis.pdf,Recursive Deep Learning for Natural Language Processing and Computer Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.deeplearning.ai/ai-for-everyone/,AI for Everyone,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=6ufPpZDmPKA,Principles of Hierarchical Temporal Memory,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://class.coursera.org/neuralnets-2012-001,Neural Networks for Machine Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.brown.edu/research/ai/,cs.brown.edu/research/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cmap.polytechnique.fr/~mallat/,Stéphane Mallat,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://yota.ro/,Yotaro Kubo,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www-aig.jpl.nasa.gov/,www-aig.jpl.nasa.gov,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 https://www.youtube.com/watch?v=2QJi0ArLq7s&list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT,Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html,The AR Face Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1503.04069v1.pdf,LSTM: A Search Space Odyssey,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ais.uni-bonn.de/behnke/,Sven Behnke,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://mlpack.org/,mlpack - A scalable Machine Learning library,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vision.psych.umn.edu/users/kersten//kersten-lab/kersten-lab.html,Univerity of Minnesota Vision Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~hinton/,Geoffrey Hinton,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://users.ics.aalto.fi/praiko/,Tapani Raiko,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1505.00521v1,Reinforcement Learning Neural Turing Machines,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://nips.cc/Conferences/2016/Schedule,NIPS 2016 lecture and workshop videos,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://medium.com/@ageitgey/,Machine Learning is Fun! Adam Geitgey's Blog,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~gdahl/,George Dahl,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://code.google.com/p/word2vec/,Word2Vec,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ecmlpkdd2018.org,ECML - European Conference on Machine Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.gastrointestinalatlas.com,El Salvador Atlas of Gastrointestinal VideoEndoscopy,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://neupy.com,NeuPy - Theano based Python library for ANN and Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.csail.mit.edu/,csail.mit.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.toronto.edu/~asamir/,Abdel-rahman Mohamed,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://spandan-madan.github.io/DeepLearningProject/,Deep Learning for Beginners,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/,Misc from MIT's 'Advanced Natural Language Processing' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://arxiv.org/pdf/1611.07004v1.pdf,Image-to-Image Translation with Conditional Adversarial Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/,Berkeley Segmentation Dataset 500,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://vimeo.com/80821560,Making Sense of the World with Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1506.00019v1.pdf,A Critical Review of Recurrent Neural Networks for Sequence Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://developer.nvidia.com/deep-learning-courses,Deep Learning - Nvidia,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://iccv2017.thecvf.com,ICCV - International Conference on Computer Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://bias.csr.unibo.it/fvc2000/,FVC2000 Fingerprint Databases,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.icg.tu-graz.ac.at,Institute of Computer Graphics and Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://tvm.ai/,TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.eecs.umich.edu/ai/,eecs.umich.edu/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://research.microsoft.com/en-us/people/deng/,Li Deng,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.sfu.ca/~colour/data/index.html,Computational Colour Constancy Data,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://rvl.www.ecn.purdue.edu/RVL/,Purdue Robot Vision Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.stanford.edu/~acoates/,Adam Coates,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA,Graduate Summer School: Deep Learning, Feature Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf,Speech Recognition with Deep Recurrent Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.imm.dtu.dk/image/,Image Analysis and Computer Graphics,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 http://biolab.csr.unibo.it/home.asp,Biometric Systems Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 https://sites.google.com/site/tsainath/,Tara Sainath,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/,Misc from MIT's 'Machine Learning' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE,Deep Learning - UWaterloo,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://machinelearningmastery.com/blog/,Machine Learning Mastery blog,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://web.mit.edu/torralba/www/database.html,The MIT-CSAIL Database of Objects and Scenes,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.sfu.ca/~colour/,Computational Vision Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1506.02078v1.pdf,Visualizing and Understanding Recurrent Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r,Statistical Machine Learning - CMU,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.aaai.org,AAAI - Association for the Advancement of Artificial Intelligence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.uoguelph.ca/~gwtaylor/,Graham Taylor,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 https://ml-compiled.readthedocs.io/en/latest/,ML Compiled,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://arxiv.org/abs/1704.04861,MobileNets by Google,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf,Wojciech Zaremba, Ilya Sutskever, An Empirical Exploration of Recurrent Network Architectures,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://gregoire.montavon.name/,Grégoire Montavon,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://montrealaisymposium.wordpress.com/,MAIS - Montreal AI Symposium,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.fg-net.org,Face and Gesture images and image sequences,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf,Recurrent Neural Network based Language Model,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.socher.org/,Richard Socher,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html,German Fingerspelling Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.washington.edu/research/imagedatabase/groundtruth/,Content-based image retrieval database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://research.microsoft.com/en-us/people/alexac/,Alex Acero,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.utoronto.ca/~kriz/index.html,Alex Krizhevsky,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.limsi.fr/,LIMSI-CNRS,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://research.google.com/pubs/author37792.html,Andrew W. Senior,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.washington.edu/research/imagedatabase/,Efficient Content-based Retrieval Group,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://personal-homepages.mis.mpg.de/montufar/,Guido Francisco Montúfar,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.cs.rochester.edu/research/ai/,cs.rochester.edu/research/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php,Rob Fergus,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.gatsby.ucl.ac.uk/~amnih/,Andriy Mnih,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://arxiv.org/abs/1710.09829,Dynamic Routing Between Capsules,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://code.google.com/p/cuda-convnet2/,cuda-convnet,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.inria.fr/,INRIA,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ai.sri.com/,ai.sri.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://libccv.org/doc/doc-convnet/,Ccv,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://brainlogging.wordpress.com/,Guillaume Desjardins,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1507.01273v1,Policy Learning with Continuous Memory States for Partially Observed Robotic Control,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://research.microsoft.com/en-us/people/dongyu/default.aspx,Dong Yu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://openreview.net/pdf?id=HJWLfGWRb,Matrix Capsules With Em Routing,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf,Efficient BackProp,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm,Misc from MIT's 'Neural Coding and Perception of Sound' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-https://www.cisuc.uc.pt/people/show/2020,Bernardete Ribeiro,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1505.01861v1.pdf,Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.ijcai-18.org/,IJCAI - 	International Joint Conference on Artificial Intelligence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 http://ludovicarnold.altervista.org/home/,Ludovic Arnold,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://brainlogging.wordpress.com/,Guillaume Desjardins,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://class.coursera.org/neuralnets-2012-001,Neural Networks for Machine Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.deeplearning.ai/ai-for-everyone/,AI for Everyone,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial,UFLDL Tutorial 1,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images,Flickr Data,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://yota.ro/,Yotaro Kubo,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vis-www.cs.umass.edu/~vislib/,UMass Vision Image Archive,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://arxiv.org/abs/1704.04861,MobileNets by Google,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm,Deep Learning Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html,The AR Face Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://code.google.com/p/word2vec/,Word2Vec,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf,An introduction to genetic algorithms,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ais.uni-bonn.de/~schulz/,Hannes Schulz,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php,Rob Fergus,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://code.google.com/p/cuda-convnet2/,cuda-convnet,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.utoronto.ca/~kriz/index.html,Alex Krizhevsky,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW,Deep Learning - UC Berkeley | STAT-157,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~tijmen/,Tijmen Tieleman,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vimeo.com/80821560,Making Sense of the World with Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://nlp.stanford.edu/~socherr/pa4_ner.pdf,Neural Networks for Named Entity Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/,A Beginner's Guide To Understanding Convolutional Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/,UFLDL Tutorial 2,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://nips.cc/Conferences/2016/Schedule,NIPS 2016 lecture and workshop videos,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm,Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://mlpack.org/,mlpack - A scalable Machine Learning library,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/,CAVIAR video sequences of mall and public space behavior,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://research.google.com/pubs/jeff.html,Jeff Dean,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.eecs.umich.edu/ai/,eecs.umich.edu/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.fg-net.org,Face and Gesture images and image sequences,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ai.stanford.edu/~wzou,Youzhi (Will) Zou,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=wZfVBwOO0-k,Demystifying Unsupervised Feature Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://aima.cs.berkeley.edu/,Artificial Intelligence: A Modern Approach,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.otago.ac.nz/research/vision/index.html,Vision Research Group,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://arxiv.org/abs/1710.09829,Dynamic Routing Between Capsules,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://icml.cc,ICML - 	International Conference on Machine Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://uvadlc.github.io,UVA Deep Learning Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start,Deep Learning Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.nlm.nih.gov/research/visible/visible_human.html,NLM HyperDoc Visible Human Project,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07,Deep Learning Crash Course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.lri.fr/~hpaugam/,Hélène Paugam-Moisy,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.sfu.ca/~colour/,Computational Vision Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://users.ics.aalto.fi/alexilin/,Alexander Ilin,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://jmlr.org/proceedings/papers/v37/chung15.pdf,.,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.manning.com/livevideo/machine-learning-for-mere-mortals,Machine Learning for Mere Mortals video course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/,Misc from MIT's 'Advanced Natural Language Processing' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ipab.inf.ed.ac.uk/mvu/,Machine Vision Unit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://neupy.com,NeuPy - Theano based Python library for ANN and Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://homepages.inf.ed.ac.uk/amos/,Amos Storkey,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html,German Fingerspelling Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~hinton/deeprefs.html,Geoff Hinton's reading list (all papers),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511,Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b,Medical Imaging with Deep Learning Tutorial,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://web.eecs.umich.edu/~honglak/,Honglak Lee,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial,Deep Learning for NLP (without Magic),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www-i6.informatik.rwth-aachen.de/,Language Processing and Pattern Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://libccv.org/doc/doc-convnet/,Ccv,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://rvl.www.ecn.purdue.edu/RVL/,Purdue Robot Vision Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~graves/preprint.pdf,Supervised Sequence Labelling with Recurrent Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://tvm.ai/,TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=3boKlkPBckA,Visual Perception with Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://selfdrivingcars.mit.edu/,MIT 6.S094: Deep Learning for Self-Driving Cars,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.utexas.edu/users/ai-lab/,cs.utexas.edu/users/ai-lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://marathon.csee.usf.edu/range/seg-comp/SegComp.html,USF Range Image Data with Segmentation Ground Truth,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.stanford.edu/~jngiam/,Jiquan Mgiam,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://aass.oru.se/~mlt/,Martin Längkvist,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF,Deepmind x UCL Deeplearning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/abs/1506.03340,Paper,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ahmedbesbes.com,ahmedbesbes.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.dmi.usherb.ca/~larocheh/index_en.html,Hugo Larochelle,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/,Misc from MIT's 'Machine Learning' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/,A.I - Berkeley,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893,Deep Reinforcement Learning (nanodegree) - Udacity,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://web.mit.edu/torralba/www/database.html,The MIT-CSAIL Database of Objects and Scenes,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=AyzOUbkUf3M,The Next Generation of Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf,.,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf,Statistical Language Models based on Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://openreview.net/pdf?id=HJWLfGWRb,Matrix Capsules With Em Routing,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://introtodeeplearning.com/,MIT 6.S191: Introduction to Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1505.00521v1,Reinforcement Learning Neural Turing Machines,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vision.stanford.edu/feifeili,Fei-Fei Li,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~ilya/,Ilya Sutskever,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://research.google.com/youtube8m/,YouTube-8M Dataset,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.stanford.edu/~karpathy/,Andrej Karpathy,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://people.csail.mit.edu/rgrosse/,Roger Grosse,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://mdenil.com/,Misha Denil,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ecmlpkdd2018.org,ECML - European Conference on Machine Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf,Training Recurrent Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/,Berkeley Segmentation Dataset 500,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1404.7828v4.pdf,Deep Learning in Neural Networks: An Overview,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://amitness.com/,amitness.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://research.facebook.com/tomas-mikolov,Tomáš Mikolov,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf,Efficient BackProp,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html,Large-scale Fashion (DeepFashion) Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://rll.berkeley.edu/deeprlcourse/,Berkeley CS 294: Deep Reinforcement Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~norouzi/,Mohammad Norouzi,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb,Deepmind x UCL Reinforcement Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ronan.collobert.com/,Ronan Collobert,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/,Misc from MIT's 'Networks for Learning: Regression and Classification' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~jmartens/,James Martens,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.washington.edu/research/imagedatabase/groundtruth/,Content-based image retrieval database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ee.oulu.fi/research/imag/color/pbfd.html,University of Oulu Physics-based Face Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/,A.I - MIT,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn,The wonderful and terrifying implications of computers that can learn,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.limsi.fr/,LIMSI-CNRS,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.washington.edu/research/ai/,cs.washington.edu/research/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe,CMU 11-785 Intro to Deep learning Spring 2020,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks,A Deep Learning Tutorial: From Perceptrons to Deep Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.iro.umontreal.ca/~vincentp,Pascal Vincent,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ece.ncsu.edu/imaging,Image Analysis Laboratory,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.utstat.toronto.edu/~rsalakhu/,Ruslan Salakhutdinov,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html,Vision and learning - computers and brains,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.jasonmorton.com/,Jason Morton,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://theaisummer.com/,AI Summer,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://web.stanford.edu/class/cs294a/handouts.html,Unsupervised Deep Learning - Stanford,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 http://numenta.org/nupic.html,NuPIC,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 https://arxiv.org/pdf/1406.2661v1.pdf,Generative Adversarial Nets,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://arxiv.org/pdf/1410.5401v2.pdf,Neural Turing Machines,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.idsia.ch/~meier/,Ueli Meier,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ee.oulu.fi/mvmp/,Machine Vision and Media Processing Unit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.manning.com/livevideo/keras-in-motion,Keras in Motion video course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.aiai.ed.ac.uk/,aiai.ed.ac.uk,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm,Misc from MIT's 'Neural Coding and Perception of Sound' course,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://shannon.cs.illinois.edu/DenotationGraph/,Flickr 30k,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.washington.edu/research/imagedatabase/,Efficient Content-based Retrieval Group,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU,Machine Learning CS 229,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vision.stanford.edu/teaching/cs231n/syllabus.html,Convolutional Neural Networks for Visual Recognition - Stanford,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://nlp.stanford.edu/~socherr/thesis.pdf,Recursive Deep Learning for Natural Language Processing and Computer Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://research.google.com/pubs/105214.html,Ian Goodfellow,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1410.3916v10,Memory Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.outex.oulu.fi,University of Oulu Texture Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.ubc.ca/~nando/,Nando de Freitas,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ri.cmu.edu/projects/project_418.html,CMU PIE Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf,Using Very Deep Autoencoders for Content Based Image Retrieval,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.kdd.org/kdd2018/,KDD - Knowledge Discovery and Data Mining,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://course.fast.ai/,Practical Deep Learning For Coders,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/,Artificial intelligence and machine learning: Topic wise explanation,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html,Neural Networks - usherbrooke,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.thespermwhale.com/jaseweston/,Jason Weston,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.udemy.com/share/1000gAA0QdcV9aQng=/,Face Detection with Computer Vision and Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://neptune.ml/,Neptune,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf,Learning Deep Architectures for AI,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.site.uottawa.ca/~laganier/,Robert Laganière,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://engineering.purdue.edu/BME/People/viewPersonById?resource_id=71333,Eugenio Culurciello,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://hips.seas.harvard.edu/,hips.seas.harvard.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.taurusstudio.net/research/pmtexdb/index.htm,Photometric 3D Surface Texture Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vincent.vanhoucke.com,Vincent Vanhoucke,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.vision.caltech.edu/html-files/archive.html,Caltech Image Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.utoronto.ca/~ndjaitly/,Navdeep Jaitly,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1503.04069v1.pdf,LSTM: A Search Space Odyssey,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 https://arxiv.org/pdf/1504.08083.pdf,Fast R-CNN,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial,UFLDL Tutorial 1,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
-http://www.ece.ncsu.edu/imaging,Image Analysis Laboratory,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.metacademy.org/roadmaps/rgrosse/deep_learning,Deep Learning from the Bottom up,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark,Implementing a Distributed Deep Learning Network over Spark,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf,LSTM,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://nips.cc/Conferences/2018,NIPS - Neural Information Processing Systems,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vision.caltech.edu/~bchen3/Site/Bo_David_Chen.html,Bo David Chen,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~vmnih/,Volodymyr Mnih,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://deeplearning4j.org/,DeepLearning4J,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cvpr2018.thecvf.com,CVPR - IEEE Conference on Computer Vision and Pattern Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://deeplearning.cs.cmu.edu/,Introduction to Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.idsia.ch/~juergen/,Jürgen Schmidhuber,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www-aig.jpl.nasa.gov/,www-aig.jpl.nasa.gov,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://nicolas.le-roux.name/,Nicolas Le Roux,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://aiweekly.co,AI Weekly,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://yann.lecun.com/,Yann LeCun,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil,CatalyzeX,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~nitish/,Nitish Srivastava,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://sites.google.com/site/blancousna/,Justin A. Blanco,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://celweb.vuse.vanderbilt.edu/aamas18/,AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ayyucekizrak.com/,Merve Ayyüce Kızrak,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~tang/,Yichuan Tang,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://arxiv.org/pdf/1503.03832.pdf,FaceNet: A Unified Embedding for Face Recognition and Clustering,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.manning.com/books/grokking-deep-learning-for-computer-vision,Grokking Deep Learning for Computer Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://sites.google.com/site/drpngx/,Patrick Nguyen,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://aihub.org/,AI Hub - supported by AAAI, NeurIPS,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ls7-www.cs.uni-dortmund.de/,Computer Science VII (Graphical Systems),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1507.01273v1,Policy Learning with Continuous Memory States for Partially Observed Robotic Control,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://research.microsoft.com/en-us/people/fseide/,Frank Seide,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.nyu.edu/~ylan/,Boureau Y-Lan,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1506.00019v1.pdf,A Critical Review of Recurrent Neural Networks for Sequence Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html,Yoshua Bengio,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://deeplearning.stanford.edu/,deeplearning.stanford.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/,YOLO: Practical Implementation using Python,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://classpert.com/deep-learning,Deep Learning Online Course list at Classpert,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.csail.mit.edu/,csail.mit.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html,A beginners Guide to Deep Neural Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html,MIT Vision Texture,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1406.1078v3.pdf,GRU - Gated Recurrent Unit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html,Sequences for Flow Based Reconstruction,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://koray.kavukcuoglu.org/,Koray Kavukcuoglu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/,Practical Deep Learning for Cloud, Mobile, and Edge,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/,Using convolutional neural nets to detect facial keypoints tutorial,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=czLI3oLDe8M,Deep Learning: Intelligence from Big Data,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://deeplearning.cs.toronto.edu/i2t,deeplearning.cs.toronto.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=RIkxVci-R4k,How To Create A Mind,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/,Firefox,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html,Sebastian Gerwinn,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://i21www.ira.uka.de/image_sequences,Traffic Image Sequences and 'Marbled Block' Sequence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ee.oulu.fi/mvg,Machine Vision Group,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://sampl.eng.ohio-state.edu,Signal Analysis and Machine Perception Laboratory,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://developer.nvidia.com/deep-learning-courses,Deep Learning - Nvidia,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://conferences.oreilly.com/artificial-intelligence/ai-ny,O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A,Siraj Raval's Deep Learning tutorials,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://homes.cs.washington.edu/~pedrod/,Pedro Domingos,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=vShMxxqtDDs&index=3&list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT,Recent Developments in Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://i21www.ira.uka.de,IAKS/KOGS,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html,VGG Convolutional Neural Networks Practical,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.manning.com/books/math-and-architectures-of-deep-learning,Math and Architectures of Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://homepages.inf.ed.ac.uk/pseries/,Peggy Series,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1505.01861v1.pdf,Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html,U Oulu wood and knots database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.sfu.ca/~colour/data/index.html,Computational Colour Constancy Data,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~hinton/,Geoffrey Hinton,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA,Graduate Summer School: Deep Learning, Feature Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://researcher.watson.ibm.com/researcher/view.php?person=us-bedk,Brian Kingsbury,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://developer.nvidia.com/cuDNN,cuDNN,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://nlp.stanford.edu/,nlp.stanford.edu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1502.02367v3.pdf,GFRNN,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1506.02078v1.pdf,Visualizing and Understanding Recurrent Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.catalyzeX.com,CatalyzeX: Machine Learning Hub for Builders and Makers,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://plus.google.com/communities/112866381580457264725,Google Plus - Deep Learning Community,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/,www.mpi-inf.mpg.de/departments/computer-vision...,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/watch?v=6ufPpZDmPKA,Principles of Hierarchical Temporal Memory,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html,View Sphere Database,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.manning.com/books/deep-learning-with-python,Deep Learning with Python,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~gdahl/,George Dahl,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://poloclub.github.io/cnn-explainer/,CNN Explainer,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf,Siamese Neural Networks for One-shot Image Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE,Deep Learning - UWaterloo,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ufldl.stanford.edu/housenumbers/,Google House Numbers,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ai-junkie.com/ann/evolved/nnt1.html,ai-junkie.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://marathon.csee.usf.edu/Mammography/Database.html,Mammography Image Databases,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www-prima.inrialpes.fr/Prima/,PRIMA, GRAVIR,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.anc.ed.ac.uk/~amos/afreightdata.html,Air Freight,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://vision.psych.umn.edu/users/kersten//kersten-lab/kersten-lab.html,Univerity of Minnesota Vision Lab,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.icg.tu-graz.ac.at/~schindler/Data,ICG Testhouse sequence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~kriz/cifar.html,CIFAR-10 and CIFAR-100,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.brown.edu/research/ai/,cs.brown.edu/research/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://class.coursera.org/ml-005,Machine Learning - Stanford,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.rochester.edu/research/ai/,cs.rochester.edu/research/ai,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://arxiv.org/pdf/1410.5401v2.pdf,Neural Turing Machines,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&searchItems=&sessionTopic=&sessionEvent=4&sessionYear=2014&sessionFormat=&submit=&select=+,Caffe Webinar,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://melisgl.github.io/mgl-pax-world/mgl-manual.html,MGL,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://nlp.stanford.edu/~manning/,Christopher Manning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.manning.com/books/grokking-deep-learning,Grokking Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf,Wojciech Zaremba, Ilya Sutskever, An Empirical Exploration of Recurrent Network Architectures,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://research.google.com/pubs/author37792.html,Andrew W. Senior,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://arxiv.org/pdf/2006.03511.pdf,Unsupervised Translation of Programming Languages,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.gastrointestinalatlas.com,El Salvador Atlas of Gastrointestinal VideoEndoscopy,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html,Department Image Understanding,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://groups.csail.mit.edu/vision/TinyImages/,Tiny Images,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://medium.com/@ageitgey/,Machine Learning is Fun! Adam Geitgey's Blog,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.nyu.edu/~sermanet,Pierre Sermanet,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://work.caltech.edu/lectures.html,Machine Learning - Caltech,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.uoguelph.ca/~gwtaylor/,Graham Taylor,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf,Recurrent Neural Network based Language Model,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cmap.polytechnique.fr/~mallat/,Stéphane Mallat,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.gatsby.ucl.ac.uk/~amnih/,Andriy Mnih,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ai.sri.com/,ai.sri.com,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.clement.farabet.net/,Clement Farabet,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html,Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml,Machine Learning - Carnegie Mellon,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://iccv2017.thecvf.com,ICCV - International Conference on Computer Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.imm.dtu.dk/~aam/,Annotated face, hand, cardiac & meat images,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.ais.uni-bonn.de/behnke/,Sven Behnke,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf,Matching Networks for One Shot Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://chainer.org/,Chainer - A flexible framework of neural networks for deep learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.fit.vutbr.cz/research/groups/speech/publi/2011/mikolov_icassp2011_5528.pdf,Extensions of Recurrent Neural Network Language Model,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://gregoire.montavon.name/,Grégoire Montavon,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://spandan-madan.github.io/DeepLearningProject/,Deep Learning for Beginners,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf,Recurrent Neural Network based Language Modeling in Meeting Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://research.microsoft.com/en-us/people/deng/,Li Deng,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://users.ics.aalto.fi/praiko/,Tapani Raiko,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.icg.tu-graz.ac.at,Institute of Computer Graphics and Vision,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.idsia.ch/~ciresan/,Dan Claudiu Cireșan,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://rnnlm.org/,RNNLM Toolkit,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://bias.csr.unibo.it/fvc2000/,FVC2000 Fingerprint Databases,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
 http://arxiv.org/pdf/1506.07285v1.pdf,Ask Me Anything: Dynamic Memory Networks for Natural Language Processing,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs224d.stanford.edu/papers/maas_paper.pdf,Deep Neural Networks for Acoustic Modeling in Speech Recognition,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://machinelearningmastery.com/blog/,Machine Learning Mastery blog,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://www.aaai.org,AAAI - Association for the Advancement of Artificial Intelligence,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://personal-homepages.mis.mpg.de/montufar/,Guido Francisco Montúfar,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.nyu.edu/~mirowski/,Piotr Mirowski,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://montrealaisymposium.wordpress.com/,MAIS - Montreal AI Symposium,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://ai.stanford.edu/~quocle/,Quoc V. Le,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://sourceforge.net/p/rnnl/wiki/Home/,RNNLIB - A recurrent neural network library,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.inria.fr/,INRIA,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://research.microsoft.com/en-us/people/dongyu/default.aspx,Dong Yu,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.kyb.tuebingen.mpg.de/nc/employee/details/lucas.html,Lucas Theis,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://singa.incubator.apache.org/,Apache SINGA - A General Distributed Deep Learning Platform,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html,Overview and benchmark of traditional and deep learning models in text classification,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.socher.org/,Richard Socher,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf,Mastering the Game of Go with Deep Neural Networks and Tree Search,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://hackr.io/tutorials/learn-artificial-intelligence-ai,Programming Community Curated Resources,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://amitness.com/2020/02/illustrated-self-supervised-learning/,The Illustrated Self-Supervised Learning,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://arxiv.org/abs/1502.03167,Batch Normalization,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://amitness.com/2020/02/albert-visual-summary/,Visual Paper Summary: ALBERT (A Lite BERT),https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+https://arxiv.org/pdf/1611.07004v1.pdf,Image-to-Image Translation with Conditional Adversarial Networks,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://aaroncourville.wordpress.com,Aaron Courville,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://www.cs.toronto.edu/~asamir/,Abdel-rahman Mohamed,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/,100 Best Github Resources in Github for DL,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://cs.stanford.edu/~acoates/,Adam Coates,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning
+http://research.microsoft.com/en-us/people/alexac/,Alex Acero,https://github.com/ChristosChristofidis/awesome-deep-learning#readme,Deep Learning

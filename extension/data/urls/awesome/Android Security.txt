@@ -1,62 +1,70 @@
-https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/,IntentFuzzer,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.pnfsoftware.com/,Android Decompiler,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://androidtamer.com/,Android Tamer,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://apkpure.com/,Apkpure,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/,Mercury,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard,SEI CERT Android Secure Coding Standard,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf,Crowdroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html,smalihook,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://pscout.csl.toronto.edu/,PSCout,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html,Dalvik opcodes,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://safe.ijiami.cn/,Ijiami,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://manifestsecurity.com/appie/,Appie,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://securitycompass.github.io/AndroidLabs/setup.html,ExploitMe Android Labs,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://mobile-security.zeef.com,Mobile Security Reading Room,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://amandroid.sireum.org/,Amandroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://appanalysis.org,Taintdroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://www.comdroid.org/,Comdroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://www.fasteque.com/android-reverse-engineering-101-part-1/,Android Reverse Engineering 101 by Daniele Altomare,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://artist.cispa.saarland,ARTist,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.exploit-db.com/papers/,Exploit Database,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.cs.washington.edu/sparta,SPARTA,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://www.foresafe.com/scan,Foresafe,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/,A good collection of static analysis papers,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://dunkelheit.com.br/amat/analysis/index_en.php,online analyzer,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://types.cs.washington.edu/checker-framework/,Checker Framework,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.appknox.com/,Appknox,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://undroid.av-comparatives.info/,AVC UnDroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.visualthreat.com/,Visual Threat,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://codetastrophe.com/smali.vim,vim syntax coloring for smali files,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://ibotpeaches.github.io/Apktool/,Apktool,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://www.malgenomeproject.org/policy.html,Android Malware Genome Project,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html,Android's reported security vulnerabilities,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://sourceforge.net/projects/dedexer/,Dedexer,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://app-ray.co/,Fraunhofer App-ray,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://contagiominidump.blogspot.com,Contagio Mobile Malware Mini Dump,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://kb.androidtamer.com/Device_Security_Patch_tracker/,Android Devices Security Patch Status,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.frida.re/,Frida,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://bitbucket.org/aseemjakhar/indroid,Indroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://appcritique.boozallen.com,AppCritique,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/,NowSecure Lab Automated,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/,ViaLab Community Edition,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened,AOSP - Issue tracker,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.virustotal.com/en/about/contact/,VirusTotal Malware Intelligence Service,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://kharon.gforge.inria.fr/dataset/,Kharon Malware Dataset,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html,Android DBI frameowork,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://mobile-sandbox.com,Mobile-Sandbox,https://github.com/ashishb/android-security-awesome#readme,Android Security
 https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/,IntentSniffer,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://bitbucket.org/srl/droidlegacy,DroidLegacy,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://appsec-labs.com/AppUse/,AppUse,https://github.com/ashishb/android-security-awesome#readme,Android Security
 https://varaneckas.com/jad/,Jad,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://devknox.io/,Devknox,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.sec.cs.tu-bs.de/~danarp/drebin/,Drebin,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.unb.ca/cic/datasets/android-adware.html,Android Adware and General Malware Dataset,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened,AOSP - Issue tracker,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.exploit-db.com/papers/,Exploit Database,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://blogs.uni-paderborn.de/sse/tools/flowdroid/,FlowDroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://pralab.diee.unica.it/en/AndroidPRAGuardDataset,Android PRAGuard Dataset,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/,A good collection of static analysis papers,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.pnfsoftware.com/,Android Decompiler,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053,Xposed,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://androidtamer.com/,Android Tamer,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10,OWASP Mobile Top 10 2016,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://androzoo.uni.lu/,AndroZoo,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard,SEI CERT Android Secure Coding Standard,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://pscout.csl.toronto.edu/,PSCout,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf,Crowdroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.exploit-db.com/search/?action=search&q=android,Exploit Database,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://manifestsecurity.com/appie/,Appie,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://amandroid.sireum.org/,Amandroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.appknox.com/,Appknox,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html,Vulnerability Google Doc,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/,Android Reverse Engineering 101 by Daniele Altomare (Web Archive link),https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://appanalysis.org,Taintdroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/,ViaLab Community Edition,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/,IntentFuzzer,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.cs.washington.edu/sparta,SPARTA,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://www.comdroid.org/,Comdroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://undroid.av-comparatives.info/,AVC UnDroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://artist.cispa.saarland,ARTist,https://github.com/ashishb/android-security-awesome#readme,Android Security
 http://admire.necst.it/,Admire,https://github.com/ashishb/android-security-awesome#readme,Android Security
 https://www.google.com/about/appsecurity/android-rewards/,Android Security Reward Program,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10,OWASP Mobile Top 10 2016,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html,Android DBI frameowork,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://appsec-labs.com/AppUse/,AppUse,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://www.exploit-db.com/search/?action=search&q=android,Exploit Database,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053,Xposed,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html,Vulnerability Google Doc,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://apkpure.com/,Apkpure,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/,Mercury,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://www.foresafe.com/scan,Foresafe,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.visualthreat.com/,Visual Threat,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://mobile-security.zeef.com,Mobile Security Reading Room,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html,smalihook,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://codetastrophe.com/smali.vim,vim syntax coloring for smali files,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://types.cs.washington.edu/checker-framework/,Checker Framework,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://app-ray.co/,Fraunhofer App-ray,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://ibotpeaches.github.io/Apktool/,Apktool,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar,AXMLPrinter2,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html,Dalvik opcodes,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://securitycompass.github.io/AndroidLabs/setup.html,ExploitMe Android Labs,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://sourceforge.net/projects/dedexer/,Dedexer,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.android-device-security.org/client/datatable,Android Device Security Database,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://appcritique.boozallen.com,AppCritique,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.frida.re/,Frida,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/,NowSecure Lab Automated,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://bitbucket.org/aseemjakhar/indroid,Indroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares,androguard - Database Android Malwares wiki,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://source.android.com/security/bulletin/,Android Security Bulletins,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://www.malgenomeproject.org/policy.html,Android Malware Genome Project,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html,Android's reported security vulnerabilities,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://appdetonator.run/,App Detonator,https://github.com/ashishb/android-security-awesome#readme,Android Security
+http://contagiominidump.blogspot.com,Contagio Mobile Malware Mini Dump,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://oversecured.com/,Oversecured,https://github.com/ashishb/android-security-awesome#readme,Android Security
 https://habo.qq.com/,habo,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://kb.androidtamer.com/Device_Security_Patch_tracker/,Android Devices Security Patch Status,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://malab.bitbaan.com/,BitBaan,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.virustotal.com/en/about/contact/,VirusTotal Malware Intelligence Service,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://devknox.io/,Devknox,https://github.com/ashishb/android-security-awesome#readme,Android Security
+https://www.sec.cs.tu-bs.de/~danarp/drebin/,Drebin,https://github.com/ashishb/android-security-awesome#readme,Android Security
 https://www.cert.org/secure-coding/tools/didfail.cfm,Droid Intent Data Flow Analysis for Information Leakage,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://bitbucket.org/srl/droidlegacy,DroidLegacy,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://sanddroid.xjtu.edu.cn/,SandDroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
-https://blogs.uni-paderborn.de/sse/tools/flowdroid/,FlowDroid,https://github.com/ashishb/android-security-awesome#readme,Android Security
 http://www.android-permissions.org/,Stowaway,https://github.com/ashishb/android-security-awesome#readme,Android Security
-http://mobile-sandbox.com,Mobile-Sandbox,https://github.com/ashishb/android-security-awesome#readme,Android Security

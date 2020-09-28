@@ -1,12 +1,4 @@
-https://dashboards.mnm.social/,Mastodon Network Monitoring (MNM),https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://mastodon.cloud/@launchradar,@launchradar@mastodon.cloud,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://rmlewisuk.github.io/mastodon-toot-bookmarklet/,Mastodon Toot Bookmarklet,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://friends.nico/@FossoyeurdeFilms,@FossoyeurDeFilms@friends.nico,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: <HTTPError 410: 'Gone'> | reason: Gone
-http://tootdon.club,Tootdon,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://mamot.fr/@TV5Monde,@TV5Monde@mamot.fr,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: <HTTPError 410: 'Gone'> | reason: Gone
-https://mastodon-explorer.netlify.com/,Mastodon Explorer,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bridge.joinmastodon.org/,Mastodon bridge,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://friends.nico/@MinutePapillon,@MinutePapillon@friends.nico,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: <HTTPError 410: 'Gone'> | reason: Gone
-https://whalebird.org/en/desktop/contents,Whalebird,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
 https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width,Variable width,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
+https://notabug.org/halcyon-suite/halcyon,Halcyon,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
+https://git.mulligrubs.me/planiverse/,Planiverse,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
 https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer,Narrow drawer,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 

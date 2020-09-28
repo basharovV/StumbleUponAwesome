@@ -1,9 +1,8 @@
-http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://autohotkey.com/boards/viewtopic.php?f=6&t=26485,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: timeout('The read operation timed out') | reason: 
-https://autohotkey.com/board/topic/71179,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://autohotkey.com/boards/viewtopic.php?t=15291,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: timeout('The read operation timed out') | reason: 
-http://ahkscript.org/,ahkscript.org,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: timeout('timed out') | reason: 
-https://hotkeyit.github.io/v2/docs/AHKH_Features.htm,exported functions,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB,AutoHotkey build for CE,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/kitsu/pyahk/downloads,PYAHK,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126,Out of the Sea,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://autohotkey.com/board/topic/71179,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://hotkeyit.github.io/v2/docs/AHKH_Features.htm,exported functions,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey error: <HTTPError 404: 'Not Found'> | reason: Not Found

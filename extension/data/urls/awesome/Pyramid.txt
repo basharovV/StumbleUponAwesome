@@ -1,15 +1,14 @@
 http://python-rq.org,RQ,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://2016.ploneconf.org/,PloneConf 2016,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://webchat.freenode.net/?channels=pyramid,,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
-http://www.ringo-framework.org/,Ringo,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 http://dragonsprint.com/,DragonSprint 2016,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://karlproject.readthedocs.io/en/latest/,KARL,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
-https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html,List of videos from the official site,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html,New Architecture,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html,List of videos from the official site,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://docs.pylonsproject.org/projects/akhet/en/latest/,Akhet,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
-https://training.talkpython.fm/courses/all,Online Video Courses at Talk Python Training,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 http://khufuproject.github.io/,Khufu Project,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://pyjwt.readthedocs.io/en/latest/,PyJWT,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
+https://training.talkpython.fm/courses/all,Online Video Courses at Talk Python Training,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://yosaiproject.github.io/yosai/,https://yosaiproject.github.io/yosai/,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 http://www.oreilly.com/web-platform/free/python-web-frameworks.csp,Python Web Frameworks,https://github.com/uralbash/awesome-pyramid#readme,Pyramid
 https://2018.ploneconf.org/sprints,Sushi Sprint at PloneConf 2018 in Tokyo, Japan,https://github.com/uralbash/awesome-pyramid#readme,Pyramid

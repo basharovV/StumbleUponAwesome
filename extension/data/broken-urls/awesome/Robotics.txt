@@ -1,16 +1,17 @@
 http://www.journalfieldrobotics.org/Home.html,Journal of Field Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.udacity.com/course/robotics-nanodegree--nd209,Robotics Nanodegree,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.udacity.com/course/robotics-nanodegree--nd209,Robotics Nanodegree,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.romansy2016.org/,CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy),https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://www.robwork.dk/apidoc/nightly/rw/,RobWork,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.rehabrobotics.org/,IEEE International Conference on Rehabilitation Robotics (ICORR),https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
 https://www.cyberbotics.com/overview,Webots,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.edx.org/micromasters/pennx-robotics,Robotics Micromasters,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.aldebaran.com/en,Aldebaran Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.technologyreview.com/c/robotics/,MIT Technology Review Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.icra2017.org/conference/robot-challenges,ICRA Robot Challenges,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://www.robotchallenge.org/,RobotChallenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.edx.org/micromasters/pennx-robotics,Robotics Micromasters,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.theroboticschallenge.org/,DARPA Robotics Challenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://ifrr.org/isrr.php,International Symposium of Robotic Research (ISRR),https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.icra2017.org/conference/robot-challenges,ICRA Robot Challenges,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
 http://ifrr.org/iser.php,International Symposium of Experimental Robotics (ISER),https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://robotex.ee/en/,Robotex,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.robomasters.com/en/,RoboMasters,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica,Robotica,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.technologyreview.com/c/robotics/,MIT Technology Review Robotics,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.robotchallenge.org/,RobotChallenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.theroboticschallenge.org/,DARPA Robotics Challenge,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://robotex.ee/en/,Robotex,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.euroc-project.eu/,European Robotics Challenges,https://github.com/Kiloreux/awesome-robotics#readme,Robotics error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out

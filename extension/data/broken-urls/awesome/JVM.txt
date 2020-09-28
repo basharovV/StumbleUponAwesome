@@ -1,5 +1,9 @@
 http://www.paralleluniverse.co/quasar/,Quasar,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://g.oswego.edu/,Doug Lea,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://javacc.java.net/,javacc,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://source.android.com/devices/tech/dalvik/,Dalvik,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
 https://blogs.oracle.com/jrose/,John Rose,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 
+http://chrononsystems.com,Chronon,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('timed out') | reason: 
 https://blogs.oracle.com/dave/,Dave Dice,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 

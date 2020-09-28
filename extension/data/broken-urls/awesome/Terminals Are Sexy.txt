@@ -1,0 +1,1 @@
+http://www.bitchx.com/,bitchx,https://github.com/k4m4/terminals-are-sexy#readme,Terminals Are Sexy error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

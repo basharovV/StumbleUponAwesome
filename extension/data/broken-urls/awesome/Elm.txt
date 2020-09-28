@@ -1,1 +1,3 @@
-https://arisgarden.theiceshelf.com/,site,https://github.com/sporto/awesome-elm#readme,Elm error: timeout('The read operation timed out') | reason: 
+http://www.fullstackradio.com/44,Full Stack Radio 44,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 308: 'Unknown'> | reason: Unknown
+https://changelog.com/218/,The Changelog 218,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://changelog.com/191/,The Changelog 191,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found

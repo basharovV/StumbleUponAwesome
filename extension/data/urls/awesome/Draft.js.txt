@@ -1,33 +1,42 @@
-https://www.draft-js-plugins.com/plugin/sticker,Sticker,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/drag-n-drop,Drag and Drop,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/sticker,Sticker,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://draftjs.org/,Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://technosphere-magazine.hkw.de/,HKW Technosphere Magazine,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.draft-js-plugins.com/plugin/undo,Undo,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/emoji,Emoji,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.draft-js-plugins.com/plugin/video,Video,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/undo,Undo,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/focus,Focus,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://read.douban.com/editor_ng,Douban Read,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://draftjs.herokuapp.com/,Slack channel,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.youtube.com/watch?v=feUYwoLhE_4,Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/video,Video,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/hashtag,Hashtags,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.dooly.ai,Dooly,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/image,Image,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/inline-toolbar,Inline Toolbar,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://read.douban.com/editor_ng,Douban Read,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/linkify,Linkify,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.youtube.com/watch?v=gxNuHZXZMgs,Rich text editing with Draft.js & DraftJS Plugins by Nik Graf,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.youtube.com/watch?v=0k9suXgCtTA,React Ep. 37: Draftjs by What I Learned Today – Atomic Jolt,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://www.draft-js-plugins.com/plugin/mention,Mention,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.youtube.com/watch?v=w-PqnpMizcQ,008 - Draft.js Plugins @ React30,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.draft-js-plugins.com/plugin/resizeable,Resizeable,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.draft-js-plugins.com/plugin/side-toolbar,Side Toolbar,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://product.hubspot.com/blog/tech-talk-at-night-react-meetup,Draft.js at HubSpot by Ben Briggs,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.youtube.com/watch?feature=player_embedded&v=vOZAO3jFSHI,Draft.js under the hood - React Melbourne meetup,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.draft-js-plugins.com/plugin/alignment,Alignment,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.draft-js-plugins.com/plugin/counter,Counter,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
-https://www.storychief.io/,StoryChief,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/,Facebook open sources rich text editor framework Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/resizeable,Resizeable,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.dooly.ai,Dooly,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/side-toolbar,Side Toolbar,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://dev.to/ben/this-blog-post-was-written-using-draftjs,This Blog Post Was Written Using Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html,Implementing todo list in Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://reactrocket.com/series/learning-draft-js/,Learning Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/,Why Wagtail’s new editor is built with Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
 https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/,Rethinking rich text pipelines with Draft.js,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://draftail-playground.herokuapp.com/,Draftail Playground,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://draftjs.herokuapp.com/,Slack channel,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.youtube.com/watch?v=feUYwoLhE_4,Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.youtube.com/watch?v=gxNuHZXZMgs,Rich text editing with Draft.js & DraftJS Plugins by Nik Graf,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/YNYvyG,Rich Text Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.youtube.com/watch?v=0k9suXgCtTA,React Ep. 37: Draftjs by What I Learned Today – Atomic Jolt,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/oBpVve,Color Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.youtube.com/watch?v=w-PqnpMizcQ,008 - Draft.js Plugins @ React30,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/YNYgWa,Convert from HTML Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/wgpOoZ,Entity Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://product.hubspot.com/blog/tech-talk-at-night-react-meetup,Draft.js at HubSpot by Ben Briggs,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.youtube.com/watch?feature=player_embedded&v=vOZAO3jFSHI,Draft.js under the hood - React Melbourne meetup,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/alignment,Alignment,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.draft-js-plugins.com/plugin/counter,Counter,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/ZLvPeO,Link Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/rjpRzj,Media Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/jyYJzb,Plain Text Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://codepen.io/Kiwka/pen/KaZERV,Decorators Editor - Tweet example,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js
+https://www.storychief.io/,StoryChief,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js

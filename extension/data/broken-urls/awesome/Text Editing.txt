@@ -1,1 +1,1 @@
-http://www.alohaeditor.org/Content.Node/index.html,Aloha Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.alohaeditor.org/Content.Node/index.html,Aloha Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing error: <HTTPError 308: 'Unknown'> | reason: Unknown

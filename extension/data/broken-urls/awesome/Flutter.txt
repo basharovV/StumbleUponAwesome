@@ -1,15 +1,13 @@
 https://www.linkedin.com/company/apptree-software/,AppTree Software,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 999: 'Request denied'> | reason: Request denied
 https://www.amazon.com/Flutter-Action-Eric-Windmill/dp/1617269147,Flutter in Action,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://darshann.me/,Darshan Gowda,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://flutter-widget-livebook.blankapp.org/,Flutter Widget Live Book,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'flutter-widget-livebook.blankapp.org'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'flutter-widget-livebook.blankapp.org'. (_ssl.c:1076)
-https://www.marc-little.com/,Marc L,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://iirokrankka.com/,Iirokrankka.com,https://github.com/Solido/awesome-flutter#readme,Flutter error: timeout('The read operation timed out') | reason: 
-https://www.meetup.com/FlutterToronto,Toronto,https://github.com/Solido/awesome-flutter#readme,Flutter error: timeout('The read operation timed out') | reason: 
-https://facebook.com/groups/556888664681938,Group,https://github.com/Solido/awesome-flutter#readme,Flutter error: timeout('The read operation timed out') | reason: 
 http://goposse.com,Posse,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://intheloup.io,Loup,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://www.linkedin.com/in/robert-felker/,Robert Felker,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 999: 'Request denied'> | reason: Request denied
-http://slack.gdg.kr/,GDG Korea #flutter channel,https://github.com/Solido/awesome-flutter#readme,Flutter error: timeout('timed out') | reason: 
 https://www.linkedin.com/in/alextekartik/,Alexandre Roux,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 999: 'Request denied'> | reason: Request denied
-https://www.meetup.com/Flutter-Hamburg/,Hamburg,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.marc-little.com/,Marc L,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://www.meetup.com/Flutter-Kurdistan/,Kurdistan,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://intheloup.io,Loup,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 308: 'Unknown'> | reason: Unknown
+https://darshann.me/,Darshan Gowda,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://michaelcharl.es/aubrey,MichaelCharl.es,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://www.linkedin.com/in/robert-felker/,Robert Felker,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 999: 'Request denied'> | reason: Request denied
+https://https://github.com/ernestoyaquello,Julio Ernesto Rodríguez Cabañas,https://github.com/Solido/awesome-flutter#readme,Flutter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.meetup.com/FlutterCalgary,Calgary,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/Flutter-Hamburg/,Hamburg,https://github.com/Solido/awesome-flutter#readme,Flutter error: <HTTPError 404: 'Not Found'> | reason: Not Found

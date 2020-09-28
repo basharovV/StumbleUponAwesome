@@ -1,4 +1,17 @@
-http://bitsofco.de/styling-broken-images/,original post,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/kkrkLL,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/grRvWq,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/LkymvO,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/jALALm,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+https://codepen.io/argyleink/pen/VwYJpgR,demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/zBzXRx,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/VjbdYd,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+https://codepen.io/AllThingsSmitty/pen/ePzoOP/,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/jALZvE,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
 https://css-tricks.com/centering-css-complete-guide/,a nice write-up,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/GqmGqZ,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://bitsofco.de/styling-broken-images/,original post,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/XKgOkR,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
+http://codepen.io/AllThingsSmitty/pen/WxjKZp,Demo,https://github.com/AllThingsSmitty/css-protips#readme,Protips
 https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events,Pointer events,https://github.com/AllThingsSmitty/css-protips#readme,Protips
 http://alistapart.com/article/axiomatic-css-and-lobotomized-owls,Heydon Pickering's post,https://github.com/AllThingsSmitty/css-protips#readme,Protips

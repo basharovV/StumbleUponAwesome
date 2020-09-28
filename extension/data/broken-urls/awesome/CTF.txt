@@ -1,4 +1,2 @@
+https://georgeom.net/StegOnline/upload,StegOnline,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://honeyourskills.ninja/,Hone Your Ninja Skills,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints,Kali Linux CTF Blueprints,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found

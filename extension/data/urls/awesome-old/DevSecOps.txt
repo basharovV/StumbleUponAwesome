@@ -1,0 +1,49 @@
+https://www.rapid7.com/fundamentals/devsecops/,DevSecOps,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.atlassian.com/devops,DevOps,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.pagerduty.com/blog/security-training-at-pagerduty/,Our Approach to Employee Security Training,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.mydevsecops.io/,MyDevSecOps,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://appsecday.io/,AppSec Day,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.devseccon.com/,DevSecCon,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://absoluteappsec.com/,Absolute AppSec,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://podcast.securityjourney.com/,Application Security Podcast,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://blog.aquasec.com/devsecops-podcasts,BeerSecOps,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://soundcloud.com/owasp-podcast,DevSecOps Podcast Series,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.mydevsecops.io/the-secure-developer-podcast,The Secure Developer,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://owasp.org/www-project-application-security-verification-standard/,Application Security Verification Standard,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards,Coding Standards,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://owasp.org/www-project-proactive-controls/,Proactive Controls,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf,Secure Coding Practices Quick Reference Guide,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.microsoft.com/en-us/securityengineering/sdl/practices,Secure Development Lifecycle,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf,Secure Software Development Framework,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://xebialabs.com/periodic-table-of-devops-tools/,Periodic Table of DevOps Tools,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.sans.org/security-resources/posters/secure-devops-toolchain-swat-checklist/60/download,Secure DevOps Toolchain,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://pentesterlab.com/,PentesterLab,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://sudo.pagerduty.com/for_engineers/,Security Training for Engineers,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://sudo.pagerduty.com/for_everyone/,Security Training for Everyone,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://portswigger.net/web-security,Web Security Academy,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://owasp.org/www-project-dependency-check/,Dependency-Check,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://dependencytrack.org/,Dependency-Track,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://jfrog.com/xray/,JFrog XRay,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://docs.npmjs.com/cli/audit,NPM Audit,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://renovate.whitesourcesoftware.com/,Renovate,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://requires.io/,Requires.io,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://portswigger.net/burp/enterprise,BurpSuite Enterprise Edition,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://snyk.io/product/container-vulnerability-management/,Snyk Container,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+http://www.dvwa.co.uk/,Damn Vulnerable Web App,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://owasp.org/www-project-vulnerable-web-applications-directory,Vulnerable Web Apps Directory,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://csper.io/report-uri,Csper,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://docs.ansible.com/ansible/latest/user_guide/vault.html,Ansible Vault,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://aws.amazon.com/kms/,AWS Key Management Service (KMS),https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://azure.microsoft.com/en-au/services/key-vault/,Azure Key Vault,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/,CyberArk Application Access Manager,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://docs.docker.com/engine/swarm/secrets/,Docker Secrets,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://cloud.google.com/kms,Google Cloud Key Management Service (KMS),https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.ripstech.com/,RIPS,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.sonarqube.org/,SonarQube,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://discotek.ca/deepdive.xhtml,Deep Dive,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.foreseeti.com/,SecuriCAD,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://iriusrisk.com/,IriusRisk,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.securitycompass.com/sdelements/threat-modeling/,SD Elements,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://owasp.org/www-project-threat-dragon/,Threat Dragon,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling,Threat Modelling Tool,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps
+https://threatspec.org/,Threatspec,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps

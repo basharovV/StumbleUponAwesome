@@ -1,8 +1,11 @@
 https://stig.github.io/json-framework/,SBJson,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.americanteeth.org/libason/ason_spec.pdf,ASON,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
 https://www.dynatable.com/,Dynatable.js,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://amundsen.com/media-types/collection/,Collection+JSON,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 500: 'Object reference not set to an instance of an object.'> | reason: Object reference not set to an instance of an object.
-http://itemscript.org/ItemscriptSchema.html,Itemscript,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://frictionlessdata.io/docs/table-schema/,JSON Table Schema,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.americanteeth.org/libason/ason_spec.pdf,ASON,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://amundsen.com/media-types/collection/,Collection+JSON,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe/related?hl=en,JSON Viewer Awesome,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://jsonstub.com/,JsonStub,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+https://frictionlessdata.io/docs/table-schema/,JSON Table Schema,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://jsonvat.com/,vat-rates,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://intellimath.bitbucket.io/axon/,AXON,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://itemscript.org/ItemscriptSchema.html,Itemscript,https://github.com/burningtree/awesome-json#readme,JSON error: timeout('The read operation timed out') | reason: 
+http://myjson.com/,Myjson,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out

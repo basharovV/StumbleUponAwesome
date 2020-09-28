@@ -1,4 +1,2 @@
-http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/,Connect to Postgres with EF Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://channel9.msdn.com,Channel9,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://planning.halomademeapc.com,Demo,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: timeout('The read operation timed out') | reason: 
 https://bitwarden.com,https://bitwarden.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://builtwithdot.net,BuiltWithDot.Net,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: timeout('The read operation timed out') | reason: 

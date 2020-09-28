@@ -1,0 +1,2 @@
+https://bitbucket.org/fk/rgain,rgain,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gqrx.dk/,Gqrx SDR,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: timeout('The read operation timed out') | reason: 

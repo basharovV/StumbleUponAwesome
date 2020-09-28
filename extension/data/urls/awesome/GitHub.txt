@@ -7,8 +7,8 @@ http://githubuniverse.com/,GitHub Universe,https://github.com/phillipadsmith/awe
 https://ghbtns.com/,GitHub Buttons,https://github.com/phillipadsmith/awesome-github#readme,GitHub
 http://resume.github.io/,Resume,https://github.com/phillipadsmith/awesome-github#readme,GitHub
 http://bl.ocks.org/,Blocks,https://github.com/phillipadsmith/awesome-github#readme,GitHub
-https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/,CMS-free websites,https://github.com/phillipadsmith/awesome-github#readme,GitHub
 http://bost.ocks.org/mike/block/,here,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/,CMS-free websites,https://github.com/phillipadsmith/awesome-github#readme,GitHub
 http://gitify.io/,gitify,https://github.com/phillipadsmith/awesome-github#readme,GitHub
 http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/,Migrating to Git LFS,https://github.com/phillipadsmith/awesome-github#readme,GitHub
 https://www.octotree.io/,Octotree,https://github.com/phillipadsmith/awesome-github#readme,GitHub

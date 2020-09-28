@@ -1,177 +1,182 @@
-http://markx.herokuapp.com/,Markx,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.kaggle.com/,Kaggle,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://seqanswers.com/,SEQanswers,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://coderbay.com/create-mind-maps-with-javascript-mapjs/,mapjs,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://the.iris.ai/,Iris.ai,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://en.wikipedia.org/wiki/Getting_Things_Done,Wikipedia,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://tools.kausalflow.com/tools/,http://tools.kausalflow.com/tools/,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://philogb.github.io/jit/demos.html,JavaScript InfoVis Toolkit,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.notion.so/,Notion,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://nextjournal.com/,NextJournal,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://getnikola.com/,Nikola,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://neurostars.org/,NeuroStars,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.doi2bib.org/,doi2bib,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://unpaywall.org/,Unpay Wall,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://hamberg.no/gtd/,Here,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://jpswalsh.github.io/academicons/,Academicons,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.typora.io/,typora,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://archaeologydataservice.ac.uk/,Archaeology Data Service,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://opendefinition.org/,Open Definition,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.scipy.org/,scipy,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://scienceandpublic.com/,De-Jargonizer,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://opendefinition.org/licenses/,here,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.sharelatex.com/,ShareLaTeX,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://pad.haroopress.com/,Haroopad,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://phylopic.org/,Phylopic,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://plotnine.readthedocs.io,Plotnine,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.focusatwill.com,focus@will,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://archive.stsci.edu/,Mikulski Archive for Space Telescopes,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://jekyllrb.com,Jekyll,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.kaggle.com/,Kaggle,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://arxiv-sanity.com/,ArXiv Sanity Preserver,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html,cut_the_crap.py,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://bitbucket.org/rivanvx/beamer/wiki/Home,Beamer,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.sharelatex.com/,ShareLaTeX,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.madoko.net/,Madoko,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://the.iris.ai/,Iris.ai,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://gojs.net/latest/samples/mindMap.html,gojs,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://ccsearch.creativecommons.org/,CC Search,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.wolframalpha.com/,Wolfram Alpha,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://asoftmurmur.com/,A Soft Murmur,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://jiffyclub.github.io/snakeviz/,SnakeViz,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://harzing.com/resources/publish-or-perish,Publish or Perish,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://jbt.github.io/markdown-editor/,jbt/markdown-editor,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://readthedocs.org/,ReadtheDocs,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12,Amphetamine,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://ggplot.yhathq.com/,ggplot for python,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://notebooks.azure.com/,Azure Notebooks,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.papeeria.com,Papeeria,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://choosealicense.com/,Choose a License,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://archaeologydataservice.ac.uk/,Archaeology Data Service,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://plotnine.readthedocs.io,Plotnine,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://bitbucket.org,BitBucket,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf,here,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://25.io/mou/,Mou,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.maplesoft.com/index.aspx?L=E,Maple,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://coderbay.com/create-mind-maps-with-javascript-mapjs/,mapjs,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.papeeria.com,Papeeria,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://seqanswers.com/,SEQanswers,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.crossref.org/,crossref,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://jpswalsh.github.io/academicons/,Academicons,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://ggplot.yhathq.com/,ggplot for python,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://scienceandpublic.com/,De-Jargonizer,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://mynoise.net/noiseMachines.php,mynoise,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://gohugo.io/,Hugo,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.unitag.io/qrcode,QR Code Generator,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://jaxedit.com/,JaxEdit,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.nature.com/sdata/policies/repositories,here,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://datalore.io/,Datalore,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://rainycafe.com/,Rainy Cafe,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://todo.microsoft.com/tasks,Microsoft To Do,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://julialang.org/,Julia,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://prezi.com/,Prezi,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://pubchase.com/,PubChase,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://creativecommons.org/,Creative Commons,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://cocalc.com/,CoCalc (SageMathCloud),https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://plot.ly/ipython-notebooks/,plot.ly,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.aerobatic.com/,Aerobatic,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://findingsapp.com,Findings,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://en.openei.org/wiki/Main_Page,Open Energy Information (OpenEI),https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.texstudio.org,TeXStudio,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://d3js.org/,D3 js,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://slides.com/,slides.com,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://shields.io/,SHIELDS.io,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://sourceforge.net/projects/jsmind/,jsmind,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.r-project.org/,R,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://aws.amazon.com/sagemaker/,SageMaker,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://reproduced-papers.github.io/,Reproduced Papers,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.geogebra.org/,GeoGebra,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://bitbucket.org,BitBucket,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.gliffy.com/,Gliffy,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.highcharts.com/demo/bar-stacked,Highcharts,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.slideas.app/,Slideas,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://shiny.chemgrid.org/boxplotr/,BoxPlotR,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://my-mind.github.io/,my-mind,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.flotcharts.org/flot/examples/,Flot,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.wolfram.com/mathematica/online/,Mathematica Online,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://harzing.com/resources/publish-or-perish,Publish or Perish,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://notebooks.azure.com/,Azure Notebooks,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://reference.wolfram.com/language/howto/CreateASlideShow.html,Mathematica slides,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://opendefinition.org/,Open Definition,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://gitlab.org/,GitLab,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://matrix.sspai.com/p/c7a3c9c0,了解为什么死掉，请阅读此文。,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://zenodo.org/,Zenodo,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://rain.simplynoise.com/,Rany by simply noise,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://raphaeljs.com/,Raphaël,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://markdownpad.com/,MarkdownPad,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://codefights.com/,Code Fights,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://jaxedit.com/,JaxEdit,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.scipy.org/,scipy,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://todo.microsoft.com/tasks,Microsoft To Do,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://rainycafe.com/,Rainy Cafe,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://opendefinition.org/licenses/,here,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.nature.com/sdata/policies/repositories,here,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://readthedocs.org/,ReadtheDocs,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.iserenity.com/,iSerenity,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://findingsapp.com,Findings,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://jiffyclub.github.io/snakeviz/,SnakeViz,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://phylopic.org/,Phylopic,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.texstudio.org,TeXStudio,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://gitea.io/en-us/,Gitea,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://datadryad.org/,DRYAD,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.naturesoundplayer.com/,Natural Sound player,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://collections.plos.org/ten-simple-rules,Ten Simple Rules by PLoS One,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://bids.github.io/colormap/,2,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://plot.ly/ipython-notebooks/,plot.ly,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://keep.google.com/,Google Keep,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://philogb.github.io/jit/demos.html,JavaScript InfoVis Toolkit,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://paperscape.org/,Paperscape,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://beautifulmind.io/,beautiful Mind,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://orcid.org/,orcid,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://drive.google.com/,Google Drive,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.texample.net/,TeX Example,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://plot.ly/,plot.ly,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://choosealicense.com/,Choose a License,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://reproduced-papers.github.io/,Reproduced Papers,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://sourceforge.net/projects/jsmind/,jsmind,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12,Amphetamine,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.gimp.org,GIMP,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.unitag.io/qrcode,QR Code Generator,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://en.openei.org/wiki/Main_Page,Open Energy Information (OpenEI),https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://rhodecode.com/,RhodeCode,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://naturesoundsfor.me/,NatureSoundsFor.Me,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.youtube.com/watch?v=KZV9FmHOsRg,A youtube audio track of coffee shop (really long),https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://pubchase.com/,PubChase,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://my-mind.github.io/,my-mind,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://evernote.com/,Evernote,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.mindmup.com/,Mindmup,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://whitenoise247.net/,White.Noise,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.rainymood.com/,Rainy Mood,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.geogebra.org,GeoGebra,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://aws.amazon.com/,AWS,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.youtube.com/watch?v=s_2FDRtFOAw,A youtube audio track of 10 hours rain fall,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.icpsr.umich.edu/icpsrweb/landing.jsp,Inter-university Consortium for Political and Social Research (ICPSR),https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://figshare.com/,Figshare,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://julialang.org/,Julia,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://cocalc.com/,CoCalc (SageMathCloud),https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://en.wikipedia.org/wiki/Pomodoro_Technique,Pomodoro Technique,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://graph.tk/,graph.tk,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.processon.com/,ProcessOn,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://drichard.org/mindmaps/,mindmaps,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.ambient-mixer.com/,ambient mixer,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://staticsitegenerators.net/,Here is a nice website,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://findingsapp.com/,Findings,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.any.do/,Anydo,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://coffitivity.com/,Coffitivity,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.nap.edu/read/12192/,On Being a Scientist,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.notion.so/,Notion,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://pomotodo.com/,Pomotodo,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.tug.dk/FontCatalogue/seriffonts.html,Font Catalogue,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://whitenoisemp3s.com/,white noise mp3s,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://jekyllrb.com/,Jekyll,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.aerobatic.com/,Aerobatic,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://rain.simplynoise.com/,Rany by simply noise,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://prezi.com/,Prezi,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://zenodo.org/,Zenodo,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://collections.plos.org/ten-simple-rules,Ten Simple Rules by PLoS One,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://aws.amazon.com/sagemaker/,SageMaker,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://speakerdeck.com/,Speaker Deck,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.draw.io/,Draw.io,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://todoist.com/,Todoist,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.calm.com/,Calm,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.wolframalpha.com/,Wolfram Alpha,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://octopress.org/,Octopress,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.latextemplates.com/,LaTeX Templates,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en,Productivity Challenge Timer,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://awwapp.com,Online Whiteboard,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.noisli.com/,Noisli,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://en.wikipedia.org/wiki/Getting_Things_Done,Wikipedia,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://shields.io/,SHIELDS.io,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://pomotodo.com/,Pomotodo,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://creativecommons.org/,Creative Commons,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://beautifulmind.io/,beautiful Mind,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.naturesoundplayer.com/,Natural Sound player,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.gliffy.com/,Gliffy,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.r-project.org/,R,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://surge.sh/,Surge,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.any.do/,Anydo,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.rainymood.com/,Rainy Mood,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://orcid.org/,orcid,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.mindmup.com/,Mindmup,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://d3js.org/,D3 js,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://aws.amazon.com/,AWS,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://atom.io/packages/sync-settings,sync-settings,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://physics.stackexchange.com/,Physics.StackExchange,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://ccsearch.creativecommons.org/,CC Search,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.mapinseconds.com/,MapInSeconds.com,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://colorbrewer2.org,ColorBrewer,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://getpelican.com,Pelican,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://gojs.net/latest/samples/mindMap.html,gojs,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.ctan.org/tex-archive/support/latexdiff/,latexdiff,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://scirate.com/,SciRate,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://unpaywall.org/,Unpay Wall,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://coffitivity.com/,Coffitivity,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.sessions.edu/color-calculator/,Color Calculator,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://raining.fm,Raining,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.sublimetext.com/,Sublime Text,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://arxiv-sanity.com/,ArXiv Sanity Preserver,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://raneto.com/,Raneto,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://getnikola.com/,Nikola,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://data.gov,Data.gov,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.biostars.org/,Biostars,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.jetbrains.com/,JetBrains,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.authorea.com/,Authorea,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en,Productivity Challenge Timer,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://slides.com/,slides.com,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.wolfram.com/mathematica/online/,Mathematica Online,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.zybuluo.com/mdeditor,CMD markdown,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://todoist.com/,Todoist,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.youtube.com/watch?v=KZV9FmHOsRg,A youtube audio track of coffee shop (really long),https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://datadryad.org/,DRYAD,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.highcharts.com/demo/bar-stacked,Highcharts,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://coffitivity.com/,Coffitivity,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://agenda.com/,Agenda,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.focusatwill.com,focus@will,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.youtube.com/watch?v=s_2FDRtFOAw,A youtube audio track of 10 hours rain fall,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.slideas.app/,Slideas,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://naturesoundsfor.me/,NatureSoundsFor.Me,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.flotcharts.org/flot/examples/,Flot,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.sublimetext.com/,Sublime Text,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://colorbrewer2.org,ColorBrewer,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://colab.research.google.com/,Google Colab,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.processon.com/,ProcessOn,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.noisli.com/,Noisli,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://codefights.com/,Code Fights,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.readcube.com/,ReadCube/Papers,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://whitenoise247.net/,White.Noise,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://drive.google.com/,Google Drive,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://plot.ly/,plot.ly,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://drichard.org/mindmaps/,mindmaps,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.sessions.edu/color-calculator/,Color Calculator,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.jetbrains.com/,JetBrains,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://staticsitegenerators.net/,Here is a nice website,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://raphaeljs.com/,Raphaël,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://figshare.com/,Figshare,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.authorea.com/,Authorea,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.geogebra.org,GeoGebra,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://paperscape.org/,Paperscape,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://jekyllrb.com/,Jekyll,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.ambient-mixer.com/,ambient mixer,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://coffitivity.com/,Coffitivity,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.draw.io/,Draw.io,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.calm.com/,Calm,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://graph.tk/,graph.tk,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://pandoc.herokuapp.com/,Pandoc Markdown,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.wolfram.com/mathematica/,Mathematica,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://sphinx-doc.org,Sphinx,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://sway.com/,Sway,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.elabftw.net/,eLabFTW,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://octopress.org/,Octopress,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://peer.us/,Peerus,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://data.gov,Data.gov,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.ctan.org/tex-archive/support/latexdiff/,latexdiff,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://ipython.org/notebook.html,iPython Notebook,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.brain.fm/,Brain.fm,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://whitenoisemp3s.com/,white noise mp3s,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://marxi.co/,Marxico,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://ryan-roemer.github.io/sphinx-bootstrap-theme/,Bootstrap theme,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://raneto.com/,Raneto,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://hemingwayapp.com/,Hemingway App,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://www.ncbi.nlm.nih.gov/genbank/,GenBank,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://www.mendeley.com/,Mendeley,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://colab.research.google.com/,Google Colab,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.wolfram.com/mathematica/,Mathematica,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://pandoc.herokuapp.com/,Pandoc Markdown,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.zotero.org/styles,Zotero Style Repository,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.ncei.noaa.gov/,National Centers for Environmental Information,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://scirate.com/,SciRate,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://impress.github.io/impress.js/,Impress.js,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://ipython.org/notebook.html,iPython Notebook,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://nextjournal.com/,NextJournal,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://marxi.co/,Marxico,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.brain.fm/,Brain.fm,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://jmpressjs.github.io/jmpress.js/,Jimpress,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.jabref.org/,JabRef,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://jupyter.org/,IPython/Jupyter Notebook,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://getpelican.com,Pelican,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://physics.stackexchange.com/,Physics.StackExchange,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.elabftw.net/,eLabFTW,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://noiz.io/,Noizio,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.doi2bib.org/,doi2bib,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://www.geoportal.org,GEOSS Portal,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://bitbucket.org/rivanvx/beamer/wiki/Home,Beamer,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.typora.io/,typora,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://jmpressjs.github.io/jmpress.js/,Jimpress,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://jupyter.org/,IPython/Jupyter Notebook,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.ncei.noaa.gov/,National Centers for Environmental Information,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.zotero.org/styles,Zotero Style Repository,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://maxiang.io/,马克飞象,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://sphinx-doc.org,Sphinx,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://soundrown.com/,Soundrown,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://ryan-roemer.github.io/sphinx-bootstrap-theme/,Bootstrap theme,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.madoko.net/,Madoko,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.jabref.org/,JabRef,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://raining.fm,Raining,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://pad.haroopress.com/,Haroopad,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://jbt.github.io/markdown-editor/,jbt/markdown-editor,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.biostars.org/,Biostars,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.geoportal.org,GEOSS Portal,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://25.io/mou/,Mou,https://github.com/emptymalei/awesome-research#readme,Research Tools
 http://www.usvao.org/,US Virtual Astronomical Observatory,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://hemingwayapp.com/,Hemingway App,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://shiny.chemgrid.org/boxplotr/,BoxPlotR,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://bids.github.io/colormap/,2,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://www.nap.edu/read/12192/,On Being a Scientist,https://github.com/emptymalei/awesome-research#readme,Research Tools
 https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html,MAST: Barbara A. Mikulski Archive for Space Telescopes,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html,cut_the_crap.py,https://github.com/emptymalei/awesome-research#readme,Research Tools
-http://archive.stsci.edu/,Mikulski Archive for Space Telescopes,https://github.com/emptymalei/awesome-research#readme,Research Tools
-https://www.maplesoft.com/index.aspx?L=E,Maple,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.tug.dk/FontCatalogue/seriffonts.html,Font Catalogue,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.latextemplates.com/,LaTeX Templates,https://github.com/emptymalei/awesome-research#readme,Research Tools
+https://awwapp.com,Online Whiteboard,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://www.mapinseconds.com/,MapInSeconds.com,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://matrix.sspai.com/p/c7a3c9c0,了解为什么死掉，请阅读此文。,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://markdownpad.com/,MarkdownPad,https://github.com/emptymalei/awesome-research#readme,Research Tools
+http://findingsapp.com/,Findings,https://github.com/emptymalei/awesome-research#readme,Research Tools

@@ -1,1 +1,1 @@
-http://www.thijsschreijer.nl/blog/?p=693,Lua states, libraries, coroutines and memory,https://github.com/LewisJEllis/awesome-lua#readme,Lua error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
+http://www.thijsschreijer.nl/blog/?p=693,Lua states, libraries, coroutines and memory,https://github.com/LewisJEllis/awesome-lua#readme,Lua error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

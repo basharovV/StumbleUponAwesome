@@ -1,24 +1,12 @@
 https://www.ag-grid.com/best-aurelia-data-grid/,Demo,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://aureliacasts.com/,Tutorial Series of Aurelia | AureliaCasts,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://builtwithaurelia.com/,Built with Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://davismj.me/,Personal blog of Aurelia developer Matthew James Davis,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://blog.nofluffjuststuff.com/2016/02/22/podcast-checking-out-aurelia-with-peter-pavlovich/,No Fluff Just Stuff Podcast: Checking out Aurelia with Peter Pavlovich,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.danyow.net/,Personal blog on Aurelia dev / Developer Jeremy Danyow,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Moved Permanently
-http://blog.nofluffjuststuff.com/2016/02/22/podcast-checking-out-aurelia-with-peter-pavlovich/,No Fluff Just Stuff Podcast: Checking out Aurelia with Peter Pavlovich,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 403: 'Site Disabled'> | reason: Site Disabled
 http://aurelia.io/docs.html,Official Documentation,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg,Adventures in Angular Podcast: Aurelia with Rob Eisenberg,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://definitelytyped.org/tsd,TSD,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://hobbit-on-aurelia.net/,Personal blog on Aurelia dev / Developer Michael Lambert,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://sean-hunter.io/,Personal blog on Aurelia dev / Developer Sean Hunter,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://www.packtpub.com/application-development/aurelia-beginners-new-age-js-framework-video,Aurelia For Beginners: The New Age JS Framework | Packt,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://aureliacasts.com/,Tutorial Series of Aurelia | AureliaCasts,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia,Hands-On Full Stack Web Development with Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/web-development/aurelia-web-development-part-1-video,Aurelia Web Development - Part 1 | Packt,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia,Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.packtpub.com/web-development/learning-aurelia,Learning Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found

@@ -1,0 +1,367 @@
+https://www.w3.org/TR/html5/,,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher,So you want to be a web security researcher?,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.hacker101.com/,Hacker101,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.hackerone.com/start-hacking,hackerone,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/daily-swig,The Daily Swig - Web security digest,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/,PortSwigger,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.netsparker.com/blog/web-security/,Web Application Security Zone by Netsparker,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.netsparker.com/,Netsparker,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.sneakymonkey.net/2017/04/23/infosec-newbie/,Infosec Newbie,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.sneakymonkey.net/,Mark Robinson,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://bitvijays.github.io/,The Magic of Learning,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://bitvijays.github.io/aboutme.html,@bitvijays,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://trailofbits.github.io/ctf/,CTF Field Guide,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.trailofbits.com/,Trail of Bits,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://tldrsec.com/,tl;dr sec,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.phrack.org/,Phrack Magazine,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://thehackernews.com/,The Hacker News,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://securityweekly.com/,Security Weekly,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.theregister.co.uk/,The Register,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.darkreading.com/Default.asp,Dark Reading,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://en.hackdig.com/,HackDig,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.google.com/intl/sw/about/appsecurity/learning/xss/,Cross-Site Scripting – Application Security – Google,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.google.com/,Google,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://excess-xss.com/,C.XSS Guide,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.linkedin.com/in/irenelobovalbuena/,Irene Lobo Valbuena,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.paulosyibelo.com/2018/06/the-big-bad-wolf-xss-and-maintaining.html,THE BIG BAD WOLF - XSS AND MAINTAINING ACCESS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.paulosyibelo.com/,Paulos Yibelo,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/,Exploiting prototype pollution – RCE in Kibana (CVE-2019-7609),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.p6.is/Real-World-JS-1/,Real-world JS - 1,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://news.webamooz.com/wp-content/uploads/bot/offsecmag/147.pdf,CSV Injection -> Meterpreter on Pornhub,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.zsec.uk/,Andy,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://georgemauer.net/2017/10/07/csv-injection.html,The Absurdly Underestimated Dangers of CSV Injection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://georgemauer.net/,George Mauer,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/,SQL Injection Cheat Sheet,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sqlwiki.netspi.com/,SQL Injection Wiki,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.netspi.com/,NETSPI,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://websec.ca/kb/sql_injection,SQL Injection Pocket Reference,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.h3xstream.com/2014/02/hql-for-pentesters.html,HQL for pentesters,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.synacktiv.com/ressources/hql2sql_sstic_2015_en.pdf,HQL : Hyperinsane Query Language (or how to access the whole SQL API within a HQL injection ?),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.slideshare.net/0ang3el/orm2pwn-exploiting-injections-in-hibernate-orm,ORM2Pwn: Exploiting injections in Hibernate ORM,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://0ang3el.blogspot.tw/,Mikhail Egorov,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.slideshare.net/simone.onofri/orm-injection,ORM Injection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://onofri.org/,Simone Onofri,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html,Advisory: Java/Python FTP Injections Allow for Firewall Bypass,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://plus.google.com/105917618099766831589,Timothy Morgan,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/,SMTP over XXE − how to send emails using Java's XML parser,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://shiftordie.de/,Alexander Klink,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://phonexicum.github.io/infosec/xxe.html,XXE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/web-security/xxe,XML external entity (XXE) injection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf,XML Schema, DTD, and Entity Attacks,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f,Wiping Out CSRF,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@jrozner,@jrozner,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.imperva.com/learn/application-security/clickjacking/,Clickjacking,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.imperva.com/,Imperva,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.slideshare.net/x00mario,Mario Heiderich,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit,SSRF bible. Cheatsheet,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://wallarm.com/,Wallarm,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/blog/practical-web-cache-poisoning,Practical Web Cache Poisoning,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.acolyer.org/2018/05/28/large-scale-analysis-of-style-injection-by-relative-path-overwrite/,Large-scale analysis of style injection by relative path overwrite,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.mbsd.jp/Whitepaper/rpo.pdf,MBSD Technical Whitepaper - A few RPO exploitation techniques,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.mbsd.jp/,Mitsui Bussan Secure Directions, Inc.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://s0cket7.com/open-redirect-vulnerability/,Open Redirect Vulnerability,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://s0cket7.com/,s0cket7,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/,How to Hunt Bugs in SAML; a Methodology - Part I,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://epi052.gitlab.io/notes-to-self/,epi,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/,How to Hunt Bugs in SAML; a Methodology - Part II,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/,How to Hunt Bugs in SAML; a Methodology - Part III,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf,File Upload Restrictions Bypass,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.exploit-db.com/author/?a=9381,Haboob Team,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackmd.io/s/SkuTVw5O-,Rails Security - First part,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://rails-sqli.org,Rails SQL Injection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://guides.rubyonrails.org/security.html,Official Rails Security Guide,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html,XSS without HTML: Client-Side Template Injection with AngularJS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.blogger.com/profile/10856178524811553475,Gareth Heyes,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html,DOM based Angular sandbox escapes,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://danlec.com/blog/xss-via-a-spoofed-react-element,XSS via a spoofed React element,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://danlec.com/,Daniel LeCheminant,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.aptive.co.uk/blog/tls-ssl-security-testing/,SSL & TLS Penetration Testing,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.aptive.co.uk/,APTIVE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/,Why mail() is dangerous in PHP,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentestacademy.wordpress.com/2017/09/20/nfs/?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=b34422ce15164e99a193fea0ccc7a02f&uid=1959680352&nid=244+289476616,NFS | PENETRATION TESTING ACADEMY,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentestacademy.wordpress.com/,PENETRATION ACADEMY,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/,PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://rhinosecuritylabs.com/,Rhino Security Labs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/,AWS PENETRATION TESTING PART 1. S3 BUCKETS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.virtuesecurity.com/,VirtueSecurity,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/,AWS PENETRATION TESTING PART 2. S3, IAM, EC2,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://labs.f-secure.com/blog/misadventures-in-aws,Misadventures in AWS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://rhinosecuritylabs.com/cloud-security/common-azure-security-vulnerabilities/,Common Azure Security Vulnerabilities and Misconfigurations,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/,Cloud Security Risks (Part 1): Azure CSV Injection Vulnerability,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6,A penetration tester’s guide to sub-domain enumeration,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.appsecco.com/@yamakira_,Bharath,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.sweepatic.com/art-of-subdomain-enumeration/,The Art of Subdomain Enumeration,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.sweepatic.com/author/patrik/,Patrik Hudak,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://bettercrypto.org/,Applied Crypto Hardening,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.tenable.com/blog/hunting-for-web-shells,Hunting for Web Shells,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.tenable.com/profile/jacob-baines,Jacob Baines,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.netspi.com/hacking-with-jsp-shells/,Hacking with JSP Shells,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157,Hacking Cryptocurrency Miners with OSINT Techniques,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@s3yfullah,@s3yfullah,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.slideshare.net/miaoski/osint-x-uccu-workshop-on-open-source-intelligence,OSINT x UCCU Workshop on Open Source Intelligence,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.slideshare.net/miaoski,Philippe Lin,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.youtube.com/watch?v=fzd3zkAI_o4,102 Deep Dive in the Dark Web OSINT Style Kirby Plessas,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email,The most complete guide to finding anyone’s email,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.blurbiz.io/,Timur Daudpota,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325,Attacking Private Networks from the Internet with DNS Rebinding,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@brannondorsey,@brannondorsey,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@radekk/hackers-can-get-access-to-your-home-router-1ddadd12a7a7,Hacking home routers from the Internet,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@radekk,@radekk,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/,What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.youtube.com/watch?v=eDfGpu3iE4Q,Attacking .NET deserialization,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.youtube.com/watch?v=--6PiuvBGAU,.NET Roulette: Exploiting Insecure Deserialization in Telerik UI,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentest-tools.com/blog/exploit-dotnetnuke-cookie-deserialization/,How to exploit the DotNetNuke Cookie Deserialization,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentest-tools.com/blog/author/pentest-cristian/,CRISTIAN CORNEA,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html,HOW TO EXPLOIT LIFERAY CVE-2020-7961 : QUICK JOURNEY TO POC,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html,Introduction to OAuth 2.0 and OpenID Connect,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/securing/what-is-going-on-with-oauth-2-0-and-why-you-should-not-use-it-for-authentication-5f47597b2611,What is going on with OAuth 2.0? And why you should not use it for authentication.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@damianrusinek,@damianrusinek,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/,Hardcoded secrets, unverified tokens, and other common JWT mistakes,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/,CSP: bypassing form-action with reflected XSS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://labs.detectify.com/,Detectify Labs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html,TWITTER XSS + CSP BYPASS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa,Neatly bypassing CSP,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/blog/evading-csp-with-dom-based-dangling-markup,Evading CSP with DOM-based dangling markup,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://githubengineering.com/githubs-csp-journey/,GitHub's CSP journey,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://githubengineering.com/githubs-post-csp-journey/,GitHub's post-CSP journey,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/secjuice/waf-evasion-techniques-718026d693d8,Web Application Firewall (WAF) Evasion Techniques,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0,Web Application Firewall (WAF) Evasion Techniques #2,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/,Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f,How to bypass libinjection in many WAF/NGWAF,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@d0znpp,@d0znpp,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks,JavaScript MVC and Templating Frameworks,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html,Trend Micro Threat Discovery Appliance - Session Generation Authentication Bypass (CVE-2016-8584),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://zhuanlan.zhihu.com/p/32716181,Neat tricks to bypass CSRF-protection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://twosecurity.io/,Twosecurity,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b,Exploiting CSRF on JSON endpoints with Flash and redirects,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.appsecco.com/@riyazwalikar,@riyazwalikar,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2,Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.securityevaluators.com/@rramgattie,@rramgattie,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443,If HttpOnly You Could Still CSRF… Of CORS you can!,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a,Clickjackings in Google worth 14981.7$,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@raushanraj_65039,@raushanraj_65039,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.thezdi.com/blog/2019/10/23/cve-2019-1306-are-you-my-index,CVE-2019-1306: ARE YOU MY INDEX?,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://paper.seebug.org/910/,WebLogic RCE (CVE-2019-2725) Debug Diary,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/,Exploiting Node.js deserialization bug for Remote Code Execution,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://opsecx.com/index.php/author/ajinabraham/,OpSecX,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.ambionics.io/blog/drupal-services-module-rce,DRUPAL 7.X SERVICES MODULE UNSERIALIZE() TO RCE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.ambionics.io/,Ambionics Security,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://capacitorset.github.io/mathjs/,How we exploited a remote code execution vulnerability in math.js,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://exablue.de/blog/2017-03-15-github-enterprise-remote-code-execution.html,GitHub Enterprise Remote Code Execution,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.ripstech.com/2018/moodle-remote-code-execution/,Evil Teacher: Code Injection in Moodle,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html,How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.orange.tw/,Orange,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce,$36k Google App Engine RCE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sites.google.com/site/testsitehacking/,Ezequiel Pereira,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://codewhitesec.blogspot.com/2018/05/poor-richfaces.html,Poor RichFaces,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.code-white.com/,CODE WHITE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/,Remote Code Execution on a Facebook server,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html,Exploiting XSS with 20 characters limitation,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://jlajara.gitlab.io/,Jorge Lajara,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html,Upgrade self XSS to Exploitable XSS an 3 Ways Technic,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.hahwul.com/,HAHWUL,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/blog/xss-without-parentheses-and-semi-colons,XSS without parentheses and semi-colons,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b,XSS-Auditor — the protector of unprotected and the deceiver of protected.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@terjanq,@terjanq,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/reports/293689,Query parameter reordering causes redirect page to render unsafe URL,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/kenziy,kenziy,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.slideshare.net/x00mario/es6-en,ECMAScript 6 from an Attacker's Perspective - Breaking Frameworks, Sandboxes, and everything else,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@marin_m,@marin_m,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf,DON'T TRUST THE DOM: BYPASSING XSS MITIGATIONS VIA SCRIPT GADGETS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/,Uber XSS via Cookie,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://zhchbin.github.io/,zhchbin,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html,DOM XSS – auth.uber.com,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://stamone-bug-bounty.blogspot.tw/,StamOne_,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://opnsec.com/2018/03/stored-xss-on-facebook/,Stored XSS on Facebook,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://opnsec.com/,Enguerran Gillier,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html,XSS in Google Colaboratory + CSP bypass,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.bentkowski.info/,Michał Bentkowski,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html,Another XSS in Google Colaboratory,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://vinothkumar.me/20000-facebook-dom-xss/,$20000 Facebook DOM XSS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.exploit-db.com/docs/english/37953-mysql-error-based-sql-injection-using-exp.pdf,MySQL Error Based SQL Injection Using EXP,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html,SQL injection in an UPDATE query - a bug bounty story!,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://zombiehelp54.blogspot.jp/,Zombiehelp54,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html,GitHub Enterprise SQL Injection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8,Making a Blind SQL Injection a little less blind,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.tarlogic.com/en/blog/red-team-tales-0x01/,Red Team Tales 0x01: From MSSQL to RCE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.tarlogic.com/en/cybersecurity-blog/,Tarlogic,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pulsesecurity.co.nz/articles/postgres-sqli,SQL INJECTION AND POSTGRES - AN ADVENTURE TO EVENTUAL RCE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/,GraphQL NoSQL Injection Through JSON Types,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.petecorey.com/work/,Pete,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf,XML Out-Of-Band Data Retrieval,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html,XXE OOB exploitation at Java 1.7+,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://lab.onsec.ru/,Ivan Novikov,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://mohemiv.com/all/evil-xml/,Evil XML with two encodings,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://mohemiv.com/,Arseniy Sharoglazov,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://seclists.org/fulldisclosure/2018/Jul/3,XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/,XXE OOB extracting via HTTP+FTP using single opened port,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://skavans.ru/,skavans,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf,What You Didn't Know About XML External Entities Attacks,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf,Pre-authentication XXE vulnerability in the Services Drupal module,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.netspi.com/forcing-xxe-reflection-server-error-messages/,Forcing XXE Reflection through Server Error Messages,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.netspi.com/author/antti-rantasaari/,Antti Rantasaari,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/,Exploiting XXE with local DTD files,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation,Automating local DTD discovery for XXE exploitation,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://10degres.net/aws-takeover-through-ssrf-in-javascript/,AWS takeover through SSRF in JavaScript,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://10degres.net/,Gwen,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/reports/341876,SSRF in Exchange leads to ROOT access in all instances,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/0xacb,0xacb,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51,PHP SSRF Techniques,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@themiddleblue,@themiddleblue,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/reports/115748,SSRF in https://imgur.com/vidgif/url,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/aesteral,aesteral,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.auxy.xyz/web%20security/2017/07/06/all-ssrf-knowledge.html,All you need to know about SSRF and how may we write tools to do auto-detect,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf,A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.safebuff.com/2016/07/03/SSRF-Tips/,SSRF Tips,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.safebuff.com/,xl7dev,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/,Into the Borg – SSRF inside Google production network,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a,Piercing the Veil: Server Side Request Forgery to NIPRNet access,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@alyssa.o.herrera,Alyssa Herrera,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/blog/bypassing-web-cache-poisoning-countermeasures,Bypassing Web Cache Poisoning Countermeasures,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://lab.wallarm.com/cache-poisoning-and-other-dirty-tricks-120468f1053f,Cache poisoning and other dirty tricks,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://noncombatant.org/2017/11/07/problems-of-urls/,Some Problems Of URLs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://noncombatant.org/about/,Chris Palmer,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.xudongz.com/blog/2017/idn-phishing/,Phishing with Unicode Domains,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.xudongz.com/,Xudong Zheng,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.vgrsec.com/post20170219.html,Unicode Domains are bad and you should feel bad for supporting them,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.vgrsec.com/,VRGSEC,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.blackfan.ru/2017/09/devtwittercom-xss.html,[dev.twitter.com] XSS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.blackfan.ru/,Sergey Bobrov,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/,ASP.NET resource files (.RESX) and deserialisation issues,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/,Facebook OAuth Framework Vulnerability,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/free-code-camp/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5,How I hacked Google’s bug tracking system itself for $15,600 in bounties,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@alex.birsan,@alex.birsan,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.leavesongs.com/SHARE/some-tricks-from-my-secret-group.html,Some Tricks From My Secret Group,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.leavesongs.com/,phithon,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html,Stored XSS, and SSRF in Google using the Dataset Publishing Language,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer,The world of Site Isolation and compromised renderer,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers,The Cookie Monster in Your Browsers,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.blackhat.com/docs/asia-16/materials/asia-16-Baloch-Bypassing-Browser-Security-Policies-For-Fun-And-Profit-wp.pdf,Bypassing Mobile Browser Security For Fun And Profit,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/,The inception bar: a new phishing method,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://jameshfisher.com/,jameshfisher,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html,JSON hijacking for the modern web,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&theater,IE11 Information disclosure - local file detection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/,SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://bo0om.ru/safari-client-side,Особенности Safari в client-side атаках,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://bo0om.ru/author/admin,Bo0oM,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/,How do we Stop Spilling the Beans Across Origins?,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html,Setting arbitrary request headers in Chromium via CRLF injection,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5,I’m harvesting credit card numbers and passwords from your site. Here’s how.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackernoon.com/@david.gilbertson,David Gilbertson,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://hackerone.com/reports/188086,Sending arbitrary IPC messages via overriding Function.prototype.apply,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/,Take Advantage of Out-of-Scope Domains in Bug Bounty Programs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://habr.com/en/company/drweb/blog/452076/,Breaking UC Browser,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.drweb.ru/,Доктор Веб,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.phrack.org/papers/attacking_javascript_engines.html,Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/,Three roads lead to Rome,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/,Exploiting a V8 OOB write.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blogs.securiteam.com/index.php/archives/3379,SSD Advisory – Chrome Turbofan Remote Code Execution,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blogs.securiteam.com/,SecuriTeam Secure Disclosure (SSD),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf,Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit,PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/,A Methodical Approach to Browser Exploitation,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.ret2.io/,RET2 SYSTEMS, INC,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/,CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://doar-e.github.io/,Diary of a reverse-engineer,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://theori.io/research/escaping-chrome-sandbox,CLEANLY ESCAPING THE CHROME SANDBOX,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sploitus.com/,SPLOITUS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.exploit-db.com/,Exploit Database,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.offensive-security.com/,Offensive Security,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://leanpub.com/xss,XSS Cheat Sheet - 2018 Edition,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://censys.io/,Censys,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://umich.edu/,University of Michigan,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://urlscan.io/,urlscan.io,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.zoomeye.org/,ZoomEye,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://fofa.so/?locale=en,FOFA,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://baimaohui.net/,BAIMAOHUI,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://nti.nsfocus.com/,NSFOCUS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.elevenpaths.com/index.html,ElevenPaths,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.spiderfoot.net/,SpiderFoot,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://start.me/p/QRENnO/databases,Databases - start.me,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://peoplefindthor.dk/,peoplefindThor,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.virustotal.com/,VirusTotal,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://crt.sh/,Certificate Search,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.ssllabs.com,Qualys SSL Labs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://portswigger.net/burp/,Burp Suite,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://buckets.grayhatwarfare.com/,grayhatwarfare,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.grayhatwarfare.com/,grayhatwarfare,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://beefproject.com,beefproject,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://csper.io/evaluator,csp evaluator,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://csper.io,Csper,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://tools.intigriti.io/redirector/,Open redirect/SSRF payload generator,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.intigriti.com/,intigriti,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sqlchop.chaitin.cn/,sqlchop,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://chaitin.com,chaitin,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://xsschop.chaitin.cn/,xsschop,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://cure53.de/m,cure53.de/m,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://cure53.de/,Cure53,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.cossacklabs.com/,@cossacklabs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://csper.io,Csper,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.charlesproxy.com/,Charles,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.benf.org/other/cfr/,CFR,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://wiki.skullsecurity.org/index.php?title=Dnslogger,Dnslogger,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://haveibeenpwned.com/,haveibeenpwned,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.troyhunt.com/,Troy Hunt,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://albinowax.skeletonscribe.net/,James Kettle,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.brokenbrowser.com/,Broken Browser,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://datarift.blogspot.tw/,Scrutiny,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://buer.haus/,BRETT BUERHAUS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.n0tr00t.com/,n0tr00t,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.ripstech.com/tags/security/,RIPS Technologies,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://blog.0daylabs.com/,0Day Labs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://osandamalith.com/,Blog of Osanda,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://hackxor.net/,Hackxor,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://selinuxgame.org/,SELinux Game,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://flaws.cloud/,FLAWS,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://xss-game.appspot.com/,XSS game,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://prompt.ml/,prompt(1) to win,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://alf.nu/alert1,alert(1) to win,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://xss-quiz.int21h.jp/,XSS Challenges,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.netnea.com/cms/apache-tutorials/,ModSecurity / OWASP ModSecurity Core Rule Set,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.reddit.com/r/websecurity/,Reddit,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://stackoverflow.com/questions/tagged/security,Stack Overflow,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns,Google VRP and Unicorns,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/,Daniel Stelter-Gliese,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html,Brute Forcing Your Facebook Email and Phone Number,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://pwndizzle.blogspot.jp/,PwnDizzle,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/,The Definitive Security Data Science and Machine Learning Guide,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://githubengineering.com/githubs-bug-bounty-workflow/,A glimpse into GitHub's Bug Bounty workflow,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.belfercenter.org/CyberPlaybook,Cybersecurity Campaign Playbook,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.belfercenter.org/,Belfer Center for Science and International Affairs,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://iotscanner.bullguard.com/,Internet of Things Scanner,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.bullguard.com/,BullGuard,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing,The Bug Hunters Methodology v2.1,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up,$7.5k Google services mix-up,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/,How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://voidsec.com/vpn-leak/,TL:DR: VPN leaks users’ IPs via WebRTC. I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%),https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://voidsec.com/,voidsec,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks,Escape and Evasion Egressing Restricted Networks,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66,Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@umpox,@umpox,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals,Domato Fuzzer's Generation Engine Internals,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.sigpwn.io/,sigpwn,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/,CSS Is So Overpowered It Can Deanonymize Facebook Users,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.evonide.com/,Ruslan Habalov,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018,Introduction to Web Application Security,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/,Finding The Real Origin IPs Hiding Behind CloudFlare or TOR,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.secjuice.com/author/paul-dannewitz/,Paul Dannewitz,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob,Why Facebook's api starts with a for loop,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/,How I could have stolen your photos from Google - my first 3 bug bounty writeups,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://0day.work/an-example-why-nat-is-not-security/,An example why NAT is NOT security,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://techvomit.net/web-application-penetration-testing-notes/,WEB APPLICATION PENETRATION TESTING NOTES,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://techvomit.net/,Jayson,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://segment.com/blog/hacking-with-a-heads-up-display/,Hacking with a Heads Up Display,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://segment.com/blog/authors/david-scrobonia/,David Scrobonia,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://slashcrypto.org/data/itsecx2018.pdf,Alexa Top 1 Million Security - Hacking the Big Ones,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+http://10degres.net/the-bug-bounty-program-that-changed-my-life/,The bug bounty program that changed my life,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentester.land/list-of-bug-bounty-writeups.html,List of bug bounty writeups,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentester.land/,Mariem,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html,Implications of Loading .NET Assemblies,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://threatvector.cylance.com/en_us/contributors/brian-wallace.html,Brian Wallace,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf,WCTF2019: Gyotaku The Flag,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/,How we abused Slack's TURN servers to gain access to internal services,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa,DOS File Path Magic Tricks,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@clr2of8,@clr2of8,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d,How I got my first big bounty payout with Tesla,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://medium.com/@cj.fairhead,@cj.fairhead,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://qazbnm456.github.io/,@qazbnm456,https://github.com/qazbnm456/awesome-web-security#readme,Web Security

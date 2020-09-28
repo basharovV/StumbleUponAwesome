@@ -1,0 +1,63 @@
+https://prometheus.io/,,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://prometheus.io/docs/introduction/overview/,Documentation,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://prometheus.io/blog/,Blog,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://demo.do.prometheus.io,Official Prometheus demo,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7,How To Install Prometheus using Docker on CentOS 7,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server,How to Use Prometheus to Monitor Your CentOS 7 Server,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04,How To Install Prometheus using Docker on Ubuntu 14.04,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-ubuntu-14-04-server,How To Use Prometheus to Monitor Your Ubuntu 14.04 Server,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-1,How To Query Prometheus on Ubuntu 14.04 Part 1,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-2,How To Query Prometheus on Ubuntu 14.04 Part 2,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana,How To Add a Prometheus Dashboard to Grafana,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/,Checking if SSH is responding with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.brianchristner.io/monitor-your-github-repos-with-docker/,Monitor your GitHub Repos with Docker and Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550,Docker daemon metrics in Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://pagertree.com/2017/12/01/prometheus-tutorial/,Prometheus Monitoring Tutorial (10 minutes),https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.prometheusbook.com/,Monitoring with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+http://shop.oreilly.com/product/0636920147343.do,Prometheus: Up & Running,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.prombook.info/,Hands-On Infrastructure Monitoring with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv,PromCon 2019,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h,PromCon 2018,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/playlist?list=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt,PromCon 2017,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU,PromCon 2016,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=jb9j_IYv4cU,Prometheus Monitoring for Java Developers,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=cwRmXqXKGtk,Prometheus: A Next Generation Monitoring System,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=KXq5ibSj2qA,PromCon 2016: So You Want to Write an Exporter,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=5GYe_-qqP30,Infrastructure and application monitoring using Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=BjyI93c8ltA,Prometheus Monitoring for Java Web Applications w o Modifying Source Code,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=QgJbxCWRZ1s,Prometheus: Design and Philosophy - why it is the way it is,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://vimeo.com/341142428,Explain it Like I’m Five - What I Learned Teaching Observability to My Kids,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=_MNYuTNfTb4,Best Practices and Beastly Pitfalls,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=67Ulrq6DxwA,Counting with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=jpb6fLQOgn4,Understanding and Extending Prometheus AlertManager,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=HbnGSNEjhUc,The Prometheus Time Series Database,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=5O1djJ13gRU,An Introduction to Systems & Service Monitoring with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.youtube.com/watch?v=Me-kZi4xkEs,Prometheus Deep Dive,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://twit.tv/shows/floss-weekly/episodes/357,Prometheus on FLOSS Weekly 357,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://changelog.com/podcast/168,Prometheus and Service Monitoring,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/,Prometheus Monitoring with Brian Brazil,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+http://www.slideshare.net/brianbrazil/prometheus-overview,Prometheus Overview,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+http://www.slideshare.net/brianbrazil/devops-ireland-systems-monitoring-with-prometheus,System Monitoring with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0,OMG! Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://fosdem.org/2017/schedule/event/deploying_prometheus_at_wikimedia_foundation/attachments/slides/1773/export/events/attachments/deploying_prometheus_at_wikimedia_foundation/slides/1773/Prometheus_at_WMF_Fosdem_2017.pdf,Deploying Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud,Prometheus: Monitoring at SoundCloud,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/,Monitor Docker Containers with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.weave.works/prometheus-kubernetes-perfect-match/,Prometheus and Kubernetes: A Perfect Match,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.weave.works/prometheus-kubernetes-deploying/,Prometheus and Kubernetes: Deploying,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/,Prometheus and Kubernetes: Monitoring Your Applications,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.robustperception.io/tag/prometheus/,Robust Perception,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+http://blog.alexellis.io/prometheus-monitoring/,Monitor your applications with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603,Practical Services Monitoring with Prometheus and Docker,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/,Prometheus Blog Series (Part 1): Metrics and Labels,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/,Prometheus Blog Series (Part 2): Metric types,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/,Prometheus Blog Series (Part 3): Exposing and collecting metrics,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/,Prometheus Blog Series (Part 4): Instrumenting code in Go and Java,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/,Horizontal Pod Autoscaling in Kubernetes with Prometheus,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085,PromQL tutorial for beginners,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48,Prometheus storage: technical terms explained,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/,Alerting issues with Alertmanager,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://prometheus.io/docs/visualization/grafana/,Grafana,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+http://logz.io/blog/prometheus-monitoring/,Prometheus Monitoring with Grafana,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://monitoring.mixins.dev,Monitoring mixins,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://www.reddit.com/r/PrometheusMonitoring/,Prometheus Monitoring subreddit,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus
+https://promcon.io/,PromCon,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus

@@ -1,6 +1,5 @@
 https://www.kde.org/applications/internet/kmail/,KMail,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.kde.org/applications/system/kdiskfree/,KDiskFree,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://cgit.kde.org/kde-gtk-config.git,kde-gtk-config,https://github.com/francoism90/awesome-kde#readme,KDE error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://cgit.kde.org/wacomtablet.git,kcm-wacomtablet,https://github.com/francoism90/awesome-kde#readme,KDE error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox,Firefox KDE,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.kde.org/applications/system/kdiskfree/,KDiskFree,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.kde.org/applications/system/kinfocenter/,KInfoCenter,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 404: 'Not Found'> | reason: Not Found

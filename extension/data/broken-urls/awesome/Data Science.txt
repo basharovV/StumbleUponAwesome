@@ -1,2 +1,2 @@
 http://gpflow.readthedocs.io/en/latest/?badge=latest,GPflow,https://github.com/krzjoa/awesome-python-data-science#readme,Data Science error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://psi-toolkit.amu.edu.pl/,PSI-Toolkit,https://github.com/krzjoa/awesome-python-data-science#readme,Data Science error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+http://psi-toolkit.amu.edu.pl/,PSI-Toolkit,https://github.com/krzjoa/awesome-python-data-science#readme,Data Science error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

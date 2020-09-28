@@ -1,0 +1,56 @@
+https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html,Fairness Indicators: Scalable Infrastructure for Fair ML Systems,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://se-ml.github.io/survey,take and share the survey,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.kubeflow.org/,Kubeflow,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://se-ml.github.io/practices,read more,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://mlflow.org/,MLFlow,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://doi.org/10.1145/3076246.3076248,Versioning for end-to-end machine learning pipelines,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.altexsoft.com/blognp/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/,How to organize data labelling for ML,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://neptune.ai/,Neptune.ai,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.jair.org/index.php/jair/article/download/11420/26488/,Pitfalls and Best Practices in Algorithm Configuration,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://aws.amazon.com/blogs/apn/the-curse-of-big-data-labeling-and-three-ways-to-solve-it/,The curse of big data labeling and three ways to solve it,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://pdfs.semanticscholar.org/2869/6212a4a204783e9dd3953f06e103c02c6972.pdf,Best Practices for Machine Learning Applications,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.openml.org,OpenML,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://se-ml.github.io/practices/,Engineering Best Practices for Machine Learning,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf,Data Scientists in Software Teams: State of the Art and Challenges,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.tensorflow.org/tensorboard/,TensorBoard,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+http://learningsys.org/nips17/assets/papers/paper_19.pdf,The Data Linter: Lightweight, Automated Sanity Checking for ML Data Sets,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf,Managing Machine Learning Projects,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.tensorflow.org/tfx/,Tensorflow Extended (TFX),https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf,Hidden Technical Debt in Machine Learning Systems,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.wandb.com/,Weights & Biases,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.cloudfactory.com/data-labeling-guide,The ultimate guide to data labeling for ML,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://academic.oup.com/bioinformatics/article/26/3/440/213774,Pitfalls of supervised feature selection,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://developers.google.com/machine-learning/guides/rules-of-ml,Rules of Machine Learning: Best Practices for ML Engineering,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.gartner.com/en/documents/3889770/preparing-and-architecting-for-machine-learning-2018-upd,Preparing and Architecting for Machine Learning,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://dev.to/robogeek/principled-machine-learning-4eho,Principled Machine Learning: Practices and Tools for Efficient Collaboration,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://dl.acm.org/doi/abs/10.1145/1882471.1882479,Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/,Software Engineering for Machine Learning: A Case Study,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://arxiv.org/abs/1910.05528,Preliminary Systematic Literature Review of Machine Learning System Development Process,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://dl.acm.org/doi/pdf/10.1145/3351095.3372873,Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac,How do you manage your Machine Learning Experiments?,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://ai.google/responsibilities/responsible-ai-practices/,Responsible AI practices,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://deepai.org/publication/a-survey-on-data-collection-for-machine-learning-a-big-data-ai-integration-perspective,A Survey on Data Collection for Machine Learning A Big Data - AI Integration Perspective_2019,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://arxiv.org/abs/2004.07213,Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://arxiv.org/pdf/1906.10742.pdf,Machine Learning Testing: Survey, Landscapes and Horizons,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf,Automating Large-Scale Data Quality Verification,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1,Software development best practices in a deep learning environment,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://airflow.apache.org/,Airflow,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46178.pdf,Data management challenges in production machine learning,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://matthewmcateer.me/blog/machine-learning-technical-debt/,Nitpicking Machine Learning Technical Debt,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://ax.dev,Ax,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://developers.google.com/machine-learning/testing-debugging,Testing and Debugging in Machine Learning,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://pair-code.github.io/facets/,Facets Overview / Facets Dive,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://link.springer.com/article/10.1023/A:1009752403260,On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://blog.codecentric.de/en/2019/03/machine-learning-experiments-production/,Machine learning: Moving from experiments to production,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.microsoft.com/en-us/research/publication/what-went-wrong-and-why-diagnosing-situated-interaction-failures-in-the-wild/,What Went Wrong and Why? Diagnosing Situated Interaction Failures in the Wild,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://arxiv.org/pdf/1611.08309.pdf,On human intellect and machine failures: Troubleshooting integrative machine learning systems,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure,Best Practices in Machine Learning Infrastructure,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://martinfowler.com/articles/cd4ml.html,Continuous Delivery for Machine Learning,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f,ML Ops: Machine Learning as an engineered disciplined,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.usenix.org/system/files/opml19papers-baylor.pdf,Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.usenix.org/conference/atc18/presentation/sridhar,Model Governance Reducing the Anarchy of Production,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+http://hummer.io/docs/2019-ic2e-modelops.pdf,ModelOps: Cloud-based lifecycle management for reliable and trusted AI,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://www.kdnuggets.com/2018/04/operational-machine-learning-successful-mlops.html,Operational Machine Learning,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+http://proceedings.mlr.press/v67/li17a/li17a.pdf,Scaling Machine Learning as a Service,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true,TFX: A tensorflow-based Production-Scale ML Platform,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning
+https://research.google/pubs/pub46555/,The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction,https://github.com/SE-ML/awesome-seml#readme,Software Engineering for Machine Learning

@@ -1,2 +1,2 @@
 http://functionaljs.com,functional.js,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://paqmind.com/courses/fp-beginner/,Functional Programming for Beginners,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://paqmind.com/courses/fp-beginner/,Functional Programming for Beginners,https://github.com/stoeffel/awesome-fp-js#readme,Functional Programming error: <HTTPError 308: 'Unknown'> | reason: Unknown

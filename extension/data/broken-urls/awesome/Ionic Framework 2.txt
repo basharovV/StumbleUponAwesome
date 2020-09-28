@@ -1,16 +1,11 @@
 http://lathonez.github.io/2017/ionic-2-unit-testing/,Ionic Unit Testing,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2,Integrating Firebase with AngularFire2 into AngularJS & Ionic2,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-having-fun-with-cordova-geolocation-plugin/,Having Fun With Cordova Geolocation Plugin,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://ionicframework.com/docs/v2/getting-started/,Getting Started Guide,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/,Internationalize and Localize Your App With Angular 2,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/,How To Update Your Application Project and CLI,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://ionicframework.com/docs/v2/getting-started/,Getting Started Guide,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/,How to Work With Cordova Plugins,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://showcase.ionicframework.com/,Showcase,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/,Successful OAuth Social Login with Firebase,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/,Handling a Simple User Authorization,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/,Making REST HTTP Requests Like a Pro,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.packtpub.com/web-development/ionic-2-blueprints,Ionic Blueprints,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
-https://www.packtpub.com/application-development/hybrid-mobile-development-ionic,Hybrid Mobile Development with Ionic,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework 2 error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found

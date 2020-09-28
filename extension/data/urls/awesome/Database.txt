@@ -12,5 +12,5 @@ http://www.rethinkdb.com,http://www.rethinkdb.com,https://github.com/numetriclab
 http://rocksdb.org,http://rocksdb.org,https://github.com/numetriclabz/awesome-db#readme,Database
 http://titandb.io,http://titandb.io,https://github.com/numetriclabz/awesome-db#readme,Database
 http://ssdb.io,http://ssdb.io,https://github.com/numetriclabz/awesome-db#readme,Database
-http://blinkdb.cs.berkeley.edu/,http://blinkdb.cs.berkeley.edu/,https://github.com/numetriclabz/awesome-db#readme,Database
 http://www.sqlite.org/,SQLite,https://github.com/numetriclabz/awesome-db#readme,Database
+http://blinkdb.cs.berkeley.edu/,http://blinkdb.cs.berkeley.edu/,https://github.com/numetriclabz/awesome-db#readme,Database

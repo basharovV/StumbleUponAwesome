@@ -1,1 +1,3 @@
 https://www.fpcomplete.com/school,School of Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://fay-lang.org/,Fay,https://github.com/krispo/awesome-haskell#readme,Haskell error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://hayoo.fh-wedel.de/,Hayoo,https://github.com/krispo/awesome-haskell#readme,Haskell error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out

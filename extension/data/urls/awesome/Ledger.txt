@@ -1,10 +1,11 @@
-https://twit.tv/shows/floss-weekly/episodes/150,FLOSS Weekly 150,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 http://ledger-cli.org/,Ledger,https://github.com/sfischer13/awesome-ledger#readme,Ledger
-https://twit.tv/shows/floss-weekly/episodes/375,FLOSS Weekly 375,https://github.com/sfischer13/awesome-ledger#readme,Ledger
-https://www.youtube.com/watch?v=cjoCNRpLanY,Ledger + Emacs,https://github.com/sfischer13/awesome-ledger#readme,Ledger
+https://twit.tv/shows/floss-weekly/episodes/150,FLOSS Weekly 150,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 https://en.wikipedia.org/wiki/Ledger_(software),Wikipedia,https://github.com/sfischer13/awesome-ledger#readme,Ledger
+https://twit.tv/shows/floss-weekly/episodes/375,FLOSS Weekly 375,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 http://plaintextaccounting.org/,Plain Text Accounting,https://github.com/sfischer13/awesome-ledger#readme,Ledger
+https://www.youtube.com/watch?v=cjoCNRpLanY,Ledger + Emacs,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system,Wikipedia,https://github.com/sfischer13/awesome-ledger#readme,Ledger
+http://ricostacruz.com/cheatsheets/ledger.html,Cheat Sheet,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 http://ledger-cli.org/3.0/doc/ledger3.html,Manual,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 http://ledger-cli.org/3.0/doc/ledger.1.html,man page,https://github.com/sfischer13/awesome-ledger#readme,Ledger
 http://www.ledger-cli.org/3.0/doc/ledger-mode.html,Emacs,https://github.com/sfischer13/awesome-ledger#readme,Ledger

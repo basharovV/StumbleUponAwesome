@@ -1,0 +1,3 @@
+https://www.hashicorp.com/blog/category/terraform,Hashicorp Terraform Blog,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://docs.geopoiesis.io/manual/,geopoiesis,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: URLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1076)')) | reason: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1076)
+https://www.hashicorp.com/blog/terraform-discourse.html,Deploying Discourse with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
