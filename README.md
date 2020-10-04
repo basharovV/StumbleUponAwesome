@@ -1,7 +1,8 @@
 # <img src="extension/images/icon_128.png" width="45" align="left"> StumbleUponAwesome
 An *awesome* internet discovery button, for developers, tech and science lovers. 
 
-<img src="https://flat.badgen.net/chrome-web-store/users/dhfmgppomdaagdcbpccdfjpopgikcdge?color=6F82EB&label=chrome%20users&icon=chrome"/> <img src="https://flat.badgen.net/amo/users/stumbleuponawesome?color=6F82EB&label=firefox%20users&icon=firefox"/> <img src="https://flat.badgen.net/chrome-web-store/v/dhfmgppomdaagdcbpccdfjpopgikcdge?color=E87676&label=version"/>  <img src="https://flat.badgen.net/github/license/basharovV/stumbleuponawesome?color=green" />
+<img src="https://img.shields.io/chrome-web-store/users/dhfmgppomdaagdcbpccdfjpopgikcdge?color=%236F82EB&label=chrome%20users&labelColor=464646&style=flat-square&logo=google-chrome&logoColor=white"/> <img src="https://img.shields.io/chrome-web-store/v/dhfmgppomdaagdcbpccdfjpopgikcdge?color=E87676&label=version&style=flat-square" />
+<img src="https://flat.badgen.net/amo/users/stumbleuponawesome?color=6F82EB&label=firefox%20users&icon=firefox"/><img src="https://flat.badgen.net/github/license/basharovV/stumbleuponawesome?color=green" />
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
