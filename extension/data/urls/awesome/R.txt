@@ -173,7 +173,6 @@ https://ropensci.org/,rOpenSci,https://github.com/qinwf/awesome-R#readme,R
 https://r-pkgs.org/,R Packages, 2nd ed. by Hadley Wickham & Jennifer Bryan,https://github.com/qinwf/awesome-R#readme,R
 http://ropengov.github.io/,rOpenGov,https://github.com/qinwf/awesome-R#readme,R
 http://cran.r-project.org/web/packages/Cairo/index.html,Cairo,https://github.com/qinwf/awesome-R#readme,R
-https://sites.google.com/a/ddahl.org/rinruby-users/,RinRuby,https://github.com/qinwf/awesome-R#readme,R
 http://www.bioconductor.org/,Bioconductor,https://github.com/qinwf/awesome-R#readme,R
 http://cran.r-project.org/web/packages/hda/index.html,hda,https://github.com/qinwf/awesome-R#readme,R
 http://cran.r-project.org/web/packages/penalized/index.html,penalized,https://github.com/qinwf/awesome-R#readme,R
