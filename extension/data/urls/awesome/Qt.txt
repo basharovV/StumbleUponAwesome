@@ -1,121 +1,123 @@
 https://verbalexpressions.github.io,VerbalExpressions,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.videolan.org/vlc,VLC,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.google.com/earth,Google Earth,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://desktop.telegram.org,Telegram Desktop,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://woboq.com/blog/cpp11-in-qt5.html,C++11 in Qt5,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.kdab.com/development-resources/qt-tools/gammaray,GammaRay,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://qtxlsx.debao.me,QtXlsx,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://woboq.com/blog/cpp14-in-qt.html,C++14 for Qt programmers,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.kde.org,KDE,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.virtualbox.org,VirtualBox,https://github.com/JesseTG/awesome-qt#readme,Qt
 http://www.scintilla.org,Scintilla,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://woboq.com/blog/qstringliteral.html,QStringLiteral explained,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp,1,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/qt-tips-and-tricks-part-1,1,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://qtxlsx.debao.me,QtXlsx,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://woboq.com/blog/qstringliteral.html,QStringLiteral explained,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.malwarebytes.com,Malwarebytes,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://code.videolan.org,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://cutelyst.org,cutelyst,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/using-qt-alternative-programming-languages-part-2,three,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.qt.io/newsletters,Qt Newsletters,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.riverbankcomputing.com/software/sip,SIP,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.packtpub.com/game-development/game-programming-using-qt,Game Programming Using Qt: Beginner's Guide,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://woboq.com/blog/nice-debug-output-with-qt.html,Nicer debug output in Qt using QT_MESSAGE_PATTERN,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp-part-2,2,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://cutelyst.org,cutelyst,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.kdab.com/development-resources/qt-tools/gammaray,GammaRay,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://wiki.qt.io/Category:LanguageBindings,articles,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://bugreports.qt.io,Qt Bug Tracker,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.kdab.com/category/blogs,KDAB,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/qt-tips-and-tricks-part-2,2,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.riverbankcomputing.com/hg/sip,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://fortawesome.github.io/Font-Awesome,Font Awesome,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.parallels.com/products/desktop,Parallels Desktop,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.youtube.com/watch?v=JcoFk_PVhdk,GammaRay: Taking a deep look into your Qt application,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.qt.io/ide,Qt Creator,https://github.com/JesseTG/awesome-qt#readme,Qt
 http://qwt.sourceforge.net,Qwt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp-part-2,2,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/qt-tips-and-tricks-part-2,2,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.riverbankcomputing.com/software/sip,SIP,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://felgo.com,Felgo,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://codereview.qt-project.org,Qt Code Review,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.youtube.com/watch?v=dcSsjxhazu0,Multithreading with Qt,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://xiangxw.github.io/mupdf-qt,mupdf-qt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.qt.io/newsletters,Qt Newsletters,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.qt.io/ide,Qt Creator,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://fortawesome.github.io/Font-Awesome,Font Awesome,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.riverbankcomputing.com/hg/sip,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.packtpub.com/game-development/game-programming-using-qt,Game Programming Using Qt: Beginner's Guide,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/whats-new-qt-5-qstandardpaths,What's new in Qt 5: QStandardPaths,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://code.qt.io,Source Code,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://doc.qt.io/qt-5/qtdesigner-manual.html,Qt Designer,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.youtube.com/watch?v=L4NClVxqdMw,Linux perf for Qt developers,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.nongnu.org/libqtlua,QtLua,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.rolisteam.org,Rolisteam,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://riverbankcomputing.com/software/pyqt,PyQt,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://mupdf.com,MuPDF,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://doc.qt.io/qt-5/qtassistant-index.html,Qt Assistant,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://wiki.qt.io/Online_Communities,here,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.packtpub.com/application-development/application-development-qt-creator-second-edition,Application Development with Qt Creator - 2nd Edition,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/mastering-qt-file-selectors,Mastering Qt File Selectors,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://bugreports.qt.io,Qt Bug Tracker,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qt-5/qtdesigner-manual.html,Qt Designer,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://riverbankcomputing.com/software/pyqt,PyQt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.kdab.com/category/blogs,KDAB,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qt-5/qtassistant-index.html,Qt Assistant,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.nongnu.org/libqtlua,QtLua,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://api.kde.org/frameworks,KDE Frameworks,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/whats-new-qt-52-qcommandlineparser,What's New in Qt 5.2: QCommandLineParser,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://appimage.org,AppImage,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-1,1,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://codereview.qt-project.org,Qt Code Review,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.youtube.com/watch?v=JcoFk_PVhdk,GammaRay: Taking a deep look into your Qt application,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.youtube.com/watch?v=dcSsjxhazu0,Multithreading with Qt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://marble.kde.org,Marble,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://doc.qt.io/archives/vs-addin,Qt Visual Studio Add-in,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.wolfram.com/mathematica,Wolfram Mathematica,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://lists.qt-project.org,Mailing Lists,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://code.qt.io,Source Code,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.youtube.com/watch?v=L4NClVxqdMw,Linux perf for Qt developers,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://sourceforge.net/projects/qwt,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.google.com/earth,Google Earth,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://appimage.org,AppImage,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-2,2,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://woboq.com/blog,Woboq,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://doc.qt.io/qt-5/qtlinguist-index.html,Qt Linguist,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://marble.kde.org,Marble,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.lothlorien.com/kf6gpe,Ray Rischpater,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://forum.qt.io,Qt Forum,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-1,1,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://yabause.org,Yabause,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://sourceforge.net/projects/qwt,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://woboq.com/blog/moc-myths.html,Moc myths debunked,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://nothings.org/stb_vorbis,stb_vorbis,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://svn.savannah.nongnu.org/viewvc/?root=libqtlua,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://doc.qt.io/qtinstallerframework,Qt Installer Framework,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://wiki.qt.io/Online_Communities,here,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.qtav.org,QtAV,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://inqlude.org,#inqlude,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://showroom.qt.io,here,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.packtpub.com/application-development/application-development-qt-creator-second-edition,Application Development with Qt Creator - 2nd Edition,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://woboq.com/blog/moc-myths.html,Moc myths debunked,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://inqlude.org/get.html,here,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.riverbankcomputing.com/software/pyqt/download5,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.kde.org,KDE,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-3,3,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://woboq.com/blog/how-qt-signals-slots-work.html,1,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qtinstallerframework,Qt Installer Framework,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://jpnaude.github.io/Qtilities,Qtilities,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://lists.qt-project.org,Mailing Lists,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://wiki.qt.io/PySide,Python (via PySide),https://github.com/JesseTG/awesome-qt#readme,Qt
+https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html,2,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://code.qt.io/cgit/pyside/pyside.git,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://forum.qt.io,Qt Forum,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-4,4,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://svn.savannah.nongnu.org/viewvc/?root=libqtlua,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html,3,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.lothlorien.com/kf6gpe,Ray Rischpater,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qbs,qbs,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook,Qt5 C++ GUI Programming Cookbook,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://wiki.qt.io,Qt Wiki,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.riverbankcomputing.com/software/pyqt/download5,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.iforce2d.net/rube,RUBE,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.mega-nerd.com/libsndfile,libsndfile,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://quazip.sourceforge.net,QuaZIP,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.qtav.org,QtAV,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://inqlude.org/get.html,here,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-2,2,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html,2,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://wiki.qt.io/PySide,Python (via PySide),https://github.com/JesseTG/awesome-qt#readme,Qt
-https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat,IRC,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.teamspeak.com,TeamSpeak,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://jessetg.github.io,Jesse Talavera-Greenberg,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html,3,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://pythonqt.sourceforge.net,PythonQt,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://jpnaude.github.io/Qtilities,Qtilities,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://code.qt.io/cgit/pyside/pyside.git,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.linux-apps.com,Linux-Apps.com,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://doc.qt.io/qbs,qbs,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://desktop.telegram.org,Telegram Desktop,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-3,3,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://woboq.com/blog/qmetatype-knows-your-types.html,QMetaType knows your types,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.packtpub.com/application-development/qt-5-blueprints,Qt 5 Blueprints,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://launchpad.net/~beineri,Stephan Binner's Ubuntu PPAs,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://sourceforge.net/projects/quazip,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.zhieng.com,Lee Zhi Eng,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-4,4,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://planet.qt.io,Planet Qt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-5,5,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://quazip.sourceforge.net,QuaZIP,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat,IRC,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://doc.qt.io/emulator,Emulator,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/using-self-signed-certificates-qt-code,Using Self-Signed Certificates in Qt Code,https://github.com/JesseTG/awesome-qt#readme,Qt
 http://www.devmachines.com/qtitanchart-overview,QtitanChart,https://github.com/JesseTG/awesome-qt#readme,Qt
 http://ring-lang.sourceforge.net/doc/qt.html,Ring (via RingQt),https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.winimage.com/zLibDll/minizip.html,Minizip,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://doc.qt.io/qt-5/cmake-manual.html,CMake,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://sourceforge.net/projects/pythonqt,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.virtualbox.org,VirtualBox,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog,ICS,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.packtpub.com/application-development/mastering-qt-5,Mastering Qt 5,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-5,5,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/using-qt-alternative-programming-languages-part-1,these,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://riverbankcomputing.com/software/qscintilla,QScintilla,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://vlc-qt.tano.si,VLC-Qt,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.ics.com/blog/using-self-signed-certificates-qt-code,Using Self-Signed Certificates in Qt Code,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://wiki.videolan.org/LibVLC,libvlc,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.devmachines.com/qtitanribbon-overview,QtitanRibbon,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.riverbankcomputing.com/software/qscintilla/download,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://communi.github.io,Communi,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition,PySide GUI Application Development - 2nd Edition,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.malwarebytes.com,Malwarebytes,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.ics.com/blog/integrating-c-qml,Integrating C++ with QML,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://qmlbook.github.io,Qt5 Cadaques,https://github.com/JesseTG/awesome-qt#readme,Qt
-http://www.autodesk.com/maya,Autodesk Maya,https://github.com/JesseTG/awesome-qt#readme,Qt
-https://www.cryengine.com,CRYENGINE,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog/using-qt-alternative-programming-languages-part-1,these,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://musescore.org,MuseScore,https://github.com/JesseTG/awesome-qt#readme,Qt
 https://www.virtualbox.org/browser/vbox/trunk,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.videolan.org/vlc,VLC,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.packtpub.com/application-development/qt-5-blueprints,Qt 5 Blueprints,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.parallels.com/products/desktop,Parallels Desktop,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.zhieng.com,Lee Zhi Eng,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.devmachines.com/qtitanribbon-overview,QtitanRibbon,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://code.videolan.org,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://sourceforge.net/projects/quazip,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.rolisteam.org,Rolisteam,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.linux-apps.com,Linux-Apps.com,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.winimage.com/zLibDll/minizip.html,Minizip,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://shotcut.org/,Shotcut,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.packtpub.com/application-development/mastering-qt-5,Mastering Qt 5,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://vlc-qt.tano.si,VLC-Qt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://wiki.videolan.org/LibVLC,libvlc,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://launchpad.net/~beineri,Stephan Binner's Ubuntu PPAs,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://communi.github.io,Communi,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://planet.qt.io,Planet Qt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.wolfram.com/mathematica,Wolfram Mathematica,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.ics.com/blog,ICS,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://yabause.org,Yabause,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.iforce2d.net/rube,RUBE,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://showroom.qt.io,here,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.teamspeak.com,TeamSpeak,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition,PySide GUI Application Development - 2nd Edition,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://jessetg.github.io,Jesse Talavera-Greenberg,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://qmlbook.github.io,Qt5 Cadaques,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://mupdf.com,MuPDF,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.autodesk.com/maya,Autodesk Maya,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.blackmagicdesign.com/products/davinciresolve/,Davinci Resolve,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://nothings.org/stb_vorbis,stb_vorbis,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.cryengine.com,CRYENGINE,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://www.mega-nerd.com/libsndfile,libsndfile,https://github.com/JesseTG/awesome-qt#readme,Qt
+http://pythonqt.sourceforge.net,PythonQt,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://sourceforge.net/projects/pythonqt,📦,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://riverbankcomputing.com/software/qscintilla,QScintilla,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.riverbankcomputing.com/software/qscintilla/download,📦,https://github.com/JesseTG/awesome-qt#readme,Qt

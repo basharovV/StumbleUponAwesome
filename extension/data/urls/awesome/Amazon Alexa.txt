@@ -1,49 +1,51 @@
-https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y,Build for Echo Show,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.voicefirst.fm/,VoiceFirst.FM,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://miguelmota.com/blog/alexa-voice-service-authentication/,Alexa Voice Service (AVS) Authentication,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://kitt.ai,kitt.ai,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://miguelmota.com/blog/alexa-voice-service-with-curl/,Alexa Voice Service (AVS) with cURL,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 http://bespoken.io,Bespoken,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 https://developer.amazon.com/alexa,,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.udemy.com/amazonalexa/,Introduction to Voice Design with Amazon's Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.pluralsight.com/guides/alexa-run-this-javascript-app,How to develop an Alexa Skill,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.dashbot.io/alexa,Dashbot,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.getrevue.co/profile/hearingvoices,Hearing Voices,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://lovemyecho.com/,Love My Echo,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://accenture.github.io/blog/2016/11/18/alexia-framework.html,How to create an Alexa Skill using Alexia Framework,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.youtube.com/watch?v=mOcxd_KcQJI,AWS re:Invent 2015 | (MBL301) Creating Voice Experiences Using Amazon Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.youtube.com/watch?v=qEYbjCXOU7Q,AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk,Cakewalk - Build an engaging Alexa Skill,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html,ASK CLI,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.youtube.com/watch?v=2nXO-lj72Gc,How to create an Alexa skill without coding?,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://www.alexaslack.com,Unofficial Alexa Slack,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.youtube.com/watch?v=kfSP1Munn1M,How to create your own Flash Briefing skill for Amazon Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://anilkk.github.io/voicex/,VoiceX,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://www.opearlo.com,Opearlo,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.voicebot.ai/,VoiceBot,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.youtube.com/watch?v=_Ph6K_-1_mw,How to Publish Your Alexa Skill to all the English-speaking Regions,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.facebook.com/groups/storylinecommunity/,Storyline community,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription,Alexa Developer,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos,Dabble Lab,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://jargon.com/blog/,Jargon Blog,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://alpine.ai,Alpine.ai,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414,Designing Voice User Interfaces: Principles of Conversational Experiences,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.amazon.com/How-Program-Amazon-Echo-Development-ebook/dp/B011J6AP26,How To Program - Amazon Echo: Design, Development and Testing Alexa Skills,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://botsociety.io,BotSociety,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.amazon.com/Developing-Amazon-Alexa-Games-Designers-ebook/dp/B0739N4MJH,Developing Amazon Alexa Games: A Game Designer’s Handbook,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU,Building Voice Apps Using Amazon Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3,Love My Echo,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.voicesummit.ai/,Voice Summit,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant,Voice Applications for Alexa and Google Assistant,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://amazonalexavoxcon.com,Alexa VoxCon,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.voicebot.ai/subscribe/,VoiceBot,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://talkingtocomputers.substack.com/welcome,Talking to Computers,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.findvoicejobs.com,Find Voice Jobs,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://smartly.ai,Smartly.AI,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069,Alexa Dev Chat,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://miguelmota.com/blog/alexa-voice-service-with-curl/,Alexa Voice Service (AVS) with cURL,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-http://conversable.com/,Conversable,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 https://www.voicebot.ai/voicebot-podcasts/,VoiceBot Podcasts,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU,Building Voice Apps Using Amazon Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.voicefirst.fm/,VoiceFirst.FM,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y,Build for Echo Show,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://voicelabs.com,VoiceLabs.com - Testing and Monitoring Alexa skills,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://miguelmota.com/blog/alexa-voice-service-authentication/,Alexa Voice Service (AVS) Authentication,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 https://developer.amazon.com/alexa-fund,Alexa Fund,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.getrevue.co/profile/hearingvoices,Hearing Voices,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.pluralsight.com/guides/alexa-run-this-javascript-app,How to develop an Alexa Skill,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://accenture.github.io/blog/2016/11/18/alexia-framework.html,How to create an Alexa Skill using Alexia Framework,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html,ASK CLI,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/watch?v=mOcxd_KcQJI,AWS re:Invent 2015 | (MBL301) Creating Voice Experiences Using Amazon Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://lovemyecho.com/,Love My Echo,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/watch?v=qEYbjCXOU7Q,AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://anilkk.github.io/voicex/,VoiceX,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/watch?v=2nXO-lj72Gc,How to create an Alexa skill without coding?,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.dashbot.io/alexa,Dashbot,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/watch?v=kfSP1Munn1M,How to create your own Flash Briefing skill for Amazon Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.udemy.com/amazonalexa/,Introduction to Voice Design with Amazon's Alexa,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/watch?v=_Ph6K_-1_mw,How to Publish Your Alexa Skill to all the English-speaking Regions,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos,Dabble Lab,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription,Alexa Developer,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.voicebot.ai/,VoiceBot,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://botsociety.io,BotSociety,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk,Cakewalk - Build an engaging Alexa Skill,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://jargon.com/blog/,Jargon Blog,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://www.alexaslack.com,Unofficial Alexa Slack,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.facebook.com/groups/storylinecommunity/,Storyline community,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414,Designing Voice User Interfaces: Principles of Conversational Experiences,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3,Love My Echo,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.amazon.com/How-Program-Amazon-Echo-Development-ebook/dp/B011J6AP26,How To Program - Amazon Echo: Design, Development and Testing Alexa Skills,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://thestoryline.io,Storyline,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.amazon.com/Developing-Amazon-Alexa-Games-Designers-ebook/dp/B0739N4MJH,Developing Amazon Alexa Games: A Game Designer’s Handbook,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://alpine.ai,Alpine.ai,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.voicebot.ai/subscribe/,VoiceBot,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://smartly.ai,Smartly.AI,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant,Voice Applications for Alexa and Google Assistant,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://voicedev.rocks/,Voice Dev Rocks,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://www.witlingo.com,WitLingo,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://www.voicesummit.ai/,Voice Summit,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://conversable.com/,Conversable,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://talkingtocomputers.substack.com/welcome,Talking to Computers,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+http://amazonalexavoxcon.com,Alexa VoxCon,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
+https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069,Alexa Dev Chat,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 https://s3.amazonaws.com/webappvui/skillcode/v2/index.html,Skill Code Generator,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 https://getstoryline.com/audio-converter,Audio converter (Storyline),https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
-https://www.jovo.tech/audio-converter,Audio converter (Jovo),https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa
 https://tophonetics.com,Tophonetics,https://github.com/miguelmota/awesome-amazon-alexa#readme,Amazon Alexa

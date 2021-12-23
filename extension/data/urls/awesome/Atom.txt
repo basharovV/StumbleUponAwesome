@@ -1,63 +1,62 @@
-http://enrmarc.github.io/atom-theme-gallery/,Themes,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/imdone-atom,iMDone,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/codesidestory-atom,CodeSideStory,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter,linter,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/linter-stylint,Stylus,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter,linter,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/test-navigator,Test Navigator,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/imdone-atom,iMDone,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/copy-paste,Copy Paste,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/angularjs,Angular,https://github.com/mehcode/awesome-atom#readme,Atom
-http://atomlinter.github.io/,atomlinter.github.io,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/jumpy,Jumpy,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/advanced-open-file,Advanced Open File,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/linter-tslint,TypeScript,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/jumpy,Jumpy,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/css-declaration-sorter,CSS Declaration Sorter,https://github.com/mehcode/awesome-atom#readme,Atom
+http://atomlinter.github.io/,atomlinter.github.io,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/language-vue,Vue.js,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter-clang,linter-clang,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/merge-conflicts,Merge Conflicts,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/build,build,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/atom-reverser,Atom Reverser,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/merge-conflicts,Merge Conflicts,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter-clang,linter-clang,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/duplicate-line-or-selection,Duplicate Selection,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/language-docker,Dockerfile,https://github.com/mehcode/awesome-atom#readme,Atom
 http://atombuild.github.io/,atombuild.github.io,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/minimap,Minimap,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter-cppcheck,linter-cppcheck,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/language-docker,Dockerfile,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/atom-terminal,Atom Terminal,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter-cppcheck,linter-cppcheck,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/minimap,Minimap,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/editorconfig,Editor Config,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/pigments,Pigments,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter-gcc,linter-gcc,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/autocomplete-module-import,Autocomplete module import,https://github.com/mehcode/awesome-atom#readme,Atom
-http://editorconfig.org,EditorConfig,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/language-markdown,Markdown,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/autocomplete-module-import,Autocomplete module import,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter-gcc,linter-gcc,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/pigments,Pigments,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/build-applescript,AppleScript,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/react,React,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/atom-beautify,Beautify,https://github.com/mehcode/awesome-atom#readme,Atom
+http://editorconfig.org,EditorConfig,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/build-xcodebuild,C/C++/Objective C,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/project-plus,Project Plus,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/linter-cpplint,linter-cpplint,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/atom-beautify,Beautify,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/emmet,Emmet,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/react,React,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/build-xcodebuild,C/C++/Objective C,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/sort-lines,Sort Lines,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter-stylelint,CSS,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/file-icons,File Icons,https://github.com/mehcode/awesome-atom#readme,Atom
-http://sass-lang.com/,Sass,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/stylus,Stylus,https://github.com/mehcode/awesome-atom#readme,Atom
-http://lesscss.org/,LESS,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/emmet,Emmet,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter-stylelint,CSS,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/build-coffee,CoffeeScript,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/sorter,Sorter,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter-eslint,JavaScript,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/fonts,Fonts,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/toggle-quotes,Toggle Quotes,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/sort-lines,Sort Lines,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/language-pug,Pug,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/code-peek,Code Peek,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/platformio-ide-terminal,PlatformIO IDE Terminal,https://github.com/mehcode/awesome-atom#readme,Atom
+http://sass-lang.com/,Sass,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/file-icons,File Icons,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter-eslint,JavaScript,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/sorter,Sorter,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/build-sass,Sass,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/linter-pylama,Python,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/git-time-machine,Git Time Machine,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/tree-view-search-bar,Tree View Search Bar,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/language-tcl,Tcl,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/color-picker,Color Picker,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/atom-ternjs,TernJS,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/fonts,Fonts,https://github.com/mehcode/awesome-atom#readme,Atom
+http://lesscss.org/,LESS,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/linter-pylama,Python,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/platformio-ide-terminal,PlatformIO IDE Terminal,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/build-tsc,TypeScript,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/atom-typescript,TypeScript,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/git-time-machine,Git Time Machine,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/code-peek,Code Peek,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/linter-sass-lint,SASS,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/atom-ternjs,TernJS,https://github.com/mehcode/awesome-atom#readme,Atom
 https://atom.io/packages/html-to-css,html-to-css,https://github.com/mehcode/awesome-atom#readme,Atom
 https://nuclide.io/,Nuclide,https://github.com/mehcode/awesome-atom#readme,Atom
-https://atom.io/packages/atom-typescript,TypeScript,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/color-picker,Color Picker,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/toggle-quotes,Toggle Quotes,https://github.com/mehcode/awesome-atom#readme,Atom
+https://atom.io/packages/tree-view-search-bar,Tree View Search Bar,https://github.com/mehcode/awesome-atom#readme,Atom

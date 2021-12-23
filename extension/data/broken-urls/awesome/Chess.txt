@@ -1,6 +1,7 @@
+https://chessprogramming.wikispaces.com/,chessprogramming.wikispaces.com,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://chess.eusa.ed.ac.uk/Chess/Rules/notation.html,Tutorial on Chess Notations,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf,Sicilian Dragon,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www6.chessclub.com/help/PGN-spec,PNG,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(OSError(65, 'No route to host')) | reason: [Errno 65] No route to host
 http://play.chessbase.com/js/apps/playchess/,chessbase.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-http://www6.chessclub.com/help/PGN-spec,PNG,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
 https://www.chesscademy.com/,chesscademy.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://www6.chessclub.com/chessviewer/smith.html,Smith Chess Notation,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://www6.chessclub.com/chessviewer/smith.html,Smith Chess Notation,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(OSError(65, 'No route to host')) | reason: [Errno 65] No route to host

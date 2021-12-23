@@ -1,0 +1,108 @@
+https://en.wikipedia.org/wiki/Lidar,LIDAR,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://scale.com/open-datasets/pandaset,PandaSet Open Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf,LIDAR-MOS 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://gazebosim.org/,OSRF Gazebo,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=NHvsYhk4dhw,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/IbeoAutomotive/,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://developer.volvocars.com/open-datasets/cirrus/,Cirrus dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://kaolin.readthedocs.io/en/latest/,Kaolin,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://velodynelidar.com/,Velodyne,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=YYs4lJ9t-Xo,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.nuscenes.org/,NuScenes,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://carla.org/,CARLA,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/2007.00258.pdf,LIO-SAM 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=A0H8CoORZJU,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://youtu.be/8ezyhTAEyHs,LOAM J. Zhang and S. Singh 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/user/VelodyneLiDAR,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://autonomousdriving.pioneer/en/3d-lidar/,Pioneer,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=7uCxLUs9fwQ,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=0YV4a2asb8Y,Normal distributions transform 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://innoviz.tech/,Innoviz,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1911.05063.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/2012.02938.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://avdata.ford.com/,Ford Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=29Knm-phAyI,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://ouster.com/,Ouster,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/abs/1912.04976,Learning to Optimally Segment Point Clouds 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1903.11027.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf,SuMa++ 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf,RangeNet++ 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/user/PioneerCorporationPR,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=wLxIAwIL870,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=uo3ZuLuFAzk,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/LGSVLSimulator,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://youtu.be/uo3ZuLuFAzk,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/Ouster-lidar,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf,OverlapNet 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://joss.theoj.org/papers/10.21105/joss.01450,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/2003.07969.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=YTfliBco6aw,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://microsoft.github.io/AirSim,AirSim,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=gnz1X3UNM5Y,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1809.05590.pdf,Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.livoxtech.com/,Livox,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/2003.14032.pdf,PolarNet 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=2DzH9COLpkU,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://pyntcloud.readthedocs.io/en/latest/,pyntcloud,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=iIhttRSMqjE,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://virtual-vehicle.github.io/pointcloudset/,pointcloudset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.a2d2.audi,Audi A2D2 Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://cloudcompare.org/,CloudCompare,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://quanergy.com/,Quanenergy,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/,USyd Dataset- The Univerisity of Sydney Campus- Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.sick.com/ag/en/,SICK,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1912.04986.pdf,What You See is What You Get: Exploiting Visibility for 3D Object Detection 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.luminartech.com/,Luminar,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1711.08488.pdf,Frustum PointNets 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://level5.lyft.com/dataset/,Lyft,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=497OF-otY2k,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/QuanergySystems,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://waymo.com/open/,Waymo Open Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1905.00525.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://vimeo.com/luminartech,Vimeo channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://ieeexplore.ieee.org/document/9109704,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/user/SICKSensors,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://www.cvlibs.net/datasets/kitti/raw_data.php,KITTI,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://larissa.triess.eu/scan-semseg/,Study of LIDAR Semantic Segmentation,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.coppeliarobotics.com/coppeliaSim,CoppeliaSim,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=gSGG4Lw8BSU,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://semantic-kitti.org/,Semantic KITTI,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://robotcar-dataset.robots.ox.ac.uk/,Oxford RobotCar,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=3qNOXvkpK4I,YouTube video 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/user/VirtualRobotPlatform,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/abs/2004.11803,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.cepton.com/index.html,Cepton,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/ORIOxfordRoboticsInstitute,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://www.pointclouds.org/,Point Cloud Library (PCL),https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://cadcd.uwaterloo.ca/,CADC - Canadian Adverse Driving Conditions Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.hesaitech.com/,Hesai,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://ltriess.github.io/scan-semseg,GitHub repository,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://epan-utbm.github.io/utbm_robocar_dataset/,EU Long-term Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://www.open3d.org/docs/release/,Open3D library,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.hokuyo-aut.jp/,Hokuyo,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.blickfeld.com/,Blickfeld,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCG2_ffm6sdMsK-FX8yOLNYQ/videos,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/2001.10117.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/BlickfeldLiDAR,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.autodrive.utoronto.ca/uoftped50,UofTPed50 Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1903.02428.pdf,PyTorch Geometric 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://pytorch3d.org/,PyTorch3d,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://arxiv.org/pdf/1905.08758.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.neuvition.com/,Neuvition,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+http://www.robosense.ai/,Robosense,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.ibeo-as.com/,Ibeo,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf,Paper 📰,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://apollo.auto/,Baidu Apollo,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/c/ApolloAuto,YouTube channel 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR
+https://www.youtube.com/watch?v=uzOCS_gdZuM,Iterative closest point 🔴,https://github.com/szenergy/awesome-lidar#readme,LIDAR

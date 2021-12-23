@@ -1,0 +1,66 @@
+https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421,Tokens in Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.sketch.com/,Sketch,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://atlassian.design/,Atlassian Design Guidelines,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.adobe.com/products/xd.html,AdobeXD,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://stenciljs.com/,Stencil,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://design.firefox.com/photon,Firefox Photon Design System,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://vimeo.com/331530115,Building Accessible Interfaces: Patterns And Techniques,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://zeroheight.com/,Zeroheight,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.designbetter.co/design-systems-handbook/building-design-system,Building your design system,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://extensions.zeplin.io/berk/zeplin-json-extension,Zeplin JSON export tokens,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.com/zeroheight/zeroheight-3-0-b6643c347596,Learn about this,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://primer.style/,GitHub Primer,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://dotall.com/sessions/design-processes-systems-in-craft,Design Processes & Systems in Craft,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.youtube.com/watch?v=jpmeWXISU5E,Design Systems - The State of the Web,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://superposition.design/,Superposition,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://react-styleguidist.js.org/,React Styleguidist,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.com/@danhollick/a-designers-guide-to-the-figma-api-64f2785969d8,A designer's guide to the Figma API,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://youtu.be/K8MF3aDg-bM?t=4750,Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://storybook.js.org/,Storybook,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://design.gitlab.com/,GitLab Design System - Pajamas,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.youtube.com/watch?v=h0MqkRJdaao,How To Build a Design System | UXPin,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://material.io/design,Google Material Design,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://youtu.be/FZSi1bK-BRM,Introducing Design Systems Into Chaos,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://dbanks.design/blog/vs-code-theme-with-style-dictionary/,Building a Visual Studio Code Theme with Style Dictionary,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://blog.hichroma.com/how-packaging-makes-it-dead-simple-to-share-ui-components-29912593539d,How packaging makes it dead simple to share UI components,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a,Storybook Docs sneak peek,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://youtu.be/7hYOLLO2gc4,Jina Anne - Designing a Design System,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://styled-system.com/,Styled System,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.carbondesignsystem.com/,IBM Carbon,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://youtu.be/K8MF3aDg-bM?t=7280,Level up your Design System with styled-system,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21,Dependency discovery in Storybook,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://polaris.shopify.com/,Shopify Polaris,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.chromaticqa.com/,Chromatic,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://publication.design.systems/design-systems-are-for-people-a484620b6988,Design Systems are for People,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video,Maintaining Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://atomicdesign.bradfrost.com/,Atomic Design,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://bradfrost.com/blog/post/a-design-system-governance-process/,A design system governance process,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f,Design tokens with Figma,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.invisionapp.com/inside-design/collaborating-on-design-systems/,A guide to collaborating on design systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://dbanks.design/blog/documenting-design-tokens/,Documenting Design Tokens,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/,Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://blog.hichroma.com/design-systems-in-storybook-2b2be06e394b,Design systems workflow in Storybook,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.com/storybookjs/how-design-systems-use-storybook-2ed735ad07a9,How design systems use Storybook,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.apress.com/gp/book/9781484245132,Building Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.smashingmagazine.com/design-systems-book/,Design systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.maban.co.uk/projects/front-end-style-guides/,Front-End Style Guides,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://blog.prototypr.io/building-a-design-system-start-with-map-909aa4baf41f,Building a Design System? Start with a map,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.invisionapp.com/design-system-manager,InVision Design System Manager,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa,How to manage your Design Tokens with Style Dictionary,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.erikverweij.dev/blog/manage-design-tokens-with-typescript-and-styled-components/,Manage design tokens with TypeScript and styled-components,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://medium.muz.li/how-to-build-design-systems-3431560f51fb,How to Build Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.invisionapp.com/inside-design/accessibility-for-developers/,Accessibility for developeres,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.getstark.co/,Stark,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+http://shop.oreilly.com/product/0636920040156.do,Frontend Architecture for Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://fem-design-systems.netlify.app/,Introduction to Design Systems,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://uxmisfit.com/2019/03/26/what-is-a-design-system-everything-you-need-to-know/,What is a Design System – Everything You Need to Know,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.amazon.com/Modular-Web-Design-Components-Documentation/dp/0321601351/,Modular Web Design,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system/,Your sketch library is not a design system,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://a11yproject.com/resources/,resources,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://design.systems/,Design.system,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://blog.prototypr.io/tokenize-it-2a544ef1413b,Tokenize it,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.freecodecamp.org/news/adobe-xd-vs-sketch-vs-figma-vs-invision/,Adobe XD vs Sketch vs Figma vs InVision - How to Pick the Best Design Software in 2020,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://superfriendlydesign.systems/,Super friendly,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.w3.org/community/design-tokens/,Design Tokens W3C Community Group,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://www.designtokens.dev/,DesignTokens.dev,https://github.com/klaufel/awesome-design-systems#readme,Design systems
+https://diez.org/,Diez,https://github.com/klaufel/awesome-design-systems#readme,Design systems

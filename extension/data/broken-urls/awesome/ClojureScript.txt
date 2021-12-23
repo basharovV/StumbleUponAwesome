@@ -1,2 +1,4 @@
 http://jayfields.com/expectations/,Expectations,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://docs.caudate.me/ribol/,Ribol,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://facebook.github.io/react/,React.js,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://infernojs.org,Inferno,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://nerv.aotu.io/,Nerv,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nerv.aotu.io'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nerv.aotu.io'. (_ssl.c:1123)

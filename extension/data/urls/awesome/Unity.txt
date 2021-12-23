@@ -1,18 +1,41 @@
-http://docs.unity3d.com/Manual/VROverview.html,Unity Virtual Reality,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://www.seanba.com/tiled2unity,Tiled2Unity,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://imgur.com/a/2w7zd,Editor Tips,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://www.mapeditor.org,Tiled,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://arongranberg.com/astar/,A* Pathfinding Project,https://github.com/RyanNielson/awesome-unity#readme,Unity
-https://unity3d.com/learn/tutorials/topics/tips,Unity Tips,https://github.com/RyanNielson/awesome-unity#readme,Unity
-https://developers.google.com/vr/unity,Google VR SDK,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722,2D Rope System (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/version-control/unimerge-9733,UniMerge (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/templates/systems/ufps-ultimate-fps-2943,UFPS (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://www.raywenderlich.com/category/unity,Ray Wenderlich's Tutorials,https://github.com/RyanNielson/awesome-unity#readme,Unity
 http://strangeioc.github.io/strangeioc/,StrangeIoC,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://nielson.io/2015/12/splatter-effects-in-unity-using-the-stencil-buffer,2D Splatter Effects Using the Stencil Buffer,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/input-management/easy-save-the-complete-save-load-asset-768,Easy Save 2 (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/visual-scripting/playmaker-368,Playmaker (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653,Ferr2D Terrain Tool (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://imgur.com/a/2w7zd,Editor Tips,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://www.seanba.com/tiled2unity,Tiled2Unity,https://github.com/RyanNielson/awesome-unity#readme,Unity
 https://assetstore.unity.com/packages/tools/visual-scripting/uframe-game-framework-14381,uFrame (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview,Unity in HoloLens,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://docs.unity3d.com/Manual/VROverview.html,Unity Virtual Reality,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/particles-effects/unistorm-volumetric-clouds-sky-modular-weather-and-cloud-shadows-2714,UniStorm (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://docs.unity3d.com/Manual/UnityAnalyticsSetup.html,Unity Analytics,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://www.mapeditor.org,Tiled,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://sabrecsg.com/,SabreCSG,https://github.com/RyanNielson/awesome-unity#readme,Unity
 https://en.wikipedia.org/wiki/Constructive_solid_geometry,CSG,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://unity3d.com/learn/tutorials/topics/tips,Unity Tips,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676,DOTween,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/2d/characters/anima2d-no-longer-supported-replaced-by-2d-animation-79840,Unity Anima2D,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/add-ons/services/unity-monetization-66123,Unity Monetization,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://arongranberg.com/astar/,A* Pathfinding Project,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/animation/itween-84,iTween,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/ai/apex-path-17943,Apex Path (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/network/nakama-81338,Nakama,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/animation/leantween-3595,LeanTween,https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://nielson.dev/2015/12/splatter-effects-in-unity-using-the-stencil-buffer,2D Splatter Effects Using the Stencil Buffer,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/gui/ngui-next-gen-ui-2413,NGUI (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/network/photon-bolt-free-127156,Photon Bolt (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@1.3/manual/index.html,TextMesh Pro,https://github.com/RyanNielson/awesome-unity#readme,Unity
 http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d,A Gentle Introduction to Shaders in Unity3D,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://nielson.io/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2,Fixing Gaps Between Sprites,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://developers.google.com/vr/unity,Google VR SDK,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/utilities/grouping-tool-147552,Grouping Tool,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786,Photon Unity Networking,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131,SteamVR Unity Toolkit,https://github.com/RyanNielson/awesome-unity#readme,Unity
+https://assetstore.unity.com/packages/tools/level-design/snazzygrid2-19245,SnazzyGrid (Paid),https://github.com/RyanNielson/awesome-unity#readme,Unity
+http://nielson.dev/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2,Fixing Gaps Between Sprites,https://github.com/RyanNielson/awesome-unity#readme,Unity
 http://gameprogrammingpatterns.com/contents.html,Game Programming Patterns,https://github.com/RyanNielson/awesome-unity#readme,Unity
 https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c,Modern GUI Development in Unity 4.6,https://github.com/RyanNielson/awesome-unity#readme,Unity
 http://unity3d.com/learn/tutorials/modules,Official Video Tutorials,https://github.com/RyanNielson/awesome-unity#readme,Unity
-http://www.raywenderlich.com/category/unity,Ray Wenderlich's Tutorials,https://github.com/RyanNielson/awesome-unity#readme,Unity
-https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview,Unity in HoloLens,https://github.com/RyanNielson/awesome-unity#readme,Unity

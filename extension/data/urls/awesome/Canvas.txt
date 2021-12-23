@@ -1,83 +1,73 @@
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API,Mozilla Developer Network,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://raphamorim.io/canvas-experiments/cloth,Cloth Effect,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357,HTML5 Canvas For Dummies,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://acko.net/blog/js1k-demo-the-making-of/,Procedural Drawing in Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://raphamorim.io/canvas-experiments/particles,Colorful Particles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/soulwire/full/Ffvlo,30.000 particles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/full/fjqj6ifd,Tree in the Breeze,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://ejohn.org/apps/processing.js/examples/basic/,91 basic demos,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=rawkes-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430232919,Foundation HTML5 Canvas: For Games and Entertainment,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://www.kevs3d.co.uk/dev/shaders/distancefield3.html,Distance Field Waves,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/soulwire/pen/Ffvlo,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://ejohn.org/apps/processing.js/examples/basic/,91 basic demos,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://raphamorim.io/canvas-experiments/draw,Draw Table,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/js-metaballs,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/pixelgrid/full/ECrKd,Particles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://raphamorim.io/just-canvas/,Just Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.effectgames.com/demos/canvascycle/,Canvas Colour Cycling,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://ptsjs.org,Pts.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/fibrous,Fibrous Texture,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://lab.hakim.se/linjer/,Linjer,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.packtpub.com/web-development/html5-canvas-cookbook,HTML5 Canvas Cookbook,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/fjqj6ifd,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a,Draw Particles using HTML5 Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://threejs.org/examples/,Some amazing examples,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/pixelgrid/pen/ECrKd,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://spielzeugz.de/html5/liquid-particles.html,Liquid Particles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.youtube.com/watch?v=Prkyd5n0P7k,Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.chromeexperiments.com/experiment/wormz,Wormz,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/,Create a game chracter with HTML5 and JavaScript - Part 1,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://ramesaliyev.com/trigonoparty,Trigonoparty!,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.youtube.com/watch?v=_fBRJgH_c1s,Mobile HTML5 Graphics Performance, by Sam Abadir,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.kesiev.com/akihabara/,Akihabara,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/4do6cnjm,Canvas Loader,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/2/,Create a game chracter with HTML5 and JavaScript - Part 2,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.youtube.com/watch?v=S256vAqGY6c,The Making of an HTML5 Platform Game, by David Geary,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/VincentGarreau/full/pnlso/,Particles.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.kevs3d.co.uk/dev/lsystems/,L-System Turtle Fractal Renderer,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.youtube.com/watch?v=T8OCEqM7mqU,High Performance Mobile Web Game Development in HTML5, by Sangmin Shim,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.craftymind.com/factory/html5video/CanvasVideo.html,Video Destruction,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://joshondesign.com/p/books/canvasdeepdive/title.html,HTML Canvas Deep Dive,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/fibrous,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://www.youtube.com/watch?v=sLt9WeyGVEQ,HTML5 Canvas Animation with Javascript, by Josh Robertson,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/VincentGarreau/pen/pnlso,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/ara_node/full/nuJCG/,Motion Graphic Typeface,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://web.chemdoodle.com/,ChemDoodle,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/,reference post about requestAnimationFrame,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://codepen.io/ara_node/pen/nuJCG,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial,Mozilla Developer Network Canvas Tutorial,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/image-nodes,Image Nodes,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/oluh99m6,Wipers,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds,Ping Pong Game,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://createjs.com/easeljs,EaselJS,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.html5canvastutorials.com/,HTML5 Canvas Tutorials,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/4do6cnjm,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://fabricjs.com,fabric.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/neatnait-canvas-rain,Neatnait Canvas Rain,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://pencil.js.org/,Pencil.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://ptsjs.org,Pts.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.canvasdemos.com/,Canvas Demos,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/full/fibrous,Fibrous Texture,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://scrawl-v8.rikweb.org.uk/,Scrawl-canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.effectgames.com/demos/canvascycle/,Canvas Colour Cycling,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/js-metaballs,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://raphamorim.io/just-canvas/,Just Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://threejs.org/examples/,Some amazing examples,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.youtube.com/watch?v=Prkyd5n0P7k,Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.youtube.com/watch?v=_fBRJgH_c1s,Mobile HTML5 Graphics Performance, by Sam Abadir,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://shop.oreilly.com/product/0636920026266.do,2nd Edition,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://lab.hakim.se/linjer/,Linjer,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.youtube.com/watch?v=S256vAqGY6c,The Making of an HTML5 Platform Game, by David Geary,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.youtube.com/watch?v=T8OCEqM7mqU,High Performance Mobile Web Game Development in HTML5, by Sangmin Shim,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.youtube.com/watch?v=sLt9WeyGVEQ,HTML5 Canvas Animation with Javascript, by Josh Robertson,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://spielzeugz.de/html5/liquid-particles.html,Liquid Particles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://acko.net/blog/js1k-demo-the-making-of/,Procedural Drawing in Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357,HTML5 Canvas For Dummies,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/full/4do6cnjm,Canvas Loader,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.kevs3d.co.uk/dev/lsystems/,L-System Turtle Fractal Renderer,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=rawkes-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430232919,Foundation HTML5 Canvas: For Games and Entertainment,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://shop.oreilly.com/product/0636920013327.do,HTML5 Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://dev.opera.com/articles/html5-canvas-basics/,Dev.Opera: HTML5 Canvas — the Basics,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.chromeexperiments.com/experiment/wormz,Wormz,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.kesiev.com/akihabara/,Akihabara,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.pirateslovedaisies.com/,Pirates Love Daisies,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/full/neatnait-canvas-rain,Neatnait Canvas Rain,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://raphamorim.io/raining-day/,Raining Day,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.packtpub.com/web-development/html5-canvas-cookbook,HTML5 Canvas Cookbook,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a,Draw Particles using HTML5 Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.spielzeugz.de/html5/space-noodles/,Space Noodles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/fibrous,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://web.chemdoodle.com/,ChemDoodle,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://fralonra.github.io/star-time-lapse/demo/,Star Time Lapse Effect,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/,Create a game chracter with HTML5 and JavaScript - Part 1,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/full/image-nodes,Image Nodes,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://joshondesign.com/p/books/canvasdeepdive/title.html,HTML Canvas Deep Dive,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/2/,Create a game chracter with HTML5 and JavaScript - Part 2,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://createjs.com/easeljs,EaselJS,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://fabricjs.com,fabric.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://pencil.js.org/,Pencil.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/,reference post about requestAnimationFrame,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/4do6cnjm,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial,Mozilla Developer Network Canvas Tutorial,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://www.pixijs.com,Pixi.js,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/full/zeaklousedit,Circular Rings,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://ejohn.org/blog/processingjs/,Processingjs,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/image-nodes,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://billmill.org/static/canvastutorial/,Breakout,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://raphamorim.io/canvas-experiments/inception,Inception,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/oluh99m6,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://ejohn.org/blog/overview-of-processing/,Overview,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://shop.oreilly.com/product/0636920026266.do,2nd Edition,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/neatnait-canvas-rain,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.pirateslovedaisies.com/,Pirates Love Daisies,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://raphamorim.io/raining-day/,Raining Day,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.html5canvastutorials.com/,HTML5 Canvas Tutorials,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/image-nodes,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://ejohn.org/blog/processingjs/,Processingjs,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://raphamorim.io/canvas-experiments/inception,Inception,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://dev.opera.com/articles/html5-canvas-basics/,Dev.Opera: HTML5 Canvas — the Basics,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://ejohn.org/blog/overview-of-processing/,Overview,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/zeaklousedit,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/3d-lorenz-atractor,3D Lorenz Atractor,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://cssdeck.com/labs/full/js-metaballs,JS Metaballs,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.spielzeugz.de/html5/space-noodles/,Space Noodles,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-https://fralonra.github.io/star-time-lapse/demo/,Star Time Lapse Effect,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://www.canvasdemos.com/,Canvas Demos,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://gyu.que.jp/jscloth/,Cloth 3D Effect,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://ramesaliyev.com/trigonoparty,Trigonoparty!,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://www.craftymind.com/factory/html5video/CanvasVideo.html,Video Destruction,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/full/oluh99m6,Wipers,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code,Khan Academy - Hour of Drawing with Code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://students.cs.ucl.ac.uk/schoolslab/projects/HT5,Making a Lunar Lander in JavaScript,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://creativecommons.org/licenses/by/3.0/us/deed.en_US,Creative Commons Attribution 3.0 license,https://github.com/raphamorim/awesome-canvas#readme,Canvas
+http://cssdeck.com/labs/full/3d-lorenz-atractor,3D Lorenz Atractor,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/3d-lorenz-atractor,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/full/xtunjekt,3D Movement in HTML5 Canvas,https://github.com/raphamorim/awesome-canvas#readme,Canvas
 http://cssdeck.com/labs/xtunjekt,show me the code,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://students.cs.ucl.ac.uk/schoolslab/projects/HT5,Making a Lunar Lander in JavaScript,https://github.com/raphamorim/awesome-canvas#readme,Canvas
-http://creativecommons.org/licenses/by/3.0/us/deed.en_US,Creative Commons Attribution 3.0 license,https://github.com/raphamorim/awesome-canvas#readme,Canvas

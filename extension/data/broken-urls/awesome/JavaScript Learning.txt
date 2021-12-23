@@ -1,2 +1,0 @@
-https://ponyfoo.com/articles/es6,ES6 Overview,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-https://ponyfoo.com,Pony Foo,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning error: timeout('The read operation timed out') | reason: 

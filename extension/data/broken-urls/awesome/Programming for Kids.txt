@@ -1,1 +1,0 @@
-https://www.finchrobot.com/,Finch Robot,https://github.com/HollyAdele/awesome-programming-for-kids#readme,Programming for Kids error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)

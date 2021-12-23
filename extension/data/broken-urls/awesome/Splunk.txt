@@ -1,2 +1,0 @@
-https://splunkbase.splunk.com/app/263/,ES Splunkbase Entry,https://github.com/sduff/awesome-splunk#readme,Splunk error: timeout('The read operation timed out') | reason: 
-https://splunkbase.splunk.com/app/1841/,ITSI Splunkbase Entry,https://github.com/sduff/awesome-splunk#readme,Splunk error: timeout('The read operation timed out') | reason: 

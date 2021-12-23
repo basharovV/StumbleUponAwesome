@@ -1,0 +1,3 @@
+https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/,How Spotify organises work in Figma to improve collaboration,https://github.com/klaufel/awesome-design-systems#readme,Design systems error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
+https://basalt.io/blog/theo-design-tokens-using-node-sass-importer-for-any-build-method,Theo Design Tokens Using Node-Sass Importer For Any Build Method,https://github.com/klaufel/awesome-design-systems#readme,Design systems error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://designsystemchecklist.com/,Design system checklist,https://github.com/klaufel/awesome-design-systems#readme,Design systems error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

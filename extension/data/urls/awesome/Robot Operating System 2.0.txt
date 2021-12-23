@@ -1,101 +1,120 @@
 https://www.youtube.com/watch?v=IyycN6ldsIs,Autoware Course Lecture 4: Platform HW, RTOS and DDS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://ubuntu.com/core,Ubuntu Core,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://aliasrobotics.com/,Alias Robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/187696091,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=nTI4fnn2tuU,Autoware Course Lecture 5: Autonomous Driving Stacks,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://ubuntu.com/server,Ubuntu Server,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/236161417,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roboception.com/en/,Roboception GmbH,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.apex.ai/,Apex.AI,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=eSHHmJrqpMU,Autoware Course Lecture 6: Autoware 101,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.freedomrobotics.ai/blog/link-ros-cloud-logging-for-ros,Link ROS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://arxiv.org/pdf/1809.03565.pdf,Open Problems in Robotic Anomaly Detection,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=xSGCpb24dhI,Autoware Course Lecture 7: Object Perception: LIDAR,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/tags/wg-security,Discourse threads tagged "wg-security",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://www.zephyrproject.org/,Zephyr,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://cyberbotics.com,Webots,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=nTI4fnn2tuU,Autoware Course Lecture 5: Autonomous Driving Stacks,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=eSHHmJrqpMU,Autoware Course Lecture 6: Autoware 101,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds,https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.synapticon.com/technology,synapticon,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/236161417,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=xSGCpb24dhI,Autoware Course Lecture 7: Object Perception: LIDAR,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/187696091,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://www.youtube.com/watch?v=OtjTa-meJ-E,Autoware Course Lecture 8: Object Perception: CAMERA,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:ROS2/,ROS Answers,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://www.theconstructsim.com/rdp-017-ros-2-dds-iot-haochih/,ROS 2 and DDS for IoT devices with HaoChih Lin (from 5th minute onwards),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://arxiv.org/pdf/1809.07295.pdf,Time Synchronization in modular collaborative robots,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=PcVIO-xoNv8,Autoware Course Lecture 9: Object Perception: Radar,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.apex.ai/apex-os,Apex.OS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=g2YURb-d9vY,Autoware Course Lecture 10: State Estimation for Localization,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=OcB6FUbjZXo,Autoware Course Lecture 11: LGSVL Simulator,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/tags/tsc,Discourse threads tagged "tsc",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://index.ros.org/,ROS Index,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=fQJpAVRQBrI,Autoware Course Lecture 12: Motion Control,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://labs.windriver.com/ros2-for-vxworks/,Wind River,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://roscon.ros.org/2016/presentations/rafal.kozik-ros2evaluation.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Fine%20Tuning.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://index.ros.org/,ROS Index,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=PcVIO-xoNv8,Autoware Course Lecture 9: Object Perception: Radar,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/tags/tsc,Discourse threads tagged "tsc",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://arxiv.org/pdf/1809.02595.pdf,Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://autonomoustuff.com,AutonomouStuff,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 http://design.ros2.org/,ROS 2 Design,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=g2YURb-d9vY,Autoware Course Lecture 10: State Estimation for Localization,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/187705229,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:ROS2/,ROS Answers,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://www.theconstructsim.com/rdp-012-all-about-ros2-with-dirk-thomas/,Everything about ROS 2 with Dirk Thomas (from 16th minute onwards),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://arxiv.org/pdf/1809.03565.pdf,Open Problems in Robotic Anomaly Detection,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://vimeo.com/236168591,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.autoware.auto/,Autoware.Auto,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/187705229,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.freedomrobotics.ai/blog/link-ros-cloud-logging-for-ros,Link ROS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/t/carma-migrating-to-ros-2-with-cyclonedds-and-zenoh/17541,U.S. Department of Transportation,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://arxiv.org/pdf/1809.02595.pdf,Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://discourse.ros.org/tags/wg-tooling,Discourse threads tagged "wg-tooling",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=OcB6FUbjZXo,Autoware Course Lecture 11: LGSVL Simulator,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://repo.ros2.org/,ROS2 package status,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://cyberbotics.com,Webots,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/,,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html,Fraunhofer Institute for Manufacturing Engineering and Automation IPA,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/tag/wg-edgeai,Discourse threads tagged "wg-edgeai",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2015/presentations/ros2_on_small_embedded_systems.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://www.ros.org/news/,ROS News,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.lgsvlsimulator.com/,LGSVL,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.autoware.io/,Autoware.IO,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://arxiv.org/pdf/1802.01459.pdf,An information model for modular robots: the Hardware Robot Information Model (HRIM),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://www.ros.org/news/,ROS News,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roverrobotics.com/,Rover Robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=fQJpAVRQBrI,Autoware Course Lecture 12: Motion Control,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://creativecommons.org/licenses/by-nc-sa/4.0/,,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://canonical.com/,Canonical,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://repo.ros2.org/status_page/ros_bouncy_default.html,Bouncy package status,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2015/presentations/ros2_on_small_embedded_systems.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20SLAM.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/,Micro XRCE-DDS Agent docker,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/292064161,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://repo.ros2.org/status_page/ros_ardent_default.html,Ardent package status,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.eprosima.com/,Eprosima,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.sony.net/SonyInfo/technology/element/robotics/,Sony Corporation,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://arxiv.org/pdf/1806.04042.pdf,Introducting the Robot Security Framework (RSF), A standardized methodology to perform security assessments in robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://planet.ros.org/,ROS Planet,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/236172294,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/142150576,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c85ca4222fe0ccbd5309/1558628472094/2019-05-07_Current_Status_of_ROS_2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/t/transport-priority-qos-policy-to-solve-ip-flow-ambiguity-while-requesting-5g-network-qos/15332,Ericsson Research,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://stackoverflow.com/questions/tagged/ros2,Stack Overflow,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.autoware.io/,Autoware.IO,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://arxiv.org/pdf/1807.10357.pdf,Towards an open standard for assessing the severity of robot security vulnerabilities, The Robot Vulnerability Scoring System (RVSS),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision-Based%20Manipulation.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2015/presentations/state-of-ros2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://build.ros2.org,ROS2 Buildfarm,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.synapticon.com/technology,synapticon,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.tngtech.com/fileadmin/Public/Images/BigTechday/BTD11/Folien/ROS2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html,Fraunhofer Institute for Manufacturing Engineering and Automation IPA,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/236182180,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/142151734,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=6Vzi0Grrlp8,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.rti.com/products/connext-dds-professional,Connext DDS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://drive.google.com/file/d/1MW_w7MS1DNg1EzhprgbJKY2cqmxksPaw/view,slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://www.gestalt-robotics.com/en/home,GESTALT ROBOTICS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://www.twinoakscomputing.com/coredx,CoreDX DDS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.udemy.com/ros2-how-to/,ROS2 How To: Discover Next Generation ROS (Udemy),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://labs.windriver.com/ros2-for-vxworks/,Wind River,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://journals.sagepub.com/doi/pdf/10.1177/1729881418770011,Robot Operating System 2 - The need for a holistic security approach to robotic architectures,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2015/presentations/RealtimeROS2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/c/ng-ros,ROS Discourse,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.klepsydra.com/,Klepsydra Technologies,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/58235f2eb8a79be587899891/1478713139775/ROS-I-Conf2016-day1-09-keinert.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://vimeo.com/142621778,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/tag/wg-edgeai,Discourse threads tagged "wg-edgeai",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://de.mathworks.com/help/ros/index.html,MathWorks,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20,Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.udemy.com/course/ros-2-new-features/,ROS 2 New Features: Skill-up with the latest features of Robot Operating System 2  (Udemy),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://arxiv.org/pdf/1809.07295.pdf,Time Synchronization in modular collaborative robots,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/tags/wg-embedded,Discourse threads tagged "wg-embedded",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2016/presentations/ROSCon%202016%20-%20ROS%202%20Update.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://discourse.ros.org/tags/wg-navigation,Discourse threads tagged "wg-navigation",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://www.theconstructsim.com/rdp-017-ros-2-dds-iot-haochih/,ROS 2 and DDS for IoT devices with HaoChih Lin (from 5th minute onwards),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.esol.com/embedded/emcos.html,eMCOS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/,ROS 2 Basics in 5 Days (C++) - Learn how to start working with ROS 2 (The Construct),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=XTmlhvlmcf8,Autoware Course Lecture 1: Development Environment,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://www.pynq.io/,PYNQ,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=FTA4Ia2vLS8,Autoware Course Lecture 2: ROS2 101,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-http://www.theconstructsim.com/rdp-012-all-about-ros2-with-dirk-thomas/,Everything about ROS 2 with Dirk Thomas (from 16th minute onwards),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
-https://www.youtube.com/watch?v=wcibIqiRb04,Autoware Course Lecture 3: ROS 2 Tooling - Develop Like a Pro,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c85ca4222fe0ccbd5309/1558628472094/2019-05-07_Current_Status_of_ROS_2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
 https://www.adlinktech.com/en/index.aspx,ADLINK,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/142150576,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html,Blickfeld Cube 1 & Cube Range,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/292064161,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.apex.ai/apex-autonomy,Apex.Autonomy,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20SLAM.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://planet.ros.org/,ROS Planet,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://aliasrobotics.com/,Alias Robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://arxiv.org/pdf/1806.04042.pdf,Introducting the Robot Security Framework (RSF), A standardized methodology to perform security assessments in robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://stackoverflow.com/questions/tagged/ros2,Stack Overflow,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.irobot.de/,iRobot,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.apex.ai/,Apex.AI,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://iceoryx.io,Eclipse iceoryx,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/tags/wg-embedded,Discourse threads tagged "wg-embedded",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.tngtech.com/fileadmin/Public/Images/BigTechday/BTD11/Folien/ROS2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/236172294,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2015/presentations/state-of-ros2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=6Vzi0Grrlp8,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://arxiv.org/pdf/1807.10357.pdf,Towards an open standard for assessing the severity of robot security vulnerabilities, The Robot Vulnerability Scoring System (RVSS),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/tag/wg-acceleration,Discourse threads tagged "wg-acceleration",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/142151734,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://autonomoustuff.com,AutonomouStuff,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.rti.com/products/connext-dds-professional,Connext DDS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.semanticscholar.org/paper/Real-Time-Characteristics-of-ROS-2.0-in-Multiagent-Park-Delgado/8fa5b9443b33dd20c33be9a4259d92b238310a5c,Real-Time Characteristics of ROS 2.0 in Multiagent Robot Systems: An Empirical Study,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.udemy.com/ros2-how-to/,ROS2 How To: Discover Next Generation ROS (Udemy),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://canonical.com/,Canonical,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://docs.ros2.org/beta2/index.html,ROS 2 Docs (Overview),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.autoware.auto/,Autoware.Auto,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://www.twinoakscomputing.com/coredx,CoreDX DDS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision-Based%20Manipulation.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.semanticscholar.org/paper/Response-Time-Analysis-of-ROS-2-Processing-Chains-Casini-Bla%C3%9F/6fa472cc45f6de22f2a26114441d595534a80a92,Response-Time Analysis of ROS 2 Processing Chains Under Reservation-Based Scheduling,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://repo.ros2.org/,ROS2 package status,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.eprosima.com/,Eprosima,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/,Micro XRCE-DDS Agent docker,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/tags/wg-navigation,Discourse threads tagged "wg-navigation",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2015/presentations/RealtimeROS2.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/236182180,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.udemy.com/course/ros-2-new-features/,ROS 2 New Features: Skill-up with the latest features of Robot Operating System 2  (Udemy),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://repo.ros2.org/status_page/ros_bouncy_default.html,Bouncy package status,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://zenoh.io,Zenoh,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://vimeo.com/142621778,Video,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/t/transport-priority-qos-policy-to-solve-ip-flow-ambiguity-while-requesting-5g-network-qos/15332,Ericsson Research,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://repo.ros2.org/status_page/ros_ardent_default.html,Ardent package status,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://journals.sagepub.com/doi/pdf/10.1177/1729881418770011,Robot Operating System 2 - The need for a holistic security approach to robotic architectures,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.klepsydra.com/,Klepsydra Technologies,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://drive.google.com/file/d/1MW_w7MS1DNg1EzhprgbJKY2cqmxksPaw/view,slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://zenoh.io/blog/2021-04-28-ros2-integration/,ROS2 applications,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://zenoh.io/blog/2021-03-23-discovery/,R2X communication,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://de.mathworks.com/help/ros/index.html,MathWorks,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.farobottech.com/,FARobot,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.semanticscholar.org/paper/Distributed-and-Synchronized-Setup-towards-Robotic-Puck-Keller/10c4eeef9da0c5aa87664037f18a0ab746853757,Distributed and Synchronized Setup towards Real-Time Robotic Control using ROS2 on Linux,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://img.shields.io/github/stars/eclipse-zenoh/zenoh,https://img.shields.io/github/stars/eclipse-zenoh/zenoh,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/,ROS 2 Basics in 5 Days (C++) - Learn how to start working with ROS 2 (The Construct),https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20,Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/tags/wg-security,Discourse threads tagged "wg-security",https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://missionrobotics.us/,Mission Robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/58235f2eb8a79be587899891/1478713139775/ROS-I-Conf2016-day1-09-keinert.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=XTmlhvlmcf8,Autoware Course Lecture 1: Development Environment,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=FTA4Ia2vLS8,Autoware Course Lecture 2: ROS2 101,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://build.ros2.org,ROS2 Buildfarm,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.youtube.com/watch?v=wcibIqiRb04,Autoware Course Lecture 3: ROS 2 Tooling - Develop Like a Pro,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roboception.com/en/,Roboception GmbH,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2016/presentations/ROSCon%202016%20-%20ROS%202%20Update.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.esol.com/embedded/emcos.html,eMCOS,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision.pdf,Slides,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://roverrobotics.com/,Rover Robotics,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://discourse.ros.org/c/ng-ros,ROS Discourse,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+http://www.pynq.io/,PYNQ,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://ubuntu.com/core,Ubuntu Core,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://ubuntu.com/server,Ubuntu Server,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0
+https://www.sony.net/SonyInfo/technology/element/robotics/,Sony Corporation,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0

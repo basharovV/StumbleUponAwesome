@@ -1,0 +1,2 @@
+https://www.react-spring.io/,React spring,https://github.com/sergey-pimenov/awesome-web-animation#readme,Web Animation error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://cssanimate.com/,Cssanimate,https://github.com/sergey-pimenov/awesome-web-animation#readme,Web Animation error: RemoteDisconnected('Remote end closed connection without response') | reason: 

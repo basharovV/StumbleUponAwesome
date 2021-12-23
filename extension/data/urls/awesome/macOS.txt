@@ -1,110 +1,111 @@
-https://acrogenesis.com/macchanger/,macchanger by acrogenesis,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://webchat.freenode.net/?channels=apple,#apple,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://manytricks.com/moom/,Moom,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://heliumfloats.com/,Helium,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.ironstarmedia.co.uk/resources/osx-image-resizer/,Batch Image Resizer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.clipmenu.com/,ClipMenu,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://presentify.compzets.com,Presentify,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.shimovpn.com,Shimo,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://webchat.freenode.net/?channels=mac,#mac,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://rectangleapp.com/,Rectangle,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.acqualia.com/soulver/,Soulver,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://bombich.com,Carbon Copy Cloner,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://qsapp.com/,Quicksilver,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.teamviewer.com/en/,TeamViewer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.thinkbitz.com/cloudclip/,CloudClip,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://selfcontrolapp.com/,SelfControl,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://irvue.tumblr.com,Irvue,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.wesnoth.org/,Battle for Wesnoth,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://cordlessdog.com/stay/,Stay,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://boxerapp.com/,Boxer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://burn-osx.sourceforge.net/Pages/English/home.html,Burn,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://vagrantmanager.com,Vagrant Manager,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/,MenuMeters,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.richsomerfield.com/apps/,TextBar,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://dolphin-emu.org,Dolphin,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://itunes.apple.com/us/app/telegram/id747648890?mt=12,Telegram,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://aptonic.com/,Dropzone,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/,macOS Yosemite,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.kekaosx.com/en/,Keka,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.reddit.com/r/MacSetups,macsetups,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://mac.eltima.com/bluetooth-keyboard.html,Typeeto,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://simpleum.com/,SimpleumSafe,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110,Kindle App,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://anvilformac.com/,Anvil,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://hazeover.com/,HazeOver,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://tunnelblick.net,Tunnelblick,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://soundcleod.com/,SoundCleod,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/,macOS El Capitan,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://sourceforge.net/projects/keka/files/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://monodraw.helftone.com/,Monodraw,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://bahoom.com/hyperdock/,HyperDock,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.cakebrew.com/,Cakebrew,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://emacsformacosx.com/download/emacs-sources/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.knocktounlock.com,Knock,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://notational.net/,Notational Velocity,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.cheatsheetapp.com/CheatSheet/,CheatSheet,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://macromates.com/,TextMate,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.titanium.free.fr/,OnyX,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.obdev.at/products/launchbar/index.html,LaunchBar,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.soma-zone.com/LaunchControl/,LaunchControl,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://forums.macrumors.com/forums/macos-mojave-10-14.205/,macOS Mojave,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://mmattozzi.github.io/cocoa-rest-client,CocoaRestClient,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://forums.macrumors.com/forums/macos-catalina-10-15.208/,macOS Catalina,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://aaronrandall.com/blog/screentendo/,Screentendo,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://derailer.org/paparazzi/,Paparazzi,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://clickontyler.com/commandq/,CommandQ,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://vimr.org,VimR,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://veracrypt.codeplex.com/,VeraCrypt,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.macobserver.com/tmo/article/os-x-bluetooth-menu-reset-devices,Bluetooth Debug Menu,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://bonzaiapps.com,Loading,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele,Ukelele,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://stockfishchess.org/mac/,Stockfish,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.obdev.at/products/littlesnitch/index.html,Little Snitch,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.mitchchn.me/2014/os-x-terminal/?x,Command Line Utilities Part 1,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://tracesof.net/uebersicht/,Übersicht,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://junecloud.com/software/mac/deliveries.html,Deliveries,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.mitchchn.me/2014/and-eight-hundred-more/,Command Line Utilities Part 2,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.paragon-drivers.com/ntfs-mac/,Paragon NTFS,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://luckymarmot.com/paw,Paw,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://airmailapp.com/,Airmail,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.omnigroup.com/omnioutliner/,OmniOutliner,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities,Thread on StackExchange,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984,GIPHY Capture,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://wineskin.urgesoftware.com/tiki-index.php,Wineskin,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://pilotmoon.com/popclip/,PopClip,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://freron.com/,MailMate,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://veracrypt.codeplex.com/SourceControl/latest,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://proxyman.io,Proxyman,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://gpgtools.org/,GPG Suite,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://radiosilenceapp.com,Radio Silence,https://github.com/iCHAIT/awesome-macOS#readme,macOS
 https://mailplaneapp.com/,Mailplane,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://support.apple.com/en-us/HT204895,Trackpad Gestures,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://ptsochantaris.github.io/trailer/,Trailer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://hackermenu.io/,hacker-menu,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://etrecheck.com,EtreCheck,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://sourceforge.net/p/wineskin/code/ci/master/tree/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://media-converter.sourceforge.net/,Media Converter,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://manytricks.com/moom/,Moom,https://github.com/iCHAIT/awesome-macOS#readme,macOS
 http://reederapp.com/mac/,Reeder,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://folivora.ai,BetterTouchTool,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.slant.co/topics/523/~power-user-tools-for-mac-osx,Power Tools,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://bitbucket.org/galad87/subler/wiki/Home,Subler,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.reddit.com/r/osx/,osx,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://ricks-apps.com/osx/sitesucker/,Site Sucker,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://sourceforge.net/p/media-converter/code/ci/master/tree/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://kishanbagaria.com/smartcapslock/,SmartCapsLock,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://fannywidget.com/,Fanny,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://lucija.frkovic.me/Subtitlr/,Subtitlr,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://gpgtools.org/,GPG Suite,https://github.com/iCHAIT/awesome-macOS#readme,macOS
 http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/,Show hidden files,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://webchat.freenode.net/?channels=macosx,#macosx,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.reddit.com/r/macapps,macapps,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://flotato.com/,Flotato,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://www.64characters.com/telephone/,Telephone,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-http://fluidapp.com/,Fluid,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://smilesoftware.com/textexpander,TextExpander,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://monosnap.com,Monosnap,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://coppertino.com/vox/mac,VOX Player,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://rectangleapp.com/,Rectangle,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://folivora.ai,BetterTouchTool,https://github.com/iCHAIT/awesome-macOS#readme,macOS
 https://www.reddit.com/r/Mac,mac,https://github.com/iCHAIT/awesome-macOS#readme,macOS
 https://www.iterm2.com/,iTerm 2,https://github.com/iCHAIT/awesome-macOS#readme,macOS
-https://www.macbartender.com/,Bartender,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://acrogenesis.com/macchanger/,macchanger by acrogenesis,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://webchat.freenode.net/?channels=macosx,#macosx,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.omnigroup.com/omnioutliner/,OmniOutliner,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://flotato.com/,Flotato,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059,ForkLift,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://cordlessdog.com/stay/,Stay,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/,MenuMeters,https://github.com/iCHAIT/awesome-macOS#readme,macOS
 https://www.reddit.com/r/macOS/,macOS,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.wesnoth.org/,Battle for Wesnoth,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://highlyopinionated.co/swish/,Swish,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.clipmenu.com/,ClipMenu,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://webchat.freenode.net/?channels=apple,#apple,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://pilotmoon.com/popclip/,PopClip,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://bombich.com,Carbon Copy Cloner,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://boxerapp.com/,Boxer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.acqualia.com/soulver/,Soulver,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://vagrantmanager.com,Vagrant Manager,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://paretosecurity.app/,Pareto Security,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://dolphin-emu.org,Dolphin,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.teamviewer.com/en/,TeamViewer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.macbartender.com/,Bartender,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://webchat.freenode.net/?channels=mac,#mac,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://fluidapp.com/,Fluid,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.shimovpn.com,Shimo,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.thinkbitz.com/cloudclip/,CloudClip,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.reddit.com/r/MacSetups,macsetups,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12,Clocker,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://presentify.compzets.com,Presentify,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://anvilformac.com/,Anvil,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://aaronrandall.com/blog/screentendo/,Screentendo,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.richsomerfield.com/apps/,TextBar,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://monodraw.helftone.com/,Monodraw,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://soundcleod.com/,SoundCleod,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.cakebrew.com/,Cakebrew,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://qsapp.com/,Quicksilver,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://irvue.tumblr.com,Irvue,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://selfcontrolapp.com/,SelfControl,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://aptonic.com/,Dropzone,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://mac.eltima.com/bluetooth-keyboard.html,Typeeto,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://mmattozzi.github.io/cocoa-rest-client,CocoaRestClient,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://stockfishchess.org/mac/,Stockfish,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.keka.io/,Keka,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/,macOS Yosemite,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://simpleum.com/,SimpleumSafe,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.macobserver.com/tmo/article/os-x-bluetooth-menu-reset-devices,Bluetooth Debug Menu,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.knocktounlock.com,Knock,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://microcodingapps.com/products/decode.html,Decode,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://notational.net/,Notational Velocity,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://apps.apple.com/us/app/taskade-manage-anything/id1490048917/,Taskade,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984,GIPHY Capture,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.titanium.free.fr/,OnyX,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://tunnelblick.net,Tunnelblick,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.mitchchn.me/2014/os-x-terminal/?x,Command Line Utilities Part 1,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.mitchchn.me/2014/and-eight-hundred-more/,Command Line Utilities Part 2,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://hazeover.com/,HazeOver,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.imagetasks.com/pixea/,Pixea,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities,Thread on StackExchange,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://bahoom.com/hyperdock/,HyperDock,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.64characters.com/telephone/,Telephone,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.soma-zone.com/LaunchControl/,LaunchControl,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/,macOS El Capitan,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://derailer.org/paparazzi/,Paparazzi,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://support.apple.com/en-us/HT204895,Trackpad Gestures,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://emacsformacosx.com/download/emacs-sources/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://hackermenu.io/,hacker-menu,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://luckymarmot.com/paw,Paw,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://www.paragon-drivers.com/ntfs-mac/,Paragon NTFS,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://proxyman.io,Proxyman,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://nova.app/,Nova,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://bonzaiapps.com,Loading,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://forums.macrumors.com/forums/macos-mojave-10-14.205/,macOS Mojave,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://ptsochantaris.github.io/trailer/,Trailer,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://smilesoftware.com/textexpander,TextExpander,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://macromates.com/,TextMate,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://radiosilenceapp.com,Radio Silence,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.obdev.at/products/littlesnitch/index.html,Little Snitch,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://itunes.apple.com/us/app/jumpshare/id889922906,Jumpshare,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://forums.macrumors.com/forums/macos-catalina-10-15.208/,macOS Catalina,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://burn-osx.sourceforge.net/Pages/English/home.html,Burn,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele,Ukelele,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://monosnap.com,Monosnap,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://tracesof.net/uebersicht/,Übersicht,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.reddit.com/r/osx/,osx,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://media-converter.sourceforge.net/,Media Converter,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://wineskin.urgesoftware.com/tiki-index.php,Wineskin,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://ricks-apps.com/osx/sitesucker/,Site Sucker,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.reddit.com/r/macapps,macapps,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.cheatsheetapp.com/CheatSheet/,CheatSheet,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://kishanbagaria.com/smartcapslock/,SmartCapsLock,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://sourceforge.net/p/media-converter/code/ci/master/tree/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://clickontyler.com/commandq/,CommandQ,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://sourceforge.net/p/wineskin/code/ci/master/tree/,,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://junecloud.com/software/mac/deliveries.html,Deliveries,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://bitbucket.org/galad87/subler/wiki/Home,Subler,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://lucija.frkovic.me/Subtitlr/,Subtitlr,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://etrecheck.com,EtreCheck,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://fannywidget.com/,Fanny,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+http://airmailapp.com/,Airmail,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://freron.com/,MailMate,https://github.com/iCHAIT/awesome-macOS#readme,macOS
+https://www.obdev.at/products/launchbar/index.html,LaunchBar,https://github.com/iCHAIT/awesome-macOS#readme,macOS

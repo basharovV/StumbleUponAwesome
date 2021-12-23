@@ -1,12 +1,12 @@
-https://www.meetup.com/nycgolang/,Golang New York,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://about.sourcegraph.com/handbook/engineering/go_style_guide,Sourcegraph,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://thanos.io/contributing/coding-style-guide.md/,Thanos,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://gocover.io/,GoCover.io,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://wide.b3log.org/login,Wide,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://go-lint.appspot.com/,Golint online,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://www.capitalgolang.com,Capital Go,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://myanimelist.net/modules.php?go=api,MyAnimeList API,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gophercon.in/,GopherCon India,https://github.com/avelino/awesome-go#readme,Go error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1123)
+https://travis-ci.com/avelino/awesome-go,,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://lille-gophers.loscrackitos.codes/,Lille Gophers,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://www.meetup.com/Golang-Mountain-View/,Golang Mountain View,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://wiki.edgexfoundry.org/display/FA/Contributor%27s+Guide+-+Go+Lang,Edge X Foundry,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: ''> | reason: 
-https://www.gophercon.in/,GopherCon India,https://github.com/avelino/awesome-go#readme,Go error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1076)
+http://go-lint.appspot.com/,Golint online,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.meetup.com/nycgolang/,Golang New York,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://goway.io/,GoWayFest,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://codeplayground.app,Go Playground for iOS,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.meetup.com/Joinville-Go-Meetup/,Golang Joinville - Brazil,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.goin5minutes.com/,Go In 5 Minutes,https://github.com/avelino/awesome-go#readme,Go error: timeout('The read operation timed out') | reason: 
+https://about.sourcegraph.com/handbook/engineering/go_style_guide,Sourcegraph,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en,Sophos UTM REST API,https://github.com/avelino/awesome-go#readme,Go error: timeout('The read operation timed out') | reason: 

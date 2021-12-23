@@ -1,8 +1,5 @@
-https://pixabay.com/,Pixbay,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.fontpicker.io/,Font Picker,https://github.com/teoga/awesome-product-design#readme,Product Design error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.pexels.com,Pexels,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://density.brdrck.me/,Density Bucket,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.appsee.com/,Appsee,https://github.com/teoga/awesome-product-design#readme,Product Design error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.canvasflip.com/color-blind.php,CanvasFlip,https://github.com/teoga/awesome-product-design#readme,Product Design error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error
-http://www.brianlovin.com/,Brian Lovin,https://github.com/teoga/awesome-product-design#readme,Product Design error: <HTTPError 308: 'Unknown'> | reason: Unknown
-http://findguidelin.es/,Find Guidelines,https://github.com/teoga/awesome-product-design#readme,Product Design error: timeout('timed out') | reason: 
+https://pixabay.com/,Pixbay,https://github.com/matttga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://theixdlibrary.com/,The IxD Library,https://github.com/matttga/awesome-product-design#readme,Product Design error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.identifont.com/index.html,Identyfont,https://github.com/matttga/awesome-product-design#readme,Product Design error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://www.pexels.com,Pexels,https://github.com/matttga/awesome-product-design#readme,Product Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://facebook.design/,Facebook Design,https://github.com/matttga/awesome-product-design#readme,Product Design error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)

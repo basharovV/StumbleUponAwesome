@@ -1,0 +1,35 @@
+https://www.youtube.com/watch?v=L00UjifUEfE,AppImage system integration on Ubuntu using go-appimaged,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.youtube.com/watch?v=D2WA2zdLvVk,Integrate and Manage AppImages with AppImageLauncher,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://appimage.org,AppImage,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.amazon.de/Mastering-Qt-stunning-cross-platform-applications-ebook/dp/B07DH9YK9Q/,Mastering Qt 5,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build,Link to the latest build artifact on GitLab CI,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://appimage.gitlab.io/planet/,Planet AppImage,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://assassinate-you.net/tags/appimage/,TheAssassin Blog,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://appimagecrafters.github.io/,AppImage Crafters Blog,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://specifications.freedesktop.org/desktop-entry-spec/latest/,Desktop Entry Specification,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://docs.appimage.org/,docs.appimage.org,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.deepin.org/en/,Deepin,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://discourse.appimage.org/,discourse.appimage.org,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://stackoverflow.com/tags/AppImage,Stack Overflow,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://nxos.org/,Nitrux,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.reddit.com/r/AppImage/,r/AppImage/,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://appimage-builder.readthedocs.io/,appimage-builder.readthedocs.io,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://invent.kde.org/packaging/craft,KDE Craft,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.youtube.com/watch?v=XTGn_JqmDu0,Produce an AppImage that bundles everything with go-appimage,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://itsfoss.com/appimage-interview/,The Background Story of AppImage,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://gitlab.com/sgclarkkde/appimage-tooling,appimage-tooling,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://dot.kde.org/2005/09/16/dont-install-just-copy-klik,Don't Install, Just Copy with klik,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.youtube.com/watch?v=nzZ6Ikc7juw,AppImage: Portable applications for Linux,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.youtube.com/watch?v=7fPShv-8Z_4,Comparing Linux Package Formats - Deb, Flatpak, AppImage, etc.,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.youtube.com/watch?v=tMqES2pNxYY,AppImage: Universal Linux Apps, Overview and Thoughts,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://briefcase.readthedocs.io/,Briefcase,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://gitlab.com/chezmurray/pycharm-appimage-support,pycharm-appimage-support,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://gitlab.com/nixtux-packaging/appimage2pkg,appimage2pkg,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://gitlab.com/scottywz/elements,Elements,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.appimagehub.com/,AppImageHub.com,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.opendesktop.org/,Opendesktop.org,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://www.pling.com/,pling.com,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://app-outlet.github.io/,App Outlet,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://linuxappstore.io/,Linux App Store,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://adamtheautomator.com/appimage-ubuntu/,Getting Started Managing Software with AppImage on Ubuntu,https://github.com/AppImage/awesome-appimage#readme,AppImage
+https://gitlab.com/posktomten/appimagehelper,appimagehelper,https://github.com/AppImage/awesome-appimage#readme,AppImage

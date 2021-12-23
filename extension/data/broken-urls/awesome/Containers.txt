@@ -1,9 +1,6 @@
-https://docs.docker.com/swarm,Docker Swarm,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://kontena.io,Kontena,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://hyper.sh,Hyper.sh,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://clearlinux.org/documentation/clear-linux/get-started,Clear Linux Project,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://cargos.io/,CargOS,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://azure.microsoft.com/en-us/services/container-service/,Azure Container Service,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://cargos.io/,CargOS,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://wiki.apparmor.net/index.php/Main_Page,AppArmor,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://mcl.host,MCL,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://rancher.com/rancher-os/,RancherOS,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://openvz.org/Main_Page,OpenVZ,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://blogs.oracle.com/developers/the-microcontainer-manifesto,Oracle microcontainer manifesto,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers error: timeout('The read operation timed out') | reason: 

@@ -1,33 +1,32 @@
 https://developer.mozilla.org/en-US/docs/Web/API/Cache,CacheStorage API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html,Android Asset Studio - Launcher Icon Generator,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/showcase/2016/extra,eXtra Electronics Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://developers.google.com/web/updates/2015/12/background-sync,Introducing Background Sync,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/showcase/2016/jumia,Jumia Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/showcase/2016/konga,Konga Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/updates/2016/10/navigator-share,Introducing the Web Share API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/showcase/2016/extra,eXtra Electronics Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://wicg.github.io/BackgroundSync/spec/,Background Sync Spec,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://www.chromestatus.com/feature/5480344312610816,Chrome Platform Status - Web Notifications,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/showcase/2016/suumo,Suumo Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://pwabook.com/oreillyapwa,,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://jakearchibald.github.io/svgomg/,SVGOMG,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://www.udacity.com/course/offline-web-applications--ud899,Offline Web Applications Using IndexedDB & Service Worker,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/fundamentals/performance/,Web Fundamentals - Performance,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://aerotwist.com/blog/guitar-tuner/,Guitar Tuner,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en,PWA Dev Summit 2016 codelab - Push Notifications,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/updates/2016/10/navigator-share,Introducing the Web Share API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/showcase/2016/jumia,Jumia Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://www.chromestatus.com/feature/5480344312610816,Chrome Platform Status - Web Notifications,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/showcase/2016/konga,Konga Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en,Google Developers - Your First Progressive Web App,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/,Introducing RAIL: A User-Centric Model For Performance,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API,Using the Push API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/showcase/2016/suumo,Suumo Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://www.w3.org/TR/service-workers/,Service Workers W3C Specification,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c,Offline Storage for Progressive Web Apps,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API,IndexedDB API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en,PWA Dev Summit 2016 codelab - Push Notifications,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/fundamentals/performance/,Web Fundamentals - Performance,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://jakearchibald.github.io/svgomg/,SVGOMG,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://youtu.be/cmGr0RszHc8,Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API,Using the Push API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811,Intro To Progressive Web Apps,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/,Introducing RAIL: A User-Centric Model For Performance,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://www.youtube.com/watch?v=MyQ8mtR9WxI,Progressive Web Apps (Chrome Dev Summit 2015),https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API,IndexedDB API,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://aerotwist.com/blog/guitar-tuner/,Guitar Tuner,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://www.youtube.com/watch?v=fFF2Yup2dMM,Polymer and Progressive Web Apps: Building on the modern web - Google I/O 2016,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android?hl=en,Increasing Engagement with Web App Install Banners,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://developers.google.com/web/showcase/2016/iowa2016,Building the Google I/O 2016 Progressive Web App,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/fundamentals/performance/prpl-pattern/,The PRPL Pattern,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android?hl=en,Increasing Engagement with Web App Install Banners,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://developers.google.com/web/showcase/2016/aliexpress,AliExpress Case Study,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android,Installable Web Apps with the Web App Manifest in Chrome for Android,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
-https://developers.google.com/web/fundamentals/performance/rendering/,Browser Rendering Performance,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
 http://realfavicongenerator.net/,RealFaviconGenerator,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c,Offline Storage for Progressive Web Apps,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/fundamentals/performance/prpl-pattern/,The PRPL Pattern,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps
+https://developers.google.com/web/fundamentals/performance/rendering/,Browser Rendering Performance,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps

@@ -1,5 +1,5 @@
 https://tc39.github.io/proposal-observable/,Specification,https://github.com/sindresorhus/awesome-observables#readme,Observables
 http://cycle.js.org,Cycle.js,https://github.com/sindresorhus/awesome-observables#readme,Observables
 http://staltz.com/everywhereness-as-a-foundation.html,Everywhereness as a foundation,https://github.com/sindresorhus/awesome-observables#readme,Observables
-https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87,Learning Observable By Building Observable,https://github.com/sindresorhus/awesome-observables#readme,Observables
+https://benlesh.com/posts/learning-observable-by-building-observable/,Learning Observable By Building Observable,https://github.com/sindresorhus/awesome-observables#readme,Observables
 https://egghead.io/lessons/javascript-introducing-the-observable,Introducing the Observable,https://github.com/sindresorhus/awesome-observables#readme,Observables

@@ -1,1 +1,3 @@
+https://ashop.co,aShop,https://github.com/ScaleLeap/awesome-amazon-seller#readme,Amazon Sellers error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ashop.co'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ashop.co'. (_ssl.c:1123)
+https://www.merchantwords.com/,MerchantWords,https://github.com/ScaleLeap/awesome-amazon-seller#readme,Amazon Sellers error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.jumpsend.com/blog/,JumpSend,https://github.com/ScaleLeap/awesome-amazon-seller#readme,Amazon Sellers error: <HTTPError 404: 'Not Found'> | reason: Not Found

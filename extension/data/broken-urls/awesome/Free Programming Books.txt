@@ -1,0 +1,3 @@
+https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p%5Bimages%5D%5B0%5D=&p%5Btitle%5D=Free%20Programming%20Books&p%5Bsummary%5D=,Share on Facebook,https://github.com/EbookFoundation/free-programming-books#readme,Free Programming Books error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

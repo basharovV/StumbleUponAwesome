@@ -1,2 +1,5 @@
 https://gnusocial.no,GNUsocial.no,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://readytheapp.com/,Ready,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://nomoreads.org,No More Ads,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://libre.fm/,Libre.fm,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.armstrongeconomics.com/uncategorized/no-advertising/,Armstrong Economics,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://wire.com/en/privacy/,Wire,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 404: 'Not Found'> | reason: Not Found

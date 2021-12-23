@@ -1,1 +1,7 @@
-https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss,Chiplotle-discuss,https://github.com/beardicus/awesome-plotters#readme,Plotters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future,1980s pen plotters of the future,https://github.com/beardicus/awesome-plotters#readme,Plotters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://fr.calameo.com/read/0002895619da2a1b1daf8,Journal Intime II,https://github.com/beardicus/awesome-plotters#readme,Plotters error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://learn.makeblock.com/en/xy-plotter-robot-kit,Makeblock XY Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://shop.mewo2.com,Martin O'Leary,https://github.com/beardicus/awesome-plotters#readme,Plotters error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://shop.andrewheumann.com/,Andrew Heumann,https://github.com/beardicus/awesome-plotters#readme,Plotters error: <HTTPError 404: 'Not Found'> | reason: Not Found

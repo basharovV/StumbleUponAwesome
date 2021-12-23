@@ -1,2 +1,4 @@
-https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
+https://www.simonheys.com/wordclock/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://johansson.design/screensavers/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://littleendiangamestudios.com/project/ios-8-screen-saver/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 https://itunes.apple.com/us/app/textify-me/id470453599,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,68 +1,68 @@
-https://www.youtube.com/watch?v=GXdmjCPYYNM,PowerShell Toolmaking (3 of 3) - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://adamtheautomator.com/,Adam the Automator,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://serilog.net,Serilog,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.youtube.com/watch?v=D15vh-ryJGk,PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.youtube.com/watch?v=U849a17G7Ro,PowerShell Toolmaking (2 of 3) - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+http://get-carbon.org/,Carbon,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://vexx32.github.io/,Clear-Script,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.youtube.com/watch?v=GXdmjCPYYNM,PowerShell Toolmaking (3 of 3) - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://poshcode.org/slack,Slack PowerShell team,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=Hkzd8spCfCU,Sophisticated Techniques of Plain Text Parsing - Tobias Weltner,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://vexx32.github.io/,Clear-Script,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://scoop.sh,Scoop,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://hjson.github.io/,HJSON,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=j0EX5R2nnRI,Monad Manifesto Revisited - Jeffrey Snover,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://serilog.net,Serilog,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=VrDjiVbZZE8,AD Forensics with PowerShell - Ashley McGlone,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://psappdeploytoolkit.com/,PowerShell App Deployment Toolkit,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=85Yrs5ezxHE&list=PL6ue9e1DXqDv74YTX91gYonfFsweNmrDK,Windows PowerShell What's New in V2 - SAPIEN,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://msdn.microsoft.com/en-us/powershell/,,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://scoop.sh,Scoop,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=IHrGresKu2w&list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi,All Things Microsoft PowerShell,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://leanpub.com/s/aQDRwmoOi940mX_EB6N7Yg.pdf,Why PowerShell? - Warren Frame & Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.manning.com/books/exploring-powershell-automation,Exploring PowerShell Automation,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276,Getting Started With PowerShell 3.0 Jump Start,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://msdn.microsoft.com/en-us/powershell/,,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://psappdeploytoolkit.com/,PowerShell App Deployment Toolkit,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://leanpub.com/s/aQDRwmoOi940mX_EB6N7Yg.pdf,Why PowerShell? - Warren Frame & Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.youtube.com/rtpsug/,Research Triangle PowerShell User Group YouTube Channel,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://en.wikipedia.org/wiki/PowerShell,PowerShell,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.sapien.com/software/powershell_studio,PowerShell Studio,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell,PowerShell for Visual Studio Code,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://atlassianps.org/module/ConfluencePS/,ConfluencePS,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.manning.com/books/powershell-in-depth,PowerShell in Depth,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/,Research Triangle PowerShell User Group,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://hjson.github.io/,HJSON,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276,Getting Started With PowerShell 3.0 Jump Start,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://atlassianps.org/module/ConfluencePS/,ConfluencePS,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://powershell.org/category/podcast/,PowerScripting,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://ironmansoftware.com/powershell-universal-dashboard,Universal Dashboard,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://channel9.msdn.com/Series/advpowershell3,Advanced Tools & Scripting with PowerShell 3.0,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://atlassianps.org/module/JiraPS/,JiraPS,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://code.visualstudio.com,Visual Studio Code,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://keepass.info,KeePass,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://powershell.org/podcast/,PowerScripting,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://leanpub.com/s/lDl9ZV0QW7zaE4BpitXVig.pdf,The Big Book of PowerShell Gotchas - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://blogs.msdn.microsoft.com/powershell/,Windows PowerShell Blog,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.manning.com/books/windows-powershell-in-action-third-edition,Windows PowerShell in Action, Third Edition,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://ironmansoftware.com/powershell-tools-for-visual-studio/,PoshTools for Visual Studio,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://leanpub.com/s/lDl9ZV0QW7zaE4BpitXVig.pdf,The Big Book of PowerShell Gotchas - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://atlassianps.org/module/JiraPS/,JiraPS,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://keepass.info,KeePass,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.sapien.com/software/powershell_studio,PowerShell Studio,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://powershellnews.podbean.com/,The PowerShell News Podcast,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434,What's New in PowerShell v5,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition,Learn Windows PowerShell in a Month of Lunches, Third Edition,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell,PowerShell for Visual Studio Code,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85,File System Security,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://code.visualstudio.com,Visual Studio Code,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://autospinstaller.com/,AutoSPInstaller,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf,The Big Book of PowerShell Error Handling - Dave Wyatt,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://channel9.msdn.com/Series/advpowershell3,Advanced Tools & Scripting with PowerShell 3.0,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://dbachecks.io,dbatools,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition,Learn PowerShell in a Month of Lunches, Linux and macOS Edition,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://ironmansoftware.com/powershell-tools-for-visual-studio/,PoshTools for Visual Studio,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434,What's New in PowerShell v5,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://blogs.msdn.microsoft.com/powershell/,Windows PowerShell Blog,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf,Secrets of PowerShell Remoting,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches,Learn PowerShell Scripting in a Month of Lunches,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+http://learn-powershell.net/,Learn PowerShell | Achieve More,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://channel9.msdn.com/series/PowerShell-Open-Source-Project,PowerShell Open Source Project,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise,PowerShell ISE,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf,The Big Book of PowerShell Error Handling - Dave Wyatt,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 http://www.powertheshell.com/isesteroids/,ISE Steroids,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://autospinstaller.com/,AutoSPInstaller,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-http://learn-powershell.net/,Learn PowerShell | Achieve More,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source,PowerShell on Linux and Open Source,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf,PowerShell Notes for Professionals,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+http://www.powershellmagazine.com/,PowerShellMagazine,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf,The Monad Manifesto, Annotated - Jeffrey Snover,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://nostarch.com/powershellsysadmins,PowerShell for SysAdmins: Workflow Automation Made Easy,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://powershellexplained.com,PowerShellExplained,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.idera.com/productssolutions/freetools/powershellplus,PowerShell Plus,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition,Learn PowerShell in a Month of Lunches, Linux and macOS Edition,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source,PowerShell on Linux and Open Source,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://leanpub.com/windowspowershellnetworkingguide/read,Windows PowerShell Networking Guide,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://channel9.msdn.com/Shows/MsftPowerShell,PowerShell,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=6CRTahGYnws&list=PL6D474E721138865A,Learn Windows PowerShell in a Month of Lunches - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-http://get-carbon.org/,Carbon,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf,Secrets of PowerShell Remoting,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=Lni4KjGMgu4,Best Practices for Script Design - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-http://www.powershellmagazine.com/,PowerShellMagazine,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches,Learn PowerShell Scripting in a Month of Lunches,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 https://www.youtube.com/watch?v=KprrLkjPq_c,PowerShell Toolmaking (1 of 3) - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.youtube.com/watch?v=U849a17G7Ro,PowerShell Toolmaking (2 of 3) - Don Jones,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://sharepointpowershell.codeplex.com/,Client-side SharePoint,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://powershellexplained.com,PowerShellExplained,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf,PowerShell Notes for Professionals,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://dbachecks.io,dbatools,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://nostarch.com/powershellsysadmins,PowerShell for SysAdmins: Workflow Automation Made Easy,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.youtube.com/watch?v=D15vh-ryJGk,PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf,The Monad Manifesto, Annotated - Jeffrey Snover,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.powershellgallery.com/,PowerShell Gallery,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://www.poshtestgallery.com/,PowerShell Test Gallery,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-https://leanpub.com/windowspowershellnetworkingguide/read,Windows PowerShell Networking Guide,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 http://shop.oreilly.com/product/0636920024491.do,PowerShell for Developers,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
-http://powershell.org/,PowerShell.org,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 http://mikefrobbins.com/,Mike F. Robbins,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+https://www.poshtestgallery.com/,PowerShell Test Gallery,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
+http://powershell.org/,PowerShell.org,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell
 http://www.reddit.com/r/powershell,/r/PowerShell,https://github.com/janikvonrotz/awesome-powershell#readme,PowerShell

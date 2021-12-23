@@ -1,7 +1,6 @@
-https://forum.textpattern.com/profile.php?id=15145,gomedia,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://forum.textpattern.com/profile.php?id=18747,monkeyninja,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://design-patterns.textpattern.io/docs/,Hive theme design patterns,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://forum.textpattern.com/profile.php?id=8379,redbot,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://design-patterns.textpattern.io/docs/,Hive theme design patterns,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://forum.textpattern.com/profile.php?id=76735,CeBe,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://forum.textpattern.com/profile.php?id=173137,goechsler,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://forum.textpattern.com/profile.php?id=109,michaelkpate,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
@@ -12,4 +11,5 @@ https://forum.textpattern.com/profile.php?id=8181,Bloke,https://github.com/drmon
 https://forum.textpattern.com/profile.php?id=96820,etc,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://forum.textpattern.com/profile.php?id=39206,philwareham,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://forum.textpattern.com/profile.php?id=5463,wet,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://forum.textpattern.com/profile.php?id=15145,gomedia,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://textpattern.org.ua/plugins/aks_cache,aks_cache,https://github.com/drmonkeyninja/awesome-textpattern#readme,Textpattern error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

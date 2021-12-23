@@ -1,5 +1,7 @@
-http://elixir-cn.com/,elixir-cn.com,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://www.inf.ufrgs.br/~alvares/CMP259DCBD/clope.pdf,CLOPE,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://confreaks.tv/tags/40,Confreaks (Elixir),https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://clap.rs/,clap.rs,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clap.rs'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clap.rs'. (_ssl.c:1123)
 https://www.govtrack.us/developers,govtrack.us,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://graphql-elixir.org/,GraphQL Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://bpe.n2o.space,Doc,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.inf.ufrgs.br/~alvares/CMP259DCBD/clope.pdf,CLOPE,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://foxbox.com/blog/elixir-vs-ruby/,Elixir vs Ruby | How Switching To Elixir Made Our Team Better,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.youtube.com/c/Frathon,Frathon's YouTube Channel,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://elixir.career/,Elixir Career,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)

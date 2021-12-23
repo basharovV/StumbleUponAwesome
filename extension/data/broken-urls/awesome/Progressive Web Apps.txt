@@ -1,3 +1,4 @@
+https://pwabook.com/oreillyapwa,,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps error: <HTTPError 308: 'Permanent redirect'> | reason: Permanent redirect
 https://pwa.rocks/,PWA.rocks,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://voice-memos.appspot.com/,Voice Memos,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://react-hn.appspot.com/,Hacker News,https://github.com/TalAter/awesome-progressive-web-apps#readme,Progressive Web Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found

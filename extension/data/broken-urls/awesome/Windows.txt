@@ -1,9 +1,16 @@
-https://www.buymeacoffee.com/rahulkapoor90,,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-https://protonail.com/products/keylord,Keylord,https://github.com/Awesome-Windows/Awesome#readme,Windows error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-http://www.wampserver.com/en/,Wamp,https://github.com/Awesome-Windows/Awesome#readme,Windows error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/,AddToSendTo,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.buymeacoffee.com/rahulkapoor90,,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://insomnia.rest,Insomnia,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build,,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://answers.microsoft.com/en-us/windows,Windows Support Communities,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+http://scormpool.com/luastudio,LuaStudio,https://github.com/Awesome-Windows/Awesome#readme,Windows error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://www.netsarang.com/products/xfp_overview.html,Xftp 5,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.windows.microsoft.com/en-in/windows/show-hidden-files,Show hidden files,https://github.com/Awesome-Windows/Awesome#readme,Windows error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/,SetToStartup,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://developer.android.com/studio/index.html,Android Studio,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
-https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer,FileOptimizer,https://github.com/Awesome-Windows/Awesome#readme,Windows error: timeout('The read operation timed out') | reason: 
+http://www.windows.microsoft.com/en-in/windows/show-hidden-files,Show hidden files,https://github.com/Awesome-Windows/Awesome#readme,Windows error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://netbeans.org/community/sources/,,https://github.com/Awesome-Windows/Awesome#readme,Windows error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.kobo.com/desktop,kobo,https://github.com/Awesome-Windows/Awesome#readme,Windows error: timeout('The read operation timed out') | reason: 

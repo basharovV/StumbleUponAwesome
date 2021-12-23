@@ -1,6 +1,14 @@
-http://www.kristinathai.com/watchos-2-tutorial-using-sendmessage-for-instantaneous-data-transfer-watch-connectivity-1/?utm_campaign=WatchKit%2BResources,How to communicate between devices using Watch Connectivity,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://db.tt/UAWEZ1AF,https://db.tt/UAWEZ1AF,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started,Bitcoin Tracker,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
 http://blog.iconfinder.com/icons-apple-watch-definitive-guide/,Icons for Apple Watch – The Definitive Guide,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://developer.apple.com/watch/human-interface-guidelines/resources/, Watch Design Resources,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.raywenderlich.com/96589/watchkit-tutorial-swift-tables-network-requests,WatchKit Tutorial with Swift Part 2: Tables and Network Requests,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+http://www.raywenderlich.com/96741/watchkit-tutorial-with-swift-tables-glances-and-handoff,WatchKit Tutorial with Swift Part 3: More Tables, Glances and Handoff,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
 http://thinkapps.com/watch-apps,thinkapps for watch,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: timeout('timed out') | reason: 
 https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html,Lister,https://github.com/yenchenlin/awesome-watchos#readme,watchOS error: <HTTPError 404: 'Not Found'> | reason: Not Found

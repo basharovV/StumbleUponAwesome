@@ -1,0 +1,4 @@
+https://azure.microsoft.com/en-us/services/api-management/,Azure API Management,https://github.com/stn1slv/awesome-integration#readme,Integration error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.blueprism.com/products/intelligent-rpa-automation/,Blue Prism,https://github.com/stn1slv/awesome-integration#readme,Integration error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://projects.eclipse.org/projects/ee4j.jca,JCA,https://github.com/stn1slv/awesome-integration#readme,Integration error: timeout('The read operation timed out') | reason: 
+https://support.sas.com/en/software/mdm-support.html,SAS MDM,https://github.com/stn1slv/awesome-integration#readme,Integration error: timeout('The read operation timed out') | reason: 

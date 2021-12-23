@@ -1,5 +1,14 @@
-http://testinginthepub.co.uk/testinginthepub/,Testing In The Pub,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.fullstackradio.com/,Full Stack Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://avpodcast.net/podcastlinux,Podcast Linux,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-http://podcast.sysca.st/,Syscast Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://linuxheadlines.show/,Linux Headlines,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://oxide.computer/blog/categories/on-the-metal/,On the Metal,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.laravelpodcast.com,The Laravel Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.laravelpodcast.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.laravelpodcast.com'. (_ssl.c:1123)
+https://zofe.com.br/,Zone Of Front-Enders,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://ceritanyadeveloper.com/,Ceritanya Developer Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1123)')) | reason: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1123)
+http://www.fullstackradio.com/,Full Stack Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.stuffmedia.com/techstuff-podcast.htm,TechStuff,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://thecyberwire.com/podcasts/daily-podcast,The CyberWire Daily,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://maratonlinuxero.org,Maratón Linuxero,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://www.datastax.com/resources/distributed-data-show,The Distributed Data Show,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.syfy.com/syfywire/syfy25/podcast-episodes,SYFY25 Origin Stories,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.carbonite.com/podcasts/breach/,Breach,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://podcast.sysca.st/,Syscast Podcast,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://blog.codepen.io/radio/,CodePen Radio,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.talkingcode.com/,Talking Code,https://github.com/ayr-ton/awesome-geek-podcasts#readme,Podcasts error: timeout('timed out') | reason: 

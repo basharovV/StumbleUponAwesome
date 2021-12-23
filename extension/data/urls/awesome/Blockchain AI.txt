@@ -1,35 +1,44 @@
 https://en.wikipedia.org/wiki/Blockchain,Blockchain,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://en.wikipedia.org/wiki/Artificial_intelligence,Artificial Intelligence,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://intuitionfabric.com,Intuition Fabric,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-http://www.trane.ai/,Trane AI,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://en.wikipedia.org/wiki/Machine_learning,Machine Learning,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://www.cortexlabs.ai/,Cortex Labs,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://truebit.io/,TrueBit,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://openmined.org/,OpenMined,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://algorithmia.com/research/ml-models-on-blockchain,Blog post.,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://www.deepbrainchain.org/,DeepBrain Chain,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://effect.ai,Effect.ai,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://aicrypto.ai/,AI Crypto,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://decentralizedml.com/,Decentralized Machine Learning,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://arxiv.org/abs/1904.07349,Deep Learning-Based Consensus,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://numer.ai/,Numerai,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://openmined.org/,OpenMined,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/,Blog post.,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://oceanprotocol.com/,Ocean Protocol,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://www.ravenprotocol.com/,Raven Protocol,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1109/BLOC.2019.8751419,Proof of Deep Learning,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://effect.ai,Effect.ai,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://neuromation.io/,Neuromation,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://thought.live/,Thought Network,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html,How the Blockchain Could Break Big Tech’s Hold on A.I.,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2,How to Actually Combine AI and Blockchain in One Platform,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1145/3366624.3368156,BlockML,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://www.ravenprotocol.com/,Raven Protocol,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://www.napoleonx.ai/,Napoleon X,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2,How to Actually Combine AI and Blockchain in One Platform,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17,Blockchain-based Machine Learning Marketplaces,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://thought.live/,Thought Network,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1109/ACCESS.2020.2981447,Convergence of AI and DLT,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://arxiv.org/abs/2007.15145,Proof of Learning,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://www.matrix.io/,MATRIX AI,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1109/Blockchain.2019.00057,Decentralized and Collaborative AI on Blockchain,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc,The convergence of AI and Blockchain: what’s the deal?,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://cindicator.com/,Cindicator,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://daia.foundation/,Decentralized AI Alliance (DAIA).,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://singularitynet.io/,SingularityNET,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://erasure.xxx/,Erasure,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://bottos.org/,BOTTOS AI,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://www.computable.io/,Computable,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://www.burstiq.com/,BurstIQ,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://blog.synapse.ai/,Synapse AI,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://www.cortexlabs.ai/,Cortex Labs,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 http://cyber.page/,Cyber,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
-https://vytalyx.io/,Vytalyx,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://fetch.ai/,Fetch.ai,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://daia.foundation/,Decentralized AI Alliance (DAIA).,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
 https://neureal.net/,Neureal,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://singularitynet.io/,SingularityNET,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://algorithmia.com/research/ml-models-on-blockchain,Blog post.,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://truebit.io/,TrueBit,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://www.deepbrainchain.org/,DeepBrain Chain,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.3389/fbloc.2020.00023,Hyperparameter Optimization,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1109/TPDS.2021.3056773,Proof of Federated Learning,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://erasure.xxx/,Erasure,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1109/ICBC51069.2021.9461067,Proof of neural architecture,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doc.ai/about,doc.ai,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://www.burstiq.com/,BurstIQ,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+http://starmine.ai/,starmine AI,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://cerebrum.world/,Cerebrum,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://vytalyx.io/,Vytalyx,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.3390/e21080723,Coin.AI,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI
+https://doi.org/10.1109/DAPPCON.2019.00023,WekaCoin,https://github.com/steven2358/awesome-blockchain-ai#readme,Blockchain AI

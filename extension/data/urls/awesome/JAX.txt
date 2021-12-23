@@ -1,0 +1,66 @@
+https://martiningram.github.io/deterministic-advi/,Deterministic ADVI in JAX by Martin Ingram,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://ogb.stanford.edu/kddcup2021/mag240m/,MAG240M-LSC,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://blog.evjang.com/2019/02/maml-jax.html,Meta-Learning in 50 Lines of JAX by Eric Jang,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit,JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2105.08050,Pay Attention to MLPs,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.tensorflow.org/xla,XLA compiler,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2104.03059,Differentiable Patch Selection for Image Recognition,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://ogb.stanford.edu/kddcup2021/,OGB Large-Scale Challenge,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://matpalm.com/blog/evolved_channel_selection/,Evolved channel selection by Mat Kelcey,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://poets-ai.github.io/elegy/,Elegy,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://proceedings.mlr.press/v139/vicol21a.html,Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://blog.evjang.com/2019/07/nf-jax.html,Normalizing Flows in 100 Lines of JAX by Eric Jang,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://colab.research.google.com/github/probml/pyprobml/blob/master/notebooks/jax_intro.ipynb,Introduction to JAX by Kevin Murphy,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2010.11929,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2105.01601,MLP-Mixer: An all-MLP Architecture for Vision,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond,Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/1605.08803,RealNVP,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://implicit-layers-tutorial.org,Deep Implicit Layers,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.nature.com/articles/s41592-019-0598-1,UniRep model,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2002.09018,Second Order Optimization Made Practical,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://matpalm.com/blog/ymxb_pod_slice/,Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://blog.evjang.com/2019/11/jaxpt.html,Differentiable Path Tracing on the GPU/TPU by Eric Jang,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://aclanthology.org/2021.textgraphs-1.7,WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Datase,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/,Writing an MCMC sampler in JAX by Jeremie Coullon,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.nature.com/articles/s41586-021-03819-2,Highly accurate protein structure prediction with AlphaFold,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.youtube.com/watch?v=iDxJxIyzSiM,NeurIPS 2020: JAX Ecosystem Meetup,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2105.12723,Aggregating Nested Transformers,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/,How to add a progress bar to JAX scans and loops by Jeremie Coullon,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://youtu.be/0mVmRHMaOJ4,Introduction to JAX,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://matpalm.com/blog/ensemble_nets,Ensemble networks by Mat Kelcey,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2010.03593,Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://youtu.be/z-WSrQDXkuM,JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://mlsys.org/Conferences/doc/2018/146.pdf,Compiling machine learning programs via high-level tracing. Roy Frostig, Matthew James Johnson, Chris Leary. MLSys 2018.,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2101.04702,Cross-Modal Contrastive Learning for Text-to-Image Generation,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://matpalm.com/blog/ood_using_focal_loss,Out of distribution (OOD) detection by Mat Kelcey,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.reddit.com/r/JAX/,Reddit,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://youtu.be/CecuWGpoztw,Bayesian Programming with JAX + NumPyro — Andy Kitchen,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2103.01946,Fixing Data Augmentation to Improve Adversarial Robustness,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2105.03824,FNet: Mixing Tokens with Fourier Transforms,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/1912.04232,JAX, M.D.: A Framework for Differentiable Physics. Samuel S. Schoenholz, Ekin D. Cubuk. NeurIPS 2020.,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python,JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2006.07733,Bootstrap your own latent: A new approach to self-supervised Learning,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.radx.in/jax.html,Understanding Autodiff with JAX by Srihari Radhakrishna,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://people.eecs.berkeley.edu/~bmild/fourfeat,Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://program-transformations.github.io,Program Transformations for Machine Learning,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2007.04929,Learning Graph Structure With A Finite-State Automaton Layer,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2010.09063,Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. arXiv 2020.,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://sjmielke.com/jax-purify.htm,From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://deepmind.com/blog/article/using-jax-to-accelerate-our-research,Using JAX to accelerate our research by David Budden and Matteo Hessel,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://roberttlange.github.io/posts/2021/02/cma-es-jax/,Evolving Neural Networks in JAX by Robert Tjarko Lange,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2010.12621,Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://www.auai.org/uai2020/proceedings/329_main_paper.pdf,Amortized Bayesian Optimization over Discrete Spaces,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.nature.com/articles/s41567-020-0842-8,Unveiling the predictive power of static structure in glassy systems,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://roberttlange.github.io/posts/2020/03/blog-post-10/,Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/,Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://medium.com/swlh/plugging-into-jax-16c120ec3302,Plugging Into JAX by Nick Doiron,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2104.14421,What Are Bayesian Neural Network Posteriors Really Like?,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2006.16228,Self-Supervised MultiModal Versatile Networks,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/2102.06171,NFNets,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://ogb.stanford.edu/kddcup2021/pcqm4m/,PCQM4M-LSC,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401,Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.biorxiv.org/content/10.1101/622803v1.full,Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/1701.03077,A General and Adaptive Robust Loss Function,https://github.com/n2cholas/awesome-jax#readme,JAX
+http://www.matthewtancik.com/nerf,NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2,ProGen: Language Modeling for Protein Generation,https://github.com/n2cholas/awesome-jax#readme,JAX
+https://arxiv.org/abs/1912.11370,Big Transfer (BiT): General Visual Representation Learning,https://github.com/n2cholas/awesome-jax#readme,JAX

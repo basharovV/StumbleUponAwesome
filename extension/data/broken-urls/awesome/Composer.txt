@@ -1,2 +1,2 @@
-https://getcomposer.org/apidoc/master/index.html,API Documentation,https://github.com/jakoch/awesome-composer#readme,Composer error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://naderman.de/,Nils Adermann (naderman),https://github.com/jakoch/awesome-composer#readme,Composer error: timeout('The read operation timed out') | reason: 
+https://php.cnpkg.org,php.cnpkg.org,https://github.com/jakoch/awesome-composer#readme,Composer error: URLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1123)')) | reason: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1123)
+https://packagist.in/,https://packagist.in/,https://github.com/jakoch/awesome-composer#readme,Composer error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)

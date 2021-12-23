@@ -1,11 +1,10 @@
 https://spoonacular.com/food-api,Spoonacular,https://github.com/jzarca01/awesome-food#readme,Food
 https://www.coursera.org/learn/childnutrition,Child Nutrition and Cooking,https://github.com/jzarca01/awesome-food#readme,Food
 https://developer.edamam.com/,Edamam,https://github.com/jzarca01/awesome-food#readme,Food
-http://www.recipepuppy.com/about/api/,RecipePuppy,https://github.com/jzarca01/awesome-food#readme,Food
 https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry,Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),https://github.com/jzarca01/awesome-food#readme,Food
 https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics-2,Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),https://github.com/jzarca01/awesome-food#readme,Food
-https://www.youtube.com/user/JamieOliver,Jamie Oliver,https://github.com/jzarca01/awesome-food#readme,Food
 https://www.goodreads.com/book/show/13129810-the-4-hour-chef,The 4-hour Chef,https://github.com/jzarca01/awesome-food#readme,Food
+https://www.youtube.com/user/JamieOliver,Jamie Oliver,https://github.com/jzarca01/awesome-food#readme,Food
 https://www.youtube.com/user/ryoya1983,Peaceful Cuisine,https://github.com/jzarca01/awesome-food#readme,Food
 https://www.youtube.com/user/SeonkyoungLongest,Asian at Home,https://github.com/jzarca01/awesome-food#readme,Food
 https://www.goodreads.com/book/show/23360039-how-to-bake-pi,How to bake Pi,https://github.com/jzarca01/awesome-food#readme,Food

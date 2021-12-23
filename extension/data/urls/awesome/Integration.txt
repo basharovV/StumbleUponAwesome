@@ -1,0 +1,202 @@
+https://www.broadcom.com/products/software/api-management,Layer7 API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration,Anypoint Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.redhat.com/en/technologies/jboss-middleware/3scale,Red Hat 3scale API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.akana.com/products/api-platform,Akana API Management Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html,File Transfer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.arcesb.com/integration/,ArcESB,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingMapper.html,Messaging Mapper,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html,Event-Driven Consumer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html,Message Bus,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ControlBus.html,Control Bus,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ReturnAddress.html,Return Address,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html,Canonical Data Model,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.mulesoft.com/platform/api/manager,Anypoint Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://mqtt.org/mqtt-specification/,MQTT,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.asyncapi.com/docs/specifications/v2.0.0,AsyncAPI,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.workato.com/,Workato,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html,Messaging,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageChannel.html,Message Channel,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://aws.amazon.com/api-gateway/api-management/,Amazon API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html,Format Indicator,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html,Normalizer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html,Routing Slip,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/cloud/app-connect,IBM App Connect,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html,Correlation Identifier,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelAdapter.html,Channel Adapter,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.solo.io/products/gloo-edge/,Gloo Edge,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.sensedia.com/api-management-platform,Sensedia API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.w3.org/TR/soap/,SOAP,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html,Remote Procedure Invocation,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://kubemq.io/,KubeMQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/products/ibm-infosphere-master-data-management,IBM InfoSphere Master Data Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/,JDBC,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html,Pipes and Filters,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html,Guaranteed Delivery,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.tibco.com/products/api-management,TIBCO Cloud Mashery,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html,Scatter-Gather,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.axway.com/en/products/amplify-api-management-platform,Amplify API Management Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://aws.amazon.com/amazon-mq,Amazon MQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html,Channel Purger,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageEndpoint.html,Message Endpoint,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://boomi.com/platform,Dell Boomi AtomSphere,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://particular.net/nservicebus,NServiceBus,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html,Shared Database,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/database/technologies/advanced-queuing.html,Oracle AQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://spec.openapis.org/oas/v3.1.0,OpenAPI (ex.Swagger),https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DatatypeChannel.html,Datatype Channel,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://javaee.github.io/jms-spec/,JMS,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html,Idempotent Receiver,https://github.com/stn1slv/awesome-integration#readme,Integration
+http://www.cloveretl.com/,CloverETL,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.redhat.com/en/technologies/jboss-middleware/amq,Red Hat AMQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/middleware/technologies/service-bus.html,Oracle Service Bus,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html,Claim Check,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://tyk.io/api-lifecycle-management/,Tyk API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html,Selective Consumer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html,Message Filter,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DeadLetterChannel.html,Dead Letter Channel,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/450251,Gartner Magic Quadrant for Data Integration Tools,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html,Point-to-Point Channel,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/products/datastage,IBM DataStage,https://github.com/stn1slv/awesome-integration#readme,Integration
+http://openl-tablets.org/,OpenL Tablets,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html,Invalid Message Channel,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://cloud.google.com/pubsub,Google Cloud Pub/Sub,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://spring.io/projects/spring-cloud-gateway,Spring Cloud Gateway,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.jitterbit.com/platform/ipaas,Jitterbit Harmony,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html,Polling Consumer,https://github.com/stn1slv/awesome-integration#readme,Integration
+http://www.w3.org/TR/wsdl20,WSDL,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html,Command Message,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Detour.html,Detour,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.informatica.com/products/master-data-management/multidomain-mdm.html,Informatica Multidomain MDM,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://aws.amazon.com/msk,Amazon MSK,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageHistory.html,Message History,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/cloud/mq,IBM MQ on Cloud,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html,Service Activator,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.informatica.com/products/data-integration/powercenter.html,Informatica PowerCenter,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html,Message,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/performance-management/enterprise-data-management/,Oracle Enterprise Data Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/middleware/technologies/soasuite.html,Oracle SOA Suite,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/cloud/integration,IBM Cloud Integration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://cloud.google.com/apigee,Apigee,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html,Competing Consumers,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.sap.com/products/master-data-governance.html,SAP Master Data Governance,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://appian.com/platform/complete-automation/business-process-management-bpm.html,Appian BPM Suite,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.tibco.com/products/tibco-enterprise-message-service,TIBCO Enterprise Message Service,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ProcessManager.html,Process Manager,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DocumentMessage.html,Document Message,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageDispatcher.html,Message Dispatcher,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://curlie.io,curlie,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html,Smart Proxy,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRouter.html,Message Router,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/468184,Gartner Critical Capabilities for Full Life Cycle API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.softwareag.cloud/site/product/webmethods-api.html,webMethods API,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.redhat.com/en/technologies/jboss-middleware/fuse,Red Hat Fuse,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.informatica.com/products/cloud-integration.html,Informatica Intelligent Cloud Services,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.iron.io/mq,IronMQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://aws.amazon.com/sqs,Amazon SQS,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.automationanywhere.com/,Automation Anywhere,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html,Publish-Subscribe Channel,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DistributionAggregate.html,Composed Message Processor,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html,Splitter,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html,Message Sequence,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://httpie.io,HTTPie,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html,Message Expiration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://docs.microsoft.com/en-us/sql/odbc/reference/odbc-overview,ODBC,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/434187,Gartner Critical Capabilities for Enterprise Integration Platform as a Service,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/RecipientList.html,Recipient List,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/products/business-automation-workflow,IBM Business Automation Workflow,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DurableSubscription.html,Durable Subscriber,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html,Software AG webMethods Integration Server,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html,Content Enricher,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://solace.com/products/platform/cloud/,Solace PubSub+ Cloud,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/TestMessage.html,Test Message,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageStore.html,Message Store,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://insomnia.rest/products/insomnia,Insomnia,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://aws.amazon.com/sns,Amazon SNS,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://businessnetwork.opentext.com/enterprise-data-management/,OpenText Alloy,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.tibco.com/products/tibco-businessworks,TIBCO BusinessWorks,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services,Microsoft SSIS,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html,Message Translator,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentFilter.html,Content Filter,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/DynamicRouter.html,Dynamic Router,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/RequestReply.html,Request-Reply,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.w3.org/TR/xmlschema11-1/,XML Schema,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/integration/application-integration/,Oracle Integration Cloud Service,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://wso2.com/api-manager/,WSO2 API Manager,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/TransactionalClient.html,Transactional Client,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html,Messaging Bridge,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentBasedRouter.html,Content-Based Router,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html,Message Broker,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/middleware/technologies/bpm.html,Oracle BPM Suite,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/EnvelopeWrapper.html,Envelope Wrapper,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Resequencer.html,Resequencer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/464116,Gartner Magic Quadrant for Full Life Cycle API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://cloud.yandex.com/en/services/message-queue,Yandex Message Queue,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.adroitlogic.com/products/ultraesb/,UltraESB,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.alibabacloud.com/product/kafka,Alibaba Cloud Message Queue for Apache Kafka,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.postman.com/product/api-client/,Postman,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/WireTap.html,Wire Tap,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.torryharris.com/products/digitmarket-api-manager-for-api-management,DigitMarket API Manager,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/middleware/technologies/data-integrator.html,Oracle Data Integrator,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html,Event Message,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.snaplogic.com/products/intelligent-integration-platform,SnapLogic Intelligent Integration Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.alibabacloud.com/product/rabbitmq,Alibaba Cloud Message Queue for RabbitMQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.pega.com/products/platform,Pega Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingGateway.html,Messaging Gateway,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://swagger.io/tools/swagger-editor/,Swagger Editor,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gravitee.io/products/api-management,Gravitee.io API Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://cloud.yandex.com/en/services/managed-kafka,Yandex Managed Service for Apache Kafka,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.sap.com/products/process-orchestration.html,SAP Process Orchestration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/cloud/api-connect,IBM API Connect,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/397953,Gartner Magic Quadrant for Enterprise Integration Platform as a Service,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.soapui.org/tools/soapui,SoapUI,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.alibabacloud.com/product/message-service,Alibaba Cloud Message Service,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://wso2.com/integration/,WSO2 Enterprise Integrator,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.arcesb.com/mft/,ArcESB Managed File Transfer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html,Software AG webMethods Hybrid Integration Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.getambassador.io/products/edge-stack/api-gateway/,Ambassador Edge Stack,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.alibabacloud.com/product/mq,AlibabaMQ for Apache RocketMQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201,The Forrester Wave: Enterprise iPaaS,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.tibco.com/products/cloud-integration,TIBCO Cloud Integration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.kafkatool.com,Offset Explorer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.mulesoft.com/platform/anypoint-mq-message-queue,Anypoint MQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.axway.com/en/products/managed-file-transfer,Axway Managed File Transfer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.forrester.com/go?objectid=RES159081,The Forrester Wave: API Management Solutions,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/products/secure-file-transfer,IBM Sterling Secure File Transfer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://apisix.apache.org,Apache APISIX,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://mockoon.com/,Mockoon,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.tibco.com/products/business-process-management,TIBCO BPM Enterprise,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html,Oracle Managed File Transfer,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/465756,Gartner Critical Capabilities for Robotic Process Automation,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.atlasmap.io/,AltasMap,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://konghq.com/products/kong-enterprise,Kong Enterprise,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.uipath.com/product,UiPath,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/292486,Gartner Critical Capabilities for Intelligent Business Process Management Suites,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.mulesoft.com/platform/enterprise-integration,Anypoint Platform,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.drools.org,Drools,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://servicemix.apache.org/,Apache ServiceMix,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/441474,Gartner Magic Quadrant for Robotic Process Automation,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/345694,Gartner Magic Quadrant for Intelligent Business Process Management Suites,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.forrester.com/go?objectid=RES161538,The Forrester Wave: Robotic Process Automation,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.sas.com/en_us/software/data-management.html,SAS Data Management,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.stitchdata.com/,Stitch,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf,AMQP 0-9-1,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.gartner.com/doc/code/464068,Gartner Critical Capabilities for Data Integration Tools,https://github.com/stn1slv/awesome-integration#readme,Integration
+http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html,AMQP 1.0,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.talend.com/products/integrate-data/,Talend Data Integration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.jsonrpc.org/specification,JSON-RPC,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://ballerina.io/,Ballerina,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.workfusion.com/platform/,WorkFusion,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html,Oracle Self-Service Integration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://spring.io/projects/spring-integration,Spring Integration,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.jbpm.org/,jBPM,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://bsonspec.org/,BSON,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.softwareag.com/resources/Master-data-management,Software AG OneData for MDM,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://datatracker.ietf.org/doc/html/rfc4180,CSV,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.teradata.co.uk/Products/Applications/Master-Data-Management,Teradata MDM,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.tibco.com/products/tibco-ebx-software,TIBCO EBX,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://datatracker.ietf.org/doc/html/rfc8259,JSON,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://mosquitto.org/,Eclipse Mosquitto,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.ibm.com/products/mq,IBM MQ,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://developers.google.com/protocol-buffers,Protocol Buffers,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.w3.org/TR/2006/REC-xml11-20060816/,XML,https://github.com/stn1slv/awesome-integration#readme,Integration
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html,Aggregator,https://github.com/stn1slv/awesome-integration#readme,Integration

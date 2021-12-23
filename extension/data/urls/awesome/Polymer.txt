@@ -1,52 +1,50 @@
-https://developers.google.com/web/tools/polymer-starter-kit/,Starter kit,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.webcomponents.org/collection/PolymerElements/data-elements,Data,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN,Polycasts,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.polymer-project.org,,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://atom.io/packages/polymer-snippets,Snippets for Atom editor,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/watch?v=TDpiyrcOO30&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi,Summit 2017,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN,Polycasts,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.webcomponents.org/collection/PolymerElements/layout-elements,Layout,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/watch?v=TDpiyrcOO30&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi,Summit 2017,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://developers.google.com/web/tools/polymer-starter-kit/,Starter kit,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.youtube.com/watch?v=0iM0DZjYGqg&list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ,Summit 2016,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.polymer-project.org,,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.polymer-project.org/2.0/start/toolbox/deploy,Deploy with Firebase,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://plus.google.com/+PolymerProject/,Google+ Profile,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J,Summit 2015,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets,Snippets for Sublime Text editor,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/watch?v=d9tNO3n0RlM,The Web Platform Podcast 46: Polymer 1.0,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/watch?v=cuoZenpQveQ,Google I/O 2017 - Future, Faster: Unlock the Power of Web Components with Polymer,https://github.com/Granze/awesome-polymer#readme,Polymer
-http://stackoverflow.com/questions/tagged/polymer,StackOverflow,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://polymerthemes.com/,Polymer Themes,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/watch?v=fD2As5RmM8Q,Google I/O 2015 - Polymer and modern web APIs: In production at Google scale,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J,Summit 2015,https://github.com/Granze/awesome-polymer#readme,Polymer
 http://builtwithpolymer.org/,Built with Polymer,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.npmjs.com/package/generator-element,Generator element,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.polymer-project.org/1.0/docs/migration.html,Migration guide,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://plus.google.com/u/1/communities/115626364525706131031,Google+ Community,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://youtu.be/7WgEuNZCCHk,Componentize your app with Polymer Elements,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/Polymer/elements,Elements Catalog,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/watch?v=d9tNO3n0RlM,The Web Platform Podcast 46: Polymer 1.0,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://plus.google.com/+PolymerProject/,Google+ Profile,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/watch?v=cuoZenpQveQ,Google I/O 2017 - Future, Faster: Unlock the Power of Web Components with Polymer,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/watch?v=fD2As5RmM8Q,Google I/O 2015 - Polymer and modern web APIs: In production at Google scale,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://webcomponents.org/,Webcomponents.org,https://github.com/Granze/awesome-polymer#readme,Polymer
+http://stackoverflow.com/questions/tagged/polymer,StackOverflow,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.polymer-project.org/1.0/docs/migration.html,Migration guide,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://youtu.be/7WgEuNZCCHk,Componentize your app with Polymer Elements,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://plus.google.com/u/1/communities/115626364525706131031,Google+ Community,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm,Learn Polymer 1.0,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/PolymerElements/iron-elements,Iron,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-,Level up Tutorials,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.npmjs.com/package/generator-element,Generator element,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app,Build a real-time to-do app,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/PolymerElements/paper-elements,Paper,https://github.com/Granze/awesome-polymer#readme,Polymer
 http://component.kitchen/,Components Kitchen,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://codelabs.developers.google.com/polymer-summit,Official Codelabs,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/Polymer/elements,Elements Catalog,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-,Level up Tutorials,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/PolymerElements/iron-elements,Iron,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/PolymerElements/paper-elements,Paper,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components,Google web components,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/PolymerElements/gold-elements,Gold,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.polymer-project.org/2.0/docs/tools/tests,Test your elements,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/PolymerElements/platinum-elements,Platinum,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6,Polymer 3.0 Preview — Building a mini card game,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/PolymerElements/molecules,Molecules,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.polymer-project.org/2.0/toolbox/,App Toolbox,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64,Testing Tips,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://www.webcomponents.org/collection/PolymerElements/app-elements,App,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.polymer-project.org/2.0/docs/tools/tests,Test your elements,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/PolymerElements/gold-elements,Gold,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/PolymerElements/platinum-elements,Platinum,https://github.com/Granze/awesome-polymer#readme,Polymer
 http://polygit.org/,Polygit,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/PolymerElements/molecules,Molecules,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.webcomponents.org/collection/PolymerElements/app-elements,App,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk,Polymer Ready,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64,Testing Tips,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6,Polymer 3.0 Preview — Building a mini card game,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.polymer-project.org/1.0/articles/routing.html,Encapsulated Routing with Elements,https://github.com/Granze/awesome-polymer#readme,Polymer
-https://medium.com/@granze/polymer-unit-testing-d6a69910dc31,Unit Testing,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.polymer-project.org/1.0/articles/es6.html,Building web components using ES6 classes,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://polymerthemes.com/,Polymer Themes,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://medium.com/@granze/polymer-unit-testing-d6a69910dc31,Unit Testing,https://github.com/Granze/awesome-polymer#readme,Polymer
 http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html,Live-reload for Polymer Chrome Apps,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://aerotwist.com/blog/polymer-for-the-performance-obsessed/,Polymer for the Performance-obsessed,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://www.polymer-project.org/1.0/articles/shadydom.html,What is shady DOM,https://github.com/Granze/awesome-polymer#readme,Polymer
-http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/,Using Polymer webcomponents with Angular JS,https://github.com/Granze/awesome-polymer#readme,Polymer
 http://addyosmani.github.io/webcomponent-samples/polymer/modules/,Dynamically Loading Elements & ES6 Modules,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://developers.google.com/web/showcase/case-study/net-a-porter,NET-A-PORTER case study,https://github.com/Granze/awesome-polymer#readme,Polymer
 https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15,How to use Polymer with Webpack,https://github.com/Granze/awesome-polymer#readme,Polymer

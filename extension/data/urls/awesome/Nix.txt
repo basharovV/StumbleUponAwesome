@@ -1,0 +1,18 @@
+https://ianthehenry.com/posts/how-to-learn-nix/,How to Learn Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://cgit.krebsco.de/krops/about/,krops,https://github.com/nix-community/awesome-nix#readme,Nix
+https://terranix.org,terranix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.org/nixos/nix-pills/,Nix Pills,https://github.com/nix-community/awesome-nix#readme,Nix
+https://cachix.org/,Cachix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nix.dev/,nix.dev,https://github.com/nix-community/awesome-nix#readme,Nix
+https://python-poetry.org/,Poetry's,https://github.com/nix-community/awesome-nix#readme,Nix
+https://discord.gg/BMUCQx6,Discord - Nix/Nixos (Unofficial),https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixcloud.io/tour,Tour of Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://discourse.nixos.org/,Discourse,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixcon.org/,NixCon,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.wiki,Wiki (Unofficial),https://github.com/nix-community/awesome-nix#readme,Nix
+https://search.nix.gsc.io,Hound,https://github.com/nix-community/awesome-nix#readme,Nix
+https://pkgs.on-nix.com/,Pkgs on Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://weekly.nixos.org/,NixOS Weekly,https://github.com/nix-community/awesome-nix#readme,Nix
+https://channels.nix.gsc.io,Channel History,https://github.com/nix-community/awesome-nix#readme,Nix
+https://status.nixos.org,Nix Infra Status,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixpk.gs/pr-tracker.html,nixpkgs PR tracker,https://github.com/nix-community/awesome-nix#readme,Nix

@@ -1,39 +1,42 @@
-https://play.google.com/store/apps/details?id=com.livingabook.darkforest,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-http://tmn.github.io/FuseBus/,FuseBus,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/community/forums,Forums,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/docs/tutorial/tutorial,Fuse's end-to-end tutorial,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145,(​iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/,,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://medium.com/@fusetools/latest,Blog,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/hk/app/cityu-minerals/id1164394395,(iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://play.google.com/store/apps/details?id=com.livingabook.darkforest,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/docs/technical-corner/fuse-protocol,Plugin API,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+http://tmn.github.io/FuseBus/,FuseBus,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/mx/app/the-monster-and-the-cat/id726779970,(​iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369,20,000 Leagues Under The Sea,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/community/forums,Forums,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://itunes.apple.com/us/app/cityu-mobile/id750718911,(iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://medium.com/@fusetools,Medium,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://play.google.com/store/apps/details?id=hk.edu.cityu.mobile,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-http://htgame.uk,HatTrick,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://bitbucket.org/uzeidurs/fuse-infinite-scroll/,Infinite Scroll,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488,(​iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://slackcommunity.fusetools.com/,Slack,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 http://www.amphi-festival.de/,Amphi Festival 2017,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.youtube.com/channel/UCPizp_2dBkLlXRFnbieG3Qw/feed,YouTube,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/docs/tutorial/tutorial,Fuse's end-to-end tutorial,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://medium.com/@fusetools,Medium,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://bitbucket.org/uzeidurs/fuse-infinite-scroll/,Infinite Scroll,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/us/app/klickle/id873427610,Klickle,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://play.google.com/store/apps/details?id=com.ConradWise,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/docs,Developer Guides,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/examples,Examples,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.npmjs.com/package/slush-xfuse,slush-xfuse,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/docs/features,Features Status,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://play.google.com/store/apps/details?id=com.littleboat.gig,Gig,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://bitbucket.org/uzeidurs/fuse-snake/,Snake,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/docs/packages,Packages,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://slackcommunity.fusetools.com/,Slack,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 http://gbgbeerweek.se/,Beer Week,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96,A sane way of mixing languages in Fuse,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://livingabook.com,Criminal Mind,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://www.fusetools.com/docs/technical-corner/fuse-protocol,Plugin API,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax,Fuse Language,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://itunes.apple.com/us/app/klickle/id873427610,Klickle,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649,BPMTap,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals,CityU Minerals,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.youtube.com/channel/UCPizp_2dBkLlXRFnbieG3Qw/feed,YouTube,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://myopportunity.com/,Opportunity,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.npmjs.com/package/slush-xfuse,slush-xfuse,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/docs,Developer Guides,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649,BPMTap,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://livingabook.com,Criminal Mind,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://bitbucket.org/uzeidurs/fuse-snake/,Snake,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533,(​iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/examples,Examples,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775,(​iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax,Fuse Language,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 https://medium.com/@fusetools/fuse-foreign-speech-c4d888b505ec,Fuse Foreign Speech,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://itunes.apple.com/hk/app/cityu-minerals/id1164394395,(iOS),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp,(Android),https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/,How to add infinite scrolling to fuse tools apps,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/docs/features,Features Status,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://www.fusetools.com/docs/packages,Packages,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 http://abduzeedo.com/interview-anders-lassen-fuse,Interview with Anders Lassen from Fuse,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
 http://abduzeedo.com/,Abduzeedo,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
-https://medium.com/@fusetools/latest,Blog,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+http://7sharpnine.com/2016/06/03/light-the-fuse/,Light the fuse, using F# to write Fuse apps,https://github.com/fuse-compound/awesome-fuse#readme,Fuse

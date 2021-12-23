@@ -1,35 +1,32 @@
 https://www.youtube.com/watch?v=va-JzrmaiUM,Adding Storybook Style Guide to a Create React App,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://storybook.js.org,,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://www.youtube.com/watch?v=_jttw14T52o,Build your components with Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8,Storybook 5.0,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://airbnb.io/react-dates/,Airbnb (react-dates),https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a,Storybook Docs sneak peek,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://storybook.js.org,,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347,Real-time accessibility testing with Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://mashmatrix.github.io/react-lightning-design-system/,Salesforce Design System,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://davidyeiser.com/tutorials/storybook-react-with-dark-mode,Storybook React with Full Dark Mode Integration,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://auth0-cosmos.now.sh/sandbox/,Auth0 Design System,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://www.youtube.com/watch?v=zMpSwo03aKo,Storybook, le playground qu'il vous faut pour vos composants UI! (FR),https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/,AXA France Design System,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8,Storybook 5.0,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://auth0.com/blog/using-storybook-with-vuejs/,Using Storybook with VueJS,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://www.youtube.com/watch?v=E2c183LS4lA,React Storybook Tutorial with Examples - Getting Started with React Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://www.youtube.com/watch?v=PF0Vi-iIyoo,React Storybook: Design, Dev, Doc, Debug Components - React Conf 2017,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://www.youtube.com/watch?v=XN398jfTwQI,VueNYC - Learn Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347,Real-time accessibility testing with Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://storybook.js.org/docs/basics/introduction/,Documentation,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://lauthieb.github.io,Laurent Thiebault,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://auth0.com/blog/using-storybook-with-vuejs/,Using Storybook with VueJS,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://storybook.js.org/use-cases/,Use cases,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://storybook.js.org/team/,Team,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o,How I manage to make my Storybook project the most efficient possible,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://www.apideck.design/,Apideck Components,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://www.iamdeveloper.com/posts/setting-up-storybook-for-preact-p5a/,Setting up Storybook for Preact,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://discordapp.com/invite/UUt2PJb,Discord,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/,Setting up a Component Library with React and Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://storybook.js.org/addons/,Addon Page,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o,How I manage to make my Storybook project the most efficient possible,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://medium.com/storybookjs/storybook-5-2-794958b9b111,Storybook 5.2,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://medium.com/storybookjs,Medium,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od,Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React),https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://medium.com/storybookjs/storybook-docspage-e185bc3622bf,Storybook DocsPage,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od,Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React),https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06,Storybook vs Styleguidist,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://spin.atomicobject.com/2017/11/20/storybook-tests-react/,Five Reasons to Use Storybook Tests,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://storybook.js.org/team/,Team,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://discordapp.com/invite/UUt2PJb,Discord,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://medium.com/storybookjs,Medium,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://dev.to/t/storybook,DEV.to,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://storybooks-official.netlify.com,Design system,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06,Storybook vs Styleguidist,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://www.learnstorybook.com/,Learn Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
-https://spin.atomicobject.com/2017/11/20/storybook-tests-react/,Five Reasons to Use Storybook Tests,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://primer.github.io/storybook/,GitHub Design System,https://github.com/lauthieb/awesome-storybook#readme,Storybook
+https://www.learnstorybook.com/,Learn Storybook,https://github.com/lauthieb/awesome-storybook#readme,Storybook
 https://dzone.com/articles/practical-guide-to-storybook-driven-development,Practical Guide to Storybook-Driven Development,https://github.com/lauthieb/awesome-storybook#readme,Storybook

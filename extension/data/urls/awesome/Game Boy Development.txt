@@ -1,141 +1,161 @@
-http://www.z80.info/z80gboy.txt,Differences between the Z80 and the gameboy's processor,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art14.html,Mobile Adapter GB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://dhole.github.io/post/gameboy_cartridge_rw_1/,Programming Game Boy Chinese cartridges with an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter,Mobile Game Boy Adapter,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gekkio.fi/files/mooneye-gb/latest/,Gekkio's test roms,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://discord.gg/gpBxq85,Join us on Discord,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://rednex.github.io/rgbds/gbz80.7.html,RGBDS opcodes reference,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 https://shonumi.github.io/articles/art2.html,The Game Boy Printer,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.codeslinger.co.uk/pages/projects/gameboy.html,Codeslinger,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gameboy.mongenel.com/dmg/istat98.txt,STAT interrupt timings,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.devrs.com/gb/hmgd/intro.html,Harry Mulder's GB Development,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://sebastianmihai.com/main.php?t=18&,Burly Bear vs. The Mean Foxes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://imgur.com/a/D5bpC,Cartridges PCB photos,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gbdev.github.io/gb-opcodes/optables/,gb-opcodes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.personal.triticom.com/~erm/GameBoy/,Game Boy home of Flavor,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://nectaris.tg-16.com/GB-KISS-LINK-FAQ-hudson-gameboy-nectaris.html,GB KISS LINK MODEM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art13.html,Pocket Sonar,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy,Making Art for the Game Boy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://sebastianmihai.com/main.php?t=55&n=Gameboy-Color-development-Burly-Bear-vs-The-Mean-Foxes-GBC-version,GBC,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://bgb.bircd.org/,BGB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://blog.rekawek.eu/2017/02/09/coffee-gb/,Why did I spend 1.5 months creating a Gameboy emulator?,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://catskull.net/GB-Logo-Generator/,ROM Header Utility,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://tilde.town/~minerobber/techwriteups/pokemonpc.html,Pokemon Pocket Computer:,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://fms.komkon.org/GameBoy/Tech/Carts.html,MBC1 and MBC2 cartridges circuits,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://tasvideos.org/EmulatorResources/GBAccuracyTests.html,GB Accuracy Tests,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://rednex.github.io/rgbds/gbz80.7.html,RGBDS opcodes reference,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art8.html,Zok Zok Heroes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://devrs.com/gb,devrs.com/gb,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gbdev.github.io/list.html,here,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://binji.github.io/2017/12/31/binjgb-rewind.html,binjgb rewind,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://dhole.github.io/post/gameboy_custom_logo/,Booting the Game Boy with a custom logo,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gekkio.fi/blog/2015-02-14-mooneye-gb-gameboy-cartridge-types.html,Gekkio's Game Boy cartridge types,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://atom.io/packages/language-rgbasm,Atom language package for RGBASM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://rednex.github.io/rgbds/,Documentation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/,GBDK Configuring and Programming Tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art11.html,Infrared Madness,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.tensi.eu/thomas/programming/gameboy/gbextended.html,GBExtended,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.youtube.com/playlist?list=PLu3xpmdUP-GRDp8tknpXC_Y4RUQtMMqEu,The Game Boy, a hardware autopsy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html,Game Boy cartridge PCB photos,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html,binjgb on the web,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.huderlem.com/demos/gameboy2bpp.html,Gameboy 2BPP Graphics Format,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art9.html,Game Boy 4-Player Adapter,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo,GBDK Programming Video Tutorials,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.villehelin.com/wla.txt,Documentation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.dotmatrixgame.com/,Dot Matrix Game Editor,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html,(Part 2),https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://dhole.github.io/post/gameboy_cartridge_emu_1/,Emulating a GameBoy Cartridge,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gekkio.fi/blog/2015-05-18-mooneye-gb-cartridge-analysis-dmg-bean-02.html,DMG-BEAN-02,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.youtube.com/watch?v=GBYwjch6oEE,Reverse Engineering fine details of Game Boy hardware,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html,Reverse engineering Kirby's Dreamland 2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art7.html,Barcode Boy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://media.ccc.de/v/33c3-8029-the_ultimate_game_boy_talk,The Ultimate Game Boy Talk,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://pdroms.de/news/gameboy/,pdroms.de,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://tcrf.net/Game_Boy_Color_Bootstrap_ROM,Bootstrap ROM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://binji.github.io/2017/05/03/debugging-hangs.html,binjgb debugging hangs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/,part 1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gbdk.sourceforge.net/,GBDK,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://make.vg/brewtool/,brewtool,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gbhh.avivace.com,Homebrew Hub,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.happydaze.se/wolf/,Wolf,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gekkio.fi/blog/2018-02-05-errata-for-reverse-engineering-fine-details-of-game-boy-hardware.html,errata,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles/art6.html,Barcode Taisen Bardigun,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gbdk.sourceforge.net/doc/gbdk-doc.pdf,Documentation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.vim.org/scripts/script.php?script_id=819,Vim syntax file for the Game Boy assembler RGBASM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gekkio.fi/blog/2015-05-17-mooneye-gb-cartridge-analysis-fortress-of-fear.html,MBC1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://chat.efnet.org/?channels=gbdev,IRC Channel,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html,Decoding Gameboy Z80 opcodes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://blog.ryanlevick.com/DMG-01/public/book/,DMG-01,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://bitbucket.org/HellSuffering/retr0-gb/,Retr0 GB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://hhug.me,Handheld Underground,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2,Reverse Engineering a Gameboy ROM with radare2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM,Unused Palettes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://bitbucket.org/Sanqui/snake/src/?at=master,Snake,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gbdev.gg8.se/forums/,Forum,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm,Beginner's Guide to Reverse Engineering GB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/,Porting a GO Game Boy emulator to WebAssembly,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gekkio.fi/blog/2015-02-28-mooneye-gb-cartridge-analysis-tetris.html,no MBC,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gitlab.com/BonsaiDen/gbasm-rs,gbasm-rs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/,Creating photo realistic images with neural networks and a Gameboy Camera,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator,Oh Boy! Creating a Game Boy Emulator in Rust,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/,part 2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge,Post,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.tni.nl/products/tniasm.html,tniASM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://voidptr.io/blog/2017/01/21/GameBoy.html,FlappyBoy: Making a simple Game Boy Game,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.youtube.com/watch?v=43FfJvd-YP4,Ben Heck Reverse Engineers Game Boy Printer,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://fuji.drillspirits.net/?post=87,Nintendo's fake logos,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gbdev.gg8.se/wiki/articles/DMG_Schematics,DMG Schematics,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://imrannazar.com/gameboy-Emulation-in-JavaScript,Building a Game Boy emulator in JavaScript,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://mitxela.com/projects/swotgb/about,About swotGB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gitlab.com/BonsaiDen/vectroid.gb,vectroid.gb,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://wiki.tauwasser.eu/view/MBC1,MBC1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.gg8.se/forums/viewtopic.php?id=743,Black Castle,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://nectaris.tg-16.com/GB-KISS-LINK-FAQ-hudson-gameboy-nectaris.html,GB KISS LINK MODEM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art13.html,Pocket Sonar,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 https://eldred.fr/gb-asm-tutorial,gb asm tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/,Disassembling Link's Awakening,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8&sandbox=1,Work Master OS,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://reinerziegler.de.mirrors.gg8.se/,Reiner Ziegler's Game Boy page,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://marc.rawer.de/Gameboy/Docs/GBProject.pdf,The Game Boy Project,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://bgb.bircd.org/,BGB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gameboy.mongenel.com/asmschool.html,ASMSchool,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gbdev.github.io/pandocs/,Pan Docs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://cturt.github.io/cinoop.html,Writing a Game Boy emulator, Cinoop,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://wiki.tauwasser.eu/view/MBC2,MBC2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gbdev.gg8.se/files/roms/blargg-gb-tests/,Blargg's test roms,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html,Super Game Boy development,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador%20%5BLa%20decadence%5D.html,Assembly tutorial by David Pello,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html,here,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.gbstudio.dev/,GB Studio,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://pepijndevos.nl/sha2017/workshop.pdf,Introduction to Game Boy Hacking,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://jeremybanks.github.io/0dmg/2018/05/23/getting-started.html,0dmg,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gekkio.fi/files/gb-docs/gbctr.pdf,Complete Technical Reference,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://wiki.tauwasser.eu/view/MMM01,MMM01,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://verhoeven272.nl/fruttenboel/Gameboy/index.html,fruttenboel,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://peterwynroberts.com/?p=10,GameBoy programming tutorial: Hello World!,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.devrs.com/gb/files/faqs.html,gbdev FAQs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.its.caltech.edu/~costis/sgb_hack/,Dumping the Super Game Boy Boot ROM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.devrs.com/gb/files/gb.html,Game Boy Cartridges Schematics,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://gbhwdb.gekkio.fi/,Game Boy hardware database,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.tensi.eu/thomas/programming/gameboy/loderunner.html,loderunner,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://realboyemulator.wordpress.com/posts/,RealBoy Emulator,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz,Making an Empty Game Boy ROM (in Wiz),https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://exez.in/gameboy-dma,OAM DMA tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gbdev.gg8.se/files/,Archive of related files,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/dandocs.html,Dan Docs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.neviksti.com/DMG/DMG_ROM.asm,Game Boy Bootrom,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://shonumi.github.io/articles.html,Edge of Emulation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/,Hives,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://discord.gg/tKGMPNr,Join us on Discord,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://binji.github.io/2017/12/31/binjgb-rewind.html,binjgb rewind,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art8.html,Zok Zok Heroes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://emulicious.net/,Emulicious,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html,binjgb on the web,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gekkio.fi/blog/2015-02-14-mooneye-gb-gameboy-cartridge-types.html,Gekkio's Game Boy cartridge types,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.io/guides/tools.html,Choosing tools for Game Boy development,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art11.html,Infrared Madness,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html,Game Boy cartridge PCB photos,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://www.devrs.com/gb/asmcode.php,dev'rs ASM section,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://archive.org/download/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf,Game Boy Programming Manual,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html,(Part 2),https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger,VS Code debug adapter,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://drludos.itch.io/dmg-deals-damage,DMG Deals Damage,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://makrill.itch.io/death-planet,Death Planet,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art9.html,Game Boy 4-Player Adapter,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://dhole.github.io/post/gameboy_cartridge_emu_1/,Emulating a GameBoy Cartridge,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://binji.github.io/2017/05/03/debugging-hangs.html,binjgb debugging hangs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.huderlem.com/demos/gameboy2bpp.html,Gameboy 2BPP Graphics Format,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://tcrf.net/Game_Boy_Color_Bootstrap_ROM,Bootstrap ROM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gekkio.fi/blog/2015-05-18-mooneye-gb-cartridge-analysis-dmg-bean-02.html,DMG-BEAN-02,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art7.html,Barcode Boy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.youtube.com/watch?v=GBYwjch6oEE,Reverse Engineering fine details of Game Boy hardware,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html,here,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador_la_decadence.html,Assembly tutorial by David Pello,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html,Decoding Gameboy Z80 opcodes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://user0x7f.itch.io/black-castle,itch.io,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/,part 1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art6.html,Barcode Taisen Bardigun,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://rgbds.gbdev.io/docs/,Documentation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt,Nitty Gritty Gameboy Cycle Timing,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf,Game Boy Project Report,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://web.archive.org/web/20191106010059/http://belial.blarzwurst.de/gbpaper/paper.pdf,8-Bit Wonderland,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/,Mode3 Sprite Timing,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://web.archive.org/web/*/http://www.gatesboy.com/,Gatesboy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt,GameBoy Color DMA-Transfers v0.0.1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://pastebin.com/F3tHLj68,How to Write a Simple Side Scrolling Game,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://youtube.com/watch?v=1lzHfLYzyRM,Digitized Speech in Game Boy Games,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://dhole.github.io/post/gameboy_serial_1/,Sniffing Game Boy serial traffic with an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-http://pastebin.com/gzT47MPJ,Just another simple tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://dhole.github.io/post/gameboy_serial_2/,Virtual Game Boy Printer with an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gekkio.fi/blog/2018-02-05-errata-for-reverse-engineering-fine-details-of-game-boy-hardware.html,errata,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/,Porting a GO Game Boy emulator to WebAssembly,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gekkio.fi/blog/2015-05-17-mooneye-gb-cartridge-analysis-fortress-of-fear.html,MBC1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/,GBDK Tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
-https://dhole.github.io/post/gameboy_serial_3/,Printing on the Game Boy Printer using an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.gg8.se/forums/viewtopic.php?id=674,Genesis,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.villehelin.com/wla.txt,Documentation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://makrill.itch.io/quartet,Quartet,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://rylev.github.io/DMG-01/public/book/,DMG-01,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/,Creating photo realistic images with neural networks and a Gameboy Camera,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://kadabura.itch.io/soul-void,Soul Void,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html,API docs: Getting Started,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM,Unused Palettes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://bitbucket.org/HellSuffering/retr0-gb/,Retr0 GB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gekkio.fi/blog/2015-02-28-mooneye-gb-cartridge-analysis-tetris.html,no MBC,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.youtube.com/watch?v=43FfJvd-YP4,Ben Heck Reverse Engineers Game Boy Printer,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/,Mode3 Sprite Timing,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial,GBDK Sprite,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html,Documentation, links and tools,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.happydaze.se/wolf/,Wolf,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://mitxela.com/projects/swotgb/about,About swotGB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator,Oh Boy! Creating a Game Boy Emulator in Rust,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz,Making an Empty Game Boy ROM (in Wiz),https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.tensi.eu/thomas/programming/gameboy/gbextended.html,GBExtended,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://wiki.tauwasser.eu/view/MBC1,MBC1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gbdev.gg8.se/wiki/articles/DMG_Schematics,DMG Schematics,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://user0x7f.itch.io/genesis,itch.io,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://imrannazar.com/gameboy-Emulation-in-JavaScript,Building a Game Boy emulator in JavaScript,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gbdev.gg8.se/files/roms/blargg-gb-tests/,Blargg's test roms,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.dotmatrixgame.com/,Dot Matrix Game Editor,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial,GBDK Color,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://wiki.tauwasser.eu/view/MBC2,MBC2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://snorpung.itch.io/dangan-gb,Dangan,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://izma.itch.io/deadeus,Deadeus,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://cturt.github.io/cinoop.html,Writing a Game Boy emulator, Cinoop,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://wiki.tauwasser.eu/view/MMM01,MMM01,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://atom.io/packages/language-rgbasm,Atom language package for RGBASM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://catskull.net/GB-Logo-Generator/,ROM Header Utility,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy,Making Art for the Game Boy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
 http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial,GBDK Joypad,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter,Mobile Game Boy Adapter,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://antonylavelle.itch.io/indestructotank-gb,Indestructo Tank!,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.devrs.com/gb/files/gb.html,Game Boy Cartridges Schematics,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gekkio.fi/files/mooneye-gb/latest/,Gekkio's test roms,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://marc.rawer.de/Gameboy/Docs/GBProject.pdf,The Game Boy Project,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/,part 2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.devrs.com/gb/hmgd/intro.html,Harry Mulder's GB Development,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://imgur.com/a/D5bpC,Cartridges PCB photos,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge,Post,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://fuji.drillspirits.net/?post=87,Nintendo's fake logos,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://verhoeven272.nl/fruttenboel/Gameboy/index.html,fruttenboel,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://lumpytouch.itch.io/super-impostor-bros,SUPER IMPOSTOR BROS.,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://make.vg/brewtool/,brewtool,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html,Super JetPak DX,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbhwdb.gekkio.fi/,Game Boy hardware database,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://reinerziegler.de.mirrors.gg8.se/,Reiner Ziegler's Game Boy page,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/dandocs.html,Dan Docs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://pepijndevos.nl/sha2017/workshop.pdf,Introduction to Game Boy Hacking,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles.html,Edge of Emulation,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://shonumi.github.io/articles/art14.html,Mobile Adapter GB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.devrs.com/gb/files/faqs.html,gbdev FAQs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.vim.org/scripts/script.php?script_id=819,Vim syntax file for the Game Boy assembler RGBASM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html,Reverse engineering Kirby's Dreamland 2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://aiguanachein.itch.io/powa,Powa!,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm,Beginner's Guide to Reverse Engineering GB,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://web.archive.org/web/20171002042716/http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=6823,Novascape,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.neviksti.com/DMG/DMG_ROM.asm,Game Boy Bootrom,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://packagecontrol.io/packages/RGBDS,sublime-rgbds,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://voidptr.io/blog/2017/01/21/GameBoy.html,FlappyBoy: Making a simple Game Boy Game,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.z80.info/z80gboy.txt,Differences between the Z80 and the gameboy's processor,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://daid.github.io/rgbds-live/,RGBDS-Live,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2,Reverse Engineering a Gameboy ROM with radare2,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://thegreatgallus.itch.io/cavern-mvm-9,Cavern,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://pastebin.com/F3tHLj68,How to Write a Simple Side Scrolling Game,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.atari2600land.com/gameboy/oranges.html,oranges,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.tensi.eu/thomas/programming/gameboy/loderunner.html,loderunner,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://pastebin.com/gzT47MPJ,Just another simple tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gitlab.com/BonsaiDen/gbasm-rs,gbasm-rs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://web.archive.org/web/20210427064949/www.personal.triticom.com/~erm/GameBoy/,Game Boy home of Flavor,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/,Disassembling Link's Awakening,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://ctneptune.itch.io/mona-and-the-witchs-hat-dx,Mona and the Witch's Hat Deluxe,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.tni.nl/products/tniasm.html,tniASM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html,Super Game Boy development,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.io/articles/dma_hijacking,DMA hijacking,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/,Hives,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://ekeler.com/game-boy-camera-canon-ef-mount,Game Boy Camera Canon EF Lens Mount,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/,GameBoy programming tutorial: Hello World!,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/,GBDK Configuring and Programming Tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gamejolt.com/games/the-bouncing-ball-gb/86699,The Bouncing Ball,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://sebastianmihai.com/gameboy-burly-bear.html,Burly Bear vs. The Mean Foxes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.gg8.se/wiki/articles/OAM_DMA_tutorial,OAM DMA tutorial,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://sebastianmihai.com/gameboy-color-burly-bear.html,GBC,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo,GBDK Programming Video Tutorials,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8&sandbox=1,Work Master OS,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.thingiverse.com/thing:4337362,Game Boy Camera to Canon Lens mount,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.its.caltech.edu/~costis/sgb_hack/,Dumping the Super Game Boy Boot ROM,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://bbbbbr.itch.io/petris,itch.io,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://bitbucket.org/Sanqui/snake/src/?at=master,Snake,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://gbdev.gg8.se/files/,Archive of related files,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gitlab.com/BonsaiDen/vectroid.gb,vectroid.gb,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://devrs.com/gb,devrs.com/gb,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://www.youtube.com/playlist?list=PLu3xpmdUP-GRDp8tknpXC_Y4RUQtMMqEu,The Game Boy, a hardware autopsy,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://pdroms.de/news/gameboy/,pdroms.de,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://hhug.me,Handheld Underground,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://media.ccc.de/v/33c3-8029-the_ultimate_game_boy_talk,The Ultimate Game Boy Talk,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.io/chat,Chat channels,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.gg8.se/forums/,Forum,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.github.io/pandocs/,Pan Docs,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbstudiocentral.com/resources/,Resources to get started,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gekkio.fi/files/gb-docs/gbctr.pdf,Complete Technical Reference,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://discord.gg/knRryZWGcm,Dedicated Discord,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf,Game Boy Project Report,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://realboyemulator.wordpress.com/posts/,RealBoy Emulator,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://youtube.com/watch?v=1lzHfLYzyRM,Digitized Speech in Game Boy Games,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+http://www.codeslinger.co.uk/pages/projects/gameboy.html,Codeslinger,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://dhole.github.io/post/gameboy_serial_1/,Sniffing Game Boy serial traffic with an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://gbdev.github.io/gb-opcodes/optables/,gb-opcodes,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://dhole.github.io/post/gameboy_serial_2/,Virtual Game Boy Printer with an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://dhole.github.io/post/gameboy_serial_3/,Printing on the Game Boy Printer using an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://dhole.github.io/post/gameboy_cartridge_rw_1/,Programming Game Boy Chinese cartridges with an STM32F4,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://tilde.town/~minerobber/techwriteups/pokemonpc.html,Pokemon Pocket Computer:,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development
+https://dhole.github.io/post/gameboy_custom_logo/,Booting the Game Boy with a custom logo,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development

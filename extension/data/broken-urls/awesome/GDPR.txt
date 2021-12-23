@@ -1,0 +1,1 @@
+https://www.gdprtoday.org/,GDPR Today,https://github.com/bakke92/awesome-gdpr#readme,GDPR error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)

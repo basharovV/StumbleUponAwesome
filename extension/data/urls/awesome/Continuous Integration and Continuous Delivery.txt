@@ -1,120 +1,122 @@
-http://nginx.org,nginx,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.cloudbees.com/,cloudbees,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://maven.apache.org,maven,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.cicdops.com,cicdops.com,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.mercurial-scm.org/,mercurial,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://monkeytest.it,Monkey Test It,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.kinook.com/VisBuildPro/,VisualBuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://ci.testling.com,testling,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://jazz.net/downloads/rational-build-forge/,BuildForge,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://gradle.org/,gradle,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://deepfence.io,Deepfence Enterprise,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://subversion.apache.org,svn,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://archiva.apache.org/index.cgi,archiva,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.dbmaestro.com/,dbmaestro,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://checkstyle.sourceforge.net,checkstyle,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://httpd.apache.org,apache,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://martinfowler.com/articles/continuousIntegration.html,continuousIntegration,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://nginx.org,nginx,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://electric-cloud.com/products/electricflow/,ElectricFlow,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://bintray.com,bintray,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://electric-cloud.com/products/electricaccelerator,ElectricacCelerator,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/Dynamic_program_analysis,dynamic tools wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://continuousdelivery.com,continuousdelivery,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://tomcat.apache.org,tomcat,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://magnum-ci.com,magnum-ci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://elasticbox.com,elasticbox,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.univa.com,UGE,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/System_integration,software integration,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.infoq.com,infoq,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.scala-sbt.org/index.html,SBT,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.eclipse.org/jetty/,jetty,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.installshield.com,installshield,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis,static tools wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.jetbrains.com/teamcity/index.html,Teamcity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.cruisecontrolnet.org,cruisecontrol,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://xebialabs.com/products/xl-release,sl-release,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://gridscheduler.sourceforge.net,SGE,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://stackoverflow.com,stackoverflow,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://jazz.net/downloads/rational-build-forge/,BuildForge,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://valgrind.org,valgrind,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.eclipse.org/jetty/,jetty,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://magnum-ci.com,magnum-ci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.cloudbees.com/,cloudbees,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://devopssummit.sys-con.com,devops submit,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/List_of_performance_analysis_tools,performance tools wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://www.haproxy.org/,HAProxy,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.kinook.com/VisBuildPro/,VisualBuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.cicdops.com,cicdops.com,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/Code_coverage,code coverage wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://ebertapp.io,Ebert,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/Test_automation,Testingautomation,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://nsis.sourceforge.net/Main_Page,NSIS,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.gnu.org/software/make/,gnumake,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www-03.ibm.com/systems/platformcomputing/products/lsf/,LSF,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://martinfowler.com/articles/continuousIntegration.html,continuousIntegration,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.gnu.org/software/autoconf/,gnuautoconf,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.softwareqatest.com,softwareqatest,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://rpm.org,rpm,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://electric-cloud.com/products/electricaccelerator,ElectricacCelerator,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://elasticbox.com,elasticbox,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.liquibase.org,liquibase,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://electric-cloud.com/products/electricflow/,ElectricFlow,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://wercker.com,wercker,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8,Securing DevOps,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions,mozillabuildtools,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://coveralls.io,coveralls,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.sonatype.com/nexus,nexus,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://continuousdelivery.com,continuousdelivery,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://yum.baseurl.org,yum,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://flywaydb.org,flywaydb,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.scala-sbt.org/index.html,SBT,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.cruisecontrolnet.org,cruisecontrol,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://codecov.io,codecov,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.vmware.com/products/vsphere,vmwarevshpere,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/System_integration,software integration,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis,static tools wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://continuum.apache.org/,continuum,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://circleci.com,circleci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://chocolatey.org/,chocolatey,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.scons.org,scons,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.jetbrains.com/teamcity/index.html,Teamcity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://wixtoolset.org/,wix,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://semaphoreci.com/blog/cicd-pipeline,ci/cd pipeline,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://about.gitlab.com/gitlab-ci/,GitLab CI,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://buildkite.com/,buildbox,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://cmake.org/,cmake,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.pmease.com/,quickbuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.coverity.com/,coverity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.opensourcetesting.org,opensourcetesting,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw,Learning Continuous Integraion with TeamCity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.packer.io/,packer,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.appveyor.com,appveyor,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software,ci tools compare,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.rexify.org//,rexify,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.citrix.com/products/xenserver/overview.html,citrixserver,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.pulpproject.org/,pulp,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://smartbear.com/product/collaborator/overview/,codecollaborator,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://snap-ci.com,snap-ci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://valgrind.org,valgrind,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 https://www.atlassian.com/software/bamboo,bamboo,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.jfrog.com/,jfrog,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://msdn.microsoft.com/en-us/library/dd393574.aspx,msbuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://aws.amazon.com/ec2/,amazon,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://archiva.apache.org/index.cgi,archiva,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://coveralls.io,coveralls,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/List_of_performance_analysis_tools,performance tools wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://semaphoreci.com/blog/cicd-pipeline,ci/cd pipeline,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://continuum.apache.org/,continuum,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://devopssummit.sys-con.com,devops submit,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 https://www.gocd.org/,go (the old snap-ci),https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.seleniumhq.org,selenium,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/Code_coverage,code coverage wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://wercker.com,wercker,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/Test_automation,Testingautomation,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://app.shippable.com/,shippable,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.coverity.com/,coverity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.softwareqatest.com,softwareqatest,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.pmease.com/,quickbuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://circleci.com,circleci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www-03.ibm.com/systems/platformcomputing/products/lsf/,LSF,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://nsis.sourceforge.net/Main_Page,NSIS,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.devopsdays.org,devopsdays,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.rexify.org//,rexify,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.vmware.com/products/vsphere,vmwarevshpere,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://rpm.org,rpm,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://buildkite.com/,buildbox,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.liquibase.org,liquibase,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://openbuildservice.org,openbuildservice,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://rundeck.org,rundeck,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx,fxcop,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://codecov.io,codecov,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://flywaydb.org,flywaydb,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://dzone.com/refcardz/continuous-integration,ci cheatsheet,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.appveyor.com,appveyor,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8,Securing DevOps,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://yum.baseurl.org,yum,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://ovh.github.io/cds,cds,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://about.gitlab.com/gitlab-ci/,GitLab CI,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://jenkins-ci.org,Jenkins,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://dbdeploy.com,dbdeploy,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.citrix.com/products/xenserver/overview.html,citrixserver,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://snap-ci.com,snap-ci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://aws.amazon.com/ec2/,amazon,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.viewtier.com/index.htm,Parabuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://wixtoolset.org/,wix,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://pmd.sourceforge.net/pmd-4.3.0/cpd.html,cpd,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw,Learning Continuous Integraion with TeamCity,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://drone.io/,Drone CI,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://deploybot.com,deploybot,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 https://codeship.com,codeship,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://ant.apache.org,ant,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://maven.apache.org,maven,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://monkeytest.it,Monkey Test It,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.ansible.com,Ansible,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://boxstarter.org/,boxstarter,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://gradle.org/,gradle,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://xebialabs.com/products/xl-deploy,xl-deploy,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.sonarqube.org,sonar,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software,ci tools compare,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.packer.io/,packer,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 http://git-scm.com,git,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 https://www.perforce.com/,perforce,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.atlassian.com/software/crucible/overview,crucible,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://githost.io,githost,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx,fxcop,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://openbuildservice.org,openbuildservice,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.chef.io/chef/,Chef,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.reviewboard.org/,reviewboard,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www-03.ibm.com/software/products/en/clearcase,clearcase,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://ci.testling.com,testling,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://trac.buildbot.net,buildbot,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://codestriker.sourceforge.net,codestriker,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://pmd.sourceforge.net/pmd-4.3.0/cpd.html,cpd,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://saltstack.com/community/,SaltStack,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.mercurial-scm.org/,mercurial,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.terraform.io,terraform,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://getbarkeep.org,getbarkeep,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.dbmaestro.com/,dbmaestro,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.sonarqube.org,sonar,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.viewtier.com/index.htm,Parabuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://deepfence.io,Deepfence Enterprise,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://findbugs.sourceforge.net,findbugs,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://httpd.apache.org,apache,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.infoq.com,infoq,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.finalbuilder.com/,FinalBuilder,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://checkstyle.sourceforge.net,checkstyle,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://en.wikipedia.org/wiki/Dynamic_program_analysis,dynamic tools wiki,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://rundeck.org,rundeck,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://deploybot.com,deploybot,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://ovh.github.io/cds,cds,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://drone.io/,Drone CI,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://flow.ci/,flow.ci,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 https://deployplace.com,DeployPlace,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://dzone.com/refcardz/continuous-integration,ci cheatsheet,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://www.univa.com,UGE,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-http://jenkins-ci.org,Jenkins,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://bintray.com,bintray,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://xebialabs.com/products/xl-release,sl-release,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
-https://www.jetbrains.com/upsource/,Upsource,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.finalbuilder.com/,FinalBuilder,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://findbugs.sourceforge.net,findbugs,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
 https://concourse-ci.org,Concourse,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.sonatype.com/nexus,nexus,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.jfrog.com/,jfrog,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://chocolatey.org/,chocolatey,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://xebialabs.com/products/xl-deploy,xl-deploy,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www-03.ibm.com/software/products/en/clearcase,clearcase,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.pulpproject.org/,pulp,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin,Jenkinsdeployplugin,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.ansible.com,Ansible,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://phabricator.org/,phabricator,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.chef.io/chef/,Chef,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://smartbear.com/product/collaborator/overview/,codecollaborator,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.atlassian.com/software/crucible/overview,crucible,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.reviewboard.org/,reviewboard,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://codestriker.sourceforge.net,codestriker,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.jetbrains.com/upsource/,Upsource,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://getbarkeep.org,getbarkeep,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://ebertapp.io,Ebert,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.gnu.org/software/make/,gnumake,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.gnu.org/software/autoconf/,gnuautoconf,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://code.google.com/p/gerrit/,gerrit,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://saltstack.com/community/,SaltStack,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://www.terraform.io,terraform,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.scons.org,scons,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://www.seleniumhq.org,selenium,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+https://cmake.org/,cmake,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://msdn.microsoft.com/en-us/library/dd393574.aspx,msbuild,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery
+http://ant.apache.org,ant,https://github.com/cicdops/awesome-ciandcd#readme,Continuous Integration and Continuous Delivery

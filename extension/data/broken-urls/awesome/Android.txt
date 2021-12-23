@@ -1,15 +1,22 @@
-https://www.vuforia.com/,Vuforia,https://github.com/JStumpp/awesome-android#readme,Android error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://www.vuforia.com/,Vuforia,https://github.com/JStumpp/awesome-android#readme,Android error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
+https://phonegap.com,PhoneGap,https://github.com/JStumpp/awesome-android#readme,Android error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'phonegap.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'phonegap.com'. (_ssl.c:1123)
+https://developer.android.com/training/volley/,Android Volley,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
 https://bitbucket.org/littlerobots/cupboard,Cupboard,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developer.android.com/distribute/marketing-tools/device-art-generator,Device Art Generator,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
 https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout,Pull to refresh,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
-https://developer.android.com/distribute/marketing-tools/device-art-generator,Device Art Generator,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+https://developer.android.com/courses/,Google Developers Training,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
 https://developer.android.com/topic/libraries/support-library/,Android Support library,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
-https://www.bignox.com,nox,https://github.com/JStumpp/awesome-android#readme,Android error: timeout('The read operation timed out') | reason: 
-https://developer.android.com/training/volley/,Android Volley,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+https://www.hockeyapp.net/,HockeyApp,https://github.com/JStumpp/awesome-android#readme,Android error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://developer.android.com/topic/libraries/data-binding/,Data Binding Library,https://github.com/JStumpp/awesome-android#readme,Android error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found

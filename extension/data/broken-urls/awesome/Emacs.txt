@@ -1,2 +1,0 @@
-http://www.mew.org/~kazu/proj/ghc-mod/en/,ghc-mod,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: timeout('timed out') | reason: 
-http://www.mew.org/en/,mew,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: timeout('timed out') | reason: 

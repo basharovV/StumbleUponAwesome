@@ -1,0 +1,3 @@
+https://api.l3x.in/,https://api.l3x.in/,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html,Purely Functional Cloud Components with AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://kevinslin.com/aws/cdk_all_the_things/,CDK All The Things: A Whirlwind Tour,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found

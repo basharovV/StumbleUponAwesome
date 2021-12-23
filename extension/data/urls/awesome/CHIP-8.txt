@@ -1,0 +1,33 @@
+http://johnearnest.github.io/Octo/docs/CaveExplorer.html,Inside Cave Explorer,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://chip-8.github.io,,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://johnearnest.github.io/Octo/docs/Manual.html,Octo manual,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/BlackRainbow.html,Inside Black Rainbow,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/BeginnersGuide.html,A Beginner's Guide to Programming with Chip8,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://en.wikipedia.org/wiki/CHIP-8,CHIP-8,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/IntermediateGuide.html,An Intermediate Guide to Game Development with Chip8,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/Chip8%20Programming.html,Chip8 Programming Techniques,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/MetaProgramming.html,Octo Metaprogramming Cookbook,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/SuperChip.html,Mastering SuperChip,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://johnearnest.github.io/Octo/docs/Sorting.html,Adventures in Sorting,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://tobiasvl.itch.io/mini-lights-out/devlog/102679/postmortem-mini-lights-out,Postmortem: Mini Lights Out,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/EatyTheAlien.html,Inside Eaty the Alien,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://groups.io/g/cosmacelf,COSMAC Elf Group,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://johnearnest.github.io/chip8Archive/,CHIP-8 Archive,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://www.awfuljams.com/octojam-ii/games/octopeg,Octopeg Post Mortem,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://discordapp.com/invite/Gf7cP3w,#chip8 channel on the Emulation Development Discord server,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://abitoutofplace.wordpress.com/2015/05/02/cosmaccalc-the-cosmac-vip-s-place-in-spreadsheet-history/,CosmacCalc: The COSMAC VIP's place in Spreadsheet History,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://octojam.com/,OctoJam,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/chip8ref.pdf,CHIP-8 Instruction Set,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://laurencescotford.com/chip-8-on-the-cosmac-vip-index/,Chip-8 on the COSMAC VIP,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/docs/XO-ChipSpecification.html,Octo Extensions,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/,How to write an emulator (CHIP-8 interpreter),https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://www.emulator101.com/introduction-to-chip-8.html,Emulator 101: CHIP-8,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://tobiasvl.github.io/blog/write-a-chip-8-emulator/,High-level guide to making a CHIP-8 emulator,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/,Octo,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://www.emma02.hobby-site.com/,Emma02,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://benryves.com/bin/vinegar/,Vinegar,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+https://lowresnx.inutilis.com/topic.php?id=1648,LowResNX,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://beyondloom.com/tools/ezbake.html,EZ-Bake Animator,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://beyondloom.com/tools/ezwriter.html,EZ-Writer,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://beyondloom.com/tools/ezpack.html,EZ-Pack,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8
+http://johnearnest.github.io/Octo/tools/Chipify/,Chipify,https://github.com/tobiasvl/awesome-chip-8#readme,CHIP-8

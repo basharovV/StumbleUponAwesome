@@ -1,31 +1,29 @@
-https://scalingo.com/databases/influxdb,Scalingo,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://jmeter.apache.org/usermanual/realtime-results.html,Apache JMeter,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://hostedmetrics.com/product/influxdb/,HostedMetrics,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://docs.influxdata.com/influxdb/latest/,Official documentation,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://sematext.com/blog/now-open-source-sematext-monitoring-agent/,Open source monitoring agent,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 http://www.shinken-monitoring.org/,Shinken,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/,Part 1: Introduction,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://sematext.com/docs/logagent/input-plugin-influxdb-http/,influxdb input plugin,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/,Part 2: Hosting and scaling on AWS,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/,Part 3: Plotting graphs using Grafana,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://docs.influxdata.com/influxdb/latest/,Official documentation,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://hostedmetrics.com/product/influxdb/,HostedMetrics,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/blog/now-open-source-sematext-monitoring-agent/,Open source monitoring agent,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://sensu.io/,Sensu,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://sematext.com/docs/logagent/output-plugin-influxdb/,influxdb output plugin,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/docs/logagent/input-plugin-influxdb-http/,influxdb input plugin,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://sidekiq.org/,Sidekiq,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/,Part 1: Introduction,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/,Part 2: Hosting and scaling on AWS,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/docs/logagent/output-plugin-influxdb/,influxdb output plugin,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/,Part 3: Plotting graphs using Grafana,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://docs.datadoghq.com/guides/dogstatsd/,dogstatsD,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://sematext.com/docs/logagent/plugins/,integrations,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html,traffic_stats,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://admhelp.microfocus.com/lr/en/12.60-12.62/help/WebHelp/Content/Controller/raw_results_exporter.htm,LoadRunner Raw Results Exporter,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html,traffic_stats,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+http://nmon.sourceforge.net/pmwiki.php,nmon,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://trafficcontrol.apache.org/,Apache Traffic Control,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://openresty.org/en/,OpenResty,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://aws.amazon.com/cloudwatch/,Amazon Cloudwatch,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://www.vmware.com/products/vsphere.html,vSphere,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-http://nmon.sourceforge.net/pmwiki.php,nmon,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://aws.amazon.com/cloudwatch/,Amazon Cloudwatch,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://www.domoticz.com,Domoticz,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://www.fluentd.org/,fluentd,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-http://www.iobroker.net/,ioBroker,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://dbeaver.com/databases/influxdb/,DBeaver,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+http://www.iobroker.net/,ioBroker,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://jenkins.io/index.html,Jenkins,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://kafka.apache.org/,Kafka,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://forge.puppet.com/datacentred/telegraf/readme,puppet-telegraf,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
-https://cloud.influxdata.com/plan-picker,InfluxCloud,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
 https://aiven.io/influxdb,Aiven,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://scalingo.com/databases/influxdb,Scalingo,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB

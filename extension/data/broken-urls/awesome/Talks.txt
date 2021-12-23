@@ -1,1 +1,1 @@
-http://www.yuiblog.com/blog/2010/05/20/video-dahl/,Introduction to Node.js,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://vimeo.com/181409251,5 WTFs in 6 LOCs,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 410: 'Gone'> | reason: Gone

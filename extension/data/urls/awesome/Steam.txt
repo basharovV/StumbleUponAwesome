@@ -1,16 +1,18 @@
-https://steamanalyst.com/,steamanalyst.com,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://backpack.tf/developer,backpack.tf,https://github.com/scholtzm/awesome-steam#readme,Steam
 http://store.steampowered.com/,Steam,https://github.com/scholtzm/awesome-steam#readme,Steam
-https://dev.doctormckay.com/topic/332-identifying-steam-items/,Item IDs Explained,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://hexa.one/,hexa.one,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://steamapis.com,steamapis.com,https://github.com/scholtzm/awesome-steam#readme,Steam
 https://steamgaug.es/,steamgauges,https://github.com/scholtzm/awesome-steam#readme,Steam
-https://steamapi.io/,steamapi.io,https://github.com/scholtzm/awesome-steam#readme,Steam
-https://steamapis.com/,steamapis.com,https://github.com/scholtzm/awesome-steam#readme,Steam
+http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/,Retrieving 2FA Keys from iOS Device,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://developer.valvesoftware.com/wiki/Steam_Web_API,Steam WebAPI @ ValveSoftware,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://dev.doctormckay.com/topic/332-identifying-steam-items/,Item IDs Explained,https://github.com/scholtzm/awesome-steam#readme,Steam
 https://wiki.teamfortress.com/wiki/WebAPI,Steam WebAPI @ TF2 Wiki,https://github.com/scholtzm/awesome-steam#readme,Steam
-https://lab.xpaw.me/steam_api_documentation.html,Steam WebAPI Documentation by xpaw,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://lab.xpaw.me/steam_api_documentation.html,Steam WebAPI Documentation by xPaw,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/,Everything Related to Escrow,https://github.com/scholtzm/awesome-steam#readme,Steam
 http://steamcommunity.com/dev,Steam as OpenID Provider,https://github.com/scholtzm/awesome-steam#readme,Steam
+https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/,Understanding Avatar Hash,https://github.com/scholtzm/awesome-steam#readme,Steam
 http://steamcommunity.com/dev/apikey,Steam API Key Registration,https://github.com/scholtzm/awesome-steam#readme,Steam
 https://steamerrors.com/,Steam Error Codes,https://github.com/scholtzm/awesome-steam#readme,Steam
-https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/,Everything Related to Escrow,https://github.com/scholtzm/awesome-steam#readme,Steam
-https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/,Understanding Avatar Hash,https://github.com/scholtzm/awesome-steam#readme,Steam
 http://scholtzm.github.io/steam-auth-web-util/,steam-auth-web-util,https://github.com/scholtzm/awesome-steam#readme,Steam
 https://www.reddit.com/r/SteamBot,/r/SteamBot,https://github.com/scholtzm/awesome-steam#readme,Steam
 https://discord.gg/0i5X3oDHJbDUsiGC,/r/SteamBot Discord,https://github.com/scholtzm/awesome-steam#readme,Steam

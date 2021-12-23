@@ -1,52 +1,42 @@
-https://ubuntu.com/,Ubuntu,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://tsp.esta.org/tsp/documents/published_docs.php,ESTA Technical Standards Program,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.roomeqwizard.com/,REW,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://casparcg.com/,CasperCG,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://geezersofgear.libsyn.com/,Geezers of Gear,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.reaper.fm/,REAPER,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://obsidiancontrol.com/onyx,ONYX,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.openlighting.org/ola/,Open Lighting Architecture,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://rentman.io/,Rentman,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://www.avolites.com/software/downloads/titan-pc-suite,Avolites Titan,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://xlights.org/,xLights,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://obsproject.com,OBS Studio,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+http://www.artalabs.hr/,ARTA,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://chamsyslighting.com/,Chamsys MagicQ,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.qlcplus.org/,QLC+,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.facebook.com/groups/chamsys.users/,Chamsys Programmers and Users facebook group,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.daslight.com/,Daslight,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw,Christian Jackson,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.roomeqwizard.com/,REW,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.malighting.com/downloads/products/dot2/,Dot2 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.mikewoodld.com/blog/,mikewoodld.com/blog/,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://tsp.esta.org/tsp/documents/published_docs.php,ESTA Technical Standards Program,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://xlights.org/,xLights,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://geezersofgear.libsyn.com/,Geezers of Gear,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.autodesk.com/products/autocad,AutoCAD,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.etcconnect.com/Products/Consoles/Eos-Family/,EOS Family,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.youtube.com/watch?v=lhYDUzWKz3M,GMA2 colour picker tutorial,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.capture.se/,Capture,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+http://www.freestylerdmx.be/,Freestyler,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://en.wikipedia.org/wiki/Linux,Linux,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://ubuntu.com/,Ubuntu,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.malighting.com/downloads/products/grandma2/,GrandMA2 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.instagram.com/limelightwired/,@limelightwired,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.syncronorm.com/products/depence2/overview/,Depence²,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.malighting.com/downloads/products/grandma3/,GrandMA3 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://www.usedlighting.com/,UsedLighting,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://www.vectorworks.net/,Vectorworks,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.videolan.org/vlc/index.html,VLC Media Player,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.daslight.com/,Daslight,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.capture.se/,Capture,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.instagram.com/limelightwired/,@limelightwired,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.malighting.com/downloads/products/dot2/,Dot2 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://bitfocus.io/companion/,Bitfocus Companion,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.syncronorm.com/products/depence2/overview/,Depence²,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.blender.org,Blender,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://qlab.app/cookbook/,QLab Cookbook,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-http://www.catalyst-v5.com/,Catalyst,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.vectorworks.net/en-GB/spotlight,Vectorworks Spotlight,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.etcconnect.com/Products/Consoles/Eos-Family/,EOS Family,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://hcgilje.wordpress.com/vpt/,VPT,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.malighting.com/downloads/products/grandma2/,GrandMA2 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-http://elteesee.pehrhovey.net/,El-Tee-See,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-http://notelek.com/StageClock/,StageClock,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.malighting.com/downloads/products/grandma3/,GrandMA3 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://cast-soft.com/wysiwyg-lighting-design/,wysiwyg,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://timelord-mtc.com/,TimelordMTC,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.autodesk.com/products/autocad,AutoCAD,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.audacityteam.org/,Audacity,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.highend.com/products/consoles/,Hog 4 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://opensoundmeter.com/,Open Sound Meter,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.openlighting.org/ola/,Open Lighting Architecture,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://reddit.com/r/lightingdesign/,/r/lightingdesign,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.gimp.org/,GIMP,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://inkscape.org/,Inkscape,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.facebook.com/groups/chamsys.users/,Chamsys Programmers and Users facebook group,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://reddit.com/r/techtheatre/,/r/techtheatre,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.highend.com/products/consoles/,Hog 4 software,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.vectorworks.net/en-GB/spotlight,Vectorworks Spotlight,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+http://elteesee.pehrhovey.net/,El-Tee-See,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.lightfactory.net/,LightFactory,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://cast-soft.com/wysiwyg-lighting-design/,wysiwyg,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://www.audacityteam.org/,Audacity,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://timelord-mtc.com/,TimelordMTC,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
+https://opensoundmeter.com/,Open Sound Meter,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://www.da-share.com/software/multiplay/,da-Share MultiPlay,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
 https://www.linux-show-player.org/,Linux Show Player,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw,Christian Jackson,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://obsidiancontrol.com/onyx-technologies,ONYX,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://qlab.app/,QLab,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://reddit.com/r/techtheatre/,/r/techtheatre,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.qlcplus.org/,QLC+,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.reaper.fm/,REAPER,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-http://www.artalabs.hr/,ARTA,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.mikewoodld.com/blog/,mikewoodld.com/blog/,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-http://notelek.com/blog/,notelek.com/blog/,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://www.youtube.com/watch?v=lhYDUzWKz3M,GMA2 colour picker tutorial,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual
-https://en.wikipedia.org/wiki/Linux,Linux,https://github.com/stingalleman/awesome-audiovisual#readme,Audiovisual

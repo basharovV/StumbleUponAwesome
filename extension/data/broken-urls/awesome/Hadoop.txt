@@ -1,4 +1,4 @@
 https://bitbucket.org/rodrigopr/redisstoragehandler,https://bitbucket.org/rodrigopr/redisstoragehandler,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://gethue.com/,Hue,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 308: 'Unknown'> | reason: Unknown
 https://bitbucket.org/vadim/hive-sharp,Hive-Sharp,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://spark-packages.org/,Spark Packages,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://www.socc2013.org/home/program/a5-vavilapalli.pdf,Apache Hadoop YARN: Yet Another Resource Negotiator,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://gethue.com/,Hue,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

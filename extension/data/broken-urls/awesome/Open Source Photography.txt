@@ -1,7 +1,9 @@
+http://www.cybercom.net/~dcoffin/dcraw/,DCRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pexels.com/,Pexels.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.pexels.com/photo-license/,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.cybercom.net/~dcoffin/dcraw/,DCRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pixabay.com/en/service/faq/,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.shutterography.com,Shutterography.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://www.shutterography.com,Shutterography.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://www.kornelix.com/fotoxx.html,Fotoxx,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.digikam.org/drupal/about?q=about/overview,DigiKam/ShowFoto,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.darktable.org/,Darktable,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.hughski.com/index.html,Hughski,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found

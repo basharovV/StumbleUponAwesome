@@ -1,8 +1,13 @@
-https://www.statistik.lmu.de/~leisch/Sweave/,Sweave,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://mcmcpack.berkeley.edu/,MCMCpack,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://gexf.net/format/,GEXF,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.walware.de/goto/statet,StatET,https://github.com/qinwf/awesome-R#readme,R error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/,HarvardX Biomedical Data Science,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0,Explore Statistics with R,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.r-project.org/conferences.html,R Project Conferences,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/allr/fastr/wiki/Home,fastR,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.omegahat.org/RSPerl/,RSPerl,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://mcmcpack.berkeley.edu/,MCMCpack,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.rworld.news/blog/,R World News,https://github.com/qinwf/awesome-R#readme,R error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.rforscience.com/rpackages/visualisation/plot3d/,plot3D,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/allr/fastr/wiki/Home,fastR,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.statistik.lmu.de/~leisch/Sweave/,Sweave,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.rworld.news/blog/,R World News,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://faculty.marshall.usc.edu/gareth-james/ISL/,Introduction to Statistical Learning with Application in R by Gareth James et al. (2017),https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://rtalk.org,R Talk,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,0 +1,4 @@
+https://entrepreneurship.wharton.upenn.edu/wharton-social-entrepreneurship/,Wharton Social Entrepreneurship,https://github.com/RayBB/awesome-social-enterprise#readme,Social Enterprise error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.usasbe.org/group/Social,Social Entrepreneurship,https://github.com/RayBB/awesome-social-enterprise#readme,Social Enterprise error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://kelley.iu.edu/news-events/events/bloomington/social-entrepreneurship-conference-2019/index.cshtml,Indiana University Social Entrepreneurship Conference,https://github.com/RayBB/awesome-social-enterprise#readme,Social Enterprise error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://tinyads.io/e%22%3E%3C/script%3E,https://tinyads.io/e"></script>,https://github.com/RayBB/awesome-social-enterprise#readme,Social Enterprise error: <HTTPError 404: 'Not Found'> | reason: Not Found

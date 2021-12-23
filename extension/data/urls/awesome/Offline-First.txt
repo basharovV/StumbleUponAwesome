@@ -1,229 +1,217 @@
-https://www.youtube.com/watch?t=20&v=VhZS4n2DMyU,Taking Ember Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=cR-TP6jOSQM,AppCache: Douchebag,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=dPz_5-MEvcg,Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=OBfLvqA_E4A,Totally Tooling Tips: Offline Support,https://github.com/pazguille/offline-first#readme,Offline-First
-http://aanandprasad.com/articles/offline/,Offline Support is Valuable, and You Can’t Add it Later,https://github.com/pazguille/offline-first#readme,Offline-First
-https://chrisruppel.com/blog/service-worker-offline-content/,Offline Content with Service Worker,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.talater.com/upup/,UpUp,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=dPz_5-MEvcg,Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=cR-TP6jOSQM,AppCache: Douchebag,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?t=20&v=VhZS4n2DMyU,Taking Ember Offline,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.html5rocks.com/en/features/offline,https://www.html5rocks.com/en/features/offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b,Using React and Preact to Build My First Offline First Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@dalmaer/offline-first-learning-from-native-experiences-4a778ce8a445,Offline First: Learning from native experiences,https://github.com/pazguille/offline-first#readme,Offline-First
-https://neighbourhood.ie/offline-first/book/,The Offline First Book,https://github.com/pazguille/offline-first#readme,Offline-First
+http://aanandprasad.com/articles/offline/,Offline Support is Valuable, and You Can’t Add it Later,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.talater.com/upup/,UpUp,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=Yp1h3cd8dsg,Holy sync,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.smashingmagazine.com/2016/02/making-a-service-worker/,Making A Service Worker: A Case Study,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=4uQMl7mFB6g,The ServiceWorker: The network layer is yours to own,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=ceODU6z4-yc,Application Cache And Local Storage,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle,The Service Worker Lifecycle,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/mstuart/service-workers-and-early-flushing,Insanely fast rendering w/ Service Workers and Early Flushing,https://github.com/pazguille/offline-first#readme,Offline-First
 https://adactio.com/journal/9844,Cache-limiting in Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0,Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native,https://github.com/pazguille/offline-first#readme,Offline-First
-https://adactio.com/journal/10754,Taking an online book offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/,offline mode,https://github.com/pazguille/offline-first#readme,Offline-First
-https://unhosted.org/practice/29/Offline-first-web-app-design.html,Offline-first web app design,https://github.com/pazguille/offline-first#readme,Offline-First
+https://ponyfoo.com/articles/serviceworker-revolution,ServiceWorker: Revolution of the Web Platform,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=ceODU6z4-yc,Application Cache And Local Storage,https://github.com/pazguille/offline-first#readme,Offline-First
+https://chrisruppel.com/blog/service-worker-offline-content/,Offline Content with Service Worker,https://github.com/pazguille/offline-first#readme,Offline-First
+https://neighbourhood.ie/offline-first/book/,The Offline First Book,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/mstuart/service-workers-and-early-flushing,Insanely fast rendering w/ Service Workers and Early Flushing,https://github.com/pazguille/offline-first#readme,Offline-First
 http://www.w3.org/TR/offline-webapps/,Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=nqecpa6MtZ0,Making Offline Suck Less with Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=AbixY3W8ayo,Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0,Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=RrGo1Sz4IgQ,Offline Rules,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=AbixY3W8ayo,Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.smashingmagazine.com/2016/02/making-a-service-worker/,Making A Service Worker: A Case Study,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.soundslice.com/,Soundslice,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle,The Service Worker Lifecycle,https://github.com/pazguille/offline-first#readme,Offline-First
 http://confreaks.tv/videos/emberconf2016-using-service-workers-in-ember,Using Service Workers in Ember,https://github.com/pazguille/offline-first#readme,Offline-First
-https://una.im/save-offline,Implementing "Save For Offline" with Service Workers.,https://github.com/pazguille/offline-first#readme,Offline-First
-https://logbook.hanno.co/offline-first-matters-developers-know/,Why offline-first matters, and what developers should know about it,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.slideshare.net/sandropaganotti/discover-serviceworker,Discover ServiceWorker,https://github.com/pazguille/offline-first#readme,Offline-First
-http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way,Offline first, the painless way,https://github.com/pazguille/offline-first#readme,Offline-First
-https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/,"Offline First" with Service Worker (Building a PWA, Part 1),https://github.com/pazguille/offline-first#readme,Offline-First
-http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style,Offline First - the new paradigm in web development done Neptune style,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.kryogenix.org/days/2013/11/06/offline-first/,Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.w3.org/TR/service-workers/,Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=O3AukCYymEU,Building Web Apps of the future. Tomorrow, today and yesterday.,https://github.com/pazguille/offline-first#readme,Offline-First
+https://unhosted.org/practice/29/Offline-first-web-app-design.html,Offline-first web app design,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=ZsMS_sviJs0,Say Hello to Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=5LAMbIlwilc,Worker as a Service,https://github.com/pazguille/offline-first#readme,Offline-First
+https://adactio.com/journal/10754,Taking an online book offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=O3AukCYymEU,Building Web Apps of the future. Tomorrow, today and yesterday.,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=nnLBdFLo2fc,The Offline Web,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee,Rethinking Offline First sync for Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hacks.mozilla.org/2015/11/offline-service-workers/,Offline Recipes for Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/bradleyholt/offline-first-apps-with-pouchdb-at-node-dot-js-interactive,Offline-First Apps with PouchDB at Node.js Interactive,https://github.com/pazguille/offline-first#readme,Offline-First
-http://appdevelopermagazine.com/2356/2015/2/9/The-Right-and-Wrong-Strategies-When-Taking-Your-App-Offline/,The Right and Wrong Strategies When Taking Your App Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-http://deanhume.com/home/blogpost/create-a-really--really-simple-offline-page-using-service-workers/10135,Create a really, really simple offline page using Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://pazguille.me/,https://pazguille.me/,https://github.com/pazguille/offline-first#readme,Offline-First
-https://wiki.mozilla.org/Webmaker/MakeDrive,Mozilla MakeDrive Wiki page,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.w3.org/TR/IndexedDB/,IndexedDB,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.w3.org/TR/service-workers/,Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=5LAMbIlwilc,Worker as a Service,https://github.com/pazguille/offline-first#readme,Offline-First
+https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/,"Offline First" with Service Worker (Building a PWA, Part 1),https://github.com/pazguille/offline-first#readme,Offline-First
+https://mobiforge.com/design-development/taking-web-offline-service-workers,Taking the web offline with service workers,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=ejcJmeewtd4,Taking Web Apps Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=EZF1EfjQlbo,Taking Your Web Apps Offline,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=qfC90DQEoeY,Bring NoSQL to your mobile,https://github.com/pazguille/offline-first#readme,Offline-First
-https://mxb.at/blog/offline-forms/,Offline-Friendly Forms,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.sitepoint.com/killer-offline-web-applications/,5 Reasons Why There are no Killer Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.w3.org/TR/webstorage/,WebStorage,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc,Offline support: "Try again, later", no more.,https://github.com/pazguille/offline-first#readme,Offline-First
-https://glebbahmutov.com/blog/instant-web-application/,Instant Web Application,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/zoepage/ayb14-offline-first-1,Offline first <3,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=W41mvarupH0,Building Offline Web Apps with HTML5,https://github.com/pazguille/offline-first#readme,Offline-First
-https://vimeo.com/125479288,The UX Of Offline-First,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c?source=userActivityShare-136a881c591e-1475748613,Progressive Web Apps with React.js: Part 3 — Offline support and network resilience,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=etACK2qbHfc,There is a client-side proxy (ServiceWorker) in your browser!,https://github.com/pazguille/offline-first#readme,Offline-First
+https://una.im/save-offline,Implementing "Save For Offline" with Service Workers.,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.w3.org/TR/IndexedDB/,IndexedDB,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/bradleyholt/offline-first-apps-with-pouchdb-at-node-dot-js-interactive,Offline-First Apps with PouchDB at Node.js Interactive,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=EZF1EfjQlbo,Taking Your Web Apps Offline,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=Z7sRMg0f5Hk,Network connectivity: optional,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.packtpub.com/web-development/offline-first-web-development,Offline First Web Development,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache,ApplicationCache,https://github.com/pazguille/offline-first#readme,Offline-First
-http://hood.ie/blog/say-hello-to-offline-first.html,Say Hello to Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.lukew.com/ff/entry.asp?1902,Breaking Development: Offline First is the new Mobile First,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing,HOLY SYNC: a sane approach to offline-first cross-platform data syncing,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.slideshare.net/NicRaboy/developing-for-offline-first-mobile-experiences,Developing for Offline First Mobile Experiences,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=W41mvarupH0,Building Offline Web Apps with HTML5,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.slideshare.net/sandropaganotti/discover-serviceworker,Discover ServiceWorker,https://github.com/pazguille/offline-first#readme,Offline-First
+https://logbook.hanno.co/offline-first-matters-developers-know/,Why offline-first matters, and what developers should know about it,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/,offline mode,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=etACK2qbHfc,There is a client-side proxy (ServiceWorker) in your browser!,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hacks.mozilla.org/2015/11/offline-service-workers/,Offline Recipes for Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style,Offline First - the new paradigm in web development done Neptune style,https://github.com/pazguille/offline-first#readme,Offline-First
+http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way,Offline first, the painless way,https://github.com/pazguille/offline-first#readme,Offline-First
+https://vimeo.com/125479288,The UX Of Offline-First,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.youtube.com/watch?v=dN8e-QdYyCk,Getting off(line): appcache, localStorage for HTML5 apps that work offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=Qg75x08Mtcs,Surviving the Offline Apocalypse,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers,Using Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=rw8Q9ZLDkEs,OnConnectionLost: The life of an offline web application,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c?source=userActivityShare-136a881c591e-1475748613,Progressive Web Apps with React.js: Part 3 — Offline support and network resilience,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=7mdG-iAizVc,Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
+https://wiki.mozilla.org/Webmaker/MakeDrive,Mozilla MakeDrive Wiki page,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=TGwjgmAqNRo,Offline First and Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.sitepoint.com/killer-offline-web-applications/,5 Reasons Why There are no Killer Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://nicolas-hoizey.com/2017/01/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache.html,How much data should my Service Worker put upfront in the offline cache?,https://github.com/pazguille/offline-first#readme,Offline-First
+https://pazguille.me/,https://pazguille.me/,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/zoepage/ayb14-offline-first-1,Offline first <3,https://github.com/pazguille/offline-first#readme,Offline-First
 https://www.iandevlin.com/blog/2015/06/html5/getting-appcaches-fallback-to-work-crossbrowser,Getting Appcache’s Fallback to work, crossbrowser,https://github.com/pazguille/offline-first#readme,Offline-First
 https://chrisruppel.com/blog/service-worker-offline-content-list/,Offline Reading List,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hacks.mozilla.org/2015/12/beyond-offline/,Beyond Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=rw8Q9ZLDkEs,OnConnectionLost: The life of an offline web application,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=Qg75x08Mtcs,Surviving the Offline Apocalypse,https://github.com/pazguille/offline-first#readme,Offline-First
-http://brandonrozek.tumblr.com/post/135657690564/service-workers,An Offline Experience with Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.theodo.fr/blog/2014/11/how-to-build-web-applications-work-offline-pouchdb/,How to build web applications that can work offline with PouchDB?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API,IndexedDB,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hackernoon.com/service-worker-one-fallback-offline-image-for-any-aspect-ratio-b427c0f897fb,Service Worker: One fallback offline image for any aspect ratio,https://github.com/pazguille/offline-first#readme,Offline-First
-https://vimeo.com/120474703,The Web's Future is Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://nicolas-hoizey.com/2017/01/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache.html,How much data should my Service Worker put upfront in the offline cache?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.ibm.com/clouddataservices/2016/05/05/offline-first-qr-code-badge-scanner/,Offline-first QR-code Badge Scanner,https://github.com/pazguille/offline-first#readme,Offline-First
-http://delapuente.github.io/presentations/at-your-service/index.html,At your service! - More than appcache uses for Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/wohali/scaling-down-the-offline-first-story,Scaling Down: The Offline First Story,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/,Offline First: Your Next Progressive Enhancement Technique?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@coreflodev/understand-offline-first-and-offline-last-in-android-71191e92b426,Understand offline first and offline last in Android,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=TGwjgmAqNRo,Offline First and Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=7mdG-iAizVc,Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API,ServiceWorkers,https://github.com/pazguille/offline-first#readme,Offline-First
-http://blog.nparashuram.com/2016/09/rise-of-web-workers-nationjs.html,Rise of the Web Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk,Service Worker and the Offline Web,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=Zb01eNS6-no,Building Offline First Applications with Backbone,https://github.com/pazguille/offline-first#readme,Offline-First
-http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef,The Offline First Reader,https://github.com/pazguille/offline-first#readme,Offline-First
-http://deanhume.com/Home/BlogPost/getting-started-with-the-service-worker-toolbox/10134,Getting started with the Service Worker Toolbox,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hacks.mozilla.org/2010/01/offline-web-applications/,Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=tilH8jgLrXQ,Offline First Podcast,https://github.com/pazguille/offline-first#readme,Offline-First
-https://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales/,Making Your App Work Offline: Tips and Cautionary Tales,https://github.com/pazguille/offline-first#readme,Offline-First
-https://mobiforge.com/design-development/taking-web-offline-service-workers,Taking the web offline with service workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.ibm.com/developerworks/community/blogs/worklight/entry/offline_patterns?lang=en,Offline Patterns,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=fj49cSQ986k,Working connected to create offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/,Using Service Workers and Cache to Take Web Performance to a New Level,https://github.com/pazguille/offline-first#readme,Offline-First
-https://vimeo.com/64201695,Offline rules: Bleeding edge web standards at the Financial Times,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/buildit/why-offline-first-20470604ee36,Why Offline First?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/,Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883,Building Flipkart Lite: A Progressive Web App,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.webdirections.org/blog/appcache-not-so-much-a-douchebag-as-a-complete-pain-in-the/,Appcache, not so much a douchebag as a complete pain in the #$%^,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=RQQNNP8tFro,The Once & Future Web,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers,Using Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/,Build More Reliable Web Apps with Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit,Service Workers on vacay...,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-jsconf-budapest-may-2016,Building an Offline Page for theguardian.com,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin,Offline First (Web) Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=pklpK55uQmE&feature=youtu.be,Offline Web Apps,Web Storage,IndexedDB,AppCache,File API Futures,https://github.com/pazguille/offline-first#readme,Offline-First
-http://diveintohtml5.info/offline.html,Let's take this offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=Rr2vXDIVerI,The ServiceWorker is coming, look busy!,https://github.com/pazguille/offline-first#readme,Offline-First
-https://remotestorage.io/,remoteStorage,https://github.com/pazguille/offline-first#readme,Offline-First
-https://teamgaslight.com/blog/offline-web-applications-with-couchdb-pouchdb-and-ember-cli,Offline Web Applications with CouchDB, PouchDB and Ember CLI,https://github.com/pazguille/offline-first#readme,Offline-First
-https://mxb.at/blog/youre-offline/,You're Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=Oic22dQMRXQ,What's the right way to build offline into a web application?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=BucGrYACJdQ,Go Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-http://codekult.github.io/tgif-offline-first/,TGIF - Offline-first,https://github.com/pazguille/offline-first#readme,Offline-First
-https://auth0.com/blog/introduction-to-progressive-apps-part-one/,Introduction to Progressive Web Apps (Offline First),https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=BKD7ZLRi9HI,Service Workers: Offline Now(ish)!,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.infoq.com/articles/mobile-apps-offline-support,Mobile Apps Offline Support,https://github.com/pazguille/offline-first#readme,Offline-First
-http://hood.ie/blog/minutes-offline-case-study,A Hoodie Case Study: How minutes.io does offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://byrslf.co/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e,Three takeaways for web developers after two weeks of painfully slow internet,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=_kJMjJ1tm6o,Offline-first for Your Static Site,https://github.com/pazguille/offline-first#readme,Offline-First
-http://shop.oreilly.com/product/0636920052067.do,Building Progressive Web Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s,The Next Challenge of the Web is Us,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html,Send messages when you’re back online with Service Workers and Background Sync,https://github.com/pazguille/offline-first#readme,Offline-First
-http://github.hubspot.com/offline/docs/welcome/,Offline.js,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e,Accessibility Testing for Offline First Applications,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/,How Google and Mozilla are aiming to make web apps shine offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent,Offline-First Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/,Your first offline web app,https://github.com/pazguille/offline-first#readme,Offline-First
 https://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline,Don’t Wait for ServiceWorker: Adding Offline Support with One-Line,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/onehourcode/part-2-get-rapid-offline-capability-in-your-angular-app-with-service-worker-954f17109dd0,[Part 2] Get rapid offline capability in your Angular app with service worker,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.infoq.com/presentations/status-web-offline,Status Web Offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-london-web-perf-march-2016,Building an Offline Page for theguardian.com,https://github.com/pazguille/offline-first#readme,Offline-First
-https://huffduffer.com/AlanDalton/202718,ServiceWorkers and High Performance Offline Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@patcito/making-react-europe-org-work-offline-with-service-workers-f54fb0457048,Making react-europe.org work offline with Service Workers and free SSL from Cloudflare,https://github.com/pazguille/offline-first#readme,Offline-First
-https://jakearchibald.com/2014/service-worker-first-draft/,Service Worker - first draft published,https://github.com/pazguille/offline-first#readme,Offline-First
-https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent?slide=id.gb7f243163_0_53,Offline-First Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=tilH8jgLrXQ,Offline First Podcast,https://github.com/pazguille/offline-first#readme,Offline-First
+http://blog.nparashuram.com/2016/09/rise-of-web-workers-nationjs.html,Rise of the Web Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://vimeo.com/120474703,The Web's Future is Offline,https://github.com/pazguille/offline-first#readme,Offline-First
+http://appdevelopermagazine.com/2356/2015/2/9/The-Right-and-Wrong-Strategies-When-Taking-Your-App-Offline/,The Right and Wrong Strategies When Taking Your App Offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=RQQNNP8tFro,The Once & Future Web,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.packtpub.com/web-development/offline-first-web-development,Offline First Web Development,https://github.com/pazguille/offline-first#readme,Offline-First
+https://vimeo.com/64201695,Offline rules: Bleeding edge web standards at the Financial Times,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.slideshare.net/NicRaboy/developing-for-offline-first-mobile-experiences,Developing for Offline First Mobile Experiences,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=Zb01eNS6-no,Building Offline First Applications with Backbone,https://github.com/pazguille/offline-first#readme,Offline-First
+https://glebbahmutov.com/blog/instant-web-application/,Instant Web Application,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing,HOLY SYNC: a sane approach to offline-first cross-platform data syncing,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/wohali/scaling-down-the-offline-first-story,Scaling Down: The Offline First Story,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.theodo.fr/blog/2014/11/how-to-build-web-applications-work-offline-pouchdb/,How to build web applications that can work offline with PouchDB?,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=BucGrYACJdQ,Go Offline,https://github.com/pazguille/offline-first#readme,Offline-First
 https://developers.google.com/web/showcase/2015/service-workers-iowa,Service Workers in Production,https://github.com/pazguille/offline-first#readme,Offline-First
-https://nolanlawson.com/2014/10/03/offline-first-is-people-first/,Offline-first is people-first,https://github.com/pazguille/offline-first#readme,Offline-First
-http://blog.booking.com/progressive-web-apps-with-service-workers.html,Progressive Web Apps with Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://css-tricks.com/serviceworker-for-offline/,Making a Simple Site Work Offline with ServiceWorker,https://github.com/pazguille/offline-first#readme,Offline-First
-http://blog.getchop.io/2016/12/14/designing-for-accidental-disconnects-our-first-attempt-at-an-offline-approach/,Designing for Accidental Disconnects: Our first attempt at an offline approach,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@argo49/how-to-add-an-offline-notification-to-your-pwa-c11ee640822b,How to add an “Offline” notification to your PWA,https://github.com/pazguille/offline-first#readme,Offline-First
-http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/,Reducing Single Point of Failure using Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.ae.be/blog-en/offline-first-simple-unplug-play/,Offline first: as simple as unplug & play?,https://github.com/pazguille/offline-first#readme,Offline-First
-http://offlinestat.es/,Offline States,https://github.com/pazguille/offline-first#readme,Offline-First
-https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin,Easy Offline First Apps With Webpack's Offline Plugin,https://github.com/pazguille/offline-first#readme,Offline-First
-https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161,Persistent Storage API: Building for the offline web,https://github.com/pazguille/offline-first#readme,Offline-First
-https://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic,Offline Data Synchronization in Ionic,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.thedotpost.com/2016/12/nolan-lawson-service-worker-and-the-appification-of-the-web,Service Worker and the Appification of the Web,https://github.com/pazguille/offline-first#readme,Offline-First
-https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/,Offline-First, Document Sharing, Templates: Monod is Back (not in Black),https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom,Building an offline page for theguardian.com,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developers.google.com/web/updates/2016/09/foreign-fetch,Cross-origin Service Workers: Experimenting with Foreign Fetch,https://github.com/pazguille/offline-first#readme,Offline-First
-http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602,Leveraging hood.ie to build for the offline state,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers,Introducing Hoodie: Full Stack App Development for Front-End Developers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.w3.org/TR/file-system-api/,HTML5 Filesystem API,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/onehourcode/part-1-get-rapid-offline-capability-in-your-angular-app-with-service-worker-762a889a503d,[Part 1] Get rapid offline capability in your Angular app with service worker,https://github.com/pazguille/offline-first#readme,Offline-First
-https://auth0.com/blog/2015/10/30/creating-offline-first-web-apps-with-service-workers/,Creating Offline-First Web Apps with Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.slideshare.net/IBMBluemix/offlinefirst-mobile-web-apps-with-pouchdb-ibm-cloudant-and-ibm-bluemix,Offline-first mobile web apps with PouchDB, IBM Cloudant, and IBM Bluemix,https://github.com/pazguille/offline-first#readme,Offline-First
-https://adactio.com/journal/9888,Cache-limiting in Service Workers …again,https://github.com/pazguille/offline-first#readme,Offline-First
-https://vimeo.com/171317290,Offline is the new black,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hacks.mozilla.org/2010/01/offline-web-applications/,Offline Web Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=fj49cSQ986k,Working connected to create offline,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.w3.org/TR/webstorage/,WebStorage,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-jsconf-budapest-may-2016,Building an Offline Page for theguardian.com,https://github.com/pazguille/offline-first#readme,Offline-First
+http://delapuente.github.io/presentations/at-your-service/index.html,At your service! - More than appcache uses for Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=Oic22dQMRXQ,What's the right way to build offline into a web application?,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee,Rethinking Offline First sync for Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@dalmaer/offline-first-learning-from-native-experiences-4a778ce8a445,Offline First: Learning from native experiences,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b,Using React and Preact to Build My First Offline First Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+http://brandonrozek.tumblr.com/post/135657690564/service-workers,An Offline Experience with Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=Rr2vXDIVerI,The ServiceWorker is coming, look busy!,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.lukew.com/ff/entry.asp?1902,Breaking Development: Offline First is the new Mobile First,https://github.com/pazguille/offline-first#readme,Offline-First
+http://diveintohtml5.info/offline.html,Let's take this offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s,The Next Challenge of the Web is Us,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc,Offline support: "Try again, later", no more.,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.kryogenix.org/days/2013/11/06/offline-first/,Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-london-web-perf-march-2016,Building an Offline Page for theguardian.com,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API,IndexedDB,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin,Offline First (Web) Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=_kJMjJ1tm6o,Offline-first for Your Static Site,https://github.com/pazguille/offline-first#readme,Offline-First
+https://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk,Service Worker and the Offline Web,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API,ServiceWorkers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hacks.mozilla.org/2015/12/beyond-offline/,Beyond Offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.infoq.com/articles/mobile-apps-offline-support,Mobile Apps Offline Support,https://github.com/pazguille/offline-first#readme,Offline-First
 http://alistapart.com/column/how-do-we-get-it-done-now,How Do We Get It Done, Now?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.christianheilmann.com/2016/08/26/songsearch-using-serviceworker-to-make-a-4-mb-csv-easily-searchable-in-a-browser/,Songsearch – using ServiceWorker to make a 4 MB CSV easily searchable in a browser,https://github.com/pazguille/offline-first#readme,Offline-First
-http://shop.oreilly.com/product/0636920043676.do,Client-Side Data Storage,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7,Offline First React Native + Meteor Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=fGTUIlEM0m8&feature=youtu.be&t=2200,Service workers at scale with Facebook and Flipkart,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux,Offline UX Considerations,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/progressive-web-apps/building-offline-webapp-using-serviceworkers-8939a694cc5,Building an offline Web App that works in very low internet conditions using ServiceWorkers,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.smashingmagazine.com/2014/09/building-simple-cross-browser-offline-todo-list-indexeddb-websql/,Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.infoq.com/presentations/html5-offline-storage,Look Ma, No Connections! Building Offline-capable Web Apps with HTML5,https://github.com/pazguille/offline-first#readme,Offline-First
+https://remotestorage.io/,remoteStorage,https://github.com/pazguille/offline-first#readme,Offline-First
+http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/,Build More Reliable Web Apps with Offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/,Using Service Workers and Cache to Take Web Performance to a New Level,https://github.com/pazguille/offline-first#readme,Offline-First
+http://github.hubspot.com/offline/docs/welcome/,Offline.js,https://github.com/pazguille/offline-first#readme,Offline-First
 https://unoyunodiez.wordpress.com/2015/08/23/modern-mobile-web-development-01/,The Role of Workers and Offline Cache,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@d.gieselaar/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7,The offline experience (or, saying goodbye to imperative data fetching),https://github.com/pazguille/offline-first#readme,Offline-First
-http://orbitjs.com/,Orbit.js,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.youtube.com/watch?v=NEferkZOGV4&feature=youtu.be,Offline First – the good parts,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/bradleyholt/building-offline-enabled-apps-with-pouchdb-at-php-tek-2015,Building Offline-Enabled Apps with PouchDB,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf,Offline First: The book (draft),https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.slideshare.net/dickolsson/lets-take-drupal-offline-41650712,Let's Take Drupal Offline!,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developers.google.com/web/updates/2015/11/app-shell,Instant Loading Web Apps with an Application Shell Architecture by Google,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.infoq.com/presentations/status-web-offline,Status Web Offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.ibm.com/developerworks/community/blogs/worklight/entry/offline_patterns?lang=en,Offline Patterns,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883,Building Flipkart Lite: A Progressive Web App,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.thedotpost.com/2016/12/nolan-lawson-service-worker-and-the-appification-of-the-web,Service Worker and the Appification of the Web,https://github.com/pazguille/offline-first#readme,Offline-First
+https://byrslf.co/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e,Three takeaways for web developers after two weeks of painfully slow internet,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=pklpK55uQmE&feature=youtu.be,Offline Web Apps,Web Storage,IndexedDB,AppCache,File API Futures,https://github.com/pazguille/offline-first#readme,Offline-First
+http://hood.ie/blog/say-hello-to-offline-first.html,Say Hello to Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
+https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit,Service Workers on vacay...,https://github.com/pazguille/offline-first#readme,Offline-First
 http://sakurity.com/blog/2015/07/28/appcache.html,Let's make Offline Web Applications secure!,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.ibm.com/tv/untappd-web-apps/,The New Builders Ep. 1: Craft Beer and Progressive Web Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f,Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/zoepage/say-hello-to-offline-first,Say hello to offline first!,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223,Offline POSTs in Progressive Web Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/,Offline strategies come to the Service Worker Cookbook,https://github.com/pazguille/offline-first#readme,Offline-First
-https://minutes.io,Minutes.io,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=BKD7ZLRi9HI,Service Workers: Offline Now(ish)!,https://github.com/pazguille/offline-first#readme,Offline-First
+http://codekult.github.io/tgif-offline-first/,TGIF - Offline-first,https://github.com/pazguille/offline-first#readme,Offline-First
+https://mxb.at/blog/offline-forms/,Offline-Friendly Forms,https://github.com/pazguille/offline-first#readme,Offline-First
+https://teamgaslight.com/blog/offline-web-applications-with-couchdb-pouchdb-and-ember-cli,Offline Web Applications with CouchDB, PouchDB and Ember CLI,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/,How Google and Mozilla are aiming to make web apps shine offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/,Your first offline web app,https://github.com/pazguille/offline-first#readme,Offline-First
+http://offlinestat.es/,Offline States,https://github.com/pazguille/offline-first#readme,Offline-First
 https://blog.wanderview.com/blog/2015/07/28/service-worker-meeting-highlights/,Service Worker Meeting Highlights,https://github.com/pazguille/offline-first#readme,Offline-First
-https://adactio.com/journal/10410,The web on my phone,https://github.com/pazguille/offline-first#readme,Offline-First
-https://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html,Using HTML5 AppCache with Single Page Applications,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.slideshare.net/ColdFusionConference/naked-and-afraid-48288396,Naked and afraid Offline Mobile,https://github.com/pazguille/offline-first#readme,Offline-First
-http://blog.humphd.org/introducing-makedrive/,Introducing MakeDrive,https://github.com/pazguille/offline-first#readme,Offline-First
-https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/,"Instant Loading" with IndexedDB (Building a PWA, Part 2),https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.slideshare.net/andrewsmatt/velocity-eu-2014,Offline-first web apps - Velocity EU 2014,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.levvel.io/blog-post/offline-data-in-the-browser/,Offline Data in the Browser,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/offline-camp/supporting-offline-users-what-happens-when-it-breaks-562f7dcea0a9,Supporting Offline Users — What Happens When it Breaks?,https://github.com/pazguille/offline-first#readme,Offline-First
-https://gabrielecirulli.github.io/2048/,2048,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3,Offline First Design Patterns : Engineering,https://github.com/pazguille/offline-first#readme,Offline-First
-https://stories.jotform.com/offline-first-web-applications-d2d321444510,Offline-First Web Application Using Redux and PouchDB,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/espylaub/offline-first-web-apps,Offline First (Web) Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@papasimons/worklight-authentication-done-right-with-angularjs-768aa933329c,Worklight Authentication done right with AngularJs,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.deanhume.com/Home/BlogPost/service-workers--save-your-users-data-using-the-save-data-header/10139,Service Workers: Save your User's Data using the Save-Data Header,https://github.com/pazguille/offline-first#readme,Offline-First
-http://blog.lamplightdev.com/2015/01/06/A-Simple-ServiceWorker-App/,A simple ServiceWorker app,https://github.com/pazguille/offline-first#readme,Offline-First
-http://alistapart.com/article/application-cache-is-a-douchebag,Application Cache is a Douchebag,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/@papasimons/taking-your-worklight-apps-offline-e8c2c2d8533a,Taking your Worklight apps offline,https://github.com/pazguille/offline-first#readme,Offline-First
-https://adactio.com/journal/10186,Service Worker notes,https://github.com/pazguille/offline-first#readme,Offline-First
-https://speakerdeck.com/gr2m/offline-first-made-simple,Offline First – Made Simple!,https://github.com/pazguille/offline-first#readme,Offline-First
-https://medium.com/offline-camp/offline-first-security-59bf4800e82a,Security in Offline First Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://vimeo.com/171317290,Offline is the new black,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@patcito/making-react-europe-org-work-offline-with-service-workers-f54fb0457048,Making react-europe.org work offline with Service Workers and free SSL from Cloudflare,https://github.com/pazguille/offline-first#readme,Offline-First
+https://huffduffer.com/AlanDalton/202718,ServiceWorkers and High Performance Offline Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+http://hood.ie/blog/minutes-offline-case-study,A Hoodie Case Study: How minutes.io does offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=fGTUIlEM0m8&feature=youtu.be&t=2200,Service workers at scale with Facebook and Flipkart,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@coreflodev/understand-offline-first-and-offline-last-in-android-71191e92b426,Understand offline first and offline last in Android,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.ibm.com/clouddataservices/2016/05/05/offline-first-qr-code-badge-scanner/,Offline-first QR-code Badge Scanner,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.youtube.com/watch?v=NEferkZOGV4&feature=youtu.be,Offline First – the good parts,https://github.com/pazguille/offline-first#readme,Offline-First
+https://nolanlawson.com/2014/10/03/offline-first-is-people-first/,Offline-first is people-first,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.w3.org/TR/file-system-api/,HTML5 Filesystem API,https://github.com/pazguille/offline-first#readme,Offline-First
+https://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic,Offline Data Synchronization in Ionic,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/,Offline First: Your Next Progressive Enhancement Technique?,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.slideshare.net/IBMBluemix/offlinefirst-mobile-web-apps-with-pouchdb-ibm-cloudant-and-ibm-bluemix,Offline-first mobile web apps with PouchDB, IBM Cloudant, and IBM Bluemix,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hackernoon.com/service-worker-one-fallback-offline-image-for-any-aspect-ratio-b427c0f897fb,Service Worker: One fallback offline image for any aspect ratio,https://github.com/pazguille/offline-first#readme,Offline-First
+https://jakearchibald.com/2014/service-worker-first-draft/,Service Worker - first draft published,https://github.com/pazguille/offline-first#readme,Offline-First
+http://orbitjs.com/,Orbit.js,https://github.com/pazguille/offline-first#readme,Offline-First
+https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/,Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”,https://github.com/pazguille/offline-first#readme,Offline-First
+http://shop.oreilly.com/product/0636920052067.do,Building Progressive Web Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/bradleyholt/building-offline-enabled-apps-with-pouchdb-at-php-tek-2015,Building Offline-Enabled Apps with PouchDB,https://github.com/pazguille/offline-first#readme,Offline-First
+https://css-tricks.com/serviceworker-for-offline/,Making a Simple Site Work Offline with ServiceWorker,https://github.com/pazguille/offline-first#readme,Offline-First
+http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602,Leveraging hood.ie to build for the offline state,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.infoq.com/presentations/html5-offline-storage,Look Ma, No Connections! Building Offline-capable Web Apps with HTML5,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers,Introducing Hoodie: Full Stack App Development for Front-End Developers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom,Building an offline page for theguardian.com,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.webdirections.org/blog/appcache-not-so-much-a-douchebag-as-a-complete-pain-in-the/,Appcache, not so much a douchebag as a complete pain in the #$%^,https://github.com/pazguille/offline-first#readme,Offline-First
+http://blog.booking.com/progressive-web-apps-with-service-workers.html,Progressive Web Apps with Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
 http://www.cbronline.com/news/mobility/apps/qa-offline-first-not-just-mobile-first-says-couchbase-4609613,Q&A: Offline first, not just mobile first says Couchbase,https://github.com/pazguille/offline-first#readme,Offline-First
-http://mmariani.github.io/appcachefacts/,Appcache Facts,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.soundslice.com/,Soundslice,https://github.com/pazguille/offline-first#readme,Offline-First
-https://plus.google.com/+IlyaGrigorik/posts/WPZsWr4QGqR,ServiceWorker is available in Chrome 40 beta,https://github.com/pazguille/offline-first#readme,Offline-First
-https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/,My blog's Service Worker and Caching Strategy,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/zoepage/say-hello-to-offline-first,Say hello to offline first!,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.smashingmagazine.com/2014/09/building-simple-cross-browser-offline-todo-list-indexeddb-websql/,Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/espylaub/offline-first-web-apps,Offline First (Web) Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.levvel.io/blog-post/offline-data-in-the-browser/,Offline Data in the Browser,https://github.com/pazguille/offline-first#readme,Offline-First
+http://shop.oreilly.com/product/0636920043676.do,Client-Side Data Storage,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.slideshare.net/ColdFusionConference/naked-and-afraid-48288396,Naked and afraid Offline Mobile,https://github.com/pazguille/offline-first#readme,Offline-First
+https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/,Offline-First, Document Sharing, Templates: Monod is Back (not in Black),https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.slideshare.net/dickolsson/lets-take-drupal-offline-41650712,Let's Take Drupal Offline!,https://github.com/pazguille/offline-first#readme,Offline-First
+https://mxb.at/blog/youre-offline/,You're Offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e,Accessibility Testing for Offline First Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.christianheilmann.com/2016/08/26/songsearch-using-serviceworker-to-make-a-4-mb-csv-easily-searchable-in-a-browser/,Songsearch – using ServiceWorker to make a 4 MB CSV easily searchable in a browser,https://github.com/pazguille/offline-first#readme,Offline-First
+https://speakerdeck.com/gr2m/offline-first-made-simple,Offline First – Made Simple!,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/onehourcode/part-2-get-rapid-offline-capability-in-your-angular-app-with-service-worker-954f17109dd0,[Part 2] Get rapid offline capability in your Angular app with service worker,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/buildit/why-offline-first-20470604ee36,Why Offline First?,https://github.com/pazguille/offline-first#readme,Offline-First
+http://blog.humphd.org/introducing-makedrive/,Introducing MakeDrive,https://github.com/pazguille/offline-first#readme,Offline-First
+https://ponyfoo.com/articles/backgroundsync,ServiceWorker: A Basic Guide to BackgroundSync,https://github.com/pazguille/offline-first#readme,Offline-First
+http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/,Reducing Single Point of Failure using Service Workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/offline-camp/offline-first-security-59bf4800e82a,Security in Offline First Apps,https://github.com/pazguille/offline-first#readme,Offline-First
 https://qconlondon.com/london-2014/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf,Offline First Re-Imagining Web Development For The Real World,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@d.gieselaar/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7,The offline experience (or, saying goodbye to imperative data fetching),https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@argo49/how-to-add-an-offline-notification-to-your-pwa-c11ee640822b,How to add an “Offline” notification to your PWA,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.slideshare.net/andrewsmatt/velocity-eu-2014,Offline-first web apps - Velocity EU 2014,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html,Send messages when you’re back online with Service Workers and Background Sync,https://github.com/pazguille/offline-first#readme,Offline-First
+https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161,Persistent Storage API: Building for the offline web,https://github.com/pazguille/offline-first#readme,Offline-First
+http://www.ae.be/blog-en/offline-first-simple-unplug-play/,Offline first: as simple as unplug & play?,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/onehourcode/part-1-get-rapid-offline-capability-in-your-angular-app-with-service-worker-762a889a503d,[Part 1] Get rapid offline capability in your Angular app with service worker,https://github.com/pazguille/offline-first#readme,Offline-First
+https://adactio.com/journal/9888,Cache-limiting in Service Workers …again,https://github.com/pazguille/offline-first#readme,Offline-First
+https://adactio.com/journal/10410,The web on my phone,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/progressive-web-apps/building-offline-webapp-using-serviceworkers-8939a694cc5,Building an offline Web App that works in very low internet conditions using ServiceWorkers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://minutes.io,Minutes.io,https://github.com/pazguille/offline-first#readme,Offline-First
+https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin,Easy Offline First Apps With Webpack's Offline Plugin,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@papasimons/worklight-authentication-done-right-with-angularjs-768aa933329c,Worklight Authentication done right with AngularJs,https://github.com/pazguille/offline-first#readme,Offline-First
+https://gabrielecirulli.github.io/2048/,2048,https://github.com/pazguille/offline-first#readme,Offline-First
 https://uxdesign.cc/offline-93c2f8396124,Offline: When Your Apps Can’t Connect to the Internet,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.chrome.com/apps/offline_apps,Chrome Offline Apps,https://github.com/pazguille/offline-first#readme,Offline-First
-http://infrequently.org/2014/12/psa-service-workers-are-coming/,PSA: Service Workers are Coming,https://github.com/pazguille/offline-first#readme,Offline-First
-http://www.kinto-storage.org/,Kinto,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/,Do HTML5 apps have to be online all the time?,https://github.com/pazguille/offline-first#readme,Offline-First
+http://hospitalrun.io/,hospitalrun.io,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7,Offline First React Native + Meteor Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://adactio.com/journal/10186,Service Worker notes,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@papasimons/taking-your-worklight-apps-offline-e8c2c2d8533a,Taking your Worklight apps offline,https://github.com/pazguille/offline-first#readme,Offline-First
 http://betanews.com/2015/03/04/offline-is-not-just-another-mobile-feature/,Offline is not just another mobile feature,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.sitepoint.com/building-offline-first-app-pouchdb/,Building an Offline First App with PouchDB,https://github.com/pazguille/offline-first#readme,Offline-First
+http://blog.lamplightdev.com/2015/01/06/A-Simple-ServiceWorker-App/,A simple ServiceWorker app,https://github.com/pazguille/offline-first#readme,Offline-First
+https://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html,Using HTML5 AppCache with Single Page Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f,Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue,https://github.com/pazguille/offline-first#readme,Offline-First
 https://developers.google.com/web/updates/2015/02/offline-first-with-sw-precache,Offline-first, fast, with the sw-precache module,https://github.com/pazguille/offline-first#readme,Offline-First
-https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/,The next UX challenge on the web: gaining offline trust,https://github.com/pazguille/offline-first#readme,Offline-First
+https://plus.google.com/+IlyaGrigorik/posts/WPZsWr4QGqR,ServiceWorker is available in Chrome 40 beta,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223,Offline POSTs in Progressive Web Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3,Offline First Design Patterns : Engineering,https://github.com/pazguille/offline-first#readme,Offline-First
+http://alistapart.com/article/application-cache-is-a-douchebag,Application Cache is a Douchebag,https://github.com/pazguille/offline-first#readme,Offline-First
+http://mmariani.github.io/appcachefacts/,Appcache Facts,https://github.com/pazguille/offline-first#readme,Offline-First
+http://infrequently.org/2014/12/psa-service-workers-are-coming/,PSA: Service Workers are Coming,https://github.com/pazguille/offline-first#readme,Offline-First
+https://stories.jotform.com/offline-first-web-applications-d2d321444510,Offline-First Web Application Using Redux and PouchDB,https://github.com/pazguille/offline-first#readme,Offline-First
 http://www.formotus.com/17221/blog-mobility/offline-is-not-a-feature,Offline is Not a Feature,https://github.com/pazguille/offline-first#readme,Offline-First
-https://developer.amazon.com/public/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html,Introduction to Offline Web Apps on the Kindle Fire,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.chrome.com/apps/offline_apps,Chrome Offline Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/offline-camp/supporting-offline-users-what-happens-when-it-breaks-562f7dcea0a9,Supporting Offline Users — What Happens When it Breaks?,https://github.com/pazguille/offline-first#readme,Offline-First
+http://blog.getchop.io/2016/12/14/designing-for-accidental-disconnects-our-first-attempt-at-an-offline-approach/,Designing for Accidental Disconnects: Our first attempt at an offline approach,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/,The next UX challenge on the web: gaining offline trust,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developers.google.com/web/updates/2016/09/foreign-fetch,Cross-origin Service Workers: Experimenting with Foreign Fetch,https://github.com/pazguille/offline-first#readme,Offline-First
 https://developers.google.com/web/fundamentals/getting-started/primers/service-workers,Introduction to Service Worker,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developers.google.com/web/updates/2015/11/app-shell,Instant Loading Web Apps with an Application Shell Architecture by Google,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/,Do HTML5 apps have to be online all the time?,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/,Offline strategies come to the Service Worker Cookbook,https://github.com/pazguille/offline-first#readme,Offline-First
+https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/,"Instant Loading" with IndexedDB (Building a PWA, Part 2),https://github.com/pazguille/offline-first#readme,Offline-First
 https://subvisual.co/blog/posts/45-offline-web-apps-with-meteor,Offline Web Apps with Meteor,https://github.com/pazguille/offline-first#readme,Offline-First
+https://www.sitepoint.com/building-offline-first-app-pouchdb/,Building an Offline First App with PouchDB,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.amazon.com/public/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html,Introduction to Offline Web Apps on the Kindle Fire,https://github.com/pazguille/offline-first#readme,Offline-First

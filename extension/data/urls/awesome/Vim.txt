@@ -1,12 +1,17 @@
+https://en.wikipedia.org/wiki/Computer_terminal,terminal,https://github.com/mhinz/vim-galore#readme,Vim
+http://ctags.sourceforge.net/,ctags,https://github.com/mhinz/vim-galore#readme,Vim
+http://www.viemu.com/a-why-vi-vim.html,Why, oh WHY, do those #?@! nutheads use
+http://postd.cc/?s=vim-galore,Japanese,https://github.com/mhinz/vim-galore#readme,Vim
+http://vimcasts.org/episodes/archive,vimcasts.org,https://github.com/mhinz/vim-galore#readme,Vim
 https://en.wikipedia.org/wiki/Caret_notation,caret notation,https://github.com/mhinz/vim-galore#readme,Vim
+http://givi.olnd.ru/vim-galore/vim-galore-ru.html,Russian,https://github.com/mhinz/vim-galore#readme,Vim
 https://en.wikipedia.org/wiki/Terminfo,terminfo,https://github.com/mhinz/vim-galore#readme,Vim
 https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA,By wincent,https://github.com/mhinz/vim-galore#readme,Vim
-http://postd.cc/?s=vim-galore,Japanese,https://github.com/mhinz/vim-galore#readme,Vim
 http://vim.wikia.com/wiki/Disable_beeping,Vim Wiki: Disable beeping,https://github.com/mhinz/vim-galore#readme,Vim
-http://givi.olnd.ru/vim-galore/vim-galore-ru.html,Russian,https://github.com/mhinz/vim-galore#readme,Vim
+https://creativecommons.org/licenses/by-sa/4.0,CC BY-SA 4.0,https://github.com/mhinz/vim-galore#readme,Vim
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms649012(v=vs.85).aspx,clipboard,https://github.com/mhinz/vim-galore#readme,Vim
+https://en.wikipedia.org/wiki/QED_(text_editor),qed,https://github.com/mhinz/vim-galore#readme,Vim
 http://derekwyatt.org/vim/tutorials/index.html,By Derek Wyatt,https://github.com/mhinz/vim-galore#readme,Vim
 http://cream.sourceforge.net,cream,https://github.com/mhinz/vim-galore#readme,Vim
 https://de.wikipedia.org/wiki/Repetitive-Strain-Injury-Syndrom,RSI,https://github.com/mhinz/vim-galore#readme,Vim
-https://creativecommons.org/licenses/by-sa/4.0,CC BY-SA 4.0,https://github.com/mhinz/vim-galore#readme,Vim
 http://www.x.org/wiki,X,https://github.com/mhinz/vim-galore#readme,Vim
-https://en.wikipedia.org/wiki/QED_(text_editor),qed,https://github.com/mhinz/vim-galore#readme,Vim

@@ -1,6 +1,11 @@
 https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/,[Website],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.iro.umontreal.ca/~bengioy/dlbook/,Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.facebook.com/sharer/sharer.php?u=https://jiwonkim.org/awesome-deep-vision,Share on Facebook,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012,[Paper],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf,Slide,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf,[Paper-CVPR],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://arxiv.org/pdf/1512.03385v1.pdf,Paper,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: RemoteDisconnected('Remote end closed connection without response') | reason: 
-http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf,Paper,https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf,[Paper],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf,[Paper],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/,[Dataset],https://github.com/kjw0612/awesome-deep-vision#readme,Deep Vision error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

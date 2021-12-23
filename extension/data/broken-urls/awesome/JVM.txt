@@ -1,9 +1,13 @@
 http://www.paralleluniverse.co/quasar/,Quasar,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://g.oswego.edu/,Doug Lea,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://javacc.java.net/,javacc,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://nighthacking.com/g1-gc-with-kirk-pepperdine/,G1 Garbage Collector in Java 8/9,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://deeplearning4j.org/,Deeplearning4j,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.azul.com/files/wp_pgc_zing_v52.pdf,Azul Pauseless Garbage Collection,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://source.android.com/devices/tech/dalvik/,Dalvik,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
-https://blogs.oracle.com/jrose/,John Rose,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 
-http://chrononsystems.com,Chronon,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('timed out') | reason: 
+https://www.azul.com/products/zulu/,Zulu,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://blogs.oracle.com/dave/,Dave Dice,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 
+http://g.oswego.edu/,Doug Lea,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://chrononsystems.com,Chronon,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('timed out') | reason: 
+https://blogs.oracle.com/jrose/,John Rose,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 

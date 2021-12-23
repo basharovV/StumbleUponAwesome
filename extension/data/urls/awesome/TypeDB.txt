@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=pqcZ9_4-79U,Causal Knowledge Graphs Using TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=0ir12x5FB4s,Ontology-Driven Modelling for Text-Mining Around Technology and Engineering,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://vaticle.com,TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://stackoverflow.com/questions/tagged/typedb,Stack Overflow,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=H-Ln8YUITRw,Using TypeDB for Content Authorisation Across the Enterprise,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=JTxvJxVNSH4,Comparing Graph Databases to TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/a-clinical-decision-support-system-built-with-a-kn,A Clincial Decision Support System Built with a Knowledge Graph,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://grakncosmos.com/,Cosmos,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=rNCvAGdiw1I&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I,Comparing SQL to Graql,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/c/vaticle,YouTube,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=s6xGQS84qKM,Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=uxZovj2ekIQ,Comparing Property Graph Databases to Grakn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY,Orbit,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/object-recognition-and-spacial-awareness-for-a-spo,Object Recognition and Spatial Awareness for a SPOT Robotics System,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=nYDi1_UaFtU&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I,How Can We Complete a Knowledge Graph?,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://docs.vaticle.com/,Documentation for mainline version,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://forum.vaticle.com,Discuss,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/knowledge-models-and-causal-diagrams,Knowledge Models and Causal Diagrams,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://vaticle.com/discord,Discord,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/building-a-biomedical-knowledge-graph,Building a Biomedical Knowledge Graph,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a,A day described in Grakn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/how-roche-discovered-novel-potential-gene-targets,How Roche Discovered Novel Potential Gene Targets with TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/social-graphs-for-drug-development,Social Graphs for Drug Development,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/modelling-biomedical-data-for-a-drug-discovery-kno-1,Modelling Biomedical Data for a Drug Discovery Knowledge Graph,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867,Introducing GraMi — a Data Migration Tool for Grakn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://dzone.com/articles/comparing-graql-to-sql-part-12,Comparing Graql to SQL — Part 1/2,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-1-3-3558c447214a,Comparing Grakn to Semantic Web Technologies — Part 1/3,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-2-3-4602b56969fc,Comparing Grakn to Semantic Web Technologies — Part 2/3,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-3-3-cb2fb233fbd5,Comparing Grakn to Semantic Web Technologies — Part 3/3,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/neo4j-vs-grakn-part-i-basics-f2fe3511ce88,Neo4j vs GRAKN Part I: Basics,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://towardsdatascience.com/neo4j-vs-grakn-part-ii-semantics-11a0847ae7a2,Neo4j vs GRAKN Part II: Semantics,https://github.com/vaticle/typedb-awesome#readme,TypeDB

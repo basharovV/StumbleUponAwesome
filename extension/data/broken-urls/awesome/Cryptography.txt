@@ -1,5 +1,2 @@
-https://www.schneier.com/academic/paperfiles/paper-self-study.pdf,A Self-Study Course In Block-Cipher Cryptanalysis,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.khanacademy.org/computing/computer-science/cryptography,Journey into cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography error: timeout('The read operation timed out') | reason: 
-https://lists.randombit.net/mailman/listinfo/cryptography,randombit.net,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
 https://bitbucket.org/sergworks/tforge,TForge,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.reddit.com/r/cryptography/,Subreddit of Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography error: timeout('The read operation timed out') | reason: 
+http://cacr.uwaterloo.ca/hac/index.html,Handbook of Applied Cryptography,https://github.com/sobolevn/awesome-cryptography#readme,Cryptography error: <HTTPError 404: 'Not Found'> | reason: Not Found

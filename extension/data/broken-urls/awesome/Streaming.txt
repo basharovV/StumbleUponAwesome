@@ -1,0 +1,1 @@
+https://azure.microsoft.com/en-us/services/stream-analytics/,Azure Stream Analytics,https://github.com/manuzhang/awesome-streaming#readme,Streaming error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

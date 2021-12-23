@@ -1,1 +1,2 @@
 http://cellprofiler.org/cp-analyst/,CellProfiler Analyst,https://github.com/cytodata/awesome-cytodata#readme,Cytodata error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://doi.org/10.1046/j.1365-2818.2000.00669.x,Retrospective shading correction based entropy minimization,https://github.com/cytodata/awesome-cytodata#readme,Cytodata error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable

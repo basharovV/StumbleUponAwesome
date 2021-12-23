@@ -1,1 +1,3 @@
-http://pgbovine.net/python-async-io-walkthrough.htm,blog post,https://github.com/timofurrer/awesome-asyncio#readme,Asyncio error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://pgbovine.net/python-async-io-walkthrough.htm,blog post,https://github.com/timofurrer/awesome-asyncio#readme,Asyncio error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html,Short well-written intro to asyncio,https://github.com/timofurrer/awesome-asyncio#readme,Asyncio error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e,AsyncIO for the Working Python Developer,https://github.com/timofurrer/awesome-asyncio#readme,Asyncio error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

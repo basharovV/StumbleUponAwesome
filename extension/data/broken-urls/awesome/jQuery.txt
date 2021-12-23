@@ -1,1 +1,3 @@
+https://j11y.io/javascript/extending-jquerys-selector-capabilities/,Extending jQuery,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://j11y.io/jquery/,jQuery Source Viewer,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://lab.abhinayrathore.com/jquery-cheatsheet/,jQuery CheatSheet,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error

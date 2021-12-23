@@ -1,1 +1,3 @@
-http://www.celeryproject.org/,celery,https://github.com/vinta/awesome-python#readme,Python error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+https://arcade.academy/index.html,Arcade,https://github.com/vinta/awesome-python#readme,Python error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://vibora.io/,vibora,https://github.com/vinta/awesome-python#readme,Python error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.pythonware.com/products/pil/,PIL,https://github.com/vinta/awesome-python#readme,Python error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

@@ -1,2 +1,1 @@
-https://bitbucket.org/ryzom/ryzomcore/src/develop/,Ryzom Core,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/opentyrian/opentyrian/wiki/Home,OpenTyrian,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sourceforge.net/p/uhexen2/code/HEAD/tree/,Hexen II: Hammer of Thyrion,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 404: 'Not Found'> | reason: Not Found

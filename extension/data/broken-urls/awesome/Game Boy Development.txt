@@ -1,4 +1,5 @@
-http://gbdk-developers.com/,GBDK Developers,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://gameboy.modermodemet.se/en,Game Boy Demospotting,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=6823,Novascape,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://www.atari2600land.com/gameboy/oranges.html,oranges,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 400: 'Bad Request'> | reason: Bad Request
+http://gameboy.mongenel.com/asmschool.html,ASMSchool,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt,GameBoy Color DMA-Transfers v0.0.1,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://gameboy.mongenel.com/dmg/istat98.txt,STAT interrupt timings,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/,Turbo Rascal Syntax Error,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
+https://gbhh.avivace.com,Homebrew Hub,https://github.com/gbdev/awesome-gbdev#readme,Game Boy Development error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

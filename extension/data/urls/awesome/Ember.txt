@@ -1,343 +1,370 @@
-http://blog.firstiwaslike.com/staging-environments-with-ember-cli-deploy/,Staging environments with ember-cli-deploy,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=PvsfQrKxl_8,Ember Inspector Sync,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax,Ember Syntax,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@sarbbottam/the-ember-js-testing-guide-i-made-for-myself-c9a073a0c718,The Ember.js testing guide, I made for myself,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 http://www.oligriffiths.com/broccolijs/,Eat Your Greens - A Broccoli.js tutorial,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://emberjs.com,,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=uhXA6ECaknw,Developing ember apps on glitch.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=7yxr4iBrZsw,Jackie Luo: From React to Ember: A Modern Comparison,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=0ziETDm1QTI&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW,EmberCamp 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codesandbox.io/s/octane-starter-li841,Ember Octane @ CodeSandbox,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL,EmberConf 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://devjournal.balinterdi.com/using-ember-animated-to-resort-a-list/,Using ember-animated to re-sort a list,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87,Ember CLI Addon Docs: Shared Documentation for the Ember.js Ecosystem,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://yehudakatz.com/,yehudakatz,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@piotr.steininger/automating-ember-js-app-deployment-on-aws-feccc6d94828,Automating Ember.js App Deployment on AWS,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@alvincrespo/ember-your-best-bet-b5cd7275dc84,Ember.js. Your best bet.,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/topic/ember,engineering.linkedin.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://alexspeller.com/ember-diagonal/,diagonal routes,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://embermap.com,embermap.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=fFzxbBrvytU,Chris Krycho: TypeScript and Ember js - Why and How?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=a1HALof3r5M&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc,EmberCamp 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://hangaroundtheweb.com/2018/02/an-elementary-guide-to-ember-build-performance/,An Elementary Guide to Ember.js Build Performance,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/emberfest/ember-netflix,Ember @ Netflix,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation,Test helpers: The next generation,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://folktale.origamitower.com,Folktale,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N,EmberConf 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://help-wanted.emberjs.com/core,Contribute to Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551,Ember Components: A Deep Dive,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberjs.com/api/,API,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UC1ssGKlQh87Ubyuv1lEiY0g,BuildLab: Ember.js Screencasts for the determined.,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/2017/12/04/enginification.html,Enginification,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://thejsguy.com/,thejsguy.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=vD7H9O--tu4,Isaac Lee: Use D3 with Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://javascriptreport.com/interview-with-tom-dale/,An Interview with Tom Dale of Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@mudflye/throttling-ember-data-with-ember-concurrency-ff30d804a1b,Throttling Ember-Data with Ember-Concurrency,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage,Rapid prototyping and easy testing with ember cli mirage,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/2017/08/28/creating-web-components-with-glimmer.html,Creating Web Components with Glimmer,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=ulWhjL0Aj5s,Ember San Francisco Meetup at Square, October 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.effective-ember.com/blog/deploying-fastboot-apps-with-ember-cli-deploy,Deploying FastBoot apps with ember-cli-deploy,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCi12gVD9jIDwJLVTNnKvhlw,Silicon Valley Ember.js meetup,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw,Amsterdam Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://shipshape.io/blog/ember-inspector-the-journey-so-far/,Ember Inspector - The Journey so Far,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@devotox/zero-cost-web-apps-part-1-b2d6b46916f1,How to Actually Build Superior Web Apps for Free,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://toddsmithsalter.com/how-to-reset-the-route-namespace-with-this-route/,How to reset the Ember.js router namespace with this.route(),https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.chriskrycho.com/2017/typing-your-ember-part-1.html,Set your Ember.js project up to use TypeScript,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/higher-order-components-in-emberjs.html,Higher-Order Components in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=nXCSloXZ-wc,ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@chrsmllr/confirming-actions-in-ember-362b19a0c01f,Confirming Actions in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets,Building Realtime Apps with Ember.js and WebSockets,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/peep-stack,Ember with Phoenix (AKA The PEEP Stack),https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=rsftBMGOfyo,Open Source Live - Robert Jackson and Chris Manson pair on ember-cli,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale,Ember Engines at Scale,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.emberschool.com,Emberschool.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://lodash.com,lodash,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.npmjs.com/package/ember-cli-extended-resolver,ember-cli-extended-resolver,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.melsumner.com/blog/ember/why-ember/,Why Ember.js?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=4b9VbB2bnfw,The Future of Ember js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t,Adopting ember-concurrency or: How I Learned to Stop Worrying and Love the Task,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=UpUtVGW43hY&list=PLXOJZupxSq204IxtG80UfIW-gU0IxAScY,So Ember 2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA,Boston Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://hackernoon.com/how-we-got-tests-for-200k-lines-ember-application-running-10-minutes-again-1fa7a4c5af2f,How we test 200k lines Ember.js application in <10 minutes. Again!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@sunskyearthwind/django-emberjs-full-stack-basics-connecting-frontend-and-backend-part-1-beed8c386b08,Django & Ember.js Full Stack Basics: Connecting Frontend and Backend — Part 1,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://crunchingnumbers.live/2019/04/02/animation-and-predictable-data-loading-in-ember/,Animation and Predictable Data Loading in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://hackernoon.com/tagged/ember,hackernoon.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://glimmerjs.com/,Glimmer.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.emberscreencasts.com/,Ember Screencasts,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=IprfNT0xbrI,Must have add-ons in EmberJS - Dawid Pośliński,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/macsour/how-to-handle-async-abilities-with-ember-can-22d90df056ed,How to handle async properties in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://swannodette.github.io/mori/,mori,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.201-created.com/you-can-only-change-what-you-can-measure-6be8826503a7,You can only change what you can measure,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://ember-can.com,authorisation addon,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e,PWA Your Ember.js App,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=9cseB2xoT-0,Ember: The Next 10 Years | Tom Dale | EmberCamp Chicago 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design,Start Me Up - Building an MVP with EmberJS, Firebase and Material Design,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G,Wicked Good Ember 2016,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.tutorialspoint.com/emberjs/route_glbng_rut.htm,Ember.js-Router Wildcard/Globbing Routes,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.mediasuite.co.nz/blog/managing-relations-ember-data-json-api/,Managing Relations in Ember Data with JSON API,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/front-end-hacking/tagged/ember,Ember.js on Medium,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@AveryBloom/async-or-swim-replacing-your-route-models-with-ember-concurrency-tasks-5a230252893a,Async or Swim: Replacing your Route models with Ember Concurrency Tasks,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709,Getting into Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.embercasts.com,embercasts.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.barelyknown.com/posts/async-computed-properties-in-ember,Async Computed Properties in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/typing-your-ember-update-part-2.html,Class properties — some notes on how things differ from the Ember.Object world,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application,Deploying a Location-Aware Ember Application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=VMnzGJ4PN0s,Building Modern Apps Using API Services - Ember Meetup August 21, 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://gumroad.com/l/xlsx,Developing an Ember.js Edge,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2018/04/18/bending-time-in-ember-tests,Bending Time in Ember.js Tests,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html,Getting Started With Glimmer-Native,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://guides.emberjs.com/,guides,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://envoy.engineering/a-framework-for-ambitious-chrome-extensions-b08d1f4b944d,A framework for ambitious Chrome Extensions,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codeburst.io/ember-js-lazy-assets-fingerprinting-loading-static-dynamic-assets-on-demand-f09cd7568155,Ember.js Lazy Assets: Fingerprinting & loading static/dynamic assets on demand,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://moutjs.com,Mout,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=fYHgyIlGttk,Stop Coding: You Have a Product Gap | Sam Selikoff | EmberCamp Chicago 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://selleo.com/blog/6-reasons-why-to-use-ember-in-2019,6 Reasons Why To Use Ember.js In 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://youtu.be/62xd25kEZ3o?t=27618,ReactiveConf 2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.201-created.com/,201-created.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCsy4OVL_kNXsxr0a5LNKWpw,Denver Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/ember-london/ember-test-recorder,Ember Test Recorder,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://ember.cool,ember.cool,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=rs71sx5IZ-U&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp,How to improve your tests? - Paweł Kuwik,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://blog.honeypot.io/emberjs-interview-questions-2018/,8 Top Ember.js Interview Questions in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=EcKaDu0xo_A,Caveats of the Default Store - Ember London - September 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://lolma.us/en/blog,lolma.us,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://madhatted.com/2017/7/12/embercamp-module-unification-update,EmberCamp Module Unification Update,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCyErLHzPqLAkL1F-SivFDcA,May I ask a Question,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://shipshape.io/blog/ember-data-belongs-to-find-or-create/,Creating a Default Record When a belongsTo Request Errors,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@jonpitch/adding-a-new-build-notification-to-an-ember-application-c657211289f6,Adding a new build notification to an Ember.js application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=ER1V_u0N7u4,Tim Thomas - Using Ember.js to build Electron Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.airpair.com/ember.js/posts/animations-in-emberjs-with-liquidfire,Animations in Ember.js with liquid-fire,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html,Building a PWA with Glimmer.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c,Customising Ember Power Select,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.ember-cli-mirage.com/,ember-cli-mirage,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.embercasts.com/,EmberCasts,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition,Everything one can expect in Ember Octane,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps,Upgrading Ember.js Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.prototypal.io/blog/,Ember.js: Our Secret Weapon,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017,Developing Desktop Apps with Electron & Ember.js - FITC WebU2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/ember-titbits/quest-4-ember-route-defaulting-to-my-own-f22b0dcb336f,Ember.js.Route redirecting ‘/’ to ‘/my-own’,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.rwjblue.com/2017/10/23/ember-qunit-simplication/,Ember.js QUnit Simplification,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://authmaker.com/,https://authmaker.com/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp,Optional & upcoming features - Michał Staśkiewicz,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://alexdiliberto.com/posts/ember-route-hooks-a-complete-look/,Ember.js Route Hooks — A Complete Look,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCMmzJ82sCmooDdtzVY8FxEA,Ember Videos,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.airpair.com/ember.js,airpair.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120,The case for Embeddable Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://frontendmasters.com/courses/advanced-ember-2/,Frontend Masters: Advanced Ember.js 2.x - Mike North,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx,EmberFest 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://ramdajs.com,Ramda,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/typing-your-ember-update-part-3.html,Computed properties, actions, mixins, and class methods,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/2018/06/05/ember-component-playground.html,Autodiscovery for the Ember.js component playground,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/,The Glimmer VM: Boots Fast and Stays Fast,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://ember-gist.joostdvrs.com/,Ember Gist,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@mikenorth/ember-community-meet-codesandbox-10a43076b3fa,Ember.js community, meet CodeSandbox!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://madhatted.com/,madhatted.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://ondrejsevcik.com/deprecate-css/,Make your deprecated CSS stand out,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://ember-community-russia.github.io/awesome-ember/,https://ember-community-russia.github.io/awesome-ember/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808,Deep Dive on Ember.js Events,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/2018/10/making-ember-applications--ui-transitions-screen-reader-friendly,Making Ember.js Applications' UI Transitions Screen Reader Friendly,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://music.apple.com/,https://music.apple.com/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=EcKaDu0xo_A&list=PL8xuokhAnn4rUlol6aspg-VYetu9BLsWV,Ember London 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://embermap.com/notes/83-the-case-against-async-relationships,The case against async relationships in Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/square-corner-blog/ember-and-yarn-workspaces-fca69dc5d44a,Ember.js and Yarn Workspaces,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=oRzmDobMZ_Q&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9,EmberFest 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCQeD0i9ltSV1aOfX6FGeiOA,Ember.js Dublin,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://alexdiliberto.com/,alexdiliberto.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders,ember-content-placeholders,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://documentcloud.github.io/underscore-contrib/,underscore-contrib,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://0xadada.pub/2019/06/17/essential-ember-addons/,The State of the Ember.js Addon Ecosystem in 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2018/03/29/testing-your-ember-application-in-2018,Testing your Ember.js application in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.ember-bootstrap.com/,ember-bootstrap,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=TSvnutA9PUE,Web Animations with Ember js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/ember-ish,medium.com/ember-ish,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://alexdiliberto.com/posts/emberconf-2020-notes/,A collection of notes that summarize EmberConf 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience,The Glimmer Binary Experience,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://leanpub.com/emberdatainthewild,Ember Data in the Wild,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://discuss.emberjs.com/,Forum,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://builtwithember.io/,builtwithember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=z4oxa-UR7oA&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA,EmberFest 2014,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://frontendmasters.com/courses/ember-2/,Frontend Masters: Ember.js 2.x - Mike North,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/kloeckner-i/ember-and-graphql-8aa15f7a2554,No Graph Theory Required: Ember.js and GraphQL in Practice,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCl7qY85b7KLJV3xnn1Xh_Cw,EmberATX,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://ember-concurrency.com,ember-concurrency,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.ember-cli-diff.org/,ember-cli-diff,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://alexdiliberto.com/posts/emberconf-2019-notes/,A collection of notes that summarize EmberConf 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@AveryBloom/ff309d6effdf,Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L,Intercom Screencasts,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://yoember.com/,yoember.com/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/emberfest/hybrid-apps-with-emberglimmer,Hybrid Apps with Ember/Glimmer,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberway.io/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9,ember-concurrency: the solution to so many problems you never knew you had,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0,Glimmer.js: What’s the Deal with TypeScript?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://fullstackstanley.com/read/configuring-ember-js-analytics-for-gdpr,Configuring Ember.js Analytics for GDPR,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dunkinbase.github.io/ember-elements/,a UI toolkit in Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dev.to/michalbryxi/share-emberjs-common-code-between-apps-1a7k,Share Ember.js common code between apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dev.to/jamesbyrne/static-types-in-emberjs-26b7,Static Types in Ember.js?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/emberfest/emberjs-in-the-year-2020,Ember.JS in the Year 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2018/01/11/modern-ember-testing,Modern Ember.js Testing,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberobserver.com/categories/ember-cli-simple-auth-extensions,ember-cli-simple-auth-extensions,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://embermap.com/topics/the-embermap-podcast/tom-dale-on-static-analysis-upstreaming-glimmer-and-ember-in-2018,Tom Dale on Static Analysis, Upstreaming Glimmer, and Ember in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://ember-cli.com/,ember-cli,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.ember-redux.com/,ember-redux,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberobserver.com/,emberobserver,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs,Developing Desktop Apps with Electron & Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=gyGZHydh0Hw&feature=em-uploademail,Maintaining an Ember App at Scale, with Chris Ng,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt,EmberConf 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://www.youtube.com/watch?v=63Ya91f8W-8,Productive Frontend Test Driven Development That Actually Works,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/typing-your-ember-update-part-4.html,Using Ember Data, and service and controller injections improvements,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w,EmberJSSeattleMeetup,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.jeffreybiles.com/build-pacman,build-pacman,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d,EmberConf 2014,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://lolma.us/en/blog/promise-proxy-mixin/,PromiseProxyMixin: pure Ember alternative to ember-concurrency,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63,Skeleton Screen Loading in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://locks.svbtle.com/to-attrs-or-not-to-attrs,To attrs or not to attrs,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2018/07/20/drag-and-drop-on-ios-with-ember,Drag and Drop on iOS with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=ECkbVa0iC4k,Commit Porto '19: Thriving through the hype cycle: an Ember.js story (Ricardo Mendes),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.prototypal.io/blog/,Ember.js: Our Secret Weapon,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-glimmer-syntax,Glimmer Templates Syntax for VS Code,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://madhatted.com/,madhatted.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://console.re/,console.re,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://kybishop.github.io/ember-attacher/,ember-attacher,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codingitwrong.com/2018/05/10/ember-orbit.html,Offline Data and Sync with Ember-Orbit,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://emberperf.eviltrout.com,emberperf,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9,Awesome Ember.js Addons,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://balinterdi.com/blog/,balinterdi.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://blog.nightwatch.io/ember-js-shipping-features,How Ember.js Enables Us to Focus on Shipping Features,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dev.to/nullvoxpopuli/the-emberjs-of-the-future-today-12c,The Ember.js of the future... today!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.reddit.com/r/emberjs/,Reddit,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=JbxaVHQFou0,Working with Ember Animated & Addon Internals: Ember Concurrency – Ember NYC, May 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU,EmberConf 2015,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw,EmberSchool,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.emberweekly.com/,Ember Weekly,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.netguru.co/blog/topic/ember-js,netguru.co,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://andycrum.github.io/ember-data-model-maker/,ember-data-model-maker,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/LinkedInPulse/tom-dale-ember-javascript-emberjs-linkedin,Tom Dale Talks EmberJS,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@mudflye/using-fakes-from-ember-sinon-qunit-c9fb7d4d9b1d,Using Fakes from Ember-Sinon-QUnit,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberjs.github.io/rfcs/,emberjs.GitHub.io/rfcs/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://hackernoon.com/how-does-ember-boot-5e1f9e7a1117,How does Ember Boot?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.ember-cli-zuglet.com/,ember-cli-zuglet,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/,Designing and Implementing Glimmer Like a Programming Language,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart,An Ember.js Debugging Flowchart,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways,Ember addons, served three ways,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e,ES Classes in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://shipshape.io/blog/static-blogs-with-prember-and-markdown/,Static Blogs with Prember and Markdown,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308,Building a performant real-time web app with Ember Fastboot and Phoenix,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008,Tips for improving build time of large apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://leanpub.com/ember-cli-101,ember-cli 101,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberobserver.com/addons/ember-debug-logger,ember-debug-logger,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2015/02/02/debugging-a-broccoli-tree,Debugging a Broccoli Tree,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=4iqNcTUXurY,Community Groups App - Creating Records in Ember CLI Mirage (part 2a),https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=N4KrBuO0RRE,Ember.js Tutorial: Build a painting game in 20 mins,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0,When you should not pick Ember.js as your next front-end tool,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1,Glimmer: Blazing Fast Rendering for Ember.js, Part 1,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://embercommunity.slack.com,Slack,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://caseywatts.com/2018/08/23/codemods.html,Codemods,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://astronomersiva.github.io/ember-line-graph/,ember-line-graph,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@sarbbottam/the-ember-js-testing-guide-i-made-for-myself-c9a073a0c718,The Ember.js testing guide, I made for myself,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://pusher.com/sessions/meetup/ember-london/using-typescript-in-ember,Using TypeScript in Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=eAI1LxgSOqw,Community Groups App - Creating Records in Ember CLI Mirage (part 2b),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=7yxr4iBrZsw,Jackie Luo: From React to Ember: A Modern Comparison,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://lolma.us/en/blog/class-and-attribute-bindings,Do not confuse environment for deploy target,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=0ziETDm1QTI&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW,EmberCamp 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=O4Mt-dDqkk0,Animating Across Routes with Ember Animated,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.ludu.co/course/ember,Discover Ember 2,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from,16 Opensource Ember.js Projects to Learn From,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://speakerdeck.com/tonywok/rainy-day-ember-data,Rainy Day Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://balinterdi.com/blog/built-in-input-helpers-in-ember-js-when-and-whether-they-should-be-used/,Built-in input helpers in Ember.js: when should they be used?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://embermap.com/topics/intro-to-broccoli/why-ember-uses-broccoli,Why Ember CLI uses Broccoli,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=ulWhjL0Aj5s,Ember San Francisco Meetup at Square, October 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://balinterdi.com/blog/inlining-store-data-in-ember-js/,Inlining store data in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://crunchingnumbers.live/2019/10/11/write-tests-like-a-mathematician-part-3/,Write Tests Like a Mathematician: Part 3,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation,Test helpers: The next generation,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=a1HALof3r5M&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc,EmberCamp 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codesandbox.io/s/github/mike-north/ember-new-output,Ember @ CodeSandbox,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable,unstable-ember-language-server,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UC-PzS1OA64zFD2kt3hwfGTA,EmberJS Chennai,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://music.apple.com/,https://music.apple.com/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codingitwrong.com/2018/08/21/decorating-guide.html,Decorating Guide: Commonly-Used Ember.js Decorators,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://balinterdi.com/blog/,balinterdi.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCyErLHzPqLAkL1F-SivFDcA,May I ask a Question,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://abhilashlr.in/ember-performance-tweaks-part-1,Ember performance tweaks: Optimising build timelines & bundle size,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/02/12/ember-3-16-released.html,Ember 3.16,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=R2JdP4lb5Xw,Creating an Ember Application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/freshworks-engineering-blog/dynamic-component-layout-in-ember-c9375c49126a,Dynamic component layout in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=4b9VbB2bnfw,The Future of Ember js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=uhXA6ECaknw,Developing ember apps on glitch.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL,EmberConf 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberobserver.com/addons/ember-debug-logger,ember-debug-logger,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codesandbox.io/s/octane-starter-li841,Ember Octane @ CodeSandbox,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app,How do I Even Web App,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://frontendmasters.com/courses/advanced-ember-2/,Frontend Masters: Advanced Ember.js 2.x - Mike North,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience,The Glimmer Binary Experience,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=Cvz-9ccflKQ&vl=en,Ember.js: The Documentary,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://discuss.emberjs.com/,Forum,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551,Ember Components: A Deep Dive,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=c0Rl6o9wLX0,Stef & Rob: do we still need the built-in Input component?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.chriskrycho.com/2017/typing-your-ember-part-1.html,Set your Ember.js project up to use TypeScript,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/2017/12/04/enginification.html,Enginification,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties,Ember.js Best Practices: Computed Properties with Dynamic Dependent Keys,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=EcKaDu0xo_A&list=PL8xuokhAnn4rUlol6aspg-VYetu9BLsWV,Ember London 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=9cseB2xoT-0,Ember: The Next 10 Years | Tom Dale | EmberCamp Chicago 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberigniter.com/5-essential-ember-concepts/,5 Essential Ember.js Concepts You Must Understand,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=fFzxbBrvytU,Chris Krycho: TypeScript and Ember js - Why and How?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/2018/01/24/ember-freestyle.html,Using ember-freestyle as a component playground,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-ember-app-with-ember-intl,How to translate your Ember.js application with ember-intl,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/emberfest/ember-netflix,Ember @ Netflix,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/ember-ish,medium.com/ember-ish,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=iTPFsXcTAaY&feature=youtu.be,Ember Octane - Great For Beginners,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=7Ym2ADCn77Q,Ember.js: The Documentary (Русская версия),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://ember-cli-crudities.readthedocs.io,ember-cli-crudities,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2016/09/14/understanding-ember-s-resolver,Understanding Ember's resolver,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://hackernoon.com/how-we-got-tests-for-200k-lines-ember-application-running-10-minutes-again-1fa7a4c5af2f,How we test 200k lines Ember.js application in <10 minutes. Again!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://creator.emojible.store/,https://creator.emojible.store/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=fYHgyIlGttk,Stop Coding: You Have a Product Gap | Sam Selikoff | EmberCamp Chicago 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=vD7H9O--tu4,Isaac Lee: Use D3 with Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCQeD0i9ltSV1aOfX6FGeiOA,Ember.js Dublin,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://raygun.com/,raygun,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0,Glimmer.js: What’s the Deal with TypeScript?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=HYwXL3f854Y&list=PL4eq2DPpyBbmvEzhyW9fhMzlctxwrn8JM&index=1,Yet Another Test Runner by Kelly Sheldon @ Ember London,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=783ccP__No8&vl=en,GraphQL: The Documentary,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=EcKaDu0xo_A,Caveats of the Default Store - Ember London - September 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@chrsmllr/confirming-actions-in-ember-362b19a0c01f,Confirming Actions in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://baconjs.github.io,Bacon.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UC1ssGKlQh87Ubyuv1lEiY0g,BuildLab: Ember.js Screencasts for the determined.,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://devjournal.balinterdi.com/using-ember-animated-to-resort-a-list/,Using ember-animated to re-sort a list,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=rsftBMGOfyo,Open Source Live - Robert Jackson and Chris Manson pair on ember-cli,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N,EmberConf 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.reddit.com/r/emberjs/,Reddit,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t,Adopting ember-concurrency or: How I Learned to Stop Worrying and Love the Task,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/03/16/ember-3-17-released.html,Ember 3.17,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2018/typing-your-ember-update-part-2.html,Class properties — some notes on how things differ from the Ember.Object world,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2015/09/18/ember-best-practices-avoid-leaking-state-into-factories,Ember.js Best Practices: Avoid leaking state into factories,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L,Intercom Screencasts,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets,Building Realtime Apps with Ember.js and WebSockets,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://abhilashlr.in/ember-performance-tweaks-part-2,Ember performance tweaks: Optimising Assets,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=i_rsfHMF3x4,GraphQL: The Documentary (Русская версия),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage,Rapid prototyping and easy testing with ember cli mirage,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://builtwithember.io/,builtwithember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=IprfNT0xbrI,Must have add-ons in EmberJS - Dawid Pośliński,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale,Ember Engines at Scale,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2018/04/18/bending-time-in-ember-tests,Bending Time in Ember.js Tests,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://caseywatts.com/2018/08/23/codemods.html,Codemods,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/peep-stack,Ember with Phoenix (AKA The PEEP Stack),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=nXCSloXZ-wc,ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://alexspeller.com/ember-diagonal/,diagonal routes,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://frontendmasters.com/courses/ember-2/,Frontend Masters: Ember.js 2.x - Mike North,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCl7qY85b7KLJV3xnn1Xh_Cw,EmberATX,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=eQUvN9Ujs1s&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo,Ember.js tutorial for beginners in 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/,Designing and Implementing Glimmer Like a Programming Language,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=YxRvXgDIHW8,Ember and GraphQL: A Quick Example,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.barelyknown.com/posts/async-computed-properties-in-ember,Async Computed Properties in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://embercommunity.slack.com,Slack,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://folktale.origamitower.com,Folktale,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@AveryBloom/async-or-swim-replacing-your-route-models-with-ember-concurrency-tasks-5a230252893a,Async or Swim: Replacing your Route models with Ember Concurrency Tasks,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87,Ember CLI Addon Docs: Shared Documentation for the Ember.js Ecosystem,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://help-wanted.emberjs.com/core,Contribute to Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.jurecuhalev.com/blog/2018/09/07/using-purgecss-with-ember-js/,Using PurgeCSS with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=VMnzGJ4PN0s,Building Modern Apps Using API Services - Ember Meetup August 21, 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw,Amsterdam Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx,EmberFest 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.emberscreencasts.com/,Ember Screencasts,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/zonky-developers/lazy-loading-modules-in-emberjs-e4f880b15aa0,Lazy-loading modules in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0,When you should not pick Ember.js as your next front-end tool,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=5znpEiwHpL4,Ember Octane Livestream: Build a drum machine,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html,Using npm libraries in Ember CLI,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://lodash.com,lodash,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://youtu.be/62xd25kEZ3o?t=27618,ReactiveConf 2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=rs71sx5IZ-U&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp,How to improve your tests? - Paweł Kuwik,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codeburst.io/tagged/emberjs,codeburst.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codeburst.io/ember-js-lazy-assets-fingerprinting-loading-static-dynamic-assets-on-demand-f09cd7568155,Ember.js Lazy Assets: Fingerprinting & loading static/dynamic assets on demand,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=oRzmDobMZ_Q&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9,EmberFest 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberobserver.com/,emberobserver,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=BjKERSRpPeI,Tracking in the Glimmer VM,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://wyeworks.com/blog/2015/11/24/understanding-unknownproperty-in-ember,Understanding unknownProperty in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html,Extracting Metadata from a Custom API with Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application,Deploying a Location-Aware Ember Application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2018/typing-your-ember-update-part-3.html,Computed properties, actions, mixins, and class methods,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://alexdiliberto.com/posts/ember-route-hooks-a-complete-look/,Ember.js Route Hooks — A Complete Look,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://swannodette.github.io/mori/,mori,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/ember-london/ember-test-recorder,Ember Test Recorder,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.rwjblue.com/2017/10/23/ember-qunit-simplication/,Ember.js QUnit Simplification,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://stackoverflow.com/questions/tagged/ember.js,Stack Overflow,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709,Getting into Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1,Glimmer: Blazing Fast Rendering for Ember.js, Part 1,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=ER1V_u0N7u4,Tim Thomas - Using Ember.js to build Electron Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/05/05/ember-3-18-released.html,Ember 3.18,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp,Optional & upcoming features - Michał Staśkiewicz,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=z4oxa-UR7oA&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA,EmberFest 2014,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w,EmberJSSeattleMeetup,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberjs.github.io/rfcs/,emberjs.GitHub.io/rfcs/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://leanpub.com/ember-cli-101,ember-cli 101,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://t.me/ember_js,Telegram,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codingitwrong.com/2018/08/16/modern-ember.html,Modern Ember.js (2018),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design,Start Me Up - Building an MVP with EmberJS, Firebase and Material Design,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA,Boston Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://shipshape.io/blog/ember-inspector-the-journey-so-far/,Ember Inspector - The Journey so Far,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.embercasts.com/,EmberCasts,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://moutjs.com,Mout,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://abhilashlr.in/ember-performance-tweaks-part-3,Ember performance tweaks: Search engine optimization,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://crunchingnumbers.live/2020/03/17/ci-with-github-actions-for-ember-apps/,CI with GitHub Actions for Ember Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.codementor.io/community/topic/emberjs,codementor.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/,Ad Hoc Relationships with Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2018/typing-your-ember-update-part-4.html,Using Ember Data, and service and controller injections improvements,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2018/03/29/testing-your-ember-application-in-2018,Testing your Ember.js application in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw,EmberSchool,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6,Ember-cli fingerprinting and dynamic assets,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2,Glimmer: Blazing Fast Rendering for Ember.js, Part 2,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/emberfest/hybrid-apps-with-emberglimmer,Hybrid Apps with Ember/Glimmer,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCsy4OVL_kNXsxr0a5LNKWpw,Denver Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://crunchingnumbers.live/2020/08/31/ci-with-github-actions-for-ember-apps-part-2/,CI with GitHub Actions for Ember Apps: Part 2,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://medium.com/@nowims/moving-from-react-to-ember-2020-86e082477d45,Moving from React to Ember 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017,Developing Desktop Apps with Electron & Ember.js - FITC WebU2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/06/26/ember-3-19-released.html,Ember 3.19,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://ramdajs.com,Ramda,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html,Getting Started With Glimmer-Native,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476,Adding AWS Amplify to an Ember.js Application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=4iqNcTUXurY,Community Groups App - Creating Records in Ember CLI Mirage (part 2a),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://ember.cool,ember.cool,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://embermap.com/topics/the-embermap-podcast/tom-dale-on-static-analysis-upstreaming-glimmer-and-ember-in-2018,Tom Dale on Static Analysis, Upstreaming Glimmer, and Ember in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pulletsforever.com/ember-fastboot-google-app-engine-1d38e1e3ffc2,Ember FastBoot + Google App Engine,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://yoember.com/,yoember.com/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps,Upgrading Ember.js Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://davidtang.io/2016/02/10/introduction-to-ember-for-angular-developers.html,An Introduction to Ember.js for Angular Developers,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.emberweekly.com/,Ember Weekly,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=eAI1LxgSOqw,Community Groups App - Creating Records in Ember CLI Mirage (part 2b),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://documentcloud.github.io/underscore-contrib/,underscore-contrib,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6,The simplest possible Ember Data CRUD Tutorial,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders,ember-content-placeholders,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2018/01/11/modern-ember-testing,Modern Ember.js Testing,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCMmzJ82sCmooDdtzVY8FxEA,Ember Videos,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://ember-community-russia.github.io/awesome-ember/,https://ember-community-russia.github.io/awesome-ember/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/categories/ember,dockyard.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2019/05/21/ember-3-10-released.html,Ember 3.10 Released,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.npmjs.com/package/ember-cli-extended-resolver,ember-cli-extended-resolver,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@mudflye/throttling-ember-data-with-ember-concurrency-ff30d804a1b,Throttling Ember-Data with Ember-Concurrency,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://authmaker.com/,https://authmaker.com/,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4,Why I’m excited about Glimmer.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?time_continue=1&v=DRzPJ4RMT0w,Community Groups App - Debugging relationships in Ember CLI Mirage (part 3),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=TSvnutA9PUE,Web Animations with Ember js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/front-end-hacking/tagged/ember,Ember.js on Medium,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f,Components patterns in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.lost-in-technology.com/blog/,lost-in-technology.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://ember-gist.joostdvrs.com/,Ember Gist,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberigniter.com/articles/,emberigniter.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://ember-can.com,authorisation addon,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.effective-ember.com/blog/deploying-fastboot-apps-with-ember-cli-deploy,Deploying FastBoot apps with ember-cli-deploy,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.netguru.co/blog/topic/ember-js,netguru.co,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html,Cascade Deleting Relationships in Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@mudflye/using-fakes-from-ember-sinon-qunit-c9fb7d4d9b1d,Using Fakes from Ember-Sinon-QUnit,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/07/29/ember-3-20-released.html,Ember 3.20,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberjs.com/blog/,Official Ember Blog,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://crunchingnumbers.live/2019/04/02/animation-and-predictable-data-loading-in-ember/,Animation and Predictable Data Loading in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://ember-concurrency.com,ember-concurrency,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://madhatted.com/2017/7/12/embercamp-module-unification-update,EmberCamp Module Unification Update,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://embermap.com,embermap.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs,Developing Desktop Apps with Electron & Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PL4eq2DPpyBbmvEzhyW9fhMzlctxwrn8JM,Meetup: London,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.programwitherik.com,programwitherik.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberobserver.com/categories/ember-cli-simple-auth-extensions,ember-cli-simple-auth-extensions,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120,The case for Embeddable Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/emberfest/emberjs-in-the-year-2020,Ember.JS in the Year 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://discuss.emberjs.com/t/what-is-the-current-state-of-more-advanced-glimmer-vm-features/18114/4,What is the current state of more advanced Glimmer VM features?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://til.hashrocket.com/emberjs,TODAY I LEARNED / Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.ember-cli-mirage.com/,ember-cli-mirage,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/,Fit Any Backend Into Ember with Custom Adapters & Serializers,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://envoy.engineering/a-framework-for-ambitious-chrome-extensions-b08d1f4b944d,A framework for ambitious Chrome Extensions,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2019/07/15/ember-3-11-released.html,Ember 3.11,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://slides.com/poslinski_net/30-days-of-ember,30 Days Of Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dev.to/michalbryxi/debugging-emberjs-with-vscode-2p5g,Debugging Ember.js with VScode,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@appaloosastore/we-have-a-new-emberjs-front-end-c7246e76cdbd,We have a new Ember.js front-end!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.emberschool.com,Emberschool.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pusher.com/sessions/meetup/ember-london/using-typescript-in-ember,Using TypeScript in Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://timgthomas.com/2019/11/unit-testing-glimmer-components/,UNIT-TESTING GLIMMER COMPONENTS,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=JbxaVHQFou0,Working with Ember Animated & Addon Internals: Ember Concurrency – Ember NYC, May 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/09/02/ember-3-21-released.html,Ember 3.21,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/channel/UCi12gVD9jIDwJLVTNnKvhlw,Silicon Valley Ember.js meetup,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://0xadada.pub/2019/06/17/essential-ember-addons/,The State of the Ember.js Addon Ecosystem in 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d,EmberConf 2014,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=BelKk7dvA1A,Web App Performance & Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=N4KrBuO0RRE,Ember.js Tutorial: Build a painting game in 20 mins,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.ember-redux.com/,ember-redux,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.embermap.com,blog.embermap.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://rwjblue.com/,rwjblue.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=UpUtVGW43hY&list=PLXOJZupxSq204IxtG80UfIW-gU0IxAScY,So Ember 2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.ember-bootstrap.com/,ember-bootstrap,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://ember-cli.com/,ember-cli,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://www.youtube.com/watch?v=VYrMs1Zzpqs,Ember-cli In-Repo Addons with Jacob Bixby,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f,Debug Ember.js app with VSCode,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberjs.com/statusboard/,statusboard,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways,Ember addons, served three ways,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.embercasts.com,embercasts.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.mediasuite.co.nz/blog/managing-relations-ember-data-json-api/,Managing Relations in Ember Data with JSON API,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://andycrum.github.io/ember-data-model-maker/,ember-data-model-maker,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dunkinbase.github.io/ember-elements/,a UI toolkit in Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd,Secrets of the Ember-CLI server: Express middleware with Ember-CLI,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2019/08/16/ember-3-12-released.html,Ember 3.12,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://emberperf.eviltrout.com,emberperf,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.ember-cli-zuglet.com/,ember-cli-zuglet,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://toddsmithsalter.com/how-to-reset-the-route-namespace-with-this-route/,How to reset the Ember.js router namespace with this.route(),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU,EmberConf 2015,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G,Wicked Good Ember 2016,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://kybishop.github.io/ember-attacher/,ember-attacher,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dev.to/jamesbyrne/static-types-in-emberjs-26b7,Static Types in Ember.js?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.tutorialspoint.com/emberjs/route_glbng_rut.htm,Ember.js-Router Wildcard/Globbing Routes,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2020/10/20/ember-3-22-released.html,Ember 3.22,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://astronomersiva.github.io/ember-line-graph/,ember-line-graph,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@piotr.steininger/automating-ember-js-app-deployment-on-aws-feccc6d94828,Automating Ember.js App Deployment on AWS,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e,Optimizing Ember.js Templates,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@sarbbottam/challenges-i-face-with-ember-js-59bfba30416e,Challenges I face(d) with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/2018/06/05/ember-component-playground.html,Autodiscovery for the Ember.js component playground,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/topic/ember,engineering.linkedin.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://leanpub.com/emberforartisans,Ember.js for Artisans,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.airpair.com/ember.js/posts/animations-in-emberjs-with-liquidfire,Animations in Ember.js with liquid-fire,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.201-created.com/testing-ember-applications-in-2018-4635ac241f00,Testing Ember.js Applications in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://shipshape.io/blog/ember-data-belongs-to-find-or-create/,Creating a Default Record When a belongsTo Request Errors,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@AveryBloom/ff309d6effdf,Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW,EmberConf 2016,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2015/02/02/debugging-a-broccoli-tree,Debugging a Broccoli Tree,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://shipshape.io/blog/,shipshape.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 http://rancher.com,Rancher,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://www.slideshare.net/chadhietala/ember-at-scale,Ember At Scale,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://mfeckie.github.io/Debugging-Broccoli-And-Ember/,Debugging Broccoli and Ember-CLI,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://raygun.com/,raygun,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberjs.com/blog/,Official Ember Blog,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=BelKk7dvA1A,Web App Performance & Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?time_continue=1&v=DRzPJ4RMT0w,Community Groups App - Debugging relationships in Ember CLI Mirage (part 3),https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6,The simplest possible Ember Data CRUD Tutorial,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://clark.engineering/fuel-up-your-ember-with-octane-171c8dd13fd6,Fuel up your Ember.js with Octane,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://blog.firstiwaslike.com/debugging-ember-js-application-in-visual-studio-code/,Debugging Ember.js applications in Visual Studio Code,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be,v,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/ember-cli-typescript-v2-beta.html,ember-cli-typescript v2 beta,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.201-created.com/blog-post-for-an-ambitious-framework-d7e9248893fa,Blog Post for an Ambitious Framework,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW,EmberConf 2016,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://auth0.com/blog/build-and-authenticate-an-emberjs-3-application,Build and Authenticate an Ember.js 3 Application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=rFNR_Fj1G84,Ember Inspector Pairing,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9,Debugging Ember-cli Build Times,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://stackoverflow.com/questions/tagged/ember.js,Stack Overflow,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember,Building a Progressive Web App with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.lost-in-technology.com/blog/,lost-in-technology.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://locks.svbtle.com/nested-components-and-angle-brackets,Nested components and angle brackets, a sneaky solution,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.programwitherik.com,programwitherik.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://try.glimmerjs.com/,Glimmer Playground,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@sarbbottam/challenges-i-face-with-ember-js-59bfba30416e,Challenges I face(d) with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.201-created.com/testing-ember-applications-in-2018-4635ac241f00,Testing Ember.js Applications in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2,Glimmer: Blazing Fast Rendering for Ember.js, Part 2,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html,Extracting Metadata from a Custom API with Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax,Ember Syntax,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps,EmberConf 2015 – Ambitious UX for Ambitious Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT,EmberConf 2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6,Ember-cli fingerprinting and dynamic assets,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://leanpub.com/emberforartisans,Ember.js for Artisans,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition/,Ember Octane – everything one can expect in the next Ember.js edition,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-ember-app-with-ember-intl,How to translate your Ember.js application with ember-intl,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://embermap.com/topics/intro-to-broccoli/why-ember-uses-broccoli,Why Ember CLI uses Broccoli,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://slides.com/poslinski_net/30-days-of-ember,30 Days Of Ember,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=PvsfQrKxl_8,Ember Inspector Sync,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/devopslinks/headless-ember-tests-in-gitlab-with-docker-fd5f05eef436,Headless Ember.js Tests in GitLab with Docker,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://t.me/ember_js,Telegram,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.infoq.com/interviews/tom-dale-ember,Tom Dale on Ember.js and JavaScript Frameworks,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt,EmberConf 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/freshworks-engineering-blog/dynamic-component-layout-in-ember-c9375c49126a,Dynamic component layout in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.youtube.com/watch?v=gyGZHydh0Hw&feature=em-uploademail,Maintaining an Ember App at Scale, with Chris Ng,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/type-informed-design.html,Type-Informed Design,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0,How to learn EmberJS in a hurry,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/,Ad Hoc Relationships with Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a,How I added whitelabel theming to my Ember.js app,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberjs.com/statusboard/,statusboard,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-glimmer-syntax,Glimmer Templates Syntax for VS Code,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://wyeworks.com/blog/2015/11/24/understanding-unknownproperty-in-ember,Understanding unknownProperty in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/,DEPLOYING WITH EMBER.JS: A STORY,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/zonky-developers/lazy-loading-modules-in-emberjs-e4f880b15aa0,Lazy-loading modules in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/front-end-hacking/everything-you-need-to-know-to-upgrade-your-ember-js-app-including-ember-3-9de5e808dde0,Everything you need to know to upgrade your Ember.js app,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://til.hashrocket.com/emberjs,TODAY I LEARNED / Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4,Why I’m excited about Glimmer.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://rwjblue.com/,rwjblue.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity,EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://speakerdeck.com/tonywok/rainy-day-ember-data,Rainy Day Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2016/testing-emberjs-mixins-with-a-container.html,Testing Ember.js Mixins (and Helpers) With a Container,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html,Cascade Deleting Relationships in Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://mlange.io/blog/making-tests-faster-mirage/making-tests-faster-mirage/,Making my Ember.js test suite 3x faster. A story about Mirage,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.melsumner.com/blog/development/its-easier-in-ember-probably/,It’s easier in Ember.js. Probably.,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://davidtang.io/2016/02/10/introduction-to-ember-for-angular-developers.html,An Introduction to Ember.js for Angular Developers,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codingitwrong.com/2018/08/21/decorating-guide.html,Decorating Guide: Commonly-Used Ember.js Decorators,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable,unstable-ember-language-server,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://shipshape.io/blog/,shipshape.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f,Components patterns in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://ember-cli-crudities.readthedocs.io,ember-cli-crudities,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codeburst.io/tagged/emberjs,codeburst.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://lolma.us/en/blog/class-and-attribute-bindings,Do not confuse environment for deploy target,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.ludu.co/course/ember,Discover Ember 2,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/2018/01/24/ember-freestyle.html,Using ember-freestyle as a component playground,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@ynotdraw/css-in-ember-engines-230ef8d4cef8,CSS in Ember Engines,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/typing-your-ember.html,Typing Your Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://www.jurecuhalev.com/blog/2018/09/07/using-purgecss-with-ember-js/,Using PurgeCSS with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from,16 Opensource Ember.js Projects to Learn From,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/,simplabs.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://baconjs.github.io,Bacon.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features,Fun with Ember 2.x Features,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://learntdd.in/ember/,Learn TDD in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2016/09/14/understanding-ember-s-resolver,Understanding Ember's resolver,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.codementor.io/community/topic/emberjs,codementor.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd,Secrets of the Ember-CLI server: Express middleware with Ember-CLI,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://pzuraq.github.io/macro-decorators/,Macro Decorators,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://embermap.com/topics/the-embermap-podcast,embermap,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties,Ember.js Best Practices: Computed Properties with Dynamic Dependent Keys,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e,Optimizing Ember.js Templates,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codingitwrong.com/2018/08/16/modern-ember.html,Modern Ember.js (2018),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2019/09/25/ember-3-13-released.html,Ember 3.13 (Octane Preview),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://embermap.com/notes/83-the-case-against-async-relationships,The case against async relationships in Ember Data,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://try.glimmerjs.com/,Glimmer Playground,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://hackernoon.com/how-does-ember-boot-5e1f9e7a1117,How does Ember Boot?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://hackernoon.com/tagged/ember,hackernoon.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be,v,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://mfeckie.github.io/Debugging-Broccoli-And-Ember/,Debugging Broccoli and Ember-CLI,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/ember-titbits/quest-4-ember-route-defaulting-to-my-own-f22b0dcb336f,Ember.js.Route redirecting ‘/’ to ‘/my-own’,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 http://www.emberdaily.com,Ember.js Daily Tips,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dev.to/michalbryxi/debugging-emberjs-with-vscode-2p5g,Debugging Ember.js with VScode,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://manning.com/skeie/,Ember.js in Action,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html,Using npm libraries in Ember CLI,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberigniter.com/5-essential-ember-concepts/,5 Essential Ember.js Concepts You Must Understand,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.chriskrycho.com/2018/ember-ts-class-properties.html,Ember.js, TypeScript, and Class Properties,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://hangaroundtheweb.com/2018/08/creating-connection-aware-ember-media-components/,Creating Connection-aware Ember.js Media Components,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.kaliber5.de/en/blog/story-based-bdd-an-alternative-approach-to-testing-with-ember/,STORY-BASED BDD - AN ALTERNATIVE APPROACH TO TESTING WITH EMBER,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/2015/09/18/ember-best-practices-avoid-leaking-state-into-factories,Ember.js Best Practices: Avoid leaking state into factories,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2016/testing-emberjs-mixins-with-a-container.html,Testing Ember.js Mixins (and Helpers) With a Container,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://ember-twiddle.com/,Ember Twiddle,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app,How do I Even Web App,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://medium.com/@appaloosastore/we-have-a-new-emberjs-front-end-c7246e76cdbd,We have a new Ember.js front-end!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://drboolean.gitbooks.io/mostly-adequate-guide-old/,Professor Frisby's Mostly adequate guide to Functional Programming,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks,Ember.js Timer Leaks: The Bad Apples in Your Test Infrastructure,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT,EmberConf 2017,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9,Debugging Ember-cli Build Times,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.youtube.com/watch?v=rFNR_Fj1G84,Ember Inspector Pairing,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dockyard.com/blog/2018/07/20/drag-and-drop-on-ios-with-ember,Drag and Drop on iOS with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://lolma.us/en/blog,lolma.us,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/,simplabs.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0,How to learn EmberJS in a hurry,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://crunchingnumbers.live/2019/08/04/write-tests-like-a-mathematician-part-1/,Write Tests Like a Mathematician: Part 1,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9,Awesome Ember.js Addons,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.201-created.com/you-can-only-change-what-you-can-measure-6be8826503a7,You can only change what you can measure,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps,EmberConf 2015 – Ambitious UX for Ambitious Apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/kloeckner-i/ember-and-graphql-8aa15f7a2554,No Graph Theory Required: Ember.js and GraphQL in Practice,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008,Tips for improving build time of large apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://crunchingnumbers.live/2019/08/06/write-tests-like-a-mathematician-part-2/,Write Tests Like a Mathematician: Part 2,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308,Building a performant real-time web app with Ember Fastboot and Phoenix,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2019/11/18/ember-3-14-released.html,Ember 3.14 (Octane Preview Cont.),https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.melsumner.com/blog/development/its-easier-in-ember-probably/,It’s easier in Ember.js. Probably.,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://manning.com/skeie/,Ember.js in Action,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@ynotdraw/css-in-ember-engines-230ef8d4cef8,CSS in Ember Engines,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f,Debug Ember.js app with VSCode,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/square-corner-blog/ember-and-yarn-workspaces-fca69dc5d44a,Ember.js and Yarn Workspaces,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codingitwrong.com/2018/05/10/ember-orbit.html,Offline Data and Sync with Ember-Orbit,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity,EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://medium.com/nycplanninglabs/nyc-planning-labs-why-choose-ember-js-fe9ff75f4373,NYC Planning Labs: Why Choose Ember.js?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://dockyard.com/blog/categories/ember,dockyard.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://thejsguy.com/,thejsguy.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://drboolean.gitbooks.io/mostly-adequate-guide-old/,Professor Frisby's Mostly adequate guide to Functional Programming,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/devopslinks/headless-ember-tests-in-gitlab-with-docker-fd5f05eef436,Headless Ember.js Tests in GitLab with Docker,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@sunskyearthwind/django-emberjs-full-stack-basics-connecting-frontend-and-backend-part-1-beed8c386b08,Django & Ember.js Full Stack Basics: Connecting Frontend and Backend — Part 1,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://robots.thoughtbot.com/elm-glimmer,Alternative View Layers for an Elm App,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-http://rockandrollwithemberjs.com/,Rock and Roll with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberway.io/,emberway.io,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://dockyard.com/blog/2017/10/04/why-dockyard-uses-ember,Why DockYard Builds with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://emberigniter.com/articles/,emberigniter.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c,Customising Ember Power Select,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e,PWA Your Ember.js App,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features,Fun with Ember 2.x Features,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808,Deep Dive on Ember.js Events,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://gumroad.com/l/xlsx,Developing an Ember.js Edge,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart,An Ember.js Debugging Flowchart,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.emberjs.com/2019/12/20/ember-3-15-released.html,Ember 3.15 "Octane" Released,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://alexdiliberto.com/posts/emberconf-2020-notes/,A collection of notes that summarize EmberConf 2020,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://rockandrollwithemberjs.com/,Rock and Roll with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://alexdiliberto.com/posts/emberconf-2019-notes/,A collection of notes that summarize EmberConf 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/,DEPLOYING WITH EMBER.JS: A STORY,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/2017/08/28/creating-web-components-with-glimmer.html,Creating Web Components with Glimmer,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://mlange.io/blog/making-tests-faster-mirage/making-tests-faster-mirage/,Making my Ember.js test suite 3x faster. A story about Mirage,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/front-end-hacking/everything-you-need-to-know-to-upgrade-your-ember-js-app-including-ember-3-9de5e808dde0,Everything you need to know to upgrade your Ember.js app,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://lolma.us/en/blog/promise-proxy-mixin/,PromiseProxyMixin: pure Ember alternative to ember-concurrency,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://leanpub.com/emberdatainthewild,Ember Data in the Wild,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e,ES Classes in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@jonpitch/adding-a-new-build-notification-to-an-ember-application-c657211289f6,Adding a new build notification to an Ember.js application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2018/ember-cli-typescript-v2-beta.html,ember-cli-typescript v2 beta,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://learntdd.in/ember/,Learn TDD in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html,Building a PWA with Glimmer.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://locks.svbtle.com/to-attrs-or-not-to-attrs,To attrs or not to attrs,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@alvincrespo/ember-your-best-bet-b5cd7275dc84,Ember.js. Your best bet.,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/2018/10/making-ember-applications--ui-transitions-screen-reader-friendly,Making Ember.js Applications' UI Transitions Screen Reader Friendly,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2018/type-informed-design.html,Type-Informed Design,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://locks.svbtle.com/nested-components-and-angle-brackets,Nested components and angle brackets, a sneaky solution,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/typing-your-ember.html,Typing Your Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.201-created.com/blog-post-for-an-ambitious-framework-d7e9248893fa,Blog Post for an Ambitious Framework,https://github.com/ember-community-russia/awesome-ember#readme,Ember
 https://leanpub.com/ember-book,Ember.js Book (RU),https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476,Adding AWS Amplify to an Ember.js Application,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://blog.embermap.com,blog.embermap.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
-https://codesandbox.io/s/github/mike-north/ember-new-output,Ember @ CodeSandbox,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://shipshape.io/blog/static-blogs-with-prember-and-markdown/,Static Blogs with Prember and Markdown,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://emberjs.com/api/,API,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dev.to/michalbryxi/share-emberjs-common-code-between-apps-1a7k,Share Ember.js common code between apps,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.chriskrycho.com/2018/ember-ts-class-properties.html,Ember.js, TypeScript, and Class Properties,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks,Ember.js Timer Leaks: The Bad Apples in Your Test Infrastructure,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://glimmerjs.com/,Glimmer.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://derricksdocs.com/deploying-an-emberjs-app-to-netlify/,Deploying an Ember.js App to Netlify,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/macsour/how-to-handle-async-abilities-with-ember-can-22d90df056ed,How to handle async properties in Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://guides.emberjs.com/,guides,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://dev.to/nullvoxpopuli/the-emberjs-of-the-future-today-12c,The Ember.js of the future... today!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://www.melsumner.com/blog/ember/why-ember/,Why Ember.js?,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a,How I added whitelabel theming to my Ember.js app,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+http://blog.honeypot.io/emberjs-interview-questions-2018/,8 Top Ember.js Interview Questions in 2018,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember,Building a Progressive Web App with Ember.js,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.infoq.com/interviews/tom-dale-ember,Tom Dale on Ember.js and JavaScript Frameworks,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://medium.com/@mikenorth/ember-community-meet-codesandbox-10a43076b3fa,Ember.js community, meet CodeSandbox!,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://codingitwrong.com/2019/07/23/ember-component-cheat-sheet.html,Ember Component Cheat Sheet,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://selleo.com/blog/6-reasons-why-to-use-ember-in-2019,6 Reasons Why To Use Ember.js In 2019,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://yehudakatz.com/,yehudakatz,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://clark.engineering/fuel-up-your-ember-with-octane-171c8dd13fd6,Fuel up your Ember.js with Octane,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://blog.201-created.com/,201-created.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember
+https://www.airpair.com/ember.js,airpair.com,https://github.com/ember-community-russia/awesome-ember#readme,Ember

@@ -1,13 +1,17 @@
-https://diesel.rs,Diesel,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://gitlab.com/mkroehnert/weightrs,WeightRS,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
-https://seed-rs.org/,,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
-https://gitlab.com/MAlrusayni/savory,Savory,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
-https://seed.discourse.group,Forum,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://discord.gg/JHHcHp5,Chat,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://erwabook.com/,Engineering Rust Web Applications,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://typesync.rutrum.net,Typesync,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://divykj.github.io/CalcuPi,CalcuPi,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html,Porting a JS app to Rust,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
-https://darklang.com/,Dark lang,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://www.fosskers.ca/en/tools/love-letter,Love Letter Tracker,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://gitlab.com/liketechnik/local-gui-seed-gotham,Template for GUIs with seed+gotham,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://whatlang.org/,Whatlang.org,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://dev.to/arnthelongbeard/how-to-only-rust-for-web-frontend-1026,tutorial,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://pslink.teilgedanken.de,Pslink,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://ide.play-seed.dev,Play Seed,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://demo.pslink.teilgedanken.de/app/,demo,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://maud.lambda.xyz,maud,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://gitlab.com/MAlrusayni/savory,Savory,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
 https://rocket.rs,Rocket,https://github.com/seed-rs/awesome-seed-rs#readme,Seed
+https://diesel.rs,Diesel,https://github.com/seed-rs/awesome-seed-rs#readme,Seed

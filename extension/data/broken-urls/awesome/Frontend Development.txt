@@ -1,1 +1,1 @@
-http://frontend.directory/,,https://github.com/dypsilon/frontend-dev-bookmarks#readme,Frontend Development error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://frontend.directory/,,https://github.com/dypsilon/frontend-dev-bookmarks#readme,Frontend Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

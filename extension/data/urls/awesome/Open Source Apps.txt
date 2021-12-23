@@ -1,9 +1,15 @@
 https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link,,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
-https://bitbucket.org/galad87/subler/src,Subler,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
-https://www.artstation.com/community/channels,artwork.rss,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
-https://bitbucket.org/losnoco/cog/src,Cog,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
-https://matrix.org/blog/home/,Matrix,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://invent.kde.org/graphics/krita,Krita,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://t.me/opensourcemacosapps,telegram channel,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
 https://overcast.fm/,Overcast,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://bitbucket.org/losnoco/cog/src,Cog,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
 https://studio-link.de,Studio Link On Air,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
-https://git.deluge-torrent.org/deluge,Deluge,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://chromium.googlesource.com/chromium/src/,Chromium,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://hg.mozilla.org/mozilla-central/,Firefox,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
 https://esa.io,esa,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://matrix.org/blog/home/,Matrix,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://bitbucket.org/galad87/subler/src,Subler,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://hg.mozilla.org/mozilla-central,Thunderbird,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://gitlab.com/kicad/code/kicad,KiCad,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://svn.wildfiregames.com/public/ps/trunk/,0 A.D.,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps
+https://opensource.apple.com/source/Chess/Chess-410.4.1/,Chess,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps

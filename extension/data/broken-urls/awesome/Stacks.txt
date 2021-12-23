@@ -1,12 +1,2 @@
-https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python,↗,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://stackshare.io/codecov,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/sentry,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/skylight,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/spring-boot,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/electron,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/amplitude,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/typescript,🛠️,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/reduxjs,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/taiga,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://stackshare.io/new-relic,🛠,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-http://vemapp.moleculer.services/,Welcome to Vue-Express-Mongo BoilerPlate,https://github.com/stackshareio/awesome-stacks#readme,Stacks error: timeout('timed out') | reason: 
+https://speed-spend.org,Speed Spend,https://github.com/friedger/awesome-stacks-chain#readme,Stacks error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
+https://www.nothingtoken.com/,Nothing,https://github.com/friedger/awesome-stacks-chain#readme,Stacks error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

@@ -1,0 +1,3 @@
+https://blog.vaticle.com,Blog,https://github.com/vaticle/typedb-awesome#readme,TypeDB error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.linkedin.com/company/vaticle,LinkedIn,https://github.com/vaticle/typedb-awesome#readme,TypeDB error: <HTTPError 999: 'Request denied'> | reason: Request denied
+https://https//docs.vaticle.com/,Documentation for alpha version,https://github.com/vaticle/typedb-awesome#readme,TypeDB error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

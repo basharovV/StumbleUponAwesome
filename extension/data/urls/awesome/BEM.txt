@@ -1,44 +1,39 @@
-http://www.joelambert.co.uk/article/bem-guidelines/,BEM Guidelines for component focused development,https://github.com/sturobson/BEM-resources#readme,BEM
-http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html,The BEMIT naming convention,https://github.com/sturobson/BEM-resources#readme,BEM
 https://assist-software.net/blog/css-guideline-tutorial-bem-sass,A CSS Guideline Tutorial: BEM with Sass,https://github.com/sturobson/BEM-resources#readme,BEM
+http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html,The BEMIT naming convention,https://github.com/sturobson/BEM-resources#readme,BEM
+http://www.joelambert.co.uk/article/bem-guidelines/,BEM Guidelines for component focused development,https://github.com/sturobson/BEM-resources#readme,BEM
+https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem,Keeping the Front-End Modular with BEM - Thoughtbot,https://github.com/sturobson/BEM-resources#readme,BEM
+https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving,BEM & Atomic Design: A CSS Architecture Worth Loving,https://github.com/sturobson/BEM-resources#readme,BEM
 http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33,Even Easier BEM-ing with Sass 3.3 - alwaystwisted,https://github.com/sturobson/BEM-resources#readme,BEM
 http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/,BEMIT: Taking the BEM Naming Convention a Step Further,https://github.com/sturobson/BEM-resources#readme,BEM
-https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving,BEM & Atomic Design: A CSS Architecture Worth Loving,https://github.com/sturobson/BEM-resources#readme,BEM
-https://css-tricks.com/snippets/sass/bem-mixins/,BEM Mixins - CSS Tricks,https://github.com/sturobson/BEM-resources#readme,BEM
-https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem,Keeping the Front-End Modular with BEM - Thoughtbot,https://github.com/sturobson/BEM-resources#readme,BEM
-https://dominikpiatek.com/patterns-for-scaling-css/,Patterns For Scaling CSS,https://github.com/sturobson/BEM-resources#readme,BEM
-https://coryrylan.com/blog/css-bem-syntax-basics,CSS BEM Syntax Basics,https://github.com/sturobson/BEM-resources#readme,BEM
 https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/,Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them,https://github.com/sturobson/BEM-resources#readme,BEM
+https://css-tricks.com/snippets/sass/bem-mixins/,BEM Mixins - CSS Tricks,https://github.com/sturobson/BEM-resources#readme,BEM
+https://coryrylan.com/blog/css-bem-syntax-basics,CSS BEM Syntax Basics,https://github.com/sturobson/BEM-resources#readme,BEM
+https://www.smashingmagazine.com/2013/02/the-history-of-the-bem-methodology/,The Evolution Of The BEM Methodology - Smashing Magazine,https://github.com/sturobson/BEM-resources#readme,BEM
+http://www.sitepoint.com/bem-smacss-advice-from-developers/,BEM and SMACSS: Advice From Developers Who’ve Been There,https://github.com/sturobson/BEM-resources#readme,BEM
+http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html,BEM Basics - 8th Light,https://github.com/sturobson/BEM-resources#readme,BEM
 http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/,Stylus and BEM: a quick mixin - Frank M Taylor,https://github.com/sturobson/BEM-resources#readme,BEM
 https://en.bem.info/method/naming-convention/,BEM official naming convention,https://github.com/sturobson/BEM-resources#readme,BEM
 http://varya.me/bem-css-workshop/,BEM CSS Workshop - Varya Stepanova,https://github.com/sturobson/BEM-resources#readme,BEM
-https://seesparkbox.com/foundry/bem_by_example,BEM by example,https://github.com/sturobson/BEM-resources#readme,BEM
-https://www.smashingmagazine.com/2013/02/the-history-of-the-bem-methodology/,The Evolution Of The BEM Methodology - Smashing Magazine,https://github.com/sturobson/BEM-resources#readme,BEM
-http://www.sitepoint.com/bem-smacss-advice-from-developers/,BEM and SMACSS: Advice From Developers Who’ve Been There,https://github.com/sturobson/BEM-resources#readme,BEM
-https://speakerdeck.com/battaglr/bem,BEM - Luciano Battagliero,https://github.com/sturobson/BEM-resources#readme,BEM
-http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html,BEM Basics - 8th Light,https://github.com/sturobson/BEM-resources#readme,BEM
 http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/,MindBEMding – getting your head ’round BEM syntax - CSS Wizardry,https://github.com/sturobson/BEM-resources#readme,BEM
+https://speakerdeck.com/battaglr/bem,BEM - Luciano Battagliero,https://github.com/sturobson/BEM-resources#readme,BEM
 https://www.youtube.com/watch?v=WH4U4K5W8N8,Writing Modular CSS With Sass and BEM - Tuts Plus,https://github.com/sturobson/BEM-resources#readme,BEM
-https://www.youtube.com/watch?v=vgg-NsKZaE4,MindBEMding – Rethink Web Development - Kevin Mack,https://github.com/sturobson/BEM-resources#readme,BEM
-https://medium.com/@Codebryo/how-to-bem-4a55fa3cd429,How To BEM - Roman Kuba,https://github.com/sturobson/BEM-resources#readme,BEM
 https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/,A New Front-End Methodology: BEM - Smashing Magazine,https://github.com/sturobson/BEM-resources#readme,BEM
+https://www.youtube.com/watch?v=vgg-NsKZaE4,MindBEMding – Rethink Web Development - Kevin Mack,https://github.com/sturobson/BEM-resources#readme,BEM
+https://seesparkbox.com/foundry/bem_by_example,BEM by example,https://github.com/sturobson/BEM-resources#readme,BEM
+https://medium.com/@Codebryo/how-to-bem-4a55fa3cd429,How To BEM - Roman Kuba,https://github.com/sturobson/BEM-resources#readme,BEM
 https://css-tricks.com/bem-101/,BEM 101 - CSS Tricks,https://github.com/sturobson/BEM-resources#readme,BEM
-http://codepen.io/andersschmidt/post/expressive-bem-with-sass-a-different-approach,Expressive BEM with Sass: a different approach - Anders Hansen,https://github.com/sturobson/BEM-resources#readme,BEM
-http://www.gapintelligence.com/blog/2015/bem-for-css-an-introduction,BEM for CSS - An Introduction,https://github.com/sturobson/BEM-resources#readme,BEM
-http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins,Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen,https://github.com/sturobson/BEM-resources#readme,BEM
-https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/,Getting Started With BEM (with a little help from Sass),https://github.com/sturobson/BEM-resources#readme,BEM
 http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403,An Introduction to the BEM Methodology - Tuts Plus,https://github.com/sturobson/BEM-resources#readme,BEM
-http://techblog.buyapowa.com/css/frontend/scss/sass/2015/10/07/css-methodologies-part-3.html,BEM (Block element modifier) - CSS Methodologies Part 3,https://github.com/sturobson/BEM-resources#readme,BEM
+http://www.gapintelligence.com/blog/2015/bem-for-css-an-introduction,BEM for CSS - An Introduction,https://github.com/sturobson/BEM-resources#readme,BEM
 https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/,Scaling Down The BEM Methodology For Small Projects - Smashing Magazine,https://github.com/sturobson/BEM-resources#readme,BEM
-http://mono.company/journal/frontend/learning-to-love-bem//,Learning to love BEM,https://github.com/sturobson/BEM-resources#readme,BEM
+https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/,Getting Started With BEM (with a little help from Sass),https://github.com/sturobson/BEM-resources#readme,BEM
+http://techblog.buyapowa.com/css/frontend/scss/sass/2015/10/07/css-methodologies-part-3.html,BEM (Block element modifier) - CSS Methodologies Part 3,https://github.com/sturobson/BEM-resources#readme,BEM
 http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem,Fifty Shades of BEM - Kaelig,https://github.com/sturobson/BEM-resources#readme,BEM
-https://assortment.io/posts/introducing-bem-css-naming-convention,Introducing BEM: The popular CSS naming convention,https://github.com/sturobson/BEM-resources#readme,BEM
-https://medium.com/soliddigital/7-reasons-to-use-bem-css-a7c8475318fe,7 Reasons To Use BEM CSS,https://github.com/sturobson/BEM-resources#readme,BEM
+http://mono.company/journal/frontend/learning-to-love-bem//,Learning to love BEM,https://github.com/sturobson/BEM-resources#readme,BEM
 http://www.sitepoint.com/working-bem-scale-advice-top-developers/,Working with BEM at Scale — Advice From Top Developers,https://github.com/sturobson/BEM-resources#readme,BEM
-https://en.bem.info/,BEM Official Website,https://github.com/sturobson/BEM-resources#readme,BEM
 http://www.theodo.fr/blog/2015/10/how-i-stopped-worrying-and-learned-to-love-the-css-with-bem/,How I stopped worrying and learned to love the CSS with BEM,https://github.com/sturobson/BEM-resources#readme,BEM
 https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218,CSS Architecture: BEMCSS — Block, Element &  Modifier,https://github.com/sturobson/BEM-resources#readme,BEM
+https://ahmadawais.com/bem-css-basics-for-wordpress-themes-developers/,BEM CSS Basics for WordPress Themes Developers,https://github.com/sturobson/BEM-resources#readme,BEM
+https://medium.com/soliddigital/7-reasons-to-use-bem-css-a7c8475318fe,7 Reasons To Use BEM CSS,https://github.com/sturobson/BEM-resources#readme,BEM
+https://en.bem.info/,BEM Official Website,https://github.com/sturobson/BEM-resources#readme,BEM
 http://getbem.com/introduction/,Get BEM,https://github.com/sturobson/BEM-resources#readme,BEM
 http://frontendbabel.info/articles/bem-with-css-preprocessors/,Generating BEM selectors with CSS preprocessors - Frontend Babel,https://github.com/sturobson/BEM-resources#readme,BEM
-https://ahmadawais.com/bem-css-basics-for-wordpress-themes-developers/,BEM CSS Basics for WordPress Themes Developers,https://github.com/sturobson/BEM-resources#readme,BEM
-http://codepen.io/craigmdennis/post/generate-responsive-bemit-classes-with-sass,Generate responsive BEMIT classes with Sass,https://github.com/sturobson/BEM-resources#readme,BEM

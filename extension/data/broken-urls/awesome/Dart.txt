@@ -1,2 +1,1 @@
 https://crossdart.info,Crossdart,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.dartlang.org/codelabs/darrrt/,Darrrt,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 404: 'Not Found'> | reason: Not Found

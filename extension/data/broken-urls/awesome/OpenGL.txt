@@ -1,4 +1,2 @@
 http://www.lonesock.net/soil.html,SOIL,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://bitbucket.org/alfonse/gltut/wiki/Home,Learning Modern 3D Graphics Programming,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/alfonse/glloadgen/wiki/Home,glLoadGen,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://glslb.in,GLSLbin,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

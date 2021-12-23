@@ -1,1 +1,1 @@
-https://devarchy.com/redux,devarchy.com/redux,https://github.com/brillout/awesome-redux#readme,Redux error: timeout('The read operation timed out') | reason: 
+https://facebook.github.io/react/docs/advanced-performance.html,guide on performance,https://github.com/brillout/awesome-redux#readme,Redux error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

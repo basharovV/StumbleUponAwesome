@@ -1,64 +1,65 @@
-https://thehive-project.org/,TheHive,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.virustotal.com,Virustotal,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.x-ways.net/forensics/,X-Ways Forensics,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html,DFIR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://sourceforge.net/projects/nst/files/latest/download?source=files,NST - Network Security Toolkit,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.incidentresponse.com/playbooks/,IR Workflow Gallery,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.fireeye.com/services/freeware/highlighter.html,Highlighter,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.bt3.no/,Blue Team Training Toolkit (BT3),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.fidelissecurity.com/resources/fidelis-threatscanner,Fidelis ThreatScanner,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://belkasoft.com/ram-capturer,Belkasoft Live RAM Capturer,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/,DFIR intro,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.youtube.com/watch?v=bDcx4UNpKNc,The Future of Incident Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.magnetforensics.com/magnet-acquire/,Magnet ACQUIRE,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.amazon.com/gp/product/1593275099,The Practice of Network Security Monitoring: Understanding Incident Detection and Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://code.google.com/p/regripper/wiki/RegRipper,RegRipper,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.brimorlabs.com/tools/,Live Response Collection,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://sumuri.com/software/paladin/,PALADIN,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.ntsecurity.nu/toolbox/pmdump/,PMDump,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://belkasoft.com/ec,Belkasoft Evidence Center,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.magnetforensics.com/free-tool-magnet-ram-capture/,Magnet RAM Capture,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://code.google.com/p/triage-ir/,TRIAGE-IR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://digital-forensics.sans.org/community/downloads,SANS Investigative Forensic Toolkit (SIFT) Workstation,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://binaryforay.blogspot.co.il/p/software.html,Binaryforay,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.cybercpr.com,CyberCPR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://support.kaspersky.com/13850,Kaspersky CyberTrace,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.cybertriage.com,Cyber Triage,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://augmentd.co/,augmentd,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.osforensics.com/,OSForensics,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://app.any.run/,Any Run,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.cyphon.io/,Cyphon,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.hybrid-analysis.com/,Hybrid-Analysis,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://ericzimmerman.github.io/,Eric Zimmerman Tools,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://binaryforay.blogspot.co.il/,http://binaryforay.blogspot.co.il/,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.joesandbox.com/,Joe Sandbox (Community),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://crits.github.io/,Crits,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.gmgsystemsinc.com/knttools/,KnTList,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://kolide.com/fleet,Kolide Fleet,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.crowdstrike.com/community-tools/,Crowd Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://raqet.github.io/,RaQet,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.kroll.com/en/services/cyber-risk/investigate-and-respond/kroll-artifact-parser-extractor-kape,KAPE,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://dfircommunity.slack.com,Slack DFIR channel,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://dfir-orc.github.io/,DFIR ORC,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.fireeye.com/services/freeware/memoryze.html,Memoryze,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html,Stalk,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://sourceforge.net/projects/ocfa/,Open Computer Forensics Architecture,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://start.paloaltonetworks.com/join-our-slack-community,Signup here,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://binalyze.com/products/irec-free/,IREC,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.bestpractical.com/rtir/,RTIR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.metadefender.com,Metadefender Cloud,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
 https://nccgroup.github.io/Scout2/,Scout2,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://osquery.io/,osquery,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.rekall-forensic.com/,Rekall,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.fireeye.com/services/freeware/redline.html,Redline,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.raymond.cc/blog/xray/,X-Ray 2.0,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-https://www.fireeye.com/services/freeware/ioc-finder.html,IOC Finder,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
 https://www.reverse.it/,Reverse.IT,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.sleuthkit.org,The Sleuth Kit & Autopsy,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://getscot.sandia.gov/,Sandia Cyber Omni Tracker (SCOT),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.countertack.com/responder-pro,Responder PRO,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://start.paloaltonetworks.com/join-our-slack-community,Signup here,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html,DFIR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
 https://valkyrie.comodo.com,Valkyrie Comodo,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.caine-live.net/index.html,Computer Aided Investigative Environment (CAINE),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
-http://www.deftlinux.net/,Digital Evidence & Forensics Toolkit (DEFT),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.bt3.no/,Blue Team Training Toolkit (BT3),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.raymond.cc/blog/xray/,X-Ray 2.0,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://sourceforge.net/projects/nst/files/latest/download?source=files,NST - Network Security Toolkit,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape,KAPE,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.virustotal.com,Virustotal,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.incidentresponse.com/playbooks/,IR Workflow Gallery,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://yomi.yoroi.company,Yomi,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://docs.microsoft.com/en-us/sysinternals/downloads/procdump,Microsoft ProcDump,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.windowsscope.com/windowsscope-cyber-forensics/,WindowsSCOPE,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://sumuri.com/software/paladin/,PALADIN,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/,Introduction to DFIR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/,Incident Response & Computer Forensics, Third Edition,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.ntsecurity.nu/toolbox/pmdump/,PMDump,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.fireeye.com/services/freeware/highlighter.html,Highlighter,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7,Intelligence-Driven Incident Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.youtube.com/watch?v=bDcx4UNpKNc,The Future of Incident Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/,Operator Handbook: Red Team + OSINT + Blue Team Reference,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.amazon.com/gp/product/1593275099,The Practice of Network Security Monitoring: Understanding Incident Detection and Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://digital-forensics.sans.org/community/downloads,SANS Investigative Forensic Toolkit (SIFT) Workstation,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://app.any.run/,Any Run,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.crowdstrike.com/community-tools/,Crowd Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://belkasoft.com/ec,Belkasoft Evidence Center,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://eventlogxp.com/,Event Log Explorer,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://dfir-orc.github.io/,DFIR ORC,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.hybrid-analysis.com/,Hybrid-Analysis,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
 http://www.forensicimager.com/,GetData Forensic Imager,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://augmentd.co/,augmentd,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.joesandbox.com/,Joe Sandbox (Community),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://lizard-labs.com/event_log_observer.aspx,Event Log Observer,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://discordapp.com/invite/JUqe9Ek,Digital Forensics Discord Server,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://belkasoft.com/ram-capturer,Belkasoft Live RAM Capturer,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.cybertriage.com,Cyber Triage,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
 http://guymager.sourceforge.net,Guymager,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://support.kaspersky.com/13850,Kaspersky CyberTrace,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.limacharlie.io/,Limacharlie,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.magnetforensics.com/free-tool-magnet-ram-capture/,Magnet RAM Capture,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://lizard-labs.com/log_parser_lizard.aspx,Log Parser Lizard,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.magnetforensics.com/magnet-acquire/,Magnet ACQUIRE,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/,here,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.brimorlabs.com/tools/,Live Response Collection,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.fireeye.com/services/freeware/memoryze.html,Memoryze,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://lists.sans.org/mailman/listinfo/dfir,SANS DFIR mailing list,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.osforensics.com/,OSForensics,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://sourceforge.net/projects/ocfa/,Open Computer Forensics Architecture,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://dfircommunity.slack.com,Slack DFIR channel,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://objective-see.com/products/knockknock.html,Knockknock,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://osquery.io/,osquery,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.cybercpr.com,CyberCPR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.sleuthkit.org,The Sleuth Kit & Autopsy,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.x-ways.net/forensics/,X-Ways Forensics,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.fireeye.com/services/freeware/ioc-finder.html,IOC Finder,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/,Applied Incident Response,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.paloaltonetworks.com/cortex/xsoar,CORTEX XSOAR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.countertack.com/responder-pro,Responder PRO,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.bestpractical.com/rtir/,RTIR,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://themittenmac.com/the-esf-playground/,The ESF Playground,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://ericzimmerman.github.io/,Eric Zimmerman Tools,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+http://www.caine-live.net/index.html,Computer Aided Investigative Environment (CAINE),https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://crits.github.io/,Crits,https://github.com/meirwah/awesome-incident-response#readme,Incident Response
+https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html,Stalk,https://github.com/meirwah/awesome-incident-response#readme,Incident Response

@@ -1,1 +1,13 @@
 https://coingate.com/accept-bitcoin,CoinGate,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://support.coingate.com/en/109/why-does-coingate-charge-service-fee,variable service fee,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mynode.alexkaul.com/gh-backer/top/7/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mynode.alexkaul.com/gh-backer/top/8/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mynode.alexkaul.com/gh-backer/top/9/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.coinpayments.net/,CoinPayments,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+https://strike.acinq.co/,Strike,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://mynode.alexkaul.com/gh-backer/top/3/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mynode.alexkaul.com/gh-backer/top/4/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mynode.alexkaul.com/gh-backer/top/5/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mynode.alexkaul.com/gh-backer/top/6/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors error: <HTTPError 404: 'Not Found'> | reason: Not Found

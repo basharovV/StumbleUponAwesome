@@ -1,3 +1,2 @@
 http://detho.re/2016/01/21/writing-memory-efficient-swift-code/,this post,https://github.com/uraimo/Awesome-Swift-Playgrounds#readme,Playgrounds
 https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds,Numerical Algorithms,https://github.com/uraimo/Awesome-Swift-Playgrounds#readme,Playgrounds
-https://audiokit.io/playgrounds/,AudioKit Playgrounds,https://github.com/uraimo/Awesome-Swift-Playgrounds#readme,Playgrounds

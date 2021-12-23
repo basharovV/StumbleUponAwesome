@@ -1,4 +1,7 @@
+http://ionicons.com/,Ionicons,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 https://pexels.com,Pexels,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://pasteapp.me/,Paste,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 308: 'Unknown'> | reason: Unknown
+http://pasteapp.me/,Paste,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://placehold.it,Placehold.it,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://www.lolcolors.com/,Lol Colors,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.gradients.io/,Gradients.io,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://canva.com,Canva,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://fontface.ninja/,Font Face Ninja Browser Extension,https://github.com/nicolesaidy/awesome-web-design#readme,Web Design error: timeout('timed out') | reason: 

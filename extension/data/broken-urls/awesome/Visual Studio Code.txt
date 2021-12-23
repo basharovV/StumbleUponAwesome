@@ -1,1 +1,2 @@
+https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code,Configuring Visual Studio Code for Drupal,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/,official blog post,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code error: <HTTPError 404: 'Not Found'> | reason: Not Found

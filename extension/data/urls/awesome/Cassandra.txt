@@ -1,0 +1,165 @@
+https://www.guru99.com/cassandra-tutorial.html,Cassandra Tutorial for Beginners,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://bhonemyintkyaw777.medium.com/cassandra-pagination-with-asp-net-core-c-a85fd58f6b2b,Cassandra Pagination with ASP.NET Core C#,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/tlp-cluster/,tlp-cluster,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://hugegraph.github.io/hugegraph-doc/guides/architectural.html,Architecture Overview · GitBook,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://lostechies.com/ryansvihla/tags,Ryan Svilha,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://softwaremill.com/cassandra-monitoring-part-2/,Cassandra Monitoring - Graphite/InfluxDB & Grafana on Docker (2/2),https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://cassandra.apache.org/,,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://miguelperez.xyz/blog/2017/2/13/cassandra-architecture-and-operation,Cassandra Architecture and Operations,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://rustyrazorblade.com/2014/09/cassandra-summit-recap-diagnosing-problems-in-production/,Jon Haddad: Cassandra Summit Recap - Diagnosing Problems in Production,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://galaxy.ansible.com/community/cassandra,Ansible-Galaxy: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.datastax.com/blog,Datastax,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/01/23/docker-meet-cassandra.html,Docker Meet Cassandra. Cassandra Meet Docker,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/02/18/dropping-columns.html,Dropping columns in Cassandra 3.0,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/02/08/Modeling-real-life-workloads-with-cassandra-stress.html,Modeling real life workloads with cassandra-stress is hard,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/spark-cassandra-best-practices/,Spark + Cassandra Best Practices,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/04/13/monitoring-cassandra-using-intel-snap.html,Monitoring Cassandra using Intel Snap and Grafana,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://objectpartners.com/2016/11/30/from-cassandra-to-s3-with-spark/,From Cassandra to S3, with Spark,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://dbschema.com/database-designer/Cassandra.html,DbSchema - Cassandra Designer,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/03/21/hinted-handoff-gc-grace-demystified.html,Hinted Handoff and GC Grace Demystified,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/DataStax/maximum-overdrive-tuning-the-spark-cassandra-connector-russell-spitzer-datastax-c-summit-2016,Tuning the Spark Cassandra Connector,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/solutions/managed-apache-cassandra/,Instaclustr Managed Cassandra as a Service,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://k8ssandra.io/,K8ssandra.io - Kubernetes + Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/aploetz/cql-this-is-not-the-sql-you-are-loooking-for,CQL: This is not the SQL you are Looking For,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://www.mail-archive.com/dev@cassandra.apache.org/,Cassandra Developers Mailing List,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.anant.us/,Anant,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/securing-apache-cassandra-with-application-level-encryption/,Securing Cassandra with Application Level Encryption,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://dzone.com/articles/improving-apache-cassandras-front-door-and-backpre,Improving Cassandra's Front Door and Backpressure,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://www.elassandra.io/,Elassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://anant.us,Anant,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.youtube.com/watch?v=IuJldwJLyFM,Best Practices for Running Cassandra on AWS,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/cassandra-monitoring-best-practice-guide/,Cassandra Monitoring Best Practice Guide,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.codecentric.de/en/tag/cassandra/,Codecentric: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://dbeaver.io/,DBeaver - Free Universal Database Tool,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.youtube.com/watch?v=Q9AAR4UQzMk,Monitoring Cassandra: Don't Miss a Thing (Alain Rodriguez, The Last Pickle) | C* Summit 2016,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://eng.uber.com/cherami/,Cherami,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2011/05/15/Deletes-and-Tombstones.html,Deletes and Tombstones,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.youtube.com/watch?v=cKIHRD6kUOc&feature=youtu.be,Tuning the Spark Cassandra Connector,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://opennms.github.io/newts/,Newts,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/cassandra-architecture/,Cassandra Architecture,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/technical-track/cassandra-2/,Pythian: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://cassandra.apache.org/doc/,Cassandra Documentation,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://rook.io/docs/rook/v1.4/cassandra.html,Rook.io - Cassandra on Kubernetes,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2015/09/30/hardening-cassandra-step-by-step-part-1-server-to-server.html,Hardening Cassandra Step by Step: Part 1,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/03/21/running-commands-cluster-wide.html,Running commands cluster-wide without any management tool,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://aiven.io/cassandra/,Aiven for Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://razorsql.com/,RazorSQL - Multi DB Manager Tool,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.youtube.com/watch?v=7W1tOmfREnw,Working with .NET and Cassandra/DataStax Enterprise,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/07/27/about-deletes-and-tombstones.html,About Deletes and Tombstones in Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/blog/,Instaclustr,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://www.mail-archive.com/commits@cassandra.apache.org/,Cassandra Commits Mailing List,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.spec-india.com/blog/cassandra-vs-mongodb,Cassandra vs MongoDB,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/08/14/limiting-nodetool-parallel-threads.html,Limiting Nodetool Parallel Threads,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.whaletech.co/2016/04/07/encryption-ephemeral-volumes-with-kms.html,Encrypting EC2 ephemeral volumes with LUKS and AWS KMS,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.hawkular.org/,Hawkular.org,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://cassandra.link,Cassandra.Link,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/,Microsoft Azure Managed Instance for Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://cassandra-reaper.io/,Cassandra Reaper,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.datastax.com/dev/blog/a-deep-look-to-the-cql-where-clause,A Deep Look at the CQL Where Clause,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/the-things-i-hate-about-apache-cassandra/,The 10 Things I hate about Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/09/15/Null-bindings-on-prepared-statements-and-undesired-tombstone-creation.html,Null bindings on prepared statements and undesired tombstone creation,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://s.apache.org/slack-invite,Apache Software Foundation Slack,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/05/23/auto-bootstrapping-part1.html,Bootstrapping Cassandra Nodes,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://medium.com/@foundev/my-cassandra-diagnostics-checklist-brain-dump-599a2b95b118,Ryan Svihla's Cassandra 2.0 checklist,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/SimranKedia2/cassandra-datatables-using-restful-api,Cassandra DataTables Using Restful API,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.datastax.com/products/datastax-graph,DSE Graph | Datastax,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/around-the-world-in-approximately-8-data-centres-globally-distributed-storage-streaming-and-search-part-1/,An Introduction to Cassandra Multi-Data Centers: Part 1,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thenewstack.io/building-streaming-data-hub-elasticsearch-kafka-cassandra/,Building a Streaming Data Hub with Elasticsearch, Kafka and Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://towardsdatascience.com/top-5-reasons-to-use-the-apache-cassandra-database-d541c6448557,Top 5 reasons to use the Cassandra Database,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://tobert.github.io/pages/als-cassandra-21-tuning-guide.html,Amy's Cassandra 2.1 tuning guide,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/07/05/undetectable-tombstones-in-apache-cassandra.html,Undetectable tombstones in Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.ecyrd.com/cassandracalculator/,Web: Cassandra Calculator,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.zdnet.com/article/meet-stargate-datastaxs-graphql-for-databases-first-stop-cassandra/,Meet Stargate, DataStax's GraphQL for databases. First stop - Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra-introduction,Microsoft Azure Cosmos DB: Cassandra API,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://avalanche123.com/cassandra-web/,Cassandra-web,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra/manage-data-dotnet,Cassandra API with .NET,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/around-the-world-globally-distributed-storage-streaming-and-search-an-introduction-to-cassandra-multi-data-centers-part-2/,An Introduction to Cassandra Multi-Data Centers: Part 2,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/02/21/replace-node-without-bootstrapping.html,Node Replacement without Bootstrapping,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.idgconnect.com/article/3580401/10-years-of-apache-cassandra.html,IDG: 10 Years of Apache Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.anant.us/resources-for-monitoring-datastax-cassandra-spark-solr-performance/,Resources for Monitoring Datastax, Cassandra, Spark, & Solr Performance,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://events17.linuxfoundation.org/sites/events/files/slides/Building%20Your%20Own%20BaaS%20With%20Apache%20Usergrid%20%26%20Docker.pdf,Building Your Own BaaS With Apache Usergrid & Docker: Lessons Learned At Scale,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/knoldus/introduction-to-titandb,Introduction to TitanDB,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/planetcassandra/gumgum-multiregion-cassandra-in-aws,GumGum: Multi-Region Cassandra in AWS,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.anant.us/common-problems-cassandra-data-models/,Common Problems in Cassandra Data Models,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/04/03/cassandra-backup-and-restore-aws-ebs.html,Cassandra Backup and Restore - Backup in AWS using EBS Volumes,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://prestodb.io/,Presto,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://cloudurable.com/blog/aws-ansible-packer-ssh-for-devops/index.html,Cloud DevOps with Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://doanduyhai.github.io/Achilles/,Achilles,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/,How to Monitor Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://aws.amazon.com/keyspaces,Amazon Keyspaces for Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://blog.ragozin.info/2012/03/secret-hotspot-option-improving-gc.html,Secret HotSpot option improving GC pauses on large heaps,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/backup-strategies-cassandra/,Backup Strategies for Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://tobert.github.io/post/2014-07-15-installing-cassandra-spark-stack.html,Installing the Cassandra / Spark OSS Stack,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/08/02/time-series-data-modeling-massive-scale.html,Casandra Time Series Data Modeling for Massive Scale,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.zdnet.com/article/apache-cassandra-turns-10/,ZDNet: Cassandra Turns 10,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://medium.com/@mlowicki/cassandra-metrics-and-their-use-in-grafana-1f0dc33f9cca,Cassandra metrics and their use in Grafana,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://thelastpickle.com/blog/2018/10/01/introduction-to-cstar.html,Intro to CStar,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/zznate/hardening-cassandra-for-compliance-or-paranoia,Hardening Cassandra for Compliance or Paranoia,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://cassandra.apache.org/doc/latest/cql/,The Cassandra Query Language,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://bitbucket.org/snazy/caffinitas/src/develop/,Caffinitas,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://miguelperez.xyz/blog/2017/2/13/cassandra-data-modeling-notes,Cassandra Data Modeling Notes,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://docs.datastax.com/en/landing_page/doc/landing_page/current.html,DataStax Documentation,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.robustperception.io/monitoring-cassandra-with-prometheus,Monitoring Cassandra with Prometheus,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://opencredo.com/tag/cassandra/,OpenCredo:Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.sestevez.com/sestevez/CassandraDataModeler/,CQL Data Modeler,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.datastax.com/en/dse/5.1/dse-admin/datastax_enterprise/operations/opsTuneJVM.html,DSE 5.1: Tuning Java Resource,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.datastax.com/en/developer/csharp-driver/3.4/,DataStax C# Driver Documentation,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.datastax.com/cassandra,Datastax Academy: What is Cassandra?,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://projects.spring.io/spring-data-cassandra/,Spring Data for Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/03/07/The-limit-clause-in-cassandra-might-not-work-as-you-think.html,The LIMIT Clause in Cassandra might not work as you think,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.amazon.com/gp/product/1098115163/,Cassandra: The Definitive Guide, 3rd Edition,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/monitoring-cassandra-grafana-influx-db/,Monitoring Cassandra With Grafana And Influx DB,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/Hadoop_Summit/large-scale-graph-analytics-with-janusgraph-77153443,Large Scale Graph Analytics with JanusGraph,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://opencredo.com/cassandra-tombstones-common-issues/,Common Problems with Cassandra Tombstones,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://hackolade.com,Hackolade,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.datadoghq.com/blog/monitoring-cassandra-with-datadog/,Datadog,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://softwaremill.com/cassandra-monitoring-part-1/,Cassandra Monitoring - Introduction (1/2),https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://www.doanduyhai.com/blog/?cat=57,DOAN DuyHai's Blog: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/01/16/cassandra-flame-graphs.html,Analyzing Cassandra Performance with Flame Graphs,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.amazon.com/gp/product/1491933666/,Cassandra: The Definitive Guide, 2nd Edition,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.slideshare.net/planetcassandra/securing-cassandra-the-right-way,Securing Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.jetbrains.com/datagrip/,JetBrains Datagrip DB IDE,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://highscalability.com/blog/2016/8/1/how-to-setup-a-highly-available-multi-az-cassandra-cluster-o.html,How To Setup A Highly Available Multi-AZ Cassandra Cluster On AWS EC2,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://tobert.github.io/,Amy Tobert,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://getstream.io/blog/building-a-performant-api-using-go-and-cassandra/,Building a Performant API using Go and Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2018/04/11/gc-tuning.html,Garbage Collection Tuning for Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.datastax.com/en/developer/csharp-driver/3.4/features/datatypes/,CQL data types to C# types,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://rustyrazorblade.com/post/2015/2015-01-02-intro-to-spark-and-cassandra/,Introduction to Spark & Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/12/08/TWCS-part1.html,TWCS part 1 - how does it work and when should you use it?,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/support/documentation/cassandra/using-cassandra/connect-to-cassandra-with-c-sharp/,Connect to Cassandra with C#,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/cassandra-data-modeling/,Cassandra Data Modeling Best Practices Guide,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://batey.info/cassandra.html,Christopher Batey: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/10/18/user-defined-compaction.html,Performing User Defined Compactions in Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.knoldus.com/setting-up-cassandra-cluster-through-ansible/,Setting Up Cassandra Cluster Through Ansible,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://sharadchhetri.com/2015/04/25/how-to-install-cassandra-2-on-centos-7-rhel-7/,How to install Cassandra 2 on CentOS 7 / RHEL 7,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://dtsx.io/3DkP5sN,DataStax Enterprise,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://medium.com/cassandra-tombstones-clearing-use-case/the-curios-case-of-tombstones-d897f681a378,Curious Case of Tombstones,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/cassandra-use-cases/,Cassandra Use Cases: When to use and when not to use Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.linkedin.com/pulse/gossip-protocol-inside-apache-cassandra-soham-saha,The Gossip Protocol - Inside Cassandra.,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://docs.aws.amazon.com/keyspaces/latest/devguide/using_dotnetcore_driver.html,Access Amazon Keyspaces with a Cassandra .NET Core Driver,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/05/07/dcos.html,Running Cassandra on DC/OS (Mesos),https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2015/10/23/cassandra-stress-and-graphs.html,Graphing cassandra-stress,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.packtpub.com/big-data-and-business-intelligence/cassandra-high-availability,Cassandra High Availability,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2016/03/04/introductiont-to-the-apache-cassandra-3-storage-engine.html,Introduction To The Cassandra 3.x Storage Engine,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://distributedbytes.timojo.com/search/label/cassandra,Distributed Bytes: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://thelastpickle.com/blog/2017/03/16/compaction-nuance.html,Understanding the Nuance of Compaction in Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/education/apache-cassandra-database,Cassandra Database (Guide),https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.cdata.com/drivers/cassandra/ado/,Cassandra ADO.NET Driver,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.instaclustr.com/benchmarking-cassandra-with-local-storage-on-azure/,Benchmarking Cassandra with Local Storage on Azure,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://blog.pythian.com/guide-to-cassandra-thread-pools/,Guide to Cassandra Thread Pools,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://link.springer.com/book/10.1007/978-1-4842-3126-5,Expert Apache Cassandra Administration,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://engineering.atspotify.com/tag/apache-cassandra/,Spotify R&D / Engineering Blog : Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://luna.datastax.com/,DDAC/Luna,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://academy.datastax.com/,DataStax Academy,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://medium.com/@jochasinga/cassandra-schemas-for-beginners-like-me-9714cee9236a,Cassandra Schemas for Beginners (like me),https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://medium.com/@alexbmeng/cassandra-query-language-cql-vs-sql-7f6ed7706b4c,Cassandra Query Language: CQL vs SQL,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+http://www.mail-archive.com/user@cassandra.apache.org/,Cassandra Users Mailing List,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://cassandra-slack.herokuapp.com/,Cassandra Slack,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://dtsx.io/38htEun,DataStax Astra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://stackoverflow.com/questions/tagged/cassandra,Stack Overflow: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://stackoverflow.com/questions/tagged/cql,Stack Overflow: cql,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.ibm.com/cloud/databases-for-datastax,IBM Cloud Databases for DataStax,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://stackoverflow.com/questions/tagged/spark-cassandra-connector,Stack Overflow: spark-cassandra-connector,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://stackoverflow.com/questions/66506642/astra-datastax-asp-net-core-secure-connect-bundle-zip-file-working-in-loca,Stack Overflow: Astra DataStax - ASP.NET Core,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.quora.com/topic/Cassandra-database,Quora: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra
+https://www.meetup.com/topics/cassandra/?_cookie-check=mHgLvBy3N6Cke1RU,Meetups: Cassandra,https://github.com/Anant/awesome-cassandra#readme,Cassandra

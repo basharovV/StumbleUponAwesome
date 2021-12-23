@@ -1,0 +1,104 @@
+https://flexbe.github.io/,FlexBE,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://dev.yorhel.nl/ncdu,ncdu,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.tensorflow.org/datasets/catalog/overview,TensorFlow Datasets,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://commonroad.in.tum.de/,commonroad,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics,blog post,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/ternaris/marv-robotics,marv-robotics,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.linuxfoundation.org/realtime/documentation/start,PREEMPT_RT kernel patch,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://moveit.ros.org/,moveit,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://robmosys.eu/,robmosys,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects,Launch,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://netplan.io/,netplan,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter,rqt_bag_exporter,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://ruckig.com,Ruckig,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://agilemanifesto.org/,Agile Development,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://docs.ros.org/kinetic/api/network_autoconfig/html/,network_autoconfig,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.eclipse.org/papyrus/components/robotics/,Papyrus for Robotics,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://bitbucket.org/DataspeedInc/oxford_gps_eth/,oxford_gps_eth,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.yworks.com/products/yed,yEd,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://git.yoctoproject.org/,Yocto,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/leanlabsio/kanban,kanban,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/webots_ros,ROS,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://design.ros2.org/articles/ros2_dds_security.html,ros2_dds_security,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/ApexAI/grge,Grge,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/webots_ros2,ROS2,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/tf2,tf2,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/urdf/Examples,URDF,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.coppeliarobotics.com/helpFiles/en/rosInterf.htm,VREP Interface,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://roscon.ros.org/2016/presentations/ROSCon2016%20Build%20Farm.pdf,rosbuild,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.openmp.org/,OpenMP,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/gitlab-org/gitlab-triage,gitlab-triage,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/PyStyleGuide,Python,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.paperswithcode.com/datasets,Papers With Code,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gerrit.googlesource.com/gerrit/,Gerrit,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/Quality/Tutorials/UnitTesting,UnitTesting,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://avdata.ford.com/home/default.aspx,Ford Autonomous Vehicle Dataset,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.atlatec.de/getsampledata.html,Atlatec Sample Map Data,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.automotivelinux.org/software,Automotive Graded Linux,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html,Docker,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gstreamer.freedesktop.org/,gstreamer,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/rqt,rqt,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.opencrg.org/download.html,opencrg,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/gitlab-org/gitter/webapp,gitter,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/rqt_graph,rqt_graph,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/MaplessAI/external/a2d2_to_ros,a2d2_to_ros,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://ignitionrobotics.org,Ignition Robotics,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/ros-tracing/ros2_tracing,ros2_tracing,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.debian.org/Xen,Xen,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/autowarefoundation/autoware.auto,Autoware.Auto,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.khronos.org/openvx/,OpenVX,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://subtchallenge.world/openrobotics/fuel/collections/SubT%20Tech%20Repo,simulation assets for the SubT,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.apex.ai/snippets/97,Cross compile ROS 2 on QNX,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.automotivelinux.org/,Automotive Grade Linux,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/irafm-ai/poly-yolo,Poly-YOLO,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.qemu.org/,QEMU,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.brendangregg.com/linuxperf.html,Linuxperf,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.flir.com/oem/adas/adas-dataset-form/,adas-dataset-form,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/VictorLamoine/ros_gitlab_ci,ros_gitlab_ci,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/ApexAI/ade-cli,ade-cli,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://pymotw.com/2/inspect/,inspect,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.kicad.org/,kicad,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.gpu-voxels.org/,gpu-voxels,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gage.upc.edu/gLAB/,gLAB,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://self-driving.lyft.com/level5/data/,Lyft Level 5 Dataset,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://micro-ros.github.io/,micro-ros,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.pandapower.org,PandaPower,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://utd19.ethz.ch/,UTD19,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/gitlab-org/gitlab-runner,gitlab-runner,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/IDEs,ROS IDEs,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB,Roslaunch Nodes in Valgrind or GDB,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.debian.org/DebianInstaller/Preseed,Pressed,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://wiki.ros.org/dynamic_reconfigure,dynamic_reconfigure,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://ngspice.sourceforge.net/,ngspice,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/,ASTYX HIRES2019 DATASET,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://undraw.co/illustrations,undraw,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.kitware.com/keu-computervision/slam/,Kitware SLAM,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://once-for-auto-driving.github.io/index.html,ONCE dataset,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://elisa.tech/,ELISA,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/alelec/gitlab-release,gitlab-release,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://kite.com/,kite,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://lttng.org/docs/,lttng,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://ms-iot.github.io/ROSOnWindows/,ROSOnWindows,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://usa.honda-ri.com/h3d,h3d,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/juhani/go-semrel-gitlab,go-semrel-gitab,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/VladyslavUsenko/basalt,basalt,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://docs.ros.org/kinetic/api/robot_systemd/html/,robot_systemd,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gerrit.googlesource.com/git-repo/,Git-repo,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.mapillary.com/dataset/vistas,Mapillary Vistas Dataset,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/xpp,xpp,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://riscv.org,riscv,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://launchpad.net/terminator,terminator,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://ryo-iso.readthedocs.io/en/latest/,ryo-iso,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.olivevideoeditor.org/,olive,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.opendrive.org/index.html,OpenDRIVE,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/rqt_bag,rqt_bag,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://wiki.ros.org/rviz/Tutorials/Rviz%20in%20Stereo,rviz stereo,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://lnav.org/,lnav,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.svgrepo.com/,SVGrepo,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://gitlab.com/ganttlab/ganttlab,GanttLab,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://avp-project.uk/publication-of-safety-documents,Automated Valet Parking Safety Documents,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+http://www.stroustrup.com/JSF-AV-rules.pdf,Air Vehicle C++ development coding standards,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-10/AUTOSAR_RS_CPP14Guidelines.pdf,AUTOSAR Coding Standard,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf,The W-Model and Lean Scaled Agility for Engineering,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling
+https://www.eclipse.org/capella/,capella,https://github.com/protontypes/awesome-robotic-tooling#readme,Robotic Tooling

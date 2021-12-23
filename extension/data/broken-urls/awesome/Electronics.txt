@@ -1,4 +1,5 @@
-https://tcad.com/Software.html,TCAD Central,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.ti.com/tool/TINA-TI,TINA-TI,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('timed out') | reason: 
-https://www.khanacademy.org/science/electrical-engineering,Khan Academy - Electrical Engineering,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
+https://www.findchips.com/,Findchips,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
+https://www.3dcontentcentral.com,3D ContentCentral,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
 https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know,List of ULPs everyone should know,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
+https://tcad.com/Software.html,TCAD Central,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://parts.io/,Parts.io,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 

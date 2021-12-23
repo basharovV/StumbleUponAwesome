@@ -1,0 +1,1 @@
+https://www.meshtastic.org/,Meshtastic,https://github.com/agucova/awesome-esp#readme,ESP error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

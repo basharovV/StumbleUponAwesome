@@ -1,0 +1,59 @@
+https://stackoverflow.com/questions/tagged/substrate,Stack Overflow,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://en.wikipedia.org/wiki/Software_Guard_Extensions,Intel SGX,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/playlist?list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs,Sub0 Conference Oct. 2020,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.parity.io/,Parity Technologies,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://polkascan.io/,Polkascan,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://substrate.io/ecosystem/substrate-builders-program/,Builders Program,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://onfinality.io,OnFinality,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.scs.ch/,Supercomputing Systems AG,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate,VSCode Substrate,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://substrate.io/,Official Homepage,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V,Sub0 Conference Dec. 2019,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://chainsafe.io/,ChainSafe,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://docs.substrate.io/,Docs,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://web3.foundation/grants,Web3 Foundation Grants,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://polkascan.org/,Polkascan Foundation,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y,Sub0 Conference Apr. 2019,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://docs.substrate.io/tutorials,Tutorials,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://centrifuge.io/,Centrifuge,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://kagome.readthedocs.io/en/latest/,Kagome,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.crowdcast.io/e/substrate-seminar-2/,New Seminar Crowdcast,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://docs.substrate.io/how-to-guides,How-to guides,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+http://www.soramitsu.co.jp/,Soramitsu,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://usetech.com/blockchain/,Usetech,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.parity.io/signer/,Parity Signer,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.reddit.com/r/substrate/,Reddit,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://limechain.tech/,LimeChain,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.subscan.io/,Subscan,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.crowdcast.io/e/substrate-seminar/,Old Seminar Crowdcast,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://docs.substrate.io/rustdocs,Reference Docs,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://docs.substrate.io/v3/advanced/scale-codec/,Codec Definition,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/watch?v=0IoUZdDi5Is,Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://rs-ipfs.github.io/offchain-ipfs-manual/,offchain::ipfs,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://sub0.parity.io/,Sub0 Developer Conference,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://substrate.io/ecosystem/projects/,Ecosystem Projects,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.nuget.org/packages/SubstrateNetApi/,nuget,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8,Polkadot Network Technical Explainers,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://substrate.io/ecosystem/resources/seminar/,Substrate Seminar,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://dotmog.com/,DOTMog,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://docs.substrate.io/v3/runtime/frame/,FRAME,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://polkadot.js.org/,Polkadot-JS,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://polkadot.js.org/apps/,Polkadot-JS Apps UI,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.itering.com/,Itering,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.parity.io/blog/tag/parity-substrate,Official,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://book.integritee.network/,IntegriTEE,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.trufflesuite.com/truffle,Truffle,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://wiki.polkadot.network/docs/build-tools-index,Polkadot Tool Index,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://robonomics.network/,Robonomics Network,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://dotleap.com/,DotLeap,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://emerald.cash/,Emerald,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://substrate.dev/docs/en/knowledgebase/integrate/subkey,Subkey,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/c/paritytech,Parity YouTube,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS,Substrate Seminar (YouTube Archive),https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://subquery.network,SubQuery,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://www.shawntabrizi.com/substrate-js-utilities/,deployed as a website,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://aleph.im,Aleph.im,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://polkadot.subscan.io/tools/ss58_transform,SS58 Transform,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://dotjobs.net/,DotJobs,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://stateless.money/,Stateless.Money,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate
+https://web3.foundation/,Web3 Foundation,https://github.com/substrate-developer-hub/awesome-substrate#readme,Substrate

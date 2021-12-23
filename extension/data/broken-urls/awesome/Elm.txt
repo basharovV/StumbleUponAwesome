@@ -1,3 +1,4 @@
-http://www.fullstackradio.com/44,Full Stack Radio 44,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://changelog.com/218/,The Changelog 218,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://changelog.com/191/,The Changelog 191,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://elmtown.github.io/,Elm Town,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
+http://www.fullstackradio.com/44,Full Stack Radio 44,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://parceljs.org/elm.html,Parcel,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://elmjapan.org/,Elm Japan,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

@@ -1,0 +1,35 @@
+https://www.ansible.com/,,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6,Ansible TopTechSkills.com Tutorial Series on YouTube,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://reinteractive.com/posts/167-ansible-real-life-good-practices,Ansible (Real Life) Good Practices,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview,Ansible Essentials - Course,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://docs.ansible.com/ansible/latest/user_guide/index.html,Latest Ansible Documentation,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1,Complete Ansible Course 2020 by DevOps Journey,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.toptechskills.com/ansible-tutorials-courses/,Ansible TopTechSkills.com Tutorial Series on Ansible,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://hodgkins.io/testing-ansible-roles-windows-test-kitchen,Testing Ansible Roles Against Windows with Test-Kitchen,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://ansible.github.io/workshops/exercises/ansible_rhel/,Official Ansible labs by Red Hat,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://galaxy.ansible.com/,Ansible Galaxy Website,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://andidog.de/blog/2017-04-24-ansible-best-practices,Ansible Best Practices by AndiDog,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://galaxy.ansible.com/dev-sec/,System Hardening Framework/Roles,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.digitalocean.com/community/tags/ansible?subtype=tutorial,Ansible Tutorials on DigitalOcean,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.ansible.com/products/tower,Ansible Tower,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.openstack.org/,OpenStack,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.ansiblefordevops.com/,Ansible for DevOps,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://mitogen.networkgenomics.com/ansible_detailed.html,Mitogen for Ansible,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.ansible.com/blog,Ansible Blog,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://libera.chat/,libera.chat,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://docs.debops.org/en/master/,DebOps,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://molecule.readthedocs.io/en/latest/,Molecule,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://leanpub.com/ansible-for-devops/read_sample,here,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.ansibleforkubernetes.com/,Ansible for Kubernetes,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://old.reddit.com/r/ansible/,reddit.com/r/ansible,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://hewlettpackard.github.io/squest/,squest,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://ansible-community.github.io/ansible-bender/build/html/index.html,ansible-bender,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/,Discord,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://ansible.com/community,ansible.com/community,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://ansible-builder.readthedocs.io/en/latest/,ansible-builder,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook,How To Manage Remote Servers with Ansible eBook,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible,How To Manage Remote Servers with Ansible,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ,Ansible YouTube Channel,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://youtu.be/iVWmbStE1MM,Introduction to Ansible,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://hackr.io/tutorials/learn-ansible,Programming Community Curated Resources for learning Ansible,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible
+https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series,Ansible 101 by Jeff Geerling,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible

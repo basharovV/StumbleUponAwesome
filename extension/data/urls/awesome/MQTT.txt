@@ -1,65 +1,69 @@
-http://www.hivemq.com/demos/websocket-client/,Direct Link,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper,mqtt-wrapper,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.hivemq.com/,HiveMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.alibabacloud.com/product/iot,Alibaba Cloud IoT Platform,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.busch-jaeger.de/files/files_ONLINE/Brosch%c3%bcre_EnergyMonitor_druck.pdf,Busch-Jäger Energy Monitor,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://mqtt.org/,mqtt.org,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://www.eclipse.org/paho/,Paho,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://www.mosca.io/,Mosca,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.opc-router.com/4_1-mqtt-client-opc-router-plug-in-en/,OPC Router,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://mosquitto.org/,Mosquitto,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.wolfssl.com/products/wolfmqtt/,wolfMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://aws.amazon.com/iot-core/?nc1=h_ls,AWS IoT Core,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://moxd.io/2015/10/17/public-mqtt-brokers/,A list of public brokers,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://owntracks.org/,OwnTracks,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://azure.microsoft.com/en-us/services/iot-hub/,Azure IoT Hub,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://mqtt.cool,MQTT.Cool,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.heise.de/select/ct/2018/2/1515452111258448,c't Magazin 2'2018 (German),https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.cloudmqtt.com/,CloudMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://projects.eclipse.org/projects/technology.iottestware,IoT-Testware,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.hardill.me.uk/wordpress/tag/mqtt/,Ben Hardill,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://hobbyquaker.github.io/mqtt-admin/,Direct Link,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.mysensors.org/,MySensors,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/,wlan-thermo-mqtt-addon,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://kamilfb.github.io/mqtt-spy/,mqtt-spy,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://forkbomb-blog.de/category/mqtt,Dominik Obermaier,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto,Let's Encrypt Mosquitto Docker Container,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin,MQTT Publisher Plugin,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.npmjs.com/package/mqtt-firebase,mqtt-firebase,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://mqttfx.jensd.de/,MQTT.fx,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://jpmens.net/,Jan-Piet Mens,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://flespi.com/mqtt-broker,flespi,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://myqtthub.com,MyQttHub,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://docs.pycom.io/chapter/tutorials/all/mqtt/,mqtt-with-micropython,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm,MQTTLens,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.iot-onoff.com/,IoT OnOff,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://knolleary.net/,Nick O'Leary,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de,MQTT Dash,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://mqtt-explorer.com/,MQTT Explorer,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://templates.blakadder.com/index.html,1,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.youtube.com/watch?v=LKz1jYngpcU,An Introduction to MQTT: Why HTTP isn't the King of the Internet of Things,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.rabbitmq.com/mqtt.html,RabbitMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.youtube.com/watch?v=INYG4-xsa9c,Einführung in MQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://simplemqtt.theoi.de/,SimpleMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://cloud.google.com/solutions/iot/,Google Cloud IoT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://testclient-cloud.mqtt.cool,MQTT.Cool Test Client,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://zhen.org/categories/surgemq/,SurgeMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.ibm.com/watson,IBM WATSON,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware,3,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://teserakt.io/,Teserakt E4,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://vernemq.com/,VerneMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.buildingiot.de/,Building IoT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.mainflux.com/,mainflux,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 http://activemq.apache.org/,ActiveMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.ibm.com/watson,IBM WATSON,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://fhem.de/fhem.html,FHEM,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://mqtt.org/,mqtt.org,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://simplemqtt.theoi.de/,SimpleMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://wiki.videolan.org/Documentation:Modules/mqtt/,VLC MQTT Module,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware,3,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.hivemq.com/,HiveMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.mainflux.com/,mainflux,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.busch-jaeger.de/files/files_ONLINE/Brosch%c3%bcre_EnergyMonitor_druck.pdf,Busch-Jäger Energy Monitor,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 https://thingsboard.io/,thingsboard,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.gambitcomm.com/site/mqttsimulator.php,MIMIC MQTT Simulator,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://io.adafruit.com,Adafruit IO,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://www.aqara.com/us/home.html,Aqara,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 https://www.letscontrolit.com/wiki/index.php?title=ESPEasy,ESPEasy,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://www.hivemq.com/demos/websocket-client/,Direct Link,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://mqtt.cool,MQTT.Cool,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.gambitcomm.com/site/mqttsimulator.php,MIMIC MQTT Simulator,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://moxd.io/2015/10/17/public-mqtt-brokers/,A list of public brokers,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://www.mosca.io/,Mosca,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://mosquitto.org/,Mosquitto,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 http://geekscape.github.io/mqtt_lua/,mqtt_lua,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://shop.busware.de/product_info.php/cPath/1/products_id/29,Busware CUL,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 https://wifi-iot.com/p/wiki/,WiFi-IoT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.opc-router.com/4_1-mqtt-client-opc-router-plug-in-en/,OPC Router,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://waterstream.io/,Waterstream,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/,wlan-thermo-mqtt-addon,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper,mqtt-wrapper,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin,MQTT Publisher Plugin,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://mqtt.eclipseprojects.io,Free test server,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://io.adafruit.com,Adafruit IO,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://www.eclipse.org/paho/,Paho,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://owntracks.org/,OwnTracks,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.wolfssl.com/products/wolfmqtt/,wolfMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto,Let's Encrypt Mosquitto Docker Container,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://projects.eclipse.org/projects/technology.iottestware,IoT-Testware,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.iot-onoff.com/,IoT OnOff,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.alibabacloud.com/product/iot,Alibaba Cloud IoT Platform,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://myqtthub.com,MyQttHub,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://hobbyquaker.github.io/mqtt-admin/,Direct Link,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de,MQTT Dash,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.rabbitmq.com/mqtt.html,RabbitMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://aws.amazon.com/iot-core/?nc1=h_ls,AWS IoT Core,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://kamilfb.github.io/mqtt-spy/,mqtt-spy,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.cloudmqtt.com/,CloudMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.heise.de/select/ct/2018/2/1515452111258448,c't Magazin 2'2018 (German),https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.hardill.me.uk/wordpress/tag/mqtt/,Ben Hardill,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://mqttfx.jensd.de/,MQTT.fx,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.mysensors.org/,MySensors,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://docs.pycom.io/tutorials/networkprotocols/mqtt/,mqtt-with-micropython,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://forkbomb-blog.de/category/mqtt,Dominik Obermaier,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.npmjs.com/package/mqtt-firebase,mqtt-firebase,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm,MQTTLens,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://zhen.org/categories/surgemq/,SurgeMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://templates.blakadder.com/index.html,1,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://testclient-cloud.mqtt.cool,MQTT.Cool Test Client,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://jpmens.net/,Jan-Piet Mens,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://vernemq.com/,VerneMQ,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://adrianromero.github.io/myhelloiot/,MYHELLOIOT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://knolleary.net/,Nick O'Leary,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.youtube.com/watch?v=LKz1jYngpcU,An Introduction to MQTT: Why HTTP isn't the King of the Internet of Things,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.youtube.com/watch?v=INYG4-xsa9c,Einführung in MQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://cloud.emqx.io/,EMQ X MQTT Cloud,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://mqtt-explorer.com/,MQTT Explorer,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.buildingiot.de/index.php,Building IoT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://flespi.com/mqtt-broker,flespi,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.ably.io/documentation/mqtt,Ably,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://cloud.google.com/solutions/iot/,Google Cloud IoT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+https://www.hivemq.com/cloud/,HiveMQ Cloud,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://www.aqara.com.cn/us/index.html,Aqara,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
+http://shop.busware.de/product_info.php/cPath/1/products_id/29,Busware CUL,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3,mcsMQTT,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
 https://www.domoticz.com/,Domoticz,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-http://fhem.de/fhem.html,FHEM,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT
-https://wiki.videolan.org/Documentation:Modules/mqtt/,VLC MQTT Module,https://github.com/hobbyquaker/awesome-mqtt#readme,MQTT

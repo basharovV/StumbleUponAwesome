@@ -1,4 +1,3 @@
-https://courses.ps.uni-saarland.de/icl_20/2/Resources,Introduction to Computational Logic,https://github.com/coq-community/awesome-coq#readme,Coq error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
 https://sympa.inria.fr/sympa/arc/coq-club,Official Coq-Club mailing list,https://github.com/coq-community/awesome-coq#readme,Coq error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Moved

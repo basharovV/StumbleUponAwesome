@@ -1,2 +1,4 @@
 https://dhamma.audio/,dhamma.audio,https://github.com/johnjago/awesome-theravada#readme,Theravada error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/,Parallel Reading of the Dhammapada,https://github.com/johnjago/awesome-theravada#readme,Theravada error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://watnongpahpong.org/indexe.php,Wat Nong Pah Pong,https://github.com/johnjago/awesome-theravada#readme,Theravada error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://community.dhammaloka.org.au/forum.php,Dhammaloka Community,https://github.com/johnjago/awesome-theravada#readme,Theravada error: <HTTPError 404: 'Not Found'> | reason: Not Found

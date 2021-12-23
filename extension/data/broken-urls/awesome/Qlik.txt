@@ -1,1 +1,1 @@
-https://www.amazon.com/Practical-QlikView-Mark-ODonovan-ebook/dp/B007QMMDL4,Practical QlikView,https://github.com/ambster-public/awesome-qlik#readme,Qlik error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://qlikcentral.com/,QlikCentral,https://github.com/ambster-public/awesome-qlik#readme,Qlik error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)

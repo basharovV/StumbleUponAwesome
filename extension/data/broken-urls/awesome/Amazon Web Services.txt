@@ -1,10 +1,11 @@
 https://www.linkedin.com/grp/home?gid=49531,Amazon Web Services Community Network,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.linkedin.com/grps?gid=2485626,Amazon Web Services Enthusiasts,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.linkedin.com/grps?gid=86137,Amazon Web Services Users,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://amzn.com/1617293717,Amazon.com,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.linkedin.com/company/amazon-web-services,Amazon Web Services,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 999: 'Request denied'> | reason: Request denied
 https://www.linkedin.com/grp/home?gid=4387417,Amazon AWS Architects,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.linkedin.com/grps?gid=3748455,Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.linkedin.com/grps?gid=5122002,Amazon Web Services (AWS) for Business,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.linkedin.com/grps?gid=4233997,Amazon Web Services Architects,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html,Product Advertising API,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://aws.amazon.com/documentation/quickstart/,Quick Start Deployment Guides,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://amzn.com/1617292885,Amazon.com,https://github.com/donnemartin/awesome-aws#readme,Amazon Web Services error: <HTTPError 404: 'Not Found'> | reason: Not Found

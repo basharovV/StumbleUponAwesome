@@ -1,1 +1,1 @@
-https://ponyfoo.com/articles/a-gentle-browserify-walkthrough,A Gentle Browserify Walkthrough,https://github.com/browserify/awesome-browserify#readme,Browserify error: timeout('The read operation timed out') | reason: 
+https://writingjavascript.org/posts/introduction-to-browserify,Introduction to Browserify,https://github.com/browserify/awesome-browserify#readme,Browserify error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

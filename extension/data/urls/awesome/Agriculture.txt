@@ -1,7 +1,11 @@
-https://en.wikipedia.org/wiki/Agriculture,Agriculture,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
-https://www.openplantpathology.org/,Open Plant Pathology,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
-https://adaptframework.org,AgGateway’s ADAPT Toolkit,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
-https://bitbucket.org/corizon/agrosense,AgroSense,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
-https://qgis.org,QGIS,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
-https://farmhack.org/tools,Farm Hack,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
-http://rosagriculture.org/,ROS Agriculture,https://github.com/beaorn/awesome-agriculture#readme,Agriculture
+https://en.wikipedia.org/wiki/Agriculture,Agriculture,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+http://rosagriculture.org/,ROS Agriculture,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://www.openplantpathology.org/,Open Plant Pathology,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://terraref.org,TERRA REF,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://doi.org/10.5061/dryad.4b8gtht99,data publication,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103&origin_path=%2F,globus.org at ncsa#terra-public,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://adaptframework.org,AgGateway’s ADAPT Toolkit,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://agstack.org,Agstack,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://bitbucket.org/corizon/agrosense,AgroSense,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://qgis.org,QGIS,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture
+https://farmhack.org/tools,Farm Hack,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture

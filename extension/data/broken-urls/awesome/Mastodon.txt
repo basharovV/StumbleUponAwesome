@@ -1,4 +1,3 @@
-https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width,Variable width,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
+https://microblog.pub/,Microblog.pub,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
 https://notabug.org/halcyon-suite/halcyon,Halcyon,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
-https://git.mulligrubs.me/planiverse/,Planiverse,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
-https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer,Narrow drawer,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
+https://nowplaying.resynth1943.net,Mastodon #nowplaying Toot Bookmarklet,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

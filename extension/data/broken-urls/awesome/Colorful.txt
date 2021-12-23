@@ -1,5 +1,5 @@
-http://color.farm/,Color Farm,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html,Cubehelix, or How I Learned to Love Black & White Printers,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.randoma11y.com,Random A11y,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 308: 'Unknown'> | reason: Unknown
-http://www.swisscolors.net/,Swiss Style Color Picker,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm,Introduction to Color Theory,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.randoma11y.com,Random A11y,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.lolcolors.com/palettes/popular,LOL Colors,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.pictaculous.com/,Pictaculous,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html,Cubehelix, or How I Learned to Love Black & White Printers,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found

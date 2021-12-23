@@ -1,2 +1,3 @@
-https://bitwarden.com,https://bitwarden.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://builtwithdot.net,BuiltWithDot.Net,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: timeout('The read operation timed out') | reason: 
+http://xbehave.github.io,http://xbehave.github.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://forums.dotnetfoundation.org,.NET Foundation,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://planning.halomademeapc.com,Demo,https://github.com/thangchung/awesome-dotnet-core#readme,Core error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

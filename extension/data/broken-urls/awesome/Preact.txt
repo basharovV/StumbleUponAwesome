@@ -1,3 +1,6 @@
-https://preact-slack.now.sh,Slack,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://use-the-platform.com/periodic-weather/,Periodic Weather,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://nbrugby.com,Rugby News Board,https://github.com/preactjs/awesome-preact#readme,Preact error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://use-the-platform.com/rainbow-explorer/,Rainbow Explorer,https://github.com/preactjs/awesome-preact#readme,Preact error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
+https://use-the-platform.com/offline-gallery/,Offline Gallery,https://github.com/preactjs/awesome-preact#readme,Preact error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
+https://use-the-platform.com/periodic-weather/,Periodic Weather,https://github.com/preactjs/awesome-preact#readme,Preact error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
+https://preact.gallery/,Preact Gallery,https://github.com/preactjs/awesome-preact#readme,Preact error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://auth0.com/blog/preact-authentication-tutorial,Authentication with Auth0,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 308: 'Unknown'> | reason: Unknown
+https://macos-preact.now.sh,macOS Web,https://github.com/preactjs/awesome-preact#readme,Preact error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

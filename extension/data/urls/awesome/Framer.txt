@@ -1,27 +1,18 @@
-http://www.cutandfold.co/blog/2015/9/7/making-you-first-framer-prototype,Getting Started with Framer,https://github.com/podo/awesome-framer#readme,Framer
-http://coffeescript-for-framerjs.com,CoffeeScript for Framer,https://github.com/podo/awesome-framer#readme,Framer
-http://www.cutandfold.co/blog/2015/9/8/building-your-first-prototype,Building Your First Prototype,https://github.com/podo/awesome-framer#readme,Framer
 http://framer.com,Framer,https://github.com/podo/awesome-framer#readme,Framer
-https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER,Framerjs: Innovative prototyping and design with interaction,https://github.com/podo/awesome-framer#readme,Framer
-http://codepen.io/collection/nRzzaZ/,Framer.js Workshop,https://github.com/podo/awesome-framer#readme,Framer
 https://framerbook.com,The Framer book,https://github.com/podo/awesome-framer#readme,Framer
-http://www.sketchcasts.net/episodes/prototyping-with-framer-part-1,Prototyping with Framer,https://github.com/podo/awesome-framer#readme,Framer
-http://framer.com/examples,Official Examples,https://github.com/podo/awesome-framer#readme,Framer
-https://www.facebook.com/groups/framerjs/,Facebook Group,https://github.com/podo/awesome-framer#readme,Framer
-https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/,Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio,https://github.com/podo/awesome-framer#readme,Framer
+https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER,Framerjs: Innovative prototyping and design with interaction,https://github.com/podo/awesome-framer#readme,Framer
 http://share.framerjs.com/ft0uwf1jweid/,HSL Color Picker,https://github.com/podo/awesome-framer#readme,Framer
-https://www.youtube.com/watch?v=mqk9Fw8FKLY,Stripe Speaker Series: Designing with Framer,https://github.com/podo/awesome-framer#readme,Framer
+https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/,Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio,https://github.com/podo/awesome-framer#readme,Framer
+https://www.facebook.com/groups/framerjs/,Facebook Group,https://github.com/podo/awesome-framer#readme,Framer
 https://www.youtube.com/watch?v=qFUXxqzZytU,Periscope Heart Animation Demo at the Seattle FramerJS Meetup,https://github.com/podo/awesome-framer#readme,Framer
+https://www.youtube.com/watch?v=mqk9Fw8FKLY,Stripe Speaker Series: Designing with Framer,https://github.com/podo/awesome-framer#readme,Framer
 https://www.youtube.com/watch?v=gX0n4JUl18g,FORM SF 2014: Panel - Design Tooling,https://github.com/podo/awesome-framer#readme,Framer
+http://share.framerjs.com/mraze47eux9w/,iOS Toggle,https://github.com/podo/awesome-framer#readme,Framer
 https://www.youtube.com/playlist?list=PL9p5auxyrweMB6JVO24jFvW4NZufHacjz,Framer Video Tutorials,https://github.com/podo/awesome-framer#readme,Framer
 https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc,Working with SVG Paths in Framer,https://github.com/podo/awesome-framer#readme,Framer
-http://share.framerjs.com/mraze47eux9w/,iOS Toggle,https://github.com/podo/awesome-framer#readme,Framer
-https://framer.com/blog/posts/how-to-create-high-quality-gifs,How to Create High‑Quality GIFs,https://github.com/podo/awesome-framer#readme,Framer
-http://jrdn.io/dO4r,3D Touch Module,https://github.com/podo/awesome-framer#readme,Framer
 https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545,Mobile App Prototyping: Designing Custom Interactions,https://github.com/podo/awesome-framer#readme,Framer
 http://www.prototypingwithframer.com,Prototyping With Framer,https://github.com/podo/awesome-framer#readme,Framer
-http://framerco.de,Framer Code,https://github.com/podo/awesome-framer#readme,Framer
 https://www.pluralsight.com/courses/ui-prototyping-framer-js,UI Prototyping with Framer.js,https://github.com/podo/awesome-framer#readme,Framer
-https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html,Framer for UX Design,https://github.com/podo/awesome-framer#readme,Framer
+http://framerco.de,Framer Code,https://github.com/podo/awesome-framer#readme,Framer
 https://www.youtube.com/playlist?list=PLWlUJU11tp4f41p4dzizVkjjTQ38kA0wG,Framer Crash Course,https://github.com/podo/awesome-framer#readme,Framer
 https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW,Framer Studio for Beginners: A Comprehensive Guide,https://github.com/podo/awesome-framer#readme,Framer

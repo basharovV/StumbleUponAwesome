@@ -1,2 +1,1 @@
 https://developers.google.com/actions/transactions/digital/dev-guide-digital,Build digital transactions,https://github.com/ravirupareliya/awesome-actions-on-google#readme,Actions on Google error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.androidauthority.com/author/jessicathornsby/,Jessica Thornsy,https://github.com/ravirupareliya/awesome-actions-on-google#readme,Actions on Google error: timeout('The read operation timed out') | reason: 

@@ -1,19 +1,16 @@
-http://livereload.com/,LiveReload,https://github.com/jondot/awesome-devenv#readme,Dev Env
-https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync,Sync settings,https://github.com/jondot/awesome-devenv#readme,Dev Env
-http://jonas.nitro.dk/tig/,tig,https://github.com/jondot/awesome-devenv#readme,Dev Env
 http://robomongo.org/,Robomongo,https://github.com/jondot/awesome-devenv#readme,Dev Env
+https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync,Sync settings,https://github.com/jondot/awesome-devenv#readme,Dev Env
 http://httpd.apache.org/docs/2.2/programs/ab.html,apachebench (ab),https://github.com/jondot/awesome-devenv#readme,Dev Env
-https://mockoon.com,Mockoon,https://github.com/jondot/awesome-devenv#readme,Dev Env
-https://httptoolkit.tech,HTTP Toolkit,https://github.com/jondot/awesome-devenv#readme,Dev Env
-https://nanobox.io,https://nanobox.io,https://github.com/jondot/awesome-devenv#readme,Dev Env
+http://livereload.com/,LiveReload,https://github.com/jondot/awesome-devenv#readme,Dev Env
 http://www.joedog.org/siege-home/,siege,https://github.com/jondot/awesome-devenv#readme,Dev Env
-http://brew.sh,homebrew,https://github.com/jondot/awesome-devenv#readme,Dev Env
 http://www.alfredapp.com/,Alfred,https://github.com/jondot/awesome-devenv#readme,Dev Env
-http://httpie.org/,httpie,https://github.com/jondot/awesome-devenv#readme,Dev Env
 https://dotfiles.github.io/,dotfiles.github.io,https://github.com/jondot/awesome-devenv#readme,Dev Env
 http://vim.spf13.com/,The Ultimate Vim Distribution,https://github.com/jondot/awesome-devenv#readme,Dev Env
-http://www.iterm2.com/,iTerm2,https://github.com/jondot/awesome-devenv#readme,Dev Env
-http://www.ivarch.com/programs/pv.shtml,Pipe Viewer,https://github.com/jondot/awesome-devenv#readme,Dev Env
 https://sublime.wbond.net/installation,Package Control,https://github.com/jondot/awesome-devenv#readme,Dev Env
 https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories,VS Code Extension Marketplace,https://github.com/jondot/awesome-devenv#readme,Dev Env
 https://marketplace.visualstudio.com/items?itemName=ms-python.python,Python extension,https://github.com/jondot/awesome-devenv#readme,Dev Env
+https://httptoolkit.tech,HTTP Toolkit,https://github.com/jondot/awesome-devenv#readme,Dev Env
+http://brew.sh,homebrew,https://github.com/jondot/awesome-devenv#readme,Dev Env
+http://httpie.org/,httpie,https://github.com/jondot/awesome-devenv#readme,Dev Env
+http://www.iterm2.com/,iTerm2,https://github.com/jondot/awesome-devenv#readme,Dev Env
+http://www.ivarch.com/programs/pv.shtml,Pipe Viewer,https://github.com/jondot/awesome-devenv#readme,Dev Env

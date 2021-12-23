@@ -1,1 +1,3 @@
 https://pragprog.com/write-for-us/proposal-guidelines,Proposal Guidelines (The Pragmatic Programmers),https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.apress.com/write-for-us/,Apress,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.voidspace.org.uk/python/articles/technical-writing.shtml,Writing a Technical Book,https://github.com/TalAter/awesome-book-authoring#readme,Book Authoring error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

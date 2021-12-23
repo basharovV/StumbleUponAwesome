@@ -1,1 +1,2 @@
 https://www.linkedin.com/in/jdayo/,Joseph Emmanuel Dayo,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 999: 'Request denied'> | reason: Request denied
+http://neovintage.org/2011/11/14/text-classification-using-support/,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found

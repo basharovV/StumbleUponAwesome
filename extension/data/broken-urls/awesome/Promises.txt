@@ -1,1 +1,1 @@
-https://ponyfoo.com/articles/es6-promises-in-depth,ES6 Promises in Depth,https://github.com/wbinnssmith/awesome-promises#readme,Promises error: timeout('The read operation timed out') | reason: 
+http://www.mattgreer.org/articles/promises-in-wicked-detail/,Javascript Promises...In Wicked Detail,https://github.com/wbinnssmith/awesome-promises#readme,Promises error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

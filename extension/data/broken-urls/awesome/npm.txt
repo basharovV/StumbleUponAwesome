@@ -1,2 +1,5 @@
+https://npm.community/c/support,npm.community,https://github.com/sindresorhus/awesome-npm#readme,npm error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://wzrd.in/standalone/object-assign@4.0.0,https://wzrd.in/standalone/object-assign@4.0.0,https://github.com/sindresorhus/awesome-npm#readme,npm error: timeout('The read operation timed out') | reason: 
 https://libraries.io/npm,Libraries.io,https://github.com/sindresorhus/awesome-npm#readme,npm error: timeout('The read operation timed out') | reason: 
-http://www.npmtrends.com,npm trends,https://github.com/sindresorhus/awesome-npm#readme,npm error: <HTTPError 308: 'Unknown'> | reason: Unknown
+http://www.npmtrends.com,npm trends,https://github.com/sindresorhus/awesome-npm#readme,npm error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://wzrd.in/standalone/object-assign,https://wzrd.in/standalone/object-assign,https://github.com/sindresorhus/awesome-npm#readme,npm error: timeout('The read operation timed out') | reason: 

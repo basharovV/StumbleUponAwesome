@@ -1,1 +1,0 @@
-https://gemnasium.com/,gemnasium,https://github.com/zachflower/awesome-open-source-supporters#readme,Open Source Supporters error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1076)

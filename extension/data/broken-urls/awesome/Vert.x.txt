@@ -1,1 +1,5 @@
+https://azure.microsoft.com/en-us/services/service-bus/,ServiceBus,https://github.com/vert-x3/vertx-awesome#readme,Vert.x error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://vertx.io/docs/guide-for-java-devs/,A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers,https://github.com/vert-x3/vertx-awesome#readme,Vert.x error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.meetup.com/Vert-x-NL,Amsterdam/The Netherlands,https://github.com/vert-x3/vertx-awesome#readme,Vert.x error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/Paris-vert-x-Meetup/,Paris,https://github.com/vert-x3/vertx-awesome#readme,Vert.x error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava,Going reactive with Eclipse Vert.x and RX Java,https://github.com/vert-x3/vertx-awesome#readme,Vert.x error: timeout('The read operation timed out') | reason: 

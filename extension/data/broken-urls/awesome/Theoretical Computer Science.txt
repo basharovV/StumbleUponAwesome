@@ -1,0 +1,4 @@
+https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html,Rosen. Discrete Mathematics and Its Applications,https://github.com/mostafatouny/awesome-theoretical-computer-science#readme,Theoretical Computer Science error: <HTTPError 410: 'Gone'> | reason: Gone
+https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/,Michael Sipser. Introduciton to Theory of Computation,https://github.com/mostafatouny/awesome-theoretical-computer-science#readme,Theoretical Computer Science error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

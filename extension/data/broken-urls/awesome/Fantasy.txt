@@ -1,2 +1,4 @@
 https://www.goodreads.com/book/show/1321351.The_Bastards_and_the_Knives,The Bastards and the Knives,https://github.com/RichardLitt/awesome-fantasy#readme,Fantasy error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.imdb.com/title/tt2632424,The Originals,https://github.com/RichardLitt/awesome-fantasy#readme,Fantasy error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.goodreads.com/book/show/5367.The_Great_Book_of_Amber,The Chronicles of Amber,https://github.com/RichardLitt/awesome-fantasy#readme,Fantasy error: timeout('The read operation timed out') | reason: 
 https://www.goodreads.com/series/49673-lightbringer,The Lightbringer Series,https://github.com/RichardLitt/awesome-fantasy#readme,Fantasy error: <HTTPError 404: 'Not Found'> | reason: Not Found

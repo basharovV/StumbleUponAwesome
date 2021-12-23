@@ -1,3 +1,25 @@
+https://www.npmjs.com/package/xo,xo,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/jsw,jsw,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/obama,obama,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://npmjs.com/package/a-standard,aStandard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/standard-tap,standard-tap,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://npmjs.com/package/standard-own,standard-own,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/standard-json,standard-json,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/standard-focus,standard-focus,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/standa,standa,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/eslint-config-standard,eslint-config-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/eslint-config-standard-jsx,eslint-config-standard-jsx,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/eslint-plugin-standard,eslint-plugin-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/prettier-standard,prettier-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/standard-sass,standard-sass,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/gulp-standard,gulp-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/mocha-standard,mocha-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/semistandard,semistandard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/uber-standard,uber-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/standard-loader,standard-loader,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
 https://www.uber.com/,Uber,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
-https://www.npmjs.com/package/prettier-standard,prettier-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://getyodlr.com/home,yodlr,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/videojs-standard,videojs-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/yodlr-standard,yodlr-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/rollup-plugin-standard,rollup-plugin-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/generator-babel-standard,generator-babel-standard,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/generate-swap-project,generate-swap-project,https://github.com/standard/awesome-standard#readme,Standard Style error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests

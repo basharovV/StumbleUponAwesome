@@ -1,0 +1,1 @@
+http://responsivenews.co.uk/post/18948466399/cutting-the-mustard,BBC - Cutting the mustard,https://github.com/pajaydev/awesome-web-performance-budget#readme,Web Performance Budget error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

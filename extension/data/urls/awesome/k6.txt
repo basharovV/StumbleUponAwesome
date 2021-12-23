@@ -1,13 +1,30 @@
-https://www.youtube.com/watch?v=Hu1K2ZGJ_K4,Performance Testing your web app with k6,https://github.com/k6io/awesome-k6#readme,k6
 https://k6.io/,,https://github.com/k6io/awesome-k6#readme,k6
+https://k6.io/blog/integrating-k6-with-aws-codebuild/,k6 for AWS CodeBuild,https://github.com/k6io/awesome-k6#readme,k6
+https://youtu.be/_ty40gSaaw8,EveryoneCanContribute cafe: Load Performance Testing with k6,https://github.com/k6io/awesome-k6#readme,k6
+https://k6.io/blog/integrating-k6-with-google-cloud-build/,k6 for Google Cloud Build,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp,Playlist - What others says about k6,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/watch?v=brasMBAezJY,Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!,https://github.com/k6io/awesome-k6#readme,k6
+https://k6.io/blog/integrating-k6-with-buddy-devops/,k6 for Buddy CI/CD,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/watch?v=Hu1K2ZGJ_K4,Performance Testing your web app with k6,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/watch?v=iQmItkazLOk,Application Load Testing with k6,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/watch?v=5G6zYLX9qvM,Performance testing: from zero to hero with k6 & Azure,https://github.com/k6io/awesome-k6#readme,k6
+https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3,Beautiful Load Testing With K6 and Docker Compose,https://github.com/k6io/awesome-k6#readme,k6
+https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a,Load Testing with Azure DevOps and k6,https://github.com/k6io/awesome-k6#readme,k6
+https://link.medium.com/npI9sjDyyjb,Beginner's guide to load testing with k6,https://github.com/k6io/awesome-k6#readme,k6
 https://jslib.k6.io/,jslib.k6.io,https://github.com/k6io/awesome-k6#readme,k6
-https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test,k6 for azure devops pipelines,https://github.com/k6io/awesome-k6#readme,k6
-https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1,Beginner's guide to load testing with k6,https://github.com/k6io/awesome-k6#readme,k6
-https://medium.com/@trannguyenhung011086/run-multi-load-test-scripts-with-k6-3dc57e8e26e2,Running multiple load test scripts with k6,https://github.com/k6io/awesome-k6#readme,k6
+https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test,k6 for Azure DevOps Pipelines,https://github.com/k6io/awesome-k6#readme,k6
+https://circleci.com/developer/orbs/orb/k6io/test,k6 CircleCI Orb,https://github.com/k6io/awesome-k6#readme,k6
 https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04,Load Testing with k6,https://github.com/k6io/awesome-k6#readme,k6
-https://mostafa.dev/blog/integrating-k6-with-apache-kafka,Integrating k6 with Apache Kafka,https://github.com/k6io/awesome-k6#readme,k6
+https://k6.io/blog/integrating-k6-with-bamboo/,k6 for Atlassian Bamboo,https://github.com/k6io/awesome-k6#readme,k6
 https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a,Test and visualize with InfluxDB, Grafana and K6,https://github.com/k6io/awesome-k6#readme,k6
 https://k6.io/blog/comparing-best-open-source-load-testing-tools,Open source load testing tool review 2020,https://github.com/k6io/awesome-k6#readme,k6
-https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6,Load Testing Your API with Swagger/OpenAPI and k6,https://github.com/k6io/awesome-k6#readme,k6
-https://mostafa.dev/blog/load-testing-your-api-with-postman,Load Testing Your API with Postman,https://github.com/k6io/awesome-k6#readme,k6
-https://www.youtube.com/watch?v=brasMBAezJY,Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!,https://github.com/k6io/awesome-k6#readme,k6
+https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595,K6 — Custom Slack Integration: Metrics are the Magic of Tests,https://github.com/k6io/awesome-k6#readme,k6
+https://k6.io/blog/load-testing-sql-databases-with-k6/,Load Testing SQL Databases with k6,https://github.com/k6io/awesome-k6#readme,k6
+https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb,Load testing with k6,https://github.com/k6io/awesome-k6#readme,k6
+https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck,Introducing TestRail in your K6 tests,https://github.com/k6io/awesome-k6#readme,k6
+https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb,How to write three times fewer lines of code when doing load testing,https://github.com/k6io/awesome-k6#readme,k6
+https://alex-klaus.com/load-test-k6-typescript-azure/,Load Testing. k6 + TypeScript + Azure DevOps,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/c/k6test,k6 YouTube Channel,https://github.com/k6io/awesome-k6#readme,k6
+https://www.youtube.com/watch?v=tFsIgbqXbxM,Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write),https://github.com/k6io/awesome-k6#readme,k6
+https://grafana.com/go/observabilitycon/2021/k6-load-testing/,From Grafana ObservabilityCON: Intro to using k6 load testing with the Grafana observability stack,https://github.com/k6io/awesome-k6#readme,k6
+https://grafana.com/go/observabilitycon/2021/performance-testing-vonage/,From Grafana ObservabilityCON: Building performance tests into your CI pipeline with k6 and Grafana, w/ Matthew Churcher, QA Engineer at Vonage,https://github.com/k6io/awesome-k6#readme,k6

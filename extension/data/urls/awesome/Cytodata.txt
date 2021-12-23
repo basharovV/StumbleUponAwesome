@@ -1,34 +1,35 @@
-https://cytodata.org/,Cytodata,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1016/j.molmet.2019.03.001,Discovering metabolic disease gene interactions by correlated effects on cellular morphology,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.7554/eLife.24060.001,Rohban et al. 2017,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://data.broadinstitute.org/bbbc/,Broad Bioimage Benchmark Collection,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://www.cellclassifier.org/,Advanced Cell Classifier,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1038/nature08869,Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1101/395954,Learning unsupervised feature representations for single cell microscopy images with paired cell painting,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://idr.openmicroscopy.org/,Image Data Resource,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-http://cellprofiler.org/,CellProfiler,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://www.rxrx.ai/rxrx1,RxRx1,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1016/j.taap.2019.114876,Bioactivity screening of environmental chemicals using imaging-based high-throughput phenotypic profiling,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1109/CVPR.2018.00970,Weakly supervised learning of single-cell feature embeddings,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://www.rxrx.ai/rxrx19,RxRx19,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1016/j.chembiol.2018.01.015,Repurposing High-Throughput Image Assays Enables Biological Activity Prediction for Drug Discovery,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1021/acs.jcim.8b00670,Accurate Prediction of Biological Assays with High-Throughput Microscopy Images and Convolutional Networks,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1002/cyto.a.23863,Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-http://htsvis.dkfz.de/HTSvis/,HTSvis,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1371/journal.pone.0080999,Gustafsdottir et al. 2013,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1101/2020.03.13.990093,Tales of 1,008 Small Molecules: Phenomic Profiling through Live-cell Imaging in a Panel of Reporter Cell Lines,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1038/nmeth.4397,Data-analysis strategies for image-based cell profiling,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1016/j.tcb.2016.03.008,High-content screening for quantitative cell biology,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1101/085118,Automating Morphological Profiling with Generic Deep Convolutional Networks,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1038/nprot.2016.105,Cell Painting, a high-content image-based assay for morphological profiling using multiplexed fluorescent dyes,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1073/pnas.1410933111,Wawer et al. 2014,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1016/j.cell.2015.11.007,Microscopy-based high-content screening,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1038/nmeth.3323,CIDRE: an illumination-correction method for optical microscopy,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1016/j.copbio.2016.04.003,Applications in image-based profiling of perturbations,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1093/gigascience/giw014,Bray et al. 2017,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1038/nmeth1032,Image-based multivariate profiling of drug responses from single cells,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1046/j.1365-2818.2000.00669.x,Retrospective shading correction based entropy minimization,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
 https://doi.org/10.1038/s41467-019-10154-8,Capturing single-cell heterogeneity via data fusion improves image-based profiling,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.7554/eLife.24060.001,Rohban et al. 2017,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://cytodata.org/,Cytodata,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://rdcu.be/ccBFH,Expanding the antibacterial selectivity of polyether ionophore antibiotics through diversity-focused semisynthesis,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://data.broadinstitute.org/bbbc/,Broad Bioimage Benchmark Collection,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1038/nmeth1032,Image-based multivariate profiling of drug responses from single cells,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://www.cellclassifier.org/,Advanced Cell Classifier,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://idr.openmicroscopy.org/,Image Data Resource,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1016/j.molmet.2019.03.001,Discovering metabolic disease gene interactions by correlated effects on cellular morphology,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://www.rxrx.ai/rxrx1,RxRx1,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1142/S0219720005001004,Minimum redundancy feature selection from microarray gene expression data,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://www.rxrx.ai/rxrx19,RxRx19,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+http://cellprofiler.org/,CellProfiler,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1038/nature08869,Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1371/journal.pone.0080999,Gustafsdottir et al. 2013,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1016/j.taap.2019.114876,Bioactivity screening of environmental chemicals using imaging-based high-throughput phenotypic profiling,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1016/j.chembiol.2018.01.015,Repurposing High-Throughput Image Assays Enables Biological Activity Prediction for Drug Discovery,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+http://htsvis.dkfz.de/HTSvis/,HTSvis,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1101/395954,Learning unsupervised feature representations for single cell microscopy images with paired cell painting,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://www.nature.com/articles/s41573-020-00117-w,Image-based profiling for drug discovery: due for a machine-learning upgrade?,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1109/CVPR.2018.00970,Weakly supervised learning of single-cell feature embeddings,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1038/nmeth.4397,Data-analysis strategies for image-based cell profiling,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1021/acs.jcim.8b00670,Accurate Prediction of Biological Assays with High-Throughput Microscopy Images and Convolutional Networks,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1073/pnas.1410933111,Wawer et al. 2014,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1101/2020.03.13.990093,Tales of 1,008 Small Molecules: Phenomic Profiling through Live-cell Imaging in a Panel of Reporter Cell Lines,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1016/j.tcb.2016.03.008,High-content screening for quantitative cell biology,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1093/gigascience/giw014,Bray et al. 2017,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1002/cyto.a.23863,Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1016/j.cell.2015.11.007,Microscopy-based high-content screening,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1038/nprot.2016.105,Cell Painting, a high-content image-based assay for morphological profiling using multiplexed fluorescent dyes,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1016/j.copbio.2016.04.003,Applications in image-based profiling of perturbations,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1038/nmeth.3323,CIDRE: an illumination-correction method for optical microscopy,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
+https://doi.org/10.1101/085118,Automating Morphological Profiling with Generic Deep Convolutional Networks,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
 https://doi.org/10.5524/100351,Download from GigaDB,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
 https://doi.org/10.1371/journal.pone.0131370,Singh et al. 2015,https://github.com/cytodata/awesome-cytodata#readme,Cytodata
-https://doi.org/10.1142/S0219720005001004,Minimum redundancy feature selection from microarray gene expression data,https://github.com/cytodata/awesome-cytodata#readme,Cytodata

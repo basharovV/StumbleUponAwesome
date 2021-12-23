@@ -1,4 +1,3 @@
-http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html,Safety Design Pattern Catalogue,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0 error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://roboox.co/,ROBOOX,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0 error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.apex.ai/products,Apex.Autonomy,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0 error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.ros2.org/safety_working_group/,Safety Working Group Landing Page,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html,Safety Design Pattern Catalogue,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://roboox.co/,ROBOOX,https://github.com/fkromer/awesome-ros2#readme,Robot Operating System 2.0 error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused

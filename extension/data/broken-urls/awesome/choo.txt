@@ -1,2 +1,1 @@
-https://choo.io/,choo,https://github.com/choojs/awesome-choo#readme,choo error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'choo.io'. (_ssl.c:1076)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'choo.io'. (_ssl.c:1076)
-http://chootbot.herokuapp.com,Chatbot,https://github.com/choojs/awesome-choo#readme,choo error: timeout('timed out') | reason: 
+https://grow.static.land,Grow,https://github.com/choojs/awesome-choo#readme,choo error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

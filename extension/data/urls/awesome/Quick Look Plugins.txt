@@ -1,8 +1,12 @@
-http://en.wikipedia.org/wiki/Quick_Look,Quick Look,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://en.wikipedia.org/wiki/Quick_Look,Quick Look,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://www.colourlovers.com,COLOURlovers,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
 http://www.sagtau.com/quicklookjson.html,QuickLookJSON,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
 https://macitbetter.com/downloads/,BetterZipQL,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
-http://macitbetter.com/BetterZip-Quick-Look-Generator/,,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
-http://www.mothersruin.com/software/SuspiciousPackage/,Suspicious Package,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
-http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip,download manually,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://macitbetter.com/BetterZip-Quick-Look-Generator/,,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://www.mothersruin.com/software/SuspiciousPackage/,Suspicious Package,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://bigzlabs.com/peek,Peek,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://apps.apple.com/app/peek-quick-look-extension/id1554235898,Mac App Store,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://www.mothersruin.com/software/downloads/SuspiciousPackage.xip,download manually,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://www.mothersruin.com/software/Apparency/,Apparency,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
+https://mothersruin.com/software/Apparency/,,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
 https://color.adobe.com,Adobe Color CC,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins
-http://www.eigenlogik.com/spectrum/mac,Spectrum,https://github.com/sindresorhus/quick-look-plugins#readme,Quick Look Plugins

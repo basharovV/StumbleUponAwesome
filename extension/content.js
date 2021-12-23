@@ -260,60 +260,97 @@ function toggleStumbleInfo(request) {
     }
 }
 
-function hideWelcomeInfo() {
-    document.body.removeChild(document.getElementById('sax-welcome'))
+function hideInfo() {
+    document.body.removeChild(document.getElementById('sax-info'))
 }
 
 function showWelcomeInfo(request) {
     os = request.os;
 
     const ui = document.createElement('div');
-    ui.id = "sax-welcome";
+    ui.id = "sax-info";
     icon = document.createElement('img');
 
-    icon.id = 'sax-welcome-icon';
+    icon.id = 'sax-info-icon';
     icon.src = chrome.extension.getURL('images/icon_128.png');
 
-    text = div('sax-welcome-text');
-    text.innerHTML = `<p id="sax-welcome-text-title">
+    text = div('sax-info-text');
+    text.innerHTML = `<p id="sax-info-text-title">
     You stumbled on your first site!
     </p>
     </br>
-    <p id="sax-welcome-text-body">
+    <p id="sax-info-text-body">
     This extension gives you endless hours of developer-friendly internet discovery. 
     </br>
     Stumble by clicking on the ⚡️ icon in the toolbar, or press <span id="sax-keyboard-shortcut">${os === 'mac' ? "Alt+Shift+S" : "Alt+Shift+S"}
     </span>
     </br></br>
-    <div id="sax-welcome-new-feature">
+    <div id="sax-info-new-feature">
         <img id="sax-rabbit-hole-spiral-2" src=${chrome.extension.getURL('images/spiral.png')} />
-        <span id='sax-welcome-text-body-small-accent'>NEW!</span>
+        <span id='sax-info-text-body-small-accent'>NEW!</span>
         </br>
-        <span id='sax-welcome-text-body-small'>
-            <span id='sax-welcome-text-body-small-white'>Rabbit hole: </span>You can now stay stumblin' on the same topic. On your next stumble, follow the rabbit...
+        <span id='sax-info-text-body-small'>
+            <span id='sax-info-text-body-small-white'>Rabbit hole: </span>You can now stay stumblin' on the same topic. On your next stumble, follow the rabbit...
         </span>
         <img id="sax-rabbit-hole-image-2" src=${chrome.extension.getURL('images/rabbithole_small.png')} />
     </div>
     </br></br>
-    <p id="sax-welcome-text-body-smaller-white">
-    💬 I'll improve this extension with <a id="sax-welcome-text-body-feedback-link" href="mailto:stumbleuponawesome@gmail.com">your feedback</a>
+    <p id="sax-info-text-body-smaller-white">
+    💬 I'll improve this extension with <a id="sax-info-text-body-feedback-link" href="mailto:stumbleuponawesome@gmail.com">your feedback</a>
     </p>
-    <p id="sax-welcome-text-opensource">
+    <p id="sax-info-text-opensource">
     ℹ Also, this extension is open-source! 
-    <a id="sax-welcome-text-opensource-link" href="https://github.com/basharovV/StumbleUponAwesome"> 
+    <a id="sax-info-text-opensource-link" href="https://github.com/basharovV/StumbleUponAwesome"> 
     See the code and URLs
     </a></p>`;
 
     close = document.createElement('a')
     close.innerHTML = "Awesome, got it! 🤘"
-    close.id = 'sax-welcome-close';
+    close.id = 'sax-info-close';
 
     ui.appendChild(icon);
     ui.appendChild(text);
     ui.appendChild(close);
-    close.addEventListener('click', hideWelcomeInfo);
+    close.addEventListener('click', hideInfo);
     document.body.prepend(ui);
     chrome.storage.local.set({ 'welcome_seen': true }, function () {
+    });
+}
+
+function showUpdateInfo() {
+
+    const ui = document.createElement('div');
+    ui.id = "sax-info";
+    icon = document.createElement('img');
+
+    icon.id = 'sax-info-icon';
+    icon.src = chrome.extension.getURL('images/icon_128.png');
+
+    text = div('sax-info-text');
+    text.innerHTML = `<p id="sax-info-text-title">StumbleUponAwesome updated to 1.2.0!
+    </p>
+    </br>
+   
+    <p id="sax-info-text-body">
+    In this update:
+    </p>
+    <p id="sax-info-text-body-smaller-white">
+    - Added 2,328 new URLs and 12 new topics including Theoretical Computer Science, Neovim, Youtubers, Robotic Tooling, WebXR, Veganism and more! 
+    </br>
+    - Cleanup of broken and outdated URLs. 
+    </p>
+    </br>`;
+
+    close = document.createElement('a');
+    close.innerHTML = "Awesome, got it! 🤘";
+    close.id = 'sax-info-close';
+
+    ui.appendChild(icon);
+    ui.appendChild(text);
+    ui.appendChild(close);
+    close.addEventListener('click', hideInfo);
+    document.body.prepend(ui);
+    chrome.storage.local.set({ 'show_update': false }, function () {
     });
 }
 
@@ -331,6 +368,8 @@ chrome.runtime.onMessage.addListener(
             }
         } else if (request.message === "welcome") {
             showWelcomeInfo(request);
+        } else if (request.message === "update") {
+            showUpdateInfo(request);
         }
     }
 );

@@ -1,2 +1,6 @@
-http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/,Gesture detection in React Native – fixing unexpected panning,https://github.com/enaqx/awesome-react#readme,React error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html,GraphQL Introduction,https://github.com/enaqx/awesome-react#readme,React error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript,Introducing React Native: Building Apps with JavaScript,https://github.com/enaqx/awesome-react#readme,React error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://facebook.github.io/relay/docs/en/introduction-to-relay.html,Official Relay Getting Started,https://github.com/enaqx/awesome-react#readme,React error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://atticuswhite.com/blog/react-native-smart-mirror-lab/,Digital Smart Mirror lab with React Native,https://github.com/enaqx/awesome-react#readme,React error: timeout('The read operation timed out') | reason: 

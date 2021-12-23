@@ -2,8 +2,9 @@ https://git-scm.com/,,https://github.com/compscilauren/awesome-git-hooks#readme,
 https://git-scm.com/docs/githooks,Git hooks documentation at git-scm.com,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
 https://git-scm.com/book/en/v2,Git Pro book by Scott Chacon and Ben Straub,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
 https://dzone.com/articles/an-in-depth-look-at-git-hooks,An In-Depth Look at Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
-https://www.sitepoint.com/introduction-git-hooks/,An Introduction to Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
 https://www.tygertec.com/git-hooks-practical-uses-windows/,Git hooks and practical uses. Yes, even on Windows.,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://www.sitepoint.com/introduction-git-hooks/,An Introduction to Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
+https://knpw.rs/blog/direnv-git-hooks,Automatically Manage Git Hooks with Direnv,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
 https://www.youtube.com/watch?v=aB3eq52sZSU,Git Hooks Part 1 - Getting Started,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
 http://www.youtube.com/watch?feature=player_embedded&v=fMYv6-SZsSo&t=140s,Git hooks and practical uses. Yes, even on Windows.,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks
 http://creativecommons.org/licenses/by/1.0/,Creative Commons Attribution 1.0 International License,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks

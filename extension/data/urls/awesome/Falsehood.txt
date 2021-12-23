@@ -1,75 +1,89 @@
-https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html,Falsehoods About Time and Time Zones,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://slinkp.com/falsehoods-programmers-believe-about-apis.html,Falsehoods About REST APIs,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/,Falsehoods About Names,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/,Storing UTC is not a silver bullet,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/,Falsehoods Programmers Believe,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html,Falsehoods About Networks,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.2uo.de/myths-about-urandom,Myths about /dev/urandom,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://yourcalendricalfallacyis.com,Your Calendrical Fallacy Is Thinking…,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing,Fallacies of Distributed Computing,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/,Falsehoods about Unix Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs,Falsehoods About CSVs,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/,Falsehoods About Names – With Examples,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/,There's more than one way to write an IP address,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/,Myths about CPU Caches,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html,Falsehoods About Programming,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.iana.org/time-zones,Time Zone Database,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html,Falsehoods About Package Managers,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://stackoverflow.com/a/6841479/57311,Why is subtracting these two times (in 1927) giving a strange result?,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html,Apple iOS NSPersonNameComponentsFormatter,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c,#2,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://naggum.no/lugm-time.html,The Long, Painful History of Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://news.ycombinator.com/item?id=20390981,don't forget IPv6,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/,The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://qntm.org/calendar,You Advocate a Calendar Reform,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371,Falsehoods About Testing,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://skylarmacdonald.com/falsehoods/,Falsehoods About Me,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://qntm.org/abolish,So You Want to Abolish Time Zones,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/,Falsehoods About Falsehoods Lists,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/,Falsehoods About Addresses,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://www.youtube.com/watch?v=-5wpm-gesOY,The Problem with Time & Timezones,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.b-list.org/weblog/2018/nov/26/case/,Truths programmers should know about case,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language,Falsehoods About Language,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://kottke.org/19/08/the-bear-with-its-own-zip-code,The Bear with Its Own ZIP Code,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.youtube.com/watch?v=0j74jcxSunY,Internationalis(z)ing Code,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://apenwarr.ca/log/20181113,Popular misconceptions about mtime,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://kevin.deldycke.com,Kevin Deldycke,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/,Minimum to Know About Unicode and Character Sets,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html,Falsehoods About Pagination,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html,Falsehoods About Music,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://smartystreets.com/articles/regular-expressions-for-street-addresses,Regex and Postal Addresses,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html,Rules for Autocomplete,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/,Falsehoods About Art,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made,UK allows companies to be registered with special characters,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.netmeister.org/blog/cs-falsehoods.html,Falsehoods CS Students (Still) Believe Upon Graduating,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html,Falsehoods about Networks,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/,Falsehoods about Names – With Examples,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://archive.org/details/notebooks191419100witt/page/n35,Notebooks, 1914-1916, page 14e,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186,HL7 v3 RIM,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing,Fallacies of Distributed Computing,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/,There's more than one way to write an IP address,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://pozorvlak.livejournal.com/174763.html,Falsehoods about Build Systems,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/,Falsehoods about Falsehoods Lists,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time,Falsehoods about Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department,$26,000 Overcollection by Labor Department,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html,Falsehoods About Systems of Measurement,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://ijmacd.github.io/rfc3339-iso8601/,RFC-3339 vs ISO-8601,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/,Falsehoods about Biometrics,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/,Postdoc myths,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://news.ycombinator.com/item?id=20390981,don't forget IPv6,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html,Falsehoods about Music,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time,More Falsehoods about Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/,I Knew How to Validate an Email Address Until I Read the RFC,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html,Apple iOS NSPersonNameComponentsFormatter,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.netmeister.org/blog/urls.html,URLs: It's complicated…,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html,Falsehoods about Time and Time Zones,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/,Falsehoods about Families,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/,Falsehoods about Art,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/,ISO-8601, YYYY, yyyy, and why your year may be wrong,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/,Falsehoods about Unix Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://wiesmann.codiferes.net/wordpress/?p=22201,Falsehoods about Online Shopping,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/,Falsehoods about Addresses,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language,Falsehoods about Language,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://fosdem.org/2018/schedule/event/email_address_quiz/,So you think you can validate email addresses (FOSDEM 2018),https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://zachholman.com/talk/utc-is-enough-for-everyone-right,UTC is Enough for everyone, right?,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/,Falsehoods about Time Zones,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.youtube.com/watch?v=0j74jcxSunY,Internationalis(z)ing Code,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html,Falsehoods about REST APIs,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.netmeister.org/blog/email.html,Your E-Mail Validation Logic is Wrong,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://yourcalendricalfallacyis.com,Your Calendrical Fallacy Is Thinking…,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/,Minimum to Know About Unicode and Character Sets,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c,#2,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/,Storing UTC is not a silver bullet,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs,Falsehoods about CSVs,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://kottke.org/19/08/the-bear-with-its-own-zip-code,The Bear with Its Own ZIP Code,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://wiesmann.codiferes.net/wordpress/?p=15187,Falsehoods about Geography,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.iana.org/time-zones,Time Zone Database,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://kdeldycke.github.io/meta-package-manager/falsehoods.html,Falsehoods about Package Managers,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://skylarmacdonald.com/falsehoods/,Falsehoods about Me,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://naggum.no/lugm-time.html,The Long, Painful History of Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://news.ycombinator.com/item?id=28047376,How to chooose between UT1, TAI and UTC,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://qntm.org/calendar,You Advocate a Calendar Reform,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371,Falsehoods about Testing,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/,Dark corners of Unicode,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://stackoverflow.com/a/6841479/57311,Why is subtracting these two times (in 1927) giving a strange result?,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/,Falsehoods about Economics,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/,Falsehoods about Maps,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/,Let's Stop Ascribing Meaning to Code Points,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://smartystreets.com/articles/regular-expressions-for-street-addresses,Regex and Postal Addresses,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.2uo.de/myths-about-urandom,Myths about /dev/urandom,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.youtube.com/watch?v=NIebelIpdYk,Hi! My name is…,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/,Breaking Our Latin-1 Assumptions,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://ihatecoordinatesystems.com,I Hate Coordinate Systems,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/,Falsehoods about Search,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://duffel.com/blog/falsehoods-about-seat-maps,Falsehoods about Airline Seat Maps,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/,Top 5 most insane kanji place names in Japan,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.dampfkraft.com/posuto.html,Parsing the Infamous Japanese Postal CSV,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d,What every software engineer should know about search,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/,Decimal Point Error in Etsy's Accounting System,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/,Falsehoods about Names,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://apenwarr.ca/log/20181113,Popular misconceptions about mtime,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355,Characters < and > in company names lead to XSS attacks,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html,Falsehoods about Pagination,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html,Rules for Autocomplete,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html,Falsehoods about Systems of Measurement,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm,Critical and Significant Dates,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://0.30000000000000004.com,Floating Point Math,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/,Let's Stop Ascribing Meaning to Code Points,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/,Falsehoods about garbage collection,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/,The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/,Myths about File Paths,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://www.b-list.org/weblog/2018/nov/26/case/,Truths programmers should know about case,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://web.archive.org/web/20170914014648/https://qntm.org/gay,Gay Marriage: The Database Engineering Perspective,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/,Breaking Our Latin-1 Assumptions,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.netmeister.org/blog/cs-falsehoods.html,Falsehoods CS Students (Still) Believe Upon Graduating,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/,Falsehoods About Search,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/,Falsehoods Programmers Believe About Families,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/,ISO-8601, YYYY, yyyy, and why your year may be wrong,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.youtube.com/watch?v=NIebelIpdYk,Hi! My name is…,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/,Postdoc myths,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://zachholman.com/talk/utc-is-enough-for-everyone-right,UTC is Enough for everyone, right?,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616,Falsehoods about Job Applicants,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://www.w3.org/International/questions/qa-personal-names,Personal Names Around the World,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://pozorvlak.livejournal.com/174763.html,Falsehoods About Build Systems,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://wiesmann.codiferes.net/wordpress/?p=22201,Falsehoods About Online Shopping,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/,I Knew How to Validate an Email Address Until I Read the RFC,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/,Myths About File Paths,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://lizengland.com/blog/2014/04/the-door-problem/,The Door Problem,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://xkcd.com/327/,XKCD #327: Exploits of a Mom,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://fosdem.org/2018/schedule/event/email_address_quiz/,So you think you can validate email addresses (FOSDEM 2018),https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/,Falsehoods About Economics,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://wiesmann.codiferes.net/wordpress/?p=15187,Falsehoods About Geography,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/,Falsehoods About Maps,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616,Falsehoods About Job Applicants,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html,Falsehoods About Video,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/,Decimal Point Error in Etsy's Accounting System,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html,Falsehoods about Video,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
+https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en,Creative Commons BY-SA 2.0 UK license,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://www.wired.com/2015/11/null/,Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
 https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs,My name causes an issue with any booking!,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time,Falsehoods About Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186,HL7 v3 RIM,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood
-http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time,More Falsehoods About Time,https://github.com/kdeldycke/awesome-falsehood#readme,Falsehood

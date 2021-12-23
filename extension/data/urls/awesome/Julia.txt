@@ -3,7 +3,7 @@ https://en.wikipedia.org/wiki/Outline_of_space_science,space science,https://git
 http://svaksha.com/pages/Bio,SVAKSHA,https://github.com/svaksha/Julia.jl#readme,Julia
 https://opendatacommons.org/licenses/odbl/1-0/,ODbL,https://github.com/svaksha/Julia.jl#readme,Julia
 http://www.gnu.org/licenses/agpl-3.0.html,AGPLv3,https://github.com/svaksha/Julia.jl#readme,Julia
-https://juliaobserver.com,julia-observer,https://github.com/svaksha/Julia.jl#readme,Julia
 https://bitbucket.org/svaksha/Julia.jl,Bitbucket,https://github.com/svaksha/Julia.jl#readme,Julia
 https://gitlab.com/svaksha/Julia.jl,GitLab,https://github.com/svaksha/Julia.jl#readme,Julia
 http://julialang.org/community/standards/,ethical guidelines,https://github.com/svaksha/Julia.jl#readme,Julia
+https://starchart.cc/svaksha/Julia.jl,,https://github.com/svaksha/Julia.jl#readme,Julia

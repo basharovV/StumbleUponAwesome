@@ -1,23 +1,24 @@
-https://developers.digitalocean.com/documentation/spaces/,Spaces API,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://www.digitalocean.com/,,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://developers.digitalocean.com/documentation/metadata/,Droplet Metadata,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://weap.io,Weap.io,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://www.digitalocean.com/community/tutorials,Tutorial Search and Index,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://www.digitalocean.com/docs/release-notes/,Official DO Release Notes,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://slugs.do-api.dev/,DigitalOcean API Slugs,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://www.digitalocean.com/community/tags,Community articles by tag,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://developers.digitalocean.com/opensource/,Open Source @ DigitalOcean,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://www.youtube.com/watch?v=XpxgSZ3dspE,Building a Kubernetes cluster on DigitalOcean using Kubicorn,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://developers.digitalocean.com/documentation/v2/,API,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://www.reddit.com/r/digital_ocean/,Reddit community,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://www.digitalocean.com/community/tags,Community articles by tag,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://www.digitalocean.com/community/questions,Questions,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://webchat.freenode.net/,##digitalocean on freenode,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://hostlaunch.io,HostLaunch,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://www.digitalocean.com/community/projects,Projects,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://simplebackups.io,SimpleBackups,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://www.meetup.com/pro/digitalocean/,Meetups,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://the.binbashtheory.com/using-ansible-with-digitalocean/,Using Ansible with DigitalOcean,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://snapshooter.io/daily-hourly-digital-ocean-backups/,SnapShooter,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://developers.digitalocean.com/documentation/spaces/,Spaces API,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://hacktoberfest.digitalocean.com/,Hacktoberfest,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://weap.io,Weap.io,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://www.terraform.io/docs/providers/do/,Terraform - DigitalOcean Provider,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://www.youtube.com/watch?v=XpxgSZ3dspE,Building a Kubernetes cluster on DigitalOcean using Kubicorn,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://developers.digitalocean.com/documentation/metadata/,Droplet Metadata,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://www.digitalocean.com/community/projects,Projects,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://www.meetup.com/pro/digitalocean/,Meetups,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://www.digitalocean.com/docs/release-notes/,Official DO Release Notes,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://www.linkedin.com/groups/8876623/,DigitalOcean Lovers,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://slugs.do-api.dev/,DigitalOcean API Slugs,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://the.binbashtheory.com/using-ansible-with-digitalocean/,Using Ansible with DigitalOcean,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
 https://surdu.me/2019/07/28/digital-ocean-ddns.html,Use DigitalOcean as Dynamic DNS,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
-https://developers.digitalocean.com/documentation/v2/,API,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://developers.digitalocean.com/opensource/,Open Source @ DigitalOcean,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://bill.do,Bill.do,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://hostlaunch.io,HostLaunch,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://simplebackups.io,SimpleBackups,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean
+https://snapshooter.io/digitalocean,SnapShooter,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean

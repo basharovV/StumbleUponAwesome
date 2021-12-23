@@ -1,1 +1,5 @@
-https://gistlyn.com/,Gistlyn,https://github.com/quozd/awesome-dotnet#readme,.NET error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://fsharp.github.io/FSharp.Data/,F# Data,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.n-fluent.net,NFluent,https://github.com/quozd/awesome-dotnet#readme,.NET error: timeout('timed out') | reason: 
+https://xbehave.github.io,https://xbehave.github.io,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.bettercms.com,BetterCMS,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Site Disabled'> | reason: Site Disabled
+http://www.emgu.com/wiki/index.php/Main_Page,Emgu CV,https://github.com/quozd/awesome-dotnet#readme,.NET error: URLError('no host given') | reason: no host given

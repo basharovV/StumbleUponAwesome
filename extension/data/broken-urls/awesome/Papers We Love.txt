@@ -1,4 +1,8 @@
-http://www.meetup.com/Papers-We-Love-Belfast/,Belfast,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/Papers-We-Love-Gothenburg/,Gothenburg,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.meetup.com/Papers-We-Love-Hamburg/,Hamburg,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.meetup.com/Papers-We-Love-in-saint-louis/,St. Louis,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.paperswelovelb.club,Lebanon,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.meetup.com/Papers-We-Love-Cairo/,Cairo,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.meetup.com/Papers-We-Love-Madrid/,Madrid,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.meetup.com/Beijing-Technology-Meetup-Group/,Beijing,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://research.microsoft.com/apps/catalog/default.aspx?t=publications,Microsoft Research,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: timeout('The read operation timed out') | reason: 
+https://www.meetup.com/papers-we-love-bcn/,Barcelona,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.meetup.com/Papers-We-Love-Belfast/,Belfast,https://github.com/papers-we-love/papers-we-love#readme,Papers We Love error: <HTTPError 404: 'Not Found'> | reason: Not Found

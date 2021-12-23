@@ -1,74 +1,76 @@
 https://en.wikipedia.org/wiki/Software-defined_networking,Software-Defined Networking,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://code.google.com/archive/p/nice-of/,nice-of,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 https://trema.github.io/trema/,Trema,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://code.google.com/archive/p/nice-of/,nice-of,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://dpdk.org/browse/apps/nff-go/,http://dpdk.org/browse/apps/nff-go/,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://spot.incubator.apache.org/,Apache Spot,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 http://pnda.io/,PNDA,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.juniper.net/documentation/en_US/junos/topics/concept/mpls-pcep-overview.html,Path Computation Element Protocol, PCEP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://onie.org/,ONIE,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 http://www.opensdncore.org/,OpenSDNCore,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.snas.io/,SNAS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://p4.org/api/p4-runtime-putting-the-control-plane-in-charge-of-the-forwarding-plane.html,P4 Runtime,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://fd.io/,FD.IO,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.opnfv.org,OPNFV,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 https://cumulusnetworks.com,Cumulus Linux,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opnfv.org,OPNFV,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.snas.io/,SNAS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.redhat.com/en/blog/what-geneve,GENEVE,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.juniper.net/documentation/en_US/junos/topics/concept/mpls-pcep-overview.html,Path Computation Element Protocol, PCEP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow,Software Defined Networking with OpenFlow,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://snaproute.com/,FlexSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opennetworking.org/aether/,Aether Project,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.ipinfusion.com/,OcNOS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.packtpub.com/networking-and-servers/devops-networking,DevOps for Networking,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf,Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.estinet.com/products.php?lv1=13&sn=13,EstiNet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://maxinet.github.io,MaxiNet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://p4.org/api/p4-runtime-putting-the-control-plane-in-charge-of-the-forwarding-plane.html,P4 Runtime,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 http://opencord.org,Central Office Re-architected as a Datacenter, CORD,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 http://mininet.spear.narmox.com,Mininet Spear Narmox,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://lagopus.github.io,Lagopus,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://openiris.etri.re.kr/,IRIS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.redhat.com/en/blog/what-geneve,GENEVE,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.sdnlab.com/book/18762.html,重构网络-SDN架构与实现,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.packtpub.com/networking-and-servers/devops-networking,DevOps for Networking,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.onap.org/,Open Network Automation Platform, ONAP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://openvswitch.org/,Open vSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://snaproute.com/,FlexSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf,Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.cs.princeton.edu/~jrex/papers/pisces16.pdf,PISCES,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://mininet.org/,Mininet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 https://tools.ietf.org/html/draft-sridharan-virtualization-nvgre-00,NVGRE,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 https://en.wikipedia.org/wiki/Virtual_Extensible_LAN,VXLAN,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.estinet.com/products.php?lv1=13&sn=13,EstiNet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://onosproject.org,ONOS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://osm.etsi.org/welcome/,Open Source MANO Community, OSM,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.ipinfusion.com/,OcNOS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.sdnlab.com/book/9470.html,深度解析SDN: 利益、战略、技术、实践,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://maxinet.github.io,MaxiNet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.openmul.org/openmul-controller.html,Open MUL,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.opennetworking.org/sdn-resources/openflow,OpenFlow,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://bird.network.cz/,Bird,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://mininet.org/,Mininet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.open-o.org,OPEN-Orchestrator Project, Open-O,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://freerouter.nop.hu/,FreeRouter,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.opensecuritycontroller.org/,Open Security Controller,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 http://www.openswitch.net,OpenSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://openwrt.org/,OpenWrt,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.opennetworking.org/technical-communities/areas/specification/of-config/,OF-Config,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.nsnam.org/,ns-3,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.sdnlab.com/book/9473.html,软件定义网络:SDN与OpenFlow解析,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.mellanox.com/blog/2016/12/three-ways-asap2-beats-dpdk-for-cloud-and-nfv/,ASAP2,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf,A Guided Tour of Data-Center Networking,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://shop.oreilly.com/product/0636920042082.do,Network Programmability and Automation Skills for the Next-Generation Network Engineer,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://frrouting.org/,FRRouting,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://en.wikipedia.org/wiki/Remote_direct_memory_access,RDMA,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://tools.ietf.org/html/rfc7047,OVSDB,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.amazon.com/SDN-Software-Networks-Thomas-Nadeau/dp/1449342302/&tag=eltale-20,SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://en.wikipedia.org/wiki/NETCONF,NETCONF,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.iovisor.org/technology/xdp,XDP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://ieeexplore.ieee.org/document/7890396,A Survey on the Security of Stateful SDN Data Planes,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://wiki.onosproject.org/display/ONOS/NEMO+Language,NEMO,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-731302.html,OpFlex,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://dpdk.org/browse/apps/nff-go/,http://dpdk.org/browse/apps/nff-go/,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf,High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://azure.github.io/SONiC/,SONiC,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://spot.incubator.apache.org/,Apache Spot,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://p4.org/,P4,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://feisky.gitbooks.io/sdn/,SDN网络指南,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://stratumproject.org/,Stratum,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://dl.acm.org/citation.cfm?id=3098825,Re-architecting datacenter networks and stacks for low latency and high performance,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://dl.acm.org/citation.cfm?id=2491190,POF,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.frenetic-lang.org/pyretic/,Pyretic,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://arxiv.org/pdf/1406.0440.pdf,SDN A Comprehensive Survey,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.sdnlab.com/book/9480.html,SDN核心技术剖析和实战指南,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://bitbucket.org/openflowj/openflowj,OpenFlowJ,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow,Software Defined Networking with OpenFlow,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://bird.network.cz/,Bird,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://openiris.etri.re.kr/,IRIS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 https://www.sdnlab.com/19879.html,VXLAN L3应用EVPN，呈现完整overlay网络,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-https://www.opendaylight.org,OpenDaylight,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
-http://www.openvswitch.org//support/slides/OVN-Vancouver.pdf,OVN,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.nsnam.org/,ns-3,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://openwrt.org/,OpenWrt,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.onap.org/,Open Network Automation Platform, ONAP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
 http://www.books.com.tw/products/CN11301942,圖解OpenFlow,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://freerouter.nop.hu/,FreeRouter,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://osm.etsi.org/welcome/,Open Source MANO Community, OSM,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://azure.github.io/SONiC/,SONiC,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://frrouting.org/,FRRouting,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://wiki.onosproject.org/display/ONOS/NEMO+Language,NEMO,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://onosproject.org,ONOS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://shop.oreilly.com/product/0636920042082.do,Network Programmability and Automation Skills for the Next-Generation Network Engineer,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.quagga.net/,Quagga,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.open-o.org,OPEN-Orchestrator Project, Open-O,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.sdnlab.com/book/18762.html,重构网络-SDN架构与实现,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://p4.org/,P4,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/,SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://stratumproject.org/,Stratum,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.mellanox.com/blog/2016/12/three-ways-asap2-beats-dpdk-for-cloud-and-nfv/,ASAP2,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opensecuritycontroller.org/,Open Security Controller,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://dl.acm.org/citation.cfm?id=2491190,POF,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://feisky.gitbooks.io/sdn/,SDN网络指南,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://dpdk.org/,DPDK,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.sdnlab.com/book/9470.html,深度解析SDN: 利益、战略、技术、实践,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.frenetic-lang.org/pyretic/,Pyretic,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://en.wikipedia.org/wiki/Remote_direct_memory_access,RDMA,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://bitbucket.org/openflowj/openflowj,OpenFlowJ,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.iovisor.org/technology/xdp,XDP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://tungsten.io/opencontrail-is-now-tungsten-fabric/,OpenContrail,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.sdnlab.com/book/9480.html,SDN核心技术剖析和实战指南,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://fd.io/,FD.IO,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.sdnlab.com/book/9473.html,软件定义网络:SDN与OpenFlow解析,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf,A Guided Tour of Data-Center Networking,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://lagopus.github.io,Lagopus,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opendaylight.org,OpenDaylight,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://ieeexplore.ieee.org/document/7890396,A Survey on the Security of Stateful SDN Data Planes,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://openvswitch.org/,Open vSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf,High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.openvswitch.org//support/slides/OVN-Vancouver.pdf,OVN,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.cs.princeton.edu/~jrex/papers/pisces16.pdf,PISCES,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://dl.acm.org/citation.cfm?id=3098825,Re-architecting datacenter networks and stacks for low latency and high performance,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://arxiv.org/pdf/1406.0440.pdf,SDN A Comprehensive Survey,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opennetworking.org/sdn-resources/openflow,OpenFlow,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opennetworking.org/technical-communities/areas/specification/of-config/,OF-Config,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://tools.ietf.org/html/rfc7047,OVSDB,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://en.wikipedia.org/wiki/NETCONF,NETCONF,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-731302.html,OpFlex,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking

@@ -1,1 +1,1 @@
-https://changefeed.app/,Changefeed,https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme,Building Blocks for Web Apps error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://www.productflare.com/changelog,ProductFlare's Changelog,https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme,Building Blocks for Web Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found

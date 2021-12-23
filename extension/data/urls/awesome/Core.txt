@@ -1,122 +1,121 @@
-http://xbehave.github.io,http://xbehave.github.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/,Configuring the AWS SDK in .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://restbus.org,Restbus,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://stackoverflow.com/questions/tagged/asp.net-core-mvc,ASP.NET Core MVC,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://scisharp.github.io/SciSharp/,SciSharp Stack,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.amazon.com/Professional-NET-Core-Christian-Nagel/dp/111909660X,Professional C# 6 and .NET Core 1.0,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://servicestack.net,https://servicestack.net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.htbox.org/projects/allready,http://www.htbox.org/projects/allready,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://scisharp.github.io/SciSharp/,SciSharp Stack,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/,Configuring the AWS SDK in .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061,ASP.NET Core Application Development: Building an application in four sprints (Developer Reference),https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://medium.com/@thangchung,blog,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://stackoverflow.com/questions/tagged/asp.net-core-mvc,ASP.NET Core MVC,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://servicestack.net,https://servicestack.net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://restbus.org,Restbus,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.htbox.org/projects/allready,http://www.htbox.org/projects/allready,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://stackoverflow.com/questions/tagged/asp.net-core-1.0,ASP.NET Core 1.0,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.nuget.org/packages/NReco.PivotData,NReco.PivotData,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/,Connect to Postgres with EF Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://forums.dotnetfoundation.org,.NET Foundation,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://stackoverflow.com/questions/tagged/entity-framework-core,Entity Framework Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.manning.com/books/asp-net-core-in-action,ASP.NET Core in Action,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo,Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://hangfire.io,http://hangfire.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://dotnet.github.io/docfx,http://dotnet.github.io/docfx,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://sapphire-db.com,Documentation,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.ideliverable.com/blog/getting-started-with-orchard-core-as-a-nuget-package,Getting started with Orchard Core as a NuGet package,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://dot.net/ml,http://dot.net/ml,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures,architectural best practices,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://devblogs.microsoft.com/dotnet/,.NET Blog,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://medium.com/@thangchung,blog,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo,Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://stackoverflow.com/questions/tagged/entity-framework-core,Entity Framework Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures,architectural best practices,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.manning.com/books/asp-net-core-in-action,ASP.NET Core in Action,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://dotnet.github.io/docfx,http://dotnet.github.io/docfx,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.reddit.com/r/coolgithubprojects,/r/CoolGithubProjects,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/,Connect to Postgres with EF Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://aws.amazon.com/blogs/compute/announcing-c-sharp-support-for-aws-lambda/,Using C# and .NET Core in Amazon Web Services (AWS) Lambda,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.amazon.com/ASP-NET-Core-1-0-High-Performance/dp/1785881892,ASP.NET Core 1.0 High Performance,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.castleproject.org,http://www.castleproject.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/,BikeSharing360 Suite of Apps from Microsoft,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://dotnetfiddle.net,dotnetfiddle,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.quartz-scheduler.net,http://www.quartz-scheduler.net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://docs.asp.net/en/latest/,ASP.NET Core Documentation,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://weblogs.asp.net/thangchung,thangchung,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://nodatime.org,http://nodatime.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732,Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.telerik.com/kendo-ui,http://www.telerik.com/kendo-ui,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.reactive-streams.org/,Reactive Streams,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://fsprojects.github.io/Chessie,http://fsprojects.github.io/Chessie,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce,How to export HTML to PDF in ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://andrewlock.net/adding-travis-ci-to-a-net-core-app/,Adding Travis CI builds to a .NET Core app,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.recaffeinate.co/book,The little ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.gitignore.io,https://www.gitignore.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732,Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://docs.asp.net/en/latest/,ASP.NET Core Documentation,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://hangfire.io,http://hangfire.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.nuget.org/packages/NReco.PivotData,NReco.PivotData,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.amazon.com/NET-Core-1-0-Cross-Platform-Development/dp/1785285696,C# 6 and .NET Core 1.0: Modern Cross-Platform Development,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://dot.net/ml,http://dot.net/ml,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://forums.asp.net,ASP.NET,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://dotnetfiddle.net,dotnetfiddle,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.ideliverable.com/blog/getting-started-with-orchard-core-as-a-nuget-package,Getting started with Orchard Core as a NuGet package,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://andrewlock.net/adding-travis-ci-to-a-net-core-app/,Adding Travis CI builds to a .NET Core app,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.quartz-scheduler.net,http://www.quartz-scheduler.net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.castleproject.org,http://www.castleproject.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535,C# in Depth 4,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.telerik.com/kendo-ui,http://www.telerik.com/kendo-ui,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://docs.microsoft.com/en-us/dotnet/articles/welcome,.NET Core Documentation,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://justa.ml,https://justa.ml,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://catlight.io,CatLight,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://reactivex.io,Reactive Extensions,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://weblogs.asp.net/thangchung,thangchung,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://sapphire-db.com,Documentation,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://fsprojects.github.io/Chessie,http://fsprojects.github.io/Chessie,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://nodatime.org,http://nodatime.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.gitignore.io,https://www.gitignore.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce,How to export HTML to PDF in ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://discoverdot.net,Awesome .NET open source & community resources,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://channel9.msdn.com,Channel9,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://darksky.net/dev/docs,Dark Sky API,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://catlight.io,CatLight,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 http://sass-lang.com/libsass,libSass,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535,C# in Depth 4,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 http://www.nwebsec.com,http://www.nwebsec.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.reddit.com/r/coolgithubprojects,/r/CoolGithubProjects,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://gitlab.com/BrianAllred/NYoutubeDL,NYoutubeDL,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.reactive-streams.org/,Reactive Streams,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g,Channel9,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/,Vue.js server side rendering with ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://reactivex.io,Reactive Extensions,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 http://json2csharp.com,json2csharp,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://imageprocessor.org,http://imageprocessor.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://cachemanager.michaco.net,http://cachemanager.michaco.net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://forums.asp.net,ASP.NET,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://msgpack.org,msgpack.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://dotnet.microsoft.com/learn/aspnet,Microsoft Learning Center,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://wp.me/p3mRWu-11L,http://wp.me/p3mRWu-11L,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://nick-lucas.github.io/LimeBean/,Limebean,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/,BikeSharing360 Suite of Apps from Microsoft,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://gitlab.com/BrianAllred/NYoutubeDL,NYoutubeDL,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://www.microsoft.com/net/core,.NET Core SDK,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/,Vue.js server side rendering with ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://cachemanager.michaco.net,http://cachemanager.michaco.net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://nick-lucas.github.io/LimeBean/,Limebean,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://msgpack.org,msgpack.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://getsharex.com,https://getsharex.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.jetbrains.com/rider/,rider,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.nuget.org/packages/Dotnet.CodeFormatter.BuildTask.Fork,Nuget Package,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://stackshare.io/tomstaijen/net-continuous-delivery-microservices,.NET Continuous Delivery Microservices,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://imageprocessor.org,http://imageprocessor.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 http://social.technet.microsoft.com/wiki/contents/articles/35918.asp-net-core-1-0-configure-applicationinsights.aspx,ASP.NET Core 1.0 - Configure ApplicationInsights,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://channel9.msdn.com/Series/aspnetmonsters,ASP.NET Monsters,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://discoverdot.net,Awesome .NET open source & community resources,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://atata.io,https://atata.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://linq2db.github.io/,LINQ to DB (linq2db),https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://prometheus.io,https://prometheus.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html,ASP.NET Core 2.0 Authentication and Authorization System Demystified,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://sharplab.io,https://sharplab.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.youtube.com/user/VisualStudio/channels,Visual Studio,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://tattoocoder.azurewebsites.net/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/,haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://planning.halomademeapc.com,Demo,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.manning.com/books/dependency-injection-in-dot-net-second-edition,Dependency Injection in .NET Core, 2nd edition,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://emitter.io/,emitter,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.litedb.org,http://www.litedb.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://stormpath.com/blog/authentication-asp-net-core,Authentication in ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://wamp-proto.org/,The Web Application Messaging Protocol,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.dotnetrocks.com,.NET Rocks,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.rabbitmq.com,https://www.rabbitmq.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard,Introducing .NET Standard 2.0,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.amazon.com/Essential-7-0-Addison-Wesley-Microsoft-Technology/dp/1509303588,Essencial C# 7.0,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://dotnet.microsoft.com/learn/aspnet,Microsoft Learning Center,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.jetbrains.com/rider/,rider,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://justa.ml,https://justa.ml,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://stackshare.io/tomstaijen/net-continuous-delivery-microservices,.NET Continuous Delivery Microservices,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://atata.io,https://atata.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 http://tattoocoder.com/aspnet-slack-sign-up,Slack,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.codeproject.com/Articles/1190475/Porting-a-NET-Framework-library-to-NET-Core,Porting a .NET Framework library to .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx,Visual Studio Community,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/,Project.json to MSBuild conversion guide,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://shouldly.readthedocs.org/en/latest,http://shouldly.readthedocs.org/en/latest,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.mergeconflict.fm/,Merge Conflict,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.manning.com/books/exploring-dot-net-core,Exploring .NET Core with Microservices, ASP.NET Core, and Entity Framework Core - free eBook sampler,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://serilog.net/,Serilog,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.manning.com/books/microservices-in-net-core-second-edition,Microservices in .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://storyteller.github.io,http://storyteller.github.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://flurl.dev,https://flurl.dev,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://few-lines-of-code.blogspot.com/2016/03/publishing-net-project-with-appveyor.html,Publishing a .NET project with Appveyor and NuGet,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://jasperfx.github.io/marten,http://jasperfx.github.io/marten,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/,The 68 things the CLR does before executing a single line of your code,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.npgsql.org,http://www.npgsql.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://markvincze.github.io/Stubbery/,Stubbery,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.amazon.com/Microservices-NET-Core-framework-middleware/dp/1617293377,Microservices in .NET Core: with C#, the Nancy framework, and OWIN middleware,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://manuel-rauber.com/2016/03/07/node-js-asp-net-core-1-0-a-usage-comparison/,here,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://fsprojects.github.io/FSharp.Data.GraphQL,https://fsprojects.github.io/FSharp.Data.GraphQL,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://getseq.net,SEQ,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://neuecc.github.io/LightNode,http://neuecc.github.io/LightNode,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/,Selenium with .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://developer.telerik.com/featured/new-configuration-model-asp-net-core/,The New Configuration Model in ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://thesoundof.net/?q=.NET+Core,The sound of .NET,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://developer.telerik.com/featured/understanding-asp-net-core-initialization/,Understanding ASP.NET Core Initialization,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/,.NET Core Data Access,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://NSwag.org,http://NSwag.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://www.infoq.com/dotnet,InfoQ .NET articles,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://codingblast.com/why-you-should-join-asp-net-core/,Why you should join .NET Core and ASP.NET Core train,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-http://proto.actor,http://proto.actor,https://github.com/thangchung/awesome-dotnet-core#readme,Core
-https://manning.com/books/dotnet-core-in-action,.NET Core in Action,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://sharplab.io,https://sharplab.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://emitter.io/,emitter,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.rabbitmq.com,https://www.rabbitmq.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html,ASP.NET Core 2.0 Authentication and Authorization System Demystified,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://tattoocoder.azurewebsites.net/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/,haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://builtwithdot.net,BuiltWithDot.Net,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://wamp-proto.org/,The Web Application Messaging Protocol,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.manning.com/books/dependency-injection-in-dot-net-second-edition,Dependency Injection in .NET Core, 2nd edition,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.nuget.org/packages/Dotnet.CodeFormatter.BuildTask.Fork,Nuget Package,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://stackoverflow.com/questions/tagged/.net-core,.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx,Visual Studio Community,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://stormpath.com/blog/authentication-asp-net-core,Authentication in ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://prometheus.io,https://prometheus.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://stackoverflow.com/questions/tagged/coreclr,CoreCLR,https://github.com/thangchung/awesome-dotnet-core#readme,Core
 https://stackoverflow.com/questions/tagged/asp.net-core,ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.amazon.com/Essential-7-0-Addison-Wesley-Microsoft-Technology/dp/1509303588,Essencial C# 7.0,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://wp.me/p3mRWu-11L,http://wp.me/p3mRWu-11L,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://serilog.net/,Serilog,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.litedb.org,http://www.litedb.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://bitwarden.com,https://bitwarden.com,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard,Introducing .NET Standard 2.0,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/,Project.json to MSBuild conversion guide,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://getseq.net,SEQ,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://few-lines-of-code.blogspot.com/2016/03/publishing-net-project-with-appveyor.html,Publishing a .NET project with Appveyor and NuGet,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://channel9.msdn.com/Series/aspnetmonsters,ASP.NET Monsters,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://shouldly.readthedocs.org/en/latest,http://shouldly.readthedocs.org/en/latest,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://jasperfx.github.io/marten,http://jasperfx.github.io/marten,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://flurl.dev,https://flurl.dev,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.codeproject.com/Articles/1190475/Porting-a-NET-Framework-library-to-NET-Core,Porting a .NET Framework library to .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://storyteller.github.io,http://storyteller.github.io,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.manning.com/books/exploring-dot-net-core,Exploring .NET Core with Microservices, ASP.NET Core, and Entity Framework Core - free eBook sampler,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.youtube.com/user/VisualStudio/channels,Visual Studio,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://markvincze.github.io/Stubbery/,Stubbery,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://fsprojects.github.io/FSharp.Data.GraphQL,https://fsprojects.github.io/FSharp.Data.GraphQL,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.amazon.com/Microservices-NET-Core-framework-middleware/dp/1617293377,Microservices in .NET Core: with C#, the Nancy framework, and OWIN middleware,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/,The 68 things the CLR does before executing a single line of your code,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.npgsql.org,http://www.npgsql.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://neuecc.github.io/LightNode,http://neuecc.github.io/LightNode,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://developer.telerik.com/featured/new-configuration-model-asp-net-core/,The New Configuration Model in ASP.NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.dotnetrocks.com,.NET Rocks,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://manuel-rauber.com/2016/03/07/node-js-asp-net-core-1-0-a-usage-comparison/,here,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/,Selenium with .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.manning.com/books/microservices-in-net-core-second-edition,Microservices in .NET Core,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://www.mergeconflict.fm/,Merge Conflict,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://NSwag.org,http://NSwag.org,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://developer.telerik.com/featured/understanding-asp-net-core-initialization/,Understanding ASP.NET Core Initialization,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://proto.actor,http://proto.actor,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://www.infoq.com/dotnet,InfoQ .NET articles,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/,.NET Core Data Access,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://codingblast.com/why-you-should-join-asp-net-core/,Why you should join .NET Core and ASP.NET Core train,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+https://manning.com/books/dotnet-core-in-action,.NET Core in Action,https://github.com/thangchung/awesome-dotnet-core#readme,Core
+http://thesoundof.net/?q=.NET+Core,The sound of .NET,https://github.com/thangchung/awesome-dotnet-core#readme,Core

@@ -1,4 +1,6 @@
 http://dev.origodb.com,OrigoDB,https://github.com/numetriclabz/awesome-db#readme,Database error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://pulsedb.io,Pulsedb,https://github.com/numetriclabz/awesome-db#readme,Database error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://elasticsearch.org,website,https://github.com/numetriclabz/awesome-db#readme,Database error: <HTTPError 308: 'unknown'> | reason: unknown
 https://www.numetriclabz.com/,Numetric Technologies,https://github.com/numetriclabz/awesome-db#readme,Database error: timeout('The read operation timed out') | reason: 
-http://project-voldemort.com,website,https://github.com/numetriclabz/awesome-db#readme,Database error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://symas.com/mdb/,LMDB,https://github.com/numetriclabz/awesome-db#readme,Database error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://blinkdb.cs.berkeley.edu/,http://blinkdb.cs.berkeley.edu/,https://github.com/numetriclabz/awesome-db#readme,Database error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

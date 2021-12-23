@@ -1,32 +1,41 @@
+https://requestly.io/,Requestly,https://github.com/TheJambo/awesome-testing#readme,Testing
 http://beefproject.com/,BeEF,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2LTjM01,Lessons Learned in Software Testing,https://github.com/TheJambo/awesome-testing#readme,Testing
-http://www.xmind.net/,Xmind,https://github.com/TheJambo/awesome-testing#readme,Testing
 https://altreus.github.io/colourblind/,Colour Blindness Simulator,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://courgette-testing.com,Courgette,https://github.com/TheJambo/awesome-testing#readme,Testing
-http://www.developsense.com/blog/,Michael Bolton,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2vbiALY,UI is Communication,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2LTjM01,Lessons Learned in Software Testing,https://github.com/TheJambo/awesome-testing#readme,Testing
 http://yslow.org/,Yslow,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2vcjasX,Thinking, Fast and Slow,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://courgette-testing.com,Courgette,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2vbiALY,UI is Communication,https://github.com/TheJambo/awesome-testing#readme,Testing
 https://amzn.to/2OERKEm,The Scrum Field Guide, Agile advice for your first year and beyond,https://github.com/TheJambo/awesome-testing#readme,Testing
-http://janetgregory.ca/blog/,Janet Gregory,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://www.manning.com/books/testing-javascript-applications,Testing JavaScript Applications,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2AzMUF7,Fifty quick ideas to improve your Tests,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://www.baremetalsoft.com/baretail/,BareTail,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod,ProxySwitcher,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://dojo.ministryoftesting.com/,The Dojo,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW,Testers Rage Playlist,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2n1K2aG,Agile Testing: A Practical Guide,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl,Full Page Screenshot,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo,Form Filler,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2n8axLn,Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing,https://github.com/TheJambo/awesome-testing#readme,Testing
-http://www.guru99.com/,Guru99,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi,Bug Magnet,https://github.com/TheJambo/awesome-testing#readme,Testing
 https://www.coursera.org/,Coursera,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2Az4l90,The Domain Testing Workbook,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2vcjasX,Thinking, Fast and Slow,https://github.com/TheJambo/awesome-testing#readme,Testing
 https://www.cybrary.it/,Cybrary,https://github.com/TheJambo/awesome-testing#readme,Testing
-http://www.testers.io/,Testers.io,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://chrispederick.com/work/web-developer/,Check All,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.baremetalsoft.com/baretail/,BareTail,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2AzMUF7,Fifty quick ideas to improve your Tests,https://github.com/TheJambo/awesome-testing#readme,Testing
 http://testingeducation.org/BBST/,BBST Testing Courses,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW,Testers Rage Playlist,https://github.com/TheJambo/awesome-testing#readme,Testing
 http://testingconferences.org/,Software Testing Conferences,https://github.com/TheJambo/awesome-testing#readme,Testing
-https://amzn.to/2naYmhf,Don't Make Me Think: A Common Sense Approach to Web Usability,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.manning.com/books/chaos-engineering,Chaos Engineering: Crash test your applications,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod,ProxySwitcher,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2n1K2aG,Agile Testing: A Practical Guide,https://github.com/TheJambo/awesome-testing#readme,Testing
 http://www.satisfice.com/blog/,James Bach,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2n8axLn,Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl,Full Page Screenshot,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.manning.com/books/testing-javascript-applications,Testing JavaScript Applications,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2Az4l90,The Domain Testing Workbook,https://github.com/TheJambo/awesome-testing#readme,Testing
+http://www.developsense.com/blog/,Michael Bolton,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo,Form Filler,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://amzn.to/2naYmhf,Don't Make Me Think: A Common Sense Approach to Web Usability,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.manning.com/books/the-art-of-unit-testing-third-edition,The Art of Unit Testing, Third Edition,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi,Bug Magnet,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://chrispederick.com/work/web-developer/,Check All,https://github.com/TheJambo/awesome-testing#readme,Testing
+http://janetgregory.ca/blog/,Janet Gregory,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.manning.com/books/testing-web-apis,Testing Web APIs,https://github.com/TheJambo/awesome-testing#readme,Testing
+http://www.xmind.net/,Xmind,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://sobolevn.me/,Nikita Sobolev,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.manning.com/books/effective-software-testing,Effective Software Testing,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://www.softwaretester.blog/,Softwaretester Blog,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://automationpanda.com/,Automation Panda,https://github.com/TheJambo/awesome-testing#readme,Testing
+http://decision-table.com/,Online decision table service,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://dojo.ministryoftesting.com/,The Dojo,https://github.com/TheJambo/awesome-testing#readme,Testing
+https://softwaretestingweekly.com/,Software Testing Weekly,https://github.com/TheJambo/awesome-testing#readme,Testing
+http://www.guru99.com/,Guru99,https://github.com/TheJambo/awesome-testing#readme,Testing

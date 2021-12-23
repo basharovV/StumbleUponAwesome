@@ -1,94 +1,95 @@
 https://www.youtube.com/watch?v=V9vQ118o2kk,Creating Mind Maps Using TikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://ctan.org/tex-archive/graphics/graph35,graph35,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 https://www.youtube.com/watch?v=BaHuvXmTPwE&t=1268s,Graphics with PGF and TikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://tex.stackexchange.com/questions/tagged/tikz-pgf,StackExchange,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.texample.net/tikz/,TeXample,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off,Nice Scientific Pictures,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex,Love heart with LaTeX,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.tikzedt.org/,tikzedt,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://sourceforge.net/p/pgf/mailman/pgf-users/,pgf-users,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://creativecommons.org/licenses/by/4.0/,,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://awesome.es,,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://sourceforge.net/projects/gratex/,gratex,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://en.m.wikipedia.org/wiki/PGF/TikZ,TikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques,bloques,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex,reotex,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://ctan.org/tex-archive/graphics/graph35,graph35,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/,CTAN,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale,tikzscale,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass,rulercompass,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice,tikz-palattice,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot,tikz-3dplot,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur,pgf-blur,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://tex.stackexchange.com/questions/tagged/tikz-pgf,StackExchange,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off,Nice Scientific Pictures,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs,harveyballs,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://awesome.es,,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox,blox,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree,tikz-qtree,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols,tikzsymbols,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet,tikz-bayesnet,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass,rulercompass,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie,pgf-pie,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex,Love heart with LaTeX,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz,hf-tikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://en.m.wikipedia.org/wiki/PGF/TikZ,TikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph,bodegraph,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.tikzedt.org/,tikzedt,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz,sa-tikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd,tikz-cd,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams,timing-diagrams,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing,tikz-timing,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban,pgf-soroban,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://sourceforge.net/p/pgf/mailman/pgf-users/,pgf-users,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 https://www.ctan.org/pkg/pgf,CTAN,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby,hobby,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids,braids,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://creativecommons.org/licenses/by/4.0/,,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox,blox,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz,aobs-tikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs,harveyballs,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://pgfplots.sourceforge.net/,SourceForge,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz,sa-tikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet,tikz-bayesnet,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols,tikzsymbols,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph,bodegraph,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie,pgf-pie,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree,tikz-qtree,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship,battleship,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc,schemabloc,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz,hf-tikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams,timing-diagrams,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree,binarytree,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby,hobby,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://www.ctan.org/pkg/pgfplots,CTAN,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids,braids,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing,tikz-timing,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman,scsnowman,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban,pgf-soroban,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd,tikz-cd,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude,tikzinclude,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr,tipfr,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency,tikz-dependency,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude,tikzinclude,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra,pgf-spectra,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map,karnaugh-map,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://sourceforge.net/projects/gratex/,gratex,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://www.ctan.org/pkg/tkz-berge,tkz-berge,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic,celtic,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman,scsnowman,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline,tikz-dimline,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark,tikzmark,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd,pgf-umlcd,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://pgfplots.sourceforge.net/,SourceForge,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap,karnaughmap,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/,CTAN,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm,tkz-orm,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz,circuitikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck,setdeck,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://www.ctan.org/pkg/pgfplots,CTAN,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere,blochsphere,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic,celtic,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map,karnaugh-map,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://www.ctan.org/pkg/tkz-berge,tkz-berge,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark,tikzmark,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline,tikz-dimline,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap,karnaughmap,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz,circuitikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd,pgf-umlcd,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram,smartdiagram,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf,PGF Manual,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm,tkz-orm,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital,tikzorbital,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://mirrors.ctan.org/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf,PGFPlots Manual,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram,fast-diagram,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman,tikz-feynman,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd,pgf-umlsd,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle,logicpuzzle,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter,xebaposter,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz,aobs-tikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf,PGF Manual,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram,fast-diagram,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram,smartdiagram,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet,tikz-inet,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes,tikzpagenodes,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://www.youtube.com/watch?v=hYjsJVXBlvM,A TikZ tutorial: Generating graphics in the spirit of TeX,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt,pgfgantt,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape,makeshape,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://mirrors.ctan.org/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf,PGFPlots Manual,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://www.youtube.com/watch?v=LoBC8zIB-3k,Creating Flowcharts with TikZ (LaTeX),https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship,battleship,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3,spath3,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart,flowchart,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://www.youtube.com/watch?v=WRTELZP1l0Y,Creating Circuit Diagrams for LaTeX Documents Using Circuitikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm,tikz-opm,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople,tikzpeople,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots,pgfplots,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle,logicpuzzle,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet,tikz-inet,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 https://www.ctan.org/pkg/visualtikz,VisualTikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork,neuralnetwork,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape,makeshape,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ,LaTeX/PGF/TikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree,binarytree,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter,xebaposter,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart,flowchart,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes,tikzpagenodes,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt,pgfgantt,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli,stanli,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest,forest,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile,tikzpfeile,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics,tikz-optics,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees,prooftrees,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-https://ctan.org/pkg/pixelart,pixelart,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://www.youtube.com/watch?v=hYjsJVXBlvM,A TikZ tutorial: Generating graphics in the spirit of TeX,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm,tikz-opm,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://www.youtube.com/watch?v=LoBC8zIB-3k,Creating Flowcharts with TikZ (LaTeX),https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork,neuralnetwork,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://www.youtube.com/watch?v=WRTELZP1l0Y,Creating Circuit Diagrams for LaTeX Documents Using Circuitikz,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://cremeronline.com/LaTeX/minimaltikz.pdf,MinimalTikZ,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere,blochsphere,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest,forest,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots,pgfplots,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople,tikzpeople,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege,ticollege,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics,tikz-optics,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+https://ctan.org/pkg/pixelart,pixelart,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet,grafcet,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees,prooftrees,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile,tikzpfeile,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page,tikz-page,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
-http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter,tikzposter,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
 http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark,pxpgfmark,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ
+http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter,tikzposter,https://github.com/xiaohanyu/awesome-tikz#readme,TikZ

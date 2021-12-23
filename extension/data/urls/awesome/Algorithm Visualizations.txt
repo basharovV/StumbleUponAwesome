@@ -1,37 +1,37 @@
-http://bost.ocks.org/mike/algorithms/,Visualizing Algorithms,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://bl.ocks.org/dannyko/ffe9653768cb80dfc0da,Newton-Raphson Optimization (1D),https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://setosa.io,Setosa,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-https://corte.si/posts/code/visualisingsorting/index.html,Visualizing sorting algorithms,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://bl.ocks.org/dannyko/0956c361a6ce22362867,Newton-Raphson Optimization (2D),https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://bl.ocks.org/dannyko/ffe9653768cb80dfc0da,Newton-Raphson Optimization (1D),https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://bost.ocks.org/mike/algorithms/,Visualizing Algorithms,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://setosa.io/blog/2014/09/02/gridlock/index.html,Gridlock vs. Bottlenecks,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://bost.ocks.org/mike/shuffle/,Fisher-Yates Shuffle,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://gamemechanicexplorer.com/,Game Mechanic Explorer,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://bl.ocks.org/dannyko/0956c361a6ce22362867,Newton-Raphson Optimization (2D),https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+https://corte.si/posts/code/visualisingsorting/index.html,Visualizing sorting algorithms,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://pixelshaders.com/proposal/,Pixel Shaders,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://tomcc.github.io/2014/08/31/visibility-1.html,Cave Culling Algorithm in Minecraft,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://bost.ocks.org/mike/shuffle/,Fisher-Yates Shuffle,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://world.mathigon.org/,Mathigon,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/,Garbage Collection,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://tomcc.github.io/2014/08/31/visibility-1.html,Cave Culling Algorithm in Minecraft,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 https://probmods.org/,Probabilistic Models of Computation,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/,Spatial Hashing,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://magcius.github.io/xplain/article/,Explanation of X11 Servers,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://david.li/filtering/,Fourier Image Filtering,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://magcius.github.io/xplain/article/,Explanation of X11 Servers,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 https://probmods.org/chapters/generative-models.html,Generative Models,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://world.mathigon.org/Prime_Numbers,Sieve of Eratosthenes,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://bl.ocks.org/jinroh/7524988,Fourier Series Visualization,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-https://briangordon.github.io/2014/08/the-skyline-problem.html,The Skyline Problem,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://acko.net/,Steven Wittens,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://encinographic.blogspot.com/,Encinographic,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://cs.stanford.edu/people/karpathy/convnetjs/,ConvNetJS,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://acko.net/blog/how-to-fold-a-julia-fractal/,How to fold a Julia Fractal,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://encinographic.blogspot.com/2014/05/sim-class-wave-equation-in-2d.html,2D Wave Equation,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://www.jasondavies.com/animated-bezier/,Animated Bézier Curves,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://encinographic.blogspot.com/2014/05/sim-class-wave-equation-in-2d.html,2D Wave Equation,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://acko.net/,Steven Wittens,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://www.emergentmind.com/,Emergent Mind,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://pomax.github.io/bezierinfo/,A Primer on Bezier Curves,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://www.emergentmind.com/the-perceptron,Perceptrons,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html,2-layer neural network,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://pomax.github.io/bezierinfo/,A Primer on Bezier Curves,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://www.redblobgames.com/,Red Blob Games,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
-http://natureofcode.com/book/chapter-3-oscillation/,Oscillation,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://ncase.me/sight-and-light/,Sight And Light,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://natureofcode.com/book/chapter-3-oscillation/,Oscillation,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://acko.net/blog/how-to-fold-a-julia-fractal/,How to fold a Julia Fractal,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+http://www.redblobgames.com/,Red Blob Games,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://www.redblobgames.com/articles/visibility/,2D Visibility,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm,Breadth First Search,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 https://colah.github.io/,Christopher Olah,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/,Neural Networks, Manifolds, and Topology,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://maxgoldste.in/melkman/,Melkman's Algorithm interactively explained,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
@@ -41,3 +41,4 @@ http://www.algomation.com/,Algomation,https://github.com/enjalot/algovis#readme,
 http://www.cs.usfca.edu/~galles/visualization/Algorithms.html,Algorithm Visualizations,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://latex2html5.com/,LaTeX2HTML5,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
 http://worrydream.com/Tangle/,Tangle,https://github.com/enjalot/algovis#readme,Algorithm Visualizations
+https://www.khanacademy.org/computing/computer-science/algorithms,Khan Academy algorithms course,https://github.com/enjalot/algovis#readme,Algorithm Visualizations

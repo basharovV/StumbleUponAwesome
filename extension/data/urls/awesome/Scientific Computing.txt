@@ -1,67 +1,78 @@
-https://www.cvxpy.org/,cvxpy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://slepc.upv.es,SLEPc,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://topology-tool-kit.github.io/,TTK,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://mfem.org,MFEM,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.gnu.org/software/gsl/,GSL,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://esa.github.io/pygmo/,PyGMO,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://gitlab.dune-project.org/core/,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://pywavelets.readthedocs.io/en/latest/,PyWavelets,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://bitbucket.org/fathomteam/moab/,Bitbucket,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://stanford.edu/~jingweih/papers/quadriflow/,QuadriFlow,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.paraview.org,ParaView,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.scipy.org,SciPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www-user.tu-chemnitz.de/~potts/nfft/,NFFT,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://sfepy.org,SfePy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.netlib.org/na-digest-html/,NA Digest,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.netlib.org/blas/,BLAS,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://numpy.org/,NumPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://savannah.gnu.org/projects/gsl,Savannah,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://trimsh.org/,trimesh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.precice.org/,preCICE,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.openblas.net,OpenBLAS,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://freefem.org,FreeFEM,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://www.unidata.ucar.edu/software/netcdf/,NetCDF,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.pmp-library.org/,pmp-library,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.openfoam.com,OpenFOAM,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://sfepy.org,SfePy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+http://persson.berkeley.edu/distmesh/,distmesh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://gitlab.com/slepc/slepc,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://shenfun.readthedocs.io/en/latest/,shenfun,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+http://www.fftw.org,FFTW,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.paraview.org,ParaView,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://trimsh.org/,trimesh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://scicomp.stackexchange.com/,SciComp StackExchange,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://libceed.readthedocs.io/en/latest/index.html,libceed,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://gitlab.kitware.com/paraview/paraview,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.netlib.org/lapack/,LAPACK,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://fenicsproject.org,FEniCS,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-http://gmsh.info,Gmsh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.mmgtools.org/,Mmg,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.math.colostate.edu/~bangerth/videos.html,Wolfgang Bangerth's video class,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.ctcms.nist.gov/fipy/,FiPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://vtk.org/,VTK,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-http://eigen.tuxfamily.org/index.php?title=Main_Page,Eigen,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://bitbucket.org/fenics-project/,Bitbucket,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://gitlab.onelab.info/gmsh/gmsh,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://freefem.org,FreeFEM,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.netlib.org/blas/,BLAS,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://scipy.org,SciPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.chebfun.org/,Chebfun,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+http://www.qhull.org,Qhull,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://numpy.org/,NumPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.openblas.net,OpenBLAS,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://pymor.org/,pyMOR,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+http://www.qhull.org/COPYING.txt,custom open source license,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://cs.nyu.edu/~yixinhu/tetwild.pdf,TetWild,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://libmesh.github.io,libMesh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://gitlab.com/libeigen/eigen,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://mathema.tician.de/software/meshpy/,MeshPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://gitlab.kitware.com/vtk/vtk,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://gitlab.kitware.com/paraview/paraview,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://libceed.readthedocs.io/en/latest/index.html,libceed,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.cvxpy.org/,cvxpy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.math.colostate.edu/~bangerth/videos.html,Wolfgang Bangerth's video class,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.netlib.org/lapack/,LAPACK,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.gnu.org/software/gsl/,GSL,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://pywavelets.readthedocs.io/en/latest/,PyWavelets,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://nhigham.com/,Nick Higham's blog,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf,TriWild,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://ginkgo-project.github.io/,Ginkgo,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://dealii.org,deal.II,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.cgal.org,CGAL,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://docs.enthought.com/mayavi/mayavi/,Mayavi,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://people.maths.ox.ac.uk/trefethen/videos.html,Nick Trefethen's Video Lectures,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://bitbucket.org/blaze-lib/blaze,blaze,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://bitbucket.org/fenics-project/mshr/,mshr,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://polyscope.run/,Polyscope,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://fenicsproject.org,FEniCS,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://vtk.org/,VTK,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://gmsh.info,Gmsh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www-user.tu-chemnitz.de/~potts/nfft/,NFFT,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://savannah.gnu.org/projects/gsl,Savannah,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://bitbucket.org/fenics-project/,Bitbucket,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.openfoam.com,OpenFOAM,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://eigen.tuxfamily.org/index.php?title=Main_Page,Eigen,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://arxiv.org/abs/1908.03581,fTetWild,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://ngsolve.org,Netgen/NGSolve,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.johndcook.com/blog/,John D. Cook's blog,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://gitlab.kitware.com/vtk/vtk,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://gitlab.onelab.info/gmsh/gmsh,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://libmesh.github.io,libMesh,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://docs.enthought.com/mayavi/mayavi/,Mayavi,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://mathema.tician.de/software/meshpy/,MeshPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://dealii.org,deal.II,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.ctcms.nist.gov/fipy/,FiPy,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://gitlab.com/libeigen/eigen,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.cgal.org,CGAL,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://polyscope.run/,Polyscope,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://stanford.edu/~jingweih/papers/quadriflow/,QuadriFlow,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://people.maths.ox.ac.uk/trefethen/videos.html,Nick Trefethen's Video Lectures,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://ginkgo-project.github.io/,Ginkgo,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://docs.pyvista.org/,PyVista,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://ngsolve.org,Netgen/NGSolve,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://vedo.embl.es,vedo,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://www.firedrakeproject.org,Firedrake,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.mcs.anl.gov/petsc/,PETSc,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://press3.mcs.anl.gov/sigma/moab-library/,MOAB,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-http://www.fftw.org,FFTW,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.johndcook.com/blog/,John D. Cook's blog,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://bitbucket.org/blaze-lib/blaze,blaze,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.wias-berlin.de/software/index.jsp?id=TetGen,TetGen,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://yt-project.org/,yt,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://www.netlib.org/utk/people/JackDongarra/la-sw.html,Jack Dongarra's software list,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://f3d-app.github.io/f3d/,F3D,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.cs.cmu.edu/~quake/triangle.html,Triangle,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.mcs.anl.gov/petsc/,PETSc,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.netlib.org/na-digest-html/,NA Digest,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://gitlab.com/petsc/petsc,GitLab,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://www.mooseframework.org,MOOSE,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://portal.nersc.gov/project/sparse/superlu/,SuperLU,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-http://www.qhull.org,Qhull,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://mooseframework.inl.gov/,MOOSE,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://discord.com/invite/hnTJ5MRX2Y,Discord: Numerical Software,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://sigma.mcs.anl.gov/moab-library/,MOAB,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
 https://www.dune-project.org,DUNE Numerics,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-http://www.qhull.org/COPYING.txt,custom open source license,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://pyamg.github.io,PyAMG,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
-https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods,hypre,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://bitbucket.org/fathomteam/moab/,Bitbucket,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.pmp-library.org/,pmp-library,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://www.mmgtools.org/,Mmg,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://pygam.readthedocs.io/en/latest/,pyGAM,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing
+https://dedalus-project.org/,Dedalus,https://github.com/nschloe/awesome-scientific-computing#readme,Scientific Computing

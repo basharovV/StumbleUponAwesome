@@ -1,2 +1,3 @@
-https://thredded.org,Thredded,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.opensourcerails.org/,Open Source Rails,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
 http://radiantcms.org,Radiant,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.vagrantup.com,Vagrant,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

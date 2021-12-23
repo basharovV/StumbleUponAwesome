@@ -1,0 +1,43 @@
+https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/,Getting started with AWS CDK for Amazon ECS,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://create-react-app.dev,create-react-app,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://superluminar.io/2020/02/07/react-spa-und-server-side-rendering-ssr-mit-aws-lambda-cloudfront-und-dem-cdk/,German: React SPA und server-side rendering (SSR) mit AWS Lambda und CloudFront,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://aws-blog.de/tags/cdk.html,tecRacer Amazon AWS Blog,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade,AWS re:Invent 2018, best of show: CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/dXTEVp0ATzo,Using CDK to build a UDP NLB Logging Service,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/IIiIoMGTJec,AWS Cloud Development Kit introduction with Live Demos,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs,django-postgres-vue-gitlab-ecs,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.npmjs.com/package/cdk-tweet-sentiment,cdk-tweet-sentiment,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://a.l3x.in/2020/02/04/migrating-from-terraform-to-cdk.html,Introducing AWS CDK with a real life Lambda and API gateway example,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://fudless.xyz/aws/seedecay/,Using the CDK to probe multiple accounts (sfn/lambda/sqs/sechub),https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/poka-techblog/cloudwatch-dashboards-as-code-the-right-way-using-aws-cdk-1453309c5481,CloudWatch Dashboards as Code (the Right Way) Using AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://fudless.xyz,fudless.xyz,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e,Scheduled Lambda Functions and CI/CD pipeline with AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://dev.to/vvo/coding-the-jamstack-missing-parts-databases-crons-background-jobs-1bpj,Coding the Jamstack missing parts: databases, crons & background jobs,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240,Introduction to how and why CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/,How to Build a CDK Construct Library,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89,AWS CDK — a glimpse into the future,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://lanwen.ru/posts/aws-client-vpn/,AWS Client VPN with mutual TLS,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/avmconsulting-blog/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d,AWS Infrastructure as Code with CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.npmjs.com/package/cdk-tweet-queue,cdk-tweet-queue,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://mvnrepository.com/artifact/software.amazon.awscdk,AWS CDK Java,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/,AWS CDK Developer Preview Announcement,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e,CDK Step Functions,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/,Contributing to the AWS Cloud Development Kit,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://garbe.io/blog/2018/08/17/first-look-into-cdk/,First look into AWS Cloud Development Kit,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://hub.docker.com/r/udondan/jsii-publish,Docker image,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/swlh/callbacks-with-aws-step-functions-a3dde1bc7203,Callbacks with AWS Step Functions,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://cdkworkshop.com/,CDK Serverless Workshop,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.slideshare.net/philippgarbe/boost-your-aws-infrastructure-with-cdk,Boost your AWS Infrastructure with the CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://dev.to/elthrasher/exploring-aws-cdk-loading-dynamodb-with-custom-resources-jlf,Loading DynamoDB with Custom Resources,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/,Using the CDK for CodePipelines Setup,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/,Using the CDK for AWS MSK Setup,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://dev.to/elthrasher/exploring-aws-cdk-a-million-a-minute-dynamodb-and-providerframework-e92,Loading DynamoDB with Provider Framework,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/c9UXHPX6-Ns,Serverless Dotnet - E01: Intro to AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz,Build an App with AWS Cloud Development Kit course on egghead.io,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/ZWCvNFUN-sU,Infrastructure is Code with the AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/Lh-kVC2r2AU,Infrastructure is Code with the AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/better-programming/aws-cdk-continuous-integration-and-delivery-using-travis-ci-ee5dd7549434,AWS CDK Continuous Integration and Delivery Using Travis CI,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link&sk=549fcf9d998bbea304bdd8d834aca9e6,Custom Resources with AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://gitlab.com/josef.stach/aws-cdk-lambda-asset,Lambda packaging asset,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/,Recommended AWS CDK project structure for Python applications,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html,Create a CI/CD pipeline using CodePipeline and CodeBuild,https://github.com/kolomied/awesome-cdk#readme,CDK

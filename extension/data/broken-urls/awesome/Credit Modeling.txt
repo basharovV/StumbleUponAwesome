@@ -1,0 +1,2 @@
+https://www.jstor.org/stable/2983268,Statistical Classification Methods in Consumer Credit Scoring: A Review,https://github.com/mourarthur/awesome-credit-modeling#readme,Credit Modeling error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.jstor.org/stable/40540227,Consumer Finance: Challenges for Operational Research,https://github.com/mourarthur/awesome-credit-modeling#readme,Credit Modeling error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,1 +1,9 @@
+https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project,Vue.js Component with Tailwind and Laravel,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css,Vue.js Modal,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://git.habd.as/jhabdas/seminyak,Seminyak Hugo Theme,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://codepen.io/joshmanders/pen/PQQBoR,Navbar,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://codepen.io/adamwathan/pen/RxWrZr,Codepen,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://codepen.io/drehimself/full/vpeVMx,CodePen,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://creative-tim.com/learning-lab/tailwind-starter-kit,Tailwind Kit,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://easytailwind.now.sh,EasyTailwind,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://tailzilla.app,tailzilla.app,https://github.com/aniftyco/awesome-tailwindcss#readme,Tailwind CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found

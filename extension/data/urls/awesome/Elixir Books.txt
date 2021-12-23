@@ -1,39 +1,38 @@
-https://pragprog.com/book/tvmelixir/adopting-elixir,Adopting Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/wmecto/programming-ecto,Programming Ecto,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ,Erlang Factory,https://github.com/sger/ElixirBooks#readme,Elixir Books
-http://www.erlang-in-anger.com/,Erlang In Anger,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.ludu.co/course/discover-elixir-phoenix,Discover Elixir & Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/sbsockets/real-time-phoenix,Real-Time Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html,Joe Armstrong - A week with Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.packtpub.com/application-development/learning-elixir,Learning Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.packtpub.com/application-development/elixir-cookbook,Elixir Cookbook,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://codestool.coding-gnome.com/courses/elixir-for-programmers,Elixir for Programmers,https://github.com/sger/ElixirBooks#readme,Elixir Books
-http://elixirsips.com,Elixir Sips,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.packtpub.com/application-development/mastering-elixir,Mastering Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.learnelixir.tv/,LearnElixir.tv,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/elixir16/programming-elixir-1-6,Programming Elixir ≥ 1.6,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.manning.com/books/elixir-in-action,Elixir in Action,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/cmelixir/metaprogramming-elixir,Metaprogramming Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-http://elixirschool.com/,Elixir School,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.manning.com/books/the-little-elixir-and-otp-guidebook,The Little Elixir & OTP Guidebook,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.syncfusion.com/ebooks/elixir-succinctly,Elixir succinctly,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.amazon.com/Ultimate-Guide-Making-Jump-Elixir-ebook/dp/B07DH4G7X2,The Ultimate Guide For Making the Jump To Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://elixir-lang.org/getting-started/introduction.html,Getting Started,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.amazon.co.uk/Building-Scalable-Applications-Developers-Library/dp/0321636465,Building Scalable Applications with Erlang,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir,Property-Based Testing with PropEr, Erlang, and Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.reddit.com/r/elixir/,Reddit,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://stackoverflow.com/questions/tagged/elixir,Stack Overflow,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp,Designing Elixir Systems with OTP,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://exercism.io/tracks/elixir,Exercism.io,https://github.com/sger/ElixirBooks#readme,Elixir Books
 http://elixirkoans.io,Elixir Koans,https://github.com/sger/ElixirBooks#readme,Elixir Books
-http://shop.oreilly.com/product/0636920030584.do,Introducing Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/tvmelixir/adopting-elixir,Adopting Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+http://www.erlang-in-anger.com/,Erlang In Anger,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ,Erlang Factory,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.packtpub.com/web-development/phoenix-web-development,Phoenix Web Development,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.ludu.co/course/discover-elixir-phoenix,Discover Elixir & Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.packtpub.com/application-development/learning-elixir,Learning Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/wmecto/programming-ecto,Programming Ecto,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.packtpub.com/application-development/elixir-cookbook,Elixir Cookbook,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/elixir16/programming-elixir-1-6,Programming Elixir ≥ 1.6,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://codestool.coding-gnome.com/courses/elixir-for-programmers,Elixir for Programmers,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.packtpub.com/application-development/mastering-elixir,Mastering Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/sbsockets/real-time-phoenix,Real-Time Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/cmelixir/metaprogramming-elixir,Metaprogramming Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.manning.com/books/elixir-in-action,Elixir in Action,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.manning.com/books/the-little-elixir-and-otp-guidebook,The Little Elixir & OTP Guidebook,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.amazon.com/Ultimate-Guide-Making-Jump-Elixir-ebook/dp/B07DH4G7X2,The Ultimate Guide For Making the Jump To Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+http://elixirschool.com/,Elixir School,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir,Property-Based Testing with PropEr, Erlang, and Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.amazon.co.uk/Building-Scalable-Applications-Developers-Library/dp/0321636465,Building Scalable Applications with Erlang,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.elixircryptobot.com,Hands-on Elixir & OTP: Cryptocurrency trading bot,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp,Designing Elixir Systems with OTP,https://github.com/sger/ElixirBooks#readme,Elixir Books
 http://shop.oreilly.com/product/0636920024149.do,Designing for Scalability with Erlang/OTP,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir,Learn Functional Programming with Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
 http://shop.oreilly.com/product/0636920021452.do,Building Web Applications with Erlang,https://github.com/sger/ElixirBooks#readme,Elixir Books
 https://www.springer.com/la/book/9781484223932,Erlang and Elixir for Imperative Programmers,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://learnyousomeerlang.com/,Learn You Some Erlang for Great Good,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.manning.com/books/erlang-and-otp-in-action,Erlang and OTP in Action,https://github.com/sger/ElixirBooks#readme,Elixir Books
 https://leanpub.com/elixir-elm-tutorial,Elixir and Elm Tutorial,https://github.com/sger/ElixirBooks#readme,Elixir Books
 https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix,Functional Web Development with Elixir, OTP, and Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.manning.com/books/erlang-and-otp-in-action,Erlang and OTP in Action,https://github.com/sger/ElixirBooks#readme,Elixir Books
 https://www.manning.com/books/phoenix-in-action,Phoenix in Action,https://github.com/sger/ElixirBooks#readme,Elixir Books
-https://www.packtpub.com/web-development/phoenix-web-development,Phoenix Web Development,https://github.com/sger/ElixirBooks#readme,Elixir Books
+http://elixirsips.com,Elixir Sips,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.learnelixir.tv/,LearnElixir.tv,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.reddit.com/r/elixir/,Reddit,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://stackoverflow.com/questions/tagged/elixir,Stack Overflow,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://www.syncfusion.com/ebooks/elixir-succinctly,Elixir succinctly,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://exercism.io/tracks/elixir,Exercism.io,https://github.com/sger/ElixirBooks#readme,Elixir Books
+http://shop.oreilly.com/product/0636920030584.do,Introducing Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir,Learn Functional Programming with Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books
+https://learnyousomeerlang.com/,Learn You Some Erlang for Great Good,https://github.com/sger/ElixirBooks#readme,Elixir Books

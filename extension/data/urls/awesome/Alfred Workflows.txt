@@ -1,21 +1,21 @@
-http://www.packal.org/,Packal,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://gitmoji.carloscuesta.me/,Gitmojis,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://www.alfredapp.com/,Alfred,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://momentjs.com,moment.js,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.alfredforum.com/topic/1274-adium-workflow/,Adium,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.packal.org/workflow/colors,Colors,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://alfred-spotify-mini-player.com,Spotify Mini Player,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://angular.io,angular.io,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://www.spotify.com,Spotify,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://packagist.org,Packagist,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.packal.org/workflow/random-mac,Random MAC,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.packal.org/workflow/funnel,Funnel,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://tunnelblick.net/,Tunnelblick,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-https://www.sparklabs.com/viscosity/,Viscosity,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.packal.org/workflow/network-info,Network Info,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://pandoc.org,pandoc,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.packal.org/workflow/temporary-mute,TemporaryMute,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://www.packal.org/workflow/skim-remote,Skim remote,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://alfredworkflow.com,AlfredWorkflow.com,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://skim-app.sourceforge.net,Skim PDF Viewer,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
-http://joelcalifa.com/blog/alfred-emoji-snippet-pack/,Emoji Snippet Pack,https://github.com/derimagia/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/,Packal,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://gitmoji.carloscuesta.me/,Gitmojis,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://www.alfredapp.com/,Alfred,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://momentjs.com,moment.js,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://alfred-spotify-mini-player.com,Spotify Mini Player,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.alfredforum.com/topic/1274-adium-workflow/,Adium,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://www.spotify.com,Spotify,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/workflow/colors,Colors,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://angular.io,angular.io,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/workflow/random-mac,Random MAC,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://packagist.org,Packagist,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://tunnelblick.net/,Tunnelblick,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/workflow/funnel,Funnel,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+https://www.sparklabs.com/viscosity/,Viscosity,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/workflow/network-info,Network Info,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://pandoc.org,pandoc,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/workflow/temporary-mute,TemporaryMute,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://www.packal.org/workflow/skim-remote,Skim remote,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://skim-app.sourceforge.net,Skim PDF Viewer,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://alfredworkflow.com,AlfredWorkflow.com,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows
+http://joelcalifa.com/blog/alfred-emoji-snippet-pack/,Emoji Snippet Pack,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows

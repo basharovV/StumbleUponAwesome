@@ -1,0 +1,2 @@
+https://mediapipe.readthedocs.io/en/latest/examples.html,MediaPipe examples,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://tulasi.dev/craft-in-tflite,Blog1-Conversion to TFLite,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)

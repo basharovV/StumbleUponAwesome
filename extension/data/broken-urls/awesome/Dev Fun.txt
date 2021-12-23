@@ -1,0 +1,2 @@
+https://make-my-link-longer.glitch.me/,Make My Link Longer,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://fapfapjs.io,Fapfap.js,https://github.com/mislavcimpersak/awesome-dev-fun#readme,Dev Fun error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

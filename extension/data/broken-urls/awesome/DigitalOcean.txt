@@ -1,0 +1,1 @@
+https://www.terraform.io/docs/providers/do/,Terraform - DigitalOcean Provider,https://github.com/jonleibowitz/awesome-digitalocean#readme,DigitalOcean error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

@@ -1,0 +1,10 @@
+https://plugins.jetbrains.com/plugin/17435-inertia-js-support,Jetbrains plugin,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://inertiajs.com/,,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+http://inertiajs.com,Documentation,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://discord.gg/gwgxN8Y,Discord,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://jetstream.laravel.com/1.x/stacks/inertia.html,Laravel Jetstream,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://reinink.ca/articles/introducing-inertia-js,Introducing Inertia.js,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://reinink.ca/articles/server-side-apps-with-client-side-rendering,Server-side applications with client-side rendering,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/,Inertia.js and Livewire: a high-level comparison,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/,Handling routes in a Laravel and Inertia.js application,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js
+https://builtwithinertia.com/,Built with Inertia,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js

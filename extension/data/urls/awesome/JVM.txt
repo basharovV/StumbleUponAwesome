@@ -1,148 +1,144 @@
-http://www.cs.umd.edu/~pugh/java/memoryModel/,The Java Memory Model,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.eclipse.org/xtend/,Xtend,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/projects/code-tools/jol/,JOL,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_,JVM Language Summit 2016,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html,jhat,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD,Extreme Profiling: Digging Into Hotspots,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf,Shenandoah deep talk,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://akarnokd.blogspot.se/,Dávid Karnok,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n,JVM Language Summit 2017,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.ej-technologies.com/products/jprofiler/overview.html,JProfiler,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://gee.cs.oswego.edu/dl/jmm/cookbook.html,The JSR-133 Cookbook for Compiler Writers,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://docs.oracle.com/javase/9/tools/jhsdb.htm,jhsdb,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=VCeHkcwfF9Q,Shenandoah: The Garbage Collector That Could,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/,What every programmer should know about solid-state drives,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.glennklockwood.com/hpc-howtos/process-affinity.html,taskset/process-affinity,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/,Cliff Click podcast 2017/11/05,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://deeplearning4j.org/,Deeplearning4j,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://wiki.openjdk.java.net/display/CodeTools/asmtools,asmtools,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=vzzABBxo44g,Bits of advice for VM writers,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/,JVMTI,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=k7IX_diKCEo,Analyzing and Debugging the Java HotSpot VM at the OS Level,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://tiptop.gforge.inria.fr/,tiptop,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://arrow.apache.org/,Apache Arrow,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://ceylon-lang.org/,Ceylon,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html,jinfo,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/,Garbage Collection Tuning Guide,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest,concurrency-interest,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://projectreactor.io/,Reactor,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=_e5hujoTkgY,Understanding Java garbage collection ...,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://cliffc.org/blog/2017/11/09/queuing-in-practice/,Cliff Click podcast 2017/11/09,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.jsweet.org/,JSweet,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=bZuPTCaciLU,Faster Object Arrays,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://mail.openjdk.java.net/mailman/listinfo/hotspot-compiler-dev,hotspot-compiler-dev,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://commons.apache.org/proper/commons-math,commons-math,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html,jstack,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://datasketches.github.io/,DataSketches,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx,Which technique do programming language parsers and interpreters use?,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://bytebuddy.net,Byte Buddy,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=TxqsKzxyySo,Java Memory Model Pragmatics,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.infoq.com/presentations/java-vs-c-performance,Java vs. C Performance,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/,Cliff Click podcast 2017/09/16,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://google.github.io/flatbuffers/,FlatBuffers,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev,hotspot-dev,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.jetbrains.com/mps/,MPS,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html,jstat,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=Y39kllzX1P8,With GC Solved, What Else Makes a JVM Pause?,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://trane.io/,TraneIO,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=LoyBTqkSkZk,Why JNI is slow?,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://byteman.jboss.org/,Byteman,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.azul.com/files/wp_pgc_zing_v52.pdf,Azul Pauseless Garbage Collection,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://vimeo.com/233820012,Everything about Stack Traces and Heap Dumps,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://eclipse.org/mat/,MAT,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html,Safepoints,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev,hotspot-gc-dev,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://jctools.github.io/JCTools/,JCTools,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=OFgxAFdxYAQ,A Crash Course in Modern Hardware,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://vimeo.com/120533011,JVM Mechanics,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://projectlombok.org/,lombok,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=_6vJyciXkwo,Java Profiling from the Ground Up,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://linux.die.net/man/7/hwloc,hwloc,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm,Topics in High-Performance Messaging,https://github.com/deephacks/awesome-jvm#readme,JVM
 https://www.youtube.com/watch?v=GsMs3n8CB6g,Give me 15 minutes and I'll change your view of Linux tracing,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=lJ8ydIuPFeU,How NOT to Measure Latency,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html,jhat,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/projects/nashorn/,Nashorn,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr,JFokus 2018,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/projects/mlvm/jvmlangsummit/,JVM Language Summit 2015,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://docs.oracle.com/javase/9/tools/jhsdb.htm,jhsdb,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.crashub.org/,CRaSH,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.eclipse.org/xtend/,Xtend,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html,jinfo,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://wiki.openjdk.java.net/display/CodeTools/asmtools,asmtools,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://sebastien.godard.pagesperso-orange.fr,sysstat,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://martiansoftware.com/nailgun/,Nailgun,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://ceylon-lang.org/,Ceylon,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_,JVM Language Summit 2016,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf,Kernel Recipes 2017: Performance Analysis with BPF,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html,jstack,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html,jstat,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.jsweet.org/,JSweet,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD,Extreme Profiling: Digging Into Hotspots,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://bytebuddy.net,Byte Buddy,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html,False sharing,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html,CPU Utilization is Wrong,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.azul.com/jhiccup/,jHiccup,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://projectreactor.io/,Reactor,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n,JVM Language Summit 2017,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf,Shenandoah deep talk,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.glennklockwood.com/hpc-howtos/process-affinity.html,taskset/process-affinity,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=vzzABBxo44g,Bits of advice for VM writers,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://datasketches.github.io/,DataSketches,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.jetbrains.com/mps/,MPS,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/projects/code-tools/jol/,JOL,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=VCeHkcwfF9Q,Shenandoah: The Garbage Collector That Could,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf,The JVM specification,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=_e5hujoTkgY,Understanding Java garbage collection ...,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=k7IX_diKCEo,Analyzing and Debugging the Java HotSpot VM at the OS Level,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/,Cliff Click,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=bZuPTCaciLU,Faster Object Arrays,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://trane.io/,TraneIO,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://arrow.apache.org/,Apache Arrow,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.ej-technologies.com/products/jprofiler/overview.html,JProfiler,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=TxqsKzxyySo,Java Memory Model Pragmatics,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/,JVMTI,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=Y39kllzX1P8,With GC Solved, What Else Makes a JVM Pause?,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://projectlombok.org/,lombok,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html,Linux Load Averages: Solving the Mystery,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cs.umd.edu/~pugh/java/memoryModel/,The Java Memory Model,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://linux.die.net/man/7/hwloc,hwloc,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://commons.apache.org/proper/commons-math,commons-math,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://google.github.io/flatbuffers/,FlatBuffers,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://www.vavr.io/,vavr,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/,Cliff Click podcast 2017/09/16,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html,Balanced GC,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.erjang.org,Erjang,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://gee.cs.oswego.edu/dl/jmm/cookbook.html,The JSR-133 Cookbook for Compiler Writers,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://vimeo.com/120533011,JVM Mechanics,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://jctools.github.io/JCTools/,JCTools,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/,Garbage Collection Tuning Guide,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/,Cliff Click podcast 2017/09/28,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/,Cliff Click podcast 2017/09/16,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.infoq.com/presentations/java-vs-c-performance,Java vs. C Performance,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://jsoniter.com/,jsoniter,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=3g9R-RVIkOE,The Illusion of Execution,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://metrics.dropwizard.io/,metrics,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/jeps/318,Epsilon GC,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://plus.google.com/u/0/communities/107178245817384004088/,Performance Java User's Group,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=MC1EKLQ2Wmg,Mythbusting Modern Hardware to Gain 'Mechanical Sympathy',https://github.com/deephacks/awesome-jvm#readme,JVM
+http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/,What every programmer should know about solid-state drives,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=LoyBTqkSkZk,Why JNI is slow?,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://linux.die.net/man/8/numactl,numactl,https://github.com/deephacks/awesome-jvm#readme,JVM
 https://google.github.io/mug/,mug,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.peternier.com/projects/overseer/overseer.php,Overseer,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=OFgxAFdxYAQ,A Crash Course in Modern Hardware,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://www.antlr.org/,Antlr,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://vmmeetup.github.io/2017/,Virtual Machine Meetup 2017,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=fDGWWpHlzvw,Designing for Performance,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://eta-lang.org/,Eta,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://s.sashag.net/velny17-jvm,Fast and safe production monitoring of JVM with BPF tools,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/,Cliff Click podcast 2017/09/18,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?v=lJ8ydIuPFeU,How NOT to Measure Latency,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf,Kernel Recipes 2017: Performance Analysis with BPF,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8,The Future of the Linux Page Cache,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html,G1,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://objectlayout.org,ObjectLayout,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://eclipse.org/mat/,MAT,https://github.com/deephacks/awesome-jvm#readme,JVM
 https://eclipse.org/Xtext/,Xtext,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/projects/mlvm/jvmlangsummit/,JVM Language Summit 2015,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://calcite.apache.org/docs/,Apache Calcite,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/jeps/189,Shenandoah,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://fosdem.org/2018/schedule/track/free_java/,FOSDEM 2018,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://developers.google.com/protocol-buffers,protobuf,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=_6vJyciXkwo,Java Profiling from the Ground Up,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=3g9R-RVIkOE,The Illusion of Execution,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://openjdk.java.net/projects/panama/,Project Panama,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.infoq.com/articles/top-10-performance-mistakes,Top 10 Performance Mistakes,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://shipilev.net/,Aleksey Shipilëv,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://golo-lang.org/,Golo,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr,JFokus 2018,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.takipi.com/,Takipi,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://gchandbook.org,The Garbage Collection Handbook,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.brendangregg.com,Brendan Gregg,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://netty.io/,Netty,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/2017/09/21/debugging-data-races/,Cliff Click podcast 2017/09/21,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.brendangregg.com/usemethod.html,The USE method,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://oprofile.sourceforge.net/news/,oprofile,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html,ZGC,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://dcevm.github.io,DCEVM,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://gee.cs.oswego.edu/dl/html/j9mm.html,Using JDK 9 Memory Order Modes,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.yourkit.com/,YourKit,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.oracle.com/technetwork/java/javase/overview/index.html,Java,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/groups/hotspot/,HotSpot,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://rsocket.io/,RSocket,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html,CPU Utilization is Wrong,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.crashub.org/,CRaSH,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/,Cliff Click,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://nighthacking.com/g1-gc-with-kirk-pepperdine/,G1 Garbage Collector in Java 8/9,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://gatling.io,Gatling,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html,Linux Load Averages: Solving the Mystery,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/,Cliff Click podcast 2017/09/24,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://perf.wiki.kernel.org/index.php/Main_Page,perf,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.atoptool.nl/,atoptool,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://martiansoftware.com/nailgun/,Nailgun,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://mechanical-sympathy.blogspot.se/,Martin Thompson,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://sebastien.godard.pagesperso-orange.fr,sysstat,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://jruby.org,JRuby,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://types.cs.washington.edu/checker-framework/,Checker Framework,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html,javap,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/projects/graal/,Graal,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.jython.org,Jython,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.gnu.org/software/kawa/,Kawa,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://immutables.github.io/,immutables,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/,Cliff Click podcast 2017/09/28,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://richardstartin.uk/,Richard Startin,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.ibm.com/developerworks/java/jdk/,IBM J9,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.azul.com/products/zing/,Zing,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.luaj.org/luaj/3.0/README.html,LuaJ,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://openjdk.java.net/projects/nashorn/,Nashorn,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://www.azul.com/products/zulu/,Zulu,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest,concurrency-interest,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://calcite.apache.org/docs/,Apache Calcite,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=MC1EKLQ2Wmg,Mythbusting Modern Hardware to Gain 'Mechanical Sympathy',https://github.com/deephacks/awesome-jvm#readme,JVM
+http://metrics.dropwizard.io/,metrics,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?v=fDGWWpHlzvw,Designing for Performance,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/,Cliff Click podcast 2017/10/04,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://mail.openjdk.java.net/mailman/listinfo/hotspot-compiler-dev,hotspot-compiler-dev,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html,Safepoints,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html,Balanced GC,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://objectlayout.org,ObjectLayout,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.peternier.com/projects/overseer/overseer.php,Overseer,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://netty.io/,Netty,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.erjang.org,Erjang,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/,Cliff Click podcast 2017/09/16,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/jeps/318,Epsilon GC,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://oprofile.sourceforge.net/news/,oprofile,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev,hotspot-dev,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/,Cliff Click podcast 2017/11/05,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://opentracing.io/,OpenTracing,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://eta-lang.org/,Eta,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev,hotspot-gc-dev,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://plus.google.com/u/0/communities/107178245817384004088/,Performance Java User's Group,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://golo-lang.org/,Golo,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://dcevm.github.io,DCEVM,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://vmmeetup.github.io/2017/,Virtual Machine Meetup 2017,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://cliffc.org/blog/2017/11/09/queuing-in-practice/,Cliff Click podcast 2017/11/09,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://perf.wiki.kernel.org/index.php/Main_Page,perf,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/,Cliff Click podcast 2017/09/18,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.oracle.com/technetwork/java/javase/overview/index.html,Java,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html,G1,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/groups/hotspot/,HotSpot,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm,Topics in High-Performance Messaging,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://types.cs.washington.edu/checker-framework/,Checker Framework,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.takipi.com/,Takipi,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/jeps/189,Shenandoah,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx,Which technique do programming language parsers and interpreters use?,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://openjdk.java.net/projects/graal/,Graal,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://gchandbook.org,The Garbage Collection Handbook,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.yourkit.com/,YourKit,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://immutables.github.io/,immutables,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://fosdem.org/2018/schedule/track/free_java/,FOSDEM 2018,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://jruby.org,JRuby,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://vimeo.com/233820012,Everything about Stack Traces and Heap Dumps,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html,ZGC,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.sysdig.org/,sysdig,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.ibm.com/developerworks/java/jdk/,IBM J9,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://gatling.io,Gatling,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/2017/09/21/debugging-data-races/,Cliff Click podcast 2017/09/21,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.jython.org,Jython,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.azul.com/products/zing/,Zing,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.gnu.org/software/kawa/,Kawa,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://s.sashag.net/velny17-jvm,Fast and safe production monitoring of JVM with BPF tools,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.infoq.com/articles/top-10-performance-mistakes,Top 10 Performance Mistakes,https://github.com/deephacks/awesome-jvm#readme,JVM
+https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8,The Future of the Linux Page Cache,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://kotlinlang.org/,Kotlin,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://shipilev.net/,Aleksey Shipilëv,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.luaj.org/luaj/3.0/README.html,LuaJ,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/,Cliff Click podcast 2017/09/24,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.brendangregg.com/usemethod.html,The USE method,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://gee.cs.oswego.edu/dl/html/j9mm.html,Using JDK 9 Memory Order Modes,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html,TCP Tracepoints,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.brendangregg.com,Brendan Gregg,https://github.com/deephacks/awesome-jvm#readme,JVM
 https://shipilev.net/jvm-anatomy-park/,JVM Anatomy Park,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://byteman.jboss.org/,Byteman,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://akarnokd.blogspot.se/,Dávid Karnok,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://www.atoptool.nl/,atoptool,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html,javap,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://mechanical-sympathy.blogspot.se/,Martin Thompson,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://gceasy.io/,GCeasy,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://hdrhistogram.github.io/HdrHistogram/,HdrHistogram,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html,False sharing,https://github.com/deephacks/awesome-jvm#readme,JVM
-https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf,The JVM specification,https://github.com/deephacks/awesome-jvm#readme,JVM
+http://richardstartin.uk/,Richard Startin,https://github.com/deephacks/awesome-jvm#readme,JVM
 https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir,hdrhistogram-metrics-reservoir,https://github.com/deephacks/awesome-jvm#readme,JVM
 http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html,Java Flight Recorder (JFR),https://github.com/deephacks/awesome-jvm#readme,JVM
 http://openjdk.java.net/projects/code-tools/jcstress/,jcstress,https://github.com/deephacks/awesome-jvm#readme,JVM
-http://www.azul.com/jhiccup/,jHiccup,https://github.com/deephacks/awesome-jvm#readme,JVM

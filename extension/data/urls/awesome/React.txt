@@ -1,118 +1,93 @@
-https://reactjs.org/docs/optimizing-performance.html,React Optimizing Performance,https://github.com/enaqx/awesome-react#readme,React
-http://facebook.github.io/flux/,flux,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=eCf5CquV_Bw,Christopher Chedeau: React's Architecture - OSCON 2014,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLCC436JpVnK0Phxld2dD4tM4xPMxJCiRD,ReactEurope Conf 2015 Day 1 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html,Introducing the React Profiler,https://github.com/enaqx/awesome-react#readme,React
-https://devhints.io/react,React Cheatsheet,https://github.com/enaqx/awesome-react#readme,React
-https://reactjs.org/docs,React Documentation,https://github.com/enaqx/awesome-react#readme,React
-https://facebook.github.io/react-native/docs/tutorial.html,React Native Tutorial,https://github.com/enaqx/awesome-react#readme,React
-https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f,Using React Native With TypeScript,https://github.com/enaqx/awesome-react#readme,React
+https://reactjs.org/docs/getting-started.html,React Documentation,https://github.com/enaqx/awesome-react#readme,React
+https://reactjs.org/docs/reconciliation.html,Reconciliation,https://github.com/enaqx/awesome-react#readme,React
 https://www.youtube.com/watch?v=IVvHPPcl2TM,Pete Hunt: React RESTful UI Rendering - Strange Loop 2014,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLCC436JpVnK3HvUSAHpt-LRJkIK8pQG6R,ReactEurope Conf 2015 Day 2 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://reactnavigation.org/,react-navigation,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=G-aO5hzo1aw,Trying React Hooks for the first time with Dan Abramov,https://github.com/enaqx/awesome-react#readme,React
+https://devhints.io/react,React Cheatsheet,https://github.com/enaqx/awesome-react#readme,React
+https://reactbyexample.github.io/,React by Example,https://github.com/enaqx/awesome-react#readme,React
 https://www.youtube.com/watch?v=i__969noyAM,Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ,ReactRally Conf 2015 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://viromedia.com/viroreact/,Viro React,https://github.com/enaqx/awesome-react#readme,React
-https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained,Optimizing React: Virtual DOM explained,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=4anAwXYqLG8,Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014,https://github.com/enaqx/awesome-react#readme,React
-https://medium.com/apollo-stack,Apollo Blog,https://github.com/enaqx/awesome-react#readme,React
 https://reactpatterns.com/,React Patterns,https://github.com/enaqx/awesome-react#readme,React
-https://www.pluralsight.com/courses/react-redux-react-router-es6,Building Applications with React and Redux in ES6,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY,React.js Conf 2016 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=M8x0bc81smU,Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014,https://github.com/enaqx/awesome-react#readme,React
-https://flow.org/en/docs/react/,Setup Flow with React,https://github.com/enaqx/awesome-react#readme,React
-http://www.robinwieruch.de/mobx-react,Refactor your application from Redux to MobX,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=LQFQl8EsV3k,Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU,React Amsterdam 2016 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLCC436JpVnK3HvUSAHpt-LRJkIK8pQG6R,ReactEurope Conf 2015 Day 2 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=4anAwXYqLG8,Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014,https://github.com/enaqx/awesome-react#readme,React
 http://www.reactiflux.com/,Reactiflux Discord Channel,https://github.com/enaqx/awesome-react#readme,React
-http://facebook.github.io/react/docs/forms.html,React Forms,https://github.com/enaqx/awesome-react#readme,React
-https://www.simform.com/react-performance/,A Definitive Guide to Optimize Major Performance issues in React,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=M8x0bc81smU,Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=LQFQl8EsV3k,Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ,ReactRally Conf 2015 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://devchat.tv/react-native-radio/,React Native Radio,https://github.com/enaqx/awesome-react#readme,React
 https://www.youtube.com/watch?v=mmke4w4gc6c,Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015,https://github.com/enaqx/awesome-react#readme,React
+http://stackoverflow.com/questions/tagged/reactjs,React StackOverflow,https://github.com/enaqx/awesome-react#readme,React
+https://flow.org/en/docs/react/,Setup Flow with React,https://github.com/enaqx/awesome-react#readme,React
+https://reactjs.org/community/conferences.html,React Conferences,https://github.com/enaqx/awesome-react#readme,React
+https://reactjs.org/redirect-to-codepen/hello-world,CodePen,https://github.com/enaqx/awesome-react#readme,React
+https://codesandbox.io/s/new,CodeSandbox,https://github.com/enaqx/awesome-react#readme,React
+https://wattenberger.com/blog/react-hooks,Thinking in React Hooks,https://github.com/enaqx/awesome-react#readme,React
+https://reactjs.org/community/videos.html,React Videos,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY,React.js Conf 2016 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://facebook.github.io/react-native/docs/tutorial.html,React Native Tutorial,https://github.com/enaqx/awesome-react#readme,React
+https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533,Replacing Redux with React Hooks and Context,https://github.com/enaqx/awesome-react#readme,React
+https://medium.com/@cpojer/relay-and-routing-36b5439bad9,Relay and Routing,https://github.com/enaqx/awesome-react#readme,React
+https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f,Using React Native With TypeScript,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU,React Amsterdam 2016 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr,React.js Conf 2015 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://jsfiddle.net/boilerplate/react-jsx,JSFiddle,https://github.com/enaqx/awesome-react#readme,React
+https://reactnavigation.org/,react-navigation,https://github.com/enaqx/awesome-react#readme,React
+https://reactjs.org/tutorial/tutorial.html,React Official Tutorial,https://github.com/enaqx/awesome-react#readme,React
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts,Redux Essentials,https://github.com/enaqx/awesome-react#readme,React
+https://www.reactjsvideos.com,reactjsvideos.com,https://github.com/enaqx/awesome-react#readme,React
 https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5,Build your own React,https://github.com/enaqx/awesome-react#readme,React
 https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa,ReactEurope Conf 2016 Day 1 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://apollostack.slack.com/,Apollo Slack,https://github.com/enaqx/awesome-react#readme,React
-https://www.manning.com/liveproject/online-booking-systems-for-a-salon-and-day-spa-using-spring-boot-and-reactjs,Develop a Live Project with React with Payment Integration & BarCode Scanner,https://github.com/enaqx/awesome-react#readme,React
-https://reactjs.org/community/conferences.html,React Conferences,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof,ReactEurope Conf 2016 Day 2 Playlist,https://github.com/enaqx/awesome-react#readme,React
-http://stackoverflow.com/questions/tagged/reactjs,React StackOverflow,https://github.com/enaqx/awesome-react#readme,React
-https://egghead.io/series/getting-started-with-redux,Getting Started with Redux,https://github.com/enaqx/awesome-react#readme,React
-http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/,Learn Raw React: Ridiculously Simple Forms,https://github.com/enaqx/awesome-react#readme,React
-https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e,Inside Fiber: In-depth overview of the new reconciliation algorithm in React,https://github.com/enaqx/awesome-react#readme,React
-https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3,Twitter Lite and High Performance React Progressive Web Apps at Scale,https://github.com/enaqx/awesome-react#readme,React
-https://reactjs.org/redirect-to-codepen/hello-world,CodePen,https://github.com/enaqx/awesome-react#readme,React
-https://www.reactjsvideos.com,reactjsvideos.com,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ,ReactRally Conf 2016 Playlist,https://github.com/enaqx/awesome-react#readme,React
-http://tydel.js.org,tydel - Typed Models and Collections, with React bindings,https://github.com/enaqx/awesome-react#readme,React
-https://reactjs.org/community/videos.html,React Videos,https://github.com/enaqx/awesome-react#readme,React
-https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533,Replacing Redux with React Hooks and Context,https://github.com/enaqx/awesome-react#readme,React
-https://codesandbox.io/s/new,CodeSandbox,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLCC436JpVnK0Phxld2dD4tM4xPMxJCiRD,ReactEurope Conf 2015 Day 1 Playlist,https://github.com/enaqx/awesome-react#readme,React
 https://www.youtube.com/watch?v=x7cQ3mrcKaY,Pete Hunt: React: Rethinking best practices - JSConf EU 2013,https://github.com/enaqx/awesome-react#readme,React
-https://www.robinwieruch.de/redux-mobx-confusion/,Redux or MobX: An attempt to dissolve the Confusion,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm,React.js Amsterdam 2018 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://remix.run/,remix,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr,React.js Conf 2015 Playlist,https://github.com/enaqx/awesome-react#readme,React
-https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/,Using the React DevTools Profiler to Diagnose React App Performance Issues,https://github.com/enaqx/awesome-react#readme,React
-https://react-leaflet.js.org/,react-leaflet - React components for Leaflet maps,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=DgVS-zXgMTk,Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013,https://github.com/enaqx/awesome-react#readme,React
-https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking,Unit Testing Redux Apps,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=G-aO5hzo1aw,Trying React Hooks for the first time with Dan Abramov,https://github.com/enaqx/awesome-react#readme,React
-http://brentvatne.ca/react-native-newsletter/,React Native Newsletter,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=GW0rj4sNH2w,Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013,https://github.com/enaqx/awesome-react#readme,React
 https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/,React Hooks cheat sheet: Unlock solutions to common problems,https://github.com/enaqx/awesome-react#readme,React
-https://jsfiddle.net/boilerplate/react-jsx,JSFiddle,https://github.com/enaqx/awesome-react#readme,React
-https://bitbucket.org/atlassian/atlaskit-mk-2,atlaskit,https://github.com/enaqx/awesome-react#readme,React
-https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/,Secure Your React and Redux App with JWT Authentication,https://github.com/enaqx/awesome-react#readme,React
-http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html,React: CSS in JS,https://github.com/enaqx/awesome-react#readme,React
-http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html,GraphQL Introduction,https://github.com/enaqx/awesome-react#readme,React
-https://rnplay.org/,React Native Playground,https://github.com/enaqx/awesome-react#readme,React
-https://egghead.io/series/building-react-applications-with-idiomatic-redux,Building React Applications with Idiomatic Redux,https://github.com/enaqx/awesome-react#readme,React
-https://www.robinwieruch.de/react-hooks-fetch-data/,How to fetch data with React Hooks?,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=h3KksH8gfcQ,Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014,https://github.com/enaqx/awesome-react#readme,React
-http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/,First Thoughts on GraphQL,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=nYkdrAPrdcw,Hacker Way: Rethinking Web App Development at Facebook,https://github.com/enaqx/awesome-react#readme,React
-http://stackoverflow.com/questions/tagged/react-native,React Native StackOverflow,https://github.com/enaqx/awesome-react#readme,React
-https://www.react-spring.io/,react-spring,https://github.com/enaqx/awesome-react#readme,React
-http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/,Modeling Queries in a GraphQL Like Way,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=D-ioDiacTm8,Christopher Chedeau: Why does React Scale? - JSConf2014,https://github.com/enaqx/awesome-react#readme,React
-https://facebook.github.io/react/docs/tutorial.html,React Official Tutorial,https://github.com/enaqx/awesome-react#readme,React
-http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/,Thin and Graphy,https://github.com/enaqx/awesome-react#readme,React
-https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep,Top 5 Practices to Boost React Performance,https://github.com/enaqx/awesome-react#readme,React
-https://devchat.tv/react-native-radio/,React Native Radio,https://github.com/enaqx/awesome-react#readme,React
-http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga,Build an Image Gallery Using React, Redux and redux-saga,https://github.com/enaqx/awesome-react#readme,React
+https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e,Inside Fiber: In-depth overview of the new reconciliation algorithm in React,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=DgVS-zXgMTk,Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013,https://github.com/enaqx/awesome-react#readme,React
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial,Using React in Visual Studio Code,https://github.com/enaqx/awesome-react#readme,React
-https://www.framer.com/motion/,framer-motion,https://github.com/enaqx/awesome-react#readme,React
-https://www.cometchat.com/tutorials/building-a-chat-app-with-react-hooks-a-pragmatic-example/,Build a React chat app with Hooks, a pragmatic example,https://github.com/enaqx/awesome-react#readme,React
-https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba,React is Slow, React is Fast: Optimizing react Apps in Practice,https://github.com/enaqx/awesome-react#readme,React
-https://howtographql.com/,How to Graphql - The Fullstack Tutorial for GraphQL,https://github.com/enaqx/awesome-react#readme,React
-http://elemental-ui.com/,Elemental - A UI Toolkit for React.js Websites and Apps,https://github.com/enaqx/awesome-react#readme,React
-http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript,Introducing React Native: Building Apps with JavaScript,https://github.com/enaqx/awesome-react#readme,React
+https://redux.js.org/tutorials/fundamentals/part-1-overview,Redux Fundamentals,https://github.com/enaqx/awesome-react#readme,React
+https://divjoy.com,Divjoy,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=GW0rj4sNH2w,Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof,ReactEurope Conf 2016 Day 2 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://www.robinwieruch.de/react-hooks-fetch-data/,How to fetch data with React Hooks?,https://github.com/enaqx/awesome-react#readme,React
+https://razzlejs.org/,Razzle,https://github.com/enaqx/awesome-react#readme,React
+http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html,React: CSS in JS,https://github.com/enaqx/awesome-react#readme,React
+https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867,Fundamentals of Redux Course from Dan Abramov,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=h3KksH8gfcQ,Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ,ReactRally Conf 2016 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM,React Hooks Video Tutorial,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=nYkdrAPrdcw,Hacker Way: Rethinking Web App Development at Facebook,https://github.com/enaqx/awesome-react#readme,React
 https://scrimba.com/g/glearnreact,Scrimba - Learn React for free interactively,https://github.com/enaqx/awesome-react#readme,React
-https://addyosmani.com/blog/react-window/,Rendering large lists with react-window,https://github.com/enaqx/awesome-react#readme,React
-https://www.typescriptlang.org/docs/handbook/react-&-webpack.html,TypeScript, React and Webpack,https://github.com/enaqx/awesome-react#readme,React
-https://reactjs.org/docs/reconciliation.html,Reconciliation,https://github.com/enaqx/awesome-react#readme,React
-http://www.appcoda.com/react-native-introduction/,Introduction to React Native: Building iOS Apps with JavaScript,https://github.com/enaqx/awesome-react#readme,React
-http://www.sohamkamani.com/blog/2016/06/05/redux-apis/,A simplified approach to calling APIs with redux,https://github.com/enaqx/awesome-react#readme,React
-http://graphene-python.org/,graphene - GraphQL in Python made simple,https://github.com/enaqx/awesome-react#readme,React
-https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15,LearnCode.academy Redux Tutorials Series,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=D-ioDiacTm8,Christopher Chedeau: Why does React Scale? - JSConf2014,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/watch?v=eCf5CquV_Bw,Christopher Chedeau: React's Architecture - OSCON 2014,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0,React Conf 2017 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://neutrinojs.org/packages/react/,Neutrino React Preset,https://github.com/enaqx/awesome-react#readme,React
+https://tsdx.io/,tsdx,https://github.com/enaqx/awesome-react#readme,React
+https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux,Building React Applications with Idiomatic Redux,https://github.com/enaqx/awesome-react#readme,React
+https://remix.run/,remix,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm,React.js Amsterdam 2018 Playlist,https://github.com/enaqx/awesome-react#readme,React
 https://learn.freecodecamp.org/front-end-libraries/react,FreeCodeCamp React Challenges,https://github.com/enaqx/awesome-react#readme,React
+https://blitzjs.com,Blitz,https://github.com/enaqx/awesome-react#readme,React
+https://www.typescriptlang.org/docs/handbook/react-&-webpack.html,TypeScript, React and Webpack,https://github.com/enaqx/awesome-react#readme,React
+https://www.youtube.com/playlist?list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc,React Amsterdam 2019 Playlist,https://github.com/enaqx/awesome-react#readme,React
+https://bitbucket.org/atlassian/atlaskit-mk-2,atlaskit,https://github.com/enaqx/awesome-react#readme,React
 https://www.typescriptlang.org/docs/handbook/jsx.html,JSX in TypeScript,https://github.com/enaqx/awesome-react#readme,React
-http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/,Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1,https://github.com/enaqx/awesome-react#readme,React
-https://git.io/preact,Preact: Fast 3kb React alternative with the same ES6 API.,https://github.com/enaqx/awesome-react#readme,React
-https://blog.isquaredsoftware.com/series/practical-redux/,Practical Redux,https://github.com/enaqx/awesome-react#readme,React
-https://facebook.github.io/relay/docs/en/introduction-to-relay.html,official Relay Getting Started,https://github.com/enaqx/awesome-react#readme,React
-https://atlaskit.atlassian.com/,AtlasKit - Atlassian's React UI library,https://github.com/enaqx/awesome-react#readme,React
-https://reasonml.github.io/reason-react/,ReasonReact,https://github.com/enaqx/awesome-react#readme,React
-https://daveceddia.com/redux-tutorial/,A Complete React Redux Tutorial for Beginners,https://github.com/enaqx/awesome-react#readme,React
-http://www.apollostack.com/,Apollo Official Site,https://github.com/enaqx/awesome-react#readme,React
+https://howtographql.com/,How to Graphql - The Fullstack Tutorial for GraphQL,https://github.com/enaqx/awesome-react#readme,React
+https://relay.dev/,Relay Offical Site,https://github.com/enaqx/awesome-react#readme,React
+http://www.appcoda.com/react-native-introduction/,Introduction to React Native: Building iOS Apps with JavaScript,https://github.com/enaqx/awesome-react#readme,React
 https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173,React Native Meets Async Functions,https://github.com/enaqx/awesome-react#readme,React
-https://mobxjs.github.io/mobx/,MobX Official Site,https://github.com/enaqx/awesome-react#readme,React
-https://mobxjs.github.io/mobx/getting-started.html,Ten minute introduction to MobX and React,https://github.com/enaqx/awesome-react#readme,React
-http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/,Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2,https://github.com/enaqx/awesome-react#readme,React
-https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx,Manage Complex State in React Apps with MobX,https://github.com/enaqx/awesome-react#readme,React
-http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html,Full-Stack Redux Tutorial,https://github.com/enaqx/awesome-react#readme,React
-https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app,Server-Side Rendering with Redux and React-Router,https://github.com/enaqx/awesome-react#readme,React
+https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained,Optimizing React: Virtual DOM explained,https://github.com/enaqx/awesome-react#readme,React
 https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/,The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1),https://github.com/enaqx/awesome-react#readme,React
+https://react-spectrum.adobe.com/react-aria/index.html,react-aria,https://github.com/enaqx/awesome-react#readme,React
 https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/,The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2),https://github.com/enaqx/awesome-react#readme,React
-https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros,Deep Introduction to Redux,https://github.com/enaqx/awesome-react#readme,React
+https://reasonml.github.io/reason-react/,ReasonReact,https://github.com/enaqx/awesome-react#readme,React
+http://facebook.github.io/flux/,flux,https://github.com/enaqx/awesome-react#readme,React
+https://viromedia.com/viroreact/,Viro React,https://github.com/enaqx/awesome-react#readme,React
+https://react-leaflet.js.org/,react-leaflet,https://github.com/enaqx/awesome-react#readme,React
+http://brentvatne.ca/react-native-newsletter/,React Native Newsletter,https://github.com/enaqx/awesome-react#readme,React
+https://rnplay.org/,React Native Playground,https://github.com/enaqx/awesome-react#readme,React
+http://stackoverflow.com/questions/tagged/react-native,React Native StackOverflow,https://github.com/enaqx/awesome-react#readme,React
+https://www.simform.com/react-performance/,A Definitive Guide to Optimize Major Performance issues in React,https://github.com/enaqx/awesome-react#readme,React
+https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3,Twitter Lite and High Performance React Progressive Web Apps at Scale,https://github.com/enaqx/awesome-react#readme,React
 https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6,A Mini-Course on React Native Flexbox,https://github.com/enaqx/awesome-react#readme,React
 http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/,Test driving react native applications,https://github.com/enaqx/awesome-react#readme,React
+https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/,Using the React DevTools Profiler to Diagnose React App Performance Issues,https://github.com/enaqx/awesome-react#readme,React
+https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep,Top 5 Practices to Boost React Performance,https://github.com/enaqx/awesome-react#readme,React
+https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba,React is Slow, React is Fast: Optimizing react Apps in Practice,https://github.com/enaqx/awesome-react#readme,React
+https://addyosmani.com/blog/react-window/,Rendering large lists with react-window,https://github.com/enaqx/awesome-react#readme,React

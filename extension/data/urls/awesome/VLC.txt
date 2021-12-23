@@ -1,0 +1,23 @@
+https://videolan.videolan.me/vlc/group__libvlc.html,LibVLC API docs,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc,libvlcjni,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://wiki.videolan.org/,Wiki,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://forum.videolan.org/,Forum,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc-unity,vlc-unity,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://discord.gg/3h3K3JF,LibVLC Discord,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc/-/issues,Code & Bug tracker,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://wiki.videolan.org/VLC_command-line_help,CLI flags,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/libvlcpp/,libvlcpp,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://addons.videolan.org/browse/,VideoLAN addons website,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/jbk/vlc.js,vlc.js (beta),https://github.com/mfkl/awesome-vlc#readme,VLC
+https://www.reddit.com/r/vlc,Reddit,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html,HLS Record tutorial,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc,VLC desktop,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html,RTSP mosaic tutorial,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc-ios,VLC iOS,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer,MediaElement tutorial,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://stackoverflow.com/questions/tagged/libvlc,Stack Overflow - LibVLC,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc-android,VLC Android,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://stackoverflow.com/questions/tagged/vlc,Stack Overflow - VLC,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://www.videolan.org/support/lists.html,Mailing Lists,https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/vlc-bench,VLC Benchmark (Beta),https://github.com/mfkl/awesome-vlc#readme,VLC
+https://code.videolan.org/videolan/VLCKit,VLCKit,https://github.com/mfkl/awesome-vlc#readme,VLC

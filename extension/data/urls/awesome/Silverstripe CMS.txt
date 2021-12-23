@@ -1,0 +1,30 @@
+https://packagist.org/packages/silverstripe/recipe-plugin/dependents,Silverstripe Recipes on Packagist,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://vimeo.com/silverstripe,Official Silverstripe Vimeo Channel,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://stackoverflow.com/questions/tagged/silverstripe,Stack Overflow,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://silverstripe-users.slack.com/,Silverstripe User Slack,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr,Fulltext Search Local Solr,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe,VSCode Silverstripe,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://plugins.jetbrains.com/plugin/17014-silverstripe-template-language-support,Jetbrains / PHPStorm Silverstripe Template Language Support,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.silverstripe.org/,,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.silverstripe.org/community/slack-signup,Invitation to Silverstripe User Slack,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.twistedbytes.nl/en/blog/php-vagrant-box/,Twisted Bytes,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.silverstripe.com,www.silverstripe.com,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://derkbox.com,Twisted Bytes Box Templates,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://forum.silverstripe.org/,Forum,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://box.scotch.io,Scotchbox,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://hub.docker.com/r/brettt89/silverstripe-web,brettt89/silverstripe-web,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.stripecon.eu,European Silverstripe Conference,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://hub.docker.com/r/brettt89/sspak,brettt89/sspak,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://hub.docker.com/r/brettt89/silverstripe-solr-cwp,brettt89/silverstripe-solr-cwp,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.meetup.com/topics/silverstripe/all/,Meetups,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+http://api.silverstripe.org/,API Docs,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://addons.silverstripe.org,SS Addons: Themes and Modules,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+http://doc.silverstripe.org/framework/en/,Technical Documentation,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+http://userhelp.silverstripe.org/,Using the CMS,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+http://ssmods.com,SSMods: Detailed Module Search,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://addons.silverstripe.org/add-ons?sort=relative,Most Used Modules,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.silverstripe.org/learn/lessons/,Silverstripe Lessons,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://silverstripe-fonts.dorset-digital.net/,Font reference,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.silverstripe.org/blog/,Official Silverstripe Blog,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+http://www.silverstrip.es,SilverStrip.es,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS
+https://www.youtube.com/channel/UC38vU3H_UrdGFnc3vTJiORA,Official StripeCon YouTube Channel,https://github.com/wernerkrauss/awesome-silverstripe-cms#readme,Silverstripe CMS

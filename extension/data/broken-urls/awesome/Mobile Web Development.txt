@@ -1,1 +1,1 @@
-https://ampbyexample.com,Learn AMP by Example,https://github.com/myshov/awesome-mobile-web-development#readme,Mobile Web Development error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://ampbyexample.com,Learn AMP by Example,https://github.com/myshov/awesome-mobile-web-development#readme,Mobile Web Development error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)

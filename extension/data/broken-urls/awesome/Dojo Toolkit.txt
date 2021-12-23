@@ -1,3 +1,10 @@
-http://www.dojofaces.org,Dojofaces,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-https://www.reddit.com/r/dojo/,Reddit Community,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://connect.sensiolabs.com/club/dojo-toolkit,SensioLabs Connect Club,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.dojofaces.org,Dojofaces,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://connect.sensiolabs.com/club/dojo-toolkit,SensioLabs Connect Club,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/,Dojo & Symfony PHP framework,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://directwebremoting.org/dwr/index.html,DWR,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/,Definitive TypeScript Guide,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://grails.org/plugin/dojo,plugin,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/,Spring,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.sitepen.com/blog/2014/08/13/dojo-faq-how-do-i-use-bootstrap-with-dijit/,Dojo and Bootstrap FAQ,https://github.com/petk/awesome-dojo#readme,Dojo Toolkit error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

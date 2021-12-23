@@ -1,1 +1,1 @@
-http://www.inf.u-szeged.hu/~ferenc/papers/UnifiedBugDataSet/,Unified Bug Dataset,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering error: timeout('timed out') | reason: 
+http://download.eclipse.org/scava/datasets/aeri_stacktraces/aeri_stacktraces.html,Eclipse AERI stacktraces,https://github.com/dspinellis/awesome-msr#readme,Empirical Software Engineering error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,78 +1,92 @@
-https://docs.kde.org/trunk5/en/kde-workspace/kfontview/index.html,KFontview,https://github.com/francoism90/awesome-kde#readme,KDE
-https://umbrello.kde.org/,Umbrello,https://github.com/francoism90/awesome-kde#readme,KDE
-http://www.kde.org,,https://github.com/francoism90/awesome-kde#readme,KDE
-https://framagit.org/MarianArlt/sddm-sugar-candy,Sugar Candy,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/Discover,Discover,https://github.com/francoism90/awesome-kde#readme,KDE
-https://kde.org/,KDE,https://github.com/francoism90/awesome-kde#readme,KDE
-https://utils.kde.org/projects/kwalletmanager/,KDE Wallet Manager,https://github.com/francoism90/awesome-kde#readme,KDE
-https://wiki.kde.org/,KDE Wikis,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.smplayer.info/,SMPlayer,https://github.com/francoism90/awesome-kde#readme,KDE
-https://sourceforge.net/projects/smb4k/,Smb4K,https://github.com/francoism90/awesome-kde#readme,KDE
-https://keepassxc.org/,KeePassXC,https://github.com/francoism90/awesome-kde#readme,KDE
-https://community.kde.org/Incubator/Projects/Falkon,Falkon,https://github.com/francoism90/awesome-kde#readme,KDE
-https://community.kde.org/Elisa,Elisa,https://github.com/francoism90/awesome-kde#readme,KDE
-https://wiki.archlinux.org/index.php/KDE,ArchWiki,https://github.com/francoism90/awesome-kde#readme,KDE
-https://community.kde.org/KDEConnect,KDE Connect,https://github.com/francoism90/awesome-kde#readme,KDE
-https://qtpass.org/,QtPass,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/utilities/okteta/,Okteta,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/system/konsole/,Konsole,https://github.com/francoism90/awesome-kde#readme,KDE
-https://extensions.gnome.org/extension/1319/gsconnect/,GSConnect,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/graphics/gwenview/,Gwenview,https://github.com/francoism90/awesome-kde#readme,KDE
-https://kde.org/applications/multimedia/org.kde.kmix,KMix,https://github.com/francoism90/awesome-kde#readme,KDE
-https://wiki.gentoo.org/wiki/KDE,Gentoo Wiki,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/Yakuake,Yakuake,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/Plasma-browser-integration,Plasma-browser-integration,https://github.com/francoism90/awesome-kde#readme,KDE
-https://dot.kde.org/,KDE.news,https://github.com/francoism90/awesome-kde#readme,KDE
-http://kwave.sourceforge.net/,KWave,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.passwordstore.org/,pass,https://github.com/francoism90/awesome-kde#readme,KDE
-https://konqueror.org/,Konqueror,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/education/kturtle/,KTurtle,https://github.com/francoism90/awesome-kde#readme,KDE
-https://planet.kde.org/,Planet KDE,https://github.com/francoism90/awesome-kde#readme,KDE
-https://whoozle.github.io/android-file-transfer-linux/,Android File Transfer,https://github.com/francoism90/awesome-kde#readme,KDE
-https://labplot.kde.org/,LabPlot,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/graphics/okular/,Okular,https://github.com/francoism90/awesome-kde#readme,KDE
-http://doc.qt.io/QtWebBrowser/,Qt WebBrowser,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.calligra.org/,Calligra,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.phoronix.com/scan.php?page=news_topic&q=KDE,Phoronix,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/KRename,KRename,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.reddit.com/r/kde/,Kreddit,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kdevelop.org/,KDevelop,https://github.com/francoism90/awesome-kde#readme,KDE
-https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/,Firefox,https://github.com/francoism90/awesome-kde#readme,KDE
-https://otter-browser.org/,Otter Browser,https://github.com/francoism90/awesome-kde#readme,KDE
-https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai,Chrome,https://github.com/francoism90/awesome-kde#readme,KDE
-https://store.kde.org/,KDE Store,https://github.com/francoism90/awesome-kde#readme,KDE
-https://pointieststick.wordpress.com/,Nate Graham's Blog,https://github.com/francoism90/awesome-kde#readme,KDE
-https://store.kde.org/p/998869/,Helium,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/graphics/spectacle/,Spectacle,https://github.com/francoism90/awesome-kde#readme,KDE
-https://stackoverflow.com/questions/tagged/kde,Stack Overflow,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/utilities/kate/,Kate,https://github.com/francoism90/awesome-kde#readme,KDE
-https://nicolasfella.wordpress.com/,Nico's Blog,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/development/kompare/,Kompare,https://github.com/francoism90/awesome-kde#readme,KDE
-https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox,Firefox KDE,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/internet/krdc/,KRDC,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/utilities/kwrite,KWrite,https://github.com/francoism90/awesome-kde#readme,KDE
-https://blog.broulik.de/,Kai Uwe's Blog,https://github.com/francoism90/awesome-kde#readme,KDE
-http://doc.qt.io/qt-5/qtdesigner-manual.html,Qt Designer,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/graphics/kolourpaint/,KolourPaint,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/system/ksystemlog/,KSystemLog,https://github.com/francoism90/awesome-kde#readme,KDE
-https://konversation.kde.org/,Konversation,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/Kronometer,Kronometer,https://github.com/francoism90/awesome-kde#readme,KDE
-https://gitlab.manjaro.org/artwork/themes/breath,Breath,https://github.com/francoism90/awesome-kde#readme,KDE
-https://gitlab.com/froodo_alexis/Antu-icons,Antu,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/internet/kget/,KGet,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/RSIBreak,RSIBreak,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/utilities/sweeper,Sweeper,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/graphics/krita/,Krita,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/internet/akregator/,Akregator,https://github.com/francoism90/awesome-kde#readme,KDE
-https://userbase.kde.org/Dolphin,Dolphin,https://github.com/francoism90/awesome-kde#readme,KDE
-https://krusader.org/,Krusader,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.digikam.org/,digiKam,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/sweeper/,Sweeper,https://github.com/francoism90/awesome-kde#readme,KDE
+https://elisa.kde.org/,Elisa,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kwrite/,KWrite,https://github.com/francoism90/awesome-kde#readme,KDE
 https://userbase.kde.org/KNetworkManager,KNetworkManager,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/internet/ktorrent/,KTorrent,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.qbittorrent.org/,qBittorrent,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/utilities/ark/,Ark,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/graphics/kcolorchooser/,KColorChooser,https://github.com/francoism90/awesome-kde#readme,KDE
-https://store.kde.org/p/1197198/,Bibata,https://github.com/francoism90/awesome-kde#readme,KDE
-https://amarok.kde.org/,Amarok,https://github.com/francoism90/awesome-kde#readme,KDE
-https://www.kde.org/applications/utilities/kfind/,KFind,https://github.com/francoism90/awesome-kde#readme,KDE
+http://www.kde.org,,https://github.com/francoism90/awesome-kde#readme,KDE
+http://doc.qt.io/QtWebBrowser/,Qt WebBrowser,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/yakuake/,Yakuake,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/rsibreak/,RSI Break,https://github.com/francoism90/awesome-kde#readme,KDE
+https://kde.org/,KDE,https://github.com/francoism90/awesome-kde#readme,KDE
+https://store.kde.org/,KDE Store,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.passwordstore.org/,pass,https://github.com/francoism90/awesome-kde#readme,KDE
+https://whoozle.github.io/android-file-transfer-linux/,Android File Transfer,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/,official website,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/discover/,Discover,https://github.com/francoism90/awesome-kde#readme,KDE
+https://stackoverflow.com/questions/tagged/kde,Stack Overflow,https://github.com/francoism90/awesome-kde#readme,KDE
+https://bugs.kde.org/,KDE Bugtracker,https://github.com/francoism90/awesome-kde#readme,KDE
+https://invent.kde.org/multimedia/haruna,Haruna,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/ark/,Ark,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.kdevelop.org/,KDevelop,https://github.com/francoism90/awesome-kde#readme,KDE
+https://invent.kde.org/plasma/latte-dock,Latte-Dock,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/akregator/,Akregator,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/dolphin/,Dolphin,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/en/smb4k,Smb4K,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kwalletmanager5/,KDE Wallet Manager,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kompare/,Kompare,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/wacomtablet/,kcm-wacomtablet,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kdf/,KDiskFree,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.falkon.org/,Falkon,https://github.com/francoism90/awesome-kde#readme,KDE
+https://konqueror.org/,Konqueror,https://github.com/francoism90/awesome-kde#readme,KDE
+https://wiki.archlinux.org/index.php/KDE,ArchWiki,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/okteta/,Okteta,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.digikam.org/,digiKam,https://github.com/francoism90/awesome-kde#readme,KDE
+https://userbase.kde.org/KInfoCenter,KInfoCenter,https://github.com/francoism90/awesome-kde#readme,KDE
+https://invent.kde.org/plasma/kde-gtk-config,kde-gtk-config,https://github.com/francoism90/awesome-kde#readme,KDE
+https://konversation.kde.org/,Konversation,https://github.com/francoism90/awesome-kde#readme,KDE
 https://www.kdenlive.org/,Kdenlive,https://github.com/francoism90/awesome-kde#readme,KDE
+https://keepassxc.org/,KeePassXC,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/gwenview/,Gwenview,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kmix/,KMix,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/konsole/,Konsole,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/krdc/,KRDC,https://github.com/francoism90/awesome-kde#readme,KDE
+http://doc.qt.io/qt-5/qtdesigner-manual.html,Qt Designer,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kfind/,KFind,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kcolorchooser/,KColorChooser,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kwave/,KWave,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/ktorrent/,KTorrent,https://github.com/francoism90/awesome-kde#readme,KDE
+https://umbrello.kde.org/,Umbrello,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/krename/,KRename,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kolourpaint/,KolourPaint,https://github.com/francoism90/awesome-kde#readme,KDE
+https://gitlab.manjaro.org/artwork/themes/breath,Breath,https://github.com/francoism90/awesome-kde#readme,KDE
+https://wiki.gentoo.org/wiki/KDE,Gentoo Wiki,https://github.com/francoism90/awesome-kde#readme,KDE
+https://krusader.org/,Krusader,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kturtle/,KTurtle,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/krita/,Krita,https://github.com/francoism90/awesome-kde#readme,KDE
+https://otter-browser.org/,Otter Browser,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/ksystemlog/,KSystemLog,https://github.com/francoism90/awesome-kde#readme,KDE
+https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox,Firefox KDE,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/okular/,Okular,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kup/,Kup,https://github.com/francoism90/awesome-kde#readme,KDE
+https://dot.kde.org/,KDE.news,https://github.com/francoism90/awesome-kde#readme,KDE
+https://userbase.kde.org/Plasma-browser-integration,Plasma-browser-integration,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.smplayer.info/,SMPlayer,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/spectacle/,Spectacle,https://github.com/francoism90/awesome-kde#readme,KDE
+https://planet.kde.org/,Planet KDE,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.videolan.org/vlc/,VLC,https://github.com/francoism90/awesome-kde#readme,KDE
+https://gitlab.com/kwinft/kwinft,KWinFT,https://github.com/francoism90/awesome-kde#readme,KDE
+https://amarok.kde.org/,Amarok,https://github.com/francoism90/awesome-kde#readme,KDE
+https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/,Firefox,https://github.com/francoism90/awesome-kde#readme,KDE
+https://labplot.kde.org/,LabPlot,https://github.com/francoism90/awesome-kde#readme,KDE
+https://extensions.gnome.org/extension/1319/gsconnect/,GSConnect,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.phoronix.com/scan.php?page=news_topic&q=KDE,Phoronix,https://github.com/francoism90/awesome-kde#readme,KDE
+https://kdeconnect.kde.org/,KDE Connect,https://github.com/francoism90/awesome-kde#readme,KDE
+https://qtpass.org/,QtPass,https://github.com/francoism90/awesome-kde#readme,KDE
+https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai,Chrome,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kget/,KGet,https://github.com/francoism90/awesome-kde#readme,KDE
+https://store.kde.org/p/998869/,Helium,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.calligra.org/,Calligra,https://github.com/francoism90/awesome-kde#readme,KDE
+https://store.kde.org/browse/,KDE Store,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.qbittorrent.org/,qBittorrent,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kmail2/,KMail,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kate/,Kate,https://github.com/francoism90/awesome-kde#readme,KDE
+https://pointieststick.wordpress.com/,Nate Graham's Blog,https://github.com/francoism90/awesome-kde#readme,KDE
+https://userbase.kde.org/Discover,Discover,https://github.com/francoism90/awesome-kde#readme,KDE
+https://apps.kde.org/kronometer/,Kronometer,https://github.com/francoism90/awesome-kde#readme,KDE
+https://gitlab.com/froodo_alexis/Antu-icons,Antu,https://github.com/francoism90/awesome-kde#readme,KDE
+https://nicolasfella.wordpress.com/,Nico's Blog,https://github.com/francoism90/awesome-kde#readme,KDE
+https://blog.broulik.de/,Kai Uwe's Blog,https://github.com/francoism90/awesome-kde#readme,KDE
+https://www.reddit.com/r/kde/,Kreddit,https://github.com/francoism90/awesome-kde#readme,KDE
+https://store.kde.org/p/1197198/,Bibata,https://github.com/francoism90/awesome-kde#readme,KDE
+https://framagit.org/MarianArlt/sddm-sugar-candy,Sugar Candy,https://github.com/francoism90/awesome-kde#readme,KDE
+https://wiki.kde.org/,KDE Wikis,https://github.com/francoism90/awesome-kde#readme,KDE
+https://invent.kde.org/,KDE Invent,https://github.com/francoism90/awesome-kde#readme,KDE

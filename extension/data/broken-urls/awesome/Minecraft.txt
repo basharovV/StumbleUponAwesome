@@ -1,36 +1,50 @@
-https://www.curseforge.com/minecraft/mc-mods/betterfps,BetterFps,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/ender-io,Ender IO,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod,FoamFix,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/extreme-reactors,Extreme Reactors,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/optifabric,OptiFabric,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/draconic-evolution,Draconic Evolution,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://minecraft.curseforge.com/projects/rftools,RFTools,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/diet-hoppers,Diet Hopper,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://betacraft.pl/server-archive/minecraft/,BetaCraft Archive,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest,Twilight Forest,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://minecraft.curseforge.com/projects/journeymap,Journey Map,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/armorplus,ArmorPlus,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.spigotmc.org/,Spigot,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://www.curseforge.com/minecraft/mc-mods/ender-io,Ender IO,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks,Carpenter's Blocks,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/extreme-reactors,Extreme Reactors,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod,FoamFix,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/voxelmap,VoxelMap,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/zetta-industries,Zetta Industries,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/chisel,Chisel,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/wthit,WTHIT,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://minecraft.curseforge.com/projects/jei,Just Enough Items (JEI),https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/baubles,Baubles,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/abyssalcraft,AbyssalCraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://minecraft.net/,Minecraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.curseforge.com/minecraft/mc-mods/hwyla,Hwyla,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/bibliocraft,Bibliocraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world,Aroma1997's Dimensional World,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/astral-sorcery,Astral Sorcery,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/worldinfo,WorldInfo,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/dank-null,/dank/null,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/avaritia,Avaritia,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest,Twilight Forest,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/blood-magic,Blood Magic,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/waila,Waila,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://minecraft.curseforge.com/projects/tinkers-construct,Tinkers Construct,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks,Carpenter's Blocks,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/customization/chocapic13-shaders,Chocapic13,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/blood-magic,Blood Magic,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/block-helper,Block Helper,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://minecraft.curseforge.com/projects/immersive-engineering,Immersive Engineering,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/chisel,Chisel,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/akashic-tome,Akashic Tome,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/appleskin,AppleSkin,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/armorplus,ArmorPlus,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://minecraft.curseforge.com/projects/thermalexpansion,Thermal Foundation + Dynamics + Expansion,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/attributefix,Attribute Fixer,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/appleskin,AppleSkin,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/actually-additions,Actually Additions,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.curseforge.com/minecraft/mc-mods/diet-hoppers,Diet Hopper,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://skin.lim-light.com/,Live Demo,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.curseforge.com/minecraft/mc-mods/draconic-evolution,Draconic Evolution,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/baubles,Baubles,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/attributefix,Attribute Fixer,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world,Aroma1997's Dimensional World,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload,LB Photo Realism Reload,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/texture-packs/default-dark-mode,Default Dark Mode,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/warpdrive,WarpDrive,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://minecraft.curseforge.com/projects/pams-harvestcraft,Pam's HarvestCraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/agricraft,AgriCraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/bonsai-trees,Bonsai Trees,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio,Ex Nihilo: Creatio,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://minecraft.curseforge.com/projects/rftools,RFTools,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://skin.lim-light.com/,Live Demo,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.curseforge.com/minecraft/mc-mods/rift,Rift,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/betterfps,BetterFps,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler,Tabula,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://minecraft.net/,Minecraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft error: timeout('The read operation timed out') | reason: 

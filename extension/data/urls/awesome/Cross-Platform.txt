@@ -6,16 +6,16 @@ https://nodejs.org/api/fs.html,fs,https://github.com/bcoe/awesome-cross-platform
 https://nodejs.org/api/process.html,process,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://nodejs.org/api/child_process.html,child_process,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://www.virtualbox.org/wiki/Downloads,VirtualBox,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
-http://sylvain.pontoreau.com,Sylvain PONTOREAU,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://www.winehq.org/,Wine,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
-https://www.ceriously.com,Steven,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
+http://sylvain.pontoreau.com,Sylvain PONTOREAU,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 http://shapeshed.com/writing-cross-platform-node/,Writing Cross-Platform Node.js,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://www.cygwin.com/,Cygwin,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://nodejs.org/en/download/,Node.js,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
+https://www.ceriously.com,Steven,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://docs.microsoft.com/en-us/windows/wsl/install-win10,WSL,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
-http://www.appveyor.com/,AppVeyor,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 http://www.mingw.org/,MinGW,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
-https://azure.microsoft.com/en-us/services/devops/pipelines/,Azure Pipelines,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
+http://www.appveyor.com/,AppVeyor,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 http://www.mingw.org/wiki/msys,msys,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://gitforwindows.org/,Git Bash,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
+https://fb.com/RemoveU,Hongarc,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform
 https://kentcdodds.com,Kent C. Dodds,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform

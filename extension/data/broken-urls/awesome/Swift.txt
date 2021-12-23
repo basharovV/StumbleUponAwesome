@@ -1,2 +1,1 @@
 https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427,,https://github.com/matteocrippa/awesome-swift#readme,Swift error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329,Apple eBook,https://github.com/matteocrippa/awesome-swift#readme,Swift error: timeout('The read operation timed out') | reason: 

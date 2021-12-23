@@ -1,3 +1,4 @@
-https://www.linkedin.com/company/map-camp/,LinkedIn,https://github.com/wardley-maps-community/awesome-wardley-maps#readme,Wardley Maps error: <HTTPError 999: 'Request denied'> | reason: Request denied
 https://www.researchskills.net/framework/map,Map,https://github.com/wardley-maps-community/awesome-wardley-maps#readme,Wardley Maps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.linkedin.com/company/map-camp/,LinkedIn,https://github.com/wardley-maps-community/awesome-wardley-maps#readme,Wardley Maps error: <HTTPError 999: 'Request denied'> | reason: Request denied
 https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html,Simon Wardley's 100-day Corporate get fit plan,https://github.com/wardley-maps-community/awesome-wardley-maps#readme,Wardley Maps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/Prague-Mapping-Meetup,Prague,https://github.com/wardley-maps-community/awesome-wardley-maps#readme,Wardley Maps error: <HTTPError 404: 'Not Found'> | reason: Not Found

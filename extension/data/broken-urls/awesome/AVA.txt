@@ -1,2 +1,1 @@
-https://spectrum.chat/ava,Spectrum,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://avacasts.com,AVA Casts,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://silvenon.com/testing-react-and-redux/,Testing a React & Redux Codebase,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

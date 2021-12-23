@@ -1,2 +1,3 @@
+https://visualregressiontesting.com/,visualregressiontesting.com,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.drupal.org/project/qd_screenshottests,qd_screenshottests,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://axcept.io,Axcept,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda,Visual regression testing using Jest, Chromeless and AWS Lambda,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,81 +1,41 @@
-https://www.versionsapp.com/,Versions,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.timelane.tools,Timelane,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://apps.apple.com/us/app/journey-diary-journal/id1265425422?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://pixelperfect-app.com/,Pixel Perfect,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.notion.so/Tomato-2-967a0a6484c64162a026d1f48cad18dc,Tomato 2,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/mamburu/cog/,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.eisbahn.jp/chrome_mysql_admin,Chrome MySQL Admin,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
+https://itunes.apple.com/app/loremify/id1028877632,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://arguiot.com/Chirper/,Chirper,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/us/app/dashlane-password-manager/id552383089,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/us/app/pixel-perfect/id916097243,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.lmms.io,LMMS,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lmms.io'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lmms.io'. (_ssl.c:1123)
 http://www.tayasui.com/sketches/,Tayasui Sketches,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Temporary Redirect
-http://vanilla.matthewpalmer.net,Vanilla,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('timed out') | reason: 
-https://buttercup.pw/,Buttercup,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-https://bitbucket.org/kosovan/theunarchiver,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://apps.apple.com/us/app/journey-diary-journal/id1265425422?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-https://itunes.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-https://iconset.io,Iconset,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://magnet.crowdcafe.com/,Magnet,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.slant.co,Slant,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.thecanoesoft.com/clearview/,Clearview,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.zeplin.io/,zeplin,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://nssurge.com/,Surge,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://geticonjar.com/,Iconjar,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.quora.com/,Quora,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.amazon.com/l/16571048011,Kindle App,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://itunes.apple.com/us/app/id441258766,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://appersian.net/,IconKit,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://appshopper.com/,http://appshopper.com/,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://apps.apple.com/by/app/nib-unlocker/id1475697086,Nib Unlocker,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://manytricks.com/moom/,Moom,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://klib.me/,Klib,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.tinc-vpn.org,tinc,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://itunes.apple.com/app/iconkit-icon-resizer-for-app/id507135296,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://apps.apple.com/by/app/nib-unlocker/id1475697086?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.macstories.net/,MacStories,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://rectangleapp.com,Rectangle,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://krillapps.com/patterns/,Patterns,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.img2icnsapp.com,Image2icon,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.irradiatedsoftware.com/sizeup/,SizeUp,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://motionobj.com/regex/,Regex,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://pngmini.com/,ImageAlpha,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.airserver.com/Download,AirServer,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://khrykin.github.io/strategr/,Strategr,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://www.prosofteng.com/datarescue-mac-data-recovery/,Data Rescue,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://tryshift.com/,Shift,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://fastonosql.com/,FastoNoSQL,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://itunes.apple.com/app/spectrum/id518156125?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://codinn.com/products/ssh-tunnel/,SSH Tunnel,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-http://electron.atom.io,Electron,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://www.jetbrains.com/toolbox/,JetBrains Toolbox App,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-http://numi.io/,Numi,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-http://www.freedownloadmanager.org/,Free Download Manager,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://macsvg.org/,macSVG,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://www.mpv.io/,mpv,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-http://readkitapp.com/,ReadKit,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://icmd.app,iCMD,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://720kb.github.io/ndm/,ndm,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://fastoredis.com/,FastoRedis,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://www.foxmail.com/mac/en,Foxmail,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://getlightpaper.com/,LightPaper,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://vivaldi.com/source,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://objective-see.com/products/lockdown.html,LockDown,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
-https://protonail.com,Keylord,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://apps.apple.com/app/gitfox/id1475511261,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://apps.apple.com/us/app/id1469774098,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://itunes.apple.com/app/hex-fiend/id1342896380,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://apps.apple.com/app/id1502527999,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://itunes.apple.com/us/app/amphetamine/id937984704,Amphetamine,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://itunes.apple.com/us/app/dashlane-password-manager/id552383089,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://itunes.apple.com/app/id1287445660?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-http://postgresapp.com/,Postgres.app,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-http://tmkk.undo.jp/xld/index_e.html,XLD,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
-https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-http://pasteapp.me,Paste,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://apps.apple.com/us/app/1440/id1483764819,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-https://itunes.apple.com/us/app/ohmystar2/id1218642292,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 301: 'Moved Permanently'> | reason: Moved Permanently
-https://coffeeboo.itch.io/sweeper,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.noodlesoft.com,Hazel,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+http://www.controlplaneapp.com/,ControlPlane,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 410: 'Gone'> | reason: Gone
+https://coolantformac.com,Coolant,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://mindnode.com/,MindNode,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://getcleanshot.com/,CleanShot,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.noodlesoft.com,Hazel,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
+https://itunes.apple.com/us/app/better-rename-9/id414209656,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.carbonite.com/learn/how-to-backup-mac/,Carbonite,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://pasteapp.me,Paste,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.slant.co,Slant,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://raycast.com,Raycast,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 https://itunes.apple.com/app/cellist/id897814548,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/app/spectrum/id518156125?mt=12,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/app/jpegmini-lite/id525742250,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.hewbo.com/chm-reader.html,CHM Reader,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://app.prntscr.com/,Lightshot,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://chocolatapp.com/,Chocolat,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+https://apps.apple.com/us/app/1440/id1483764819,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://joplin.cozic.net/,Joplin,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'joplin.cozic.net'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'joplin.cozic.net'. (_ssl.c:1123)
+https://coffeeboo.itch.io/sweeper,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://motionobj.com/regex/,Regex,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
+https://www.presetbrewery.com,Preset Brewery,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://itunes.apple.com/app/id1207744923,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bitbucket.org/kosovan/theunarchiver,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://apps.apple.com/us/app/vectornator-design-software/id1219074514,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: timeout('The read operation timed out') | reason: 
+https://smallcubed.com/mt/,MailTags,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://hummingbirdapp.site/,Hummingbird,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://bitbucket.org/mamburu/cog/,,https://github.com/jaywcjlove/awesome-mac#readme,Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found

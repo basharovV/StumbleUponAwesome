@@ -1,1 +1,2 @@
 https://bitbucket.org/Marc-T/undrop-for-innodb,UnDROP,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://flywaydb.org/getstarted/,Flywaydb,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL error: <HTTPError 404: 'Not Found'> | reason: Not Found

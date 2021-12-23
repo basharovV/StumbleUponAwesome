@@ -1,0 +1,5 @@
+http://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling,Basic Rules Of Cassandra Data Modeling,https://github.com/Anant/awesome-cassandra#readme,Cassandra error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.datastax.com/dev/blog/tuning-dse-search,Tuning DSE Search,https://github.com/Anant/awesome-cassandra#readme,Cassandra error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://kairosdb.github.io/docs/build/html/CassandraSchema.html,Cassandra Schema — KairosDB 1.0.1 documentation,https://github.com/Anant/awesome-cassandra#readme,Cassandra error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.datastax.com/what-we-offer/products-services/datastax-opscenter,DataStax OpsCenter,https://github.com/Anant/awesome-cassandra#readme,Cassandra error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://www.datastax.com/relational-database-to-nosql,RDBMS to NoSQL,https://github.com/Anant/awesome-cassandra#readme,Cassandra error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

@@ -3,17 +3,17 @@ https://mattdesl.svbtle.com/browserify-vs-webpack,Browserify vs. Webpack,https:/
 http://webchat.freenode.net/?channels=browserify,IRC,https://github.com/browserify/awesome-browserify#readme,Browserify
 http://stackoverflow.com/questions/tagged/browserify,StackOverflow,https://github.com/browserify/awesome-browserify#readme,Browserify
 http://requirebin.com/?gist=maxogden/9576799,Canvas Splitter,https://github.com/browserify/awesome-browserify#readme,Browserify
+https://ponyfoo.com/articles/a-gentle-browserify-walkthrough,A Gentle Browserify Walkthrough,https://github.com/browserify/awesome-browserify#readme,Browserify
+http://zhaoda.net/2015/10/16/browserify-guide/,Browserify guide,https://github.com/browserify/awesome-browserify#readme,Browserify
 http://requirebin.com/?gist=maxogden/9557700,Infinite 2D Cave Generator,https://github.com/browserify/awesome-browserify#readme,Browserify
+http://dontkry.com/posts/code/using-npm-on-the-client-side.html,Using npm on the client side,https://github.com/browserify/awesome-browserify#readme,Browserify
 http://requirebin.com/?gist=maxogden/9557776,2D Velocity Control,https://github.com/browserify/awesome-browserify#readme,Browserify
 https://www.youtube.com/watch?v=DCQNm6yiZh0,James Halliday (substack) - LXJS 2013 - Modularidade para todos,https://github.com/browserify/awesome-browserify#readme,Browserify
+http://benclinkinbeard.com/posts/how-browserify-works/,How Browserify Works,https://github.com/browserify/awesome-browserify#readme,Browserify
 https://www.youtube.com/watch?v=CTAa8IcQh1U,Getting Started with Browserify,https://github.com/browserify/awesome-browserify#readme,Browserify
 https://www.youtube.com/watch?v=Uk2bgp8OLT8,Transform your Bundles with Browserify,https://github.com/browserify/awesome-browserify#readme,Browserify
 http://requirebin.com/,requirebin,https://github.com/browserify/awesome-browserify#readme,Browserify
 https://wzrd.in/,wzrd.in,https://github.com/browserify/awesome-browserify#readme,Browserify
 https://spdx.org/licenses/CC0-1.0.html,CC0-1.0,https://github.com/browserify/awesome-browserify#readme,Browserify
-http://zhaoda.net/2015/10/16/browserify-guide/,Browserify guide,https://github.com/browserify/awesome-browserify#readme,Browserify
-https://writingjavascript.org/posts/introduction-to-browserify,Introduction to Browserify,https://github.com/browserify/awesome-browserify#readme,Browserify
-http://dontkry.com/posts/code/using-npm-on-the-client-side.html,Using npm on the client side,https://github.com/browserify/awesome-browserify#readme,Browserify
-http://benclinkinbeard.com/posts/how-browserify-works/,How Browserify Works,https://github.com/browserify/awesome-browserify#readme,Browserify
 https://www.viget.com/articles/gulp-browserify-starter-faq,Gulp + Browserify: The Everything Post,https://github.com/browserify/awesome-browserify#readme,Browserify
 http://www.forbeslindesay.co.uk/post/44144487088/browserify-vs-component,Browserify vs Component,https://github.com/browserify/awesome-browserify#readme,Browserify

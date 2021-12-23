@@ -1,0 +1,55 @@
+https://en.wikipedia.org/wiki/Translation,t9n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://pofile.net/free-po-editor,PO file editor,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://en.wikipedia.org/wiki/Language_localisation,l10n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://pypi.org/project/python-i18n/,Python-i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.w3.org/International/questions/qa-i18n,W3C,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://speakingoftranslation.com/,Speaking of Translation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.electronjs.org/apps/i18n-manager,Electronjs i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://store.crowdin.com/products/crowdin-proxy-translator,Jsproxy for Crowdin,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://omegat.org/,OmegaT,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en,Basil Hatim,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://crowdin.com/,Crowdin,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://momentjs.com/,Moment.js,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.i18next.com/,I18next,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://flutter.dev/docs/development/accessibility-and-localization/internationalization,Flutter i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://react.i18next.com/,react-i18next,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://en.wikipedia.org/wiki/Computer-assisted_translation,Computer-assisted translation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://gitlocalize.com/,GitLocalize,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://wpml.org/,WPML,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n,MDN i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://angular.io/guide/i18n,Angular and i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.localeapp.com/,LocaleApp,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.debian.org/doc/manuals/debian-reference/ch08.en.html,Debian manuals,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.transifex.com/,Transifex,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://weblate.org/,Weblate,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://developer.chrome.com/webstore/i18n,Developer Chrome i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+http://zanata.org/,Zanata,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf,Software Globalization, Berkeley.edu - slides,https://github.com/mbiesiad/awesome-translations#readme,Translations
+http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf,Approaches to Machine Translation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.npmjs.com/package/i18n,npm i18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://simplelocalize.io,SimpleLocalize,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference,Stack Overflow Q&A-1,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does,Stack Overflow Q&A-2,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://respresso.io/,Respresso,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://guides.rubyonrails.org/i18n.html,Ruby I18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://jair.org/index.php/jair/article/view/12007/26611,Neural Machine Translation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://simplelocalize.io/blog/posts/what-is-hreflang/,What is 'hreflang'?,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://quasar.dev/options/app-internationalization,Quasar I18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://kazupon.github.io/vue-i18n/,Vue I18n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/,In context translation with Respresso,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://speakt.com/blog/,Speakt,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.lexico.com/,Lexico,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://lingocode.com/translation-blog/,The Translator's Teacup,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday,Jeremy Munday,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://crowdsource.google.com/,Google Crowdsource,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://localizejs.com/,Localizejs,https://github.com/mbiesiad/awesome-translations#readme,Translations
+http://kv-emptypages.blogspot.com/,eMpTy Pages,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.localizationlab.org/,LocalizationLab,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://pontoon.mozilla.org/,Pontoon,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization,UWashingtonX's I18n and l10n,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.coursera.org/learn/grammar-punctuation,Basic English Grammar and punctuation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.coursera.org/specializations/intermediate-grammar,Intermediate English Grammar and punctuation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.coursera.org/specializations/natural-language-processing,Natural Language Processing,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.coursera.org/learn/machinetranslation,Machine Translation,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://en.wikipedia.org/wiki/Philipp_Koehn,Philipp Koehn,https://github.com/mbiesiad/awesome-translations#readme,Translations
+https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8,Translation: An advanced resource book for students,https://github.com/mbiesiad/awesome-translations#readme,Translations

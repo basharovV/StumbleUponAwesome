@@ -1,2 +1,2 @@
-https://datree.io/blog/top-10-github-best-practices/,Best Practices List,https://github.com/tiimgreen/github-cheat-sheet#readme,Cheat Sheet error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://docs.travis-ci.com/user/getting-started/,get started with Travis CI,https://github.com/tiimgreen/github-cheat-sheet#readme,Cheat Sheet error: <HTTPError 308: 'Unknown'> | reason: Unknown
+http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets,Git and GitHub Secrets,https://github.com/tiimgreen/github-cheat-sheet#readme,Cheat Sheet error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://docs.travis-ci.com/user/getting-started/,get started with Travis CI,https://github.com/tiimgreen/github-cheat-sheet#readme,Cheat Sheet error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

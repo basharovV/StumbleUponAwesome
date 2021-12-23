@@ -1,8 +1,8 @@
 https://wp-cli.org/,,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
-https://make.wordpress.org/cli/handbook/,WP-CLI handbook,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
 https://pascalbirchler.com/an-introduction-to-wp-cli/,An Introduction to WP-CLI,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
-https://developer.wordpress.org/cli/commands/,WP-CLI command reference,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
+https://make.wordpress.org/cli/handbook/,WP-CLI handbook,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
 https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/,Controlling WordPress through the Command Line,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
+https://developer.wordpress.org/cli/commands/,WP-CLI command reference,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
 https://guides.wp-bullet.com/category/wp-cli/,WP Bullet WP-CLI Guides,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
 https://www.youtube.com/watch?v=DlxbRYpZdQg,Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI
 https://make.wordpress.org/cli/,Make WordPress.org - CLI,https://github.com/schlessera/awesome-wp-cli#readme,WP-CLI

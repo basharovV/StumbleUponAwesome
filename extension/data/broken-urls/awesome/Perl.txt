@@ -1,3 +1,5 @@
+https://metacpan.org/IO::Socket::SSL::Intercept,IO::Socket::SSL::Intercept,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://metacpan.org/pod/XML::Compile::WSDL,XML::Compile::WSDL,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://metacpan.org/pod/LWP::UserAgent,LWP::UserAgent,https://github.com/hachiojipm/awesome-perl#readme,Perl error: timeout('The read operation timed out') | reason: 
 https://metacpan.org/pod/Net::DHCP,Net::DHCP,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://metacpan.org/pod/Gearman,Gearman,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://metacpan.org/pod/XML::Compile::WSDL,XML::Compile::WSDL,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found

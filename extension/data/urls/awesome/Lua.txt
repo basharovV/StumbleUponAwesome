@@ -1,70 +1,70 @@
-http://www.lua.org/download.html,Lua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://luakit.github.io/luakit/,luakit,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://develephant.github.io/coronium-core-docs/,Coronium,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://sites.google.com/site/marbux/home/where-lua-is-used,Where Lua is Used,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://luajit.org/luajit.html,LuaJIT,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://25thandclement.com/~william/projects/lunix.html,lunix,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://lua-users.org/,lua-users.org,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://lua-users.org/wiki/LuaTutorial,lua-users tutorial,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.hammerspoon.org,Hammerspoon,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://vrld.github.io/hump/,HUMP,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://worp.zevv.nl/about.html,Worp,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://leafo.net/lapis/,Lapis,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://luaconf.com/,Lua Conf,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.lua.org/manual/5.3/,Reference Manual,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.mjolnir.io/,Mjolnir,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://25thandclement.com/~william/projects/cqueues.html,cqueues,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://lua-users.org/wiki/,lua-users wiki,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://leafo.net/posts/creating_an_image_server.html,Creating an Image Server,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://fengari.io/,Fengari,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://lumail.org/,lumail,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://debian-administration.org/article/264/Embedding_a_scripting_language_inside_your_C/C_code,Embedding Lua in C,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.luafaq.org/,Lua Unofficial FAQ,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/,lhf's Lua Tools,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://awesomewm.org/,AwesomeWM,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://luarocks.org/,LuaRocks,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://moaifiddle.com,moaifiddle,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts,Lua: Good, bad, and ugly parts,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.inf.puc-rio.br/~roberto/docs/ry08-05.pdf,the paper,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://dkolf.de/src/dkjson-lua.fsl/home,dkjson,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://rawgit.com/dlaurie/lua-notes/master/glossary.html,Lua 5.3 Glossary,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://vrld.github.io/HardonCollider/,HardonCollider,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://lua-users.org/wiki/LuaStyleGuide,Lua-users style guide,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_For_Windows/lanes/comparison.html,comparison,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://en.wikipedia.org/wiki/Mari0,wikipedia entry,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://matthewwild.co.uk/projects/luaexpat/,LuaExpat,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://en.wikipedia.org/wiki/Digital_Estate_Planning,Digital Estate Planning,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://olivinelabs.com/lustache/,lustache,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://foicica.com/textadept/,Textadept,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.inf.puc-rio.br/~roberto/lpeg/,LPeg,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.coppeliarobotics.com/helpFiles/en/luaCrashCourse.htm,Lua Crash Course,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://stevedonovan.github.io/ldoc/,LDoc,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://keplerproject.github.io/luasql/,LuaSQL,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://moonscript.org/,MoonScript,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://keplerproject.github.io/luadoc/,LuaDoc,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://eclipse.org/ldt/,Lua Development Tools,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://luarocks.org/modules/luarocks/luasyslog,luasyslog,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://olivinelabs.com/busted/,busted,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 http://luajit.org/ext_ffi.html,LuaJIT FFI,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://rgieseke.github.io/locco/,Locco,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://tylerneylon.com/a/learn-lua/,Learn Lua in 15 Minutes,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.lua.org/gems/,Programming Gems,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.lua.org/download.html,Lua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.lua.org/lua-l.html,lua-l,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://drystal.github.io/,Drystal,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 http://ashkenas.com/docco/,Docco,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://luajit.org/luajit.html,LuaJIT,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://en.wikibooks.org/wiki/Lua_Programming,Lua Programming,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 http://keplerproject.github.io/luacov/,luacov,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 http://keplerproject.github.io/luafilesystem/,LuaFileSystem,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://openresty.org/en/,OpenResty,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://leafo.net/sitegen/,sitegen,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://phrogz.net/lua/LearningLua_FromJS.html,Learning Lua from JS,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.lua.org/lua-l.html,lua-l,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://archive.codeplex.com/?p=babelua,BabeLua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.inf.puc-rio.br/~roberto/talks/index.html,Roberto's Talks,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://tylerneylon.com/a/learn-lua/,Learn Lua in 15 Minutes,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://luakit.github.io/luakit/,luakit,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 https://turbo.readthedocs.io/en/latest/,turbo,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.lua.org/pil/,Programming in Lua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 http://lua.space/,Lua.Space,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://www.nginx.com/resources/wiki/modules/lua/,ngx_lua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://luarocks.org/modules/siffiejoe/compat53,compat53,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://love2d.org/,LÖVE 2D,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://foicica.com/lua/,Lua Quick Reference,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-http://www.lua.org/gems/,Programming Gems,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://drystal.github.io/,Drystal,https://github.com/LewisJEllis/awesome-lua#readme,Lua
-https://en.wikibooks.org/wiki/Lua_Programming,Lua Programming,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.hammerspoon.org,Hammerspoon,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://25thandclement.com/~william/projects/lunix.html,lunix,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://phrogz.net/lua/LearningLua_FromJS.html,Learning Lua from JS,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://sites.google.com/site/marbux/home/where-lua-is-used,Where Lua is Used,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://lua-users.org/,lua-users.org,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://fengari.io/,Fengari,https://github.com/LewisJEllis/awesome-lua#readme,Lua
 https://lovr.org,LÖVR,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://worp.zevv.nl/about.html,Worp,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://lua-users.org/wiki/LuaTutorial,lua-users tutorial,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.mjolnir.io/,Mjolnir,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://www.nginx.com/resources/wiki/modules/lua/,ngx_lua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://luaconf.com/,Lua Conf,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://develephant.github.io/coronium-core-docs/,Coronium,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.lua.org/manual/5.3/,Reference Manual,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://vrld.github.io/hump/,HUMP,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://lua-users.org/wiki/,lua-users wiki,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://leafo.net/posts/creating_an_image_server.html,Creating an Image Server,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://leafo.net/lapis/,Lapis,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://luarocks.org/,LuaRocks,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/,lhf's Lua Tools,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://awesomewm.org/,AwesomeWM,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://25thandclement.com/~william/projects/cqueues.html,cqueues,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://dkolf.de/src/dkjson-lua.fsl/home,dkjson,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.luafaq.org/,Lua Unofficial FAQ,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://matthewwild.co.uk/projects/luaexpat/,LuaExpat,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://debian-administration.org/article/264/Embedding_a_scripting_language_inside_your_C/C_code,Embedding Lua in C,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://rawgit.com/dlaurie/lua-notes/master/glossary.html,Lua 5.3 Glossary,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://foicica.com/textadept/,Textadept,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts,Lua: Good, bad, and ugly parts,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://lua-users.org/wiki/LuaStyleGuide,Lua-users style guide,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://eclipse.org/ldt/,Lua Development Tools,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.inf.puc-rio.br/~roberto/lpeg/,LPeg,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.inf.puc-rio.br/~roberto/docs/ry08-05.pdf,the paper,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.coppeliarobotics.com/helpFiles/en/luaCrashCourse.htm,Lua Crash Course,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://moonscript.org/,MoonScript,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://keplerproject.github.io/luasql/,LuaSQL,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_For_Windows/lanes/comparison.html,comparison,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.inf.puc-rio.br/~roberto/talks/index.html,Roberto's Talks,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://olivinelabs.com/busted/,busted,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://olivinelabs.com/lustache/,lustache,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://moaifiddle.com,moaifiddle,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://www.lua.org/pil/,Programming in Lua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://stevedonovan.github.io/ldoc/,LDoc,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://leafo.net/sitegen/,sitegen,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://vrld.github.io/HardonCollider/,HardonCollider,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://keplerproject.github.io/luadoc/,LuaDoc,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://en.wikipedia.org/wiki/Mari0,wikipedia entry,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://archive.codeplex.com/?p=babelua,BabeLua,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://rgieseke.github.io/locco/,Locco,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://en.wikipedia.org/wiki/Digital_Estate_Planning,Digital Estate Planning,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://foicica.com/lua/,Lua Quick Reference,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://luarocks.org/modules/siffiejoe/compat53,compat53,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://luarocks.org/modules/luarocks/luasyslog,luasyslog,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://love2d.org/,LÖVE 2D,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+https://coronalabs.com/,Corona SDK,https://github.com/LewisJEllis/awesome-lua#readme,Lua
+http://openresty.org/en/,OpenResty,https://github.com/LewisJEllis/awesome-lua#readme,Lua

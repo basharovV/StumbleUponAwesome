@@ -1,62 +1,60 @@
-http://ocw.mit.edu/courses/economics/,MIT OCW Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://economistsview.typepad.com/,Economist's View,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://nber.org/papers.html,NBER,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.wolfram.com/mathematica/,Mathematica,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.edx.org/course/subject/economics-finance,edX Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://logd.tw.rpi.edu//node/9903,International Open Government Dataset Search,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://www.sagemath.org/,Sage,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://ocw.mit.edu/courses/economics/,MIT OCW Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://delong.typepad.com/,Grasping Reality,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists,Most common programs used by Economists,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://nber.org/papers.html,NBER,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://www.aeaweb.org/joe/,Job Openings for Economists,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://ssrn.com/en/index.cfm/ern/,SSRN Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists,Most common programs used by Economists,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.edx.org/course/subject/economics-finance,edX Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://www.lyx.org/,LyX,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://marginalrevolution.com/,Marginal Revolution,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://scholar.google.com/,Google Scholar,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://antontarasenko.com/2016/01/14/software-for-research/,Software for Researchers: New Data and Applications,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.zotero.org/,Zotero,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://git-scm.com/downloads,Git,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://www.voxeu.org/,VOX CEPR,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project,How to efficiently manage a statistical analysis project?,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://research.stlouisfed.org/fred2/,FRED2,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://rogerdudler.github.io/git-guide/,short intro,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa,Economics Blog Search,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://ideas.repec.org/top/top.person.all.html,Top Authors,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://www.voxeu.org/,VOX CEPR,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://scholar.google.com/,Google Scholar,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://web.archive.org/web/20140815054106/http://logd.tw.rpi.edu/node/9903,like this,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://www.econjobrumors.com/wiki.php,Economics Job Market Rumors,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://ideas.repec.org/top/top.inst.nbcites.html,Economic Institutions,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.aeaweb.org/rfe/showCat.php?cat_id=96,AEA Blog Directory,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://data.worldbank.org/,World Bank Data,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://devecondata.blogspot.com/,Deveconodata Blogspot,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://ideas.repec.org/top/top.item.nbcites.html,Research Items,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.khanacademy.org/economics-finance-domain,Khan Academy: Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m,Dataset Search Engine,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://economics.stackexchange.com/,StackExchange Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa,Economics Blog Search,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://www.stata.com/,Stata,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://economics-games.com/,Economics Games,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://www.googleguide.com/advanced_operators_reference.html,search operators,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://ipython.org/,IPython,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://cse.google.com/cse/publicurl?cx=002720237717066476899:e55ib8o11ka,Academic Search,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://logec.repec.org/scripts/itemstat.pf?type=redif-software,Software Items,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://opendata.stackexchange.com/,StackExchange Open Data,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.reddit.com/r/GoodEconomics/,/r/GoodEconomics/,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics,Foundational Equations of Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m,Dataset Search Engine,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://www.rstudio.com/,RStudio,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://lectures.quantecon.org/py/index.html,Quantitative Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://www.igmchicago.org/igm-economic-experts-panel,IGM Economic Experts Panel,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://econacademics.org/,EconAcademics.org,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://www.googleguide.com/advanced_operators_reference.html,search operators,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.aeaweb.org/rfe/showCat.php?cat_id=96,AEA Blog Directory,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://www.mathworks.com/products/matlab/,Matlab,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.reddit.com/r/datasets,Reddit /r/datasets,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://opendata.stackexchange.com/,StackExchange Open Data,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://economics.stackexchange.com/,StackExchange Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://www.econjobrumors.com/wiki.php,Economics Job Market Rumors,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://www.gnu.org/software/octave/,Octave,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.latex-project.org/,LaTeX,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://devecondata.blogspot.com/,Deveconodata Blogspot,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.reddit.com/r/GoodEconomics/,/r/GoodEconomics/,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.reddit.com/r/datasets,Reddit /r/datasets,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://julialang.org/,Julia,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://rfe.org/,AEA Resources for Economists,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://www.ctan.org/pkg/beamer?lang=en,Beamer,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://economics-games.com/,Economics Games,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://www.reddit.com/r/EconPapers/,/r/EconPapers/,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.latex-project.org/,LaTeX,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.wolfram.com/mathematica/,Mathematica,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://discord.gg/n9V7hjNtPV,Academic Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.ctan.org/pkg/beamer?lang=en,Beamer,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://www.khanacademy.org/economics-finance-domain,Khan Academy: Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://research.stlouisfed.org/fred2/,FRED2,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project,How to efficiently manage a statistical analysis project?,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://cse.google.com/cse/publicurl?cx=002720237717066476899:e55ib8o11ka,Academic Search,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://www.texample.net/tikz/examples/,TikZ,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf,manual,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics,Foundational Equations of Economics,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://data.worldbank.org/,World Bank Data,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://ideas.repec.org/top/top.person.all.html,Top Authors,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://www.igmchicago.org/igm-economic-experts-panel,IGM Economic Experts Panel,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://ideas.repec.org/top/top.inst.nbcites.html,Economic Institutions,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://rfe.org/,AEA Resources for Economists,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://ideas.repec.org/top/top.item.nbcites.html,Research Items,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://repec.org/,RePEc,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://www.intelligenteconomist.com/top-economics-blogs-2016/,Top 100 Economics Blogs,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://logec.repec.org/scripts/itemstat.pf?type=redif-software,Software Items,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://research.stlouisfed.org/resources.html,Federal Reserve Bank of St. Louis: Web Services,https://github.com/antontarasenko/awesome-economics#readme,Economics
-http://www.shanghairanking.com/SubjectEcoBus2015.html,Academic Ranking of World Universities in Economics / Business,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://ideas.repec.org/,IDEAS RePEc,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://econacademics.org/,EconAcademics.org,https://github.com/antontarasenko/awesome-economics#readme,Economics
+http://economistsview.typepad.com/,Economist's View,https://github.com/antontarasenko/awesome-economics#readme,Economics
 https://www.quandl.com/,Quandl,https://github.com/antontarasenko/awesome-economics#readme,Economics
-https://sites.google.com/site/davesmant/various/data-sets-sources,Monetary Economics: Data Sources,https://github.com/antontarasenko/awesome-economics#readme,Economics
+https://sites.google.com/site/medevecon/devecondata,MEDevEcon,https://github.com/antontarasenko/awesome-economics#readme,Economics
 http://www.offstats.auckland.ac.nz/,OFFSTATS,https://github.com/antontarasenko/awesome-economics#readme,Economics

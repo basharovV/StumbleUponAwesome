@@ -1,0 +1,1 @@
+https://v-wasm.now.sh/,V Playground,https://github.com/vlang/awesome-v#readme,V error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

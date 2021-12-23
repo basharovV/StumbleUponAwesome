@@ -1,13 +1,15 @@
-http://m.me/J.A.R.V.I.S.on.Messenger,http://m.me/J.A.R.V.I.S.on.Messenger,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 https://kentcdodds.com/blog/first-timers-only,First Timers Only,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
-https://meta.discourse.org/tags/starter-task,Discourse,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://gitlab.com/purelb/purelb/-/issues?label_name%5B%5D=GoodFirstIssue,PureLB,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://www.drupal.org/getting-involved-guide,Drupal,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 https://devdocs.jabref.org/getting-into-the-code/development-strategy,Dedicated to code quality and constructive feedback,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+http://m.me/J.A.R.V.I.S.on.Messenger,http://m.me/J.A.R.V.I.S.on.Messenger,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding,XWiki,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
-https://meta.discourse.org/t/how-to-contribute-to-discourse/53797,"How to contribute to Discourse",https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 http://xwiki.org,XWiki,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://meta.discourse.org/tags/starter-task,Discourse,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 http://dev.xwiki.org/xwiki/bin/view/Onboarding/,onboarding wiki,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
-https://prestosql.io/slack.html,project's Slack,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://meta.discourse.org/t/how-to-contribute-to-discourse/53797,"How to contribute to Discourse",https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://trino.io/slack.html,project's Slack,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://gitlab.com/veloren/veloren/-/issues?label_name%5B%5D=beginner,Veloren,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 http://kinto.readthedocs.org/,Kinto API,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 https://sirix.io,SirixDB,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
 https://habitica.fandom.com/wiki/Guidance_for_Blacksmiths,Guidance for contributing here,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
-https://www.drupal.org/getting-involved-guide,Drupal,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects

@@ -1,19 +1,25 @@
 https://en.wikipedia.org/wiki/.NET_Compiler_Platform,.NET Compiler Platform,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+http://www.omnisharp.net/,OmniSharp,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98,How Microsoft rewrote its C# compiler in C# and made it open source,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://roslynpad.net/,RoslynPad,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+http://scriptcs.net/,scriptcs,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://www.syncfusion.com/ebooks/roslyn,Roslyn Succinctly,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/,Persistence, Facades and Roslyn's Red-Green Trees,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 http://sharpen.rocks,Sharpen,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://www.apress.com/la/book/9781484221105,.NET Development Using the Compiler API,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://sharplab.io/,SharpLab,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://csharpcodingguidelines.com/,https://csharpcodingguidelines.com/,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://robinsedlaczek.com/2015/04/29/inside-the-net-compiler-platform-performance-considerations-during-syntax-analysis-speakroslyn/,Inside the .NET Compiler Platform – Performance Considerations during Syntax Analysis (#SpeakRoslyn),https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://www.packtpub.com/application-development/roslyn-cookbook,Roslyn Cookbook,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://joshvarty.com/learn-roslyn-now/,Learn Roslyn Now,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/,Persistence, Facades and Roslyn's Red-Green Trees,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://msdn.microsoft.com/en-us/magazine/dn879356.aspx,C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://msdn.microsoft.com/en-us/magazine/dn904670.aspx,C# - Adding a Code Fix to Your Roslyn Analyzer,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/,ReSharper and Roslyn: Q&A,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-http://www.omnisharp.net/,OmniSharp,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-https://roslynpad.net/,RoslynPad,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
-http://scriptcs.net/,scriptcs,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://automapper.org/,AutoMapper,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://blogs.msdn.microsoft.com/csharpfaq/2014/01/15/roslyn-performance-matt-gertz/,Roslyn performance (Matt Gertz),https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://www.packtpub.com/application-development/roslyn-cookbook,Roslyn Cookbook,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 https://www.youtube.com/watch?v=nXljhGDokqA,The Power of Roslyn,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://joshvarty.com/learn-roslyn-now/,Learn Roslyn Now,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://msdn.microsoft.com/en-us/magazine/dn879356.aspx,C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
 http://creativecommons.org/publicdomain/zero/1.0,,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/,app-trimming,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://msdn.microsoft.com/en-us/magazine/dn904670.aspx,C# - Adding a Code Fix to Your Roslyn Analyzer,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/,strongly typed wrappers around primitive types,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/,Introducing C# Source Generators,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://devblogs.microsoft.com/dotnet/new-c-source-generator-samples/,New C# Source Generator Samples,https://github.com/ironcev/awesome-roslyn#readme,Roslyn
+https://mustache.github.io/,Mustache,https://github.com/ironcev/awesome-roslyn#readme,Roslyn

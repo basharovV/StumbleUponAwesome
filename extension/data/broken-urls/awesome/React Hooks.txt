@@ -1,1 +1,2 @@
+https://egghead.io/playlists/react-hooks-and-suspense-650307f2,React Hooks and Suspense,https://github.com/glauberfc/awesome-react-hooks#readme,React Hooks error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 https://codesandbox.io/s/m449vyk65x,Toggle component,https://github.com/glauberfc/awesome-react-hooks#readme,React Hooks error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,2 @@
+https://azure.microsoft.com/en-us/services/functions/,Azure Functions,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://azure.microsoft.com/en-us/services/app-service/,Microsoft Azure App Service,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

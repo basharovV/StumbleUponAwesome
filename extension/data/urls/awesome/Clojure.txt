@@ -1,38 +1,35 @@
-https://probprog.github.io/anglican/,Anglican,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://www.clojure-toolbox.com/,The Clojure Toolbox,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://www.http-kit.org/,http-kit,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://clojuremongodb.info/,Mongo,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://nakkaya.com/vision.html,vision,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://sekao.net/nightcode/,Nightcode (IDE),https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://baumandm.github.io/monglorious/,Monglorious,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://www.braveclojure.com/,Clojure for the Brave and True,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://web.clojurerepl.com/,InstaREPL Online,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.maria.cloud/,Maria.cloud (Online IDE for beginners),https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://clojureelasticsearch.info/,Elastisch,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://cursive-ide.com/,Cursive (IntelliJ),https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://clojureneo4j.info/,Neo4j,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://aphyr.com/tags/Clojure-from-the-ground-up,Clojure from the ground up,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://clojure.zeef.com/vlad.bokov,ZEEF/Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://shaunlebron.github.io/parinfer/,Parinfer (multiple editors),https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://precursorapp.com/,Precursor (Online prototyping tool),https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://kimh.github.io/clojure-by-example/,Clojure by Example,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://lacinia.readthedocs.io/en/latest/,Lacinia,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://hoplon.io/,Hoplon,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.youtube.com/user/Misophistful/videos,Misophistful's channel,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://clojurekoans.com,Clojure Koans,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure,Fred Overflow's channel,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://coastonclojure.com/,Coast,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://www.4clojure.com/,4clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos,Clojure Pills screencast,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://gorilla-repl.org/,Gorilla REPL,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.tadam-framework.dev/,Tadam,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://yogthos.github.io/ClojureDistilled.html,Clojure Distilled,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists,Data persistance with Postgres, Clojure and JDBC,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://exercism.io/languages/clojure,exercism.io,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html,A Brief Beginner's Guide To Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos,Clojure Tutorials by Timothy Baldridge,https://github.com/razum2um/awesome-clojure#readme,Clojure
-http://overtone.github.io/,Overtone,https://github.com/razum2um/awesome-clojure#readme,Clojure
 http://clojure.org/,Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://clojurecademy.com,Clojurecademy,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://penpot.app/,Penpot,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://clojureelasticsearch.info/,Elastisch,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://yogthos.github.io/ClojureDistilled.html,Clojure Distilled,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://lighttable.com/,LightTable (IDE),https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://clojureneo4j.info/,neocons,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://www.clojure-toolbox.com/,The Clojure Toolbox,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html,A Brief Beginner's Guide To Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.maria.cloud/,Maria.cloud (Online IDE for beginners),https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://www.braveclojure.com/,Clojure for the Brave and True,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://clojure.zeef.com/vlad.bokov,ZEEF/Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://lacinia.readthedocs.io/en/latest/,Lacinia,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://gorilla-repl.org/,Gorilla REPL,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://clojurekoans.com,Clojure Koans,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://probprog.github.io/anglican/,Anglican,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://precursorapp.com/,Precursor (Online prototyping tool),https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://aphyr.com/tags/Clojure-from-the-ground-up,Clojure from the ground up,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://kimh.github.io/clojure-by-example/,Clojure by Example,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://hoplon.io/,Hoplon,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://nakkaya.com/vision.html,vision,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.youtube.com/user/Misophistful/videos,Misophistful's channel,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.tadam-framework.dev/,Tadam,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://clojurekatas.org,Clojure Katas,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://overtone.github.io/,Overtone,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure,Fred Overflow's channel,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://clojuremongodb.info/,Monger,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://baumandm.github.io/monglorious/,Monglorious,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos,Clojure Pills screencast,https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://exercism.io/languages/clojure,exercism.io,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists,Data persistance with Postgres, Clojure and JDBC,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos,Clojure Tutorials by Timothy Baldridge,https://github.com/razum2um/awesome-clojure#readme,Clojure
 https://www.codewars.com/kata/search/clojure,Codewars,https://github.com/razum2um/awesome-clojure#readme,Clojure
-https://crossclj.info/,crossclj,https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://atom.io/packages/proto-repl,proto-repl (Atom),https://github.com/razum2um/awesome-clojure#readme,Clojure
+http://shaunlebron.github.io/parinfer/,Parinfer (multiple editors),https://github.com/razum2um/awesome-clojure#readme,Clojure
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer,Bracket Pair Colorizer (VSCode),https://github.com/razum2um/awesome-clojure#readme,Clojure

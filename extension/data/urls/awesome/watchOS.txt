@@ -1,17 +1,15 @@
 http://www.sneakycrab.com/blog/2015/6/10/writing-your-own-watchkit-complications?utm_campaign=WatchKit%2BResources&utm_medium=web,Writing a WatchKit Complication in watchOS 2,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
+http://www.kristinathai.com/watchos-2-tutorial-using-sendmessage-for-instantaneous-data-transfer-watch-connectivity-1/?utm_campaign=WatchKit%2BResources,How to communicate between devices using Watch Connectivity,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://developer.apple.com/library/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/index.html,Apple Watch Programming Guide,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://medium.com/ios-os-x-development,iOS App Development on Medium,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://developer.apple.com/videos/wwdc/2015/?id=802,Designing for Apple Watch,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
-http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started,Bitcoin Tracker,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 http://highstreetapp.com,http://highstreetapp.com,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
-http://www.raywenderlich.com/store/watchos-2-by-tutorials,watchOS 2 by Tutorials,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
-http://www.amazon.com/gp/product/1484213394/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484213394&linkCode=as2&tag=feedingtheneu-20&linkId=PDZBCYAGPZXWHDQU,Apple Watch for Developers: Advice & Techniques from Five Top Professionals,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://developer.apple.com/watch/human-interface-guidelines/, Watch Human Interface Guidelines,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
+http://www.raywenderlich.com/store/watchos-2-by-tutorials,watchOS 2 by Tutorials,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://medium.com/design-idea/11-tips-for-designing-apps-for-apple-watch-4b6cc2cb11d3,11 Tips For Designing Apps for Apple Watch,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
-http://www.raywenderlich.com/96589/watchkit-tutorial-swift-tables-network-requests,WatchKit Tutorial with Swift Part 2: Tables and Network Requests,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
-http://www.raywenderlich.com/96741/watchkit-tutorial-with-swift-tables-glances-and-handoff,WatchKit Tutorial with Swift Part 3: More Tables, Glances and Handoff,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
+http://www.amazon.com/gp/product/1484213394/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484213394&linkCode=as2&tag=feedingtheneu-20&linkId=PDZBCYAGPZXWHDQU,Apple Watch for Developers: Advice & Techniques from Five Top Professionals,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://www.bignerdranch.com/blog/watchkit-2-hardware-bits-using-the-digital-crown/?utm_campaign=WatchKit%2BResources&utm_medium=web,WatchKit 2 Hardware Bits: Using the Digital Crown,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://www.bignerdranch.com/blog/watchkit-2-hardware-bits-the-taptic-engine/?utm_campaign=WatchKit%2BResources&utm_medium=web,WatchKit 2 Hardware Bits: The Taptic Engine,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
-https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html,WatchKit Catalog,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 https://www.bignerdranch.com/blog/watchkit-2-hardware-bits-the-accelerometer/?utm_campaign=WatchKit%2BResources&utm_medium=web,WatchKit 2 Hardware Bits: The Accelerometer,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
+https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html,WatchKit Catalog,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
 http://code.tutsplus.com/tutorials/watchos-2-the-power-of-animations--cms-24302?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_47,The Power of Animations,https://github.com/yenchenlin/awesome-watchos#readme,watchOS

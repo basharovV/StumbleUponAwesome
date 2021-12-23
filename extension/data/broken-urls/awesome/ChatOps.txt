@@ -1,1 +1,2 @@
 https://operable.io/,Cog,https://github.com/exAspArk/awesome-chatops#readme,ChatOps error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+http://www.meetup.com/ChatOps-San-Francisco/,ChatOps San Francisco,https://github.com/exAspArk/awesome-chatops#readme,ChatOps error: <HTTPError 404: 'Not Found'> | reason: Not Found

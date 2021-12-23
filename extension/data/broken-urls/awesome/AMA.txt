@@ -1,5 +1,7 @@
+http://watchmecode.com,screencaster,https://github.com/sindresorhus/amas#readme,AMA error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
 http://anthonyramella.com,blog,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://codemonkeyhealth.com,LEAF,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://M-ZUBER/AMA,Mordechai Zuber,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://nodecasts.io,Nodecasts,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://reactive.audio,Reactive Podcast,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 https://www.mashape.com,Mashape,https://github.com/sindresorhus/amas#readme,AMA error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://watchmecode.com,screencaster,https://github.com/sindresorhus/amas#readme,AMA error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://www.airbnb.com,Airbnb,https://github.com/sindresorhus/amas#readme,AMA error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

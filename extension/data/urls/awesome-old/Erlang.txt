@@ -1,9 +1,0 @@
-https://hex.pm/,hex.pm,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-https://www.rebar3.org/,rebar3.org,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-https://grisp.org/,GRiSP,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-https://erlangcentral.org/,Erlang Central,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-http://www.planeterlang.com/,Planet Erlang,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-http://spawnedshelter.com/,Spawned Shelter,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-https://leanpub.com/erlangandelixirforimperativeprogrammers,Erlang and Elixir for Imperative Programmers,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-http://learnyousomeerlang.com/,Learn You Some Erlang,https://github.com/drobakowski/awesome-erlang#readme,Erlang
-http://www.evanmiller.org/joy-of-erlang.html,The Joy of Erlang; Or, How To Ride A Toruk,https://github.com/drobakowski/awesome-erlang#readme,Erlang

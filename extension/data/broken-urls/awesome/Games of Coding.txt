@@ -1,0 +1,2 @@
+http://robocode.sourceforge.io/robocode.dotnet,Robocode,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://robodojo.club,Robo Dojo,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

@@ -1,18 +1,14 @@
-https://browserext.github.io/browserext/,Browser Extension Standard,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://developer.mozilla.org/en-US/Add-ons/WebExtensions,WebExtensions,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://developer.chrome.com/extensions,extension API,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/,Microsoft Edge,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://discourse.mozilla.org/c/add-ons,Mozilla Discourse,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
 https://stackoverflow.com/questions/tagged/google-chrome-extension,google-chrome-extension tag on Stack Overflow,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://stackoverflow.com/questions/tagged/firefox-webextensions,firefox-webextensions tag on Stack Overflow,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension,a few changes,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://stackoverflow.com/questions/tagged/firefox-addon-webextensions,firefox-addon-webextensions tag on Stack Overflow,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
 https://stackoverflow.com/questions/tagged/microsoft-edge-extension,microsoft-edge-extension tag on Stack Overflow,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://developer.chrome.com/extensions/api_index,Chrome Extensions API,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension,a few changes,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://fregante.com,@fregante,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://developer.chrome.com/docs/extensions/reference,Chrome Extensions documentation,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://developer.mozilla.org/en-US/Add-ons/WebExtensions,Mozilla's WebExtensions documentation,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
 https://www.npmjs.com/package/@types/firefox-webext-browser,@types/firefox-webext-browser,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs,Browser support for WebExtensions,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap,Microsoft Edge API support,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
 https://extensionizr.com,extensionizr.com,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
 https://developer.apple.com/safari/extensions/,Safari Extensions documentation,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://bfred.it,Federico Brigante,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
 https://dev.opera.com/extensions/apis/,Opera API support,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
-https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/,Porting Chrome Extensions to Firefox,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension,Porting Chrome Extensions to Firefox,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://browserext.github.io/browserext/,Browser Extension Standard,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions
+https://discourse.mozilla.org/c/add-ons,Mozilla Discourse,https://github.com/fregante/Awesome-WebExtensions#readme,WebExtensions

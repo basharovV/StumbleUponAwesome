@@ -1,1 +1,3 @@
-https://discotek.ca/deepdive.xhtml,Deep Dive,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://azure.microsoft.com/en-au/services/key-vault/,Azure Key Vault,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://appsecday.io/,AppSec Day,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 525: ''> | reason: 
+https://podcast.securityjourney.com/,Application Security Podcast,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

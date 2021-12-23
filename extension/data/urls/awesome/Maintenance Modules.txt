@@ -2,14 +2,14 @@ https://www.npmjs.com/~twolfson,twolfson,https://github.com/maxogden/maintenance
 https://www.npmjs.com/package/maintenance-modules,,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~boennemann,boennemann,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~henrikjoreteg,henrikjoreteg,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
-https://www.npmjs.com/package/gasket,gasket,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~feross,feross,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
-https://www.npmjs.com/~mafintosh,mafintosh,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
+https://www.npmjs.com/package/gasket,gasket,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~maxogden,maxogden,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
+https://www.npmjs.com/~mafintosh,mafintosh,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~ngoldman,ngoldman,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~finnpauls,finnp,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
-https://www.npmjs.com/~sindresorhus,sindresorhus,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~meandave,meandave,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
+https://www.npmjs.com/~sindresorhus,sindresorhus,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~tjunnone,tjunnone,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://www.npmjs.com/~zeke,zeke,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules
 https://npmjs.org/~zeke,zeke,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules

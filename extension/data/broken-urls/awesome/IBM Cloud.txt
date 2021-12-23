@@ -1,2 +1,12 @@
 https://cloud.ibm.com,,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://www.meetup.com/Blockchain-Data-Science-Cloud-Technology-Meetup/,Bangalore, India - Blockchain, Data Science & Cloud - Technology Meetup,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/Chennai-CodeWeekend-Meetup/,Chennai, India - Chennai CodeWeekend Meetup,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.ibm.com/cloud-computing/learn-more/new/,IBM Cloud What's new,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/IBM-techtalksandlabs-gbg/,Göteborg, Sweden - IBM TechTalks & Labs Gothenburg,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://www.meetup.com/IBM-Developer-Nigeria/,Las, Nigeria - IBM Developer Nigeria,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://medium.com/ibmdeveloperbr,IBM Developer Brasil on Medium,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/IBM-Developer-BeiJing/,Beijing, China - IBM Developer (BeiJing),https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/Hong-Kong-Artificial-Intelligence-Meetup-Group/,Hong Kong, Hong Kong - AI/Blockchain/Cloud/BigData Meetup by IBM HK,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://ibm.biz/BluemixES,http://ibm.biz/BluemixES,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.meetup.com/IBM-TenkTorsdag/,Oslo, Norway - IBM TenkTorsdag,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.meetup.com/IBM-Developer-Tokyo/,Tokyo, Japan - IBM Developer Tokyo,https://github.com/victorshinya/awesome-ibmcloud#readme,IBM Cloud error: <HTTPError 404: 'Not Found'> | reason: Not Found

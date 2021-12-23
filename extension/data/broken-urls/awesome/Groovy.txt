@@ -1,3 +1,4 @@
 https://grydeske.dk/news/index,Grails Diary,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://nofluffjuststuff.com/groovypodcast,Groovy Podcast,https://github.com/kdabir/awesome-groovy#readme,Groovy error: timeout('The read operation timed out') | reason: 
+https://groovy-playground.appspot.com/,Groovy Playground,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse,Groovy Grails Tool Suite,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://greachconf.com,Greachconf,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

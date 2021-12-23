@@ -3,28 +3,26 @@ https://preactjs.com/,Preact,https://github.com/hantuzun/awesome-clojurescript#r
 http://reagent-project.github.io/,Reagent,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://hantuzun.com,Han Tuzun,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://funcool.github.io/hodgepodge/,hodgepodge,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://leanpub.com/clojurescript-unraveled,ClojureScript Unraveled,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+https://www.udemy.com/course/learning-clojurescript/,Udemy,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+https://www.youtube.com/watch?v=KZjFVdU8VLI,Interactive programming Flappy Bird in ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://clojurevalidations.info/,Validateur,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://fulcrologic.github.io/fulcro,Fulcro,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://hoplon.io,Hoplon,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://www.udemy.com/course/learning-clojurescript/,Udemy,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://www.youtube.com/watch?v=KZjFVdU8VLI,Interactive programming Flappy Bird in ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-http://keechma.com,Keechma,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://shop.oreilly.com/product/0636920025139.do,ClojureScript: Up and Running,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-http://www.luminusweb.net/,Luminus,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://keminglabs.com/c2,C2,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+http://keechma.com,Keechma,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+https://leanpub.com/clojurescript-unraveled,ClojureScript Unraveled,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+http://docs.caudate.me/ribol/,Ribol,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://ckirkendall.github.io/enfocus-site/,Enfocus,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://bitbucket.org/sonwh98/mr-clean,Mr-Clean,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+http://www.luminusweb.net/,Luminus,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://cljsjs.github.io/,CLJSJS,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://shop.oreilly.com/product/0636920043584.do,Etudes for ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://facebook.github.io/react/,React.js,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+https://bitbucket.org/sonwh98/mr-clean,Mr-Clean,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://reactjs.org/docs/introducing-jsx.html,JSX,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+https://shop.oreilly.com/product/0636920025139.do,ClojureScript: Up and Running,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
+https://shop.oreilly.com/product/0636920043584.do,Etudes for ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://www.packtpub.com/web-development/learning-clojurescript,Learning ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://infernojs.org,Inferno,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://langintro.com/cljsbook,Transforming Data with ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 http://clojurescriptkoans.com/,ClojureScript Koans,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://lambdaisland.com/,Lambda Island,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
-https://nerv.aotu.io/,Nerv,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://www.learnreagent.com/,Learn Reagent,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://www.learnreframe.com/,learn re-frame,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript
 https://purelyfunctional.tv/,Learning ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript

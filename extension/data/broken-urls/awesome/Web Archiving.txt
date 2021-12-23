@@ -1,4 +1,1 @@
-http://tempas.L3S.de/v1,Tempas v1,https://github.com/iipc/awesome-web-archiving#readme,Web Archiving error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://tempas.L3S.de/v2,Tempas v2,https://github.com/iipc/awesome-web-archiving#readme,Web Archiving error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009,Obama@2005-2009 in Tempas,https://github.com/iipc/awesome-web-archiving#readme,Web Archiving error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
 https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link,Fill out this request form,https://github.com/iipc/awesome-web-archiving#readme,Web Archiving error: <HTTPError 410: 'Gone'> | reason: Gone

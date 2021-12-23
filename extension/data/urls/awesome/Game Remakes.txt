@@ -1,13 +1,15 @@
+https://zandronum.com/,Zandronum,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://sourceforge.net/projects/opengate/,Opengate,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://osgameclones.com/,Open Source Game Clones,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://gitlab.com/m210/WitchavenGDX,WitchavenGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 http://barbarian.1987.free.fr/indexEN.htm,Barbarian,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/m210/WitchavenGDX,WitchavenGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://sourceforge.net/projects/doomlegacy/,Doom Legacy,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://gitlab.com/Dringgstein/Commander-Genius,Commander Genius,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://sourceforge.net/projects/freecol/,FreeCol,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://sourceforge.net/projects/doomlegacy/,Doom Legacy,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://gitlab.com/m210/DukeGDX,DukeGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://sourceforge.net/projects/zedonline/,Zed Online,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://bitbucket.org/ecwolf/ecwolf/src/master/,ECWolf,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://sourceforge.net/p/uhexen2/code/HEAD/tree/,Hexen II: Hammer of Thyrion,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://sourceforge.net/projects/zedonline/,Zed Online,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://sourceforge.net/projects/freecs-1-5/,FreeCS,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://fte.triptohell.info/,FTEQW,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://sourceforge.net/projects/quakespasm/,QuakeSpasm,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
 https://gitlab.com/m210/RedneckGDX,RedneckGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
-https://sourceforge.net/projects/opengate/,Opengate,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes

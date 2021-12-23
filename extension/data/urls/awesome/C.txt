@@ -1,284 +1,280 @@
-http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf,Draft C99 standard,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://en.wikipedia.org/wiki/The_C_Programming_Language,The C Programming Language 2E,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://danluu.com/malloc-tutorial/,Quick tutorial on implementing and debugging malloc, free, calloc, and realloc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://repo.hu/projects/cchan/,cchan,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.open-std.org/JTC1/SC22/WG14/,Draft C11 standard,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://risoflora.github.io/libsagui/,libsagui,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://tinycthread.github.io/,TinyCThread,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://liballeg.org/,Allegro,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.libtom.net/,libtomcrypt,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.opengl.org/,OpenGL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://hoard.org/,Hoard,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://math-atlas.sourceforge.net/,ATLAS,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.nlnetlabs.nl/projects/ldns/index.html,ldns,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://criterion.readthedocs.io/en/master/,Criterion,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://cygwin.com/licensing.html,Various Licenses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/recutils/,recutils,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://jvns.ca/blog/2014/12/14/fun-with-threads/,Diving into concurrency: trying out mutexes and atomics,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://notabug.org/koz.ross/awesome-c,new platform,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://gcc.gnu.org/,GCC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/mpria/,GNU MPRIA,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://mcpp.sourceforge.net/,mcpp,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://gittup.org/tup/index.html,tup,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/complexity/,Complexity,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/gperf/,GNU gperf,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/licenses/lgpl-3.0.html,GNU LGPL3,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://developer.gnome.org/gio/,GIO,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:MPL-1.1,MPLv1.1,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libccv.org,libccv,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.musl-libc.org/,musl,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:BSD-3-Clause,3-clause BSD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://concurrencykit.org/,ck,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/software/gsl/,GSL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://nethack4.org/projects/aimake/,aimake,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.pearson.com/us/higher-education/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html,C Primer Plus 6E,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.sfml-dev.org/download/csfml/,CSFML,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG,Introduction to OpenMP,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://pyyaml.org/wiki/LibYAML,libYAML,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://dotat.at/prog/unifdef/,unifdef,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://cunit.sourceforge.net/,CUnit,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://mingw-w64.yaxm.org/doku.php/start,MinGW-w64,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://curl.haxx.se/docs/copyright.html,curl license,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://pcc.ludd.ltu.se/,PCC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://sophia.systems/,sophia,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.khronos.org/opengles/,OpenGL ES,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://anjuta.org/,Anjuta DevStudio,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://kukuruku.co/post/i-do-not-know-c/,I do not know C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://people.sc.fsu.edu/~jburkardt/c_src/cdflib/cdflib.html,CDFLIB,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://creativecommons.org/share-your-work/public-domain/,Public Domain,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/licenses/gpl-3.0.html,GNU GPL3 or later,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libffcall/,GNU Libffcall,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.sfml-dev.org/index.php,SFML,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://bstring.sourceforge.net/,bstrlib,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://pcc.ludd.ltu.se/licenses/,Various free licenses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://lloyd.github.io/yajl/,YAJL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://libusb.info/,libusb,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libmill.org/,mill,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.pcre.org/,PCRE,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.spinellis.gr/cscout/,CScout,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://mingw.org/license,Various Licenses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://developer.gnome.org/gobject/stable/,GObject,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://knking.com/books/c2/index.html,C Programming: A Modern Approach,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.nedprod.com/programs/portable/nedmalloc/,nedmalloc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.etpan.org/,LibEtPan,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://lwan.ws/,lwan,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://igraph.org/,igraph,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.codeblocks.org/,Code::Blocks,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.scons.org/,SCons,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://nemequ.github.io/munit/,munit,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://kitsune-dsu.com/,Kitsune,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://blogs.gnome.org/clutter/get-it/,Clutter,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://freeglut.sourceforge.net/,FreeGLUT,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://en.wikipedia.org/wiki/External_Data_Representation,xdr,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.sqlite.org/about.html,SQLite,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/autoconf/autoconf.html,Autoconf,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://apr.apache.org/,APR,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://snai.pe/c/c-smart-pointers/,Implementing smart pointers for the C programming language,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libdill.org/,libdill,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://scientificc.github.io/cmathl/,cmathl,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.koanlogic.com/libu/,libU,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://computing.llnl.gov/tutorials/openMP/,OpenMP tutorial,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.eclipse.org/ide/,Eclipse,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://software.schmorp.de/pkg/libev.html,libev,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://bellard.org/tcc/,TCC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/ddd/ddd.html,DDD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.libressl.org/,libressl,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.valgrind.org/,Valgrind,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.greenend.org.uk/rjk/tech/inline.html,Inline functions in C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://cesanta.com/,mongoose,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/index.htm,Tutorial on pointers,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.mission-base.com/peter/source/,PBL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://ccodearchive.net/,CCAN,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://unqlite.org/,UnQLite,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.feynarts.de/cuba/,Cuba,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://buck.build/,Buck,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard,SEI CERT C Coding Standard,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.oberhumer.com/opensource/lzo/,lzo,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/software/gdb/,GDB,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.khronos.org/openglsc/,OpenGL SC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://fragglet.github.io/c-algorithms/,C Algorithms,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://nethack4.org/blog/building-c.html,Building C Projects,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:X11,X11,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.alsa-project.org/main/index.php/Main_Page,alsa-lib,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://sourceware.org/binutils/docs/bfd/,bfd,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libuv.org/,libuv,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://ccodearchive.net/list.html,here,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://wolkykim.github.io/qlibc/,qlibc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://sourceforge.net/projects/kissfft/,KISS FFT,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://astyle.sourceforge.net/,Artistic Style,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://zlib.net/,zlib,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://ispc.github.io/,Intel SPMD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.chiark.greenend.org.uk/~sgtatham/mp/,Metaprogramming custom control structures in C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://sourceforge.net/projects/giflib/,giflib,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.fftw.org/,FFTW,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/osip/,oSip,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://adtinfo.org/libavl.html/index.html,libavl,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://doc.qt.io/qbs/,Qbs,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.khronos.org/vulkan/,Vulkan,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://c-faq.com/,C FAQ - comp.lang.c Frequently Asked Questions,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/automake/automake.html,Automake,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://lodev.org/lodepng/,lodepng,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.libexpat.org/,Expat,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.netlib.org/lapack/lapacke.html,LAPACKE,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://cvsweb.openbsd.org/cgi-bin/cvsweb/~checkout~/src/lib/libssl/LICENSE?rev=1.12,Various Licenses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://fakenmc.github.io/cf4ocl/,cf4ocl,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/gnulib/,gnulib,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://faragon.github.io/libsrt.html,libsrt,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.glfw.org/,GLFW,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.bzip.org/,bzip2,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://biicode.github.io/biicode/,biicode,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.wtfpl.net/txt/copying/,WTFPLv2,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:EPL-1.0,EPL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://xmlsoft.org/,libxml2,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libcello.org/,libCello,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://en.wikipedia.org/wiki/Widget_toolkit,widget toolkits,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.recurse.com/blog/5-learning-c-with-gdb,Learning C with GDB,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://ccache.dev/,ccache,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://gmsl.sourceforge.io/,GMSL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://code.qt.io/cgit/qbs/qbs.git/tree/LICENSE.LGPLv3,LGPL3,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.etalabs.net/compare_libcs.html,Comparison of C/POSIX standard library implementations for GNU/Linux,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.fefe.de/djb/,libdjb,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://balde.rgm.io/,balde,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.oracle.com/database/berkeley-db/,BerkeleyDB,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://flintlib.org/,FLINT,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libevent.org/,libevent,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.netlib.org/lapack/,LAPACK,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://pjreddie.com/darknet/,Darknet,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt,3-clause BSD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://lz4.github.io/lz4/,lz4,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.cprover.org/cbmc/,CBMC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.fefe.de/dietlibc/,dietlibc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.khronos.org/opencl/,OpenCL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:ISC,ISC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup,libsoup,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.codeproject.com/articles/6154/writing-efficient-c-and-c-code-optimization,Writing efficient C and C code optimization,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://icculus.org/twilight/darkplaces/,Darkplaces,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.geany.org/,Geany,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://ccache.dev/license.html,GNU GPL3 or later,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE,ICU license,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.mpich.org/,MPICH,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://shop.oreilly.com/product/0636920015482.do,Head First C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gedanken.org.uk/software/cxref/,Cxref,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://pari.math.u-bordeaux.fr/,PARI/GP,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://xiph.org/ao/,libao,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://libgit2.org/,libgit2,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://pngquant.org/lib/,libimagequant,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/software/libc/,glibc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://facebook.github.io/zstd/,zstd,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/global/,GNU Global,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/gnu-c-manual/,GNU C Reference Manual,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/licenses/agpl-3.0.html,GNU AGPLv3,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://doc.qt.io/qt-5/qmake-manual.html,qmake,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.coralbits.com/libonion/,onion,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/glpk/,GLPK,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/gss/,libgss,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://computing.llnl.gov/tutorials/pthreads/,POSIX Threads Programming tutorial,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://webserver2.tecgraf.puc-rio.br/iup/,IUP,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.perforce.com/documentation/jam-documentation,Jam,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://libsound.io/,libsoundio,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/software/binutils/,gprof,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://aws.amazon.com/freertos/,Amazon FreeRTOS,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:BSD-4-Clause,Original BSD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://hplgit.github.io/doconce/doc/web/index.html,DocOnce,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://yasm.tortall.net/,yasm,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove,memcpy vs memmove,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://xmake.io/,xmake,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.dyncall.org/,dyncall,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.lysator.liu.se/c/pikestyle.html,Robert Pike's notes on programming in C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.koanlogic.com/klone/,klone,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.crasseux.com/books/ctut.pdf,The GNU C Programming Tutorial,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.libretro.com/,RetroArch,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.tcl.tk/,Tk,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.andre-simon.de/index.php,Highlight,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libtool/,Libtool,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://libjpeg-turbo.org/,libjpeg-turbo,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://lionet.info/asn1c/compiler.html,asnlc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libunistring/,libunistring,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:OLDAP-2.7,OpenLDAP License,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://spdx.org/licenses/MIT.html,MIT,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.chibios.org/dokuwiki/doku.php,ChibiOS,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://blog.pkh.me/p/20-templating-in-c.html,Templating in C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.akkadia.org/drepper/cpumemory.pdf,What every programmer should know about memory,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.tcl.tk/software/tcltk/license.html,Tcl/Tk License,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start,Various Licenses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://libjpeg-turbo.org/About/License,Various Licenses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://czmq.zeromq.org/,czmq,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://pp.ipd.kit.edu/firm/,Firm,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://en.wikipedia.org/wiki/MIT_License,MIT,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://port70.net/~nsz/c/c89/rationale/,Draft ANSI C Rationale,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.eso.org/sci/software/cpl/,CPL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://mesonbuild.com/,Meson,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://cdecl.org/,cdecl,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://xforms-toolkit.org/,XForms Toolkit,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://gmplib.org/,GMP,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:BSD-2-Clause,2-clause BSD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://people.sc.fsu.edu/~jburkardt/c_src/prob/prob.html,PROB,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.libpng.org,libpng,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf,Draft C99 Rationale,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://mariadb.com/,MariaDB,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://clang.llvm.org/,Clang,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/adns/,GNU adns,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libiconv/,libgiconv,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://cyan4973.github.io/xxHash/,xxHash,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/indent/,indent,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.doxygen.nl/,Doxygen,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://port70.net/~nsz/c/c89/c89-draft.txt,Draft ANSI C (C89) standard,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.quicklz.com/index.php,quicklz,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.flourish.org/cinclude2dot/,cinclude2dot,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.libpng.org/pub/png/src/libpng-LICENSE.txt,libpng license,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.multiprecision.org/mpc/,GNU MPC,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.openmp.org/,OpenMP,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt,GNU LGPL3,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.riot-os.org/,RIOT OS,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://shop.oreilly.com/product/0636920033677.do,21st Century C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.enlightenment.org/,EFL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:Apache-2.0,Apache 2.0,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://libzip.org/,libzip,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://ioquake3.org/,ioquake3,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://mongoc.org/,mongo-c-driver,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://ed-von-schleck.github.io/shoco/,shoco,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://sourceforge.net/projects/gjrand/,gjrand,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://computing.llnl.gov/tutorials/mpi/,MPI tutorial,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.cairographics.org/,Cairo,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://gnupg.org/related_software/libgcrypt/,libgcrypt,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.mpfr.org/index.html,GNU MPFR,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/gsasl/,GNU SASL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libxmi/,libxmi,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://directory.fsf.org/wiki/License:NCSA,NCSA,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/ncurses/,ncurses,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/pth/,pth,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html,LGPL-2.1,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://wiki.gnome.org/Projects/GLib,GLib,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://cppinstitute.com/study-resources,C Programming Language Certified Associate preparation course,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.gnu.org/licenses/old-licenses/gpl-2.0.html,GNU GPL2.1 or later,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.openssl.org/,OpenSSL,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://en.wikipedia.org/wiki/POSIX_Threads,pthreads,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/freeipmi/index.html,GNU FreeIPMI,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libidn/,libidn,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.colm.net/open-source/ragel/,Ragel,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://libcheck.github.io/check/,Check,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://opensource.org/licenses/postgresql,PostgreSQL licence,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.openssl.org/source/license.html,Dual Licensed under the OpenSSL License and the SSLeay License,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/licenses/old-licenses/fdl-1.1.html,GNU FDL1.1,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://rr-project.org/,rr,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://troydhanson.github.io/uthash/,uthash,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://orx-project.org/,Orx,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://troydhanson.github.io/uthash/license.html,1-clause BSD,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://www.gnu.org/software/libmicrohttpd/,libmicrohttpd,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.throwtheswitch.org/,CMock,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://shop.oreilly.com/product/0636920028000.do,Understanding and Using C Pointers,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://bitbucket.org/slepc/slepc,SLEPc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://download.libsodium.org/doc/,libsodium,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://cmocka.org/,cmocka,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://clover.moe/spearmint/,Spearmint,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://www.catb.org/esr/structure-packing/,The lost art of C structure packing,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://marek.vavrusa.com/memory/,What a C programmer should know about memory,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html,What every C programmer should know about undefined behaviour,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://shop.oreilly.com/product/0636920026136.do,ZeroMQ,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://shop.oreilly.com/product/9780596004361.do,C Pocket Reference,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://apophenia.info/,apophenia,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://250bpm.com/blog:56,Advanced metaprogramming in C,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://dl.acm.org/citation.cfm?id=179241,Expert C Programming: Deep C Secrets,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://p99.gforge.inria.fr/,P99,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-http://jemalloc.net/,jemalloc,https://github.com/aleksandar-todorovic/awesome-c#readme,C
-https://blog.noctua-software.com/c-tricks.html,10 C99 tricks,https://github.com/aleksandar-todorovic/awesome-c#readme,C
+https://en.wikipedia.org/wiki/The_C_Programming_Language,The C Programming Language 2E,https://github.com/inputsh/awesome-c#readme,C
+http://mingw-w64.yaxm.org/doku.php/start,MinGW-w64,https://github.com/inputsh/awesome-c#readme,C
+http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf,Draft C99 standard,https://github.com/inputsh/awesome-c#readme,C
+http://www.oberhumer.com/opensource/lzo/,lzo,https://github.com/inputsh/awesome-c#readme,C
+https://www.libtom.net/,libtomcrypt,https://github.com/inputsh/awesome-c#readme,C
+https://jvns.ca/blog/2014/12/14/fun-with-threads/,Diving into concurrency: trying out mutexes and atomics,https://github.com/inputsh/awesome-c#readme,C
+https://www.nlnetlabs.nl/projects/ldns/index.html,ldns,https://github.com/inputsh/awesome-c#readme,C
+https://tinycthread.github.io/,TinyCThread,https://github.com/inputsh/awesome-c#readme,C
+http://anjuta.org/,Anjuta DevStudio,https://github.com/inputsh/awesome-c#readme,C
+http://apophenia.info/,apophenia,https://github.com/inputsh/awesome-c#readme,C
+http://danluu.com/malloc-tutorial/,Quick tutorial on implementing and debugging malloc, free, calloc, and realloc,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/recutils/,recutils,https://github.com/inputsh/awesome-c#readme,C
+http://hoard.org/,Hoard,https://github.com/inputsh/awesome-c#readme,C
+http://www.open-std.org/JTC1/SC22/WG14/,Draft C11 standard,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libmicrohttpd/,libmicrohttpd,https://github.com/inputsh/awesome-c#readme,C
+https://www.sfml-dev.org/download/csfml/,CSFML,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/gperf/,GNU gperf,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/complexity/,Complexity,https://github.com/inputsh/awesome-c#readme,C
+https://www.mpfr.org/index.html,GNU MPFR,https://github.com/inputsh/awesome-c#readme,C
+https://gcc.gnu.org/,GCC,https://github.com/inputsh/awesome-c#readme,C
+http://mcpp.sourceforge.net/,mcpp,https://github.com/inputsh/awesome-c#readme,C
+http://www.codeblocks.org/,Code::Blocks,https://github.com/inputsh/awesome-c#readme,C
+https://www.sfml-dev.org/index.php,SFML,https://github.com/inputsh/awesome-c#readme,C
+https://pyyaml.org/wiki/LibYAML,libYAML,https://github.com/inputsh/awesome-c#readme,C
+http://gittup.org/tup/index.html,tup,https://github.com/inputsh/awesome-c#readme,C
+https://www.khronos.org/opengles/,OpenGL ES,https://github.com/inputsh/awesome-c#readme,C
+http://zlib.net/,zlib,https://github.com/inputsh/awesome-c#readme,C
+https://risoflora.github.io/libsagui/,libsagui,https://github.com/inputsh/awesome-c#readme,C
+https://blogs.gnome.org/clutter/get-it/,Clutter,https://github.com/inputsh/awesome-c#readme,C
+https://criterion.readthedocs.io/en/master/,Criterion,https://github.com/inputsh/awesome-c#readme,C
+http://sophia.systems/,sophia,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:BSD-3-Clause,3-clause BSD,https://github.com/inputsh/awesome-c#readme,C
+http://www.musl-libc.org/,musl,https://github.com/inputsh/awesome-c#readme,C
+https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG,Introduction to OpenMP,https://github.com/inputsh/awesome-c#readme,C
+http://mingw.org/license,Various Licenses,https://github.com/inputsh/awesome-c#readme,C
+https://www.pearson.com/us/higher-education/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html,C Primer Plus 6E,https://github.com/inputsh/awesome-c#readme,C
+https://curl.haxx.se/libcurl/,libcurl,https://github.com/inputsh/awesome-c#readme,C
+https://libusb.info/,libusb,https://github.com/inputsh/awesome-c#readme,C
+http://repo.hu/projects/cchan/,cchan,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/mpria/,GNU MPRIA,https://github.com/inputsh/awesome-c#readme,C
+http://www.eclipse.org/ide/,Eclipse,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libffcall/,GNU Libffcall,https://github.com/inputsh/awesome-c#readme,C
+http://dotat.at/prog/unifdef/,unifdef,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/licenses/lgpl-3.0.html,GNU LGPL3,https://github.com/inputsh/awesome-c#readme,C
+http://www.nedprod.com/programs/portable/nedmalloc/,nedmalloc,https://github.com/inputsh/awesome-c#readme,C
+http://math-atlas.sourceforge.net/,ATLAS,https://github.com/inputsh/awesome-c#readme,C
+https://kukuruku.co/post/i-do-not-know-c/,I do not know C,https://github.com/inputsh/awesome-c#readme,C
+http://www.pcre.org/,PCRE,https://github.com/inputsh/awesome-c#readme,C
+http://apr.apache.org/,APR,https://github.com/inputsh/awesome-c#readme,C
+https://www.spinellis.gr/cscout/,CScout,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/software/gsl/,GSL,https://github.com/inputsh/awesome-c#readme,C
+https://creativecommons.org/share-your-work/public-domain/,Public Domain,https://github.com/inputsh/awesome-c#readme,C
+https://curl.haxx.se/docs/copyright.html,curl license,https://github.com/inputsh/awesome-c#readme,C
+http://www.bzip.org/,bzip2,https://github.com/inputsh/awesome-c#readme,C
+http://concurrencykit.org/,ck,https://github.com/inputsh/awesome-c#readme,C
+https://en.wikipedia.org/wiki/External_Data_Representation,xdr,https://github.com/inputsh/awesome-c#readme,C
+http://knking.com/books/c2/index.html,C Programming: A Modern Approach,https://github.com/inputsh/awesome-c#readme,C
+https://www.khronos.org/openglsc/,OpenGL SC,https://github.com/inputsh/awesome-c#readme,C
+https://fragglet.github.io/c-algorithms/,C Algorithms,https://github.com/inputsh/awesome-c#readme,C
+http://pcc.ludd.ltu.se/,PCC,https://github.com/inputsh/awesome-c#readme,C
+https://www.sqlite.org/about.html,SQLite,https://github.com/inputsh/awesome-c#readme,C
+http://freeglut.sourceforge.net/,FreeGLUT,https://github.com/inputsh/awesome-c#readme,C
+https://lz4.github.io/lz4/,lz4,https://github.com/inputsh/awesome-c#readme,C
+https://www.alsa-project.org/main/index.php/Main_Page,alsa-lib,https://github.com/inputsh/awesome-c#readme,C
+https://snai.pe/c/c-smart-pointers/,Implementing smart pointers for the C programming language,https://github.com/inputsh/awesome-c#readme,C
+https://igraph.org/,igraph,https://github.com/inputsh/awesome-c#readme,C
+https://developer.gnome.org/gobject/stable/,GObject,https://github.com/inputsh/awesome-c#readme,C
+http://ccodearchive.net/,CCAN,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/ddd/ddd.html,DDD,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:EPL-1.0,EPL,https://github.com/inputsh/awesome-c#readme,C
+https://lodev.org/lodepng/,lodepng,https://github.com/inputsh/awesome-c#readme,C
+http://www.etpan.org/,LibEtPan,https://github.com/inputsh/awesome-c#readme,C
+http://pcc.ludd.ltu.se/licenses/,Various free licenses,https://github.com/inputsh/awesome-c#readme,C
+http://www.greenend.org.uk/rjk/tech/inline.html,Inline functions in C,https://github.com/inputsh/awesome-c#readme,C
+https://sourceforge.net/projects/giflib/,giflib,https://github.com/inputsh/awesome-c#readme,C
+http://ccodearchive.net/list.html,here,https://github.com/inputsh/awesome-c#readme,C
+https://www.scons.org/,SCons,https://github.com/inputsh/awesome-c#readme,C
+http://facebook.github.io/zstd/,zstd,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/software/gdb/,GDB,https://github.com/inputsh/awesome-c#readme,C
+http://software.schmorp.de/pkg/libev.html,libev,https://github.com/inputsh/awesome-c#readme,C
+https://lwan.ws/,lwan,https://github.com/inputsh/awesome-c#readme,C
+http://www.digip.org/jansson/,Jansson,https://github.com/inputsh/awesome-c#readme,C
+http://www.koanlogic.com/libu/,libU,https://github.com/inputsh/awesome-c#readme,C
+http://cunit.sourceforge.net/,CUnit,https://github.com/inputsh/awesome-c#readme,C
+https://unqlite.org/,UnQLite,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:ISC,ISC,https://github.com/inputsh/awesome-c#readme,C
+http://www.wtfpl.net/txt/copying/,WTFPLv2,https://github.com/inputsh/awesome-c#readme,C
+https://buck.build/,Buck,https://github.com/inputsh/awesome-c#readme,C
+https://www.chiark.greenend.org.uk/~sgtatham/mp/,Metaprogramming custom control structures in C,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/gnulib/,gnulib,https://github.com/inputsh/awesome-c#readme,C
+https://lloyd.github.io/yajl/,YAJL,https://github.com/inputsh/awesome-c#readme,C
+https://aws.amazon.com/freertos/,Amazon FreeRTOS,https://github.com/inputsh/awesome-c#readme,C
+https://people.sc.fsu.edu/~jburkardt/c_src/cdflib/cdflib.html,CDFLIB,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:X11,X11,https://github.com/inputsh/awesome-c#readme,C
+http://www.mission-base.com/peter/source/,PBL,https://github.com/inputsh/awesome-c#readme,C
+https://cesanta.com/,mongoose,https://github.com/inputsh/awesome-c#readme,C
+http://www.quicklz.com/index.php,quicklz,https://github.com/inputsh/awesome-c#readme,C
+https://spdx.org/licenses/MIT.html,MIT,https://github.com/inputsh/awesome-c#readme,C
+https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup,libsoup,https://github.com/inputsh/awesome-c#readme,C
+http://www.fefe.de/djb/,libdjb,https://github.com/inputsh/awesome-c#readme,C
+https://nemequ.github.io/munit/,munit,https://github.com/inputsh/awesome-c#readme,C
+https://www.khronos.org/vulkan/,Vulkan,https://github.com/inputsh/awesome-c#readme,C
+https://pngquant.org/lib/,libimagequant,https://github.com/inputsh/awesome-c#readme,C
+https://www.libressl.org/,libressl,https://github.com/inputsh/awesome-c#readme,C
+http://www.fefe.de/dietlibc/,dietlibc,https://github.com/inputsh/awesome-c#readme,C
+http://www.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/index.htm,Tutorial on pointers,https://github.com/inputsh/awesome-c#readme,C
+https://doc.qt.io/qbs/,Qbs,https://github.com/inputsh/awesome-c#readme,C
+http://libuv.org/,libuv,https://github.com/inputsh/awesome-c#readme,C
+http://bstring.sourceforge.net/,bstrlib,https://github.com/inputsh/awesome-c#readme,C
+http://www.chibios.org/dokuwiki/doku.php,ChibiOS,https://github.com/inputsh/awesome-c#readme,C
+https://scientificc.github.io/cmathl/,cmathl,https://github.com/inputsh/awesome-c#readme,C
+http://libmill.org/,mill,https://github.com/inputsh/awesome-c#readme,C
+http://wolkykim.github.io/qlibc/,qlibc,https://github.com/inputsh/awesome-c#readme,C
+https://en.wikipedia.org/wiki/Widget_toolkit,widget toolkits,https://github.com/inputsh/awesome-c#readme,C
+https://sourceforge.net/projects/kissfft/,KISS FFT,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/osip/,oSip,https://github.com/inputsh/awesome-c#readme,C
+http://www.eso.org/sci/software/cpl/,CPL,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/software/libc/,glibc,https://github.com/inputsh/awesome-c#readme,C
+https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard,SEI CERT C Coding Standard,https://github.com/inputsh/awesome-c#readme,C
+http://libsound.io/,libsoundio,https://github.com/inputsh/awesome-c#readme,C
+https://gnupg.org/related_software/libgcrypt/,libgcrypt,https://github.com/inputsh/awesome-c#readme,C
+http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start,Various Licenses,https://github.com/inputsh/awesome-c#readme,C
+https://faragon.github.io/libsrt.html,libsrt,https://github.com/inputsh/awesome-c#readme,C
+https://code.qt.io/cgit/qbs/qbs.git/tree/LICENSE.LGPLv3,LGPL3,https://github.com/inputsh/awesome-c#readme,C
+https://notabug.org/koz.ross/awesome-c,new platform,https://github.com/inputsh/awesome-c#readme,C
+https://www.glfw.org/,GLFW,https://github.com/inputsh/awesome-c#readme,C
+https://pjreddie.com/darknet/,Darknet,https://github.com/inputsh/awesome-c#readme,C
+https://gmsl.sourceforge.io/,GMSL,https://github.com/inputsh/awesome-c#readme,C
+https://www.openssl.org/,OpenSSL,https://github.com/inputsh/awesome-c#readme,C
+http://nethack4.org/blog/building-c.html,Building C Projects,https://github.com/inputsh/awesome-c#readme,C
+https://www.codeproject.com/articles/6154/writing-efficient-c-and-c-code-optimization,Writing efficient C and C code optimization,https://github.com/inputsh/awesome-c#readme,C
+http://nethack4.org/projects/aimake/,aimake,https://github.com/inputsh/awesome-c#readme,C
+https://www.openssl.org/source/license.html,Dual Licensed under the OpenSSL License and the SSLeay License,https://github.com/inputsh/awesome-c#readme,C
+http://www.libexpat.org/,Expat,https://github.com/inputsh/awesome-c#readme,C
+https://bellard.org/tcc/,TCC,https://github.com/inputsh/awesome-c#readme,C
+http://www.gedanken.org.uk/software/cxref/,Cxref,https://github.com/inputsh/awesome-c#readme,C
+https://balde.rgm.io/,balde,https://github.com/inputsh/awesome-c#readme,C
+https://doc.qt.io/qt-5/qmake-manual.html,qmake,https://github.com/inputsh/awesome-c#readme,C
+http://www.feynarts.de/cuba/,Cuba,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/licenses/gpl-3.0.html,GNU GPL3 or later,https://github.com/inputsh/awesome-c#readme,C
+http://www.valgrind.org/,Valgrind,https://github.com/inputsh/awesome-c#readme,C
+https://www.riot-os.org/,RIOT OS,https://github.com/inputsh/awesome-c#readme,C
+http://libdill.org/,libdill,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/global/,GNU Global,https://github.com/inputsh/awesome-c#readme,C
+https://hplgit.github.io/doconce/doc/web/index.html,DocOnce,https://github.com/inputsh/awesome-c#readme,C
+http://xmlsoft.org/,libxml2,https://github.com/inputsh/awesome-c#readme,C
+http://libevent.org/,libevent,https://github.com/inputsh/awesome-c#readme,C
+http://sourceware.org/binutils/docs/bfd/,bfd,https://github.com/inputsh/awesome-c#readme,C
+https://xmake.io/,xmake,https://github.com/inputsh/awesome-c#readme,C
+http://c-faq.com/,C FAQ - comp.lang.c Frequently Asked Questions,https://github.com/inputsh/awesome-c#readme,C
+https://cvsweb.openbsd.org/cgi-bin/cvsweb/~checkout~/src/lib/libssl/LICENSE?rev=1.12,Various Licenses,https://github.com/inputsh/awesome-c#readme,C
+https://www.recurse.com/blog/5-learning-c-with-gdb,Learning C with GDB,https://github.com/inputsh/awesome-c#readme,C
+http://ispc.github.io/,Intel SPMD,https://github.com/inputsh/awesome-c#readme,C
+https://icculus.org/twilight/darkplaces/,Darkplaces,https://github.com/inputsh/awesome-c#readme,C
+http://astyle.sourceforge.net/,Artistic Style,https://github.com/inputsh/awesome-c#readme,C
+https://www.enlightenment.org/,EFL,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/software/binutils/,gprof,https://github.com/inputsh/awesome-c#readme,C
+http://webserver2.tecgraf.puc-rio.br/iup/,IUP,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/autoconf/autoconf.html,Autoconf,https://github.com/inputsh/awesome-c#readme,C
+http://www.netlib.org/lapack/lapacke.html,LAPACKE,https://github.com/inputsh/awesome-c#readme,C
+https://xiph.org/ao/,libao,https://github.com/inputsh/awesome-c#readme,C
+http://czmq.zeromq.org/,czmq,https://github.com/inputsh/awesome-c#readme,C
+https://libjpeg-turbo.org/,libjpeg-turbo,https://github.com/inputsh/awesome-c#readme,C
+https://www.oracle.com/database/berkeley-db/,BerkeleyDB,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html,LGPL-2.1,https://github.com/inputsh/awesome-c#readme,C
+https://www.coralbits.com/libonion/,onion,https://github.com/inputsh/awesome-c#readme,C
+http://shop.oreilly.com/product/0636920015482.do,Head First C,https://github.com/inputsh/awesome-c#readme,C
+https://www.akkadia.org/drepper/cpumemory.pdf,What every programmer should know about memory,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/gss/,libgss,https://github.com/inputsh/awesome-c#readme,C
+https://biicode.github.io/biicode/,biicode,https://github.com/inputsh/awesome-c#readme,C
+http://www.fftw.org/,FFTW,https://github.com/inputsh/awesome-c#readme,C
+https://ccache.dev/,ccache,https://github.com/inputsh/awesome-c#readme,C
+http://www.netlib.org/lapack/,LAPACK,https://github.com/inputsh/awesome-c#readme,C
+http://www.koanlogic.com/klone/,klone,https://github.com/inputsh/awesome-c#readme,C
+http://www.etalabs.net/compare_libcs.html,Comparison of C/POSIX standard library implementations for GNU/Linux,https://github.com/inputsh/awesome-c#readme,C
+http://www.andre-simon.de/index.php,Highlight,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/automake/automake.html,Automake,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/adns/,GNU adns,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/licenses/agpl-3.0.html,GNU AGPLv3,https://github.com/inputsh/awesome-c#readme,C
+http://flintlib.org/,FLINT,https://github.com/inputsh/awesome-c#readme,C
+https://ccache.dev/license.html,GNU GPL3 or later,https://github.com/inputsh/awesome-c#readme,C
+https://wiki.gnome.org/Projects/GLib,GLib,https://github.com/inputsh/awesome-c#readme,C
+http://www.doxygen.nl/,Doxygen,https://github.com/inputsh/awesome-c#readme,C
+https://download.libsodium.org/doc/,libsodium,https://github.com/inputsh/awesome-c#readme,C
+http://pari.math.u-bordeaux.fr/,PARI/GP,https://github.com/inputsh/awesome-c#readme,C
+http://www.cprover.org/cbmc/,CBMC,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/gnu-c-manual/,GNU C Reference Manual,https://github.com/inputsh/awesome-c#readme,C
+https://www.khronos.org/opencl/,OpenCL,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/indent/,indent,https://github.com/inputsh/awesome-c#readme,C
+https://cygwin.com/licensing.html,Various Licenses,https://github.com/inputsh/awesome-c#readme,C
+https://ioquake3.org/,ioquake3,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/glpk/,GLPK,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/gsasl/,GNU SASL,https://github.com/inputsh/awesome-c#readme,C
+http://www.lysator.liu.se/c/pikestyle.html,Robert Pike's notes on programming in C,https://github.com/inputsh/awesome-c#readme,C
+https://www.libretro.com/,RetroArch,https://github.com/inputsh/awesome-c#readme,C
+https://computing.llnl.gov/tutorials/pthreads/,POSIX Threads Programming tutorial,https://github.com/inputsh/awesome-c#readme,C
+https://people.sc.fsu.edu/~jburkardt/c_src/prob/prob.html,PROB,https://github.com/inputsh/awesome-c#readme,C
+https://libjpeg-turbo.org/About/License,Various Licenses,https://github.com/inputsh/awesome-c#readme,C
+https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt,3-clause BSD,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:OLDAP-2.7,OpenLDAP License,https://github.com/inputsh/awesome-c#readme,C
+https://en.wikipedia.org/wiki/MIT_License,MIT,https://github.com/inputsh/awesome-c#readme,C
+http://port70.net/~nsz/c/c89/rationale/,Draft ANSI C Rationale,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:BSD-4-Clause,Original BSD,https://github.com/inputsh/awesome-c#readme,C
+http://www.dyncall.org/,dyncall,https://github.com/inputsh/awesome-c#readme,C
+http://yasm.tortall.net/,yasm,https://github.com/inputsh/awesome-c#readme,C
+http://orx-project.org/,Orx,https://github.com/inputsh/awesome-c#readme,C
+http://www.crasseux.com/books/ctut.pdf,The GNU C Programming Tutorial,https://github.com/inputsh/awesome-c#readme,C
+http://www.tcl.tk/,Tk,https://github.com/inputsh/awesome-c#readme,C
+http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf,Draft C99 Rationale,https://github.com/inputsh/awesome-c#readme,C
+https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt,GNU LGPL3,https://github.com/inputsh/awesome-c#readme,C
+https://developer.gnome.org/gio/,GIO,https://github.com/inputsh/awesome-c#readme,C
+https://gmplib.org/,GMP,https://github.com/inputsh/awesome-c#readme,C
+https://rr-project.org/,rr,https://github.com/inputsh/awesome-c#readme,C
+http://port70.net/~nsz/c/c89/c89-draft.txt,Draft ANSI C (C89) standard,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/licenses/old-licenses/fdl-1.1.html,GNU FDL1.1,https://github.com/inputsh/awesome-c#readme,C
+http://clang.llvm.org/,Clang,https://github.com/inputsh/awesome-c#readme,C
+http://shop.oreilly.com/product/0636920033677.do,21st Century C,https://github.com/inputsh/awesome-c#readme,C
+https://cppinstitute.com/study-resources,C Programming Language Certified Associate preparation course,https://github.com/inputsh/awesome-c#readme,C
+https://pp.ipd.kit.edu/firm/,Firm,https://github.com/inputsh/awesome-c#readme,C
+http://blog.pkh.me/p/20-templating-in-c.html,Templating in C,https://github.com/inputsh/awesome-c#readme,C
+http://www.tcl.tk/software/tcltk/license.html,Tcl/Tk License,https://github.com/inputsh/awesome-c#readme,C
+https://mariadb.com/,MariaDB,https://github.com/inputsh/awesome-c#readme,C
+http://www.mpich.org/,MPICH,https://github.com/inputsh/awesome-c#readme,C
+https://clover.moe/spearmint/,Spearmint,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:BSD-2-Clause,2-clause BSD,https://github.com/inputsh/awesome-c#readme,C
+http://www.multiprecision.org/mpc/,GNU MPC,https://github.com/inputsh/awesome-c#readme,C
+http://xforms-toolkit.org/,XForms Toolkit,https://github.com/inputsh/awesome-c#readme,C
+http://careferencemanual.com/,C: A Reference Manual 5E,https://github.com/inputsh/awesome-c#readme,C
+http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE,ICU license,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:NCSA,NCSA,https://github.com/inputsh/awesome-c#readme,C
+http://cyan4973.github.io/xxHash/,xxHash,https://github.com/inputsh/awesome-c#readme,C
+https://cdecl.org/,cdecl,https://github.com/inputsh/awesome-c#readme,C
+https://liballeg.org/,Allegro,https://github.com/inputsh/awesome-c#readme,C
+http://mongoc.org/,mongo-c-driver,https://github.com/inputsh/awesome-c#readme,C
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html,GNU GPL2.1 or later,https://github.com/inputsh/awesome-c#readme,C
+https://libzip.org/,libzip,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libunistring/,libunistring,https://github.com/inputsh/awesome-c#readme,C
+https://www.flourish.org/cinclude2dot/,cinclude2dot,https://github.com/inputsh/awesome-c#readme,C
+https://sourceforge.net/projects/gjrand/,gjrand,https://github.com/inputsh/awesome-c#readme,C
+http://shop.oreilly.com/product/0636920028000.do,Understanding and Using C Pointers,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libiconv/,libgiconv,https://github.com/inputsh/awesome-c#readme,C
+http://libccv.org,libccv,https://github.com/inputsh/awesome-c#readme,C
+http://ed-von-schleck.github.io/shoco/,shoco,https://github.com/inputsh/awesome-c#readme,C
+https://www.cairographics.org/,Cairo,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/freeipmi/index.html,GNU FreeIPMI,https://github.com/inputsh/awesome-c#readme,C
+https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove,memcpy vs memmove,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/pth/,pth,https://github.com/inputsh/awesome-c#readme,C
+https://en.wikipedia.org/wiki/POSIX_Threads,pthreads,https://github.com/inputsh/awesome-c#readme,C
+https://opensource.org/licenses/postgresql,PostgreSQL licence,https://github.com/inputsh/awesome-c#readme,C
+https://libcheck.github.io/check/,Check,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libidn/,libidn,https://github.com/inputsh/awesome-c#readme,C
+http://shop.oreilly.com/product/0636920026136.do,ZeroMQ,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libtool/,Libtool,https://github.com/inputsh/awesome-c#readme,C
+https://computing.llnl.gov/tutorials/mpi/,MPI tutorial,https://github.com/inputsh/awesome-c#readme,C
+http://www.throwtheswitch.org/,CMock,https://github.com/inputsh/awesome-c#readme,C
+http://shop.oreilly.com/product/9780596004361.do,C Pocket Reference,https://github.com/inputsh/awesome-c#readme,C
+https://bitbucket.org/slepc/slepc,SLEPc,https://github.com/inputsh/awesome-c#readme,C
+https://cmocka.org/,cmocka,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:MPL-1.1,MPLv1.1,https://github.com/inputsh/awesome-c#readme,C
+https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/,Some unknown features or tricks in C language,https://github.com/inputsh/awesome-c#readme,C
+http://www.libpng.org,libpng,https://github.com/inputsh/awesome-c#readme,C
+http://www.catb.org/esr/structure-packing/,The lost art of C structure packing,https://github.com/inputsh/awesome-c#readme,C
+https://dl.acm.org/citation.cfm?id=179241,Expert C Programming: Deep C Secrets,https://github.com/inputsh/awesome-c#readme,C
+https://marek.vavrusa.com/memory/,What a C programmer should know about memory,https://github.com/inputsh/awesome-c#readme,C
+http://www.libpng.org/pub/png/src/libpng-LICENSE.txt,libpng license,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/libxmi/,libxmi,https://github.com/inputsh/awesome-c#readme,C
+http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html,What every C programmer should know about undefined behaviour,https://github.com/inputsh/awesome-c#readme,C
+http://p99.gforge.inria.fr/,P99,https://github.com/inputsh/awesome-c#readme,C
+https://www.opengl.org/,OpenGL,https://github.com/inputsh/awesome-c#readme,C
+http://jemalloc.net/,jemalloc,https://github.com/inputsh/awesome-c#readme,C
+http://250bpm.com/blog:56,Advanced metaprogramming in C,https://github.com/inputsh/awesome-c#readme,C
+http://adtinfo.org/libavl.html/index.html,libavl,https://github.com/inputsh/awesome-c#readme,C
+http://libcello.org/,libCello,https://github.com/inputsh/awesome-c#readme,C
+https://libgit2.org/,libgit2,https://github.com/inputsh/awesome-c#readme,C
+https://www.gnu.org/software/ncurses/,ncurses,https://github.com/inputsh/awesome-c#readme,C
+http://www.colm.net/open-source/ragel/,Ragel,https://github.com/inputsh/awesome-c#readme,C
+http://troydhanson.github.io/uthash/,uthash,https://github.com/inputsh/awesome-c#readme,C
+http://troydhanson.github.io/uthash/license.html,1-clause BSD,https://github.com/inputsh/awesome-c#readme,C
+https://blog.noctua-software.com/c-tricks.html,10 C99 tricks,https://github.com/inputsh/awesome-c#readme,C
+https://directory.fsf.org/wiki/License:Apache-2.0,Apache 2.0,https://github.com/inputsh/awesome-c#readme,C

@@ -1,61 +1,62 @@
-https://lxc-webpanel.github.io/,LXC-Web-Panel,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/,Why you shouldn't use ENV variables for secret data,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://www.opencontainers.org/,OPEN CONTAINER INITIATIVE,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://rancher.com/,Rancher,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://news.ycombinator.com/item?id=10030868,Ask HN: Best Linux sandbox?,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://12factor.net/,The Twelve-Factor App,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://wiki.freedesktop.org/www/Software/systemd/,systemd,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://cncf.io/,Cloud Native Computing Foundation,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://www.ubuntu.com/cloud/snappy,Snappy Ubuntu Core,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://l3net.wordpress.com/projects/firejail/,Firejail,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://azure.microsoft.com/en-us/services/container-service/,Azure Container Service,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://docs.projectatomic.io/container-best-practices/,Container Best Practices,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD,When to use-Docker alternatives rkt and LXD,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://www.cloudfoundry.org/foundation/,Cloud Foundry Foundation,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement,Snappy,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://ciao-project.github.io/,CIAO,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://coreos.com/blog/vulnerability-analysis-for-containers/,CoreOS Clair,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf,CIS Docker 1.6 Benchmark v1.0.0,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/,Systemd Container Interface,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://platform.sh/blog/2020/the-container-is-a-lie/,The container is a lie,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://docs.projectatomic.io/container-best-practices/,Container Best Practices,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://www.opencontainers.org/,OPEN CONTAINER INITIATIVE,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://docs.docker.com/engine/swarm/,Docker Swarm,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://clearlinux.org,Clear Linux Project,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://wiki.gnome.org/Projects/SandboxedApps,xdg-app,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://resinos.io/,ResinOS,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://www.aporeto.com/trireme/,trireme,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://ciao-project.github.io/,CIAO,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://cncf.io/,Cloud Native Computing Foundation,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://man7.org/linux/man-pages/man1/nsenter.1.html,nsenter,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://wiki.apparmor.net/index.php/Main_Page,AppArmor,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://coreos.com/blog/vulnerability-analysis-for-containers/,CoreOS Clair,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://man7.org/linux/man-pages/man8/ip-netns.8.html,ip-netns,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/,Understanding docker security and best practices,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://man7.org/linux/man-pages/man1/unshare.1.html,unshare,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://benchmarks.cisecurity.org/about/,CIS Security Benchmarks,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://www.alibabacloud.com/fr/product/container-service,Alibaba Cloud Container Service,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://coreos.com/,CoreOs,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://osv.io/,OSv,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://www.aporeto.com/trireme/,trireme,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://www.cloudfoundry.org/foundation/,Cloud Foundry Foundation,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://www.alibabacloud.com/fr/product/container-service,Alibaba Cloud Container Service,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://man7.org/linux/man-pages/man1/unshare.1.html,unshare,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://coreos.com/,CoreOs,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://openvz.org/,OpenVZ,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://selinuxproject.org/page/Main_Page,SELinux,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://opensource.com/business/14/7/docker-security-selinux,Are Docker containers really secure?,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://man7.org/linux/man-pages/man2/seccomp.2.html,Seccomp,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/,Systemd Container Interface,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://pypi.python.org/pypi/butter,butter,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://www.projectatomic.io/,Project Atomic,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/,Update on Ubuntu Phone security issue,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://grsecurity.net/,Grsecurity,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/,Don't expose the Docker socket (not even to a container),https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://man7.org/linux/man-pages/man2/seccomp.2.html,Seccomp,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://containerd.io/,containerd,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://benchmarks.cisecurity.org/about/,CIS Security Benchmarks,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://grsecurity.net/,Grsecurity,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://www.projectatomic.io/,Project Atomic,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://libvirt.org/drvlxc.html,libvirt,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security,Docker, Linux Containers (LXC), and security,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://criu.org/Main_Page,CRIU,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://www.ubuntu.com/cloud/snappy,Snappy Ubuntu Core,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://wiki.archlinux.org/index.php/Systemd-nspawn,systemd-nspawn,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html,Control groups (cgroups),https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://opensource.com/business/14/7/docker-security-selinux,Are Docker containers really secure?,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://umo.ci/,umoci,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://lxc-webpanel.github.io/,LXC-Web-Panel,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://wiki.freedesktop.org/www/Software/systemd/,systemd,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html,Control groups (cgroups),https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://resinos.io/,ResinOS,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://12factor.net/,The Twelve-Factor App,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://man7.org/linux/man-pages/man7/namespaces.7.html,Kernel namespaces,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://l3net.wordpress.com/projects/firejail/,Firejail,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security,Docker, Linux Containers (LXC), and security,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://selinuxproject.org/page/SVirt,sVirt,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://rhelblog.redhat.com/?s=container&submit=Search,RedHat Blog,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html,For containers, security is problem #1,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://doger.io/,doger.io,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html,For containers, security is problem #1,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://mjg59.dreamwidth.org/33170.html,Linux Container Security,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-https://access.redhat.com/articles/1353593,Introduction to Linux Containers,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://news.ycombinator.com/item?id=10030868,Ask HN: Best Linux sandbox?,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf,CIS Docker 1.6 Benchmark v1.0.0,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://cloud.google.com/container-engine/,Google Cloud Platform,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/,Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 http://jelastic.com/,Jelastic,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/,Architecting Containers Part 2: Why the User Space Matters,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
-http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/,Secure Your Containers with this One Weird Trick,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/,Update on Ubuntu Phone security issue,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/,Don't expose the Docker socket (not even to a container),https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://mesosphere.com/,Mesosphere,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://www.openshift.org/,OpenShift Origin,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
 https://virtuozzo.com,Virtuozzo,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://rhelblog.redhat.com/?s=container&submit=Search,RedHat Blog,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://access.redhat.com/articles/1353593,Introduction to Linux Containers,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/,Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/,Architecting Containers Part 2: Why the User Space Matters,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/,Secure Your Containers with this One Weird Trick,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/,Why you shouldn't use ENV variables for secret data,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers
+http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD,When to use-Docker alternatives rkt and LXD,https://github.com/Friz-zy/awesome-linux-containers#readme,Containers

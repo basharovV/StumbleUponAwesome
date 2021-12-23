@@ -1,44 +1,45 @@
-https://www.meteor.com/tools/resources,here,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b,When a Meteor finally hits production,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/meteor-react-for-everyone,Meteor & React For Everyone,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.meteor.com/tutorials/react/creating-an-app,Official Meteor tutorial,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials,Level 2 Meteor + React Tutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://react-in-meteor.readthedocs.org/en/latest/,React,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://meteor.meetup.com/,Meetups,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://gumroad.com/l/meteor-explained,Meteor Explained,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://guide.meteor.com/,Official Guide,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/user-accounts-in-meteor,User Accounts in Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44,Transform any Meteor App into a PWA,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.securemeteor.com/,Secure Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/full-stack-graphql-with-apollo-meteor-and-react,Full-stack GraphQL with Apollo, Meteor & React,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.meteor-tuts.com/,meteor-tuts,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://meteortips.com/,Meteor Tips,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://uniforms.tools/docs/installation,Seamlessly integrate with simpl-schema,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/,leveluptutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone,Meteor 1.4 For Everyone,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.meteorcandy.com/,Meteor Candy,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://blog.meteor.com,Official Meteor blog,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/intermediate-meteor,Intermediate Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.eventedmind.com/,EventedMind,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://atom.io/packages/meteor-api,meteor-api,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials,Meteor For Everyone Tutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://podcast.crater.io,The Meteor podcast,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.udemy.com/course/meteor-react-tutorial/,Udemy - Meteor and React for Realtime Apps,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials,Meteor 1.4 + React For Everyone Tutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.meteor.com/,Official website,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://www.meteorkitchen.com/,Meteor Kitchen,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://julian.io/react-with-webpack-meteor-as-a-backend/,React with Webpack + Meteor as a backend,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://code.tutsplus.com/courses/single-page-web-apps-with-meteor,tuts+ - Single Page Web Apps with Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://docs.meteor.com/,Official Documentation,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://atmospherejs.com/,Atmosphere,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://book.discovermeteor.com/,Discover Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://buttercms.com/blog/meteor-cms-blog-tutorial,Building a CMS-powered blog in Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://www.meteorpedia.com,Meteorpedia,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started,scotch.io - Building a Slack Clone in Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
 http://www.meteorpedia.com/special/RecentChanges/,infrequently,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw,YouTube,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://themeteorchef.com,The Meteor Chef,https://github.com/Urigo/awesome-meteor#readme,Meteor
-http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15,Stack Overflow,https://github.com/Urigo/awesome-meteor#readme,Meteor
-https://forums.meteor.com/,Meteor forums,https://github.com/Urigo/awesome-meteor#readme,Meteor
 https://www.qualia.com/,Qualia,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.meteor.com/tutorials/react/creating-an-app,Official Meteor tutorial,https://github.com/Urigo/awesome-meteor#readme,Meteor
 https://www.maestroqa.com/,MaestroQA,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://gumroad.com/l/meteor-explained,Meteor Explained,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://meteor.meetup.com/,Meetups,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.securemeteor.com/,Secure Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://guide.meteor.com/,Official Guide,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.reddit.com/r/meteor,Reddit,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://atmospherejs.com/maka/rest,maka:rest,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b,When a Meteor finally hits production,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw,YouTube,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://uniforms.tools/docs/installation,Seamlessly integrate with simpl-schema,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.meteor-tuts.com/,meteor-tuts,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://themeteorchef.com,The Meteor Chef,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://meteortips.com/,Meteor Tips,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44,Transform any Meteor App into a PWA,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15,Stack Overflow,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://atom.io/packages/meteor-api,meteor-api,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://pdfslide.net/documents/pro-meteor-book.html,Pro Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.youtube.com/c/Howtocreateanappdev/videos,How to Create an App,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials,Meteor 1.4 + React For Everyone Tutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://forums.meteor.com/,Meteor forums,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://learn-meteor.netlify.app/,EventedMind,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://zodern.me/newsletter.html,zodern,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://blog.meteor.com,Official Meteor blog,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://forums.meteor.com/t/meteor-community-newsletter/50598,StorytellerCZ,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.udemy.com/course/modern-web-development-with-react-and-meteor-2021/,Udemy - Learn React and Meteor in 2021: Build a multiplayer game,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://podcast.crater.io,The Meteor podcast,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.meteor.com/,Official website,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://react-in-meteor.readthedocs.org/en/latest/,React,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://docs.meteor.com/,Official Documentation,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://jobs.meteor.com/,Official Job Board,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone,Meteor 1.4 For Everyone,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://atmospherejs.com/,Atmosphere,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://packosphere.com/,Packosphere,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://book.discovermeteor.com/,Discover Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://www.meteorpedia.com,Meteorpedia,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.leveluptutorials.com/tutorials/intermediate-meteor,Intermediate Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.udemy.com/course/meteor-vue,Udemy - Realtime Applications with Meteor and Vue,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.leveluptutorials.com/,leveluptutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials,Meteor For Everyone Tutorials,https://github.com/Urigo/awesome-meteor#readme,Meteor
+http://code.tutsplus.com/courses/single-page-web-apps-with-meteor,tuts+ - Single Page Web Apps with Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://buttercms.com/blog/meteor-cms-blog-tutorial,Building a CMS-powered blog in Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor
+https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started,scotch.io - Building a Slack Clone in Meteor,https://github.com/Urigo/awesome-meteor#readme,Meteor

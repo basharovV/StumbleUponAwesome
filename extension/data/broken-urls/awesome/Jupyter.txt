@@ -1,4 +1,5 @@
-http://mybinder.org,Binder,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://research.google.com/colaboratory/unregistered.html,Google Colaboratory,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://nb.bianp.net/sort/views/,Gallery of Jupyter notebooks II,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
 https://notebooks.rmotr.com,RMOTR Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.datascience.com,DataScience.com,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123)
+http://mybinder.org,Binder,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.quantopian.com/notebooks/survey,Quantopian Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: <HTTPError 530: ''> | reason: 
+https://gryd.us,Gryd,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused

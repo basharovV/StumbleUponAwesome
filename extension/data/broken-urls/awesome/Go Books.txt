@@ -1,0 +1,3 @@
+https://www.353solutions.com/go-brain-teasers,here,https://github.com/dariubs/GoBooks#readme,Go Books error: <HTTPError 308: 'Resume Incomplete'> | reason: Resume Incomplete
+http://shop.oreilly.com/category/learning-path/go-fundamentals.do,Go Fundamentals Video Training,https://github.com/dariubs/GoBooks#readme,Go Books error: <HTTPError 308: 'Permanent redirect'> | reason: Permanent redirect
+https://amzn.com/B01LD8K5C0,Go: Building Web Applications,https://github.com/dariubs/GoBooks#readme,Go Books error: <HTTPError 404: 'Not Found'> | reason: Not Found

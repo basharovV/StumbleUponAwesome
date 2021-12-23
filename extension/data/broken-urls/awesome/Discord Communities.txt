@@ -1,3 +1,11 @@
-https://git.osx86.io/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.reddit.com/r/homelab/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: timeout('The read operation timed out') | reason: 
-https://www.osx86.io/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://eddiejaoudecommunity.github.io,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.discordnetwork.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://join.javadiscord.net,Java,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://discordnetwork.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.cscareerhackers.org/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://pythondiscord.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://nodecg.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
+https://dozennn.github.io/steam-rom-manager/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.amigadev.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.defcon.org/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
+https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,23 +1,27 @@
-https://www.youtube.com/watch?v=Ls7elVbN8bI,Strata Data Conference | The future of natural language generation: 2017-2027,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.youtube.com/watch?v=wgcDUX_BPpk,The Quest for Automated Story Generation - Mark Riedl,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://ehudreiter.com/2019/09/26/generated-texts-must-be-accurate/,2019: Generated Texts Must Be Accurate!,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-http://www.macs.hw.ac.uk/InteractionLab/E2E,E2E,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.tokenmill.ai,TokenMill,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.inlg2019.com/assets/papers/44_Paper.pdf,2019: Hotel Scribe: Generating High Variation Hotel Descriptions,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.inlg2019.com/assets/papers/32_Paper.pdf,2019: Revisiting Challenges in Data-to-Text Generation with Fact Grounding,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,The Wikipedia company corpus,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://arxiv.org/pdf/1703.09902.pdf,2017: Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://nlds.soe.ucsc.edu/yelpnlg,YelpNLG,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-http://www.grammaticalframework.org/,GrammaticalFramework,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://arxiv.org/pdf/1606.03254.pdf,2016: Natural Language Generation enhances human decision-making with uncertain information,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://rosaenlg.org,RosaeNLG,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
 https://huggingface.co/blog/how-to-generate,2020: How to generate text: using different decoding methods for language generation with Transformers,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.stringtemplate.org/,StringTemplate,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.youtube.com/watch?v=kFRw-wk5YOA,Data-To-Text: Generating Textual Summaries of Complex Data - Ehud Reiter,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://arxiv.org/pdf/1606.03254.pdf,2016: Natural Language Generation enhances human decision-making with uncertain information,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+http://www.macs.hw.ac.uk/InteractionLab/E2E,E2E,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://rosaenlg.org,RosaeNLG,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
 https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BA2417D73AF29F8073FF5B611CDEB97F/S135132492000025Xa.pdf/natural_language_generation_the_commercial_state_of_the_art_in_2020.pdf,2020: Natural language generation: The commercial state ofthe art in 2020,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation,Imitation Learning and its Application to Natural Language Generation,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
 https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/,2020: Turing-NLG: A 17-billion-parameter language model by Microsoft,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
-https://www.youtube.com/watch?v=4fjM72lbJaw,Natural Language Generation (Introduction),https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
 https://www.inlg2019.com/assets/papers/178_Paper.pdf,2019: A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
 https://www.inlg2019.com/assets/papers/28_Paper.pdf,2019: A Personalized Data-to-Text Support Tool for Cancer Patients,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
 https://www.inlg2019.com/assets/papers/79_Paper.pdf,2019: Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://ehudreiter.com/2019/09/26/generated-texts-must-be-accurate/,2019: Generated Texts Must Be Accurate!,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.inlg2019.com/assets/papers/44_Paper.pdf,2019: Hotel Scribe: Generating High Variation Hotel Descriptions,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.inlg2019.com/assets/papers/32_Paper.pdf,2019: Revisiting Challenges in Data-to-Text Generation with Fact Grounding,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://arxiv.org/pdf/1703.09902.pdf,2017: Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.youtube.com/watch?v=kFRw-wk5YOA,Data-To-Text: Generating Textual Summaries of Complex Data - Ehud Reiter,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus,The Wikipedia company corpus,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation,Imitation Learning and its Application to Natural Language Generation,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.youtube.com/watch?v=4fjM72lbJaw,Natural Language Generation (Introduction),https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.youtube.com/watch?v=Ls7elVbN8bI,Strata Data Conference | The future of natural language generation: 2017-2027,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.youtube.com/watch?v=wgcDUX_BPpk,The Quest for Automated Story Generation - Mark Riedl,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://nlds.soe.ucsc.edu/yelpnlg,YelpNLG,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://gem-benchmark.com/,GEM,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.tokenmill.ai,TokenMill,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+http://www.grammaticalframework.org/,GrammaticalFramework,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://ehudreiter.com/2021/03/17/vision-nlg-can-help-humanise-data-and-ai/,2021: Vision: NLG Can Help Humanise Data and AI,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://openreview.net/forum?id=rygGQyrFvH,2020: The Curious Case of Neural Text Degeneration,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://arxiv.org/abs/2011.03992,2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation
+https://www.sciencedirect.com/science/article/pii/S0885230819300919,2020: Evaluating the state-of-the-art of End-to-End Natural Language Generation: The E2E NLG challenge,https://github.com/tokenmill/awesome-nlg#readme,Natural Language Generation

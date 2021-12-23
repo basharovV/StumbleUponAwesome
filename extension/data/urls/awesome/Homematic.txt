@@ -1,42 +1,40 @@
 https://ownsmarthome.de/category/homematic/,OwnSmartHome,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.mediola.com/,Mediola,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.homematic-inside.de/software/tag/Zusatzsoftware,CUxD,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-http://www.home-24.net/index.php?page=sites/home.php&app=home24,Home-24,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-http://www.ksquare.de/myhomecontrol/,HomeControl,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.openhab.org/,OpenHAB,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.tinymatic.de/,TinyMatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://pimatic.org/,Pimatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.verdrahtet.info/,Verdrahtet,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://nodered.org/,Node-RED,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.homematic.com/,Homematic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.penzler.de,Pocket Control,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-http://www.wikimatic.de/wiki/Hauptseite,Wikimatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421,Tablet Wallmount,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.docker.com,Docker,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb,hmcfgusb,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://git.zerfleddert.de/hmcfgusb/AES/,Dissecting HomeMatic AES,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.youtube.com/watch?v=1B4iwtK1Rmo,Direktverknüpfungen im Expertenmodus,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://homegear.eu/index.php/Main_Page,Homegear,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://homematic-forum.de/forum/viewtopic.php?f=41&t=50538,Forum,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.youtube.com/watch?v=Cwxwtig6Q1I,Virtuelle Aktorkanäle,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://jp112sdl.github.io/AskSinPPCollection/,AskSinPPCollection,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-http://www.wikimatic.de/wiki/Script_Dokumentation,Script Documentation,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-http://www.haus-bus.de/,HAUS-BUS.DE,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://everhome.de,everHome,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.eq-3.de,eQ-3,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196,Keymatic Konfiguration,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.stall.biz/,stall.biz,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://fhem.de/,FHEM,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://haus-automatisierung.com/,Haus Automatisierung,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.home-assistant.io/,Home Assistant,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.athomeapp.de/,@home,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.thingiverse.com/hobbyquaker/collections/homematic,Homematic 3D Druck Collection auf Thingiverse,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://ccu-historian.de/,CCU Historian,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://homematic-forum.de/forum/,Homematic Forum,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://www.iobroker.net/?lang=de,ioBroker,https://github.com/homematic-community/awesome-homematic#readme,Homematic
 https://www.symcon.de/,IP-Symcon,https://github.com/homematic-community/awesome-homematic#readme,Homematic
-https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907,Homematic Forum: Link/Skript-Sammlung,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.homematic-inside.de/software/tag/Zusatzsoftware,CUxD,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.verdrahtet.info/,Verdrahtet,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+http://www.wikimatic.de/wiki/Hauptseite,Wikimatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://git.zerfleddert.de/hmcfgusb/AES/,Dissecting HomeMatic AES,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.mediola.com/,Mediola,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb,hmcfgusb,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.youtube.com/watch?v=1B4iwtK1Rmo,Direktverknüpfungen im Expertenmodus,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.youtube.com/watch?v=Cwxwtig6Q1I,Virtuelle Aktorkanäle,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://homematic-forum.de/forum/viewtopic.php?f=41&t=50538,Forum,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.openhab.org/,OpenHAB,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+http://www.wikimatic.de/wiki/Script_Dokumentation,Script Documentation,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://zeezide.com/en/products/hmscripteditor/,HMScriptEditor,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196,Keymatic Konfiguration,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://pimatic.org/,Pimatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.athomeapp.de/,@home,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421,Tablet Wallmount,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://everhome.de,everHome,https://github.com/homematic-community/awesome-homematic#readme,Homematic
 https://www.sa-com.de/smarthome-special/histclient-handbuch/,HistClient,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.thingiverse.com/hobbyquaker/collections/homematic,Homematic 3D Druck Collection auf Thingiverse,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://fhem.de/,FHEM,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.home-assistant.io/,Home Assistant,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.iobroker.net/?lang=de,ioBroker,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.tinymatic.de/,TinyMatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.penzler.de,Pocket Control,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://zeezide.com/en/products/hmbattery/,Battery Status for HomeMatic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.docker.com,Docker,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://homegear.eu/index.php/Main_Page,Homegear,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://jp112sdl.github.io/AskSinPPCollection/,AskSinPPCollection,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+http://www.haus-bus.de/,HAUS-BUS.DE,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.stall.biz/,stall.biz,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.homematic.com/,Homematic,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://www.eq-3.de,eQ-3,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://haus-automatisierung.com/,Haus Automatisierung,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://homematic-forum.de/forum/,Homematic Forum,https://github.com/homematic-community/awesome-homematic#readme,Homematic
+https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907,Homematic Forum: Link/Skript-Sammlung,https://github.com/homematic-community/awesome-homematic#readme,Homematic
 https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801,Homematic Forum: HomeMatic - Tipps für Anfänger,https://github.com/homematic-community/awesome-homematic#readme,Homematic
 https://homematic-guru.de/,Homematic Guru,https://github.com/homematic-community/awesome-homematic#readme,Homematic
 https://www.homematic-inside.de/,Homematic Inside,https://github.com/homematic-community/awesome-homematic#readme,Homematic

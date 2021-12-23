@@ -1,12 +1,12 @@
-https://openconnectivity.org/developer/reference-implementation/alljoyn,AllJoyn,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.devicepilot.com,DevicePilot,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.iotivity.org/,Iotivity,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.kaaproject.org/,Kaa,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 308: 'Unknown'> | reason: Unknown
-http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf,The Internet of Things: Evolution or Revolution ?,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Overview,Tiny OS,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://www.z-wave.com/,Z-Wave,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/,The IoT Testing Atlas,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.microduino.cc/,Microduino,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
-https://developers.google.com/brillo/,Google Brillo,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.eluaproject.net/,eLua,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://openconnectivity.org/developer/reference-implementation/alljoyn,AllJoyn,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://kuzzle.io/solutions/technologies/iot-backend/,Website,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.devicepilot.com,DevicePilot,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.wi-fi.org/,Wi-Fi Alliance,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf,The Internet of Things: Evolution or Revolution ?,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developer.android.com/things/,Android Things,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
-Moved Temporarily
-https://developer.ubuntu.com/en/snappy/,Snappy Ubuntu,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: <HTTPError 404: 'NOT FOUND'> | reason: NOT FOUND
+Found
+https://wiki.eclipse.org/Mihini,Mihini,https://github.com/HQarroum/awesome-iot#readme,Internet of Things error: timeout('The read operation timed out') | reason: 

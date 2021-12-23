@@ -1,2 +1,3 @@
-https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en,MyScript Calculator (Drawing Calculator),https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://akepinski.me,Antoni Kepinski,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en,a41cv,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://winaero.com/download.php?view.1795,Old Windows 7/8 Calculator in Windows 10,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en,Wabbitemu,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found

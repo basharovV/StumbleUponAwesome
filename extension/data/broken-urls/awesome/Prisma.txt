@@ -1,7 +1,2 @@
-https://prisma-tools.ahmedelywa.com/schema,@prisma-tools/schema,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://prisma-tools.ahmedelywa.com/admin/generator,@prisma-tools/admin,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://prisma-tools.ahmedelywa.com/nexus/features,@prisma-tools/nexus,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://prisma-tools.ahmedelywa.com/graphql-modules,@prisma-tools/graphql-modules,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://prisma-tools.ahmedelywa.com/sdl,@prisma-tools/sdl,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://prisma-tools.ahmedelywa.com/select,@prisma-tools/select,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://prisma-tools.ahmedelywa.com/delete,@prisma-tools/delete,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://archibase.dev/,Archibase - Collaborative schema editor based on Prisma SDL,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae,Get started with Prisma v2. Prisma Client,https://github.com/catalinmiron/awesome-prisma#readme,Prisma error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

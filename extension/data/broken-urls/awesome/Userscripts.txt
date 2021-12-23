@@ -1,1 +1,5 @@
-https://greasyfork.org/scripts/109-handy-image,Handy Image,https://github.com/brunocvcunha/awesome-userscripts#readme,Userscripts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://greasyfork.org/scripts/9932-youtube,YouTube Plus,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://greasyfork.org/scripts/109-handy-image,Handy Image,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://greasyfork.org/scripts/36662-image-max-url,Image Max URL,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://greasyfork.org/scripts/4294-antiadware,AntiAdware,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://greasyfork.org/scripts/404-mouseover-popup-image-viewer,Mouseover Popup Image Viewer,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts error: <HTTPError 404: 'Not Found'> | reason: Not Found

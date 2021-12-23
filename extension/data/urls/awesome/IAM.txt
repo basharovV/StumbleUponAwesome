@@ -1,0 +1,183 @@
+https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/,What's the Difference Between OAuth, OpenID Connect, and SAML?,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.youtube.com/watch?v=y7-fAT3z8Lo,Become an AWS IAM Policy Ninja,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid,JOSE is a Bad Standard That Everyone Should Avoid,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/,Getting 2FA Right in 2019,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://square.github.io/keywhiz/,Keywhiz,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/Identity_management,IAM,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/XKeyscore,XKeyscore,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/Differential_privacy,differential privacy,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://tailscale.com/blog/rbac-like-it-was-meant-to-be/,RBAC like it was meant to be,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/,The new NIST password guidance,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://unsplash.com/@benjaminsweet,Ben Sweet,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/dlp/docs/release-notes,Data Loss Prevention,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.threat-intelligence.eu/standards/,Standards related to Threat Intelligence,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://enforcementtracker.com,GDPR Enforcement Tracker,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete,HTML attributes to improve your users' two factor authentication experience,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf,HSM: What they are and why it's likely that you've (indirectly) used one today,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html,How Uber Got Lost,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://passwordmasking.com,Remove password masking,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://smallstep.com/blog/everything-pki.html,Everything you should know about certificates and PKI but are too afraid to ask,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.av8n.com/computer/htm/secure-random.htm,Security Recommendations for Any Device that Depends on Randomly-Generated Numbers,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://gravitational.com/blog/how-saml-authentication-works/,How SAML 2.0 Authentication Works,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.amf-france.org/Epargne-Info-Service/Proteger-son-epargne/Listes-noires,AMF site blocklist,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.enterpriseready.io,The EnterpriseReady SaaS Feature Guides,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cerbos.dev/blog/the-case-for-granular-permissions,The Case for Granular Permissions,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/,AWS Security, Identity & Compliance announcements,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://desfontain.es/privacy/differential-privacy-in-more-detail.html,more details,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/JSON_Web_Token,JSON Web Token,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://rwc.iacr.org,Real World Crypto Symposium,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://pages.nist.gov/800-63-3/sp800-63b.html,NIST Special Publication 800-63B,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://jwt.io,JWT.io,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/security-scanner/docs/release-notes,Security Scanner,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://desfontain.es/privacy/differential-privacy-in-practice.html,practical aspects,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/OpenID_Connect,OpenID Connect (OIDC),https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=16759383,Tidbits on AWS Cloud HSM hardware,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://jwt.io/introduction/,Introduction to JSON Web Tokens,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://goteleport.com/blog/access-controls/,In Search For a Perfect Access Control System,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html,Password Storage Cheat Sheet,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://blog.theodo.com/2019/06/web-single-sign-on-the-saml-2-0-perspective/,Web Single Sign-On, the SAML 2.0 perspective,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/,IAM Is The Real Cloud Lock-In,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://arxiv.org/pdf/1905.01051.pdf,Browser Fingerprinting: A survey,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/iam/docs/release-notes,GCP IAM release notes,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.gcpweekly.com,Unofficial Weekly Google Cloud Platform newsletter,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.imperialviolet.org/2018/03/27/webauthn.html,Webauthn and security keys,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://auth0.com/blog/using-json-web-tokens-as-api-keys/,Using JSON Web Tokens as API Keys,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc,An Illustrated Guide to OAuth and OpenID Connect,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/,Password expiration is dead,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.garykessler.net/library/crypto.html,An Overview of Cryptography,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf,Semantic-based Automated Reasoning for AWS Access Policies using SMT,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://paulstamatiou.com/getting-started-with-security-keys/,Getting started with security keys,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cryptech.is,CrypTech,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.gcpweekly.com/gcp-resources/tag/iam/,IAM,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20,Why Mastercard Doesn't Use OAuth 2.0,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://infosec.mozilla.org,Enterprise Information Security,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/identity/docs/release-notes,Identity,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://speakerdeck.com/ange/the-challenges-of-file-formats,The challenges of file formats,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.youtube.com/watch?v=B_mhJO2qHlQ,Breaking Password Dependencies: Challenges in the Final Mile at Microsoft,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf,A Comparison of Personal Name Matching: Techniques and Practical Issues,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://youtu.be/x6wsTFnU3eY?t=2111,introduction given at re:inforce 2019,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://duo.com/blog/the-beer-drinkers-guide-to-saml,The Beer Drinker's Guide to SAML,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://keystone-enclave.org,Keystone,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cursorblog.com/managing-a-secure-json-web-token-implementation/,Managing a Secure JSON Web Token Implementation,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://valerieaurora.org/hash.html,Lifetimes of cryptographic hash functions,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.google.com/recaptcha,reCaptcha,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF,Mitigating Cloud Vulnerabilities,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.privitar.com/listing/k-anonymity-an-introduction,k-anonymity: an introduction,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://ldpreload.com/blog/names-to-reserve,Hostnames and usernames to reserve,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/identity-platform/docs/release-notes,Identity Platform,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://joonas.fi/2021/08/saml-is-insecure-by-design/,SAML is insecure by design,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/,Facebook Dangerous Individuals and Organizations List,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/,Beyond Passwords: 2FA, U2F and Google Advanced Protection,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://userpilot.com/saas-product-onboarding/,The 2020 State of SaaS Product Onboarding,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://auth0.com/blog/denylist-json-web-token-api-keys/,Adding JSON Web Token API Keys to a DenyList,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=17486165,source,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.sstic.org/2019/presentation/hsm/,Everybody be cool, this is a robbery!,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.usenix.org/system/files/login/articles/login_dec14_02_ward.pdf,BeyondCorp: A New Approach to Enterprise Security,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://aircloak.com/wp-content/uploads/apf17-reprint.pdf,Diffix: High-Utility Database Anonymization,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.gcpweekly.com/gcp-resources/tag/security/,Security,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf,Practical Recommendations for Stronger, More Usable Passwords,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://ai.google/research/pubs/pub48190,Zanzibar: Google's Consistent, Global Authorization System,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://aaronparecki.com/oauth-2-simplified/,OAuth 2 Simplified,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/,Stop using JWT for sessions,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e,Aardvark and Repokid,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/,Banks, Arbitrary Password Restrictions and Why They Don't Matter,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.youtube.com/watch?v=996OiexHze0,OAuth 2.0 and OpenID Connect (in plain English),https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=20144240,IRMA Authentication,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db,2FA is missing a key feature,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/,why your "solution" doesn't work,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/,Things end users care about but programmers don't,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues,The Difficulties of SAML Single Logout,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://kevv.net/you-probably-dont-need-recaptcha/,You (probably) don't need ReCAPTCHA,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://docs.digitalocean.com/release-notes/accounts/,DigitalOcean Accounts changelog,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://elixirforum.com/t/aircloak-anonymized-analitycs/10930,Written in Elixir at Aircloak,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://archive.is/MuNrZ,After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/Access-control_list,Access Control Lists,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://privacybydesign.foundation/publications/,Camenisch and Lysyanskaya's Idemix,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.useronboard.com/user-onboarding-teardowns/,User Onboarding Teardowns,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://plaintextoffenders.com/about/,Plain Text Offenders,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://zanzibar.academy/,Zanzibar Academy,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/,SMS 2FA auth is deprecated by NIST,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/Role-based_access_control,Role Based Access Control,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/resource-manager/docs/release-notes,Resource Manager,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://gdpr.eu,GDPR Tracker,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf,Investigation into the Unusual Signups,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://anti-captcha.com,Anti-captcha,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf,Automated security testing for Software Developers,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=18354141,stateless JWT tokens cannot be invalidated or updated,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=21151830,Separate the account, user and login/auth details,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.osohq.com/post/why-authorization-is-hard,Why Authorization is Hard,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16,OAuth 2.0 Security Best Current Practice,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://ai.google/research/pubs/pub41892,Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/Bloom_filter,Bloom Filter,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf,A Comparative Long-Term Study of Fallback Authentication,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://youtu.be/kgw8RLHv1j4?t=534,Still Logged In: What AR and VR Can Learn from MMOs,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=20109360,How to change the hashing scheme of already hashed user's passwords,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://gravitational.com/blog/everything-you-need-to-know-about-oauth/,Everything You Need to Know About OAuth (2.0),https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://portswigger.net/web-security/oauth,Hidden OAuth attack vectors,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://techblog.bozho.net/gdpr-practical-guide-developers/,GDPR – A Practical guide for Developers,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf,Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.csoonline.com/article/3206127/trust-and-safety-101.html,Trust and safety 101,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90,What is BeyondCorp? What is Identity-Aware Proxy?,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://lord.io/blog/2020/usernames/,Identity Beyond Usernames,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/,Biscuit,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://blog.sqreen.com/demystifying-radix-trees/,How Radix trees made blocking IPs 5000 times faster,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://goodui.org/leaks/,Discover UI Design Decisions Of Leading Companies,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/,You either die an MVP or live long enough to build content moderation,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html,How effective is basic account hygiene at preventing hijacking,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=14294463,Google paper's author compares Macaroons and JWTs,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://publicsuffix.org,The Public Suffix List,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html,Cryptographic Right Answers,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.linkedin.com/pulse/what-heck-trust-safety-kenny-shi,What the Heck is Trust and Safety?,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.youtube.com/watch?v=K0EOPddWpsE,Secret at Scale at Netflix,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/kms/docs/release-notes,Key Management Service/HSM,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://netrixllc.com/blog/aws-services-in-simple-terms/,AWS in simple terms,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features,#4,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://rwc.iacr.org/2018/Slides/Mehta.pdf,slides,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://en.wikipedia.org/wiki/Know_your_customer,Know You Customer (KYC),https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/,World's Biggest Data Breaches & Hacks,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://expeditedsecurity.com/aws-in-plain-english/,AWS In Plain English,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://fly.io/blog/api-tokens-a-tedious-survey/,API Tokens: A Tedious Survey,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.youtube.com/watch?v=5T_c-lqgjso,High Availability in Google's Internal KMS,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.loginradius.com/engineering/blog/pkce/,PKCE Explained,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html,AWS IAM policies,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf,The Laws of Identity,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://rwc.iacr.org/2018/Slides/Kanagala.pdf,slides,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://learnui.design/blog/tips-signup-login-ux.html,11 Tips for Better Signup / Login UX,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=16749140,shorter summary,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cryptoanarchy.wiki,cryptoanarchy.wiki,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/access-context-manager/docs/release-notes,Access Context Manager,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.vaultproject.io,vault,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://gravitational.com/blog/hashing-for-anonymization/,The False Allure of Hashing for Anonymization,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://unsplash.com/photos/2LowviVHZ-E,photo,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984,Your Pa$$word doesn't matter,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/,An argument for passwordless,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization,The never-ending product requirements of user authorization,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps,How to Implement a Secure Central Authentication Service in Six Steps,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://unix-ninja.com/p/attacking_google_authenticator,Attacking Google Authenticator,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate,Keep out the bad apples: How to moderate a marketplace,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://cloud.google.com/iap/docs/release-notes,Identity-Aware Proxy,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/,Open-Sourcing BuzzFeed's SSO Experience,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/,Four cents to deanonymize: Companies reverse hashed email addresses,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/,A Child's Garden of Inter-Service Authentication Schemes,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3,JWT, JWS and JWE for Not So Dummies!,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.youtube.com/watch?v=kY-Bkv3qxMc,Scaling backend authentication at Facebook,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://webauthn.guide,WebAuthn guide,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://restofworld.org/2020/facebook-international-content-moderators/,The despair and darkness of people will get to you,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://desfontain.es/privacy/differential-privacy-awesomeness.html,Why differential privacy is awesome,https://github.com/kdeldycke/awesome-iam#readme,IAM
+http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/,Don't get clever with login forms,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://rwc.iacr.org/2018/Slides/Lewi.pdf,slides,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://penguindreams.org/blog/the-decline-of-openid/,The Decline of OpenID,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://gethydra.sh,Hydra,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.twilio.com/blog/why-username-and-password-on-two-different-pages,Why are the username and password on two different pages?,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://thoughtmaybe.com/the-cleaners/,The Cleaners,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://news.ycombinator.com/item?id=19174355,an AJAX request when you enter your username,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.martinvigo.com/voicemailcracker/,Compromising online accounts by cracking voicemail systems,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://web.archive.org/web/20190402111431/https://pwdless.github.io/Cierge-Website/,Cierge,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.keycloak.org,Keycloak,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/,The Difference Between SAML 2.0 and OAuth 2.0,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.issms2fasecure.com,Is SMS 2FA Secure? No.,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html,Hackers Hit Twitter C.E.O. Jack Dorsey in a 'SIM Swap.' You're at Risk, Too.,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://www.theregister.co.uk/2017/07/10/att_falls_for_hacker_tricks/,AT&T rep handed control of his cellphone account to a hacker,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://arxiv.org/pdf/2001.02479.pdf,Dark Patterns after the GDPR,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124,The Most Expensive Lesson Of My Life: Details of SIM port hack,https://github.com/kdeldycke/awesome-iam#readme,IAM
+https://aws.amazon.com/iam/details/mfa/,AWS is on its way to deprecate SMS-based 2FA,https://github.com/kdeldycke/awesome-iam#readme,IAM

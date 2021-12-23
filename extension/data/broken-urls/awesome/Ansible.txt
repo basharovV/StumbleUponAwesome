@@ -1,0 +1,1 @@
+https://packer.io/docs/provisioners/ansible-local.html,Packer Ansible Provisioner,https://github.com/KeyboardInterrupt/awesome-ansible#readme,Ansible error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

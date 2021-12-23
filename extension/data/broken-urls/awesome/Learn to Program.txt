@@ -1,5 +1,5 @@
-http://paqmind.com,Paqmind,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: <HTTPError 308: 'Unknown'> | reason: Unknown
+http://paqmind.com,Paqmind,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 https://learn.upleveled.io/,UpLeveled Bootcamp Prep Course,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
-http://ureddit.com/category/23442/computer-science,University of Reddit,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+https://www.htmldog.com/,HTML Dog,https://github.com/karlhorky/learn-to-program#readme,Learn to Program error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.htmldog.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.htmldog.com'. (_ssl.c:1123)

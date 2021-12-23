@@ -1,2 +1,2 @@
-https://www.bigsql.org/pgadmin3,pgAdmin3,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://www.bigsql.org,BigSQL,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://www.bigsql.org/pgadmin3,pgAdmin3,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.bigsql.org,BigSQL,https://github.com/mgramin/awesome-db-tools#readme,Database Tools error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

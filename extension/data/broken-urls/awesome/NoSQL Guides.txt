@@ -1,1 +1,0 @@
-https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/,Thank You for Your Help NoSQL, but We Got It from Here (2020),https://github.com/erictleung/awesome-nosql-guides#readme,NoSQL Guides error: timeout('The read operation timed out') | reason: 

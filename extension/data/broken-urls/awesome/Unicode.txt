@@ -1,2 +1,1 @@
-http://www.unicode.org/resources/readinglist.html,The Unicode Consortium's Recommended Reading List,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://macchiato.com/slides/UnicodeMyths.pdf,Unicode Myths,https://github.com/Wisdom/Awesome-Unicode#readme,Unicode error: <HTTPError 504: 'Gateway Time-out'> | reason: Gateway Time-out
+http://www.unicode.org/resources/readinglist.html,The Unicode Consortium's Recommended Reading List,https://github.com/jagracey/Awesome-Unicode#readme,Unicode error: <HTTPError 404: 'Not Found'> | reason: Not Found

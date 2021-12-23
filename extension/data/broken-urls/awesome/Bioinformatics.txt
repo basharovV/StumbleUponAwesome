@@ -1,3 +1,1 @@
-http://nextflow.io,web,https://github.com/danielecook/Awesome-Bioinformatics#readme,Bioinformatics error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
 http://watson.nci.nih.gov/cran_mirror/web/packages/RCircos/index.html,web,https://github.com/danielecook/Awesome-Bioinformatics#readme,Bioinformatics error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://biojs.net/,web,https://github.com/danielecook/Awesome-Bioinformatics#readme,Bioinformatics error: timeout('timed out') | reason: 

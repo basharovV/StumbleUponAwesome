@@ -1,68 +1,77 @@
-https://www.youtube.com/watch?v=fo3VX33Zx0c,Creating a Google Compute Instance with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=ar1PF5iDtbg,State of Terraform Providerland,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=RldRDryLiXs,Terraform At Scale,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://terraform.io,,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.keycloak.org/,Keycloak,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://marketplace.visualstudio.com/items?itemName=mauve.terraform,VS Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=p2ESyuqPw1A,Terraform w/ Lee Trout,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.manning.com/books/terraform-in-action,Terraform in Action,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.hashicorp.com/resources/creating-terraform-provider-for-anything,Creating a Terraform Provider for Just About Anything,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.terraform.io/intro/,Introduction to Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://devkimchi.com/2019/01/21/terraforming-azure-paas/,Terraforming Azure PaaS,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=cHrOXPatFeg,Terraforming the Composable World,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=wgzgVm7Sqlk,Evolving Your Infrastructure with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform,Terraform: Up & Running,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.terraform.io/docs/,Terraform Documentation,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=kiH3-LEveek,Test and verify a Google Compute Instance with Kitchen-Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=e42A4aBZUkQ,Going Multi-Cloud with Terraform and Nomad,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://blog.agilebits.com/2018/01/25/terraforming-1password/,Terraforming 1Password,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.spinnaker.io/,Spinnaker,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/,Sharing data between Terraform configurations,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=OH6iDKaXpZs,Untangling Terraform Through Refactoring,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=LVgP63BkhKQ,How to Build Reusable, Composable, Battle tested Terraform Modules,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=2BvpqmFpchI,How to Extend the Terraform Provider List,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/,Tutorial: How to Use Terraform to Deploy OpenStack Workloads,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform,Zero Downtime Updates with HashiCorp Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://modules.tf/,modules.tf,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://terraformbook.com/,The Terraform Book,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://segment.com/blog/the-segment-aws-stack/,The Segment AWS Stack,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://deployeveryday.com/2020/04/13/vpn-aws-azure-terraform.html,Terraform for a Highly Available VPN between AWS and Azure,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://learn.hashicorp.com/terraform/,Terraform learn,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.joyent.com/blog/video-blue-green-deploys-terraform,Using Terraform for blue-green deployments on Triton,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1,Using Terraform for Cloud Deployments - Part 1,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://gitter.im/hashicorp-terraform,Terraform Gitter,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=adzqsywrJKk,Webinar: Multi-Cloud, One Command with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://segment.com/blog/the-million-dollar-eng-problem/,The Million Dollar Engineering Problem,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/,Deploying Django to AWS ECS with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://cloudcraft.co/app,Cloudcraft.co,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://registry.terraform.io/,Terraform Module Registry,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.infoq.com/presentations/terraform-consul,Orchestrating Containers with Terraform and Consul,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/,Terraform Design Patterns: the Terrafile,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2,Creating custom terraform providers,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/,Getting Started with Terraform, 2nd ed.,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://pretf.readthedocs.io/en/latest/,pretf documentation,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://atom.io/packages/terraform-lookup,Atom terraform-lookup,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=CPI6W3LK0-g,Production ChaosMonkey with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code,Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/,Terraform, VPC, and why you want a tfstate file per env,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=3JVGSq7QIS0,Running a Terraform Environment at Scale,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support,Intellij,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://chrislewisdev.github.io/prettyplan/,available online here,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=vuJ6bjYKUcA,Setup Continuous Integration for a Terraform module,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://charity.wtf/2016/02/23/two-weeks-with-terraform/,Two Weeks with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5,Using Pipelines to Manage Environments with Infrastructure as Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.terraform.io/docs/extend/writing-custom-providers.html,Writing Custom Providers,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://serverless.tf/,serverless.tf - Doing serverless with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/,Terraform: Beyond the Basics with AWS,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-http://blog.jfabre.net/2017/01/22/writing-terraform-provider/,Writing a Terraform provider,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://terraspace.cloud,terraspace,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.amazon.com/Big-Little-Book-Terraform-Omos-ebook/dp/B07PWYPNX8/,Big Little Book On Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
 http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/,Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.g10s.io/hashicorp-terraform/,Learning HashiCorp Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.youtube.com/watch?v=cG7pcksTAnY,Building Scalable, Repeatable Infrastructure in the Cloud with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-http://shop.oreilly.com/product/0636920039297.do,Infrastructure as Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/,II,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://www.terraform-best-practices.com/,Terraform Best Practices,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=e42A4aBZUkQ,Going Multi-Cloud with Terraform and Nomad,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=kiH3-LEveek,Test and verify a Google Compute Instance with Kitchen-Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
 https://bgelens.nl/terraform-automation-resources/,New Terraform Azure Automation Resources,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=OH6iDKaXpZs,Untangling Terraform Through Refactoring,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=2BvpqmFpchI,How to Extend the Terraform Provider List,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/,II,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform,Terraform: Up & Running, 2nd ed.,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://registry.terraform.io/modules/linode/k8s/linode/,terraform-linode-k8s,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://atom.io/packages/terraform-lookup,Atom terraform-lookup,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.checklyhq.com,Checkly,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://deployeveryday.com/2020/04/13/vpn-aws-azure-terraform.html,Terraform for a Highly Available VPN between AWS and Azure,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://terraformbook.com/,The Terraform Book,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://scalr.com,Scalr,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://scalr.com/?utm_source=awesome-terraform,Scalr - Terraform Automation & Collaboration Software,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support,Intellij,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.keycloak.org/,Keycloak,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform,Bootstrapping Microservices with Docker, Kubernetes, and Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.scalr.com/?utm_source=awesome-terraform,,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://devkimchi.com/2019/01/21/terraforming-azure-paas/,Terraforming Azure PaaS,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://marketplace.visualstudio.com/items?itemName=mauve.terraform,VS Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1,Using Terraform for Cloud Deployments - Part 1,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://blog.agilebits.com/2018/01/25/terraforming-1password/,Terraforming 1Password,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://env0.com,env0,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/,Sharing data between Terraform configurations,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.infoq.com/presentations/terraform-consul,Orchestrating Containers with Terraform and Consul,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://link.springer.com/book/10.1007/978-1-4842-7328-9,Deep-Dive Terraform on Azure,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=CPI6W3LK0-g,Production ChaosMonkey with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/,Getting Started with Terraform, 2nd ed.,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/,Tutorial: How to Use Terraform to Deploy OpenStack Workloads,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=3JVGSq7QIS0,Running a Terraform Environment at Scale,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/,HashiCorp Infrastructure Automation Certification Guide,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://section411.com/2019/07/hello-world/,Hello, world: The Fargate/Terraform tutorial I wish I had,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=vuJ6bjYKUcA,Setup Continuous Integration for a Terraform module,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.spinnaker.io/,Spinnaker,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://gitter.im/hashicorp-terraform,Terraform Gitter,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=ar1PF5iDtbg,State of Terraform Providerland,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://modules.tf/,modules.tf,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2,Creating custom terraform providers,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.modulehub.io,modulehub,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=RldRDryLiXs,Terraform At Scale,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://segment.com/blog/the-segment-aws-stack/,The Segment AWS Stack,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=l5k1ai_GBDE,Terraform explained in 15 mins,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform,Zero Downtime Updates with HashiCorp Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=p2ESyuqPw1A,Terraform w/ Lee Trout,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=SLB_c_ayRMo,Terraform Course,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=cHrOXPatFeg,Terraforming the Composable World,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+http://blog.jfabre.net/2017/01/22/writing-terraform-provider/,Writing a Terraform provider,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=LVgP63BkhKQ,How to Build Reusable, Composable, Battle tested Terraform Modules,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/,Terraform Design Patterns: the Terrafile,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://discuss.hashicorp.com/c/terraform-core/27,Terraform Discuss,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=cG7pcksTAnY,Building Scalable, Repeatable Infrastructure in the Cloud with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://registry.terraform.io/,Terraform Provider/Module Registry,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=fo3VX33Zx0c,Creating a Google Compute Instance with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://segment.com/blog/the-million-dollar-eng-problem/,The Million Dollar Engineering Problem,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/,Terraform, VPC, and why you want a tfstate file per env,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.hashicorp.com/resources/creating-terraform-provider-for-anything,Creating a Terraform Provider for Just About Anything,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5,Using Pipelines to Manage Environments with Infrastructure as Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.youtube.com/watch?v=wgzgVm7Sqlk,Evolving Your Infrastructure with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://cloudcraft.co/app,Cloudcraft.co,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code,Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://pretf.readthedocs.io/en/latest/,pretf documentation,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://charity.wtf/2016/02/23/two-weeks-with-terraform/,Two Weeks with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://chrislewisdev.github.io/prettyplan/,https://chrislewisdev.github.io/prettyplan/,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+http://shop.oreilly.com/product/0636920039297.do,Infrastructure as Code,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/,Terraform: Beyond the Basics with AWS,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://serverless.tf/,serverless.tf - Doing serverless with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.scalr.com/blog/opa-series-part-1-open-policy-agent-and-terraform/,How To Write OPA for Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://terraspace.cloud,terraspace,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code,Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
 https://runatlantis.io,Atlantis,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
 https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean,terraform-digitalocean-droplet,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
-https://registry.terraform.io/modules/linode/k8s/linode/,terraform-linode-k8s,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/,Deploying Django to AWS ECS with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.terraform-best-practices.com/,Terraform Best Practices,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.amazon.fr/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557,Terraform Cookbook,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform
+https://www.manning.com/books/terraform-in-action,Terraform in Action,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform

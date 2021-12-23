@@ -1,0 +1,1 @@
+http://sdrsharp.com,sdrsharp on .NET,https://github.com/kyleterry/awesome-radio#readme,Radio error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)

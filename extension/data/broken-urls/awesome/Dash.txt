@@ -1,1 +1,2 @@
 http://lukas-snoek.com/voxelviz,VoxelViz,https://github.com/ucg8j/awesome-dash#readme,Dash error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://belle-croissant-54211.herokuapp.com/,Visualize Earthquakes with Plotly Dash,https://github.com/ucg8j/awesome-dash#readme,Dash error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,3 +1,8 @@
+https://terraform.io,,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
 https://www.hashicorp.com/blog/category/terraform,Hashicorp Terraform Blog,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://docs.geopoiesis.io/manual/,geopoiesis,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: URLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1076)')) | reason: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1076)
+https://www.terraform.io/intro/,Introduction to Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.terraform.io/docs/,Terraform Documentation,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://learn.hashicorp.com/terraform/,Terraform learn,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.terraform.io/docs/extend/writing-custom-providers.html,Writing Custom Providers,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.g10s.io/hashicorp-terraform/,Learning HashiCorp Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.hashicorp.com/blog/terraform-discourse.html,Deploying Discourse with Terraform,https://github.com/shuaibiyy/awesome-terraform#readme,Terraform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

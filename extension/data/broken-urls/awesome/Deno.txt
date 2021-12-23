@@ -1,4 +1,6 @@
+https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno,Create interactive mail utility CLI Tool using Deno,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://deno.land/std/,deno_std,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://deno.land/x/,Deno Registry,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://deno.land/x/,deno.land/x,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://deno.land/x/dinoenv,dinoenv,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://denoland.id/,Deno Land Indonesia website,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://denoland.id/,Deno Land Indonesia website,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://deno-playground.now.sh,Deno Playground,https://github.com/denolib/awesome-deno#readme,Deno error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

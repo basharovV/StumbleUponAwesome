@@ -1,0 +1,1 @@
+https://muut.io/,MuutIo,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)

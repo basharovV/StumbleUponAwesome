@@ -1,0 +1,4 @@
+https://deeplearning4j.org,Deeplearning4j,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://jade.tilab.com,JADE,https://github.com/akullpp/awesome-java#readme,Java error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://virtualjug.com,VirtualJUG,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://azure.microsoft.com/en-us/,Microsoft Azure,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

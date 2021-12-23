@@ -1,0 +1,1 @@
+https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/,Handling authorization in a Laravel and Inertia.js application,https://github.com/innocenzi/awesome-inertiajs#readme,Inertia.js error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

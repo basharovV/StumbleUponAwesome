@@ -1,0 +1,1 @@
+http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/,Source,https://github.com/phanan/htaccess#readme,Useful .htaccess Snippets error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

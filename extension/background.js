@@ -339,7 +339,7 @@ const getLastWindowId = async () => {
 }
 
 function update() {
-  chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen'], function (result) {
+  chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen', 'show_update'], function (result) {
 
     if (result.welcome_seen === undefined || result.welcome_seen === false || result.welcome_seen === null) {
       chrome.tabs.executeScript({
@@ -348,9 +348,11 @@ function update() {
         chrome.tabs.executeScript({
           file: 'content.js'
         }, function () {
-          notifyTabWelcome();
+            notifyTabWelcome();
         });
       });
+    } else if (result.show_update) {
+      notifyTabUpdate();
     } else {
       const count = result.visited === undefined ? 0 : parseInt(result.visited)
       const incremented = count + 1;
@@ -381,6 +383,14 @@ function notifyTabWelcome() {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
     chrome.tabs.sendMessage(stumbleTabId, { "message": "welcome", "os": os });
+  });
+}
+
+function notifyTabUpdate() {
+  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+    var activeTab = tabs[0];
+    chrome.tabs.sendMessage(stumbleTabId, { "message": "update" });
+    chrome.storage.local.set('show_update', false);
   });
 }
 
@@ -420,9 +430,14 @@ function clearCounter() {
   chrome.storage.local.remove(['visited'])
 }
 
-chrome.runtime.onInstalled.addListener(function () {
+chrome.runtime.onInstalled.addListener(function (details) {
   // For development purposes only, uncomment when needed
   // chrome.storage.local.remove(['visited', 'welcome_seen', 'totalUrls'])
+  
+  // Check for update
+  if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
+    chrome.storage.local.set('show_update', true);
+  }
 
   chrome.contextMenus.removeAll(function () {
     chrome.contextMenus.create({

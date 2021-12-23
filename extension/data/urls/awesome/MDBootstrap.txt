@@ -1,0 +1,41 @@
+https://mdbootstrap.com,,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/gradients/,CSS gradients generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/modals/,Modals generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA,Video Tutorials,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/,MDB Standard Free,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/icons/,Icons generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/,Fancy border radius generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/getting-started/,Written Tutorials,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/b5/angular/,MDB Angular Free,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/table/,Table generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/meta-tags/,Meta tags generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/b5/react/,MDB React Free,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/cards/,Cards generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/flexbox/,Flexbox generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/react/mobile/,MDB React Mobile,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/b5/vue/,MDB Vue Free,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/buttons/,Buttons generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/footer/,Footer generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/charts/,Charts creator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/navbar/,Navbar generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/shadows/,Shadows generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/cli/,MDB CLI,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/waves/,SVG waves generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/cli/quick-start/,Quick Start,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/vue/mobile/,MDB Vue Mobile,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/cli/getting-started/,Getting Started,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/datatables/,Datatables builder,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/builders/alerts/,Alerts generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/cli/overview/,Overview,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/pro/,MDB Standard Pro,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/snippets/,Snippets,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/lab/,LAB,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/b5/angular/pro/,MDB Angular Pro,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/technology-comparison/,Technology comparision,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/b5/react/pro/,MDB React Pro,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/articles/,Articles,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/logo-generator/,Logo generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/masks/,CSS Masks & Glassmorphism Generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/standard/tools/design/instagram-filters/,Instagram filters CSS generator,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/b5/vue/pro/,MDB Vue Pro,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap
+https://mdbootstrap.com/docs/angular/mobile/,MDB Angular Mobile,https://github.com/mdbootstrap/awesome-mdbootstrap#readme,MDBootstrap

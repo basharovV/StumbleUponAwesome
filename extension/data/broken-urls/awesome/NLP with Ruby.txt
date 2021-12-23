@@ -1,2 +1,3 @@
 http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 410: 'Gone'> | reason: Gone
-http://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: timeout('timed out') | reason: 
+https://colindrake.me/post/k-means-clustering-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://rubywordcount.com/,Words Counted,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found

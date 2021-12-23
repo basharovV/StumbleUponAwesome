@@ -1,71 +1,128 @@
-http://www.lispworks.com/documentation/common-lisp.html,The Common Lisp Hyperspec,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://cliki.net/Getting+Started,Cliki on CLtL2,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/,The Art of the Metaobject Protocol by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://discord.gg/GEyD6,Lisp Discord server,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw,training videos on YouTube,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.cons.org/cmucl/,Carnegie Mellon University Common Lisp (CMUCL),https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/clm/node200.html,FORMAT,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.cons.org/cmucl/doc/index.html,CMUCL manual and other useful information,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://stackoverflow.com/questions/108537/what-are-the-main-differences-between-cltl2-and-ansi-cl,Stack Overflow on CLtL2,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://articulate-lisp.com,Articulate Common Lisp,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://exercism.io/languages/common-lisp/about,Exercism,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://metamodular.com/CLOS-MOP/,Chapters 5 and 6 (available online),https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://common-lisp.net/project/ecl/,Embeddable Common Lisp (ECL),https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.cs.cmu.edu/~dst/LispBook/,Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://articulate-lisp.com/project/abcs.html,useful libraries,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/,Comments on Let Over Lambda,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://common-lisp.net/project/ecl/static/manual/,ECL manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.adamtornhill.com/reviews/amop.htm,Adam Tornhill on AMOP,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.catb.org/esr/faqs/smart-questions.html,ask smart questions,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://articulate-lisp.com/project/new-project.html,structure projects,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.lispworks.com/products/index.html,LispWorks,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.cs.cmu.edu/~dst/Lisp/dtrace/,DTRACE,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.lispworks.com/downloads/index.html,Personal Edition,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.quicklisp.org/beta,Quicklisp,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.cs.cmu.edu/~dst/Lisp/sdraw/,SDRAW,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://common-lisp.net/project/slime/doc/html/,SLIME manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.lispworks.com/documentation/index.html,LispWorks manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://cliki.net,Cliki,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://letoverlambda.com/index.cl/guest/chap2.html,The chapter on closures,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.quicklisp.org/beta/,Quicklisp,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://lispcookbook.github.io/cl-cookbook/getting-started.html,installing an implementation,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://landoflisp.com,Land of Lisp by Conrad Barski, MD,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://cliki.net/Getting+Started,Getting Started,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.lispworks.com/documentation/HyperSpec/Body/07_.htm,Chapter 7,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://shinmera.github.io/portacle/,Portacle,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://quickdocs.org,Quickdocs,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.nostarch.com/lisp.htm,ebook,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://common-lisp.net/project/lispbox/,Lispbox,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://cliki.net/Lisp%20books,Lisp books,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.sbcl.org,Steel Bank Common Lisp (SBCL),https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://lispcookbook.github.io/cl-cookbook/,The Common Lisp Cookbook,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.cse.buffalo.edu/~shapiro/Commonlisp/,Common Lisp: An interactive approach by Stuart C. Shapiro,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://landoflisp.com/errata.html,errata page,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.cliki.net/IRC,other rooms,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://borretti.me/article/common-lisp-sotu-2015,State of the Common Lisp Ecosystem, 2015,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://freenode.net,Freenode IRC network,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.gigamonkeys.com/book/,Practical Common Lisp by Peter Seibel,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.sbcl.org/manual/index.html,SBCL manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.cliki.net/Common%20Lisp%20implementation,free software Common Lisp Implementations,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html,Common Lisp the Language (2nd Edition) by Guy L. Steele,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.gigamonkeys.com/book/lather-rinse-repeat-a-tour-of-the-repl.html,mentioned,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.lispworks.com/downloads/,Lispworks Personal Edition,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.paulgraham.com/onlisp.html,On Lisp by Paul Graham,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://www.paulgraham.com/acl.html,ANSI Common Lisp by Paul Graham,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/,SCL manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://letoverlambda.com,Let Over Lambda by Doug Hoyte,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://franz.com/products/allegrocl/,Allegro Common Lisp,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://franz.com/support/documentation/,ACL manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://stackoverflow.com/a/7224914/1005039,Rainer Joswig's Stack Overflow answer on learning Common Lisp,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://cliki.net/Getting%20Started,Cliki's Getting Started,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://franz.com/downloads/clp/survey,Express Edition,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://lib.store.yahoo.net/lib/paulgraham/acl1.txt,Chapter 1,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://clisp.sourceforge.io,CLISP,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/,Scieneer Common Lisp (SCL),https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://lib.store.yahoo.net/lib/paulgraham/acl2.txt,Chapter 2,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-http://weitz.de/cl-recipes/,Common Lisp Recipes by Edmund Weitz,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://clisp.sourceforge.io/impnotes.html,CLISP Manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.amazon.com/Object-Oriented-Programming-COMMON-LISP-Programmers/dp/0201175894,Object-Oriented Programming in Common Lisp by Sonya E. Keene,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://ccl.clozure.com,Clozure Common Lisp (CCL),https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://ccl.clozure.com/manual/,CCL manual,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
-https://www.reddit.com/r/Common_Lisp,Common Lisp Subreddit,https://github.com/GustavBertram/awesome-common-lisp-learning#readme,Learning
+https://mastering-shiny.org/,Mastering Shiny,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://stackoverflow.com,https://stackoverflow.com,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.r-project.org/about.html,,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a,How to Start with Shiny,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.data-to-viz.com/,From Data to Viz,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.data-imaginist.com/,Data Imaginist,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://bookdown.org/rdpeng/exdata/,Exploratory Data Analysis with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/c/DragonflyStatistics/videoss,Dragonfly Statistics,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w,Statistics Globe,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://shiny.rstudio.com/articles/,Shiny Articles,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://discord.gg/88uG5UVyE2,R - discoRd server,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://mastering-shiny-solutions.org/index.html,Mastering Shiny Exercise solutions,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://exts.ggplot2.tidyverse.org/gallery/,ggplot2 extensions - gallery,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://discord.gg/6fcReuUHgg,,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://moderndive.com/,Statistical Inference via Data Science,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.williamrchase.com/work/art/,12 Months of aRt,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://www.rebeccabarter.com/blog/,Data meets Narrative,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://ggplot2.tidyverse.org/reference/theme.html,ggplot2 - Modify components of a theme,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/c/StatistikinDD/featured,StatistikinDD,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv,IDG TECHtalk,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://b-rodrigues.github.io/modern_R/,Modern R with the tidyverse,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://suzan.rbind.io/2018/01/dplyr-tutorial-1/,Data Wrangling Part 1: Basic to Advanced Ways to Select Columns,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html,An Introduction to Choropleth maps in R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://otexts.com/fpp3/,Forecasting: Principles and Practice,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rpubs.com/williamsurles/293454,Joining Data in R with dplyr,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://www.modernstatisticswithr.com/,Modern Statistics with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://suzan.rbind.io/2018/02/dplyr-tutorial-2/,Data Wrangling Part 2: Transforming your columns into the right shape,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://smltar.com/,Supervised Machine Learning for Text Analysis in R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://adv-r.hadley.nz/introduction.html,Advanced R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA,Julia Silge,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx,StatQuest with Josh Starmer,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf,Practical Regression and Anova using R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://r-podcast.org/,The R-Podcast,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.reddit.com/r/Rlanguage/new/,Subreddit - r/Rlanguage - R Programming Language,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://johnmackintosh.net/,HighlandR,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf,Practicals and Exercises,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.tidytextmining.com/,Text Mining with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://geocompr.robinlovelace.net/,Geocomputation with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://suzan.rbind.io/2018/02/dplyr-tutorial-3/,Data Wrangling Part 3: Basic and more advanced ways to filter rows,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rcompanion.org/handbook/C_02.html,Descriptive Statistics,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ,TidyX,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos,Lander Analytics,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://advanced-r-solutions.rbind.io/,Exercise Solutions,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.reddit.com/r/rprogramming/,Subreddit - r/programming - The R Project for Statistical Computing,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://qpolr.com/qpolr.pdf,Quantitative Politics with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ,Andrew Couch,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/,Graphics in R with ggplot2,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://statsandr.com/blog/descriptive-statistics-in-r/,Descriptive statistics in R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf,An Introduction to R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://juliasilge.com/blog/,Julia Silge,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html,Syntax equivalents: base R vs Tidyverse,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://suzan.rbind.io/2018/04/dplyr-tutorial-4/,Data Wrangling Part 4: Summarizing and slicing your data,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd,Essential Math for Data Science,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://ggplot2-book.org/index.html,ggplot2: Elegant Graphics for Data Analysis,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/c/marinstatlectures/featured,MarinStatsLectures,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://datavizcatalogue.com/index.html,The Data Visualization Catalogue,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://martinctc.github.io/blog/,Musings on R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf,The Art of R Programming,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/user/benastenhaug/videos,Ben Stenhaug,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://intro2r.com/,An Introduction to R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://atrebas.github.io/post/2020-06-17-datatable-introduction/,data.table: A gentle introduction,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rc2e.com/index.html,R Cookbook, 2nd Edition,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rweekly.org/about,rweekly,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://happygitwithr.com/,Happy Git and GitHub for the useR,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum,The Graphic Continuum,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://thinkr-open.github.io/fakir/,Fakir - Create Fake Data in R for Tutorials,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://jrnold.github.io/r4ds-exercise-solutions/,Exercise Solutions,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://ryo-n7.github.io/,Ryo Nakagawara,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf,The Book of R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/playlist?list=PLd6eTXMmV3X-4-pHkZSJwHRACzSSyeT9T,Cédric Scherer,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402,Getting latitude & longitude for any address,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rafalab.github.io/dsbook/,Introduction to Data Science - Data Analysis and Prediction Algorithms with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm,Gallery of Statistical Distributions,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://stringr.tidyverse.org/articles/from-base.html,From base R to stringr,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://crumplab.github.io/statistics/,Answering Questions with Data,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.r-graph-gallery.com/,The R Graph Gallery,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://nostarch.com/bookofr,Exercise solutions,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/watch?v=5gqksthQ0cM,Help me help you: creating reproducible examples,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos,Richard Webster,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf,Introduction to Probability and Statistics Using R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/,Plotting distributions (ggplot2),https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA,Colin Quirk,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://reprex.Tidyverse.org,https://reprex.Tidyverse.org,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.littlemissdata.com/blog/maps,Map Plots Created With R And Ggmap,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://stat.ethz.ch/R-manual/R-patched/doc/html/,The R Language,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html,donation in support of Asian communites,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.littlemissdata.com/blog/heatmaps,Time Based Heatmaps in R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/watch?v=uZtto0cYjZM,Plot Spatial Data / Shapefiles in R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html,The ultimate R data.table cheat sheet,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ,RichardOnData,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://datasciencebox.org/index.html,Data Science in a Box,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://rspatial.org/intr/index.html,Introduction to R & Spatial Data with Raster and Terra,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html,Top 50 ggplot2 Visualizations - The Master List (With Full R Code),https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.tmwr.org/,Tidy Modeling with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ,Data Analysis and Visualization Using R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://deanattali.com/blog/building-shiny-apps-tutorial/,Building Shiny apps - an interactive tutorial,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://data-flair.training/blogs/r-tutorials-home/,Data Flair,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://statisticsglobe.com/,Statistics Globe,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://datascienceineducation.com/,Data Science in Education Using R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/c/ShinyDeveloperSeries/videos,Shiny Developer Series,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://book.javascript-for-r.com/,JavaScript for R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://community.rstudio.com,https://community.rstudio.com,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.alexcookson.com/,Alex Cookson,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q,Data Science with Tom,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://csgillespie.github.io/efficientR/,Efficient R programming,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.rfordatasci.com/,R for Data Science (R4DS) Online Learning Community,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://learningstatisticswithr.com/,Learning Statistics with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG,Simplilearn,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit,presentation slides,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.statsandr.com/,Stats and R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://engineering-shiny.org/,Engineering Production-Grade Shiny Apps,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA,David Jablonski,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://colab.research.google.com/drive/14CRElnKewnp5MnlxhqVu6OOcIXd-Bkaj?usp=sharing,Intro to R course by Fabio Votta - part 2,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://dereksonderegger.github.io/570L/,A Sufficient Introduction to R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.dataenq.com/2020/08/data-manipulation-in-r-using-data-frame.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dataenqfeed+%28dataENQ%29,Data manipulation in r using data frames - an extensive article of basics,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+http://nssdeviations.com/,Not so Standard Deviations,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://jmbuhr.de/dataIntro20/,Introduction to Data Analysis with R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ,David Robinson,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.avery-robbins.com,Avery Robbins,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.youtube.com/c/DAattali/videos,Dean Attali,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/,A ggplot2 Tutorial for Beautiful Plotting in R,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://tonyelhabr.rbind.io/,Tony ElHabr,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://r-coder.com,R CODER,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.tutorialspoint.com/r/index.htm,Tutorials Point,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf,Chart Suggestions — A thought-starter on choosing the way to show your data,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.color-hex.com/,Color Hex Color Codes,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf,stat.berkeley - Introduction to Functions,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning
+https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/,Combine Multiple GGPlots into a Figure,https://github.com/iamericfletcher/awesome-r-learning-resources#readme,Learning

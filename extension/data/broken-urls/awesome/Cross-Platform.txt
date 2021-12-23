@@ -1,3 +1,3 @@
-https://nz.linkedin.com/in/jsonc11,Jason Cooke,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform error: <HTTPError 999: 'Request denied'> | reason: Request denied
-http://aronhafner.com,Aron Hafner,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform error: <HTTPError 308: 'Unknown'> | reason: Unknown
-https://fb.com/RemoveU,Hongarc,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://nz.linkedin.com/in/jsonc11,Jason Cooke,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform error: <HTTPError 999: 'INKApi Error'> | reason: INKApi Error
+http://aronhafner.com,Aron Hafner,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://azure.microsoft.com/en-us/services/devops/pipelines/,Azure Pipelines,https://github.com/bcoe/awesome-cross-platform-nodejs#readme,Cross-Platform error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

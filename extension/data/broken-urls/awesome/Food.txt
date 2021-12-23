@@ -1,0 +1,1 @@
+http://www.recipepuppy.com/about/api/,RecipePuppy,https://github.com/jzarca01/awesome-food#readme,Food error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error

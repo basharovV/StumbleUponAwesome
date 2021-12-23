@@ -1,0 +1,3 @@
+https://ionicons.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://material.io/tools/icons,Website,https://github.com/notlmn/awesome-icons#readme,Icons error: <HTTPError 308: 'Resume Incomplete'> | reason: Resume Incomplete
+https://www.heroicons.com,Heroicons,https://github.com/notlmn/awesome-icons#readme,Icons error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

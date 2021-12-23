@@ -1,10 +1,10 @@
 https://vapor.codes,,https://github.com/Cellane/awesome-vapor#readme,Vapor
-https://vapor.red,Vapor Red,https://github.com/Cellane/awesome-vapor#readme,Vapor
 https://theswiftdev.com/2019/08/26/whats-new-in-vapor-4/,What’s new in Vapor 4?,https://github.com/Cellane/awesome-vapor#readme,Vapor
+https://vapor.red,Vapor Red,https://github.com/Cellane/awesome-vapor#readme,Vapor
+https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/,Deep Dive into Setup and Deployment for Heroku and Ubuntu,https://github.com/Cellane/awesome-vapor#readme,Vapor
 https://store.raywenderlich.com/products/server-side-swift-with-vapor,Server Side Swift with Vapor,https://github.com/Cellane/awesome-vapor#readme,Vapor
 https://www.hackingwithswift.com/store/server-side-swift,Server-Side Swift (Vapor Edition),https://github.com/Cellane/awesome-vapor#readme,Vapor
 http://vapornation.news,VaporNation,https://github.com/Cellane/awesome-vapor#readme,Vapor
-https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/,Deep Dive into Setup and Deployment for Heroku and Ubuntu,https://github.com/Cellane/awesome-vapor#readme,Vapor
 https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/,How to test controllers by mocking dependencies in Vapor 3 and Swift,https://github.com/Cellane/awesome-vapor#readme,Vapor
 https://mihaelamj.github.io/Vapor%20%203%20Tutorial/,Vapor 3 Tutorials,https://github.com/Cellane/awesome-vapor#readme,Vapor
 https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1,Server Side Swift with Vapor,https://github.com/Cellane/awesome-vapor#readme,Vapor

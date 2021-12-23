@@ -1,39 +1,38 @@
-https://www.adobe.com/products/air.html,,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://code.google.com/archive/p/as3glue/,AS3glue,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://flex.apache.org/,Apache Flex®,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://code.google.com/archive/p/as3glue/,AS3glue,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://www.adobe.com/products/air.html,,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://royale.apache.org/,Apache Royale®,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://as3mxml.com/,Visual Studio Code,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://en.wikipedia.org/wiki/Adobe_AIR,Adobe AIR,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://en.wikipedia.org/wiki/ActionScript,ActionScript 3,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://royale.apache.org/,Apache Royale®,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://gamua.com/starling/,Starling,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://as3mxml.com/,Visual Studio Code,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://eval.hurlant.com/,AS3eval,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://citrusengine.com/,CitrusEngine,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://feathersui.com/,Feathers UI,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://www.henke37.cjb.net/windebug/,WinDebug,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://www.adobe.com/products/scout.html,Adobe Scout,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://www.tuio.org/?flash,web,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://gamua.com/starling/,Starling,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://www.adobe.com/products/animate.html,Adobe Animate CC,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://www.isohill.com/,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://www.kindi.com/,secureSWF,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://www.henke37.cjb.net/windebug/,WinDebug,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://awaytools.com/awaybuilder/,AwayBuilder,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://www.libspark.org/wiki/saqoosha/FLARToolKit/en,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://flashdevelop.org/,FlashDevelop,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://www.kindi.com/,secureSWF,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://feathersui.com/,Feathers UI,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://www.ambiera.com/irrfuscator/,irrFuscator,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://www.swfwire.com/,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://flare3d.com/,Flare3D,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://words.transmote.com/wp/flarmanager/,FLARManager,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://fdt.powerflasher.com/,Powerflasher FDT,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://www.swfwire.com/,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://www.tuio.org/?flash,web,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://flashdevelop.org/,FlashDevelop,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://www.as3sorcerer.com/,AS3Sorcerer,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://fdt.powerflasher.com/,Powerflasher FDT,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://www.adobe.com/products/flash-builder.html,Adobe Flash Builder,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://sourceforge.net/projects/openflashchart/,Open Flash Charts,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://gskinner.com/libraries/gtween/,GTween,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://desuade.com/partigen,Desuade Partigen,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://dragonbones.github.io/,DragonBones,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://zxing.github.io/zxing/,docs,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html,IntelliJ IDEA,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://www.sothink.com/product/flashdecompiler/,Sothink Decompiler,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 http://www.flasheff.com/,FlashEff2,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://moonshine-ide.com/,Moonshine IDE,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://wiki.starling-framework.org/start,help,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html,IntelliJ IDEA,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://feathersui.com/help/index.html,help,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://words.transmote.com/wp/flarmanager/,FLARManager,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://sourceforge.net/projects/openflashchart/,Open Flash Charts,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+http://desuade.com/partigen,Desuade Partigen,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
+https://zxing.github.io/zxing/,docs,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://code.google.com/archive/p/aszip/,ASZip,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
 https://code.google.com/archive/p/alivepdf/,AlivePDF,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-http://wiki.starling-framework.org/start,help,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3
-https://feathersui.com/help/index.html,help,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3

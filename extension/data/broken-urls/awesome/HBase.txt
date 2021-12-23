@@ -1,1 +1,4 @@
-http://gethue.com,Hue,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 308: 'Unknown'> | reason: Unknown
+https://azure.microsoft.com/en-us/services/hdinsight/,Azure HDInsight,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ngdata.github.io/hbase-indexer/,Lily HBase Indexer,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://gethue.com,Hue,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://axibase.com/products/axibase-time-series-database/,Axibase,https://github.com/rayokota/awesome-hbase#readme,HBase error: <HTTPError 404: 'Not Found'> | reason: Not Found

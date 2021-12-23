@@ -1,17 +1,18 @@
-https://libgdx.badlogicgames.com/,,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html,Sub-pixel Perfect Smooth Scrolling,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-https://kenney.nl/,Kenney Assets,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-https://ray3k.wordpress.com/artwork/,Ray3K Skins,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-https://opengameart.org/,OpenGameArt.org,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://libgdx.com/,,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 http://esotericsoftware.com/,Spine,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-http://tann.space/HelloLibgdx/,Tann's Hello libGDX,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://ray3k.wordpress.com/artwork/,Ray3K Skins,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://colourtann.github.io/HelloLibgdx/,Tann's Hello libGDX,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi,Brandon Grasley's Space Shooter Game,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://link.medium.com/vgYo0mSi3W,iOS Deployment Tutorial,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 https://youtu.be/Rnmq_Jv-pe4,Splash Screens,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 https://youtu.be/3l5F7f7vfTU,Creating a Launcher,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-https://www.bfxr.net/,bfxr.net,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html,Sub-pixel Perfect Smooth Scrolling,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html,JSON in Game Dev,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-https://discord.gg/4S8pQqc,Discord,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://kenney.nl/,Kenney Assets,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 https://youtu.be/zKfh6WuaikQ,Code Hotswapping,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://opengameart.org/,OpenGameArt.org,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/,Dynamic Textures with Pixmap,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://www.bfxr.net/,bfxr.net,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
+https://discord.gg/4S8pQqc,Discord,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 https://www.reddit.com/r/libgdx/,Reddit,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
 http://gameaccessibilityguidelines.com/,Game Accessibility Guidelines,https://github.com/rafaskb/awesome-libgdx#readme,libGDX
-https://link.medium.com/vgYo0mSi3W,iOS Deployment Tutorial,https://github.com/rafaskb/awesome-libgdx#readme,libGDX

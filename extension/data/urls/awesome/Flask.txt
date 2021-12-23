@@ -1,25 +1,93 @@
-https://exploreflask.com/en/latest/,Explore Flask,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://speakerdeck.com/kennethreitz/flasky-goodness,Flasky Goodness,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask,Domain Driven Design (... with Flask),https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://speakerdeck.com/playpauseandstop/in-flask-we-trust,In Flask we Trust,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-http://shop.oreilly.com/product/0636920031116.do,Flask Web Development,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://pyvideo.org/search.html?q=flask,PyVideo,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://realpython.com,Real Python,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://flask-dramatiq.rtfd.io/,Flask-Dramatiq,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB,Practical Flask Web Development Tutorials,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://airbrake.io/,Airbrake,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://git.zx2c4.com/zmusic-ng/,zmusic-ng,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://zipkin.io/,Zipkin,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.packtpub.com/web-development/learning-flask-framework,Learning Flask Framework,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.packtpub.com/web-development/flask-blueprints,Flask Blueprints,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.packtpub.com/web-development/flask-framework-cookbook,Flask Framework Cookbook,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://gae-init.appspot.com,gae-init,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-http://blog.apps.npr.org/2013/02/14/app-template-redux.html,How to build a news app that never goes down and costs you practically nothing,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.packtpub.com/web-development/mastering-flask,Mastering Flask,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world,The Flask Mega-Tutorial,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-http://blog.luisrei.com/articles/flaskrest.html,Implementing a RESTful Web API with Python & Flask,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.udacity.com/course/full-stack-foundations--ud088,Full Stack Foundations,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.packtpub.com/web-development/building-web-applications-flask,Building Web Applications with Flask,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://www.udacity.com/course/designing-restful-apis--ud388,Designing RESTful APIs,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-http://pycoder.net/bospy/presentation.html,Creating beautiful REST APIs with Flask,https://github.com/humiaozuzu/awesome-flask#readme,Flask
-https://speakerdeck.com/mitsuhiko/advanced-flask-patterns,Advanced Flask Patterns,https://github.com/humiaozuzu/awesome-flask#readme,Flask
+https://www.udacity.com/course/designing-restful-apis--ud388,Designing RESTful APIs,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.reddit.com/r/flask/,Reddit,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pythonhosted.org/Flask-Principal/,Flask Principal,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://stackoverflow.com/questions/tagged/flask,Stack Overflow,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://git.sr.ht/~sircmpwn/core.sr.ht/tree,sr.ht,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://mixer.readthedocs.io,Mixer,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-security-too.readthedocs.io/en/stable/,Flask-Security-Too,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-socketio.readthedocs.io,Flask-SocketIO,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://sqlalchemy-searchable.readthedocs.io,SQLAlchemy-Searchable,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://docs.python-eve.org,Eve,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-marshmallow.readthedocs.io,Flask-Marshmallow,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html,Why I chose Flask to build sr.ht's mini-services,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-classful.teracy.org/,Flask-Classful,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://rollbar.com/platforms/flask-error-tracking/,Rollbar,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.oreilly.com/library/view/flask-web-development/9781491991725/,Flask Web Development,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://testdriven.io/,TestDriven.io,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flaskcon.com/,FlaskCon,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-restful.readthedocs.io,Flask-RESTful,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-user.readthedocs.io,Flask-User,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-bcrypt.readthedocs.io,Flask-Bcrypt,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-peewee.readthedocs.io,Flask-Peewee,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask.palletsprojects.com/tutorial/,Flaskr Tutorial,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://realpython.com,Real Python,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pypi.org/project/Flask-Pony/,Flask-Pony,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.fullstackpython.com/flask.html,Full Stack Python's Flask Page,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://airbrake.io/docs/installing-airbrake/installing-airbrake-in-a-flask-app/,Airbrake,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-user.readthedocs.io/en/latest/faq.html,FAQ,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pyvideo.org/search.html?q=flask,PyVideo,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://2019.flask.python.org.br/,Flask Conf Brazil,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB,Practical Flask Web Development Tutorials,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-cors.readthedocs.io,Flask-CORS,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://connexion.readthedocs.io,Connexion,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pythonhosted.org/Flask-JWT/,Flask-JWT,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html,Elastic APM Agent,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://us.pycon.org/,PyCon US,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-sqlalchemy.palletsprojects.com,Flask-SQLAlchemy,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH,Python Flask Tutorial: Full-Featured Web App,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://blog.miguelgrinberg.com/category/Flask,Miguel Grinberg's Blog,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.pythonanywhere.com/details/flask_hosting,PythonAnywhere,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://docs.celeryproject.org/,Celery,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.divio.com,Divio,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-jwt-extended.readthedocs.io,Flask-JWT-Extended,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-mongoengine.readthedocs.io,Flask-MongoEngine,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.openapis.org/,OpenAPI,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-monitoringdashboard.readthedocs.io,Flask Monitoring Dashboard,https://github.com/mjhea0/awesome-flask#readme,Flask
+http://hack4impact.github.io/flask-base/,flask-base,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://nickjanetakis.com/blog/tag/flask-tips-tricks-and-tutorials,Nick Janetakis's Blog,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pycon-au.org/,PyCon Australia,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://sentry.io/for/flask/,Sentry Python SDK,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-restx.readthedocs.io,Flask-RESTX,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pythonhosted.org/Flask-Testing/,Flask-Testing,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-pymongo.readthedocs.io,Flask-PyMongo,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-praetorian.readthedocs.io,Flask-Praetorian,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-dramatiq.rtfd.io/,Dramatiq,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://europython.eu/,Euro Python,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pythonhosted.org/Flask-Mail/,Flask-Mail,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://python-rq.org/,RQ,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://authlib.org/,Authlib,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pypi.org/project/flask-mailman/,Flask-Mailman,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pycon.org/,PyCon,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-restplus.readthedocs.io/,Flask-RESTPlus,https://github.com/mjhea0/awesome-flask#readme,Flask
+http://www.patricksoftwareblog.com/flask-tutorial/,Patrick Kennedy's Blog,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://huey.readthedocs.io,Huey,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.meetup.com/topics/python/all/,Python,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-alembic.readthedocs.io,Flask-Alembic,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://realpython.com/tutorials/flask/,RealPython,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.fullstackpython.com/best-python-podcasts.html,Full Stack Python's Best Python Podcasts Page,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://oauthlib.readthedocs.io/,OAuthLib,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pythonhosted.org/Flask-FlatPages/,Flask-FlatPages,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-wtf.readthedocs.io,Flask-WTF,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.meetup.com/topics/flask/all/,Flask,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://testdriven.io/blog/topics/flask/,TestDriven.io,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://home.cern/,CERN,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-apispec.readthedocs.io/,Flask-APISpec,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://alembic.sqlalchemy.org/,Alembic,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://discord.com/invite/t6rrQZH,Discord,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://pythonhosted.org/Flask-paginate/,Flask-Paginate,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-caching.readthedocs.io/,Flask-Caching,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world,Flask Mega-Tutorial,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://mail.python.org/mailman/listinfo/flask,Mailing List,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html,Make a Web App Using Python & Flask!,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-migrate.readthedocs.io,Flask-Migrate,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-httpauth.readthedocs.io,Flask-HTTPAuth,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-sitemap.readthedocs.io,Flask-Sitemap,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://testdriven.io/courses/learn-flask/,Developing Web Applications with Python and Flask,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-login.readthedocs.io/,Flask-Login,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://testdriven.io/courses/tdd-flask/,Test-Driven Development with Python, Flask, and Docker,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://flask-debugtoolbar.readthedocs.io,Flask-DebugToolbar,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://testdriven.io/courses/auth-flask-react/,Authentication with Flask, React, and Docker,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://testdriven.io/courses/aws-flask-react/,Deploying a Flask and React Microservice to AWS ECS,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://buildasaasappwithflask.com,Build a SAAS App with Flask,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.meetup.com/topics/python-web-development/all/,Python Web Development,https://github.com/mjhea0/awesome-flask#readme,Flask
+https://www.udacity.com/course/full-stack-foundations--ud088,Full Stack Foundations,https://github.com/mjhea0/awesome-flask#readme,Flask

@@ -1,1 +1,2 @@
 https://www.dropwizard.io/0.9.1/docs/,dropwizard,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://cloud.influxdata.com/plan-picker,InfluxCloud,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB error: <HTTPError 404: 'Not Found'> | reason: Not Found

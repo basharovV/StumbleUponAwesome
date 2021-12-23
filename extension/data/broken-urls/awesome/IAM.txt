@@ -1,0 +1,7 @@
+https://shipyourenemiesgdpr.com,Ship Your Enemies GDPR,https://github.com/kdeldycke/awesome-iam#readme,IAM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://amzn.com/0778324338/?tag=kevideld-20,Poison Study,https://github.com/kdeldycke/awesome-iam#readme,IAM error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blog.bren2010.io/2014/12/04/macaroons.html,Google's Macaroons in Five Minutes or Less,https://github.com/kdeldycke/awesome-iam#readme,IAM error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://news.ycombinator.com/item?id=20136831,authz system that is built around labeled security and RBAC concepts,https://github.com/kdeldycke/awesome-iam#readme,IAM error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://growth.design/case-studies/trello-user-onboarding/,Trello User Onboarding,https://github.com/kdeldycke/awesome-iam#readme,IAM error: <HTTPError 308: 'Unknown'> | reason: Unknown
+https://www.cloudflare.com/learning/access-management/what-is-oauth/,SAML vs. OAuth,https://github.com/kdeldycke/awesome-iam#readme,IAM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.zdnet.com/article/sim-swap-horror-story-ive-lost-decades-of-data-and-google-wont-lift-a-finger/,SIM swap horror story,https://github.com/kdeldycke/awesome-iam#readme,IAM error: timeout('The read operation timed out') | reason: 

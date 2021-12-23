@@ -1,1 +1,2 @@
-https://slony.info/,Slony-I,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+https://azure.microsoft.com/en-us/services/postgresql/,Azure Database for PostgreSQL,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://omnidb.org/en/,OmniDB,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: <HTTPError 404: 'Not Found'> | reason: Not Found

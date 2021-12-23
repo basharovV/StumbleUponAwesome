@@ -1,1 +1,3 @@
-https://elements.polymer-project.org/browse?package=paper-elements,Paper Polymer Elements,https://github.com/sachin1092/awesome-material#readme,Material Design error: URLError(OSError(0, 'Error')) | reason: [Errno 0] Error
+https://www.tronic247.com/material/,Tronic247 Material,https://github.com/sachin1092/awesome-material#readme,Material Design error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://www.materialup.com/,MaterialUp,https://github.com/sachin1092/awesome-material#readme,Material Design error: timeout('The read operation timed out') | reason: 
+https://elements.polymer-project.org/browse?package=paper-elements,Paper Polymer Elements,https://github.com/sachin1092/awesome-material#readme,Material Design error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)

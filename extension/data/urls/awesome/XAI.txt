@@ -1,0 +1,92 @@
+https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,k-Nearest Neighbors,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://en.wikipedia.org/wiki/Linear_regression,Linear Regression,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://en.wikipedia.org/wiki/Logistic_regression,Logistic Regression,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf,CAM,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1312.6034,Simonynan, et. al,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1706.07269,Explanation in Artificial Intelligence: Insights from the Social Sciences,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link.springer.com/chapter/10.1007/978-3-642-04174-7_45,FIRM,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier,Naive Bayes,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/2487575.2487579,Lou, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.tandfonline.com/doi/abs/10.1080/10618600.2014.907095,ICE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link.springer.com/chapter/10.1007/978-3-030-28954-6_14,The (Un)reliability of Saliency Methods,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://academic.oup.com/bioinformatics/article/24/13/i6/233341,POIMs,https://github.com/altamiracorp/awesome-xai#readme,XAI
+http://www.inf.ufrgs.br/~engel/data/media/file/cmp121/TREPAN_craven.nips96.pdf,TREPAN,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/4167900,CDT,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.youtube.com/watch?v=93Xv8vJ2acI,Debate: Interpretability is necessary for ML,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://christophm.github.io/interpretable-ml-book/rulefit.html,RuleFit,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://openaccess.thecvf.com/content_iccv_2017/html/Fong_Interpretable_Explanations_of_ICCV_2017_paper.html,Fong, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://christophm.github.io/interpretable-ml-book/ice.html,CICE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1611.07579,Singh, et. al,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1810.03292,Sanity Checks for Saliency Maps,https://github.com/altamiracorp/awesome-xai#readme,XAI
+http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf,IG,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140,LRP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1807.07506,ProfWeight,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ethical.institute/index.html,The Institute for Ethical AI & Machine Learning,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1902.10186,Attention is not Explanation,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1610.09036,STA,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/2004.14545,Explainable Deep Learning: A Field Guide for the Uninitiated,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/3412815.3416893,TSP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/2858036.2858529,Prospector,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.jmlr.org/papers/volume20/18-760/18-760.pdf,MCR,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf,Strumbelj, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1908.04626,Attention is not --not-- Explanation,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.2710&rep=rep1&type=pdf,CMM,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/2009.02899,Quantifying Explainability of Saliency Methods in Deep Neural Networks,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link.springer.com/article/10.1007/s41060-018-0144-8,inTrees,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977175/,Gibbons, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+http://www.columbia.edu/~aec2163/NonFlash/Papers/VisualBackProp.pdf,VBP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.microsoft.com/en-us/research/people/rcaruana/,Rich Caruana,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1903.11420,Do Not Trust Additive Explanations,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.sciencedirect.com/science/article/pii/B9781558603356500131,Conj Rules,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/7546525,QII,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/2102.07799,Ada-SISE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1611.04967,IOFP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/7738872,MES,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://openreview.net/forum?id=S1viikbCW,TCAV,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1905.03151,Please Stop Permuting Features An Explanation and Alternatives,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/5949423,VEC,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/6597214,CP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1703.00810,IP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1611.07567,MFI,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.sciencedirect.com/science/article/abs/pii/S0304380002000649,NID,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link-springer-com.ezproxy.libraries.wright.edu/article/10.1007/s10618-014-0368-8,GoldenEye,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1810.02678,KL-LIME,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://content.iospress.com/articles/ai-communications/aic272,REFNE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/1014052.1014122,VIN,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/775047.775113,DecText,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.nature.com/articles/s42256-019-0048-x?fbclid=IwAR3156gP-ntoAyw2sHTXo0Z8H9p-2wBKe5jqitsMCdft7xA0P766QvSthFs,Stop Explaining Black Box Machine Learning Models for High States Decisions and Use Interpretable Models Instead,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.sciencedirect.com/science/article/abs/pii/S0031320398001812,Krishnan, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/2006.05714,OptiLIME,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/0912.1128,GPD,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1608.05745,RETAIN,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1508.07551,X-TREPAN,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12377,ALE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+http://proceedings.mlr.press/v37/xuc15,Xu, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1606.04155,Lei, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://christophm.github.io/interpretable-ml-book/rules.html,Decision List,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/4938655,GPDT,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1806.07421,RISE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://en.wikipedia.org/wiki/Decision_tree,Decision Trees,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore-ieee-org.ezproxy.libraries.wright.edu/abstract/document/9352498,DeepLIFT,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html,GradCAM,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.youtube.com/watch?v=MREiHgHgl0k,Explainable Boosting Machine,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link.springer.com/chapter/10.1007/978-3-030-33607-3_49,ALIME,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.sciencedirect.com/science/article/pii/S0031320316303582,DTD,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ieeexplore.ieee.org/abstract/document/8354201/,GradCAM++,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link.springer.com/article/10.1007%2Fs11063-011-9207-8,RxREN,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://ojs.aaai.org/index.php/AAAI/article/view/11491,Anchors,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1606.05390,Hara, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1705.07874,SHAP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/2939672.2939778,LIME,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/3077257.3077271,PALM,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.aaai.org/Papers/IAAI/2006/IAAI06-018.pdf,ExplainD,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/2101.10710,SIDU,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1805.10820,LORE,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://dl.acm.org/doi/abs/10.1145/3097983.3098039,Tolomei, et. al.,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://link.springer.com/article/10.1007/s10115-017-1116-3,Auditing,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1702.04595,PDA,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/2012.03058,BayLIME,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://projecteuclid.org/download/pdf_1/euclid.aos/1013203451,PDP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://www.researchgate.net/profile/Edward-George-2/publication/2610587_Making_Sense_of_a_Forest_of_Trees/links/55b1085d08aec0e5f430eb40/Making-Sense-of-a-Forest-of-Trees.pdf,Tree Metrics,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1706.06060,TreeSHAP,https://github.com/altamiracorp/awesome-xai#readme,XAI
+https://arxiv.org/abs/1611.07429,TreeView,https://github.com/altamiracorp/awesome-xai#readme,XAI

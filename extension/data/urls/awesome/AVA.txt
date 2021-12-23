@@ -3,7 +3,6 @@ https://semaphoreci.com/community/tutorials/getting-started-with-create-react-ap
 https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/,Effortless unit testing with AVA,https://github.com/avajs/awesome-ava#readme,AVA
 http://jsair.io/ava,JavaScript Air episode with the AVA team,https://github.com/avajs/awesome-ava#readme,AVA
 https://www.youtube.com/watch?v=RxLW6-3dk5A,Testing React components with AVA,https://github.com/avajs/awesome-ava#readme,AVA
-http://silvenon.com/testing-react-and-redux/,Testing a React & Redux Codebase,https://github.com/avajs/awesome-ava#readme,AVA
 https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo,Stickers, t-shirts, etc,https://github.com/avajs/awesome-ava#readme,AVA
 https://speakerdeck.com/novemberborn/ava-at-lnug,Slides from AVA talk at London Node User Group,https://github.com/avajs/awesome-ava#readme,AVA
 https://stackoverflow.com/questions/tagged/ava,Stack Overflow,https://github.com/avajs/awesome-ava#readme,AVA

@@ -1,31 +1,30 @@
 http://www.timphilipwilliams.com/slides.html,Slidedecks by Tim Philip Williams,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://www.youtube.com/watch?v=9EGYSb9vov8,Unifying Structured Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 http://www.magicreadalong.com/,Magic Read Along,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://www.youtube.com/watch?v=9EGYSb9vov8,Unifying Structured Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=Zw9KeP3OzpU,Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://jtobin.io/practical-recursion-schemes,Practical Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://jtobin.io/time-traveling-recursion,Time Traveling Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=PK4SOaAGVfg,F-algebras or: How I Learned to Stop Worrying and Love the Type System,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://jtobin.io/time-traveling-recursion,Time Traveling Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=i5A2Amfcir8,A Gentle Introduction to Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/,An Introduction to Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/,Recursion Schemes, Part IV: Time is of the Essence,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://jtobin.io/practical-recursion-schemes,Practical Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=5Kr7IykGMzU,Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=24UoRaoKLjM,Recursion: Where Functional Programming Hits Bottom,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/,Recursion Schemes, Part IV: Time is of the Essence,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=-98fR9VmLbQ,Programming with algebras,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://www.schoolofhaskell.com/user/bartosz/understanding-algebras,Understanding Algebras,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/,An Introduction to Recursion Schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://www.youtube.com/watch?v=XZ9nPZbaYfE&t=3s,Peeling the Banana: Recursion Schemes from First Principles,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html,Correcting the Visitor pattern,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://free.cofree.io/2017/11/13/recursion/,Recursion Schemes in Scala,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7,Recursion Schemes in JavaScript and Flow,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://duplode.github.io/posts/whats-in-a-fold.html,What's in a Fold: The Basic Catamorphism in recursion-schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://comonad.com/reader/2009/recursion-schemes/,Recursion Schemes: A Field Guide (Redux),https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/,Stalking a Hylomorphism in the Wild,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://wiki.haskell.org/Catamorphisms,Catamorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/,Open Seasons on Hylomorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms,Catamorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://maartenfokkinga.github.io/utwente/mmf91m.pdf,Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire, 1991, Meijer et al.,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://www.cs.ox.ac.uk/ralf.hinze/publications/Sorting.pdf,A Duality of Sorts, 2013, Hinze et al.,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
-http://www.cs.ox.ac.uk/people/daniel.james/sorting/sorting.pdf,Sorting with Bialgebras and Distributive Laws, 2012, Hinze et al.,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://www.schoolofhaskell.com/user/bartosz/understanding-algebras,Understanding Algebras,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf,The Hitchhiker's Guide to Morphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html,Correcting the Visitor pattern,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7,Recursion Schemes in JavaScript and Flow,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://comonad.com/reader/2009/recursion-schemes/,Recursion Schemes: A Field Guide (Redux),https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://wiki.haskell.org/Catamorphisms,Catamorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms,Catamorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://jtobin.io/rotating-squares,Rotating Squares,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 http://blog.sumtypeofway.com/recursion-schemes-part-v/,Recursion Schemes, Part V: Hello, Hylomorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
 https://jtobin.io/promorphisms-pre-post,Promorphisms, Pre and Post,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://duplode.github.io/posts/whats-in-a-fold.html,What's in a Fold: The Basic Catamorphism in recursion-schemes,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/,Stalking a Hylomorphism in the Wild,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/,Open Seasons on Hylomorphisms,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://maartenfokkinga.github.io/utwente/mmf91m.pdf,Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire, 1991, Meijer et al.,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://www.cs.ox.ac.uk/ralf.hinze/publications/Sorting.pdf,A Duality of Sorts, 2013, Hinze et al.,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes
+http://www.cs.ox.ac.uk/people/daniel.james/sorting/sorting.pdf,Sorting with Bialgebras and Distributive Laws, 2012, Hinze et al.,https://github.com/passy/awesome-recursion-schemes#readme,Recursion Schemes

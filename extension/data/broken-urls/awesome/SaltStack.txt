@@ -1,2 +1,1 @@
-https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/,Moving away from Puppet: SaltStack or Ansible?,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
-http://www.xenuser.org/saltstack-cheat-sheet/,SaltStack Cheat Sheet,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: timeout('timed out') | reason: 
+https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace,SaltStack: Manage entries in unmanaged files with File Blockreplace,https://github.com/hbokh/awesome-saltstack#readme,SaltStack error: <HTTPError 404: 'Not Found'> | reason: Not Found

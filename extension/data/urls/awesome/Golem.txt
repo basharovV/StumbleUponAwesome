@@ -1,0 +1,45 @@
+https://chessongolem.app/,Chess On Golem,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://galaxy.ansible.com/golemfactory/ya_provider,Ansible ya_provider,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-3/,Golem GitHub Digest #3,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-13/,Golem GitHub Digest #13,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://youtu.be/1UoZWC9XI2g,Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-4/,Golem GitHub Digest #4,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://golem.network/,,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-14/,Golem GitHub Digest #14,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://youtu.be/FmrdyU90NVE,Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://www.golem.network/platform,Golem Network Platform,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-5/,Golem GitHub Digest #5,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://youtu.be/GcdTq3i_wdY,Mainnet Requestor quickstart Walk-through,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-15/,Golem GitHub Digest #15,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-6/,Golem GitHub Digest #6,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://youtu.be/RITdKtEOV_E,Mainnet Provider quickstart Walk-through,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-16/,Golem GitHub Digest #16,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://chat.golem.network/,Golem Community Chat,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-7/,Golem GitHub Digest #7,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://t.me/GolemProject,Golem Network Discussion Group,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/next-milestone,Unraveling Golem's The Next Milestone,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-8/,Golem GitHub Digest #8,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://reddit.com/r/GolemProject,Reddit,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/next-milestone-part-ii/,Unraveling Golem's The Next Milestone, Part II,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-9/,Golem GitHub Digest #9,https://github.com/golemfactory/awesome-golem#readme,Golem
+http://blog.golemproject.net/,Blog,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/next-milestone-part-iii/,Unraveling Golem's The Next Milestone, Part III,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-10/,Golem GitHub Digest #10,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-1/,Golem GitHub Digest #1,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://www.thorg.io/about,About Thorg,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-11/,Golem GitHub Digest #11,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-2/,Golem GitHub Digest #2,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat,Yacat,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/golem-github-digest-12/,Golem GitHub Digest #12,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://www.thorg.io/usage,Thorg Usage,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://blog.golemproject.net/community-incentives-program/,GLM Rewards Program,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://stats.golem.network,Golem Network Stats,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://docs.stats.golem.network/,Stats API Documentation,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://golem-slate.xyz/,Golem SLATE,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://gitcoin.co/golemfactory/bounties,Gitcoin Bounties,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://handbook.golem.network/,Yagna handbook,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://yapapi.readthedocs.io/,Yagna Python API docs,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development,Requestor flash tutorial,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://stackoverflow.com/questions/tagged/yagna,Yagna tag on Stack Overflow,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub,Breakdown of blender.js,https://github.com/golemfactory/awesome-golem#readme,Golem
+https://handbook.golem.network/provider-tutorials/provider-tutorial,Provider Tutorial,https://github.com/golemfactory/awesome-golem#readme,Golem

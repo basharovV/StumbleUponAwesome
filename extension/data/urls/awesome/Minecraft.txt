@@ -1,17 +1,44 @@
-https://kotlinlang.org,Kotlin,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://www.spongepowered.org/,Sponge,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://intellectualsites.github.io/download/fawe.html,FAWE,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://continuum.graphics/,Continuum,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://mohistmc.com/,Mohist,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 https://micdoodle8.com/mods/galacticraft,Galacticraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://cyberdynecc.github.io/Thermos/install,Thermos,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://ocdoc.cil.li,OpenComputers,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://bdcraft.net/,BDCraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://www.computercraft.info,ComputerCraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://www.sonicether.com/,Sonic Ether,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server,MCPC+ Archive,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://sourceforge.net/projects/kcauldron/files/,KCauldron,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://sildurs-shaders.github.io/,Sildur,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://www.planetminecraft.com/texture-pack/cyber-optics-v10/,Cyber Optics,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://soartex.net/,Soartex,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://faithful.team/,Faithful,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M,CraftBukkit Archive,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://quiltmc.org/,Quilt,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://sourceforge.net/projects/cauldron-unofficial/files/,Cauldron,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://rre36.com/potato-shader,Potato,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://fabricmc.net/,Fabric,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://mcbeeringi.github.io/esbe-2g/,ESBE 2G,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://powernukkit.org/,PowerNukkit,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+http://www.liteloader.com/,liteloader,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://cloudburstmc.org/,Cloudburst/NukkitX/Nukkit,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://minecraftcommand.science/,Minecraft Command Science,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://www.optifine.net/home,Optifine,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://www.pocketmine.net/,PocketMine,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://irisshaders.net/,Iris (for Fabric),https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://kotlinlang.org,Kotlin,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://worldedit.golf/,WorldEdit Golf,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://papermc.io/,Paper,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://fmltutor.ustc-zzzz.net/,FML Mod Development Tutorial,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://glowstone.net/,Glowstone,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack,Mod Coder Pack,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 https://minecraft.gamepedia.com/Minecraft_Wiki,Official Minecraft Wiki,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 https://minecraft-zh.gamepedia.com/Minecraft_Wiki,Chinese Minecraft Wiki,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://ocdoc.cil.li,OpenComputers,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://intellectualsites.github.io/download/fawe.html,FAWE,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://www.computercraft.info,ComputerCraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://minecraftcommand.science/,Minecraft Command Science,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 http://wiki.vg/,wiki.vg,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://fmltutor.ustc-zzzz.net/,FML Mod Development Tutorial,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 https://www.minecraftforum.net/,Minecraft Forums,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 https://www.planetminecraft.com/forums/,Planet Minecraft,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://worldedit.golf/,WorldEdit Golf,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
 http://www.mcbbs.net/,Minecraft Chinese Forum,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://fabricmc.net/,Fabric,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-http://www.liteloader.com/,liteloader,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
-https://www.optifine.net/home,Optifine,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://mcarchive.net/,MCArchive,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+http://map.crummy.com/,Minecraft Archive Project,https://github.com/bs-community/awesome-minecraft#readme,Minecraft
+https://mcversions.net/,MCVersions,https://github.com/bs-community/awesome-minecraft#readme,Minecraft

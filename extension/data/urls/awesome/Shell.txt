@@ -1,35 +1,41 @@
+https://ianmiell.github.io/shutit/,shutit,https://github.com/alebcay/awesome-shell#readme,Shell
 https://unix-shell.zeef.com/caleb.xu,Unix-Shell.ZEEF.com,https://github.com/alebcay/awesome-shell#readme,Shell
-https://www.byobu.org,byobu,https://github.com/alebcay/awesome-shell#readme,Shell
+https://www.zsh.org,zsh,https://github.com/alebcay/awesome-shell#readme,Shell
+https://myrepos.branchable.com,mr,https://github.com/alebcay/awesome-shell#readme,Shell
+https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html,Bash Official Reference Manual,https://github.com/alebcay/awesome-shell#readme,Shell
 https://elv.sh/,elvish,https://github.com/alebcay/awesome-shell#readme,Shell
-https://lnav.org,lnav,https://github.com/alebcay/awesome-shell#readme,Shell
-https://mpv.io/,mpv,https://github.com/alebcay/awesome-shell#readme,Shell
+https://www.learnenough.com/command-line-tutorial/basics,Learn Enough Command Line to Be Dangerous,https://github.com/alebcay/awesome-shell#readme,Shell
+https://www.byobu.org,byobu,https://github.com/alebcay/awesome-shell#readme,Shell
+https://wryun.github.io/es-shell/,es,https://github.com/alebcay/awesome-shell#readme,Shell
+https://raimonster.com/scripting-field-guide/,Shell Field Guide,https://github.com/alebcay/awesome-shell#readme,Shell
+https://pre-commit.com,pre-commit,https://github.com/alebcay/awesome-shell#readme,Shell
 https://fishshell.com,fish,https://github.com/alebcay/awesome-shell#readme,Shell
 https://lmod.readthedocs.io/en/latest/,Lmod,https://github.com/alebcay/awesome-shell#readme,Shell
+https://www.atoptool.nl,atop,https://github.com/alebcay/awesome-shell#readme,Shell
+https://wiki.bash-hackers.org/,Bash Hackers Wiki,https://github.com/alebcay/awesome-shell#readme,Shell
+https://lnav.org,lnav,https://github.com/alebcay/awesome-shell#readme,Shell
 http://modules.sourceforge.net/,modules,https://github.com/alebcay/awesome-shell#readme,Shell
 https://www.oilshell.org,osh,https://github.com/alebcay/awesome-shell#readme,Shell
+https://yt-dl.org/,youtube-dl,https://github.com/alebcay/awesome-shell#readme,Shell
 https://www.gnu.org/software/parallel/,parallel,https://github.com/alebcay/awesome-shell#readme,Shell
-https://mywiki.wooledge.org/BashFAQ,Bash FAQ,https://github.com/alebcay/awesome-shell#readme,Shell
+http://xmlstar.sourceforge.net/,xmlstarlet,https://github.com/alebcay/awesome-shell#readme,Shell
 https://gitlab.com/surfraw/Surfraw,surfraw,https://github.com/alebcay/awesome-shell#readme,Shell
 https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/,pdksh,https://github.com/alebcay/awesome-shell#readme,Shell
-https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme,flatui-terminal-theme,https://github.com/alebcay/awesome-shell#readme,Shell
-https://www.tcsh.org/,tcsh,https://github.com/alebcay/awesome-shell#readme,Shell
-https://beyondgrep.com/,ack,https://github.com/alebcay/awesome-shell#readme,Shell
-https://xiki.org,xiki,https://github.com/alebcay/awesome-shell#readme,Shell
-https://myrepos.branchable.com,mr,https://github.com/alebcay/awesome-shell#readme,Shell
-https://mywiki.wooledge.org/BashPitfalls,Bash Pitfalls,https://github.com/alebcay/awesome-shell#readme,Shell
-https://xon.sh,xonsh,https://github.com/alebcay/awesome-shell#readme,Shell
-https://pre-commit.com,pre-commit,https://github.com/alebcay/awesome-shell#readme,Shell
-https://www.atoptool.nl,atop,https://github.com/alebcay/awesome-shell#readme,Shell
-https://yash.osdn.jp/,yash,https://github.com/alebcay/awesome-shell#readme,Shell
-https://www.tldp.org/LDP/abs/html/,The Linux Documentation Project: Advanced Bash Scripting Guide,https://github.com/alebcay/awesome-shell#readme,Shell
-https://en.wikibooks.org/wiki/Bash_Shell_Scripting,WikiBooks: Bash Shell Scripting,https://github.com/alebcay/awesome-shell#readme,Shell
-https://www.zsh.org,zsh,https://github.com/alebcay/awesome-shell#readme,Shell
-http://redsymbol.net/articles/unofficial-bash-strict-mode/,Use the Unofficial Bash Strict Mode (Unless You Looove Debugging),https://github.com/alebcay/awesome-shell#readme,Shell
-https://www.learnenough.com/command-line-tutorial/basics,Learn Enough Command Line to Be Dangerous,https://github.com/alebcay/awesome-shell#readme,Shell
 https://notimetoplay.org/engines/shtap/,SHTAP,https://github.com/alebcay/awesome-shell#readme,Shell
-https://yadm.io/,yadm,https://github.com/alebcay/awesome-shell#readme,Shell
-https://microsoft.github.io/language-server-protocol/,LSP,https://github.com/alebcay/awesome-shell#readme,Shell
-https://ianmiell.github.io/shutit/,shutit,https://github.com/alebcay/awesome-shell#readme,Shell
-https://wiki.bash-hackers.org/,Bash Hackers Wiki,https://github.com/alebcay/awesome-shell#readme,Shell
+https://docs.microsoft.com/en-us/powershell/scripting/overview,powershell,https://github.com/alebcay/awesome-shell#readme,Shell
 https://mywiki.wooledge.org,Greg Wooledge's (aka "greycat") wiki,https://github.com/alebcay/awesome-shell#readme,Shell
+https://xiki.org,xiki,https://github.com/alebcay/awesome-shell#readme,Shell
+https://www.tcsh.org/,tcsh,https://github.com/alebcay/awesome-shell#readme,Shell
+https://xon.sh,xonsh,https://github.com/alebcay/awesome-shell#readme,Shell
 https://mywiki.wooledge.org/BashGuide,Bash Guide,https://github.com/alebcay/awesome-shell#readme,Shell
+https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme,flatui-terminal-theme,https://github.com/alebcay/awesome-shell#readme,Shell
+https://starship.rs/,starship,https://github.com/alebcay/awesome-shell#readme,Shell
+https://yash.osdn.jp/,yash,https://github.com/alebcay/awesome-shell#readme,Shell
+https://beyondgrep.com/,ack,https://github.com/alebcay/awesome-shell#readme,Shell
+https://mywiki.wooledge.org/BashFAQ,Bash FAQ,https://github.com/alebcay/awesome-shell#readme,Shell
+https://mywiki.wooledge.org/BashPitfalls,Bash Pitfalls,https://github.com/alebcay/awesome-shell#readme,Shell
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html,The Linux Documentation Project: Bash Programming - Intro/How-to,https://github.com/alebcay/awesome-shell#readme,Shell
+https://tldp.org/LDP/abs/html/,The Linux Documentation Project: Advanced Bash Scripting Guide,https://github.com/alebcay/awesome-shell#readme,Shell
+https://en.wikibooks.org/wiki/Bash_Shell_Scripting,WikiBooks: Bash Shell Scripting,https://github.com/alebcay/awesome-shell#readme,Shell
+https://microsoft.github.io/language-server-protocol/,LSP,https://github.com/alebcay/awesome-shell#readme,Shell
+http://redsymbol.net/articles/unofficial-bash-strict-mode/,unofficial strict mode,https://github.com/alebcay/awesome-shell#readme,Shell

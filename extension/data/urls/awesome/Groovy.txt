@@ -1,27 +1,27 @@
 https://agorapulse.github.io/gru/,Gru,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://gr8conf.us,GR8Conf USA,https://github.com/kdabir/awesome-groovy#readme,Groovy
-http://glaforge.appspot.com/category/Groovy%20Weekly,Groovy Weekly,https://github.com/kdabir/awesome-groovy#readme,Groovy
+https://groovy.zeef.com/kunal.dabir,Groovy.ZEEF.com,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://codenarc.sourceforge.net/,CodeNarc,https://github.com/kdabir/awesome-groovy#readme,Groovy
+http://glaforge.appspot.com/category/Groovy%20Weekly,Groovy Weekly,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://spreadsheet.dsl.builders/,spreadsheet-builder,https://github.com/kdabir/awesome-groovy#readme,Groovy
+https://www.gradle.org/,Gradle,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://xlson.com/groovycsv/,GroovyCSV,https://github.com/kdabir/awesome-groovy#readme,Groovy
+https://sdkman.io,SDKMAN,https://github.com/kdabir/awesome-groovy#readme,Groovy
+https://nofluffjuststuff.com/groovypodcast,Groovy Podcast,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://www.groovy-lang.org/mailing-lists.html,Groovy mailing lists,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://www.groovy-lang.org/documentation.html,Official Documentation,https://github.com/kdabir/awesome-groovy#readme,Groovy
-https://groovy-playground.appspot.com/,Groovy Playground,https://github.com/kdabir/awesome-groovy#readme,Groovy
-http://mrhaki.blogspot.com/,MrHaKi's Goodness,https://github.com/kdabir/awesome-groovy#readme,Groovy
-http://pleac.sourceforge.net/pleac_groovy/,PLEAC Groovy,https://github.com/kdabir/awesome-groovy#readme,Groovy
-http://groovycalamari.com/,Groovy Calamari,https://github.com/kdabir/awesome-groovy#readme,Groovy
-https://www.gradle.org/,Gradle,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://nadavc.github.io/groovykoans/,Groovy-Koans,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://glaforge.appspot.com/,Guillaume Laforge's blog,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://melix.github.io/blog/,Cédric Champeau's blog,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://blackdragsview.blogspot.com/,Jochen Theodorou's blog,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://grailsblog.objectcomputing.com/,Grails Team blog,https://github.com/kdabir/awesome-groovy#readme,Groovy
-http://greachconf.com,Greachconf,https://github.com/kdabir/awesome-groovy#readme,Groovy
-https://gr8conf.eu,GR8Conf Europe,https://github.com/kdabir/awesome-groovy#readme,Groovy
-https://sdkman.io,SDKMAN,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://groovyconsole.appspot.com,Groovy Web Console,https://github.com/kdabir/awesome-groovy#readme,Groovy
 https://spacevim.org/layers/lang/groovy/,SpaceVim,https://github.com/kdabir/awesome-groovy#readme,Groovy
+http://mrhaki.blogspot.com/,MrHaKi's Goodness,https://github.com/kdabir/awesome-groovy#readme,Groovy
+https://gr8conf.eu,GR8Conf Europe,https://github.com/kdabir/awesome-groovy#readme,Groovy
 https://projects.spring.io/spring-boot,Spring-Boot,https://github.com/kdabir/awesome-groovy#readme,Groovy
+http://pleac.sourceforge.net/pleac_groovy/,PLEAC Groovy,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://griffon-framework.org/,Griffon,https://github.com/kdabir/awesome-groovy#readme,Groovy
+http://groovycalamari.com/,Groovy Calamari,https://github.com/kdabir/awesome-groovy#readme,Groovy
 http://groovyfx.org/,GroovyFx,https://github.com/kdabir/awesome-groovy#readme,Groovy
 https://agorapulse.github.io/dru/,Dru,https://github.com/kdabir/awesome-groovy#readme,Groovy

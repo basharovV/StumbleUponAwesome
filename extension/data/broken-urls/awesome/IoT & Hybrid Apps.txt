@@ -1,0 +1,3 @@
+https://developers.google.com/brillo/,Project Brillo,https://github.com/weblancaster/awesome-IoT-hybrid#readme,IoT & Hybrid Apps error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily

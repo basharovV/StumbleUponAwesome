@@ -1,2 +1,4 @@
-https://litmus.com/community/learning,Litmus learning,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-http://emailcomb.com/,EmailComb,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 308: 'Unknown'> | reason: Unknown
+http://codepen.io/reallygoodemails/,Really good emails Codepen,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://milled.com/,Milled,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+http://emailcomb.com/,EmailComb,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://sendtest.email/,Sendtest.email,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

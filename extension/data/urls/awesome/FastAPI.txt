@@ -1,44 +1,71 @@
-https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS,FastAPI - A Web Framework for Python,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://amitness.com/2020/06/fastapi-vs-flask/,FastAPI for Flask Users,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.youtube.com/watch?v=mkDxuRvKUL8,Serving Machine Learning Models As API with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://flask-limiter.readthedocs.io,Flask-Limiter,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://cloud.google.com/functions/,Google Cloud Functions,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://fastapi.tiangolo.com/,FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/,How to deploy your ConvNet classifier with Keras and FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://tortoise.github.io/,Tortoise ORM,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://azure.microsoft.com/en-us/services/functions/,Azure Functions,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://fastapi.tiangolo.com/tutorial/,Tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://testdriven.io/courses/tdd-fastapi/,Test-Driven Development with FastAPI and Docker,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.errietta.me/blog/python-fastapi-intro/,Introduction to the FastAPI Python Framework,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html,FastAPI Example,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://cloud.google.com/run,Google Cloud Run,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/,Porting Flask to FastAPI for ML Model Serving,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://gitter.im/tiangolo/fastapi,Gitter Chat,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://testdriven.io/,TestDriven.io,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets,Real-time data streaming using FastAPI and WebSockets,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/,Build The Next Generation Of Python Web Applications With FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459,Serving Machine Learning Models with FastAPI in Python,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://tiangolo.com/,Sebastián Ramirez,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.youtube.com/watch?v=z9K5pwb0rt8,PyConBY 2020: Serve ML models easily with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.youtube.com/watch?v=3DLwPcrE5mA,PyCon UK 2019: FastAPI from the ground up,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855,FastAPI on PythonBytes,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.youtube.com/watch?v=5GorMC2lPpk,Building a Stock Screener with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/,Step-by-step tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
 https://www.youtube.com/watch?v=Pe66M8mn-wA,Building Web APIs Using FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://testdriven.io/blog/fastapi-machine-learning/,ML model on Heroku tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://cloud.google.com/appengine/,Google App Engine,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679,Why we switched from Flask to FastAPI for production machine learning,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://aws.amazon.com/ec2/,AWS EC2,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://www.strio.co/blog/authentication-guide-with-fastapi/,Demystifying Authentication with FastAPI and a Frontend,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://cloud.google.com/compute/,Google Compute Engine,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://testdriven.io/blog/fastapi-crud/,Developing and Testing an Asynchronous API with FastAPI and Pytest,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://aws.amazon.com/lambda/,AWS Lambda,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/,Tutorial: Setting up Tortoise ORM with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda,tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a,Deploying Iris Classifications with FastAPI and Docker,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://docs.sqlalchemy.org/en/latest/core/,SQLAlchemy Core,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-http://mongoengine.org/,MongoEngine,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://motor.readthedocs.io/,Motor,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://pydantic-docs.helpmanual.io/,Pydantic,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
-https://ahmednafies.github.io/fastapi_camelcase/,FastAPI-CamelCase,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://collerek.github.io/ormar/,ormar,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://nf1s.github.io/fastapi-camelcase/,FastAPI-CamelCase,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c,Local Development Environment,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS,FastAPI - A Web Framework for Python,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://collerek.github.io/ormar/fastapi/,FastAPI Example,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.youtube.com/watch?v=9YBAOYQOzWs,FastAPI vs. Django vs. Flask,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.errietta.me/blog/python-fastapi-intro/,Introduction to the FastAPI Python Framework,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
 https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee,CamelCase Models with FastAPI and Pydantic,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://florian-kromer.medium.com/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8,Service discovery in Container Orchestration Platforms,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.youtube.com/watch?v=mkDxuRvKUL8,Serving Machine Learning Models As API with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://tortoise.github.io,Tortoise ORM,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8,Asynchronous Communication,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://tortoise.github.io/examples/fastapi.html,FastAPI Example,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/,Porting Flask to FastAPI for ML Model Serving,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a,Application Monitoring,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://cloud.google.com/appengine/,Google App Engine,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3,Serverless Deployment,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/courses/tdd-fastapi/,Test-Driven Development with FastAPI and Docker,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679,Why we switched from Flask to FastAPI for production machine learning,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.deta.sh/,Deta,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://flask-limiter.readthedocs.io,Flask-Limiter,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://cloud.google.com/run,Google Cloud Run,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://training.talkpython.fm/courses/getting-started-with-fastapi,Modern APIs with FastAPI and Python,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/,Real-time data streaming using FastAPI and WebSockets,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne,Getting started with GraphQL in Python with FastAPI and Ariadne,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.deta.sh/?ref=awesome-fastapi,,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://stribny.name/blog/fastapi-asyncalchemy/,Async SQLAlchemy with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi,Full Web Apps with FastAPI Course,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://fastapi.tiangolo.com/tutorial/,Tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://blog.yezz.me/blog/Build-and-Secure-an-API-in-Python-with-FastAPI,Build and Secure an API in Python with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://dev.to/athulcajay/fastapi-deta-ni5,example,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://stribny.name/blog/fastapi-production/,Running FastAPI applications in production,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/courses/tdd-fastapi/?ref=awesome-fastapi,,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/,How to deploy your ConvNet classifier with Keras and FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/courses/fastapi-celery/,The Definitive Guide to Celery and FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://aws.amazon.com/ec2/,AWS EC2,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459,Serving Machine Learning Models with FastAPI in Python,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://gitter.im/tiangolo/fastapi,Gitter Chat,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://guitton.co/posts/fastapi-monitoring/,How to monitor your FastAPI service,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://stribny.name/blog/fastapi-video/,Streaming video with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/blog/topics/fastapi/,TestDriven.io FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://cloud.google.com/compute/,Google Compute Engine,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/blog/fastapi-hypothesis/,Using Hypothesis and Schemathesis to Test FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://camillovisini.com/article/abstracting-fastapi-services/,Implementing FastAPI Services – Abstraction and Separation of Concerns,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.youtube.com/watch?v=z9K5pwb0rt8,PyConBY 2020: Serve ML models easily with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/,Tutorial: Setting up Tortoise ORM with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.youtube.com/watch?v=3DLwPcrE5mA,PyCon UK 2019: FastAPI from the ground up,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.mongodb.com/developer/how-to/FARM-Stack-FastAPI-React-MongoDB/,Introducing FARM Stack - FastAPI, React, and MongoDB,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.youtube.com/watch?v=5GorMC2lPpk,Building a Stock Screener with FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://mangum.io/,Mangum,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://aws.amazon.com/lambda/,AWS Lambda,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://sqlmodel.tiangolo.com/,SQLModel,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/,Build The Next Generation Of Python Web Applications With FastAPI,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda,tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://tiangolo.com/,Sebastián Ramirez,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855,FastAPI on PythonBytes,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://cloud.google.com/functions/,Google Cloud Functions,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/,Step-by-step tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://docs.sqlalchemy.org/en/latest/core/,SQLAlchemy Core,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/blog/fastapi-machine-learning/,ML model on Heroku tutorial,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+http://mongoengine.org/,MongoEngine,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da,FastAPI has Ruined Flask Forever for Me,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://motor.readthedocs.io/,Motor,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://art049.github.io/odmantic/,ODMantic,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef,Deploy a Dockerized FastAPI App to Google Cloud Platform,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece,Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a,Deploying Iris Classifications with FastAPI and Docker,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://testdriven.io/blog/fastapi-crud/,Developing and Testing an Asynchronous API with FastAPI and Pytest,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://amitness.com/2020/06/fastapi-vs-flask/,FastAPI for Flask Users,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI
+https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019,FastAPI Microservice Patterns,https://github.com/mjhea0/awesome-fastapi#readme,FastAPI

@@ -1,7 +1,7 @@
-http://io.adafruit.com,,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
-https://hackaday.com/tag/adafruit-io,Adafruit IO on Hackaday,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://www.youtube.com/adafruit/live,ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
+http://io.adafruit.com,,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://creativecommons.org/publicdomain/zero/1.0/,,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
+https://hackaday.com/tag/adafruit-io,Adafruit IO on Hackaday,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://learn.adafruit.com/welcome-to-adafruit-io,Welcome to Adafruit IO!,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://learn.adafruit.com/series/adafruit-io-basics,Adafruit IO Basics,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://learn.adafruit.com/category/adafruit-io,learn.adafruit.com Adafruit IO,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
@@ -11,10 +11,10 @@ https://learn.adafruit.com/all-the-internet-of-things-episode-four-adafruit-io,A
 https://discord.gg/EAeBY6x,Adafruit IO Discord channel #help-with-adafruit-io,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://www.instagram.com/explore/tags/adafruitio,#AdafruitIO tagged photos & videos on Instagram,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279,Adafruit IO on Google+ Makers, hackers, artists & engineers,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
+https://www.reddit.com/r/adafruitio,Adafruit IO community on Reddit,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://www.adafruit.com/iot,Adafruit-Produced Boards,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
+https://www.reddit.com/search?q=adafruit%20io&t=year,Adafruit IO tagged on Reddit,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://www.adafruitdaily.com/,Adafruit IoT Newsletter,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://blog.adafruit.com/tag/iot-monthly,Archives of all newsletters,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
-https://www.reddit.com/r/adafruitio,Adafruit IO community on Reddit,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
-https://www.reddit.com/search?q=adafruit%20io&t=year,Adafruit IO tagged on Reddit,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://www.instructables.com/howto/circuitpython,Adafruit IO on Instructables,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO
 https://plus.google.com/+adafruit,Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO

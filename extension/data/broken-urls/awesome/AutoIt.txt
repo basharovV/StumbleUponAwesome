@@ -1,5 +1,6 @@
 https://ohtejera.github.io/ImperiusAutoIt/,ImperiusAutoIt,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.autoitscript.com/forum/files/file/224-firefox-profile-backup/,FireFox Profile Backup 1.0 (by careca),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://teenyscript.tarre.nu/documentation,TeenyScript (by tarretarretarre),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.autoitscript.com/forum/index.php?showtopic=99106,_DLLStructDisplay (by Ascend4nt),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
+http://qbnz.com/highlighter/,GeSHi - Generic Syntax Highlighter,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('timed out') | reason: 
+http://autoitvn.com/,Vietnamese Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
 http://forum.autoitbrasil.com/,Brazilian Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

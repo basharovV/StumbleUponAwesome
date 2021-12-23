@@ -1,0 +1,83 @@
+https://en.wikipedia.org/wiki/Tower_of_Hanoi,Tower of Hanoi,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://b13rg.github.io/Life-of-MS-DOS/,The Life of MS-DOS by Brendan Byers,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://alexfru.narod.ru/os/c16/c16.html,80x86 16-bit Compiling How-to by Alexei A. Frounze,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://en.wikipedia.org/wiki/Yamaha_YM3812,Yamaha YM3812 (OPL2) sound chip Wikipedia article,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://wiki.osdev.org/VGA_Hardware,VGA Hardware - OSDev wiki,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://tuttlem.github.io/2015/10/04/32bit-dos-development-with-open-watcom.html,32bit DOS development with Open Watcom,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://fabiensanglard.net/quakeSource/index.php,Quake Engine Code Review series,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/bcc.html,bcc - Bruce's Compiler,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://nullprogram.com/blog/2014/12/09/,How to build DOS COM files with GCC by Chris Wellons,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://sourceforge.net/projects/zmiy/,zmiy,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.brackeen.com/vga/,David Brackeen - 256-Color VGA Programming in C,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/~geotz/dos/,George M. Tzoumas's collection of MS-DOS games and utilities,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.delorie.com/djgpp/,DJGPP,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201111164240/http://bespin.org/~qz/pc-gpe/,PC Game Programmer's Encyclopedia,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201112020812/http://www.phatcode.net/res/224/files/html/index.html,Michael Abrash's Graphics Programming Black Book Special Edition,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://openwatcom.org/,Open Watcom,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.amazon.com/Tricks-Game-Programming-Gurus-Andre-Lamothe/dp/0672305070/,Tricks of the Game-Programming Gurus - by Andre Lamothe, John Ratcliff and Denise Tyler,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.youtube.com/watch?v=niKblgZupOc,CGA Graphics - Not as bad as you thought! - by 8-bit Guy,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://openwatcom.org/doc.php,documentation,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.youtube.com/watch?v=q_3d1x2VPxk,How Oldschool Sound/Music worked - by 8-bit Guy,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://porta2note.itch.io/gridfighter-3d,Gridfighter 3D,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://web.archive.org/web/20190123060222/http://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_02_Introduction_To_Computer_Graphics.shtml,The Art of Demomaking by flipcode,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X,Let's Code - MS DOS - by root42,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://wiki.archlinux.org/index.php/Open_Watcom,Arch Wiki page,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.youtube.com/watch?v=a324ykKV-7Y,LGR - Evolution of PC Audio - As Told by Secret of Monkey Island,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith,Sopwith,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.youtube.com/watch?v=kSKeWH4TY9Y,Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200427145810/http://www.vgmpf.com/Wiki/images/4/48/AdLib_-_Programming_Guide.pdf,The Ad Lib Music Synthesizer Card Programming Guide - by Tero Töttö,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20190222022411/https://www.classicdosgames.com/game/Cyberdogs.html,Cyberdogs,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://web.archive.org/web/20200626182822/http://www.fysnet.net/,Programming MS-DOS with Power - DOS Programming, Undocumented DOS, and DOS Secrets,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://sourceforge.net/projects/hangman-dos/,Hangman,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://blog.sourcerer.io/640k-really-is-enough-for-anyone-314f393ca5b8,640k Really is Enough for Anyone by Robert W. Oliver II,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://en.wikipedia.org/wiki/C-Dogs,C-Dogs,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://archive.org/details/div2_iso,DIV Games Studio 2,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://digitalmars.com/rtl/bios.html,bios.h header documentation by Digital Mars,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://web.archive.org/web/20201112040702/http://www.wagemakers.be/english/doc/vga,Graphical programming in Assembly (DOS),https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://scalibq.wordpress.com/2011/11/23/just-keeping-it-real-old-skool-style/,Just keeping it real... old skool style - Scali's OpenBlog,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/,MaiZure's Projects - Decoded: Sopwith,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://archive.org/details/MAGSMAZE,Magenta's Maze,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://congusbongus.itch.io/cdogs-sdl,cdogs-sdl,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://digitalmars.com/rtl/dos.html,Part 1,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200509082459/http://www.fit.vutbr.cz/~arnost/opl/opl3.html,Programmer's Guide to the Yamaha YMF 262/OPL3 FM Music Synthesizer,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.doshaven.eu/downloads/537,Source code download link,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://digitalmars.com/rtl/dos2.html,Part 2,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://en.wikipedia.org/wiki/NetHack,NetHack,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201112023702/http://www3.telus.net/alexander_russell/course/introduction.htm,Alex Russell's Dos Game Programming in C for Beginners,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://jani-nykanen.itch.io/plutonium-caverns,Plutonium Caverns,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://js.mikedx.co.uk/DIV1.html,Online version.,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201111162212/http://www.ctyme.com/rbrown.htm,Ralph Brown's Interrupt List - HTML version,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201130110457/http://homepages.cae.wisc.edu/~brodskye/sb16doc/sb16doc.html,Sound Blaster 16 Programming Document 3.5 by Ethan Brodsky,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20190801083909/https://www.classicdosgames.com/game/Abuse.html,Abuse,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://sourceforge.net/projects/sudoku86/,sudoku86,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.doshaven.eu/game/tetris/,Tetris,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200724153658/http://www.faqs.org/faqs/pc-hardware-faq/supervga-programming/,DOS Super VGA / VESA programming notes - by Myles,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://archive.org/details/lua5.3.5,Lua for DOS,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.doshaven.eu/downloads/373,Source code download link,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://perldoc.perl.org/perldos,perldos,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200203195410/http://www3.telus.net/alexander_russell/course/chapter_4.htm,buffered input handling,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://wiki.osdev.org/Getting_VBE_Mode_Info,VESA Video Modes - OSDev wiki,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201108093425/http://www.cs.cmu.edu/~ralf/files.html,Ralph Brown's website,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20180507161514/http://archive.gamedev.net/archive/reference/articles/article444.html,GameDev.net archive,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20160402141350/http://www.classicdosgames.com/files/source/abuse_pd.tgz,Source code download link,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.caddit.net/pythond/,PythonD,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://web.archive.org/web/20201031021650/http://atrevida.comprenica.com/,The Artevida Game Programming Tutorials,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.delorie.com/djgpp/doc/ug/graphics/vesa.html.en,DJGPP VESA guide,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20191020222313/http://www.intel-assembler.it/portale/5/soundblaster-programming-information/sb-reference-for-programming-sound.asp,Soundblaster Programming Information v0.90,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://www.allegro.cc/files/?v=4.2,Allegro 4.2,https://github.com/balintkissdev/awesome-dos#readme,DOS
+http://www.doshaven.eu,http://www.doshaven.eu,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200214123701/http://www.columbia.edu/~em36/wpdos/videomodes.txt,Values for standard video mode,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200721064209/https://www.classicdosgames.com/game/Beneath_a_Steel_Sky.html,Beneath a Steel Sky,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201112012244/https://www.alternatewars.com/Games/DOSBox/DOSBox.htm,Table of DOSBox cyclecounts according to processor types,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200128180543/http://www.monstersoft.com/tutorial1/,High-res high-speed VESA tutorial,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://sourceforge.net/projects/empong/,Emeritus Pong,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://fabiensanglard.net/gebbwolf3d.pdf,Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://fabiensanglard.net/gebbdoom.pdf,Game Engine Black Book: Doom - by Fabien Sanglard,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html,Duke Nukem 3D,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201112020351/https://www.seasip.info/VintagePC/cga.html,Color Graphics Adapter: Notes,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20200121065447/http://www.codenet.ru/progr/video/vesa20ex.php,C code sample for drawing in VESA 2.0 mode,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://sourceforge.net/projects/heretic/files/,SourceForge link,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201109033646/http://guideme.itgo.com/atozofc/,A to Z of C - a book on C/DOS programming by K. Joseph Wesley and R. Rajesh Jeba Anbiah,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20150302161648/http://heim.ifi.uio.no/~inf3150/grupper/1/pcspeaker.html,Making some noise with the PC speaker! - by Mark Feldman,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20201129091353/https://pages.mtu.edu/~suits/notefreqs.html,Frequencies of Musical Notes,https://github.com/balintkissdev/awesome-dos#readme,DOS
+https://web.archive.org/web/20171115162742/http://guideme.itgo.com/atozofc/ch23.pdf,Sound Programming with PC Speaker - Chapter 23 of A to Z of C,https://github.com/balintkissdev/awesome-dos#readme,DOS

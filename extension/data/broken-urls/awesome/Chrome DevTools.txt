@@ -1,0 +1,2 @@
+https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae,App Inspector for Sencha,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://intuit.github.io/karate/karate-core/,karate,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools error: <HTTPError 404: 'Not Found'> | reason: Not Found

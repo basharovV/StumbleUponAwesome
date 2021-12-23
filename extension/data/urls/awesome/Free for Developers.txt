@@ -1,690 +1,1002 @@
-https://buddy.works/,buddy.works,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.codebasehq.com/,codebasehq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://currencyscoop.com,CurrencyScoop,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://shields.io,shields.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.algolia.com/,algolia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://monkeylearn.com/,monkeylearn.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.browserstack.com/open-source?ref=pricing,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.validator.pizza/,Validator.Pizza,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://free-for.dev,free-for.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://okteto.com,Okteto Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.staticforms.xyz/,staticforms.xyz,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://proxycrawl.com/,ProxyCrawl,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/storage/,Storage,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.buddybuild.com/,buddybuild.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://savannah.nongnu.org/,savannah.nongnu.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pendulums.io/,Pendulums,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.pivotaltracker.com/,pivotaltracker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.fontget.com/,FontGet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://postmarkapp.com/,postmarkapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://logentries.com/,logentries.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zenscrape.com/web-scraping-api,Zenscrape,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.gearhost.com/pricing,gearhost.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.jamf.com/,jamf.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://liteflow.com/,Liteflow,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://codeberg.org/,codeberg.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cleverbrush.com/,clevebrush.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/active-directory/,Active Directory,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.crypteron.com/,crypteron.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cacoo.com/,cacoo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mailerlite.com,MailerLite.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://teletype.oorja.io/,TeleType,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.pubnub.com/,pubnub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mockable.io/,mockable.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ringcaptcha.com/,ringcaptcha.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://placeholder.com/,placeholder.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.smartlook.com/,smartlook.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.checkbot.io/,checkbot.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://requestbin.com,RequestBin.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gitter.im/,gitter.im,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.scaleway.com/en/object-storage/,scaleway.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://datapane.com,Datapane,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://vatlayer.com/,vatlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloud.google.com,Google Cloud Platform,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://devpal.xyz/base64-decode/,Base64 decoder/encoder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://loader.io/,loader.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://waiverstevie.com,WaiverStevie.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://moss.sh,moss.sh,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.outsystems.com/,outsystems.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bonsai.io/,bonsai.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://degooglisons-internet.org/en/list/,Framacloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://raidboxes.io/,raidboxes.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.prismic.io/,Prismic,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.logintc.com/,logintc.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://plan.io/,plan.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://staticman.net/,Staticman,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://raindrop.io,Raindrop.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sonarcloud.io,sonarcloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.sender.net,Sender,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.radmin-vpn.com/,Radmin VPN,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://duo.com/,duo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://probeapi.speedchecker.xyz/,speedchecker.xyz,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://deepscan.io,deepscan.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://staticaly.com/,staticaly.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gigalixir.com/,gigalixir.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://placekitten.com/,placekitten.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pushbots.com/,pushbots.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://www.jare.io,jare.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.photopea.com,photopea.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mailjet.com/,mailjet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://twist.com,twist.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mockapi.io/,MockAPI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cirrus-ci.org,cirrus-ci.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.scrapingninja.co/,ScrapingNinja,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ip-api.com,ip-api,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://webtranslateit.com/,webtranslateit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://shieldfy.io,Shieldfy,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sematext.com/cloud/,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloud.google.com/free,https://cloud.google.com/free,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://clickup.com/,clickup.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cloudns.net/,cloudns.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.noip.com/,noip,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://crossbrowsertesting.com,crossbrowsertesting.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://fakejson.com/,fakejson.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.terraform.io/,terraform.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://copr.fedorainfracloud.org,copr.fedorainfracloud.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.dbdesigner.net/,DB Designer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.sanity.io/,sanity.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/cognitive-services/,Cognitive Services,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://readthedocs.org/,readthedocs.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.elastic.co/solutions/apm,elastic.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://easydb.io/,easyDB.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mockaroo.com/,mockaroo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://saucelabs.com/open-source,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://verifalia.com/email-verification-api,Verifalia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.memcachier.com/,MemCachier,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://www.searchly.com/,searchly.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloud.invantive.com/,Invantive Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://framasoft.org/en/,Framasoft,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://runcloud.io/,runcloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://localhost.run/,localhost.run,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.ably.com,ably.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.usersurge.com/,usersurge.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.planitpoker.com/,planitpoker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.99inbound.com/,99inbound.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://hangouts.google.com/,hangouts.google.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://nixstats.com,nixstats.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://codefresh.io,codefresh.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://aws.amazon.com,Amazon Web Services,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://copy.sh/v86,v86,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://podio.com/,podio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://crossbrowsertesting.com/open-source,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://glitch.com/,glitch.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.typetalk.com/,typetalk.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pixlr.com/,pixlr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://codemyui.com,CodeMyUI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://apimetrics.io/,apimetrics.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.stathat.com/,stathat.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://toranproxy.com/,toranproxy.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://getinsights.io,getinsights.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pipedream.com,pipedream.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://newreleases.io/,newreleases.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://restlet.com/products/apispark/,restlet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://firebase.google.com/products/auth/,Firebase Auth,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloudsmith.io,cloudsmith.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tweek.so/,Tweek,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.wufoo.com/,Wufoo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.meterian.io/,meterian.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.jsdelivr.com/,jsdelivr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://preview.fenixwebserver.com,Fenix Web Server,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://snyk.io,snyk.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pixelixe.com/,Pixelixe,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://element.io/,element.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sheetson.com,Sheetson,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ipgeolocation.io/,IP Geolocation,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ns1.com/,ns1.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.gitea.com/,gitea.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.ilograph.com/,Ilograph,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://debugmail.io/,debugmail.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://deepsource.io/,DeepSource,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cloudamqp.com/,cloudamqp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.abstractapi.com,Abstract API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://usabilityhub.com/,usabilityhub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scalingo.com/,scalingo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pagedart.com/,pagedart.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://help.launchpad.net/Packaging,help.launchpad.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://myfakeapi.com,myfakeapi.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.giscloud.com/,giscloud.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloud.drone.io/,drone,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.gitpod.io,gitpod.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree,https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mocklets.com,Mocklets,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.back4app.com,back4app.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://webscraping.ai,WebScraping.AI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://verimail.io/,verimail.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://embed.ly/,embed.ly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/active-directory/external-identities/b2c/,Active Directory B2C,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://unpkg.com/,unpkg.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.dplyr.dev,dplyr.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://free.getbricks.app/,Bricks Note Calculator,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://quickchart.io,QuickChart,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://dns.he.net/,dns.he.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://nodequery.com/,nodequery.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.amezmo.com,Amezmo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.diggernaut.com/,Diggernaut,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.pdfmonkey.io/,PDFMonkey,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://render.com,render.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://getawesomeness.herokuapp.com,getawesomeness,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://formcake.com,Formcake.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cypress.io/,cypress.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview,Microsoft Ajax,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.foxpass.com/,foxpass.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://jitpack.io/,jitpack.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://docs.pipedream.com/pricing/,for free,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://heap.io,heap.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://airtable.com/,airtable.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.statuscake.com/,statuscake.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://elasticemail.com,elasticemail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ionicframework.com/appflow,ionicframework.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://responsively.app,Responsively App,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://canister.io/,canister.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.appdynamics.com/,appdynamics.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pusher.com/beams,pusher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ngrok.com/,ngrok.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://10minutemail.com,10minutemail,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://testingbot.com/,testingbot.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zipcodebase.com,Zipcodebase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://robohash.org/,ROBOHASH,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.filestack.com/,filestack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.loggly.com/,loggly.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://algorithmia.com/,algorithmia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://netbeans.apache.org/,Apache Netbeans,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.atlassian.com/software/jira,Jira,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sendgrid.com/,sendgrid.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://w.tools/,Web Support Revolution,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://backendless.com/,backendless.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pointhq.com/developer,pointhq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://readme.com/,readme.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.hotjar.com/,hotjar.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sourcelevel.io/,SourceLevel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.heatlyanalytics.com,heatlyanalytics.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.kintohub.com/,KintoHub,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://skyvia.com/,skyvia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://formcarry.com,Formcarry.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://graphcomment.com/,GraphComment,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://stackblitz.com/,stackblitz.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.designer.io/,designer.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gogeo.io/,gogeo.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.ip2location.com,IP2Location,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://microenv.com,microenv.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.software.com/code-time,Code Time,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.ssllabs.com/ssltest/,ssllabs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pusher.com/,pusher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.everystep-automation.com/,everystep-automation.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://testingbot.com/open-source,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scenelab.io,SceneLab,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.senseitool.com/,senseitool.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.helplightning.com/,helplightning.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://statusgator.com/,statusgator.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.pushtechnology.com/,pushtechnology.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloudcraft.co/,Cloudcraft,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://astra.datastax.com/register,Astra,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://redbooth.com,redbooth.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.sendinblue.com/,sendinblue.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tugboat.qa,Tugboat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://review.gerrithub.io/,gerrithub.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.dnspod.com/,dnspod.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://freehostingnoads.net/,Free Hosting,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://hub.docker.com,Docker Hub,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://eva.pingutil.com/,EVA,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kanbanflow.com/,kanbanflow.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://internet.nl,Internet.nl,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://anvil.works,anvil.works,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://logz.io/,logz.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://remotemysql.com,remotemysql.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://notabug.org,NotABug,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.blockspring.com/,blockspring.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bootify.io/,Bootify.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.graphhopper.com/,graphhopper.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tachikoma.io/,tachikoma.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://observatory.mozilla.org/,Mozilla Observatory,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://shrtco.de/docs,shrtcode API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://segment.com/,segment.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://packagecloud.io,packagecloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sourceforge.net/,sourceforge.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.gumlet.com/,gumlet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.formingo.co/,formingo.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.kontent.ai,kontent.ai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.thousandeyes.com/,thousandeyes.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://forwardemail.net,forwardemail.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.elephantsql.com/,elephantsql.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://dreamfactory.com/,dreamfactory.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ocr.space/,OCR.Space,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.alwaysdata.com/,Alwaysdata,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ideascale.com/,ideascale.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scraper.ai,Scraper.AI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ipinfo.io/,IPinfo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://xlayers.dev,xLayers,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.appneta.com/,appneta.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ide.goorm.io,ide.goorm.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://clubhouse.io/,Clubhouse,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.figma.com,figma.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://quickblox.com/,quickblox.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.woopra.com/,woopra.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sitecheck.sucuri.net,Sucuri SiteCheck,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.tesults.com,tesults.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.opsgenie.com/,opsgenie.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/kubernetes-service/,Azure Kubernetes Service,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.pythonanywhere.com/,pythonanywhere.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://userforge.com/,userforge.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.zoho.com/forms/,Zoho Forms,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.scaledrone.com/,scaledrone.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://configcat.com,ConfigCat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.seafile.com/,seafile.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sendpulse.com,sendpulse.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.proto.io,Proto.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://webhookrelay.com,webhookrelay.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gocover.io/,gocover.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://freeboard.io/,freeboard.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://vscodium.com/,VSCodium,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.influxdata.com/,InfluxDB,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/devops/,Azure DevOps,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://forestry.io/,Forestry.io/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://about.gitlab.com/product/continuous-integration/,gitlab.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://biz.mail.ru/,biz.mail.ru,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://labs.play-with-docker.com/,Play with Docker,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://jumpcloud.com/,Jumpcloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developer.here.com/,here,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.fullstory.com,FullStory.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://interaction-design.co.za/openapidesigner/,OpenAPI3 Designer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.duckdns.org/,duckdns.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://imprace.com/,imprace.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.freehostia.com,Freehostia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.scraperapi.com/,Scraper API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kubesail.com,kubesail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mailnesia.com,Mailnesia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://uptimerobot.com/,uptimerobot.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://getstream.io/,getstream.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cacher.io,cacher.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://uploadcare.com/hub/developers/,uploadcare.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.jdoodle.com,JDoodle,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.socketlabs.com,socketlabs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://chiselapp.com/,chiselapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://reqres.in,reqres.in,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.abstractapi.com/ip-geolocation-api,IP Geolocation API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ip.city,IP.City,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://squidex.io/,Squidex,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.geodatasource.com,GeoDataSource,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ip-api.com,ip-api,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://www.sofodata.com/,Sofodata,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.apify.com/,Apify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://formlets.com/,formlets.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://golang.org/,Go,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://carto.com/,carto.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.freshworks.com/website-monitoring/,freshworks.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://happi.dev,happi.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://appharbor.com/,appharbor.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.websitepulse.com/tools/,websitepulse.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.docsapp.io/,docsapp.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://threatconnect.com,threatconnect.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://etf-data.com/,ETF Data API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.paessler.com/,paessler.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://numverify.com/,numverify.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://repsy.io,repsy.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.netdepot.com/cdn/,netdepot.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.zerotier.com,ZeroTier,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developer.okta.com/,Okta,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://resizeappicon.com/,resizeappicon.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://wistia.com/,wistia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.perforce.com/products/helix-teamhub,perforce.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://slack.com/,slack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://assertible.com,assertible.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mohmal.com/en,mohmal.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.maptiler.com/cloud/,maptiler.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.adobe.com/products/xd.html,Adobe XD,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://papertrailapp.com/,papertrailapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://uptimetoolbox.com/,uptimetoolbox.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://codesnip.com.br,codesnip.com.br,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://k8spin.cloud,K8Spin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://wakatime.com/,wakatime.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.image-charts.com/,image-charts.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://utteranc.es/,Utterances,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://netlicensing.io,netlicensing.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.igloosoftware.com/,Igloo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kanbantool.com/,kanbantool.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tamber.com,tamber,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/devops/pipelines/,Azure Pipelines,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ghostinspector.com/,ghostinspector.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.iplist.cc,IPList,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition,here,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://qase.io,qase.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://improvmx.com,ImprovMX,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://synadia.com/ngs,synadia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cally.com/,cally.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.invisionapp.com,Invision App,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.quickmetrics.io/,Quickmetrics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ubertesters.com/,ubertesters.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pagertree.com/,pagertree.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.tinfoilsecurity.com/,tinfoilsecurity.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scrapingant.com/,ScrapingAnt,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.onelogin.com/,onelogin.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/event-grid/,Event Grid,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://goreportcard.com/,goreportcard.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://veriphone.io/,veriphone.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.bootstrapcdn.com/,bootstrapcdn.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.atlassian.com/software/confluence,Confluence,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://datamaps.world/,datamaps.world,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://atlastk.org/,Atlas toolkit,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://keychest.net,keychest.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.sparkpost.com/,sparkpost.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zarvis.ai,ZARVIS,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://smartmockups.com/,smartmockups.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://parsehub.com/,parsehub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://beanstalkapp.com/,beanstalkapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.configure.it/,configure.it,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://readme.readme.io/docs/open-source,here,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://onesignal.com/,onesignal.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://featurepeek.com,featurepeek.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://timedoor.io,Time Door,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://fauna.com/,FaunaDB,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scn.sap.com/docs/DOC-56411,scn.sap.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://disqus.com/,Disqus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.landen.co,landen.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.vivifyscrum.com/,vivifyscrum.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://restdb.io/,restdb.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://virgilsecurity.com/,Virgil Security,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://keen.io/,keen.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://jsonbin.io/,jsonbin.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://codesandbox.io/,codesandbox.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://moosend.com/,moosend.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://jetbrains.com/products.html,jetbrains.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://extendsclass.com/rest-client-online.html,ExtendsClass,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.webceo.com/,webceo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.contriber.com/,contriber.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://currencyapi.net/,currencyapi.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://substack.com,Substack,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.codenameone.com/,codenameone.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://undraw.co/,unDraw,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://opencagedata.com,opencagedata.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pingbreak.com/,pingbreak.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sematext.com/logsene,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bintray.com/,bintray.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.ovh.ie/ssl-gateway/,ovh.ie,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pixe.la/,Pixela,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://about.gitlab.com/product/pages/,gitlab.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://spectrum.chat/,Spectrum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mendix.com/,mendix.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/virtual-machines/,Virtual Machines,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://howuku.com,howuku.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.zenduty.com/,zenduty.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://resmush.it,resmush.it,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://burnermail.io/,Burnermail,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://txti.es/,txti.es,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bubble.io/,Bubble,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pijul.com/,pijul.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.yammer.com/,yammer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.opswat.com/,opswat.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://formspark.io/,formspark.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cloudkarafka.com/,cloudkarafka.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://outlook.live.com/owa/,Outlook.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.filestash.app,Filestash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.bearer.sh,bearer.sh,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.browserling.com/,browserling.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scraperbox.com/,ScraperBox,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://paraio.com,paraio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cdnjs.com/,cdnjs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.graphenedb.com/,graphenedb.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kraken.io/,kraken.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kanrails.com/,kanrails.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://quay.io/,quay.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://inumbo.com/,inumbo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://osmnames.org/,osmnames,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://beeceptor.com,Beeceptor,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developers.arcgis.com,developers.arcgis.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/free/,https://azure.microsoft.com/free/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sematext.com/,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.splunk.com,splunk.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://duckly.com/,Duckly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://deepnote.com,Deepnote,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kreya.app,Kreya,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.nuclino.com,Nuclino,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://zoompf.com/,zoompf.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://lensdump.com/,lensdump.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.acunote.com/,acunote.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://vattly.com/,Vattly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.bigdatacloud.com/,BigDataCloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://amplitude.com/,amplitude.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://fosshost.org/,fosshost.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.squash.io/,Squash Labs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://virushee.com/,Virushee,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.reqbin.com/,ReqBin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://vectr.com/,vectr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.statuspile.com/,StatusPile,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://letsencrypt.org/,letsencrypt.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.jetbrains.com/pycharm/,PyCharm,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.deta.sh,Deta,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://staroid.com,staroid.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.heliohost.org,heliohost.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://selectel.com/services/dns/,selectel.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://flock.com,flock.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tefter.io,Tefter,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://microenv.com,microenv.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://chanty.com/,Chanty.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cypress.io/,cypress.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://nixstats.com,nixstats.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://grafana.com/products/cloud/,Grafana Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://lgtm.com,lgtm.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tinyletter.com/,tinyletter.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://vercel.com/,Vercel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zepel.io/,zepel.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bugfender.com/,bugfender.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://stackstorm.com/,stackstorm.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://currencylayer.com/,currencylayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://buttondown.email/,Buttondown,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cloudflare.com/,Cloudflare,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.unbounded.cloud/,Unbounded,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://searchcode.com/,searchcode.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://byet.host,Byet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pagecdn.com/,PageCDN.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://iptrace.io,IPTrace,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mongodb.com/cloud/atlas,MongoDB Atlas,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.targetprocess.com/,targetprocess.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.inspectlet.com/,inspectlet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.eclipse.org/che/,Eclipse Che,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developer.foursquare.com/,Foursquare,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://connect.yandex.com/pdd/,Yandex.Connect,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://blackfire.io/,blackfire.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.sumologic.com/,sumologic.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://positionstack.com/,positionstack,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.oracle.com/cloud/,Oracle Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev,Codeac.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pepipost.com,pepipost.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.fraudlabspro.com,FraudLabs Pro,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.dronahq.com/,dronahq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gitential.com,gitential.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://infinityfree.net/,InfinityFree,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.walkme.com/,walkme.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sitemonki.com/,sitemonki.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://getform.io/,getform.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tadum.app,Tadum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://analytics.google.com/,analytics.google.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.logrocket.com,logrocket.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zoom.us/,zoom.us,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://currencystack.io/,currencystack.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.npoint.io/,npoint.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://www.yopmail.fr/en/,yopmail.fr,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://web.gratisdns.dk/domaener/dns/,web.gratisdns.dk,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://apiflash.com,ApiFlash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.trackawesomelist.com/ripienaar/free-for-dev,,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.abstractapi.com,Abstract API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://outlook.live.com/owa/,Outlook.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scrapersproxy.com,Scraper's Proxy,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://inboxkitten.com/,inboxkitten.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ip2location.com,IP2Location,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://api.ksoft.si/,KSoft.Si,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sitecheck.sucuri.net,Sucuri SiteCheck,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.clarifai.com,Clarifai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://webscraping.ai,WebScraping.AI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://applitools.com/,Applitools.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.scaledrone.com/,scaledrone.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://jumpcloud.com/,Jumpcloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.codebasehq.com/,codebasehq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://localise.biz/,Loco,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fonts.google.com/,Google Fonts,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://postman.com,Postman,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mailjet.com/,mailjet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.jamf.com/,jamf.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://raw.githack.com/,raw.githack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://verifalia.com/email-verification-api,Verifalia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fibery.io/,Fibery,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.skylight.io/,skylight.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://onlineornot.com/,OnlineOrNot.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://userforge.com/,userforge.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bridgecrew.io/,Bridgecrew,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://www.cloudmersive.com/email-verification-api,cloudmersive.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bigml.com/,bigml.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://about.sourcegraph.com/,sourcegraph.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.loginradius.com/,LoginRadius,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.funretro.io/,funretro.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://plasticscm.com/,plasticscm.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://stackahoy.io,stackahoy.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.humio.com/,humio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developers.cloudflare.com/argo-tunnel/trycloudflare,TryCloudflare,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kickbox.io/,kickbox.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://scrapingdog.com/,ScrapingDog,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://fossa.com/,FOSSA,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://deepscan.io,deepscan.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.deta.sh,Deta,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.napkin.io/,Napkin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://osdn.net/,OSDN,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://paraio.com,paraio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tamber.com,tamber,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://healthchecks.io,healthchecks.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://neptune.ai/,neptune.ai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.acquia.com/,acquia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bonsai.io/,bonsai.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://formsubmit.co/,Formsubmit.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://parsers.dev/,parsers.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.diggernaut.com/,Diggernaut,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pendulums.io/,Pendulums,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.everystep-automation.com/,everystep-automation.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://combinatronics.com/,Combinatronics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.softacheck.com/,SoftaCheck,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.socketlabs.com,socketlabs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zipcodebase.com,Zipcodebase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pipedream.com,pipedream.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codeberg.org/,Codeberg.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ipapi.co/,ipapi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.helplightning.com/,helplightning.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudrepo.io,cloudrepo.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.gooddata.com/,GoodData,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://en.wikipedia.org/wiki/STUN,STUN,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://asayer.io/pricing.html,asayer.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://render.com,render.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://cloudno.de/,cloudno.de,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bintray.com/bintray/jcenter,JCenter,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.geocod.io/,geocod.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://asana.com/,asana.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.oracle.com/cloud/free/,https://www.oracle.com/cloud/free/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.fontget.com/,FontGet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://teletype.oorja.io/,TeleType,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://namae.dev/,Namae,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://algorithmia.com/,algorithmia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.filestash.app,Filestash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://assertible.com,assertible.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.lightly.ai/,Lightly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codefresh.io,codefresh.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.macrometa.com/,Macrometa,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://appetize.io,Appetize,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://protectumus.com,Protectumus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://parsio.io,Parsio.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://keychest.net,keychest.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.section.io/,section.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cacoo.com/,cacoo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://waiverstevie.com,WaiverStevie.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bit.io,bit.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://contact.do/,Contact.do,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mailkitchen.com/,mailkitchen,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scrapingant.com/,ScrapingAnt,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.opsgenie.com/,opsgenie.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://seatable.io/,SeaTable,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudsploit.com/,cloudsploit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://crystallize.com,Crystallize,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://verimail.io/,verimail.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://freedns.afraid.org/,freedns.afraid.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloud.google.com,Google Cloud Platform,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://landing.ant.design/,Ant Design Landing Page,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://getform.io/,getform.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.back4app.com,back4app.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://undraw.co/,unDraw,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.maptiler.com/cloud/,maptiler.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://timedoor.io,Time Door,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zoneedit.com/free-dns/,zoneedit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/connect,Connect,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.dronahq.com/,dronahq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://redbooth.com,redbooth.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zepel.io/,zepel.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://inumbo.com/,inumbo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.oneskyapp.com/,oneskyapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://help.launchpad.net/Packaging,help.launchpad.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kraken.io/,kraken.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://probeapi.speedchecker.xyz/,speedchecker.xyz,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://www.searchly.com/,searchly.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/cliq,Cliq,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.prefect.io/cloud/,PrefectCloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://grapedrop.com/,Grapedrop,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://kumu.io/,Kumu.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bitnami.com/,bitnami.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://metrica.yandex.com/,metrica.yandex.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://replit.com/,Replit,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://deepsource.io/,DeepSource,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.inspector.dev,inspector.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ipinfo.io/,IPinfo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ide.cs50.io/,ide.cs50.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://synadia.com/ngs,synadia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://scan.coverity.com/,scan.coverity.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.redsmin.com/,redsmin.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.gleek.io,gleek.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.manageengine.com/cloud-log-management,ManageEngine Log360 Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.vagrantbox.es/,Vagrantbox.es,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://searchcode.com/,searchcode.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://planetscale.com/,Planetscale,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.inspectlet.com/,inspectlet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://randomkeygen.com/,RandomKeygen,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://databox.com,Databox,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hotjar.com,Hotjar,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://framasoft.org/en/,Framasoft,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pagure.io,Pagure.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.sparkpost.com/,sparkpost.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://testspace.com/,Testspace.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vatlayer.com/,vatlayer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.osano.com/,Osano,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.timecamp.com/,TimeCamp,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.paessler.com/,paessler.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://numverify.com/,numverify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://flock.com,flock.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ideascale.com/,ideascale.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://saas.zentao.pm/,saas.zentao.pm,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://testtls.com,TestTLS.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tailscale.com/,Tailscale,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://teamwork.com/,teamwork.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://datelist.io,datelist.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://wistia.com/,wistia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.pdfmonkey.io/,PDFMonkey,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vectr.com/,vectr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.elephantsql.com/,elephantsql.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codemagic.io/,codemagic.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://posthook.io/,posthook.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://freegeoip.app/,FreeGeoIP.app,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://versoly.com/,Versoly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mockplus.com/idoc,Mockplus iDoc,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.flowdock.com/,flowdock.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://livesession.io/,livesession.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://superfeedr.com/,superfeedr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://konghq.com/,konghq.com/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/iot-hub/,Microsoft IoT Hub,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.exchangerate-api.com,exchangerate-api.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.netlify.com/,netlify.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.expensify.com/,expensify.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://phplist.com/,phplist.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://octopus.do,Octopus.do,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.oracle.com/cloud/,Oracle Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://encore.dev/,encore.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scraperbox.com/,ScraperBox,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://image4.io/,image4.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://apiflash.com,ApiFlash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://blackfire.io/,blackfire.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://jsfiddle.net/,jsfiddle.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://codescene.io/,codescene.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://rollbar.com/,rollbar.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://stadiamaps.com/,stadiamaps.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://mailmenot.io,mailmenot.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://proxycrawl.com/,ProxyCrawl,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codesandbox.io/,codesandbox.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pagedart.com/,pagedart.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.luadns.com/,luadns.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.browserling.com/,browserling.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://backendless.com/,backendless.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudmersive.com/,Cloudmersive,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://speeder.io/,speeder.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.servicenow.com/,ServiceNow Developer Program,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://miradore.com,Miradore,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://debugmail.io/,debugmail.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cmd.com/,Cmd,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://skyvia.com/,skyvia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://simplelocalize.io/,SimpleLocalize,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://keen.io/,Keen,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cloudkarafka.com/,cloudkarafka.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://opencagedata.com,opencagedata.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.opswat.com/,opswat.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://backlight.dev/,Backlight,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://statcounter.com/,StatCounter,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://uigarage.net/,UI Garage,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.eversql.com/,eversql.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.wufoo.com/,Wufoo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sourceforge.net/,SourceForge,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kickbox.io/,kickbox.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://shields.io,shields.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bearblog.dev/,BearBlog,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://directus.io,Directus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.perforce.com/products/helix-teamhub,perforce.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloud.google.com/free,https://cloud.google.com/free,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://3v4l.org/,3v4l,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.tiny.cloud,TinyMCE,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ip-fast.com/,IPFast,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://letsencrypt.org/,letsencrypt.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudsmith.io,cloudsmith.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://livesession.io/,livesession.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.photopea.com,photopea.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.tesults.com,tesults.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://substack.com,Substack,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://veriphone.io/,veriphone,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://about.sourcegraph.com/,sourcegraph.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.docsapp.io/,docsapp.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.birdeatsbug.com/,Bird Eats Bug,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://jsonplaceholder.typicode.com/,JSONPlaceholder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.stathat.com/,stathat.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zonewatcher.com,zonewatcher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://combinatronics.com/ripienaar/free-for-dev/master/index.html,example from this repo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fauna.com/,FaunaDB,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://code.sololearn.com,SoloLearn,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.wormhol.org/,wormhol.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://webhookrelay.com,webhookrelay.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.leanboard.io,LeanBoard,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.fontshare.com/,Fontshare,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.pythonanywhere.com/,pythonanywhere.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://zenkit.com,zenkit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://localizely.com/,localizely.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://calendarific.com,Calendarific,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://talky.io/,talky.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://papertrailapp.com/,papertrailapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://10minutemail.com,10minutemail,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.apify.com/,Apify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/meeting,Meeting,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://deploynow.space,Deploy Now,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://themeselection.com/,Themeselection,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://disease.sh/,Disease.sh,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://cloud.yugabyte.com,YugabyteDB,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://statically.io/,statically.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.oracle.com/cloud/free/,https://www.oracle.com/cloud/free/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.circonus.com/,circonus.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://lean20.com/product/status/,lean20.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.namecheap.com/domains/freedns/,namecheap.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://indicative.com/,indicative.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mailboxvalidator.com,MailboxValidator,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.igloosoftware.com/,Igloo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://chpokify.com/,Chpokify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.progress.com/kinvey,progress.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://getawesomeness.herokuapp.com,getawesomeness,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mastershot.app,Mastershot,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codeberg.page/,Codeberg Pages,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pijul.com/,pijul.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://review.gerrithub.io/,gerrithub.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://treeschema.com/,Tree Schema,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://herotofu.com/,HeroTofu.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://web3forms.com,Web3Forms,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://boxy-svg.com/app,BoxySVG,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.npoint.io/,npoint.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://testlio.com/,testlio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://freecurrencyapi.net/,Freecurrencyapi.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mail.tm,mail.tm,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.1984.is/product/freedns/,1984.is,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://elementor.com,Elementor,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://screenshotapi.net/,ScreenshotAPI.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://clarity.microsoft.com/,Microsoft Clarity,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.tickgit.com/,tickgit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.scrumfast.com,ScrumFast,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://quickmocker.com/,QuickMocker,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scrapingdog.com/,ScrapingDog,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://metrica.yandex.com/,Yandex.Metrica,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pyup.io,pyup.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://linear.app/,Linear,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.iplist.cc,IPList,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developers.arcgis.com,developers.arcgis.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://katacoda.com,Katacoda,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev,Codeac.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://osmnames.org/,osmnames,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.pubnub.com/,pubnub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.logintc.com/,logintc.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cronhooks.io/,Cronhooks,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://flowdash.com/,Flowdash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://raindrop.io,Raindrop.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailnesia.com,Mailnesia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.walkme.com/,walkme.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://eva.pingutil.com/,EVA,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.tableau.com/developer,Tableau Developer Program,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://jitpack.io/,jitpack.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://instatus.com,instatus.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://stackblitz.com/,stackblitz.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.statuscake.com/,statuscake.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp,BMC Developer Program,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://clickup.com/,clickup.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://webcomponents.dev/,Components.studio,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tempmailo.com/,Tempmailo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://quicktype.io/,QuickType.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pixlr.com/,pixlr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dev.to/,Dev.to,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudimage.com/,cloudimage.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sider.review,Sider,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://emailtemporanee.com/,Email Temporanee,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://aws.amazon.com,Amazon Web Services,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://currencyfreaks.com/,CurrencyFreaks,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://texterify.com/,Texterify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ocr.space/,OCR.Space,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hyperforms.app/,Hyperforms.app,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://forestry.io/,Forestry.io/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.iubenda.com/,Iubenda,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://connect.yandex.com/pdd/,Yandex.Connect,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cloudns.net/,cloudns.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://threatconnect.com,threatconnect.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailazy.com/,mailazy.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/campaigns,Campaigns,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoom.us/,zoom.us,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://requestbin.com,RequestBin.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://microlink.io/,microlink.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://toranproxy.com/,toranproxy.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.datadoghq.com/,datadoghq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.meistertask.com/,MeisterTask,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gocover.io/,gocover.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zube.io,Zube,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://web.dev/measure/,Web.Dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloud.drone.io/,drone,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://stormkit.io/,Stormkit,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.lambdatest.com/,lambdatest.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pushbots.com/,pushbots.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://nextdns.io,nextdns.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.codenotary.io/,CodeNotary.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.99inbound.com/,99inbound.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://canister.io/,canister.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://positionstack.com/,positionstack,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codekeep.io,CodeKeep,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.meterian.io/,meterian.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codebeat.co,CodeBeat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.websitepulse.com/tools/,websitepulse.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.gitea.com/,Gitea.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pepipost.com,pepipost.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/vault,Vault,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.plasmic.app/,Plasmic,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.otixo.com/,otixo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://form2channel.com,Form2Channel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://harperdb.io/,HarperDb,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://twist.com,twist.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mixpanel.com/,Mixpanel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.lazarus-ide.org/,Lazarus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://panelbear.com/,Panelbear.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudinary.com/,cloudinary.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://element.io/,element.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://is-a.dev,is-a.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mouseflow.com/,mouseflow.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dreamfactory.com/,dreamfactory.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://conveyor.cloud/,conveyor.cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://webflow.com,Webflow,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://kwes.io/,Kwes.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://workers.dev,workers.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://screenshotapi.net/,ScreenshotAPI.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://app.vagrantup.com,app.vagrantup.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://protectumus.com,Protectumus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.skylight.io/,skylight.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.zoho.com/mail/,zoho.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.tickgit.com/,tickgit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.otixo.com/,otixo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://postman.com,Postman,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://contact.do/,Contact.do,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.pika.dev/cdn,pika.dev/cdn,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ddos-guard.net/store/web,ddos-guard.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.cosmicjs.com/,Cosmic,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://central.sonatype.org,central.sonatype.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://geocodify.com/,geocodify.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://jsonplaceholder.typicode.com/,JSONPlaceholder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.targetprocess.com/pricing/,more details,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://drv.tw,Drive To Web,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://collect2.com,Collect2,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.foursquare.com/,Foursquare,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://happi.dev,happi.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://darklang.com/,darklang.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailsac.com,mailsac.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://unixtime.co.za,Unixtime,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://squadcast.com,Squadcast.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://www.mail-tester.com,mail-tester.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://meet.google.com/,Google Meet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gitduck.com/,GitDuck,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zilore.com/en/dns,zilore.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/app-service/,App Service,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://allthefreestock.com,AllTheFreeStock,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.trashmail.com,trashmail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mouseflow.com/,mouseflow.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://streamdata.io/,streamdata.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://basecamp.com/personal,Basecamp,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mailpop.in,mailpop.in,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://commons.host/,commons.host,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.surveymonkey.com,SurveyMonkey.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://che.openshift.io/,che.openshift.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://geocodeapi.io,GeocodeAPI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://appcircle.io,appcircle.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://applitools.com/,Applitools.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.leanboard.io,LeanBoard,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.geodatasource.com,GeoDataSource,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://devport.co/,devport.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mailboxvalidator.com,MailboxValidator,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://redislabs.com/try-free/,redislabs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mixpanel.com/,mixpanel.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://whimsical.com/,whimsical.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.clarifai.com,Clarifai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://healthchecks.io,healthchecks.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.vagrantbox.es/,vagrantbox.es,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://postale.io/,postale.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://sirv.com/,sirv.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://screenshotlayer.com/,screenshotlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://piio.co/,piio.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://tefter.io,Tefter,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.alienvault.com/open-threat-exchange/reputation-monitor,alienvault.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://freedns.afraid.org/,freedns.afraid.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.vpn.net/,Hamachi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://simplelogin.io/,SimpleLogin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://webhook.site,Webhook.site,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/load-balancer/,Load Balancer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://katacoda.com,Katacoda,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloudrepo.io,cloudrepo.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://meet.jit.si/,meet.jit.si,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://platform9.com/,Platform9,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://leancloud.app/,LeanCloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://localise.biz/,Loco,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://scrapinghub.com,scrapinghub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pyup.io,pyup.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://smartforms.dev/,smartforms.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://gitlab.com,Gitlab,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://microlink.io/,microlink.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://hostingtocdo.cyou/,HostingTocDo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.circonus.com/,circonus.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://videoinu.com,videoinu,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://colab.research.google.com,Colaboratory,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.meuscrum.com/en,MeuScrum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://projectlocker.com,projectlocker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://theendlessweb.com/,Endless Hosting,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developers.google.com/speed/libraries/,developers.google.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.acquia.com/,acquia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pantheon.io/,pantheon.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://taskulu.com/,taskulu.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.screenshotmachine.com/,screenshotmachine.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.inspector.dev,inspector.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://dev.to/,dev.to,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.zoneedit.com/free-dns/,zoneedit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.mousestats.com/,mousestats.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bitninja.io/,bitninja.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://raw.githack.com/,raw.githack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.ibm.com/cloud/free/,IBM Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://image4.io/,image4.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://fly.io/,fly.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.moesif.com,Moesif,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/functions/,Functions,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mailboxlayer.com/,mailboxlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.bitrix24.com/,bitrix24.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://hashnode.com/,hashnode.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://freenom.com/,freenom.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.fullcontact.com/developer/pricing/,fullcontact.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://pony.icu/,pony.icu,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.oneskyapp.com/,oneskyapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/notification-hubs/,Notification Hubs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://savannah.gnu.org/,savannah.gnu.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.progress.com/kinvey,progress.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.1984.is/product/freedns/,1984.is,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.datadoghq.com/,datadoghq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://testlio.com/,testlio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://randomkeygen.com/,RandomKeygen,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://dareboost.com,dareboost,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloudsploit.com/,cloudsploit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://micro-jaymock.now.sh/,micro-jaymock,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://instrumentalapp.com,instrumentalapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.dafont.com/,dafont,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://zonewatcher.com,zonewatcher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.gleek.io,gleek.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mailcatcher.me/,mailcatcher.me,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.section.io/,section.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://bellard.org/jslinux,JsLinux,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.luadns.com/,luadns.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://medium.com/,medium.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://http2.pro,http2.pro,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.deepcode.ai,deepcode.ai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.optimizely.com,optimizely.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://keychest.net/speedtest,keychest.net/speedtest,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.alibabacloud.com/campaign/free-trial,Alibaba Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://instabug.com,Instabug,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://terrastruct.com/,terrastruct.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ibm.com/cloud/free/,IBM Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cleverbrush.com/,clevebrush.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.xirsys.com,Xirsys,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://keybase.io/,Keybase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://unicornplatform.com/,Unicorn Platform,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.antideo.com,Antideo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://apimocha.com,API Mocha,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://stackstorm.com/,stackstorm.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hottempmail.com/,HotTempMail,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://packagecloud.io/users/new?plan=free_usage_plan,packagecloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://shortcut.com/,Shortcut,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sonarcloud.io,sonarcloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://elasticemail.com,elasticemail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://frontaid.io/,FrontAid,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://moss.sh,moss.sh,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://plasticscm.com/,plasticscm.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://smalldev.tools/,SmallDev.tools,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hashnode.com/,Hashnode,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://deadmanssnitch.com/,deadmanssnitch.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/devtest-lab/,DevTest Labs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloudimage.com/,cloudimage.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://s-macke.github.io/jor1k/demos/main.html,Jor1k,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://developer.microsoft.com/en-us/office/dev-program,Office 365 Developer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://wolfram.com/language/,wolfram.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/pricing/details/bandwidth/,Bandwidth,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://mailchimp.com/,mailchimp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-http://chiselapp.com/,chiselapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://products.office.com/microsoft-teams/free,Microsoft Teams,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://everythingfonts.com/,Everything Fonts,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.namecheap.com/domains/freedns/,namecheap.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.huaweicloud.com/intl/en-us/product/dns.html,huaweicloud.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://jwt.ssotools.com/,JWT Decoder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://speeder.io/,speeder.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://cloudinary.com/,cloudinary.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.codenotary.io/,CodeNotary.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://fonts.google.com/,Google Fonts,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.quantcast.com/products/measure-audience-insights/,quantcast.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://letsmonitor.org,letsmonitor.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://wrapapi.com/,wrapapi.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://miro.com/,Miro,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://usabilityhub.com/,usabilityhub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloudcraft.co/,Cloudcraft,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://currencyapi.net/,CurrencyApi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://statusgator.com/,statusgator.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cookiefirst.com/,Cookiefirst,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dns.he.net/,dns.he.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://golang.org/,Go,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gigalixir.com/,gigalixir.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://container-registry.com/,Container Registry Service,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://appcircle.io,appcircle.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://unpkg.com/,UNPKG,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pravatar.cc/,Pravatar,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ray.so/,ray.so,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://stackby.com/,StackBy,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sematext.com/logsene,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kwes.io/,Kwes.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://instrumentalapp.com,instrumentalapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://toggl.com/track/,Toggl Track,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hookbin.com/,Hookbin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dynapictures.com,DynaPictures,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://www.yopmail.fr/en/,yopmail.fr,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.flowdock.com/,flowdock.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scn.sap.com/docs/DOC-56411,scn.sap.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.noip.com/,noip,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://node.new,https://node.new,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.meuscrum.com/en,MeuScrum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://huboard.com/,huboard.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://workspaces.openshift.com/,workspaces.openshift.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.crypteron.com/,crypteron.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developers.google.com/speed/libraries/,developers.google.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bugfender.com/,bugfender.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://webhook.site,Webhook.site,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://layerci.com,LayerCI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/forms,Forms,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://monkeylearn.com/,monkeylearn.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fossa.com/,FOSSA,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://upstash.com/,Upstash,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://www.qualys.com/community-edition,qualys.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://ora.pm/,Ora,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/services/cosmos-db/,Cosmos DB,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailtie.com/,Mailtie.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.vpn.net/,Hamachi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codemyui.com,CodeMyUI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://catchjs.com/,CatchJS.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mousestats.com/,mousestats.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dkimvalidator.com/,dkimvalidator.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.hookrelay.dev/,Hook Relay,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.lambdatest.com/open-source-cross-browser-testing-tool,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://shtab.app/,shtab.app,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://updrafts.app,Updrafts.app,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.geoapify.com/,geoapify.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://huggingface.co,huggingface.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.invisionapp.com,Invision App,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://runcloud.io/,runcloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://duply.co,Duply.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://aws.amazon.com/free/,https://aws.amazon.com/free/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://translation.io,Translation.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://repsy.io,repsy.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://biz.mail.ru/,biz.mail.ru,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://syagent.com/,syagent.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.bootstrapcdn.com/,bootstrapcdn.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://screenshotlayer.com/,screenshotlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.sumologic.com/,sumologic.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/showtime,Showtime,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.tinfoilsecurity.com/,tinfoilsecurity.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.awwwards.com/,awwwards.,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.microsoft.com/microsoft-365/dev-program,Microsoft 365 Developer Program,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.seafile.com/,seafile.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://roboflow.com,Roboflow,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://apitemplate.io,APITemplate.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hybiscus.dev/,Hybiscus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vscodium.com/,VSCodium,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://buddy.works/,buddy.works,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.thousandeyes.com/,thousandeyes.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.brainboard.co,Brainboard,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://www.gremlin.com/gremlin-free-software,Gremlin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://www.backblaze.com/b2/,backblaze.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
-https://azure.microsoft.com/pricing/details/app-service/static/,Static Web Apps,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://speedboard.app,SpeedBoard,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.huaweicloud.com/intl/en-us/product/dns.html,huaweicloud.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gitdailies.com,GitDailies,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.bigdatacloud.com/,BigDataCloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://phplist.com/,phplist.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://firebase.com,Firebase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://form.taxi/,Form.taxi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.humio.com/,humio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.woopra.com/,woopra.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codegiant.io,Codegiant,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mojoauth.com/,MojoAuth,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://anvil.works,anvil.works,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ns1.com/,ns1.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://conversiontools.io/,Conversion Tools,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://toggl.com/plan/,Toggl Plan,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sourcelevel.io/,SourceLevel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://stadiamaps.com/,stadiamaps.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://djcheckup.com,DJ Checkup,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hub.docker.com,Docker Hub,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hitsteps.com/,Hitsteps.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tilda.cc/,tilda.cc,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://goreportcard.com/,goreportcard.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://streamdata.io/,streamdata.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.influxdata.com/,InfluxDB,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cdnjs.com/,cdnjs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://medium.com/,Medium,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://keychest.net/speedtest,keychest.net/speedtest,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.dnspod.com/,dnspod.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailvalidator.io/,mailvalidator.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://temp-mail.io,temp-mail.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://emailoctopus.com,EmailOctopus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zoho.com,Zoho,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.screenshotmachine.com/,screenshotmachine.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.format-express.dev,Format Express,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://easydb.io/,easyDB.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fakejson.com/,fakejson.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://glitch.com/,Glitch,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://qase.io,qase.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.kontent.ai,kontent.ai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://currencylayer.com/,currencylayer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://logflare.app/,logflare.app,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pusher.com/beams,pusher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bookmarkos.com,BookmarkOS.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://economize.cloud,economize.cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://openapidesigner.com/,OpenAPI3 Designer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://octopus.com,Octopus Deploy,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://readme.com/,readme.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.moesif.com,Moesif,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://exceptionless.com,exceptionless,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://efemarai.com,Efemarai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://siasky.net,Skynet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.geocod.io/,geocod.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://webtranslateit.com/,webtranslateit.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://atlastk.org/,Atlas toolkit,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ntaskmanager.com/,nTask,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vatcheckapi.com,vatcheckapi.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.shakebugs.com/,Shake,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.atlassian.com/software/confluence,Confluence,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zerotier.com,ZeroTier,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.hetzner.com/dns-console,Hetzner,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hygger.io,Hygger,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.microsoft.com/microsoft-365/enterprise/e5,Microsoft 365 E5 Subscription,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://robohash.org/,ROBOHASH,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gitgud.io,GitGud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.borgbase.com/,borgbase.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://whimsical.com/,whimsical.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ketch.com/,Ketch,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mockapi.io/,MockAPI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloud.invantive.com/,Invantive Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://3cols.com/,3Cols,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://viezly.com/,Viezly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cloudflare.com/,Cloudflare,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.terraform.io/,terraform.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://postmarkapp.com/,postmarkapp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://qualtrics.com/free-account,Qualtrics Survey,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.behance.net/,Behance,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://holistic.dev/,holistic.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://projectlocker.com,projectlocker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.smartlook.com/,smartlook.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://labs.play-with-docker.com/,Play with Docker,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.landen.co,landen.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://getscreen.me,Getscreen.me,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://packagecloud.io/,packagecloud.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.buddybuild.com/,buddybuild.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mongodb.com/cloud/atlas,MongoDB Atlas,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.gitpod.io,gitpod.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zdoo.co,zdoo.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.thundra.io/apm,thundra.io/apm,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.proto.io,Proto.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://txti.es/,txti.es,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://supabase.io,Supabase,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://craftmypdf.com,CraftMyPDF,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://www.gridlastic.com/,gridlastic.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.duckdns.org/,duckdns.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://doppler.com/,Doppler,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://currencystack.io/,currencystack.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://slab.com/,Slab,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pagertree.com/,pagertree.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://recaptchame.com/,reCAPTCHAMe,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://eva.pingutil.com,Eva,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ploi.io/,ploi.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://iptrace.io,IPTrace,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.typetalk.com/,typetalk.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ora.pm/,Ora,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tweek.so/,Tweek,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.codefactor.io,CodeFactor,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://logtail.com/,logtail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://numlookupapi.com,numlookupapi.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://extendsclass.com/rest-client-online.html,ExtendsClass,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://observatory.mozilla.org/,Mozilla Observatory,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.browserstack.com/open-source?ref=pricing,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://formcake.com,Formcake.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailboxlayer.com/,mailboxlayer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pingmeter.com/,Pingmeter.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://amplitude.com/,amplitude.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://logdna.com,logdna.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://flutterflow.io,Flutter Flow,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://parsehub.com/,parsehub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pages.cloudflare.com/,Cloudflare Pages,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.quickmetrics.io/,Quickmetrics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://counter.dev,counter.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.designer.io/,designer.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pointhq.com/developer,pointhq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.icedrive.net/,icedrive.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ipaddress.sh,ipaddress.sh,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://wakatime.com/,wakatime.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developers.redhat.com,RedHat for Developers,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.acunote.com/,acunote.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dribbble.com/,dribbble,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://smartcar.com,Smartcar API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://glitchtip.com/,GlitchTip,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://temp-mail.org,temp-mail.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://preview.fenixwebserver.com,Fenix Web Server,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://about.gitlab.com/product/continuous-integration,CI/CD,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pageclip.co/,Pageclip,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://lensdump.com/,lensdump.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ubiqsecurity.com/,Ubiq Security,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vercel.com/,Vercel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://geocodify.com/,geocodify.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mail7.io/,mail7.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bump.email/,Bump,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.webceo.com/,webceo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scalr.com/,scalr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://redirection.io/,redirection.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cirrus-ci.org,cirrus-ci.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://maps.stamen.com/,maps.stamen.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://rocketgit.com,RocketGit,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://quay.io/,quay.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://leancloud.app/,LeanCloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://staticman.net/,Staticman,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pingbreak.com/,pingbreak.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://meet.google.com/,Google Meet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://knapsackpro.com,knapsackpro.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://usekrucible.com,Krucible,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zulip.com/,Zulip,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.pushtechnology.com/,pushtechnology.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://resizeappicon.com/,resizeappicon.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://embed.ly/,embed.ly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailchimp.com/,mailchimp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://formcarry.com,Formcarry.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tadum.app,Tadum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.okta.com/,Okta,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pixelixe.com/,Pixelixe,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://beeceptor.com,Beeceptor,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.prismic.io/,Prismic,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.optimizely.com,optimizely.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://asana.com/,asana.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://appharbor.com/,appharbor.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://duo.com/,duo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://logentries.com/,logentries.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://wolfram.com/language/,wolfram.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.loadmill.com/,loadmill.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/mail,Email,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://slack.com/,slack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://amixr.io/,amixr.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://getstream.io/,getstream.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.dynu.com/,dynu.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://restdb.io/,restdb.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://curlhub.io,CurlHub,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mockable.io/,mockable.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mobbin.design/,Mobbin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mohmal.com/en,mohmal.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.fullcontact.com/developer/pricing/,fullcontact.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.pivotaltracker.com/,pivotaltracker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ubertesters.com/,ubertesters.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.braidchat.com/,Braid,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://instabug.com,Instabug,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://virgilsecurity.com/,Virgil Security,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.molasses.app,Flagsmith,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pingpong.one/,pingpong.one,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fakermail.com/,fakermail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://uptimerobot.com/,uptimerobot.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.figma.com,figma.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://docs.glauca.digital/hexdns/,Glauca,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://netbeans.apache.org/,Apache Netbeans,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://blynk.io,Blynk,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.reactflow.com/,Reactflow.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://picsum.photos/,Lorem Picsum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.giscloud.com/,giscloud.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.usersurge.com/,usersurge.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://smartforms.dev/,smartforms.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.formingo.co/,formingo.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mendix.com/,Mendix,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://PhantomJsCloud.com,PhantomJsCloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mailerlite.com,MailerLite.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gitlocalize.com,gitlocalize.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://getjsonip.com,JSON IP,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://localhost.run/,localhost.run,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.sanity.io/,sanity.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/notebook,Notebook,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://graphcomment.com/,GraphComment,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.elastic.co/solutions/apm,elastic.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sia.tech/,Sia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://jfrog.com/start-free/,Artifactory,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ably.com/,Ably,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://piio.co/,piio.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://responsively.app,Responsively App,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bigml.com/,bigml.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://guacamole.apache.org/,Apache Guacamole™,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://letsmonitor.org,letsmonitor.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://burnermail.io/,Burnermail,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://quickblox.com/,quickblox.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.loggly.com/,loggly.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.squash.io/,Squash Labs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://meetslack.com,/meet for Slack,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.filestack.com/,filestack.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://automate.io,Automate.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.checkbot.io/,checkbot.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.contriber.com/,contriber.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tugboat.qa,Tugboat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://rive.app,Rive,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://plan.io/,plan.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.redsmin.com/,redsmin.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ilograph.com/,Ilograph,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mockaroo.com/,mockaroo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://redirect.pizza/,redirect.pizza,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://percy.io,percy.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sheetson.com,Sheetson,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://about.ipaddress.sh/,formats,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://treescale.com/,TreeScale.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pixe.la/,Pixela,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gitter.im/,gitter.im,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://freehostingnoads.net/,Free Hosting,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tinyletter.com/,tinyletter.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ide.goorm.io,ide.goorm.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fosshost.org/,fosshost.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://wrapapi.com/,wrapapi.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.exchangerate-api.com,exchangerate-api.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.onelogin.com/,onelogin.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://about.gitlab.com/product/pages,GitLab Pages,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://backlog.com,Backlog,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://analytics.google.com/,Google Analytics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://simplebackups.io/,simplebackups.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://versoly.com/,Versoly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://localazy.com,localazy.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://netlicensing.io,netlicensing.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://central.sonatype.org,central.sonatype.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cally.com/,cally.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.sync.com/,sync.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://savannah.gnu.org/,savannah.gnu.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://nic.eu.org,eu.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cockroachlabs.com/free-tier/,cockroachlabs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cloudamqp.com/,cloudamqp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.gumlet.com/,gumlet.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://analytics.statvoo.com/,Statvoo Analytics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://exportsdk.com,Export SDK,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://logz.io/,logz.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://rollbar.com/,rollbar.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codescene.io/,codescene.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.framer.com/,framer.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://powerbi.com,Microsoft PowerBI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://restspace.io/,restspace.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.markup.io/,MarkUp,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://quickemailverification.com,QuickEmailVerification,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.logrocket.com,LogRocket.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://lottiefiles.com/,LottieFiles,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vaadin.com,Vaadin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://formlets.com/,formlets.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://spectrum.chat/,Spectrum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.configure.it/,configure.it,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://stackahoy.io,stackahoy.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://theboroer.github.io/localtunnel-www/,localtunnel,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sematext.com/,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://http2.pro,http2.pro,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://utteranc.es/,Utterances,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.backblaze.com/b2/,backblaze.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.appdynamics.com/,appdynamics.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://howuku.com,howuku.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mocki.io,Mocki,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://calendarific.com,Calendarific,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://liteflow.com/,Liteflow,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scenelab.io,SceneLab,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vabotu.com/,vabotu,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://free.getbricks.app/,Bricks Note Calculator,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://webshrinker.com,Webshrinker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ringcaptcha.com/,ringcaptcha.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://freedcamp.com/,freedcamp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://buttondown.email/,Buttondown,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://selectel.com/services/dns/,selectel.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://geocodeapi.io,GeocodeAPI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.staticforms.xyz/,staticforms.xyz,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.planitpoker.com/,planitpoker.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://calendly.com,Calendly,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
 https://reflect.run,reflect.run,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://shrtco.de/docs,shrtcode API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://storj.io,Storj,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://platform9.com/,Platform9,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://forwardemail.net,forwardemail.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://konghq.com/,konghq.com/,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://moosend.com/,moosend.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://js.org,js.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://issueembed.dev/,Issue Embed,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hangouts.google.com/,hangouts.google.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://workers.cloudflare.com/,Cloudflare Workers,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://localeum.com,Localeum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://snapshooter.com/,SnapShooter,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://basecamp.com/personal,Basecamp,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://meet.jit.si/,meet.jit.si,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://checklyhq.com,checklyhq.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.trashmail.com,trashmail.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sensenet.com,sensenet,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.qovery.com,Qovery,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://icon.horse,Icon Horse,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pinata.cloud,Pinata IPFS,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.fraudlabspro.com,FraudLabs Pro,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://virushee.com/,Virushee,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://connectycube.com,connectycube.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.pcloud.com/,pcloud.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fly.io/,fly.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mailpop.in,MailPopin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.scaleway.com/en/object-storage/,scaleway.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.expensify.com/,Expensify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://avo.app/,Avo,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://screenlane.com/,Screenlane,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://formspark.io/,formspark.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://m3o.com,m3o.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://loader.io/,loader.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://foss.heptapod.net/,heptapod.net,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://internet.nl,Internet.nl,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mergify.io,Mergify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://uptimetoolbox.com/,uptimetoolbox.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.sender.net,Sender,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.fullstory.com,FullStory.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.quantcast.com/products/measure-audience-insights/,quantcast.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mybinder.org/,Binder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.image-charts.com/,image-charts.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://discord.com/,Discord,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://freeboard.io/,freeboard.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.vivifyscrum.com/,vivifyscrum.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.jdoodle.com,JDoodle,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.reqbin.com/,ReqBin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hey.space,HeySpace,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mocklets.com,Mocklets,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vadoo.tv/,vadoo.tv,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.atlassian.com/software/jira,Jira,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://resmush.it,resmush.it,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/sprints,Sprints,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://disqus.com/,Disqus,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bellard.org/jslinux,JsLinux,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zenrows.com/,ZenRows,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://redislabs.com/try-free/,redislabs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.twicpics.com,twicpics.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://www.jare.io,jare.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cloudmailin.com/,CloudMailin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://onesignal.com/,onesignal.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.alienvault.com/open-threat-exchange/reputation-monitor,alienvault.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mocko.dev/,Mocko.dev,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.bitrix24.com/,bitrix24.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.divio.com/,Divio,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/surveys,Surveys,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://xlayers.dev,xLayers,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://localizely.com/,localizely.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://iploka.com/,Iploka,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.statuspile.com/,StatusPile,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://imagebin.ca/,imagebin.ca,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://improvmx.com,ImprovMX,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.freehostia.com,Freehostia,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.namiml.com/,Nami ML,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kanbanflow.com/,kanbanflow.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://thedev.id,thedev.id,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://branch.io,Branch,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://neo4j.com/cloud/aura/,Neo4j Aura,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scrnshts.club/,scrnshts,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://jwt.ssotools.com/,JWT Decoder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.uxtweak.com/,UXtweak.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://crossbrowsertesting.com,crossbrowsertesting.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.freshworks.com/website-monitoring/,freshworks.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.courier.com/,courier.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/wiki,Wiki,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sendgrid.com/,sendgrid.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://meercode.io/,meercode.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://currencyscoop.com,CurrencyScoop,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.validator.pizza/,Validator.Pizza,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sentry.io/,sentry.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://geokeo.com,Geokeo api,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sawolabs.com/,sawolabs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.24browser.com,24browser.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://smartmockups.com/,smartmockups.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.salesforce.com/signup,Salesforce Developer Program,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.easyretro.io/,easyretro.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://robocorp.com,robocorp.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.typeform.com/,Typeform.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://wikifactory.com/,Wikifactory,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.jitbit.com/imgen/,imgen,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bluej.org,BlueJ,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://nic.ua/,pp.ua,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://serpapi.com/,SerpApi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://designer.mocky.io/,Mocky,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+http://s-macke.github.io/jor1k/demos/main.html,Jor1k,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://products.office.com/microsoft-teams/free,Microsoft Teams,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bitnami.com/,bitnami.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://placeholder.com/,placeholder.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition,here,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://airtable.com/,airtable.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://freegeoip.app/,FreeGeoIP.app,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sirv.com/,sirv.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://operous.dev/,Operous,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://saucelabs.com/open-source,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ngrok.com/,ngrok.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://talky.io/,talky.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://atomist.com/,atomist.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://snyk.io,snyk.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zenscrape.com/web-scraping-api,Zenscrape,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://jetbrains.com/products.html,jetbrains.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kanbantool.com/,kanbantool.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://devpal.co/base64-decode/,Base64 decoder/encoder,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.koyeb.com,Koyeb,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://vvv.space/,vspace,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://dareboost.com,dareboost,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.sendinblue.com/,sendinblue.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://web.gratisdns.dk/domaener/dns/,web.gratisdns.dk,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://app.vagrantup.com,Vagrant Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://datapane.com,Datapane,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.netdata.cloud/,netdata.cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bootify.io/,Bootify.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zenduty.com/,zenduty.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ionicframework.com/appflow,ionicframework.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://getinsights.io,getinsights.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ipgeolocation.io/,IP Geolocation,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.memcachier.com/,MemCachier,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sematext.com/cloud/,sematext.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.software.com/code-time,Code Time,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gforge.com,GForge,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.hotjar.com/,hotjar.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cognalys.com/,Cognalys,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.magicpattern.design/tools,MagicPattern,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pusher.com/,pusher.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://superfeedr.com/,superfeedr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://ui-avatars.com/,UI Avatars,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.appneta.com/,appneta.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://uploadcare.com/hub/developers/,uploadcare.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.integromat.com,Integromat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://miro.com/,Miro,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://cloud.dgraph.io/pricing?type=free,Dgraph Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.yodiz.com/,Yodiz,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.radmin-vpn.com/,Radmin VPN,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://authress.io/,Authress,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://hostman.com,hostman.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.algolia.com/,algolia.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://clicky.com,Clicky,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://build.opensuse.org/,build.opensuse.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.jetbrains.com/pycharm/,PyCharm,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://fleep.io/,Fleep.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.codenameone.com/,codenameone.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.revenuecat.com/,RevenueCat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://qoddi.com,Qoddi,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.alwaysdata.com/,Alwaysdata,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sitemonki.com/,sitemonki.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://paiza.cloud/en/,Paiza,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.deepcode.ai,deepcode.ai,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://placekitten.com/,placekitten.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://testingbot.com/,testingbot.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://railway.app,Railway,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://jsonbin.io/,jsonbin.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://savannah.nongnu.org/,savannah.nongnu.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.dbdesigner.net/,DB Designer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ssllabs.com/ssltest/,ssllabs.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://openode.io,opeNode,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://degooglisons-internet.org/en/list/,Framacloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://imagekit.io,imagekit.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://copy.sh/v86,v86,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gogeo.io/,gogeo.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.netlify.com/,Netlify,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.zenhub.com,zenhub.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zilore.com/en/dns,zilore.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://crossbrowsertesting.com/open-source,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.codepng.app,Codepng,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://tara.ai/,Tara AI,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/bookings,Bookings,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.tigergraph.com/cloud/,TigerGraph Cloud,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.surveymonkey.com,SurveyMonkey.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://authy.com,Authy,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/subscriptions,Subscriptions,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://newreleases.io/,newreleases.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://freeflarum.com/,FreeFlarum,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://testingbot.com/open-source,free for Open Source,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/docs,Docs,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://gitential.com,gitential.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://kitemaker.co,Kitemaker.co,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://scalingo.com/,scalingo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://heap.io,heap.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.graphhopper.com/,graphhopper.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.jsdelivr.com/,jsdelivr.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://configcat.com,ConfigCat,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.stackhawk.com/,StackHawk,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://internxt.com,internxt.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.newrelic.com,newrelic.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pantheon.io/,pantheon.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://podio.com/,podio.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://segment.com/,segment.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.outsystems.com/,outsystems.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.deepar.ai,DeepAR,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.datastax.com/products/datastax-astra/pricing,80GB free tier,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.cacher.io,cacher.io,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.mockplus.com/idoc,Mockplus iDoc,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://prepros.io/,Prepros,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://videoinu.com,videoinu,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://sendpulse.com,sendpulse.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://degoo.com/,degoo.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://mockupmark.com/create/free,mockupmark.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview,Microsoft Ajax,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.bearer.sh/,Bearer,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://quickchart.io,QuickChart,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.awardspace.com,Awardspace.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://allthefreestock.com,AllTheFreeStock,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/analytics,Analytics,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/checkout,Checkout,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://octopus.do,Octopus.do,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://esper.io,Esper,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/projects,Projects,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codeblocks.org,Code::Blocks,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://developer.here.com/,here,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://penpot.app,Penpot,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://simplelogin.io/,SimpleLogin,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.targetprocess.com/,targetprocess.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://bubble.io/,Bubble,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://copr.fedorainfracloud.org,copr.fedorainfracloud.org,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://codesnip.com.br,codesnip.com.br,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.emailjs.com/,EmailJS,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/desk,Desk,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/bugtracker,Bugtracker,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.dafont.com/,dafont,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.ovh.ie/ssl-gateway/,ovh.ie,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://everythingfonts.com/,Everything Fonts,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://zoho.com/assist,Assist,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://pagecdn.com/,PageCDN.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.targetprocess.com/pricing/,more details,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.skypack.dev/,Skypack,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://taskulu.com/,taskulu.com,https://github.com/ripienaar/free-for-dev#readme,Free for Developers
+https://www.scraperapi.com/,Scraper API,https://github.com/ripienaar/free-for-dev#readme,Free for Developers

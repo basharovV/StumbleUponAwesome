@@ -1,116 +1,115 @@
-http://tympanus.net/codrops/,Tympanus codrops,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://sparkbox.github.io/bouncy-ball/,Bouncy Ball,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://jeremyckahn.github.io/mantra/,Mantra,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://vimeo.com/88468610,The 4 Minute Guide to Quartz Composer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://creative.adobe.com/products/animate,Adobe Edge Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc,Creating Usability with Motion: The UX in Motion Manifesto,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser,How to Create Smoother Animations and Transitions in the Browser,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://schoolofmotion.com/project/30dae_01_writeon/,30 days of AE,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://dvdp.tumblr.com/,dvdp,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181,Introducing Origami for QC,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://codyhouse.co/library/,Codyhouse,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://daneden.github.io/animate.css/,Animate.css,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://cssanimationspocketguide.com/,CSS animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac,Jedi Principles of UI Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932,Prototyping UI Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://animejs.com/,anime.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://greensock.com/,GreenSock,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://hoverstat.es/,hoverstat.es,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://snapsvg.io/,SnapSVG,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://developer.apple.com/tech-talks/videos/?id=2,User Interface Design for iOS 7 Apps,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://dribbble.com/shots?list=animated,Dribbble,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://h5bp.github.io/Effeckt.css/,Effeckt.css,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.adobe.com/products/experience-design.html,Adobe Experience Design (ex-Project Comet),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://bigblueboo.tumblr.com/,bigblueboo,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html,After Effects CC Essential Training on Lynda,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://bouncejs.com/,Bounce.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://app-ealing.com/,appealing.,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://labs.ideo.com/2014/05/27/avocado/,Avocado,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.google.com/webdesigner/,Google web designer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/,CSS animations and transitions performance: looking inside the browser,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323,How to Manipulate and Animate SVG With Snap.svg,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://uimovement.com/,UI Movement,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://justinaguilar.com/animations/,Animations.css,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://rosenfeldmedia.com/books/designing-interface-animations/,Designing Interface Animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://give-n-go.co/,Give ’n’ Go,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://misha-kvakin.tumblr.com/,Misha Kvakin,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://bonsaijs.org/,BonsaiJS,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://julian.com/research/velocity/,Velocity.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://uxplanet.org/micro-interaction-great-experience-for-user-engagement-b37446bf6306,Micro Interaction; great experience for user engagement,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://developer.apple.com/videos/wwdc/2012/?id=243,iPhoto for iOS: UI Progression and Animation Design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.relativewave.com/form/,Form,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/fliptheweb/motion-ui-design&p[images][0]=&p[title]=Motion%20UI%20Design%20Collection&p[summary]=,Share on Facebook,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.minimamente.com/example/magic_animations/,Magic animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://maxwellito.github.io/vivus/,Vivus.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://futureinsights-1.wistia.com/medias/k62k980uo7,Animating Your UX (Rachel Nabors),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://animatron.com/,Animatron,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.marcuseckert.com/squall/,Squall,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://anijs.github.io/,AniJS,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://capptivate.co/,capptivate.co,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://pixate.com/,Pixate,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://markgeyer.com/pres/interface-animations/,Interface Animations (Mark Geyer),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Styling and Animating Scalable Vector Graphics with CSS (Sara Soueidan),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://uibuttons.com/,UI buttons,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://daniel-lundin.github.io/snabbt.js/,Snabbt.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://principleformac.com/,Principle For Mac,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=bM4qJpg7KhI,Animating the User Experience (Rachel Nabors),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.joelambert.co.uk/morf/,Morf,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.apple.com/sg/final-cut-pro/motion/,Apple Motion,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://beesandbombs.tumblr.com/,Bees & bombs,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/,How fast should your UI animations be?,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://connoratherton.com/walkway,Walkway.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://awwwards.com/websites/animation/,Awwwards,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.adobe.com/sea/products/photoshop.html,Adobe Photoshop,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://vimeo.com/165995133,Designing meaningful animation (Val Head),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://cssanimation.rocks/,cssanimation.rocks,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be,Functional Animation (Sarah Drasner),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.transformicons.com/,Transformicons,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801,Getting started with UI motion design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://spiritjs.io/,SpiritJS,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726,The future of UX – Animation on the Brain (Rachel Nabors),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://patakk.tumblr.com/,PATAKK,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://ai.github.io/anim2012/,Animations anew - laziness, arrogance and intolerance (Andrey Sitnik),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://jankfree.org/,Jankfree.org,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://all-animation.github.io/,All Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://famous.org/,Famo.us,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx,Guidelines for animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://uxplanet.org/ui-animation-microinteraction-for-macroresult-668cd9e71101,UI Animation. Microinteraction for Macroresult,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://slides.com/sdrasner/cssdevconf,Designing Complex SVG Animations (Sarah Drasner, Trulia),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://michaelvillar.com/motion/,michaelvillar.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://framerjs.com/,Framer studio,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1,Designing with animation (Pasquale D'Silva),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://cubic-bezier.com/,cubic-bezier.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/,9 Photoshop UI Animation Tutorials,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47,Animating Web Experiences (John Allsopp),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://valhead.com/newsletter/,The UI Animation Newsletter,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://hakim.se/,hakim.se,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://processingjs.org/,Processing.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/,High performance animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668,Your first prototype with framer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://dynamicsjs.com/,Dynamics.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.adobe.com/products/flash.html,Adobe Flash,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video,Putting Your UI in Motion (Val Head),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://rapid-application-development-js.github.io/AnimateTransition/,AnimateTransition,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://csstriggers.com/,csstriggers.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Motion design with CSS (Val Head),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://uxplanet.org/how-to-use-animation-to-improve-ux-338819e93bdb,How to Use Animation to Improve UX,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://ui-animations.tumblr.com/,ui-animations.tumblr.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
 https://www.youtube.com/watch?v=J6wUmQDQBkw,Lets move! (Benjamin De Cock, Stripe),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html,Web Animation Infographics,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a,The Principles of UX Choreography,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://motionandmeaning.io/,Motion and meaning,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://tumult.com/hype/,Tumult Hype,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.apple.com/ru/mac/keynote/,Apple Keynote,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://vimeo.com/channels/alltherightmoves/,All The Right Moves,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be,Using After Effects for UI Animation Prototypes,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc,Creating Usability with Motion: The UX in Motion Manifesto,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://jeremyckahn.github.io/mantra/,Mantra,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://sparkbox.github.io/bouncy-ball/,Bouncy Ball,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
 https://material.io/design/motion/,Material design guidelines: Motion,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.smashingmagazine.com/2015/08/animating-in-keynote/,How To Prototype UI Animations In Keynote,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://blog.prototypr.io/how-to-use-animations-and-motion-in-web-design-2fd1f68e6e02,How To Use Animations and Motion in Web Design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation,The Web In Motion: Practical Considerations For Designing With Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://uxinmotion.net/,UI Animation tutorials,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm,Animation in HTML, CSS, and JavaScript,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://developer.apple.com/downloads/,Quartz Composer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451,How to Use After Effects for Web Animation Prototypes,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://uxplanet.org/ui-animation-eye-pleasing-problem-solving-a8b27013f55c,UI Animation: Eye-Pleasing, Problem-Solving,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
-https://blog.prototypr.io/ui-motion-design-the-compendium-d8b478357fa3,UI Motion Design — The Compendium,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac,Jedi Principles of UI Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://creative.adobe.com/products/animate,Adobe Edge Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://vimeo.com/88468610,The 4 Minute Guide to Quartz Composer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://daneden.github.io/animate.css/,Animate.css,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://tympanus.net/codrops/,Tympanus codrops,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://dvdp.tumblr.com/,dvdp,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/,High performance animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932,Prototyping UI Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181,Introducing Origami for QC,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://animejs.com/,anime.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://codyhouse.co/library/,Codyhouse,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.adobe.com/products/experience-design.html,Adobe Experience Design (ex-Project Comet),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://hoverstat.es/,hoverstat.es,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://greensock.com/,GreenSock,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://developer.apple.com/tech-talks/videos/?id=2,User Interface Design for iOS 7 Apps,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://h5bp.github.io/Effeckt.css/,Effeckt.css,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.google.com/webdesigner/,Google web designer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html,After Effects CC Essential Training on Lynda,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://bigblueboo.tumblr.com/,bigblueboo,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser,How to Create Smoother Animations and Transitions in the Browser,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://bouncejs.com/,Bounce.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://justinaguilar.com/animations/,Animations.css,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://labs.ideo.com/2014/05/27/avocado/,Avocado,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://animatron.com/,Animatron,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://dribbble.com/shots?list=animated,Dribbble,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://app-ealing.com/,appealing.,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://pixate.com/,Pixate,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://misha-kvakin.tumblr.com/,Misha Kvakin,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
 http://www.uxpin.com/curated-interaction-design-animations.html,Futureproof Web Design Techniques. Interaction Design & Complex Animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.marcuseckert.com/squall/,Squall,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.minimamente.com/example/magic_animations/,Magic animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://useanimations.com/,useAnimations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.relativewave.com/form/,Form,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://julian.com/research/velocity/,Velocity.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.apple.com/sg/final-cut-pro/motion/,Apple Motion,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://snapsvg.io/,SnapSVG,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://futureinsights-1.wistia.com/medias/k62k980uo7,Animating Your UX (Rachel Nabors),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://uibuttons.com/,UI buttons,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uimovement.com/,UI Movement,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.adobe.com/sea/products/photoshop.html,Adobe Photoshop,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://principleformac.com/,Principle For Mac,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Styling and Animating Scalable Vector Graphics with CSS (Sara Soueidan),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://give-n-go.co/,Give ’n’ Go,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://cssanimationspocketguide.com/,CSS animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://anijs.github.io/,AniJS,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=bM4qJpg7KhI,Animating the User Experience (Rachel Nabors),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://developer.apple.com/videos/wwdc/2012/?id=243,iPhoto for iOS: UI Progression and Animation Design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://daniel-lundin.github.io/snabbt.js/,Snabbt.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.joelambert.co.uk/morf/,Morf,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uxplanet.org/micro-interaction-great-experience-for-user-engagement-b37446bf6306,Micro Interaction; great experience for user engagement,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/,How fast should your UI animations be?,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://spiritjs.io/,SpiritJS,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://markgeyer.com/pres/interface-animations/,Interface Animations (Mark Geyer),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://vimeo.com/165995133,Designing meaningful animation (Val Head),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801,Getting started with UI motion design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be,Functional Animation (Sarah Drasner),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://capptivate.co/,capptivate.co,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://cubic-bezier.com/,cubic-bezier.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://beesandbombs.tumblr.com/,Bees & bombs,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://floid.io/,Floid,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://ai.github.io/anim2012/,Animations anew - laziness, arrogance and intolerance (Andrey Sitnik),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://all-animation.github.io/,All Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://csstriggers.com/,csstriggers.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://awwwards.com/websites/animation/,Awwwards,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html,Web Animation Infographics,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://cssanimation.rocks/,cssanimation.rocks,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://valhead.com/newsletter/,The UI Animation Newsletter,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://patakk.tumblr.com/,PATAKK,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/,9 Photoshop UI Animation Tutorials,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://framerjs.com/,Framer studio,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://rosenfeldmedia.com/books/designing-interface-animations/,Designing Interface Animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://famous.org/,Famo.us,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uxplanet.org/ui-animation-microinteraction-for-macroresult-668cd9e71101,UI Animation. Microinteraction for Macroresult,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726,The future of UX – Animation on the Brain (Rachel Nabors),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.adobe.com/products/flash.html,Adobe Flash,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://slides.com/sdrasner/cssdevconf,Designing Complex SVG Animations (Sarah Drasner, Trulia),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/fliptheweb/motion-ui-design&p[images][0]=&p[title]=Motion%20UI%20Design%20Collection&p[summary]=,Share on Facebook,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://motionandmeaning.io/,Motion and meaning,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1,Designing with animation (Pasquale D'Silva),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47,Animating Web Experiences (John Allsopp),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.apple.com/ru/mac/keynote/,Apple Keynote,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://processingjs.org/,Processing.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a,The Principles of UX Choreography,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://dynamicsjs.com/,Dynamics.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://vimeo.com/channels/alltherightmoves/,All The Right Moves,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://rapid-application-development-js.github.io/AnimateTransition/,AnimateTransition,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx,Guidelines for animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uxplanet.org/how-to-use-animation-to-improve-ux-338819e93bdb,How to Use Animation to Improve UX,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be,Using After Effects for UI Animation Prototypes,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video,Putting Your UI in Motion (Val Head),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA,Motion design with CSS (Val Head),https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.smashingmagazine.com/2015/08/animating-in-keynote/,How To Prototype UI Animations In Keynote,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668,Your first prototype with framer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451,How to Use After Effects for Web Animation Prototypes,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323,How to Manipulate and Animate SVG With Snap.svg,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://developer.apple.com/downloads/,Quartz Composer,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://tumult.com/hype/,Tumult Hype,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://michaelvillar.com/motion/,michaelvillar.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://bonsaijs.org/,BonsaiJS,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://hakim.se/,hakim.se,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://maxwellito.github.io/vivus/,Vivus.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://blog.prototypr.io/how-to-use-animations-and-motion-in-web-design-2fd1f68e6e02,How To Use Animations and Motion in Web Design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://connoratherton.com/walkway,Walkway.js,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://ui-animations.tumblr.com/,ui-animations.tumblr.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation,The Web In Motion: Practical Considerations For Designing With Animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uxplanet.org/ui-animation-eye-pleasing-problem-solving-a8b27013f55c,UI Animation: Eye-Pleasing, Problem-Solving,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm,Animation in HTML, CSS, and JavaScript,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://www.transformicons.com/,Transformicons,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://jankfree.org/,Jankfree.org,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://blog.prototypr.io/ui-motion-design-the-compendium-d8b478357fa3,UI Motion Design — The Compendium,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design

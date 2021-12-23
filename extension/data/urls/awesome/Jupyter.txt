@@ -1,46 +1,49 @@
 http://jupyter.org,Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://stackoverflow.com/questions/tagged/jupyter,jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://getnikola.com,Nikola,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://zero-to-jupyterhub.readthedocs.io/en/latest/,Zero to JupyterHub,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://jupyterlab.readthedocs.io/en/stable/index.html,JupyterLab Documentation,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://stackoverflow.com/questions/tagged/jupyter-notebook,jupyter-notebook,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://beakerx.com/,Beaker,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://mbakker7.github.io/exploratory_computing_with_python/,Exploratory computing with Python,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://jupyter-client.readthedocs.io/en/latest/kernels.html,Making kernels for Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.reviewnb.com/,ReviewNB,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://try.jupyter.org,Try Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://code.visualstudio.com/docs/python/jupyter-support,Visual Studio Code,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://kyso.io,Kyso,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.datascience.com,DataScience.com,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://pyvideo.org/search.html?q=jupyter,PyVideo.org,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://vega.github.io/voyager/,Voyager,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://vega.github.io/vega,Vega,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://developers.arcgis.com/python/,ArcGIS,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi,JupyterCon,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.deepnote.com,Deepnote,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://genepattern-notebook.org,GenePattern Notebook,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://elc.github.io/jupyter-map/,jupyter-map,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://bokeh.pydata.org/en/latest/,Bokeh,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://mpld3.github.io,mpld3,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.quantopian.com/notebooks/survey,Quantopian Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.dominodatalab.com,Domino Data Lab,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://gitter.im/jupyter/jupyter,Jupyter Gitter Chatroom,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter,Framework :: Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://cloud.google.com/ai-platform-notebooks,Google Cloud AI Platform Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.anaconda.com/enterprise/,Anaconda Enterprise,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://nbconvert.readthedocs.io,nbconvert,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://en.wikipedia.org/wiki/Literate_programming,Literate Programing,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://cloud.google.com/dataproc/docs/concepts/components/jupyter,Google Cloud Dataproc Jupyter component,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://notebooks.azure.com,Azure Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://naas.ai,Naas,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
 https://www.nbinteract.com,nbinteract,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://cocalc.com,CoCalc,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.reddit.com/r/IPython/,r/IPython,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.reddit.com/r/Jupyter/,r/Jupyter/,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.youtube.com/watch?v=K4QN27IKr0g,video,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook,Install and run a Jupyter notebook in a Google Cloud Dataproc cluster,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-http://jupyter-contrib-nbextensions.readthedocs.io,Jupyter Notebook Extensions,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
-https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/,Jupyter tips, tricks and shortcuts,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://beakerx.com/,Beaker,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
 https://wikitech.wikimedia.org/wiki/PAWS,PAWS,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://gitter.im/jupyter/jupyter,Jupyter Gitter Chatroom,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/,Jupyter tips, tricks and shortcuts,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://getnikola.com,Nikola,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter,Framework :: Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.anaconda.com/enterprise/,Anaconda Enterprise,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
 https://the-littlest-jupyterhub.readthedocs.io/en/latest/,The Littlest JupyterHub,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
 https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details,ResGuides: research with Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://notebooks.azure.com,Azure Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://my.guild.ai/docs/jupyter-notebook-experiments/,Guild AI,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.reddit.com/r/IPython/,r/IPython,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
 https://spell.run,Spell.run,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://cocalc.com,CoCalc,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://code.visualstudio.com/docs/python/jupyter-support,Visual Studio Code,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://zero-to-jupyterhub.readthedocs.io/en/latest/,Zero to JupyterHub,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.reddit.com/r/Jupyter/,r/Jupyter/,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://stackoverflow.com/questions/tagged/jupyter,jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://stackoverflow.com/questions/tagged/jupyter-notebook,jupyter-notebook,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://vega.github.io/vega,Vega,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://jupyterlab.readthedocs.io/en/stable/index.html,JupyterLab Documentation,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://mbakker7.github.io/exploratory_computing_with_python/,Exploratory computing with Python,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.deepnote.com,Deepnote,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.youtube.com/watch?v=K4QN27IKr0g,video,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://bokeh.pydata.org/en/latest/,Bokeh,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.dominodatalab.com,Domino Data Lab,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://mpld3.github.io,mpld3,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook,Neptune,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://jupyter-client.readthedocs.io/en/latest/kernels.html,Making kernels for Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://try.jupyter.org,Try Jupyter,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.reviewnb.com/,ReviewNB,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://pyvideo.org/search.html?q=jupyter,PyVideo.org,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://nbconvert.readthedocs.io,nbconvert,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://en.wikipedia.org/wiki/Literate_programming,Literate Programing,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://kyso.io,Kyso,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook,Install and run a Jupyter notebook in a Google Cloud Dataproc cluster,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi,JupyterCon,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://vega.github.io/voyager/,Voyager,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://elc.github.io/jupyter-map/,jupyter-map,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://cloud.google.com/ai-platform-notebooks,Google Cloud AI Platform Notebooks,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://developers.arcgis.com/python/,ArcGIS,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://genepattern-notebook.org,GenePattern Notebook,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://docs.kepler.gl/docs/keplergl-jupyter,keplergl,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://cloud.google.com/dataproc/docs/concepts/components/jupyter,Google Cloud Dataproc Jupyter component,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+http://jupyter-contrib-nbextensions.readthedocs.io,Jupyter Notebook Extensions,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter
+https://colab.research.google.com,Google Colaboratory,https://github.com/markusschanta/awesome-jupyter#readme,Jupyter

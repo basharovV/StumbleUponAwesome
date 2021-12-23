@@ -1,63 +1,69 @@
-http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered,We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://weekdone.com/resources/templates/okr-report-document-example,OKR report document example by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://gtmhub.com,Gtmhub,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://blog.pusher.com/make-okrs-work/,How we make OKRs work at Pusher,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 https://medium.com/startup-tools/okrs-5afdc298bc28,Fundamentals of OKR,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://blog.pusher.com/okrs-implementation-challenges/,Implementation and challanges at Pusher,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T,This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://blog.pusher.com/make-okrs-work/,How we make OKRs work at Pusher,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered,We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/tech/kapta,Kapta,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 https://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/,How to Easily Set Quarterly Team Objectives with OKRs at Pusher,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://weekdone.com/resources/templates/okr-report-document-template,OKR report document template by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI,What's a use case where a company uses both OKR and KPI?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1,Startup OKRs Template,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://www.slideshare.net/BetterWorks/the-guide-to-okrs,The Guide to Objectives and Key Results,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI,What's a use case where a company uses both OKR and KPI?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.koan.co/,Koan,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results,OKR: A guide,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.cruform.com/site-reliability-engineering-okrs/,25+ Site Reliability Engineering OKR examples,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://hunterwalk.com/2013/03/01/manager-okrs-maker-okrs-how-id-change-googles-goal-setting-process/,Manager OKRs, Maker OKRs: How I’d Change Google’s Goal Setting Process,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga,How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit,OKR Scorecard by Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results,OKR: A guide,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/cove,TalentCove,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/okr/,What are OKRs?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://weekdone.com/resources/templates/okr-report-spreadsheet-template,OKR report word template by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/,15 great insights from the Google OKR video,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&,Are You a C.E.O. of Something?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/google-okr-objectives-key-results-video-transcript/,Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://weekdone.com/resources/templates/okr-report-spreadsheet-example,OKR report spreadsheet example by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/7geese,7Geese,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.slideshare.net/andrefaria/ok-rs,From Intel to Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://felipecastro.com/en/okr/okrs-not-cascade/,OKRs do not cascade,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://blog.kentonkivestu.com/goals-how-to-get-things-done,How to set & achieve meaningful OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/okr-goals-examples/,OKR Goals Examples,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/,Set goals with OKRs by Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/resources/definitive-guide-to-okrs/,Definitive guide to OKRs (Ebook) by Atiim,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/,How to Make OKRs Actually Work at Your Startup,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/resources/okr-top-10-tips/,How to Set OKR Goals like Google: Top 10 Tips by Atiim,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/statuspath,StatusPath,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/@domenicosolazzo/collections/okr,PH Colletion,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/download-okr-checklist/,The Smart Way to Set OKR,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://eleganthack.com/okr-mistakes-and-how-to-fix-them/,OKR Mistakes,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.slideshare.net/cwodtke/the-executioners-tale-34241002,Executioner's tale,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://eleganthack.com/an-okr-worksheet/,ORK Worksheet,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/how-to-use-kpis-with-okrs/,How to Use KPIs with OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/betterworks,BetterWorks,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/kapta,Kapta,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/top-companies-that-use-okrs/,List of companies that use OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/what-twitters-ceo-learned-from-google/,What Twitter’s CEO Learned from Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs,How google sets goals objectives and Key results,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.slideshare.net/7Geese/learn-how-to-implement-okrs-to-drive-company-performance,How to implement OKRs to drive company performance,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/okrs-new-solution-managing-freelancers/,OKRs: The New Solution to Managing Your Freelancers,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://vimeo.com/86392023,The Executioner's Tale,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://eleganthack.com/my-warm-gun-talk-on-okrs/,Warm Gun Talk,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/,Google Releases a New Guide to Setting Goals with OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://www.producthunt.com/tech/smart-progress,SmartProgress,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://about.gitlab.com/company/okrs/,GitLab: Objectives and Key Results (OKRs),https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/top-companies-that-use-okrs/,List of companies that use OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.slideshare.net/andrefaria/ok-rs,From Intel to Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.whatmatters.com/get-examples/,Measure What Matters: Examples & Resources,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/download-okr-checklist/,The Smart Way to Set OKR,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://felipecastro.com/en/okr/okrs-not-cascade/,OKRs do not cascade,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&,Are You a C.E.O. of Something?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.hotpmo.com/blog/a-journey-through-okr,https://www.hotpmo.com/blog/a-journey-through-okr,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/@domenicosolazzo/collections/okr,PH Colletion,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://blog.kentonkivestu.com/goals-how-to-get-things-done,How to set & achieve meaningful OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.slideshare.net/cwodtke/the-executioners-tale-34241002,Executioner's tale,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/tech/betterworks,BetterWorks,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251,Being helpful isn’t the same as being clear,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://rnjn.in/articles/learnings-about-okrs/,Learnings from implementing OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/,How to Make OKRs Actually Work at Your Startup,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs,How google sets goals objectives and Key results,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/,Set goals with OKRs by Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.slideshare.net/7Geese/learn-how-to-implement-okrs-to-drive-company-performance,How to implement OKRs to drive company performance,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/okr/,What are OKRs?,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://vimeo.com/86392023,The Executioner's Tale,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://www.producthunt.com/tech/weekdone,Weekdone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/,The biggest pitfalls of OKRs and how to avoid them,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T,This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://www.whatmatters.com/book,Measure What Matters,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.slideshare.net/weekdone/okr-objectives-and-keyresults,OKR - Objectives and Key Results,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/strides,Strides,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://amr.aom.org/content/13/1/23.abstract,The Determinants of Goal Commitment,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://blog.betterworks.com/keys-okr-success-qa-john-doerr/,John Doerr on success using OKR,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://blog.betterworks.com/how-google-grew/,How Google Grew from 40 to 40,000 Employees,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.producthunt.com/tech/workboard,Workboard,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-https://blog.pusher.com/okrs-implementation-challenges/,Implementation and challanges at Pusher,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://eleganthack.com/okr-mistakes-and-how-to-fix-them/,OKR Mistakes,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://gtmhub.com,Gtmhub,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://eleganthack.com/an-okr-worksheet/,ORK Worksheet,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://eleganthack.com/my-warm-gun-talk-on-okrs/,Warm Gun Talk,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.slideshare.net/weekdone/okr-objectives-and-keyresults,OKR - Objectives and Key Results,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/resources/definitive-guide-to-okrs/,Definitive guide to OKRs (Ebook) by Atiim,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/tech/7geese,7Geese,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/,15 great insights from the Google OKR video,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.whatmatters.com/book,Measure What Matters,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://www.slideshare.net/wrike/power-your-business-with-okrs/17-Awardwinning_Collaboration_Project_Management_SoftwareBrought,Power your business with OKR,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.15five.com/,15five,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/tech/statuspath,StatusPath,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://blog.betterworks.com/keys-okr-success-qa-john-doerr/,John Doerr on success using OKR,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
 http://www.slideshare.net/DanKeegan/okr-a-guide-to-objectives-and-key-results-36471600,OKR - a guide to objectives and key results,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
-http://www.zugata.com/,Zugata,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/google-okr-objectives-key-results-video-transcript/,Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://blog.betterworks.com/how-google-grew/,How Google Grew from 40 to 40,000 Employees,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/tech/strides,Strides,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/how-to-use-kpis-with-okrs/,How to Use KPIs with OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.producthunt.com/tech/workboard,Workboard,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.15five.com/,15five,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/what-twitters-ceo-learned-from-google/,What Twitter’s CEO Learned from Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+http://www.taskade.com/,Taskade,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://zokri.com/,ZOKRI,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://ally.io/,Ally.io,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://weekdone.com/resources/templates/okr-report-document-example,OKR report document example by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://weekdone.com/resources/templates/okr-report-document-template,OKR report document template by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/okrs-new-solution-managing-freelancers/,OKRs: The New Solution to Managing Your Freelancers,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1,Startup OKRs Template,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit,OKR Scorecard by Google,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://weekdone.com/resources/templates/okr-report-spreadsheet-template,OKR report word template by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://weekdone.com/resources/templates/okr-report-spreadsheet-example,OKR report spreadsheet example by WeekDone,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/,Google Releases a New Guide to Setting Goals with OKRs,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology
+https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/,The biggest pitfalls of OKRs and how to avoid them,https://github.com/domenicosolazzo/awesome-okr#readme,OKR Methodology

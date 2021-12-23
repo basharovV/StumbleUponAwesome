@@ -1,1 +1,1 @@
-http://bestexcelmaps.com/,Best Excel Maps,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.anychart.com/chartopedia,Chartopedia,https://github.com/fasouto/awesome-dataviz#readme,Data Visualization error: RemoteDisconnected('Remote end closed connection without response') | reason: 

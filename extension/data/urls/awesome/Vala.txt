@@ -1,15 +1,15 @@
 https://wiki.gnome.org/Projects/Vala/,,https://github.com/desiderantes/awesome-vala#readme,Vala
 http://gstreamer.freedesktop.org/,GStreamer,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://wiki.gnome.org/Projects/Libgee,Libgee,https://github.com/desiderantes/awesome-vala#readme,Vala
-https://gitlab.gnome.org/GNOME/gxml/,GXML,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://atom.io/packages/language-vala-modern,language-vala-modern,https://github.com/desiderantes/awesome-vala#readme,Vala
-https://gitlab.gnome.org/GNOME/json-glib/,Json-GLib,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.gnome.org/GNOME/gxml/,GXML,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://launchpad.net/valasyntax4sublimetext,Vala Syntax 4 Sublime Text,https://github.com/desiderantes/awesome-vala#readme,Vala
-https://gitlab.gnome.org/GNOME/template-glib,template-glib,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.gnome.org/GNOME/json-glib/,Json-GLib,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://gitlab.gnome.org/esodan/gvls,GVLS,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.gnome.org/GNOME/template-glib,template-glib,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://www.gnutls.org/,GnuTLS,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://cairographics.org/,Cairo,https://github.com/desiderantes/awesome-vala#readme,Vala
 https://www.libsdl.org/,SDL2,https://github.com/desiderantes/awesome-vala#readme,Vala
 http://gegl.org/,GEGL,https://github.com/desiderantes/awesome-vala#readme,Vala
 http://gegl.org/babl/,Babl,https://github.com/desiderantes/awesome-vala#readme,Vala
-https://www.gtk.org/,GTK+,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://www.gtk.org/,GTK,https://github.com/desiderantes/awesome-vala#readme,Vala

@@ -40,7 +40,7 @@
 Welcome popup
 */
 
-#sax-welcome {
+#sax-info {
     overflow:auto;
     max-height: 90%;
     position: fixed;
@@ -58,16 +58,16 @@ Welcome popup
     box-sizing: initial;
 }
 
-#sax-welcome-text * {
+#sax-info-text * {
     line-height: 2em;
 }
 
-#sax-welcome-text > p {
+#sax-info-text > p {
     line-height: 2em;
     display: block;
 }
 
-#sax-welcome-text-title {
+#sax-info-text-title {
     font-size: 14pt;
     color: white;
     font-weight: bold;
@@ -75,12 +75,12 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-text-opensource {
+#sax-info-text-opensource {
     color: pink;
     font-size: 11pt;
 }
 
-#sax-welcome-text-opensource-link {
+#sax-info-text-opensource-link {
     font-size: 11pt;
     color: rgb(170, 192, 255);
     text-decoration: none;
@@ -89,14 +89,14 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-text-opensource-link:hover {
+#sax-info-text-opensource-link:hover {
     opacity: 0.8;
     background: none;
     text-transform: none;
     transition: none;
 }
 
-#sax-welcome-text-body {
+#sax-info-text-body {
     color: #fafafa;
     font-size: 12pt;
     margin-bottom: 0;
@@ -105,7 +105,7 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-new-feature {
+#sax-info-new-feature {
     display: block;
     width: 100%;
     padding: 0.5em;
@@ -113,7 +113,7 @@ Welcome popup
     border-radius: 1em;
 }
 
-#sax-welcome-text-body-small {
+#sax-info-text-body-small {
     color: rgb(155, 155, 155);
     font-size: 12pt;
     margin-bottom: 0;
@@ -121,7 +121,7 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-text-body-small-white {
+#sax-info-text-body-small-white {
     color: white;
     font-size: 12pt;
     margin-bottom: 0;
@@ -129,7 +129,7 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-text-body-smaller-white {
+#sax-info-text-body-smaller-white {
     color: white;
     font-size: 11pt;
     margin-bottom: 0;
@@ -137,7 +137,7 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-text-body-small-accent {
+#sax-info-text-body-small-accent {
     color: #FCA9A9;
     font-weight: bold;
     margin-right: 5px;
@@ -147,7 +147,7 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-icon {
+#sax-info-icon {
     width: 20px;
     height: 20px;
     padding: 0;
@@ -165,7 +165,7 @@ Welcome popup
     font-weight: normal;
 }
 
-#sax-welcome-text-body-feedback-link {
+#sax-info-text-body-feedback-link {
     font-size: 11pt;
     color: rgb(170, 192, 255);
     font-weight: normal;
@@ -173,14 +173,14 @@ Welcome popup
     transition: none;
 }
 
-#sax-welcome-text-body-feedback-link:hover {
+#sax-info-text-body-feedback-link:hover {
     opacity: 0.8;
     background: none;
     text-transform: none;
     transition: none;
 }
 
-#sax-welcome-close {
+#sax-info-close {
     align-self: flex-end;
     font-size: 12pt;
     margin: 1em 0 0 0;
@@ -193,7 +193,7 @@ Welcome popup
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-#sax-welcome-close:hover {
+#sax-info-close:hover {
     opacity: 0.8;
     transition: opacity 0.2s ease-in-out;
     background: none;

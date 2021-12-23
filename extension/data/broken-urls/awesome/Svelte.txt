@@ -1,0 +1,1 @@
+https://routify.dev/,Routify,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect

@@ -1,545 +1,616 @@
-https://acblog.github.io,GitHub Pages Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/687862991,GameDev - Blazor with BabylonJS (Web Rendering),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/724144986,Testing Blazor Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://blazor-university.com/,Blazor University,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=To-GSKOac10&feature=youtu.be,Blazor WebAssembly : Using HttpClient in MVVM,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/638253970,Part 3,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=kLhoRyLxwAE,Modern Web UI with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=SkYQDPXw__c&feature=youtu.be,Blazor Train: Synchronicity - Develop Server and WASM Apps Simultaneously,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/599185198,Trains.NET - Lets pretend to be designers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=Yj4DJINTwjs,Blazor WebAssembly, Azure AD B2C and Azure SDKs with Jon Gallant,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://edcharbeneau.com/BlazeDown/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorise.com/,Blazorise,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dotnet-regex.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=s9Nkry1l5Tg&feature=youtu.be,Is Blazor the new Silverlight?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=kGbdWtxFhRI,Blazor Tutorial: Register User & Generate JWT,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jspuij.github.io/Cortex.Net.Docs/pages/index.html,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=fAwba0bpiSs,Blazor Forms with Validation - Part III,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/570365905,Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/533986300,Let's add some auth to Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://materialdemo.blazorise.com/,Material Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/blazor/create-a-small-blog-in-blazor-create-application-in-visual-studio,Part 1: Create application in Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/build-a-blazor-webassembly-line-of-business-app-part-3/,Part 3,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/optimizing-js-interop-in-a-blazor-webassembly-application.htm,Optimizing JS Interop in a Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor-conduit.netlify.app/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/blazor-components,Syncfusion Blazor UI Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.ndepend.com/blazor-internals-you-need-to-know/,Blazor Internals you need to know,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=86vyb4vDGTk,Blazor WebAssembly : Routing | NavigationManager, AdditionalAssemblies,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/xamarin/getting-started-mobile-blazor-bindings/,Getting Started with Mobile Blazor Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/724063480,Preparing a Blazor Lightning Talk,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/685849155,Blazor with BabylonJS (Web Rendering) Source Code Generation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Testing-Blazor-Components,.NET Conf session: Testing Blazor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/j_sakamoto/implement-the-download-file-feature-on-a-blazor-webassembly-app-2f8p,Implement the "download file" feature on a Blazor WebAssembly app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9,Playlist - Programando en Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/xamarin/mobile-blazor-common-app-layouts/,Mobile Blazor Common App Layouts,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/546707126,Live from Stockholm - Pages, JavaScript, C# and Blazor components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=bxpSa0ZmwtY&feature=youtu.be,Blazor WebAssembly : Dependency Injection,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.appvnext.com/blog/2020/2/18/is-blazor-for-everyone,Is Blazor For Everyone?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=0CS2xat4dBg,Blazor Means Business,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://daveabrock.com/2020/09/10/blazor-css-isolation,Use CSS isolation in your Blazor projects,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/blazor-state-management/,3+1 ways to manage state in your Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dotnet.microsoft.com/apps/aspnet/web-apps/client,,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://brianlagunas.com/the-first-blazor-dock-manager/,The First Blazor Dock Manager,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://aesalazar.github.io/AsteroidsWasm/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://azuredevopspodcast.clear-measure.com/michael-washington-on-the-state-of-blazor-episode-88,Michael Washington on the State of Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/592596855,Trains.NET - From SkiaSharp to HTML Canvas, and hopefully published to a website somewhere,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=vdvIz5QxFFU,Write OnClick Events in C# using Blazor and Eliminate JavaScript,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/mobile-blazor-bindings-layout-and-styling/,Mobile Blazor Bindings - Layout and Styling,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://BlazorTable.netlify.com,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.infoq.com/articles/mono-xamarin-webassembly-net5/,Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/09/03/blazor-grpc-docs.aspx,Microsoft offers new documentation for Blazor and gRPC in ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor.jqwidgets.com,Website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://blog.ppedv.de/?tag=Blazor,Insights from the oracle,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=-48UHwxwv4g&feature=youtu.be,Carl Franklin's Blazor Train: Creating an API Layer,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/07/27/blazor-targets-net-5.aspx,Blazor WebAssembly Targets .NET 5 in Latest ASP.NET Core Update,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.udemy.com/course/devops-and-docker-support-for-net-core-blazor/?ranMID=39197&ranEAID=w6JuN00t%2Fzo&ranSiteID=w6JuN00t_zo-Kv09UYco3AqwmZkipiMIXw&utm_source=aff-campaign&LSNPUBID=w6JuN00t%2Fzo&utm_medium=udemyads,DevOps and Docker Support for .NET Core Blazor Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://lights-out-puzzle.bjorndaniel.se/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/03/11/blazor-pwa.aspx,Blazor WebAssembly tackles progressive web apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/JavaScript-Two-Way-Interop,.NET Conf session: JavaScript Two-Way Interop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/569662576,Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=CFaijQhkAwg&t=45s,Blazor Web Bluetooth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.nexmo.com/blog/2020/07/08/how-to-send-an-sms-with-blazor,How to send an SMS with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://app.money.neptuo.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/re-usable-components-with-blazor-and-tailwind-css/,CSS is hard, Blazor and Tailwind CSS makes it easier,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/deploying-a-net-core-blazor-app-to-netlify-using-github-actions/,Deploying a .NET Core Blazor App to Netlify using GitHub Actions,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://csharp.christiannagel.com/2020/05/21/build2020/,Microsoft Build 2020 – Highlights,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor-demo.github.io/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://developer.nexmo.com/messaging/sms/overview,Vonage SMS API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/build-a-blazor-webassembly-line-of-business-app-part-4/,Part 4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://gitter.im/aspnet/Blazor,Gitter,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/545753950,Live from Stockholm - MasterPages, Layouts, Blazor components and your pull-requests,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.blazorroadshow.com,Blazor Road Show,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/rineshpk/blazor-server-crud-app-using-visual-studio-code-2b2g,Blazor Server CRUD App Using Visual Studio Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://flappyblazorbird.ctrl-alt-d.net,[Wasm Demo],https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jsakamoto.github.io/awesome-blazor-browser/,Awesome Blazor Browser,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=VaX73p3JfV4&feature=youtu.be,Blazor Train: Data Access,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.grapecity.com/blogs/working-with-blazor-webassembly-clientside-dotnet-in-a-browser,Introducing Blazor WebAssembly – a client-side alternative to JavaScript,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-1-csharp-implementation,Minesweeper in Blazor WebAssembly Part 1: C# Implementation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://code-maze.com/partial-classes-renderfragment-lifecycle-blazor-wasm/,Partial Classes, RenderFragment and Lifecycle in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://cognitivestudio.dev/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://aws.amazon.com/fr/blogs/developer/run-blazor-based-net-web-applications-on-aws-serverless/,Run Blazor-based .NET Web applications on AWS Serverless,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://ndcoslo.com/speaker/steve-sanderson/,Steve Sanderson at the NDC Oslo 2020,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=_SV2u8vp4Xo,Blazor Train: Modal Dialogs with Chris Sainty,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/blazor-components/blazor-datagrid,Data Grid,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://flappyparty.ctrl-alt-d.net/,[Multiplayer Demo],https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/blazor-client-server-validation-with-fluentvalidation/,Custom validation logic on client AND server with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/curiousdrive/clip/BashfulSpeedyPuddingHeyGirl,Building Chat App using Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://nodatimepicker.z13.web.core.windows.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.duracellko.net/posts/2020/06/hosting-both-blazor-server-and-webassembly,Hosting both Blazor Server and WebAssembly in single website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://learnwithsundar.com/2020/07/20/blazor-zero-to-hero-real-time-implementation-part-iii/,Blazor: Zero To Hero Real Time Implementation Part III,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=dpyUcRdbAcc&feature=youtu.be,Blazor Train: Blazor Component Life Cycle,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=zUgyq4zpgIU&feature=youtu.be,Blazor Train: WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/588019981,Trains.NET - Let's draw things with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.lhotka.net/2020/03/11/New-Blazor-and-CSLA-Book,New Blazor and CSLA .NET Book,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/637316577,Blazor, Menus, the conclusion of May is for Macs with some !coffee,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://ysflghou.github.io/BlazorTicTacToe/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/State-Management-in-Blazor-Apps,.NET Conf session: State Management in Blazor Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=EdnrUGmECS4&feature=youtu.be,Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/young-coder/the-best-samples-to-teach-yourself-blazor-4d29cec607f5,The best samples to teach yourself Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=g8tAgdvxYzk&list=PLReL099Y5nRem6UA4w849hTfd0LzBIsAk&index=2&t=0s,Visual Studio Remote Office Hours - Blazor and ASP.NET,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/aspnet/secure-stripe-checkout-blazor-jsinterop/,Secure Stripe Checkout with Blazor JSInterop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=e7vcmskJYqQ,Blazor Chat Guided Tour,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://tewr.github.io/BlazorWorker,Live demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=W9xUUk_H_Ng,Build modern data-driven Web Apps with Microsoft Blazor and Dapper,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://code-maze.com/blazor-webassembly-series/,Blazor series,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://remibou.github.io/How-to-send-callback-to-JS-Interop-in-Blazor/,How to send callback method to JSInterop in Blazor?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.thomasclaudiushuber.com/2020/02/18/hosting-blazor-app-in-winui-3-with-webview-2-and-call-blazor-component-method-from-winui/,Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.hanselman.com/blog/BlazorWebAssemblyonAzureStaticWebApps.aspx,Blazor WebAssembly on Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://mikaberglund.com/2020/02/17/building-an-application-with-blazorade-bootstrap-part-3/,Building an Application with Blazorade Bootstrap,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/telerik-ui-for-blazor-40-native-components-telerik-r2-2020-release,Telerik UI for Blazor: 40+ Native Components with Telerik R2 2020 Release,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/699663560,Live game development,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/blazor/create-a-small-blog-in-blazor-entity-framework-integration,Part 2: Entity Framework integration,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/blazor/why-blazor-wasm-is-the-best-choice-for-api-integration,Why Blazor Wasm is the Best Choice for API Integration,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=wxU6wWTT4mQ&feature=youtu.be,Blazor Tutorial : Event Handling,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/661159908,Blazing into Summer with Ed Charbeneau,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/586349468,Trains.NET - Experimenting with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://becksblazor.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://weeklydevtips.com/episodes/blazor-with-guest-carl-franklin,Blazor with guest Carl Franklin,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=TrLz0aEWMM8,Common Data Services (CDS) and .NET,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/conways-game-of-life-with-emojis-in-csharp-and-blazor-webassembly/,Conway's Game of Life (With Emojis!) in C# and Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://betweentwobrackets.dev/posts/2020/07/state-management-with-blazor-using-fluxor-part-2/,State Management with Blazor using Fluxor (Part 2),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/552921602,Open Source C#, Blazor, and the DataBinder,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/,Mobile Blazor Bindings – Getting Started + Why You Should Care,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://code-maze.com/blazor-webassembly-forms-form-validation/,Blazor WebAssembly Forms, Form Validation, and @ref Directive,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/blazor-components/blazor-charts,Charts,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=rACHqnkaORA&feature=youtu.be,Blazor WebAssembly : Entity Framework Core - EP06,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://serdarciplak.github.io/BlazorMonaco/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/creating-a-repeater-component-with-blazor.htm,Creating a Repeater component with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=Khn7sDUSEJM&feature=youtu.be,Blazor, a new framework for browser-based .NET apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Create-a-great-UX-with-Blazor,.NET Conf session: Create a great UX with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/635445401,Working with Pages and Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://slorello.com/posts/signalr-without-javascript-using-blazor-webassembly,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/696765331,Live game development,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=CUJP82uAU5Y&feature=youtu.be,Blazor Train: Server vs WASM,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://store.lhotka.net/using-csla-5-blazor-and-webassembly,Link to buy it,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/telerik-ui-for-blazor-2-11-0-grid-features-scheduler-improvements-wasm-3-2-0-preview-4-more,Telerik UI for Blazor 2.11.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/fragment-routing-with-blazor/,Fragment Routing with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.ndepend.com/architecture-of-a-c-game-rendered-with-blazor-xamarin-uwp-wpf-and-winforms/,Architecture of a C# game rendered with Blazor, Xamarin, UWP, WPF, and Winforms,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=16540s,Blazor Day 2020: Getting started with Blazor and Clean Code principles,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://romansimuta.com/posts/how-to-call-isolated-javascript-code-in-net-5-0-blazor-projects-with-jsobjectreference/,How to call isolated JavaScript code in .NET 5.0 Blazor projects with JSObjectReference,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/why-you-should-use-blazor-over-javascript-frameworks-to-build-your-single-page-application,Why you should use Blazor over JavaScript Frameworks,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chanan.github.io/BlazorPrettyCode/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/660648746,GameDev - Blazor with BabylonJS (Web Rendering),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://betweentwobrackets.dev/posts/2020/06/state-management-with-blazor-using-fluxor-part-1/,part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.microsoft.com/en-us/aspnet/core/blazor,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dcidr.z20.web.core.windows.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/announcing-experimental-mobile-blazor-bindings-may-update/,Announcing Experimental Mobile Blazor Bindings May update,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=DqdiYXg8gRs,Adding content management using Kentico Kontent,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://romansimuta.com/posts/using-a-web-camera-with-fun-filters-in-your-asp-net-core-blazor-webassembly-application/,Using a web camera with fun filters in your ASP.NET Core Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/645406357,Blazor Twitch Bot Examples for GitHub,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/blazor-vs-react-web-developers,Blazor vs React,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://n-stefan.github.io/diabloblazor,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/blazor/create-a-small-blog-in-blazor-build-entity-framework-queries,Part 3: Build Entity Framework queries,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://BlazorDateRangePicker.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-6/,ASP.NET Core updates in .NET 5 Preview 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.appvnext.com/blog/2020/3/7/blazor-shopping-cart-sample-using-local-storage-to-persist-state,Blazor Shopping Cart Sample using Local Storage to Persist State,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=5P_rub2a4Eo,.NET Virtual User Group - Blazor + Xamarin Code Sharing,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://daveabrock.com/2020/07/05/dotnet-stacks-6,The .NET Stacks #6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=xxIkh6GZdaM,Carl Franklin's Blazor Desk Show with Dan Roth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=1FYhpL-JFY0&feature=youtu.be,Blazor Train: Introducing Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/08/26/net-5-preview-8.aspx,.NET 5 Now 'Feature Complete' with Preview 8, Go Live Release Candidates Up Next,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.microsoft.com/net/download/dotnet-core,.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/mobile-blazor-bindings-xamarin-essentials/,Mobile Blazor Bindings - Navigation and Xamarin Essentials,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/09/15/net-5-rc-1.aspx,.NET 5 Hits 'Go Live' Status in RC1, Ready for Production,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=HNJYIqeBLQc&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=2,ASP.NET Community Standup: Entity Framework Core in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/why-use-blazor-edit-forms/,Blazor EditForms, an essential tool or too much magic?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/blazor-news-from-build-2020/,Blazor news from Build 2020,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=hAB4fHy6Cfo&feature=youtu.be,Build your first Blazor app with Carl Franklin,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/551829522,Coding with Squirrel - and Blazor !coffee,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jskeet.github.io/DemoCode/Drums/,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/copying-text-to-clipboard-in-a-blazor-application.htm,Copying text to the clipboard in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=4c2vli5567A&feature=youtu.be,Blazor WebAssembly : Debugging in VS Code, Chrome and Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/j_sakamoto/yet-another-way-to-changing-the-page-title-in-blazor-and-more-43k,Yet another way to changing the page title in Blazor, and more,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://pwawasm.github.io,Blazor WebAssembly Version PWA Mode demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.appvnext.com/blog/2020/4/20/playing-audio-files-in-a-blazor-application,Playing audio files in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://andrewlock.net/replacing-ajax-calls-in-razor-pages-using-razor-components-and-blazor/,Replacing AJAX calls in Razor Pages with Razor Components and Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/694805625,Live game development,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/06/25/net-5-blazor-template.aspx,Blazor WebAssembly Template Lands in .NET 5 Preview 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://zimmergren.net/solved-asp-net-core-blazor-web-sites-does-not-work-with-cloudflare-html-minification/,ASP.NET Core Blazor with SignalR breaks when used with Cloudflare's HTML minification,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/showing-a-confirm-dialog-before-doing-an-action-in-blazor.htm,Showing a confirm dialog before doing an action in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dotnet.microsoft.com/platform/community/standup,,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=4pBcGmm6nCI,Learn Studio Session: Build a WebAssembly app with Blazor & VS Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://stackoverflow.blog/2020/01/14/podcast-occams-blazor/,Podcast: Occam’s Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.isaaclevin.com/post/presence-light,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=S-skkhzcMmo,Blazor WebAssembly : Project Structure/Template,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=14700s,Blazor Day 2020: Authentication and Authorization in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/blazor/create-a-small-blog-in-blazor-build-category-and-page-razor-components,Part 4: Build Category and Page Razor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/blazor-components/blazor-scheduler,Scheduler,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/675605430,Blazor Wasm Localization and Globalization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://ndc-london.com/talk/blazor-a-new-framework-for-browser-based-net-apps-1/,NDC London 2020,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=ibIl3mgH0LQ&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=5,ASP.NET Community Standup: Blazor Mobile Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/,Azure Static Web Apps with .NET and Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-aspnet-webforms-ebook/,Free e-book: Blazor for ASP.NET Web Forms Developers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.pluralsight.com/courses/creating-blazor-components,Creating Blazor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/setting-the-page-title-in-a-blazor-app-net-core,Setting the Page Title in a Blazor App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Routing-A-Z,.NET Conf session: Routing A-Z,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/edcharbeneau/video/751649042,Blazor vs. MVC,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/07/16/vs-razor-editor.aspx,Visual Studio Gets Experimental Razor Editor for Blazor, Other Projects,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus,Razor+ Visual Studio Code extension,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/02/27/aspnet-core-fundamentals.aspx,GitHub Project Provides 300-Plus Samples of ASP.NET Core/Blazor Fundamentals,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/575953710,Quarantined Coding! with Ed Charbeneau,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/convert-datetime-to-user-s-time-zone-with-server-side-blazor.htm,Convert DateTime to user's time zone with server-side Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=6T-l-lt28rs&list=PL4WEkbdagHIRjjBJvK_TSfddJSvEEAtnt&index=11&t=0s,Blazor WebAssembly : Open-source Project - EP10,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.binaryintellect.net/articles/567c6c06-a2aa-44da-a443-78dafedebe65.aspx,Introduction to .NET 5 for ASP.NET Developers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dworthen.github.io/BlazorRealm/docs/quickstart.html,BlazorRealm,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/551327880,Blazor TreeView GridLines and starting the FormView component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/640062859,Blazor Beyond the Browser,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor-toaster.sotsera.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/09/14/aspnet-5-rc1.aspx,Blazor Gets Faster (Even Without AOT),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-8/,ASP.NET Core updates in .NET 5 Preview 8,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m,Demo video,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/azure-ad-secured-serverless-cosmosdb-from-blazor-webassembly,Azure AD Secured Serverless Cosmos DB from Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=QnBYmTpugz0,Blazor in more depth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://gtavehicles.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.microsoft.com/en-us/azure/static-web-apps/overview,Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://justdebug.net/blazor/understanding-about-cascading-values-and-cascading-parameters-in-blazor/,Understanding about Cascading Values and Cascading Parameters in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.pluralsight.com/courses/authentication-authorization-blazor-applications,Authentication and Authorization in Blazor Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=YoXVErXcL3U&feature=youtu.be,State of .NET Blazor with Markus Egger,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/build-a-blazor-server-azure-ad-secured-lob-app,Build an Azure AD Secured Blazor Server Line of Business App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=cQZYzOlTm0Q,Create a Blazor Server App and Add Syncfusion Blazor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-4-release-now-available/,Blazor WebAssembly 3.2.0 Preview 4 release now available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/557921454,Blazor, GitHub CLI, Excel? and more,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.azure.com/d20Tek/SimpleRPG/_git/simple-rpg-game,https://dev.azure.com/d20Tek/SimpleRPG/_git/simple-rpg-game,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWlP1Qpzg7Dwzxr298ewdUQ,YouTube,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/new-experimental-razor-editor-for-visual-studio/,New experimental Razor editor for Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://alistairevans.co.uk/2020/02/03/blazor-webassembly-monaco-and-antlr-building-the-autostep-editor-as-a-blazor-app/,Blazor WebAssembly, Monaco and Antlr – Building the AutoStep Editor as a Blazor App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.dotnetfoundation.org/,.NET Foundation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-release-candidate-1/,ASP.NET Core updates in .NET 5 Release Candidate 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/azure/deploy-your-blazor-app-in-minutes-with-azure-static-web-apps-40bh,Deploy your Blazor app in minutes with Azure Static Web apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=HBEGPANJnr4&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0,YouTube,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chanan.github.io/BlazorStrap/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://excubo-ag.github.io/Blazor.Canvas/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://ndc-london.com/talk/blazor-in-more-depth/,NDC London 2020,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.microsoft.com/en-us/aspnet/core/,Introduction to ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://austineric.github.io/BlazorContentEditable/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=18130s,Blazor Day 2020: Building a PWA (Progressive Web App) with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@marcodesanctis2/role-based-security-with-blazor-and-identity-server-4-aba12da70049,Role-based security with Blazor and Identity Server 4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/674677859,An accessibility audit of .NET Blazor with Chris DeMars,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.dotnet-programming.com/post/2020/06/24/State-Management-and-Error-Recovery-in-Blazor-WebAssembly-part-2.aspx,State Management and Error Recovery in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.pluralsight.com/courses/getting-started-blazor,Blazor: Getting Started,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/639152601,Blazor In-Depth: Full-Stack C# with Telerik UI for Blazor and Entity Framework,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://barcoderesource.com/blazorbarcode.shtml,Blazor BarCode,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://optimizer.ml,Demo (https://optimizer.ml),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://timheuer.com/blog/hosting-blazor-in-azure-static-web-apps/,Hosting Blazor WebAssembly in Azure Static Web Apps (Preview),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=12840s,Blazor Day 2020: Building Desktop Apps for Windows, Mac & Linux with Blazor & Electron,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-8/,Announcing .NET 5.0 Preview 8,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/04/16/blazor-preview-4.aspx,Debugging problems persist in Blazor WebAssembly 3.2 Preview 4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dotnetdocs.dev/,The .NET Docs show,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorgames.net/,blazorgames.net,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://code-maze.com/blazor-webassembly-httpclient/,Blazor WebAssembly HttpClient – Consuming Web API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/lazy-load-assemblies-in-a-blazor-webassembly-application.htm,Lazy load assemblies in a Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@waelkdouh/how-to-utilize-grpc-web-from-a-blazor-webassembly-application-e8313444f75b,How to utilize gRPC-Web from a Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://remibou.github.io/How-to-keep-js-object-reference-in-Blazor/,How To Keep Js Object Reference In Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/550829401,Blazor TreeView images and checkboxes,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://excubo-ag.github.io/Blazor.Grids/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/689385009,Blazor localization content,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://mikaberglund.com/2020/01/08/building-an-application-with-blazor-bootstrap-part-2/,Part 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/run-efcore-queries-against-sql-from-blazor-webassembly/,Run EF Core Queries on SQL Server From Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://engstromjimmy.se/post/2020-03-21-UsingHighchartsWithBlazor,Using Highcharts with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://levelup.gitconnected.com/securing-blazor-webassembly-with-identity-server-4-ee44aa1687ef,Securing Blazor WebAssembly with Identity Server 4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=7ve7nqk7kMI&feature=youtu.be,Blazor Train: Creating a Generic Data Manager,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/mobile-blazor-bindings-state-management-and-data/,Mobile Blazor Bindings - State Management and Data,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://excubo-ag.github.io/Blazor.TreeViews/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.codewithmukesh.com/blog/authentication-in-blazor-webassembly/,Custom Authentication in Blazor WebAssembly – Detailed Tutorial,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/playlist?list=PLdwMmKbrXPesoZoRgpO2xaoFuOclteZI7,Tour of Heroes in Blazor Wasm Playlist,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/blazor-traffic-light/,Blazor by Example - Build a simple traffic light,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jetbrains.com/dotnet/2020/02/12/rider-2019-3-2/,Rider 2019.3.2 is available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=10879s,Blazor Day 2020: Create a cross-platform application with Blazor & BlazorMobile,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/572751843,Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://code-maze.com/creating-blazor-webassembly-signalr-charts/,Creating Real-Time Charts with Blazor WebAssembly and SignalR,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/using-blazor-webassembly-and-csharp-to-play-tic-tac-toe-in-dotnet-core,Using Blazor WebAssembly and C# to build Tic-Tac-Toe in .NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://mikaelkoskinen.net/post/blazor-eventaggregator-2-0-0-auto-refresh,Event Aggregator for Blazor updated to 2.0.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.davideguida.com/category/programming/gamedev/,Create a 2D game with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/628640130,Office hours, building a full stack Blazor app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/build-your-own-re-usable-blazor-components/,Go faster with your own re-usable Blazor components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://stackoverflow.com/questions/tagged/blazor,Stack Overflow,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=yzK-TqxLjbA&feature=youtu.be,Blazor Train: WebForms to Blazor with Jeff Fritz,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://wafflegen.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/hybrid-blazor-mobile-blazor-bindings-july-update/,Hybrid Blazor apps in the Mobile Blazor Bindings July update,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/getting-started-with-mobile-blazor-bindings/,Mobile Blazor Bindings - Getting Started,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@marcodesanctis2/securing-blazor-webassembly-with-identity-server-4-ee44aa1687ef,previous article,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.visualstudio.com/vs/preview,Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.livesharp.net/,livesharp.net,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-now-available/,Blazor WebAssembly 3.2.0 now available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=ijIjg2XAVK8,How To Create a Blazor Component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-1/,Integrating Tailwind CSS with Blazor using Gulp - Part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=hOf9V5JfttM,Blazor Server with Azure AD authentication and MS Graph,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/j_sakamoto/css-live-reloading-on-blazor-27nc,CSS live reloading on Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=fgneZz-4Foc,.NET Conf "Focus on Blazor",https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://softchris.github.io/pages/dotnet-blazor-routing.html,Learn how you manage routing in Blazor for .NET Core and VS Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=nFIZPV3nH0E,Blazor & Electron.NET Managing Application Windows,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/yahtzee-in-blazor-webassembly-part-1-the-csharp-model/,Yahtzee in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/aspnet/stripe-net-create-stripe-webhooks-receiver/,Stripe.NET Create Stripe Webhooks Receiver,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/calling-public-methods-on-blazor-component-from-another-component.htm,Calling public methods on Blazor component from another component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/avoiding-accesstokennotavailableexception-when-using-blazor-webassembly-hosted-template-with-individual-user-accounts/,Avoiding AccessTokenNotAvailableException when using the Blazor WebAssembly Hosted template with individual user accounts,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://allegiance-consulting.github.io/blazor-highcharts/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/638236743,Blazor: A Guided Tour with Ed Charbeneau,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/creating-a-custom-validation-message-component-for-blazor-forms/,Creating a Custom Validation Message Component for Blazor Forms,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://hlaueriksson.github.io/GEmojiSharp/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=JrA1cv5jvFA,Deep Dive on Server-Side Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://remibou.github.io/Realtime-update-with-Blazor-WASM-SignalR-and-MediatR/,Realtime update with Blazor Wasm Signalr and Mediatr,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/dotnet/the-net-docs-show-open-source-net-projects-2h39,Dev.to,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.microsoft.com/fr-fr/mobile-blazor-bindings/,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.codewithmukesh.com/blog/blazor-crud-with-entity-framework-core/,Blazor CRUD with Entity Framework Core – Detailed Tutorial,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/03/17/net-5-preview.aspx,Unifying .NET 5 arrives in Preview 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/08/25/Blazor-Client_Server-Dynamic-Scripting.html,Client/Server Dynamic Scripting,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=sYTH_xYH3iA&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=2,FAST Framework,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/425show,video on Twitch,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://runny.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=8610s,Blazor Day 2020: Forms & Validation in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://youtu.be/frtetHgfdIo,How to use BlazorStyled with Blazor to dynamically change CSS,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorboilerplate.com,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.webassemblyman.com/,WebAssemblyMan,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/,What’s behind the hype about Blazor?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/614895872,Blazor WASM authentication,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.grapecity.com/blogs/splitting-monolith-reporting-web-app-with-blazor,Splitting a monolith reporting web app with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/571259404,Blazor StateHasChanged: Hot take on hot questions,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/css-isolation-in-blazor.htm,CSS isolation in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://matteo.tech.blog/2020/02/11/tinkering-with-client-side-blazor-and-the-aws-sdk-for-net/amp/,Tinkering with client-side Blazor and the AWS SDK for .NET,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://darnton.co.nz/2020/07/13/cors-proxy-for-client-side-blazor/,How to Build a CORS Proxy for Client-side Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Build-Serverless-Apps-with-Blazor,.NET Conf session: Build Serverless Apps with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/07/28/EventHorizon-Blazor-Interop.html,Project - EventHorizon Blazor Interop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorfiddle.com,BlazorFiddle,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.davideguida.com/blazor-and-2d-game-development-part-1-intro/,Part 1: Intro,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/03/03/vs-roadmap.aspx?m=1,Blazor WASM Debugging Planned for Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.patternfly.org,PatternFly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=5ouXHtzKL5o&list=PLFJQnCcZXWjv89uDubYW7NniK8mEl4sWQ,Creating Outlook Calendar Client from scratch,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/dotnet/learn-how-you-manage-routing-in-blazor-for-net-core-and-vs-code-4m2e,on Dev.to,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/auto-saving-form-data-in-blazor/,Auto saving form data in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://engstromjimmy.se/post/2020-03-14-ReloadBlazor%20-%20Copy,Blazor - Reload the browser on disconnect,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/,Dashboard Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/,Blazor and Razor Components in a nutshell,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=6873s,Blazor Day 2020: Razor: Into the Razor-Verse,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/638246011,Part 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=rAiBaedDWpY,Ed Charbeneau of Progress: Why I'm Excited About Blazor in 2020,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://aka.ms/blazor-ebook,Download PDF,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be,Blazor Tutorial : HttpClient | Login User,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@jonny.ollifflee/blazor-handling-404s-with-iis-666920a4a60,Blazor: Handling 404s with IIS,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=CFAE4_dwzAs&feature=youtu.be,Blazor Tutorial : Deploy to Azure App Services,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/aspnet/blazor-upload-file-azure-blob-storage/,Blazor Upload File to Azure Blob Storage,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/555713221,Deploying Blazor WebAssembly Backend,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Scaling-Blazor-Server-Apps-with-Azure,.NET Conf session: Scaling Blazor Server Apps with Azure,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor.pticostarica.com/,Build a video portal with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/7-things-to-enjoy-maui-and-dotnet-maui,7 Things to Enjoy in MAUI,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://mikaberglund.com/2020/01/05/building-an-application-with-blazor-bootstrap-part-1/,Part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/don-t-freeze-ui-while-executing-cpu-intensive-work-in-blazor-webassembly.htm,How to prevent the UI from freezing while executing CPU intensive work in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/obs-revealjs-greenscreen,Making Scott Hanselman's Powerpoint Greenscreen trick work with RevealJS via Blazor Server,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/young-coder/the-open-source-project-that-wants-to-reboot-silverlight-74817b430ee7,The Open Source Project that Wants to Reboot Silverlight,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://aka.ms/Learn/Blazor,Microsoft Learn workshop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser,.NET Conf: Focus on Blazor Teaser,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazeofcode.com/,Blaze of Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://romansimuta.com/posts/using-three-js-with-asp-net-core-blazor-server-application/,Using three.js with ASP.NET Core Blazor Server application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.skillshare.com/site/join?teacherRef=102575464&t=Blazor-on-ASP.NET-Core-3.0&sku=1662883580,Blazor on ASP.NET Core 3.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/737961313,Blazor BlazingCoffee and Markdown,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@waelkdouh/how-to-detect-unsupported-browsers-under-a-blazor-webassembly-application-bc11ab0ee015,How to detect unsupported browsers under a Blazor WebAssembly application?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/blogs/post/bunit-for-blazor-and-how-to-integrate-it-in-azure-pipeline.aspx,bUnit for Blazor and How to Integrate it in Azure Pipeline,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=5474s,Blazor Day 2020: Create An Optical Character Reader Using Blazor And Azure Computer Vision,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=rk5uIA6s574&feature=youtu.be,Blazor Tutorial: Role-based Authorization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/intro-to-blazor-and-creating-a-blazor-app-from-scratch,Intro to Blazor and Creating a Blazor App from Scratch,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/04/08/vs-code-blazor.aspx,Top 3 Blazor Extensions for Visual Studio Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://sandervandevelde.wordpress.com/2020/05/03/attach-blazor-to-azure-iot-edge-routing-showing-live-message-feed/,Attach Blazor to Azure IoT Edge routing, showing live message feed,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/anchor-navigation-in-a-blazor-application.htm,Anchor navigation in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorrepl.com,https://blazorrepl.com,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/azure/use-blazor-and-c-to-host-a-static-website-in-azure-storage-b1d,Use Blazor and C# to host a static website in Azure Storage,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor.net,official Blazor website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codeblog.jonskeet.uk/2020/07/12/v-drum-explorer-blazor-and-the-web-midi-api/,V-Drum Explorer: Blazor and the Web MIDI API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://romansimuta.com/posts/how-to-create-blazor-components-with-custom-javascript-and-css-in-the-components-library-and-properly-consume-them-from-webassembly-application/,How to create Blazor components with custom JavaScript and CSS in the components library and properly consume them from WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-2/,Integrating Tailwind CSS with Blazor using Gulp - Part 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=BBFF2l1FlE0&feature=youtu.be,Blazor Tutorial : Templated Components | Html Table,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=2k74qoXTelM,Learn Studio Session: Build a WebAssembly app with Blazor & VS Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/blazor-components/blazor-word-processor,Document Editor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=rTVspBBuAz4,Create new Blazor CRUD application with Radzen,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.appvnext.com/blog/2020/2/2/reuse-blazor-wasm-ui-in-blazor-server,Reuse Blazor WASM UI in Blazor Server,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-2-the-blazor-component/,Minesweeper in Blazor WebAssembly Part 2: The Blazor Component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/07/28/Blazor-Interop-Generation-Tool-Release.html,Blazor Interop Generation Tool Release,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/731137633,Testing Blazor Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=3715s,Blazor Day 2020: Secrets of a Blazor Component Artisan,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-7/,ASP.NET Core Updates in .NET 5 Preview 7,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dyh1213.github.io/PokerOddsPro.io/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/571161098,Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/05/19/blazor-webassembly-3-2.aspx,Blazor finally complete as WebAssembly joins server-side component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@bora.kasmer78/word-game-with-blazor-and-signalr-on-netcore-e14e125233f2,Online Multiplayer Word Game With Blazor and SignalR on .NetCore,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@waelkdouh/securing-a-blazor-webassembly-application-with-azure-active-directory-7822148f332b,Securing a Blazor WebAssembly application with Azure Active Directory,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/05/22/blazor-future.aspx,Next for Blazor: AOT for 'Massive Speed Gains',https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://remibou.github.io/Track-GPS-with-Blazor-BrowserInterop/,Track Gps With Blazor Browserinterop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-2-release-now-available/,Blazor WebAssembly 3.2.0 Preview 2 release now available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.davideguida.com/blazor-gamedev-part-2-canvas-initialization/,Part 2: Canvas initialization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://skclusive.github.io/Skclusive.Material.Docs/,Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.w3.org/TR/webmidi/,Web MIDI API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/,Routing in Blazor Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://marketplace.visualstudio.com/items?itemName=ScottSauber.blazorsnippets,Blazor Snippets Visual Studio Code extension,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://christianfindlay.com/2020/06/04/blazor-vs-react-angular-vue-js/,Blazor vs. React / Angular / Vue.js,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://blorc-patternfly.wildgums.com/,demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://community.devexpress.com/blogs/analytics/archive/2020/02/17/dashboard-for-blazor-how-to-use-web-dashboard-within-your-blazor-apps.aspx,Dashboard for Blazor - How to use Web Dashboard within your Blazor Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.twitch.tv/videos/608126510,Blazor StateHasChanged: E-book samples, code-behind, and office hours,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/migrate-webforms-to-blazor/,From WebForms to Blazor?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorwheelzoom.m4f.eu/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor.ru/,Blazor.ru,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.linkedin.com/pulse/why-blazor-via-webassembly-future-akash-limbani/,Why Blazor, via WebAssembly, is the future,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=B9jKf-Dn0Yg&feature=youtu.be,Blazor WebAssembly : Custom Authentication,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/playlist?list=PLFJQnCcZXWjtftgq0KID4oHk6wfJrRL1r,PlannerApp full client-side project with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/telerik-ui-for-blazor-2-15-0-new-buttongroup-togglebutton-grid-updates-more,Telerik UI for Blazor 2.15.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor.syncfusion.com/demos/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/ef-core-and-cosmosdb-with-blazor-webassembly,EF Core and Cosmos DB with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=SzlsRdV5z_8,Blazor Forms with Validation - Part IV,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=I74hkInjziM&feature=youtu.be,How to Create Services in Client Side Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Microsoft-Google-and-Cookie-Authentication-and-Authorization,.NET Conf session: Microsoft, Google and Cookie Authentication and Authorization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://plotly-blazor.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=nlXax81b1UE,YouTube video,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.mergeconflict.fm/218,The One About Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://auth0.com/blog/securing-blazor-webassembly-apps/,Securing Blazor WebAssembly Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dev.to/marcusturewicz/updating-json-validate-to-blazor-3-2-0-preview-3-59oa,Updating JSON Validate to Blazor 3.2.0 Preview 3,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devkimchi.com/2020/06/03/adding-react-components-to-blazor-webassembly-app/,Adding React UI components to Blazor Web Assembly app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://devapps.be/podcast/blazor-webassembly/,DevApps.be's podcast #44,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://auth0.com/blog/securing-blazor-webassembly-apps,Securing Blazor WebAssembly Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/build-a-blazor-webassembly-line-of-business-app/,Build a Blazor WebAssembly line of business app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/09/05/Blazor-Get-Access-Token-for-User.html,Blazor Wasm - Get Access Token for User,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-release-candidate-now-available,Blazor WebAssembly 3.2.0 Release Candidate now available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.apress.com/gp/book/9781484243428,Blazor Revealed,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.grapecity.com/componentone/blazor-ui-controls,ComponentOne Blazor UI Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=Pcyx48AgR40,Modern Web UI with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=XoizucRjxgU&t=0s,Blazor Day 2020: Bringing .NET to the Web and Beyond,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorchat.com,https://blazorchat.com,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devkimchi.com/2020/06/17/hosting-blazor-web-assembly-app-on-azure-static-webapp/,Hosting Blazor Web Assembly App on Azure Static Web App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=mFBqThJQa0o&feature=youtu.be,iJS London: Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://excubo-ag.github.io/Blazor.Diagrams/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/03/27/blazor-debugging.aspx,Blazor WebAssembly Marches On to GA: Now Debug from Visual Studio, VS Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazor.loresoft.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blogs/difference-between-blazor-vs-razor,What's the Difference Between Blazor vs Razor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Authoring-Custom-Components,.NET Conf session: Authoring Custom Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/swlh/writing-applications-not-web-sites-in-microsoft-blazor-5f123b17cb05,Writing Applications, Not Web Sites, in Microsoft Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=onI2_Q0wrdM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0,Blazor WebAssembly 3.2 Release Party!,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/06/03/Blazor-Custom-Connection-Details-Display.html,Custom connection details display,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.dotnetrocks.com/default.aspx?ShowNum=1698,OpenSilver with Giovanni Albani,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://yagudaev.com/posts/dot-net-blazor-for-rails-developers,.NET Blazor for Rails Developers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://lupblazortodo.z20.web.core.windows.net/,Blazor TODO app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://developer.mozilla.org/en-US/docs/Web/API/Clipboard,Clipboard Browser API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/build-anything-using-blazor-components/,Quickly transform any mockup or design into a working Blazor prototype,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.davideguida.com/blazor-gamedev-part-3-sprite-rendering/,Part 3: Sprite rendering,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=wTmZCu16LNU&feature=youtu.be,Let's Build Flappy Bird,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.jeremylikness.com/blog/build-a-blazor-webassembly-line-of-business-app-part-2/,Part 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/09/05/Blazor-Page-Animated-Transitions.html,Blazor - Page Animated Transitions,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://devapps.be/podcast/47-typescript-uno-angular-docfx/,DevApps.be's podcast #47,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor,Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazjobboard.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-feb-2020-update/,Announcing Experimental Mobile Blazor Bindings February update,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/06/23/grpc-web-for-net.aspx,Move Over, JSON, Here's gRPC-Web for .NET (& Blazor),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorpongwasm.azurewebsites.net/,Wasm Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://playground.nethereum.com/,http://playground.nethereum.com/,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chanan.github.io/BlazorTypography/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://tutorialslink.com/Articles/Blazor-Interview-Questions-and-Answer/1413,Blazor interview questions and answer,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/patternfly/getting-started-with-blorc-patternfly-tutorial-cc71fed4bef6,Getting started with Blorc.PatternFly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://codyanhorn.tech/blog/blazor/2020/07/28/Project-EventHorizon-Blazor-TypeScript-Interop-Generator.html,Project - EventHorizon Blazor TypeScript Interop Generator,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://aka.ms/mobileblazorbindings,Mobile Blazor Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-3-release-now-available/,Blazor WebAssembly 3.2.0 Preview 3 release now available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/copy-to-clipboard-in-blazor/,Copy to Clipboard in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://morioh.com/p/97a53fe40f2e,Build an Authenticated Web App in C# with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://javascript-conference.com/,International JavaScript Conference,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.thinktecture.com/en/webassembly/with-dotnet/,WebAssembly Beyond the Browser: Running WASM in .NET Core Applications With WASI & Wasmtime,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Mobile-Blazor-Bindings-Using-Blazor-to-build-mobile-apps,.NET Conf session: Mobile Blazor Bindings - Using Blazor to build mobile apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=4je1gmH6G7w&feature=youtu.be,Blazor Train: A talk with Steve Sanderson and David Fowler,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chanan.github.io/BlazorStyled,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jspuij.github.io/BlazorWebView.Docs/pages/index.html,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://visualstudiomagazine.com/articles/2020/02/10/blazor-mobile-update.aspx,Experimental Mobile Blazor Bindings gets new components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.dotnetrocks.com/default.aspx?ShowNum=1692,.NET Multi-Platform App UI with Scott Hunter,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly,Blazor WebAssembly Succinctly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/aspnet/stripe-customer-credit-card-payment-with-blazor/,Stripe customer credit card payment with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/,Building a Progressive Web App with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.microsoft.com/aspnet/core/blazor/get-started,Blazor Get Started,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.blazorfluentui.net/,Client-side demo (WebAssembly),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dzone.com/articles/blazor-how-tos-create-a-chat-application-part-1-in,Blazor How-Tos: create a chat application - part 1: Introduction,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.youtube.com/watch?v=G6CkEBNPhro&feature=youtu.be,Rendering an Orchard Core Markdown Blog Post with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://media.aspitalia.com/events/VS2019-Blazor.media,Modern web apps with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://tobiasahlin.com/spinkit/,SpinKit,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://www.mattruma.com/adventures-with-blazor-my-first-component-a-busy-button/,Adventures with Blazor: my first component, a busy button,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://channel9.msdn.com/Events/Build/2020/BOD104,Modern Web UI with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/blazor-ui,Telerik UI for Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://jonhilton.net/blazor-traffic-light-refactor/,Blazor by Example - A spot of refactoring,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://nahidfa.com/posts/blazor-webassembly-authentication-and-authorization-with-identityserver4/,Blazor WebAssembly authentication and authorization with IdentityServer4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.linkedin.com/learning/blazor-first-look,Blazor First Look on LinkedIn Learning,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.okta.com,octa.com,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.dotnetrocks.com/?show=1690,Testing Blazor Apps with Egil Hansen,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.matblazor.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://bionicframework.github.io/Documentation/,Bionic,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://mikaelkoskinen.net/post/blazor-animate-animations-manual-onclick,Blazor.Animate adds support for running animations manually,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/category/blazor/,ASP.NET Blog's archives,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorguy.net/simple-text-animation/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://atifaziz.github.io/CSharpMinifierDemo/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://wellsb.com/csharp/aspnet/stripe-connect-express-and-blazor/,previous tutorial,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.syncfusion.com/ebooks/blazor-succinctly,Blazor Succinctly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://umairsyed613.github.io/UNMealPlanner/,Demo Github Pages,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://ton-actions.github.io/ton-client-blazor/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://tewr.github.io/BlazorFileReader/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.davideguida.com/blazor-gamedev-part-4-moving-a-sprite/,Part 4: Moving a sprite,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorfluentui.azurewebsites.net/,Server-side demo (SignalR),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.devexpress.com/Dashboard/119108/designer-and-viewer-applications/web-dashboard/html-javascript-dashboard-control,HTML JavaScript Dashboard,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://startblazoring.com,Start Blazoring,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://docs.microsoft.com/en-us/learn/browse/?expanded=dotnet%2Cazure%2Csurface&products=dotnet%2Cwindows&roles=developer&terms=blazor,Blazor courses on Microsoft Learn,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.devexpress.com/support/training/blazor/,Free Blazor Training Course,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://magenic.com/thinking/mocking-injected-types-in-blazor,Mocking Injected Types in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://ant-design-blazor.github.io/,Docs as Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.roundthecode.com/dotnet/blazor,Create a small blog in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://chrissainty.com/working-with-query-strings-in-blazor/,Working with Query Strings in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://planningpoker.duracellko.net,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://medium.com/@MartinPocius/blazor-live-reload-preview-4505015fd589,Blazor live reload preview,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://bootstrapdemo.blazorise.com/,Bootstrap Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://realworld.io,RealWorld,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.thinktecture.com/en/blazor/webassembly-changing-log-level-at-runtime,Blazor WebAssembly - Changing The Log Level At Runtime,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://lsvhome.github.io/regex-tester/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blazorfilesaver.netlify.com,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://bulmademo.blazorise.com/,Bulma Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://electronjs.org/,Electron,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://lghou.com/blog/blazor-webassembly,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.c-sharpcorner.com/article/creating-a-multi-language-translator-using-blazor-and-azure-cognitive-services/,Creating a multi-language translator using Blazor and Azure Cognitive Services,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://ankitsharmablogs.com/multi-language-translator-using-blazor-and-azure-cognitive-services/,Multi-Language Translator Using Blazor And Azure Cognitive Services,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://antdesigndemo.blazorise.com/,AntDesign Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.meziantou.net/dynamically-setting-the-page-title-in-a-blazor-application.htm,Dynamically setting the page title in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://zxspectrum.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-5-release-now-available/,Blazor WebAssembly 3.2.0 Preview 5 release now available,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.thinktecture.com/en/blazor/integration-angular-elements-web-components,Re-Using Angular Components In A Blazor WebAssembly Application Using Angular Elements,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.thomasclaudiushuber.com/2020/02/14/initializing-web-components-in-blazor-via-js-interop/,Initializing Web Components in Blazor via JS Interop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook,Blazor, A Beginners Guide,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://dotnet.myget.org/gallery/blazor-dev,Blazor-Dev gallery on .NET Foundation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://blog.mistermagoo.dev/blazor-and-media-events-hard-to-handle-ckdup6yf1000mids1f36n6j8q,Blazor and Media events - Hard to handle?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H,An Introduction to Building Applications with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://christianfindlay.com/2020/02/14/blazor-webassembly-rest-client/,Blazor WebAssembly Rest Client,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://steema.com/wp/blog/2020/02/20/teechart-for-net-with-razor-and-blazor-under-net-core-3/,TeeChart for .NET with Razor and Blazor under Net.Core 3,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=pkfsKdiuTdc&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=82,Host, deploy and scale ASP.NET Core Blazor Server,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor.jqwidgets.com,Website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://allegiance-consulting.github.io/blazor-highcharts/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=GKu-vRxOWr8,Enterprise-grade Blazor apps with .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/davidwengier,Twitch stream,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=JtyVBbcVplY,The .NET Docs Show - Blazor component testing with bUnit,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/,Dashboard Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=hKxciQMxueI,ASP.NET Community Standup - Building with Blazor: Powered4.tv,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Hz8i2HPSPts,ASP.NET Community Standup - Build apps for Microsoft Teams with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/using-mudblazor-to-create-product-details-page/,Using MudBlazor to Create Reach and Functional Product’s Details Page,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://mudblazor.com/,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=TH0661ai_Mg,Getting Started With Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=RZhEScjKVHE,Full-stack .NET with Blazor WebAssembly and Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=vx96Zgd7Kes,Advanced Blazor experiences with Carl Franklin,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Wcc14aoylME,Introduction to Dynamic Components in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=GE8_E8-KxBY,Run EF Core queries on SQL Server from Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=LjGCPaP8DH8&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2,ASP.NET Community Standup - Unit Testing Blazor with bUnit,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUJCA3DCzKT79Oe3kdKEceX,YouTube,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/425show,video on Twitch,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://cognitivestudio.dev/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=p77UumvZCNM,Next-generation Blazor components with .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=rfPQytn7tfk&feature=youtu.be,Blazor Train: Adding Blazor to an Existing MVC Application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://chanan.github.io/BlazorStyled,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.htmlelements.com/blazor/,Website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://zuozishi.github.io/MediaSession.Blazor/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Yc84OHgPwLI,Building dynamic applications with blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=gZVGwFa-L1s,Getting Started with Blazor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazority.com,Docs & Demos,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://excubo-ag.github.io/Blazor.Diagrams/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.c-sharpcorner.com/events/growth-mindset-weekly-live-show3,The Growth Mindset Show,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=CFaijQhkAwg&t=45s,Blazor Web Bluetooth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://skclusive.github.io/Skclusive.Material.Docs/,Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.30secondsofblazor.net/,30 seconds of Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=NFXdSvFQgtg,Building a Blazor WebAssembly chat using SignalR,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=-FDQX1jmj64,Blazor: Client Side vs. Server Side: Hands on Development and Deployment,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://becksblazor.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app,Using source generators to generate a menu component in a Blazor app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=0l88RIyseqE&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=52,What’s new in bUnit for .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorwheelzoom.m4f.eu/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.claudiobernasconi.ch/2021/04/23/building-a-dashboard-blazor/,Building a Dashboard,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/dotnet/announcing-net-5-0/,Announcing .NET 5.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twilio.com/blog/building-real-time-applications-with-blazor-server-and-firestore,Building Real-Time Applications with Blazor Server and Firestore,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/,ASP.NET Core updates in .NET 6 Release Candidate 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=PUm9P_pJZV0&feature=youtu.be,Blazor Train: MVVM Part 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://daveabrock.com/2021/01/14/blast-off-blazor-search-box,Blast Off with Blazor: Build a search-as-you-type box,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.dotnetfoundation.org/,.NET Foundation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/03/12/aspnet-preview-2.aspx,.NET 6 Preview 2 Boosts Razor/Blazor in ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.roundthecode.com/dotnet/blazor/how-to-use-button-onclick-event-blazor-webassembly,How to use the button onclick event in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx,.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=N8YoJRV19rw&feature=youtu.be,Blazor WebAssembly : Authentication State,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/category/blazor/,ASP.NET Blog's archives,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnetdocs.dev/,The .NET Docs show,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=-48UHwxwv4g&feature=youtu.be,Carl Franklin's Blazor Train: Creating an API Layer,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/10/13/blazor-net5-rc2.aspx,Blazor Debugging Boosted in .NET 5 RC 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jeffreyfritz.com/2021/04/introducing-kliptok/,Introducing KlipTok,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=v8UWYwAhKZA&feature=youtu.be,ASP.NET Community Standup - A Blazor Conversation with Chris Sainty,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.codemag.com/article/2010102,Blazor Updates in .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swimburger.net/blog/dotnet/introducing-online-gzip-decompressor,Introducing Online GZIP de/compressor, built with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/saeedgz98/net5-a-unified-platform-3l35,.NET5 - A Unified Platform,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=C9WSloRSiIc,Web Wednesday: Creating full stack web apps with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnet.microsoft.com/apps/aspnet/web-apps/client,,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=YXrba8kiqzc&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI&index=6,Planning, designing, and coding a Blazor site from scratch part 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=fNDd7moZJ4c,Multiple Panels with Sliding Splitters,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/copying-text-to-clipboard-in-a-blazor-application.htm,Copying text to the clipboard in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/generating-and-downloading-a-file-in-a-blazor-webassembly-application.htm,Generating and efficiently exporting a file in a Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/09/15/net-5-rc-1.aspx,.NET 5 Hits 'Go Live' Status in RC1, Ready for Production,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://visualstudiomagazine.com/articles/2020/08/11/blazor-tooling-updates.aspx,What's New in Blazor Tooling Updates,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://flexor.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github,Umbraco 9 & Blazor WebAssembly Starterkit on GitHub,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dcidr.z20.web.core.windows.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://anthonychu.ca/post/blazor-auth-azure-static-web-apps/,Authenticate Blazor WebAssembly with Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/blazor-diagrams/,Render diagrams on the fly in your Blazor apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=NRDdu67VJH0,Migrating a Windows Forms App to Blazor: The Amazing and True Story of GIFBot,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.patternfly.org,PatternFly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=hBWYrNTpIhc&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=58,Blazor and GraphQL,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=yzLDvQ-bOw8&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2,ASP.NET Community Standup - Material Design in Blazor with Material.Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.visualstudio.com/vs/preview,Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=yzK-TqxLjbA&feature=youtu.be,Blazor Train: WebForms to Blazor with Jeff Fritz,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=0fAjA6BVVFI,WebAPI vs gRPC in Blazor Train,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.devexpress.com/support/training/blazor/,Free Blazor Training Course,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=CEjqhTGrqDY,Modern Web Development with Blazor & .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://devapps.be/podcast/47-typescript-uno-angular-docfx/,DevApps.be's podcast #47,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://try.mudblazor.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-2/,ASP.NET Core updates in .NET 6 Preview 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://joadan.github.io/TabBlazor/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://mac-digital.blog/2021/02/12/the-tablet-app-part-1/,The tablet app – part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Q4D5NffKTIk,On .NET Live - Secrets of building Blazor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=g8tAgdvxYzk&list=PLReL099Y5nRem6UA4w849hTfd0LzBIsAk&index=2&t=0s,Visual Studio Remote Office Hours - Blazor and ASP.NET,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.elmah.io/rendering-dynamic-content-in-blazor-wasm-using-dynamiccomponent/,Rendering dynamic content in Blazor Wasm using DynamicComponent,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=GtLIpITqznA&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=5,ASP.NET Community Standup - Exploring MudBlazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/videos/899338170,Blazor Power Hour: FAQ show #1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/,Announcing ASP.NET Core in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/jioophoenix/hotchocolate-introduction-to-graphql-for-asp-net-core-part-1-2e27,Consuming GraphQL API In ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=tbNgLNZnNWM,Blazor WebAssembly : JavaScript Isolation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/08/26/net-5-preview-8.aspx,.NET 5 Now 'Feature Complete' with Preview 8, Go Live Release Candidates Up Next,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/should-enterprise-pick-angular-react-blazor,Should your enterprise pick Angular, React or Blazor?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=O8vmnYBUkbc&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=74,Embedding Power BI Reports in your Blazor 6 site,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/,Build a web app with Blazor WebAssembly and Visual Studio Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://13.48.11.221/BlazorDungeon,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-http://gridblazor.azurewebsites.net,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.hanselman.com/blog/HundredsOfPracticalASPNETCoreSamplesToLearnTheFundamentals.aspx,Hundreds of practical ASP.NET Core samples to learn the fundamentals,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=I3A1R-oBK7c&feature=youtu.be,Blazor Train: Basic Authentication and Authorization in Blazor Web Assembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.slideshare.net/PGallagher69/using-net-5-with-the-raspberry-pi,Using .NET 5 with the Raspberry Pi,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/babylonjs-and-blazor-simple-game-state,BabylonJS and Blazor - Simple Game State,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://wellsb.com/csharp/xamarin/mobile-blazor-common-app-layouts/,Mobile Blazor Common App Layouts,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jsakamoto.github.io/awesome-blazor-browser/,Awesome Blazor Browser,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=VDGk0fweHcg,Intro to Blazing Web Accessibility - Empowered with AI,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnetcore.show/episode-86-real-world-blazor-with-steve-peirce/,Real World Blazor With Steve Peirce,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/11/19/Blazor-Library-Interop-Generator.html,Library Interop Generator 1.0 Release,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://wellsb.com/csharp/xamarin/getting-started-mobile-blazor-bindings/,Getting Started with Mobile Blazor Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://patternmaker.netlify.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/download-files-from-azure-with-net-core-web-api-and-blazor-webassembly/,Download Files from Azure with .NET Core Web API and Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://app.money.neptuo.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codered.eccouncil.org/course/getting-started-with-blazor,Getting Started with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.arjunkrishna.us/blog/alexa-backend-within-blazor/,Configure Alexa Skill to use Blazor backend,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/learn/browse/?expanded=dotnet%2Cazure%2Csurface&products=dotnet%2Cwindows&roles=developer&terms=blazor,Blazor courses on Microsoft Learn,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://material-blazor.com,See our demo and comprehensive documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=SRxMP-cx2vQ&feature=youtu.be,Blazor Train: Ask the Engineer,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.amazon.com/Blazor-WebAssembly-Example-project-based-building-ebook/dp/B095X7FH6M,Blazor WebAssembly by Example,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/creating-blazor-webassembly-signalr-charts/,Creating Real-Time Charts with Blazor WebAssembly and SignalR,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazortrain.com/,blazortrain.com,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=mZRNjixZEMg&t=28886s,.NET Conf 2021 - Focus on Windows: Building .NET Hybrid Apps with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Nag6u5TxjIA,A talk for trailblazers: Blazor in .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://www.telerik.com/blogs/blazor-vs-angular-web-developers,Blazor vs Angular,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://aka.ms/blazorelectron,Blazor + Electron,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://aka.ms/webwindow,Blazor + WebWindow,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://memoryetcwasmserver20200329202745.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://en.wikipedia.org/wiki/Lights_Out_(game),Lights Out,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://blazoranimation.boudoux.fr/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/mariusmuntean/build-the-game-of-life-with-blazor-4ie9,Build the Game of Life with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/dotnet/the-net-docs-show-open-source-net-projects-2h39,Dev.to,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.codemag.com/Magazine/Issue/DotNet5,Code Magazine,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/09/14/aspnet-5-rc1.aspx,Blazor Gets Faster (Even Without AOT),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/showing-a-confirm-dialog-before-doing-an-action-in-blazor.htm,Showing a confirm dialog before doing an action in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=n53rWnIkbkk&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=68,Responsive and Adaptive Tactics for Blazor Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://betweentwobrackets.dev/posts/2020/07/state-management-with-blazor-using-fluxor-part-2/,State Management with Blazor using Fluxor (Part 2),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=B9jKf-Dn0Yg&feature=youtu.be,Blazor WebAssembly : Custom Authentication,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/blazor-material-table-paging-searching-sorting/,Blazor Material Table – Server-Side Paging, Searching, Sorting,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=uoVeZzKl6WQ,Minimal APIs in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.grapecity.com/componentone/blazor-ui-controls,ComponentOne Blazor UI Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/blazor-stability-testing-tools-for-bulletproof-applications,Blazor Stability Testing Tools for Bulletproof Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-PWAs-with-Blazor,ASP.NET Core Series: PWA's with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jamesformica.github.io/trains,https://jamesformica.github.io/trains,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=1qOXCpCwmJ4,Next Generation UI with .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Z9lkKnzJgD8,The .NET Docs Show - Scenario testing Blazor Single-Page Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=TrLz0aEWMM8,Common Data Services (CDS) and .NET,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://lghou.com/blog/blazor-webassembly,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jspuij.github.io/BlazorWebView.Docs/pages/index.html,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.timecalc.app/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://blorc-patternfly.wildgums.com/,demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/,Using source generators to find all routable components in a Blazor WebAssembly app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/blazor-prerendering-net6,Will .NET 6 fix Blazor Prerendering?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=livNmRqDnMI&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3,ASP.NET Community Standup - Exploring Oqtane with Shaun Walker,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=mS6ykjdOVRg,.NET Conf 2020: Day 1, full video,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swharden.com/blog/2021-01-08-blazor-boids,Boids in your Browser with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://azuredevopspodcast.clear-measure.com/daniel-roth-on-web-development-with-net-6-episode-158,Daniel Roth on Web Development with .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=WdB723tIWg0,Blazor Stability Testing Tools for Bullet Proof Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.isaaclevin.com/post/presence-light,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=kesUNeBZ1Os,New Blazor WebAssembly capabilities in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=mFBqThJQa0o&feature=youtu.be,iJS London: Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=HMYpAw2sl58,Introduction to .NET MAUI,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://razor.radzen.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnet.microsoft.com/live/community-standup,ASP.NET Community Standup,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://media.aspitalia.com/events/VS2019-Blazor.media,Modern web apps with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/azure/static-web-apps/overview,Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://learnwithsundar.com/2020/07/20/blazor-zero-to-hero-real-time-implementation-part-iii/,Blazor: Zero To Hero Real Time Implementation Part III,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=P-DSBDLnFmc,.NET Frontend day 2021,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=mZRNjixZEMg&t=9040s,.NET Conf 2021 - Focus on Windows: Real-Time Desktop Apps with Azure SignalR Service,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.amazon.com/Microsoft-Blazor-Building-Applications-NET/dp/1484259270/ref=pd_sbs_2/144-0745230-5007239?pd_rd_w=LPinn&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=V7CQTYC0W8RZAVPVVXA1&pd_rd_r=b34ab9d9-09dd-4eca-9207-f56311bde8d2&pd_rd_wg=9V1tA&pd_rd_i=1484259270&psc=1,Microsoft Blazor: Building Web Applications in .NET,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWlP1Qpzg7Dwzxr298ewdUQ,YouTube,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/,Azure Static Web Apps with .NET and Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://damienbod.com/2021/03/08/securing-blazor-web-assembly-using-cookies/,Securing Blazor Web Assembly using cookies,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.pscp.tv/w/1yoKMAwWQLoKQ,ASP.NET Community Standup - Exploring Blazorise,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://bionicframework.github.io/Documentation/,Bionic,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://zxspectrum.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://techcommunity.microsoft.com/t5/apps-on-azure/full-stack-net-6-apps-with-blazor-webassembly-and-azure-static/ba-p/2933428,Full-stack .NET 6 Apps with Blazor WebAssembly and Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=cUAmYn16A18&list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz&index=65,Blazor Reporting with Thomas Smith,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://babylonjsblazorstep03.z19.web.core.windows.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=ePc7YroqfPg&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI,Planning, designing, and coding a Blazor site from scratch part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-release-candidate-1/,ASP.NET Core updates in .NET 5 Release Candidate 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.udemy.com/course/devops-and-docker-support-for-net-core-blazor/?ranMID=39197&ranEAID=w6JuN00t%2Fzo&ranSiteID=w6JuN00t_zo-Kv09UYco3AqwmZkipiMIXw&utm_source=aff-campaign&LSNPUBID=w6JuN00t%2Fzo&utm_medium=udemyads,DevOps and Docker Support for .NET Core Blazor Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://wengier.com/trains,https://wengier.com/trains,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/12/01/blazor-performance.aspx,Developer decries WinForms-to-Blazor performance degradation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=CrY8CF1gysA,Building Real-time Applications with Blazor and GraphQL,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://chanan.github.io/BlazorTypography/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=3LJDMAOm8JU,Blazor Hot Reload in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=4Xzx7Cm9ykg,Let's Learn .NET - Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=0O-bNuQOQb8&feature=youtu.be,Blazor Train: Progressive Web Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=qEdVcTZH5bs&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH&index=5,Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=mZRNjixZEMg,.NET Conf 2021 - Focus on Windows,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://wellsb.com/csharp/iot/blazor-meadow-web-api-weather-charts/,Blazor Meadow Web API Weather Chart.js,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://betweentwobrackets.dev/posts/2020/06/state-management-with-blazor-using-fluxor-part-1/,part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://gitter.im/aspnet/Blazor,Gitter,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://phrase.com/blog/posts/blazor-webassembly-i18n/,Blazor WebAssembly I18n from Start to Finish,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.dotnetconf.net/,,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://andrewlock.net/finding-all-routable-components-in-a-webassembly-app/,previous post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/blazor-aspnet-webforms-ebook/,Free e-book: Blazor for ASP.NET Web Forms Developers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=bVSq1rKcW-o,On .NET Live - Diving into Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.jetbrains.com/dotnet/2020/11/05/run-blazor-apps-within-electron-shell/,Run Blazor Apps Within Electron Shell,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://argozhang.github.io/,Docs as Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://enchanter.netlify.app/,Demo2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/videos/717583951,Blazor Game Client + Working on GUI System,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://damienbod.com/2021/03/23/setting-dynamic-metadata-for-blazor-web-assembly/,Setting dynamic metadata for Blazor Web Assembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://wonderful-pond-05f7b3b10.azurestaticapps.net/pirate-fort,Pirate Fort,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.mistermagoo.dev/quick-helper-for-blazor-performance-ckg790tsi02fz9cs1d6zze5ug,Quick Helper For Blazor Performance,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=5P_rub2a4Eo,.NET Virtual User Group - Blazor + Xamarin Code Sharing,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m,Demo video,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/,Read the Quick Start Guide here,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://javascript-conference.com/,International JavaScript Conference,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=GIupo55GTro,Application State in Blazor Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://daveabrock.com/2020/10/26/blast-off-blazor-intro,Blast Off with Blazor: Get to know Blazor and our project,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Y0bEAy6yxMQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3,Blazor + Xamarin == WHOA!,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://serdarciplak.github.io/BlazorMonaco/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=EUOimtP78jQ,On .NET Live - Building Reactive UIs with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/11/04/new-aspnet-core-docs.aspx,Microsoft Publishes New Documentation for Blazor, ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/09/30/blazor-performance.aspx,Blazor Guru Details Best Performance Practices,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/08/13/blazor-components.aspx,So Why Doesn't Microsoft Provide Its Own Blazor Component Library?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/blazor-webassembly-forms-form-validation/,Blazor WebAssembly Forms, Form Validation, and @ref Directive,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://azuredevopspodcast.clear-measure.com/dean-guida-on-the-future-of-net-components-episode-154,Dean Guida on the Future of .NET Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=TZSwbey58CM&feature=youtu.be,Blazor WebAssembly : Twitter Authentication/Login,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=5enEE3BBGJM&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3,.NET Community Standup: Meet the Blazor Team,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://ebattulga.github.io/TestCountDown/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=nFIZPV3nH0E,Blazor & Electron.NET Managing Application Windows,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=lJojMo9RpoA,Blast off with Blazor - Supercharged Enterprise UIs using AntDesign,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=oPyTZ-HGdn4,.NET Conf 2021 - Day 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.jeremylikness.com/blog/an-easier-blazor-debounce/,An Easier Blazor Debounce,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.nuget.org/profiles/Blazor.Components,NuGet,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines,Pre-render Blazor WebAssembly at build time to optimize for search engines,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swimburger.net/blog/dotnet/communicating-between-dotnet-and-javascript-in-blazor-with-in-browser-samples,Communicating between .NET and JavaScript in Blazor with in-browser samples,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.livesharp.net/,livesharp.net,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://www.binaryintellect.net/articles/1969fdfd-b039-4e3d-81e6-db0526a97637.aspx,Setup Blazor app using ASP.NET Core Empty project template,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=mbNFscKBsy8&feature=youtu.be,Blazor Train: Basic Authentication and Authorization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=I74hkInjziM&feature=youtu.be,How to Create Services in Client Side Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/en-us/events/learntv/dotnet-vs2022-dec-2021/,register for free,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9,Playlist - Programando en Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/lazy-load-assemblies-in-a-blazor-webassembly-application.htm,Lazy load assemblies in a Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://developer.mozilla.org/docs/Web/API/Clipboard,Clipboard Browser API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://medium.com/@waelkdouh/microfrontends-with-blazor-webassembly-b25e4ba3f325,MicroFrontends with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=QOFwpmjEW7g,Blazor WebAssembly : Cookie Expiration & API Authorization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/mizrael/how-to-migrate-blazor-webassembly-to-net-5-hmm,How to migrate Blazor Webassembly to .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=ceGzm-pBhx4,From Web Forms to Blazor - Introducing the Blazor Web Forms Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Jte_VwsSazs,Smaller & Faster Blazor WebAssembly apps with Runtime Relinking in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/azure/deploy-your-blazor-app-in-minutes-with-azure-static-web-apps-40bh,Deploy your Blazor app in minutes with Azure Static Web apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=3B_6bz8JFBE&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH&index=2,Web Wednesday: Blazor Web Apps using GraphQL and EF Core with Jeremy Likness,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=sYTH_xYH3iA&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=2,FAST Framework,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=YLEa2Pr79Ho,Setup Your Blazor Wasm and ASP.NET Core Web API in Azure Devops: Dev To Azure - Part 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://azure.github.io/AppService/2021/03/15/How-to-use-gRPC-Web-with-Blazor-WebAssembly-on-App-Service.html,How to use gRPC-Web with Blazor WebAssembly on App Service,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=G6CkEBNPhro&feature=youtu.be,Rendering an Orchard Core Markdown Blog Post with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/why-use-blazor-edit-forms/,Blazor EditForms, an essential tool or too much magic?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=wTmZCu16LNU&feature=youtu.be,Let's Build Flappy Bird,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://n-stefan.github.io/diabloblazor,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://medium.com/@bora.kasmer78/word-game-with-blazor-and-signalr-on-netcore-e14e125233f2,Online Multiplayer Word Game With Blazor and SignalR on .NetCore,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorfilesaver.netlify.com,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=QfUG-321K4s&feature=youtu.be,Blazor Train: Using SignalR for cross-user Communication,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://codingafterwork.com/2021/07/18/episode-59-bunit-tdd-and-sci-fi-with-egil-hansen/,bUnit, TDD, and Sci-fi with Egil Hansen,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=cpt0Ljs35YA&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=1,ASP.NET Community Standup - Blazor in .NET 6 RC1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorfiddle.com,BlazorFiddle,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=caE5VZD5XNk,Using SignalR in your Blazor applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/improvements-to-the-new-razor-editor-in-visual-studio/,Improvements to the new Razor editor in Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://excubo-ag.github.io/Blazor.Grids/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.nexmo.com/blog/2020/07/08/how-to-send-an-sms-with-blazor,How to send an SMS with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-NET-Blazor,Let's Learn .NET: Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/is-blazor-safe-enterprise-bet,Is Blazor Safe for Your Enterprise to Bet On?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/videos/786558484,.NET 5 Migrating NuGet Packages,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.apress.com/gp/book/9781484243428,Blazor Revealed,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/step-into-dotnet-5-telerik-ui-for-asp-dotnet-core-components,Step Into .NET 5 with Telerik UI for ASP.NET Core Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings,Custom Xamarin Controls with Blazor Mobile Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://medium.com/@marcodesanctis2/role-based-security-with-blazor-and-identity-server-4-aba12da70049,Role-based security with Blazor and Identity Server 4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=bNrym4PqhgM,Components in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.udemy.com/course/programming-in-blazor-aspnet-core,Programming in Blazor - ASP.NET Core 3.1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://gridblazor.azurewebsites.net,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=k2twnElIFzw,Deploying Blazor WebAssembly to GitHub Pages,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorboilerplate.com,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/04/09/blazorwebview.aspx,.NET 6 Gets Blazor WebView Controls for WPF, WinForms,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://ant-design-blazor.github.io/,Docs as Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=vdvIz5QxFFU,Write OnClick Events in C# using Blazor and Eliminate JavaScript,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.claudiobernasconi.ch/2020/09/29/blazor-vs-silverlight-is-blazor-silverlight-2/,Blazor vs. Silverlight: Is Blazor Silverlight 2.0?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=9RNWAF9SKO0,Blazor WebAssembly AOT on Azure Static Web Apps in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/blazor-wasm-in-razor-pages,Render Blazor WASM components in your existing MVC/Razor Pages applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/tetris-in-blazor-webassembly/,Tetris in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorextensions.z6.web.core.windows.net/,Demo app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://stefh.github.io/Blazor.DownloadFileFast/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.codemag.com/article/2111092,Blazor Hybrid Web Apps with .NET MAUI,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Yj4DJINTwjs,Blazor WebAssembly, Azure AD B2C and Azure SDKs with Jon Gallant,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://sandervandevelde.wordpress.com/2020/11/04/sending-iot-hub-telemetry-to-a-blazor-web-app/,Sending IoT Hub telemetry to a Blazor Web App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://flappyblazorbird.ctrl-alt-d.net,[Wasm Demo],https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=9YdxhhgJvrE,On .NET Live - Building Beautiful Blazor apps with Tailwind CSS,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://unhandledexceptionpodcast.com/posts/0019-blazor/,Blazor with Chris Sainty,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorct.azurewebsites.net/,Blazor Controls Toolkit,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://excubo-ag.github.io/Blazor.TreeViews/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jskeet.github.io/DemoCode/Drums/,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://get.dot.net/6,.NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=YvvKXRedVs0,Developing interactive websites with C# using Blazor with Jimmy Engstrom,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://blog.ppedv.de/?tag=Blazor,Insights from the oracle,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://medium.com/@marcodesanctis2/securing-blazor-webassembly-with-identity-server-4-ee44aa1687ef,previous article,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://chanan.github.io/BlazorStrap/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/blazor-client-server-validation-with-fluentvalidation/,Custom validation logic on client AND server with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swimburger.net/blog/dotnet/how-to-deploy-blazor-webassembly-to-cloudflare-pages,How to deploy Blazor WebAssembly to Cloudflare,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/razor-pages-components/,Razor Pages has Components too don't you know,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=P7y-OxeSkZ8,Building Modern Applications with GraphQL and Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swimburger.net/blog/dotnet/pushing-ui-changes-from-blazor-server-to-browser-on-server-raised-events,Pushing UI changes from Blazor Server to browser on server raised events,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/leaving-silverlight-converting-to-the-web,Leaving Silverlight: Converting to the Web,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=8So3TXW2QKU,Testing Blazor Apps & Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.pluralsight.com/courses/creating-blazor-components,Creating Blazor Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://blazor-university.com/,Blazor University,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=VaX73p3JfV4&feature=youtu.be,Blazor Train: Data Access,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor,Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://baseballmlworkbench-v1.azurewebsites.net,Live demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://timemage.azurewebsites.net/intervaltimers,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorgrid.z6.web.core.windows.net/,Demo & documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=_SV2u8vp4Xo,Blazor Train: Modal Dialogs with Chris Sainty,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=gYQxBHjRNr0&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=3,.NET Conf 2021 Keynote,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://focus.dotnetconf.net,dotnetconf.net,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.jetbrains.com/dotnet/2021/07/27/blazor-debugging-improvements-in-rider-2021-2/,Blazor Debugging Improvements in Rider 2021.2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/azure/active-directory/develop/tutorial-blazor-server,Create a Blazor Server app that uses the Microsoft identity platform for authentication,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor.loresoft.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://learn-blazor.com/,Learn Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aka.ms/blazor-ebook,Download PDF,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnet.microsoft.com/live,.NET Community Standup,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/videos/816560574,Twitch,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=lzVZSKcC-oY&list=PLdo4fOcmZ0oWiLr2zVqfdsJjttPsBi-q4&index=1,Blazor & Comet for Native Mobile Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/streaming-an-http-response-in-blazor-webassembly.htm,Streaming an HTTP response in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazing-chat.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/,ASP.NET Core updates in .NET 6 Preview 3,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.roundthecode.com/dotnet/setup-your-blazor-wasm-and-asp-net-core-web-api-in-azure-devops,Article,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://hlaueriksson.github.io/GEmojiSharp/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21,ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://codingafterwork.com/2021/03/22/episode-57-react-writing-a-book-and-blazor-with-carl-rippon/,React, writing a book, and Blazor with Carl Rippon,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://flappymmo.ctrl-alt-d.net/,[Multiplayer Demo],https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=gnYIqYNW54I,Trailblazor: Building Dynamic Applications with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=12XAjpuwByo,The .NET Docs Show - .NET open-source projects,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=t_UyOXydnsQ,BlazorDay 2021, full video,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.pluralsight.com/courses/authentication-authorization-blazor-applications,Authentication and Authorization in Blazor Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://adaptivecardsblazor.com/,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=6T-l-lt28rs&list=PL4WEkbdagHIRjjBJvK_TSfddJSvEEAtnt&index=11&t=0s,Blazor WebAssembly : Open-source Project - EP10,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://edcharbeneau.com/blazor-layout-components/,Blazor Layout Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://13.48.11.221/BlazorDungeon,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/07/16/vs-razor-editor.aspx,Visual Studio Gets Experimental Razor Editor for Blazor, Other Projects,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=UtmAlX6U29k&feature=youtu.be,Blazor WebAssembly : Virtualize Component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=5NqXBFn9v20&t=15636s,Steve Sanderson at the NDC Manchester 2021,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://daveabrock.com/2021/01/26/signed-http-exchanges-cdn-cache,Signed HTTP Exchanges: A path for Blazor WebAssembly instant runtime loading,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://damienbod.com/2020/11/02/implement-a-blazor-full-text-search-using-azure-cognitive-search/,Implement a Blazor full text search using Azure Cognitive Search,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=ecaiqrU_67k&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=41,Blazor Azure B2C Authentication and Authorization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/tetris-in-blazor-part-2-cells-the-grid-and-the-game-state/,Part 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.matblazor.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.daveabrock.com/2021/07/18/dotnet-stacks-57/,The .NET Stacks #57: Taking a look at Blazor Error Boundaries,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://eilevhagen.medium.com/overriding-components-in-blazor-616b6d59c22f,Overriding components in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.davideguida.com/write-a-wordpress-blog-with-blazor/,Write a WordPress blog with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnet.microsoft.com/platform/community/standup,ASP.NET Community Standup,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/conways-game-of-life-with-emojis-in-csharp-and-blazor-webassembly/,Conway's Game of Life (With Emojis!) in C# and Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=JSauWc5rauA,How to Create RDLC Report in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor-demo.github.io/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/10/15/aspnet-update.aspx,As .NET 6 Nears GA, Blazor WebAssembly Can Now Use Native Dependencies,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-8/,ASP.NET Core updates in .NET 5 Preview 8,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=8Ac2QMdusrs,The .NET Docs Show - Micro frontends with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Yp1WmfjadMw&feature=youtu.be,Blazor Train: Daniel Roth on .NET 5 Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://adambajguz.github.io/Typin/,Live demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=fHzIWOfmqzg&feature=youtu.be,Blazor Train: Synchronicity 5.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-azure-static-web-apps,How to deploy Blazor WASM & Azure Functions to Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=GoRueoEv8NI,Learn Live - Build a web app with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=npff2NjVXEE,Microfrontends with Blazor: Welcome to the Party!,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.jeremylikness.com/blog/run-efcore-queries-against-sql-from-blazor-webassembly/,Run EF Core Queries on SQL Server From Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=5VSUX6w5P8g,Blazor WebAssembly : Creating Chat Application Using SignalR,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.fast.design/,Samples & demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://panoramicdata.github.io/PanoramicData.Blazor,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://yagudaev.com/posts/dot-net-blazor-for-rails-developers,.NET Blazor for Rails Developers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://msft.it/6013k70fv,https://msft.it/6013k70fv,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorrepl.com,https://blazorrepl.com,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aceik.com.au/2020/12/18/sitecore-power-with-asp-net-core-and-why-its-important/,Sitecore Power with ASP.NET Core and why it’s important,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/new-experimental-razor-editor-for-visual-studio/,New experimental Razor editor for Visual Studio,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://slides.com/michaelingmarstaib/developer-week-building-modern-applications-with-graphql-and-blazor,Slides,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://andrewlock.net/enabling-prerendering-for-blazor-webassembly-apps/,Enabling prerendering for Blazor WebAssembly apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://tewr.github.io/BlazorWorker,Live demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/,ASP.NET Core updates in .NET 6 Preview 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=7ve7nqk7kMI&feature=youtu.be,Blazor Train: Creating a Generic Data Manager,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=To-GSKOac10&feature=youtu.be,Blazor WebAssembly : Using HttpClient in MVVM,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=tCXYUcW-VBo,Blazor: Our first impressions with Andrew Lock,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=__F3tgqZqsM,Blazor vs React/Angular,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-2/,ASP.NET Core updates in .NET 6 Release Candidate 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.pluralsight.com/courses/getting-started-blazor,Blazor: Getting Started,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2021/03/24/Blazor-Excluding-Files-from-PWA-Asset-Cache.html,Excluding Files from PWA Asset Cache,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=73qnhE9pW0E&feature=youtu.be,Blazor Train: Adding Azure AD B2C to an existing app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://benjaminvertonghen.medium.com/blazor-fast-webcomponents-4bae55d005ad,Blazor FAST web components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.dotnetrocks.com/?show=1730,.NET 6 with Daniel Roth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/tetris-in-blazor-part-3-tetrominos/,Part 3,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=vRbMU8IanCQ,Blazor ListView Component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/07/28/EventHorizon-Blazor-Interop.html,Project - EventHorizon Blazor Interop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://bootstrapdemo.blazorise.com/,Bootstrap Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/anchor-navigation-in-a-blazor-application.htm,Anchor navigation in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=hP2ZjtXpWyk,Web Wednesday: Recapping .NET Conf with Jon Galloway,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/jioophoenix/consuming-graphql-api-in-asp-net-core-part-2-55ga,Part2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/,Announcing .NET 6 Preview 1,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/azure/search/,Azure Cognitive Search,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://marketplace.visualstudio.com/items?itemName=ScottSauber.blazorsnippets,Blazor Snippets Visual Studio Code extension,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.pscp.tv/w/1LyxBdodYqyGN,Building a face recognition app with #Blazor and Azure Cognitive Services,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=bxpSa0ZmwtY&feature=youtu.be,Blazor WebAssembly : Dependency Injection,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jspuij.github.io/Cortex.Net.Docs/pages/index.html,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://mdeclerk.github.io/SoccerPong,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=QcPq9xQFJio&feature=youtu.be,Telerik Reporting and Testing R3 2020 Release,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://BlazorDateRangePicker.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=hOf9V5JfttM,Blazor Server with Azure AD authentication and MS Graph,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=lVWQkpcVEWQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2,ASP.NET Community Standup - Blazor Native Interop with SkiaSharp,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=0QgIZLJgfVg&feature=youtu.be,Blazor Train: Options for Mobile Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Dr8L7zXxwLI&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO&index=17,Build cross-platform native apps with .NET MAUI and Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=5FN4Dzkj-M0,Upgrading to .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aka.ms/mobileblazorbindings,Mobile Blazor Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=5fbzxjUUKUM,Introduction to .NET MAUI Blazor | The Xamarin Show,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/en-us/learn/tv/,Learn TV,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=nlXax81b1UE,YouTube video,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://remibou.github.io/Track-GPS-with-Blazor-BrowserInterop/,Track Gps With Blazor Browserinterop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.twitch.tv/videos/809561739,Blazor: .NET 5 JavaScript interop modules revisited,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/03/19/aws-net-deploy.aspx,AWS Previews Deployment Tool for .NET Web Apps, Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://havit.blazor.eu,Interactive documentation & Demos,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://bulmademo.blazorise.com/,Bulma Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=_7pw_63BrLo,What's new in Blazor in .NET 6 with Daniel Roth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://edcharbeneau.com/Blazor-Component-Testing/,Blazor Component Testing,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=Mot8qAWEnj8,ASP.NET Community Standup - ASP.NET Core updates in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorwasm.github.io,Blazor WebAssembly Version demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorhelpwebsite.com/,Blazor Help Website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://marcodiniz.github.io/ABlazorPong/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/calling-public-methods-on-blazor-component-from-another-component.htm,Calling public methods on Blazor component from another component,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://daveabrock.com/2020/07/05/dotnet-stacks-6,The .NET Stacks #6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/07/15/aspnet-core-preview-6.aspx,What's New for Blazor/ASP.NET Core in .NET 6 Preview 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.thinktecture.com/en/webassembly/with-dotnet/,WebAssembly Beyond the Browser: Running WASM in .NET Core Applications With WASI & Wasmtime,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blazor-components,Syncfusion Blazor UI Components,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://chanan.github.io/BlazorPrettyCode/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.youtube.com/watch?v=eUk8cpQv9Eg&t=227s,Visual Studio 2022 Preview 2 - Overview,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://gorillalogic.com/blog/four-micro-frontend-architecture-types-you-can-implement-with-blazor/,Four Micro-Frontend Architecture yypes you can implement with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/how-blazor-performs-against-other-frameworks,How Blazor performs against other Frameworks,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/tetris-in-blazor-part-4-displaying-the-grid-and-a-falling-tetromino/,Part 4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://antdesigndemo.blazorise.com/,AntDesign Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://stackoverflow.com/questions/tagged/blazor,Stack Overflow,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://daveabrock.com/2021/02/18/copy-to-clipboard-markdown-editor,Build a Blazor 'Copy to Clipboard' component with a Markdown editor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.stevensanderson.com/2019/11/01/exploring-lighter-alternatives-to-electron-for-hosting-a-blazor-desktop-app/,Exploring lighter alternatives to Electron for hosting a Blazor desktop app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://picat-lang.org/,Picat logic programming language,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://andrewlock.net/prerending-a-blazor-webassembly-app-without-an-asp-net-core-host-app/,Prerending a Blazor WebAssembly app to static files, without an ASP.NET Core host app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://pwawasm.github.io,Blazor WebAssembly Version PWA Mode demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://mathisloge.github.io/FlatpickrBlazorExample/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://medium.com/@waelkdouh/securing-a-blazor-webassembly-application-with-azure-active-directory-7822148f332b,Securing a Blazor WebAssembly application with Azure Active Directory,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/07/28/Blazor-Interop-Generation-Tool-Release.html,Blazor Interop Generation Tool Release,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blazor-ui,Telerik UI for Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dworthen.github.io/BlazorRealm/docs/quickstart.html,BlazorRealm,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://wafflegen.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://brianlagunas.com/using-npm-packages-in-blazor/,Using NPM Packages in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/mizrael/blazor-and-dragons-how-to-consume-grpc-web-from-blazor-5d59,Blazor and Dragons: How to consume gRPC-web from Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/css-isolation-in-blazor.htm,CSS isolation in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/10-blazor-features-you-probably-didnt-know,10 Blazor Features You Probably Didn't Know,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://mikaelkoskinen.net/post/blazor-animate-animations-manual-onclick,Blazor.Animate adds support for running animations manually,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/09/05/Blazor-Get-Access-Token-for-User.html,Blazor Wasm - Get Access Token for User,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/2021/03/19/Display-a-Docker-Build-Version.html,Display a Docker Build Version,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aka.ms/blazorweather,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.mistergoodcat.com/post/blazor-server-apps-in-mvc-subfolders,Blazor Server apps in MVC subfolders,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api,Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://andrzejolszak.github.io/picat-blazor-monaco-ide/PicatBlazorMonaco/publish/wwwroot/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/authentication-in-blazor-webassembly-hosted-applications/,Authentication in Blazor WebAssembly Hosted Applications,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://materialdemo.blazorise.com/,Material Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://lupblazortodo.z20.web.core.windows.net/,Blazor TODO app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devchat.tv/adventures-in-dotnet/net-059-blazor-keeps-getting-better-with-daniel-roth/,Blazor Keeps Getting Better with Daniel Roth,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://auth0.com/blog/securing-blazor-webassembly-apps/,Securing Blazor WebAssembly Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://medium.com/@benjaminvertonghen/printing-pdfs-in-blazor-8dff559101f9,Printing PDF’s in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/rineshpk/editform-forms-and-validation-in-blazor-54h7,EditForm - forms and validation in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dyh1213.github.io/PokerOddsPro.io/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-6/,ASP.NET Core updates in .NET 6 Preview 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://www.thinktecture.com/de/blazor/blazor-components-lifecycle-is-not-always-straightforward,Blazor Components Deep Dive - Lifecycle Is Not Always Straightforward,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://www.nuget.org/packages/WebWindow,WebWindow,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.webassemblyman.com/,WebAssemblyMan,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://wtmdoc.walkingtec.cn,Website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/blackjack-in-blazor-part-1-rules-and-modeling-the-game/,Blackjack in Blazor Part 1 - Rules and Modeling the Game,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/tetris-in-blazor-part-5-controls-upcoming-tetrominos-and-clearing-rows/,Part 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://barcoderesource.com/blazorbarcode.shtml,Blazor BarCode,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/blazor-webassembly-httpclient/,Blazor WebAssembly HttpClient – Consuming Web API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.csharpacademy.com/courseinfo/2ccff0ac-4d3e-4d25-9368-6c1474640de5,Blazor In-Depth Workshop (Blaze Invaders),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://startblazoring.com,Start Blazoring,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/07/28/Project-EventHorizon-Blazor-TypeScript-Interop-Generator.html,Project - EventHorizon Blazor TypeScript Interop Generator,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://martendb.io/,Marten DB,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://helpimstuckinatimeloop.com/time,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/09/05/Blazor-Page-Animated-Transitions.html,Blazor - Page Animated Transitions,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.blazorfluentui.net/,Client-side demo (WebAssembly),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aka.ms/blazorelectron,Blazor + Electron,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/blazor-wasm-prerendering-missing-http-client/,Prerendering your Blazor WASM application with .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://daveabrock.com/2020/09/10/blazor-css-isolation,Use CSS isolation in your Blazor projects,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/blazor-on-desktop,Blazor on Desktop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://phrase.com/blog/posts/localizing-error-messages-blazor-webassembly-forms/,How to Localize Error Messages for Blazor WebAssembly Forms,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://playground.nethereum.com/,http://playground.nethereum.com/,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorise.com/,Blazorise,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://darnton.co.nz/2020/07/13/cors-proxy-for-client-side-blazor/,How to Build a CORS Proxy for Client-side Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://azuredevopspodcast.clear-measure.com/michael-washington-on-blazor-in-net-6-episode-168,Michael Washington on Blazor in .NET 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://jonhilton.net/responsive-blazor-navbar/,Make a responsive Navbar with Blazor and Tailwind?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/aspnet/core/blazor,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://exceptionnotfound.net/tetris-in-blazor-part-6-scoring-levels-music-and-other-features/,Part 6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.thinktecture.com/en/blazor/webassembly-dynamic-template-engine-with-razor,Blazor WebAssembly - Unleash The Power Of Dynamic Template-Based UIs With Razor Engine,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/blazor-tailwind-dark-mode-local-storage/,Persisting your users preferences using Blazor and Local Storage,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/madhust/blazor-in-depth-create-blazor-component-without-lifecycle-methods-2786,Blazor in depth — Create Blazor component without Lifecycle methods,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/obs-revealjs-greenscreen,Making Scott Hanselman's Powerpoint Greenscreen trick work with RevealJS via Blazor Server,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/exploring-blazor-mobile-bindings,Exploring Blazor Mobile Bindings,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.ndepend.com/blazor-internals-you-need-to-know/,Blazor Internals you need to know,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor.net,official Blazor website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://nahidfa.com/posts/blazor-webassembly-authentication-and-authorization-with-identityserver4/,Blazor WebAssembly authentication and authorization with IdentityServer4,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazeofcode.com/,Blaze of Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/10/08/aspnet-core-net-6.aspx,For ASP.NET Core in .NET 6, Devs want AOT Compilation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aka.ms/webwindow,Blazor + WebWindow,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://nu-codyanhorn-tech.azurewebsites.net/blog/blazor-anchor-tag-scroll-to,Blazor Anchor Tag Scroll To,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.mergeconflict.fm/280,.NET 6 and Visual Studio 2022 are here,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blazor-components/blazor-datagrid,Data Grid,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codeblog.jonskeet.uk/2020/07/12/v-drum-explorer-blazor-and-the-web-midi-api/,V-Drum Explorer: Blazor and the Web MIDI API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnetcore.show/episode-67-blazor-in-action-with-chris-sainty/,Blazor in Action with Chris Sainty,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/11/16/vs-mac-update.aspx,Visual Studio 2019 for Mac v8.8 Adds Blazor WebAssembly Debugging,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://realworld.io,RealWorld,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://azuredevopspodcast.clear-measure.com/eilon-lipton-on-blazor-desktop-episode-166,Eilon Lipton on Blazor Desktop,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/optimizing-js-interop-in-a-blazor-webassembly-application.htm,Optimizing JS Interop in a Blazor WebAssembly application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/rineshpk/blazor-server-crud-app-using-visual-studio-code-2b2g,Blazor Server CRUD App Using Visual Studio Code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/09/03/blazor-grpc-docs.aspx,Microsoft offers new documentation for Blazor and gRPC in ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorfluentui.azurewebsites.net/,Server-side demo (SignalR),https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.mistergoodcat.com/post/thoughts-on-microsoft-and-blazor,Thoughts on Microsoft, and Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://mikaberglund.com/microsoft-teams-app-with-blazor-made-easy-using-blazorade-teams/,Microsoft Teams App With Blazor Made Easy Using Blazorade Teams,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor-dialog-demo.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blogs/post/deploy-blazor-application-in-azure-app-service.aspx,How to Deploy a Blazor Application in Azure App Service,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://channel9.msdn.com/Events/Build/2020/BOD104,Modern Web UI with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.microsoft.com/net/download/dotnet-core,.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.w3.org/TR/webmidi/,Web MIDI API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.dotnetrocks.com/default.aspx?ShowNum=1719,.NET 5 with Scott Hunter,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/11/12/blazor-speed.aspx,Blazor and ASP.NET Core Get Faster in .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/hybrid-blazor-mobile-blazor-bindings-july-update/,Hybrid Blazor apps in the Mobile Blazor Bindings July update,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/query-strings-blazor-webassembly/,How to Use Query Strings in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/,Blazor and Razor Components in a nutshell,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/how-to-add-grpc-to-your-blazor-app,How to Add gRPC to Your Blazor App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus,Razor+ Visual Studio Code extension,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://wellsb.com/csharp/xamarin/xamarin-blazor-mobile-button-event-handlers/,Xamarin Blazor Mobile Button Event Handlers,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://helix.sitecore.net/,Helix,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/07/27/blazor-targets-net-5.aspx,Blazor WebAssembly Targets .NET 5 in Latest ASP.NET Core Update,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/,Announcing ASP.NET Core in .NET 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://nodogmablog.bryanhogan.net/2020/12/polly-and-blazor-part-1-simple-wait-and-retry/,Polly and Blazor, Part 1 – Simple Wait and Retry,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/,Custom deployment layout for Blazor WebAssembly apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2020/09/08/blazor-pwa-local-storage.aspx,Working with Local Storage in a Blazor Progressive Web App,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blazor-components/blazor-charts,Charts,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/06/29/mlnet-jun21.aspx,ML.NET Now Works on ARM Devices and Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/dotnet/the-path-to-net-5-and-blazor-webassembly-with-some-fun-sprinkled-in/,The path to .NET 5 and Blazor WebAssembly with some fun sprinkled in,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/retrieving-data-as-you-need-it-telerik-ui-for-blazor-datagrid,Retrieving Data "As You Need It" with the Telerik UI for Blazor DataGrid,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/fr-fr/mobile-blazor-bindings/,Documentation,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.roundthecode.com/dotnet/blazor/why-blazor-wasm-is-the-best-choice-for-api-integration,Why Blazor Wasm is the Best Choice for API Integration,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://mikaelkoskinen.net/post/plugin-framework-dotnet-core-blazor-nuget-roslyn,Introducing Plugin Framework 1.0.0 – Plugins for .NET apps including Blazor and ASP.NET Core with built-in support for Nuget,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
-https://umbraco.com/products/umbraco-heartcore/,Umbraco Heartcore,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/01/06/blazor-lists.aspx,Displaying lists efficiently in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.nuget.org/packages/WebWindow,WebWindow,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.hanselman.com/blog/BlazorWebAssemblyonAzureStaticWebApps.aspx,Blazor WebAssembly on Azure Static Web Apps,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/aspnet/core/,Introduction to ASP.NET Core,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://devapps.be/podcast/blazor-webassembly/,DevApps.be's podcast #44,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://chrissainty.com/building-a-simple-tooltip-component-for-blazor-in-under-10-lines-of-code/,Building a simple tooltip component for Blazor in under 10 lines of code,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://khalidabuhakmeh.com/blazor-javascript-isolation-modules-and-dynamic-csharp,Blazor JavaScript Isolation, Modules, and Dynamic C#,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/03/17/blazor-rpsls.aspx,.NET 5 Blazor Powers 'Rock, Paper, Scissors, Lizard, Spock' Game,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.roundthecode.com/dotnet/blazor/blazor-updates-dotnet-6-visual-studio-2022,Blazor updates for .NET 6 using Visual Studio 2022,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://platform.uno/blog/blazor-webassembly-client-side-with-aot-and-skiasharp/,Blazor WebAssembly (client-side) with AOT and SkiaSharp,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor-conduit.netlify.app/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.skillshare.com/site/join?teacherRef=102575464&t=Blazor-on-ASP.NET-Core-3.0&sku=1662883580,Blazor on ASP.NET Core 3.0,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazjobboard.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
 https://visualstudiomagazine.com/articles/2020/08/03/blazor-pwa.aspx,Creating a Progressive Web App with Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-8/,Announcing .NET 5.0 Preview 8,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://umbraco.com/products/umbraco-heartcore/,Umbraco Heartcore,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/dotnet/why-build-single-page-apps-in-blazor-103m,Why build Single Page Apps in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/unified-ui-mobile-blazor-bindings-preview-5/,Unified Blazor UI in the Mobile Blazor Bindings Preview 5,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/aspnet/core/release-notes/aspnetcore-5.0,ASP.NET Core in .NET 5 release notes,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/aspnet/core/blazor/get-started,Blazor Get Started,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/,Build a web app with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2020/08/25/Blazor-Client_Server-Dynamic-Scripting.html,Client/Server Dynamic Scripting,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://jonhilton.net/when-does-blazor-render-your-ui,When does Blazor decide to render your UI?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://diegogiacomelli.com.br/arc-8-devlog-2/,ARC-8: devlog #2 - Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.linkedin.com/learning/blazor-first-look,Blazor First Look on LinkedIn Learning,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://visualstudiomagazine.com/articles/2021/04/29/oqtane-update.aspx,Modular Blazor App Framework Oqtane Boosts Templates,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor-aot.platform.uno/,Live sample,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://acblog.github.io,GitHub Pages Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dev.to/j_sakamoto/implement-the-download-file-feature-on-a-blazor-webassembly-app-2f8p,Implement the "download file" feature on a Blazor WebAssembly app,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://developer.nexmo.com/messaging/sms/overview,Vonage SMS API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/don-t-freeze-ui-while-executing-cpu-intensive-work-in-blazor-webassembly.htm,How to prevent the UI from freezing while executing CPU intensive work in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://aws.amazon.com/fr/blogs/developer/run-blazor-based-net-web-applications-on-aws-serverless/,Run Blazor-based .NET Web applications on AWS Serverless,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.codeproject.com/Articles/5287009/Blazor-WASM-and-Server-in-a-Single-Project-running,Blazor WASM and Server in a Single Project Running on a Single Site,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorgames.net/,blazorgames.net,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices,Blazor WebAssembly performance best practices,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://channel9.msdn.com/Series/Beginners-Series-to-Blazor,Channel9,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://slorello.com/posts/signalr-without-javascript-using-blazor-webassembly,Blog post,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/sands-of-maui-issue-6,Sands of MAUI: Issue #6,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/how-to-pass-arguments-to-your-onclick-functions-blazor,How to Pass Arguments to Your onclick Functions in Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor-context-menu-demo.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://edcharbeneau.com/2021-04-24-setting-up-sass-with-blazor/,Setting Up Sass with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/blogs/how-to-work-with-client-side-blazor,How to Work With Client-Side Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blazor-components/blazor-scheduler,Scheduler,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.learmoreseekmore.com/2020/11/blazorwasm-localization.html,A Localization sample using Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://themesof.net/,themesof.net,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://codyanhorn.tech/blog/blazor/2021/04/24/Blazor-IntersectionObserver-WebApi.html,IntersectionObserver WebApi,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://code-maze.com/custom-validation-in-blazor-webassembly/,Custom Validation in Blazor WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly,Blazor WebAssembly Succinctly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://plbonneville.com/blog/running-a-console-application-directly-in-your-browser/,Running a console application directly in your browser,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://proud-coast-03b6fa410.azurestaticapps.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blogs/post/bunit-for-blazor-and-how-to-integrate-it-in-azure-pipeline.aspx,bUnit for Blazor and How to Integrate it in Azure Pipeline,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.thinktecture.com/en/blazor/webassembly-changing-log-level-at-runtime,Blazor WebAssembly - Changing The Log Level At Runtime,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://brianlagunas.com/the-first-blazor-dock-manager/,The First Blazor Dock Manager,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.meziantou.net/dynamically-setting-the-page-title-in-a-blazor-application.htm,Dynamically setting the page title in a Blazor application,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-release-candidate-2/,ASP.NET Core updates in .NET 5 Release Candidate 2,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://excubo-ag.github.io/Blazor.Canvas/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API,Intersection Observer API,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.mistermagoo.dev/blazor-and-media-events-hard-to-handle-ckdup6yf1000mids1f36n6j8q,Blazor and Media events - Hard to handle?,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://pablofrommars.github.io/,Website,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-7/,ASP.NET Core Updates in .NET 5 Preview 7,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blazor-components/blazor-diagram,Diagram,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://docs.microsoft.com/aspnet/core/blazor/components/virtualization,component virtualization,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/ebooks/blazor-succinctly,Blazor Succinctly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blog.ndepend.com/architecture-of-a-c-game-rendered-with-blazor-xamarin-uwp-wpf-and-winforms/,Architecture of a C# game rendered with Blazor, Xamarin, UWP, WPF, and Winforms,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook,Blazor, A Beginners Guide,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://atifaziz.github.io/CSharpMinifierDemo/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://developer.microsoft.com/microsoft-365/blogs/how-to-build-a-blazor-web-app-with-azure-active-directory-authentication-and-microsoft-graph/,How to build a Blazor web app with Azure Active Directory authentication and Microsoft Graph,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazorpongwasm.azurewebsites.net/,Wasm Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+http://planningpoker.duracellko.net,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://ysflghou.github.io/BlazorTicTacToe/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://store.lhotka.net/using-csla-5-blazor-and-webassembly,Using CSLA 5: Blazor and WebAssembly,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://lsvhome.github.io/regex-tester/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H,An Introduction to Building Applications with Blazor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://www.syncfusion.com/blazor-components/blazor-word-processor,Document Editor,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://blazor.syncfusion.com/demos/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://gray-glacier-0cb9f5303.azurestaticapps.net/,Demo AzureStaticWeb,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://dotnet-regex.com/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor
+https://plotly-blazor.azurewebsites.net/,Demo,https://github.com/AdrienTorris/awesome-blazor#readme,Blazor

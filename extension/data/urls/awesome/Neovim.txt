@@ -1,0 +1,8 @@
+https://neovim.io/,Neovim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+http://dinvim.com/,DinVim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://leanprover.github.io/,Lean Theorem Prover,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/yorickpeterse/nvim-pqf,gitlab.com/yorickpeterse/nvim-pqf,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/yorickpeterse/nvim-window,gitlab.com/yorickpeterse/nvim-window,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://vimawesome.com/,Vimawesome,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://vimawesome.com/?q=tag:neovim,neovim tag,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://neovimcraft.com,Neovimcraft,https://github.com/rockerBOO/awesome-neovim#readme,Neovim

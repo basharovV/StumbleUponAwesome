@@ -1,45 +1,43 @@
 https://www.youtube.com/watch?v=aoixyCNWg5k,Ripple Labs: Building the Internet of Money,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://ripple.com/,Ripple Website,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.ripplewise.com/,RippleWise,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://ripple.com/insights/,Blog,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://xrpayments.co,xrpayments.co,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://xrptext.com,XRP Text,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.facebook.com/ripplepay/,Facebook,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c,Build a VueJS WebApp connecting to the Ripple Ledger,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.reddit.com/r/ripplers/,Reddit 'ripplers',https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://fudbingo.com,Most common XRP misconceptions debunked,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.bitstamp.net/,Bitstamp,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://snapswap.eu/,SnapSwap EU,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.rebopay.com/,RippleCN,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.ripplelounge.com/,Ripple Lounge,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.weibo.com/RippleLabs/,Weibo,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://xrptipbot.com,XRP Tip Bot for Reddit, Twitter & Discord,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://codius.org/,Codius Website,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://codiushosts.com/,Codius Hosts,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://ripple.com/wiki/Main_Page,Wiki,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.ripplechina.net/,RippleChina,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://gatehub.net/live,Ripple Live (GateHub),https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.kraken.com/,Kraken,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://ripple.com/insights/,Blog,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.reddit.com/r/ripplers/,Reddit 'ripplers',https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://ledger.exposed,Rich list, ledger stats & XRP distribution,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 http://xrptools.com/,XRPTools,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.therocktrading.com/,The Rock Trading,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.facebook.com/ripplepay/,Facebook,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 http://xrpvalue.com/,XRPValue,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://wisepass.com/,WisePass,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://gatehub.net/,GateHub,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://dollero.com/,Dollero,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://ripple.com/build/websocket-tool/,Ripple API Tool,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0,Steven Zeiler's Ripple coding lessons,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html,Magento plugin,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://xrpayments.co,xrpayments.co,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://ripplefox.com/,RippleFox,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.ripplebusiness.org/,International Ripple Business Association,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://en.wikipedia.org/wiki/Ripple_(payment_protocol),Wikipedia,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://vimeo.com/73887321,"Ripple, The future of payments" video,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://ripple.com/build/ripple-info-tool/,Ripple Info Tool,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://dollero.com/,Dollero,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://xrptext.com,XRP Text,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c,Build a VueJS WebApp connecting to the Ripple Ledger,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.ripplewise.com/,RippleWise,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://xagate.com,Ripple Union,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://fudbingo.com,Most common XRP misconceptions debunked,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://www.bitstamp.net/,Bitstamp,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 http://saldo.mx/,saldo.mx,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://hub.docker.com/r/xrptipbot/rippled/,Docker hub,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://ripplefederation.org/,Ripple Federation,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://whatisripple.info/,WhatisRipple.info,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://www.ripplelounge.com/,Ripple Lounge,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://hub.docker.com/r/xrptipbot/rippledvalidator/,Docker hub,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77,Tutorial,https://github.com/vhpoet/awesome-ripple#readme,Ripple
-https://www.npmjs.com/package/rippled-ws-client,rippled-ws-client,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.therocktrading.com/,The Rock Trading,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://www.ripplebusiness.org/,International Ripple Business Association,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://wisepass.com/,WisePass,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://xrptipbot.com,XRP Tip Bot for Reddit, Twitter & Discord,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://codius.org/,Codius Website,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://whatisripple.info/,WhatisRipple.info,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://snapswap.eu/,SnapSwap EU,https://github.com/vhpoet/awesome-ripple#readme,Ripple
 https://www.reddit.com/r/ripple/,Reddit 'ripple',https://github.com/vhpoet/awesome-ripple#readme,Ripple
-http://www.nofiatcoin.com/,NoFiatCoin,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://www.weibo.com/RippleLabs/,Weibo,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+http://codiushosts.com/,Codius Hosts,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://ripple.com/wiki/Main_Page,Wiki,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77,Tutorial,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.npmjs.com/package/xrpl-client,xrpl-client,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0,Steven Zeiler's Ripple coding lessons,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://en.wikipedia.org/wiki/Ripple_(payment_protocol),Wikipedia,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://vimeo.com/73887321,"Ripple, The future of payments" video,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.npmjs.com/package/xrpl-accountlib,xrpl-accountlib,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://ripple.com/build/websocket-tool/,Ripple API Tool,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://ripple.com/build/ripple-info-tool/,Ripple Info Tool,https://github.com/vhpoet/awesome-ripple#readme,Ripple
+https://www.kraken.com/,Kraken,https://github.com/vhpoet/awesome-ripple#readme,Ripple

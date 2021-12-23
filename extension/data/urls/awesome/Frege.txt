@@ -1,13 +1,13 @@
 https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms,Frege vs. Scala,https://github.com/sfischer13/awesome-frege#readme,Frege
-https://jaxenter.de/frege-haskell-jvm-54617,JAXenter,https://github.com/sfischer13/awesome-frege#readme,Frege
 http://www.frege-lang.org/doc/Language.pdf,Language Reference,https://github.com/sfischer13/awesome-frege#readme,Frege
+https://jaxenter.de/frege-haskell-jvm-54617,JAXenter,https://github.com/sfischer13/awesome-frege#readme,Frege
 http://www.frege-lang.org/doc/fregedoc.html,Standard Library API,https://github.com/sfischer13/awesome-frege#readme,Frege
-http://www.frege-lang.org/doc/index.html,Java Runtime API,https://github.com/sfischer13/awesome-frege#readme,Frege
 https://www.gitbook.com/book/dierk/fregegoodness/details,Frege Goodness,https://github.com/sfischer13/awesome-frege#readme,Frege
+http://www.frege-lang.org/doc/index.html,Java Runtime API,https://github.com/sfischer13/awesome-frege#readme,Frege
 https://www.gitbook.com/book/ingo60/frege-quick-reference/details,Frege Quick Reference,https://github.com/sfischer13/awesome-frege#readme,Frege
-https://gitter.im/Frege/frege,Gitter,https://github.com/sfischer13/awesome-frege#readme,Frege
 https://www.youtube.com/watch?v=1P1-HXNfFPc,Overview,https://github.com/sfischer13/awesome-frege#readme,Frege
 https://www.youtube.com/watch?v=o2qwNlVeyA4,Frege vs. Haskell,https://github.com/sfischer13/awesome-frege#readme,Frege
+https://gitter.im/Frege/frege,Gitter,https://github.com/sfischer13/awesome-frege#readme,Frege
 https://webchat.freenode.net/?channels=%23frege,IRC,https://github.com/sfischer13/awesome-frege#readme,Frege
 https://stackoverflow.com/questions/tagged/frege,Stack Overflow,https://github.com/sfischer13/awesome-frege#readme,Frege
 http://leiningen.org/,Leiningen,https://github.com/sfischer13/awesome-frege#readme,Frege
