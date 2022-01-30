@@ -436,7 +436,7 @@ chrome.runtime.onInstalled.addListener(function (details) {
   
   // Check for update
   if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
-    chrome.storage.local.set('show_update', true);
+    chrome.storage.local.set({'show_update': true});
   }
 
   chrome.contextMenus.removeAll(function () {

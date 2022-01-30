@@ -327,7 +327,7 @@ function showUpdateInfo() {
     icon.src = chrome.extension.getURL('images/icon_128.png');
 
     text = div('sax-info-text');
-    text.innerHTML = `<p id="sax-info-text-title">StumbleUponAwesome updated to 1.2.0!
+    text.innerHTML = `<p id="sax-info-text-title">StumbleUponAwesome updated to 1.2.2!
     </p>
     </br>
    
@@ -335,9 +335,10 @@ function showUpdateInfo() {
     In this update:
     </p>
     <p id="sax-info-text-body-smaller-white">
-    - Added 2,328 new URLs and 12 new topics including Theoretical Computer Science, Neovim, Youtubers, Robotic Tooling, WebXR, Veganism and more! 
-    </br>
-    - Cleanup of broken and outdated URLs. 
+    - 🐞 Fixed a crash on update </br>
+    - ⚠️ If your keyboard shortcut (Alt + Shift + S) stopped working, do this:</br>
+        --> On Chrome/Brave: Go to chrome://extensions/shortcuts and re-add the shortcut!</br>
+        --> On Firefox: Go to about:addons, then click on the ⚙️ -> Manage Extension Shortcuts and re-add the shortcut! 
     </p>
     </br>`;
 

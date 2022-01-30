@@ -1,6 +1,7 @@
 {
   "name": "StumbleUponAwesome",
-  "version": "1.2.0",
+  "manifest_version": 2,
+  "version": "1.2.2",
   "description": "An awesome internet discovery button. Like StumbleUpon, but for developers, tech and science lovers.",
   "background": {
     "scripts": [
@@ -48,6 +49,5 @@
         "linux": "Alt+Shift+S"
       }
     }
-  },
-  "manifest_version": 2
+  }
 }
