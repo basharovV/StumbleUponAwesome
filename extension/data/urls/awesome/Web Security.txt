@@ -341,3 +341,4 @@ https://skavans.ru/,skavans,https://github.com/qazbnm456/awesome-web-security#re
 https://blog.appsecco.com/@riyazwalikar,@riyazwalikar,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
 https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2,Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
 https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a,Piercing the Veil: Server Side Request Forgery to NIPRNet access,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://pentest-ground.com, A collection of vulnerable web apps for training.
