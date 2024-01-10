@@ -176,6 +176,7 @@ https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf,WCTF2019: Gyotaku Th
 https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce,$36k Google App Engine RCE,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
 https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/,AWS PENETRATION TESTING PART 2. S3, IAM, EC2,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
 https://buckets.grayhatwarfare.com/,grayhatwarfare,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
+https://openbuckets.io/,openbuckets,https://openbuckets.io,Web Security
 https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation,Automating local DTD discovery for XXE exploitation,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
 https://www.netsparker.com/blog/web-security/,Web Application Security Zone by Netsparker,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
 https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html,Introduction to OAuth 2.0 and OpenID Connect,https://github.com/qazbnm456/awesome-web-security#readme,Web Security
