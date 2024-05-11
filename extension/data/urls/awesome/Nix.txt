@@ -9,7 +9,7 @@ https://discord.gg/BMUCQx6,Discord - Nix/Nixos (Unofficial),https://github.com/n
 https://nixcloud.io/tour,Tour of Nix,https://github.com/nix-community/awesome-nix#readme,Nix
 https://discourse.nixos.org/,Discourse,https://github.com/nix-community/awesome-nix#readme,Nix
 https://nixcon.org/,NixCon,https://github.com/nix-community/awesome-nix#readme,Nix
-https://nixos.wiki,Wiki (Unofficial),https://github.com/nix-community/awesome-nix#readme,Nix
+https://wiki.nixos.org,Wiki (Official),https://github.com/nix-community/awesome-nix#readme,Nix
 https://search.nix.gsc.io,Hound,https://github.com/nix-community/awesome-nix#readme,Nix
 https://pkgs.on-nix.com/,Pkgs on Nix,https://github.com/nix-community/awesome-nix#readme,Nix
 https://weekly.nixos.org/,NixOS Weekly,https://github.com/nix-community/awesome-nix#readme,Nix
